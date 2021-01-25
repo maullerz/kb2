@@ -1,0 +1,15 @@
+{
+  "name": "Eve Tools Killboard",
+  "short_name": "Eve Tools Kb",
+  "description": "EveTools Killboard for Eve Online",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#181818",
+  "background_color": "#181818",
+  "display": "standalone"
+}

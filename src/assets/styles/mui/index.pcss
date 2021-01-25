@@ -1,0 +1,107 @@
+@import './button.pcss';
+@import './input.pcss';
+
+.MuiMenu-list {
+  /* to Show only 10 items (10 * 40px) in (Editable)Select */
+  overflow-y: auto;
+  max-height: 400px;
+}
+
+.light-theme .MuiFormLabel-root {
+  color: #0A2463;
+  opacity: 0.55;
+}
+
+.light-theme .MuiFormLabel-root.Mui-error {
+  color: #EB5757;
+  opacity: 1;
+}
+
+.MuiFormHelperText-contained {
+  margin: 0 16px;
+}
+
+.MuiFormHelperText-root {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  font-family: Graphik LC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 18px;
+  letter-spacing: 0.16px;
+  color: #FA928D;
+}
+
+.light-theme .MuiFormHelperText-root.Mui-error {
+  color: #EB5757;
+}
+
+
+.MuiTooltip-tooltip {
+  padding: 8px 12px;
+  background-color: #3E404C;
+  font-family: Graphik LC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 0.87);
+}
+.MuiTooltip-tooltip.MuiTooltip-tooltipArrow {
+  background-color: #73778C;
+  border-radius: 2px;
+  padding: 8px 12px;
+  font-family: Graphik LC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.16px;
+  white-space: pre-wrap;
+}
+.MuiTooltip-arrow {
+  color: #73778C;
+}
+
+.MuiAccordion-root {
+  background: none;
+}
+.MuiAccordion-root:before {
+  background-color: transparent;
+}
+.MuiAccordion-root.Mui-expanded {
+  margin: 0;
+}
+
+.MuiAccordionSummary-root {
+  padding: 0;
+  min-height: 0;
+  background: #454754;
+  border-radius: 4px;
+  margin: 1px 0 0;
+}
+.MuiAccordionSummary-root.Mui-expanded {
+  min-height: 0px;
+}
+
+.MuiAccordionSummary-content {
+  margin: 0;
+}
+.MuiAccordionSummary-content.Mui-expanded {
+  margin: 0;
+}
+
+.MuiAccordionDetails-root {
+  padding: 0;
+}
+
+.MuiPaper-elevation1 {
+  box-shadow: none;
+}
+
+.MuiAccordionSummary-expandIcon {
+  position: absolute;
+  right: 10px;
+}

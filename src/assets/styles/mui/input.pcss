@@ -1,0 +1,45 @@
+label.MuiInputLabel-filled {
+  transform: translate(16px, 17px);
+}
+
+label.MuiInputLabel-filled.MuiInputLabel-shrink {
+  transform: translate(17.4px, 7px);
+  font-family: Graphik LC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 18px;
+  letter-spacing: 0.16px;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.light-theme label.MuiInputLabel-filled {
+  color: #0A2463;
+  opacity: 0.55;
+}
+
+input.MuiInputBase-input {
+  height: 18px;
+  font-family: Graphik LC;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.16px;
+}
+
+/* overrides for WebKit autofill default styles */
+.light-theme input.MuiInputBase-input:-webkit-autofill {
+  -webkit-text-fill-color: #0A2463;
+  -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+  box-shadow: transparent 0px 0px 0px 1px inset !important;
+  transition: background-color 5000s ease-in-out 0s !important;
+  background: transparent !important;
+}
+
+li.MuiAutocomplete-option {
+  height: 40px;
+}
+li.MuiAutocomplete-option[data-focus="true"] {
+  background-color: rgba(115, 119, 140, 0.5);
+}
