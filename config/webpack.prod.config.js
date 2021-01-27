@@ -14,18 +14,23 @@ const rootDirectory = fs.realpathSync(process.cwd())
 const outputDir = path.resolve(rootDirectory, 'dist')
 const publicDir = path.resolve(rootDirectory, 'public')
 const clientDir = path.resolve(rootDirectory, 'src')
-const stylesDir = path.resolve(rootDirectory, 'src/assets/styles')
 const aliases = require(path.resolve(rootDirectory, 'config/aliases'))
+
+const { getModuleRules } = require('./webpack.rules')
 
 // for Sentry.io and similar tools set to true
 const BUILD_SOURCE_MAP = false
+const mode = 'production'
 
 module.exports = {
-  mode: 'production',
+  mode,
 
   target: 'web',
 
-  entry: path.resolve(clientDir, 'index.js'),
+  // entry: path.resolve(clientDir, 'index.js'),
+  entry: {
+    main: path.resolve(clientDir, 'index.js'),
+  },
 
   output: {
     path: outputDir,
@@ -53,6 +58,8 @@ module.exports = {
     extensions: ['.js', '.jsx', '.scss'],
   },
 
+  module: getModuleRules(mode),
+
   optimization: {
     minimize: true,
     emitOnErrors: true,
@@ -61,7 +68,7 @@ module.exports = {
     splitChunks: {
       cacheGroups: {
         uilib: {
-          test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
+          test: /[\\/]node_modules[\\/](@material-ui|date-fns|@date-io)[\\/]/,
           name: 'mui',
           chunks: 'all',
         },
@@ -73,7 +80,7 @@ module.exports = {
         commons: {
           test: /[\\/]node_modules[\\/]/,
           name: 'vendors',
-          chunks: 'all'
+          chunks: 'all',
         },
       },
     },
@@ -159,80 +166,6 @@ module.exports = {
       },
     }),
   ],
-
-  module: {
-    rules: [
-      {
-        test: /\.jsx?$/,
-        exclude: /node_modules/,
-        loader: 'babel-loader',
-        options: {
-          plugins: ['lodash'],
-          cacheDirectory: true,
-          cacheCompression: false,
-        },
-      },
-      {
-        test: /\.css$/,
-        include: /node_modules/,
-        use: [
-          MiniCssExtractPlugin.loader,
-          { loader: 'css-loader' },
-        ],
-      },
-
-      {
-        test: /\.pcss$/,
-        include: stylesDir,
-        use: [
-          MiniCssExtractPlugin.loader,
-          { loader: 'css-loader', options: { importLoaders: 1 } },
-          {
-            loader: 'postcss-loader',
-            options: {
-              postcssOptions: {
-                plugins: [
-                  ['postcss-import', {
-                    root: rootDirectory,
-                    path: stylesDir,
-                  }],
-                  ['postcss-flexbugs-fixes'],
-                  ['autoprefixer'],
-                  ['cssnano', { zindex: false }],
-                  // require('postcss-import')({
-                  //   root: rootDirectory,
-                  //   path: stylesDir,
-                  // }),
-                  // require('postcss-flexbugs-fixes'),
-                  // require('autoprefixer')(),
-                  // require('cssnano')({ zindex: false }),
-                ],
-              },
-            },
-          },
-        ],
-      },
-      // {
-      //   test: /\.(png|jpe?g|gif|woff|woff2|ttf|eot|ico)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-      //   use: ['url-loader?limit=5000&name=[name].[hash].[ext]?'],
-      // },
-      {
-        // Exclude `js` files to keep "css" loader working as it injects
-        // its runtime that would otherwise processed through "file" loader.
-        // Also exclude `html` and `json` extensions so they get processed
-        // by webpacks internal loaders.
-        test: /\.(ico|gif|jpg|jpeg|png|svg|woff|woff2|ttf|eot)$/,
-        exclude: [/\.(js|jsx|mjs)$/, /\.html$/, /\.json$/, /node_modules/],
-        loader: 'file-loader',
-        options: {
-          outputPath: '',
-          context: path.resolve(rootDirectory, 'src/assets/'),
-          name: '[path][name].[ext]',
-          emitFile: true,
-        },
-      },
-    ],
-  },
 
   // https://webpack.js.org/configuration/stats/#stats-presets
   // stats: 'detailed',

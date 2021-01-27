@@ -5,16 +5,18 @@ const path = require('path')
 const webpack = require('webpack')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin')
-const eslintFormatter = require('react-dev-utils/eslintFormatter')
 
 const rootDirectory = fs.realpathSync(process.cwd())
 const outputDir = path.resolve(rootDirectory, 'dist')
 const clientDir = path.resolve(rootDirectory, 'src')
-const stylesDir = path.resolve(rootDirectory, 'src/assets/styles')
 const aliases = require(path.resolve(rootDirectory, 'config/aliases'))
 
+const { getModuleRules } = require('./webpack.rules')
+
+const mode = 'development'
+
 module.exports = {
-  mode: 'development',
+  mode,
 
   target: 'web',
 
@@ -22,7 +24,19 @@ module.exports = {
   devtool: 'eval-cheap-source-map', // fast, transformed code (lines only)
   // devtool: 'inline-source-map', // slow, original source
 
-  entry: path.resolve(clientDir, 'index.js'),
+  // entry: path.resolve(clientDir, 'index.js'),
+  entry: {
+    main: path.resolve(clientDir, 'index.js'),
+  },
+
+  output: {
+    path: outputDir,
+    publicPath: '/',
+    filename: '[name].js',
+    // https://github.com/webpack/webpack/issues/11660
+    // chunkLoading: false,
+    wasmLoading: false,
+  },
 
   resolve: {
     alias: {
@@ -32,111 +46,34 @@ module.exports = {
     extensions: ['.js', '.jsx'],
   },
 
-  output: {
-    path: outputDir,
-    publicPath: '/',
-    filename: '[name].js',
-    // https://github.com/webpack/webpack/issues/11660
-    chunkLoading: false,
-    wasmLoading: false,
-  },
+  module: getModuleRules(mode),
 
   context: rootDirectory,
 
-  module: {
-    rules: [
-      {
-        test: /\.(js|jsx)$/,
-        enforce: 'pre',
-        use: [
-          {
-            loader: 'eslint-loader',
-            options: {
-              fix: true,
-              formatter: eslintFormatter,
-              eslintPath: 'eslint',
-              configFile: path.resolve(rootDirectory, 'config/.eslintrc.js'),
-            },
-          },
-        ],
-        include: clientDir,
-      },
-      {
-        test: /\.jsx?$/,
-        exclude: /node_modules/,
-        use: [
-          {
-            loader: 'babel-loader',
-            options: {
-              plugins: [
-                'lodash',
-                require.resolve('react-refresh/babel'),
-              ],
-              // cacheDirectory: true,
-              // cacheCompression: false,
-            },
-          },
-        ],
-      },
-      {
-        test: /\.css$/,
-        include: /node_modules/,
-        use: [
-          { loader: 'style-loader' },
-          { loader: 'css-loader' },
-        ],
-      },
-      {
-        test: /\.pcss$/,
-        include: stylesDir,
-        use: [
-          { loader: 'style-loader' },
-          { loader: 'css-loader', options: { importLoaders: 1 } },
-          {
-            loader: 'postcss-loader',
-            options: {
-              postcssOptions: {
-                plugins: [
-                  ['postcss-import', {
-                    root: rootDirectory,
-                    path: stylesDir,
-                  }],
-                  ['postcss-flexbugs-fixes'],
-                  ['autoprefixer'],
-                  ['cssnano', { zindex: false }],
-                  // require('postcss-import')({
-                  //   root: clientDir,
-                  //   path: stylesDir,
-                  // }),
-                  // require('postcss-flexbugs-fixes'),
-                  // require('autoprefixer')(),
-                  // require('cssnano')({ zindex: false }),
-                ],
-              },
-            },
-          },
-        ],
-      },
-      // {
-      //   test: /\.(png|jpe?g|gif|woff|woff2|ttf|eot|ico)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-      //   use: ['url-loader?limit=5000&name=[name].[hash].[ext]?'],
-      // },
-      {
-        // Exclude `js` files to keep "css" loader working as it injects
-        // its runtime that would otherwise processed through "file" loader.
-        // Also exclude `html` and `json` extensions so they get processed
-        // by webpacks internal loaders.
-        test: /\.(ico|gif|jpg|jpeg|png|svg|woff|woff2|ttf|eot)$/,
-        exclude: [/\.(js|jsx|mjs)$/, /\.html$/, /\.json$/, /node_modules/],
-        loader: 'file-loader',
-        options: {
-          outputPath: '',
-          context: path.resolve(rootDirectory, 'src/assets/'),
-          name: '[path][name].[ext]',
-          emitFile: true,
+  optimization: {
+    minimize: false,
+    emitOnErrors: true,
+    moduleIds: 'deterministic',
+    runtimeChunk: 'single',
+    splitChunks: {
+      cacheGroups: {
+        // uilib: {
+        //   test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
+        //   name: 'mui',
+        //   chunks: 'all',
+        // },
+        // vendor: {
+        //   test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+        //   name: 'react',
+        //   chunks: 'all',
+        // },
+        commons: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all',
         },
       },
-    ],
+    },
   },
 
   plugins: [
@@ -149,7 +86,8 @@ module.exports = {
     new HtmlWebpackPlugin({
       inject: true,
       template: path.resolve(rootDirectory, 'public/index-template.html'),
-      chunksSortMode: 'none',
+      filename: 'index.html',
+      minify: false,
     }),
 
     new webpack.DefinePlugin({
@@ -159,4 +97,27 @@ module.exports = {
       },
     }),
   ],
+
+  stats: {
+    preset: 'verbose',
+    assets: false, // true to show images, icons, etc.
+    assetsSpace: 50,
+    assetsSort: '!size',
+    colors: true,
+    children: false,
+
+    chunkModules: false,
+    chunkOrigins: false,
+    chunksSort: '!size',
+
+    entrypoints: true,
+    logging: false,
+    modules: false,
+    relatedAssets: true,
+    timings: true,
+
+    groupAssetsByInfo: false,
+    groupAssetsByChunk: false,
+    groupAssetsByEmitStatus: false,
+  },
 }
