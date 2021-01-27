@@ -4,7 +4,7 @@ export const Main = styled.main`
   display: flex;
   flex-direction: column;
   position: relative;
-  height: 2000px;
+  height: 1100px;
   // height: 100%;
   // overflow: hidden;
 

@@ -6,6 +6,8 @@ const fs = require('fs')
 const appDirectory = fs.realpathSync(process.cwd())
 
 module.exports = {
+  api: path.resolve(appDirectory, 'src/api'),
+  data: path.resolve(appDirectory, 'src/data'),
   pages: path.resolve(appDirectory, 'src/pages'),
   components: path.resolve(appDirectory, 'src/components'),
 

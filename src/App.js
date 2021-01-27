@@ -10,6 +10,7 @@ import DateFnsUtils from '@date-io/date-fns'
 import store from 'store'
 import history from 'services/routerHistory'
 
+import { loadData } from 'data/constants'
 import * as SettingsSelectors from 'store/reducers/settings.selectors'
 
 import { getMuiTheme } from 'assets/styles/mui/muiTheme'
@@ -22,9 +23,13 @@ const App = () => {
   const [loading, setLoading] = useState(true)
   const [themeSettings, setThemeSettings] = useState(getMuiTheme(theme))
 
-  useEffect(() => {
-    // loading something important
+  async function prepare() {
+    await loadData()
     setLoading(false)
+  }
+
+  useEffect(() => {
+    prepare()
   }, [])
 
   useEffect(() => {

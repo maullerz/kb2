@@ -1,0 +1,5931 @@
+[
+  {
+    "_id": 90277865,
+    "sys": 30001254,
+    "time": 1611780729,
+    "sumV": 153110183,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 99004885,
+        "name": "Darwinism."
+      },
+      "corp": {
+        "id": 98626029,
+        "name": "I Have a Plan"
+      },
+      "char": {
+        "id": 1036049422,
+        "name": "Vienuolis666"
+      },
+      "ship": {
+        "id": 34562,
+        "name": "Svipul"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1220922756,
+          "name": "Red Alliance"
+        },
+        "corp": {
+          "id": 98441032,
+          "name": "Bloody Entertainment"
+        },
+        "char": {
+          "id": 93708722,
+          "name": "Koni Kouvo"
+        },
+        "ship": {
+          "id": 3756,
+          "name": "Gnosis"
+        },
+        "weap": {
+          "id": 3520,
+          "name": "Heavy Pulse Laser II"
+        },
+        "fctn": 0,
+        "dmg": 198,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277860,
+    "sys": 30001254,
+    "time": 1611780722,
+    "sumV": 126305193,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 99004885,
+        "name": "Darwinism."
+      },
+      "corp": {
+        "id": 98543995,
+        "name": "Black Dragon PHP"
+      },
+      "char": {
+        "id": 93112401,
+        "name": "Patoarch Lonestar"
+      },
+      "ship": {
+        "id": 34562,
+        "name": "Svipul"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009805,
+          "name": "Dead Game Society."
+        },
+        "corp": {
+          "id": 98620346,
+          "name": "Zero Transversal"
+        },
+        "char": {
+          "id": 2114994927,
+          "name": "Borzch Kalkia"
+        },
+        "ship": {
+          "id": 29340,
+          "name": "Osprey Navy Issue"
+        },
+        "weap": {
+          "id": 212,
+          "name": "Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1948,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277857,
+    "sys": 30001254,
+    "time": 1611780719,
+    "sumV": 45698392,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 99004885,
+        "name": "Darwinism."
+      },
+      "corp": {
+        "id": 98543995,
+        "name": "Black Dragon PHP"
+      },
+      "char": {
+        "id": 95063586,
+        "name": "Brzska Rzewski"
+      },
+      "ship": {
+        "id": 11371,
+        "name": "Wolf"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1220922756,
+          "name": "Red Alliance"
+        },
+        "corp": {
+          "id": 98561015,
+          "name": "PTUSHNIKI"
+        },
+        "char": {
+          "id": 789846275,
+          "name": "Gufich"
+        },
+        "ship": {
+          "id": 29340,
+          "name": "Osprey Navy Issue"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 678,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277851,
+    "sys": 30001254,
+    "time": 1611780694,
+    "sumV": 47405595,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 1220922756,
+        "name": "Red Alliance"
+      },
+      "corp": {
+        "id": 98610134,
+        "name": "Sognare"
+      },
+      "char": {
+        "id": 540304338,
+        "name": "Lack Me"
+      },
+      "ship": {
+        "id": 11381,
+        "name": "Harpy"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99004885,
+          "name": "Darwinism."
+        },
+        "corp": {
+          "id": 98304848,
+          "name": "Unilateral Rel4tions"
+        },
+        "char": {
+          "id": 1410547529,
+          "name": "Koetsu"
+        },
+        "ship": {
+          "id": 34562,
+          "name": "Svipul"
+        },
+        "weap": {
+          "id": 2889,
+          "name": "200mm AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 1252,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277847,
+    "sys": 30003698,
+    "time": 1611780685,
+    "sumV": 32602464,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011342
+    },
+    "vict": {
+      "ally": {
+        "id": 99005839,
+        "name": "WE FORM V0LTA"
+      },
+      "corp": {
+        "id": 1831131676,
+        "name": "V0LTA"
+      },
+      "char": {
+        "id": 2114504559,
+        "name": "Water Venus"
+      },
+      "ship": {
+        "id": 11198,
+        "name": "Stiletto"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98635096,
+          "name": "Ricochet Inc."
+        },
+        "char": {
+          "id": 800697966,
+          "name": "Mr christer"
+        },
+        "ship": {
+          "id": 12005,
+          "name": "Ishtar"
+        },
+        "weap": {
+          "id": 2488,
+          "name": "Warrior II"
+        },
+        "fctn": 0,
+        "dmg": 763,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277845,
+    "sys": 30001254,
+    "time": 1611780680,
+    "sumV": 37324556,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 23,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 99004885,
+        "name": "Darwinism."
+      },
+      "corp": {
+        "id": 98543995,
+        "name": "Black Dragon PHP"
+      },
+      "char": {
+        "id": 810055253,
+        "name": "EyeofRah"
+      },
+      "ship": {
+        "id": 621,
+        "name": "Caracal"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1220922756,
+          "name": "Red Alliance"
+        },
+        "corp": {
+          "id": 98578701,
+          "name": "The Holy Jita Inquisition"
+        },
+        "char": {
+          "id": 92087225,
+          "name": "Duke Mileghere"
+        },
+        "ship": {
+          "id": 644,
+          "name": "Typhoon"
+        },
+        "weap": {
+          "id": 24511,
+          "name": "Inferno Fury Heavy Missile"
+        },
+        "fctn": 0,
+        "dmg": 15064,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277841,
+    "sys": 30001254,
+    "time": 1611780671,
+    "sumV": 86006476,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 1220922756,
+        "name": "Red Alliance"
+      },
+      "corp": {
+        "id": 98441032,
+        "name": "Bloody Entertainment"
+      },
+      "char": {
+        "id": 96149718,
+        "name": "W-Driver"
+      },
+      "ship": {
+        "id": 22456,
+        "name": "Sabre"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99004885,
+          "name": "Darwinism."
+        },
+        "corp": {
+          "id": 98304848,
+          "name": "Unilateral Rel4tions"
+        },
+        "char": {
+          "id": 1410547529,
+          "name": "Koetsu"
+        },
+        "ship": {
+          "id": 34562,
+          "name": "Svipul"
+        },
+        "weap": {
+          "id": 2889,
+          "name": "200mm AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 1725,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277838,
+    "sys": 30001254,
+    "time": 1611780664,
+    "sumV": 166956746,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 99004885,
+        "name": "Darwinism."
+      },
+      "corp": {
+        "id": 98543995,
+        "name": "Black Dragon PHP"
+      },
+      "char": {
+        "id": 587921543,
+        "name": "Tryce Jaor"
+      },
+      "ship": {
+        "id": 34562,
+        "name": "Svipul"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1220922756,
+          "name": "Red Alliance"
+        },
+        "corp": {
+          "id": 98610134,
+          "name": "Sognare"
+        },
+        "char": {
+          "id": 2116853091,
+          "name": "Rosetta Churyumova"
+        },
+        "ship": {
+          "id": 29340,
+          "name": "Osprey Navy Issue"
+        },
+        "weap": {
+          "id": 2613,
+          "name": "Mjolnir Fury Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 349,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277828,
+    "sys": 30001254,
+    "time": 1611780651,
+    "sumV": 79529659,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 1220922756,
+        "name": "Red Alliance"
+      },
+      "corp": {
+        "id": 679468421,
+        "name": "Red October."
+      },
+      "char": {
+        "id": 509673609,
+        "name": "Qvatra"
+      },
+      "ship": {
+        "id": 11379,
+        "name": "Hawk"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99004885,
+          "name": "Darwinism."
+        },
+        "corp": {
+          "id": 98626029,
+          "name": "I Have a Plan"
+        },
+        "char": {
+          "id": 1036049422,
+          "name": "Vienuolis666"
+        },
+        "ship": {
+          "id": 34562,
+          "name": "Svipul"
+        },
+        "weap": {
+          "id": 2889,
+          "name": "200mm AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 74,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277823,
+    "sys": 30002809,
+    "time": 1611780642,
+    "sumV": 14053354,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40178192
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000181,
+        "name": "Federal Defense Union"
+      },
+      "char": {
+        "id": 2117879995,
+        "name": "Motte Thellere"
+      },
+      "ship": {
+        "id": 16240,
+        "name": "Catalyst"
+      },
+      "fctn": 500004
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009138,
+          "name": "Marine Division"
+        },
+        "corp": {
+          "id": 98633650,
+          "name": "Melphalan"
+        },
+        "char": {
+          "id": 2115333403,
+          "name": "Cy Tivianne"
+        },
+        "ship": {
+          "id": 16238,
+          "name": "Cormorant"
+        },
+        "weap": {
+          "id": 7251,
+          "name": "75mm Carbide Railgun I"
+        },
+        "fctn": 500001,
+        "dmg": 7,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277820,
+    "sys": 30004026,
+    "time": 1611780640,
+    "sumV": 41658831,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011236
+    },
+    "vict": {
+      "ally": {
+        "id": 99009268,
+        "name": "Silent Company"
+      },
+      "corp": {
+        "id": 98666711,
+        "name": "the king asked me to guard the mountain"
+      },
+      "char": {
+        "id": 2113724725,
+        "name": "Duke Waterton"
+      },
+      "ship": {
+        "id": 11198,
+        "name": "Stiletto"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 1297657426,
+          "name": "CBC Interstellar"
+        },
+        "char": {
+          "id": 2114281357,
+          "name": "Arthur Lachu"
+        },
+        "ship": {
+          "id": 16227,
+          "name": "Ferox"
+        },
+        "weap": {
+          "id": 3082,
+          "name": "250mm Railgun II"
+        },
+        "fctn": 0,
+        "dmg": 414,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277818,
+    "sys": 30001254,
+    "time": 1611780637,
+    "sumV": 42460944,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 99004885,
+        "name": "Darwinism."
+      },
+      "corp": {
+        "id": 98626029,
+        "name": "I Have a Plan"
+      },
+      "char": {
+        "id": 1492566784,
+        "name": "Motu Proprio"
+      },
+      "ship": {
+        "id": 11393,
+        "name": "Retribution"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1220922756,
+          "name": "Red Alliance"
+        },
+        "corp": {
+          "id": 679468421,
+          "name": "Red October."
+        },
+        "char": {
+          "id": 509673609,
+          "name": "Qvatra"
+        },
+        "ship": {
+          "id": 11379,
+          "name": "Hawk"
+        },
+        "weap": {
+          "id": 24471,
+          "name": "Scourge Rage Rocket"
+        },
+        "fctn": 0,
+        "dmg": 1026,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277819,
+    "sys": 30004735,
+    "time": 1611780637,
+    "sumV": 279392343,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 197097487,
+        "name": "4S Corporation"
+      },
+      "char": {
+        "id": 1326689320,
+        "name": "Dee Bo"
+      },
+      "ship": {
+        "id": 11993,
+        "name": "Cerberus"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1411711376,
+          "name": "Legion of xXDEATHXx"
+        },
+        "corp": {
+          "id": 98462540,
+          "name": "DERUS ORDER"
+        },
+        "char": {
+          "id": 95670717,
+          "name": "Theodore Mosby"
+        },
+        "ship": {
+          "id": 621,
+          "name": "Caracal"
+        },
+        "weap": {
+          "id": 27371,
+          "name": "Caldari Navy Inferno Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 46,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277815,
+    "sys": 30003918,
+    "time": 1611780632,
+    "sumV": 848153602,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40248027
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98647371,
+        "name": "Ichora"
+      },
+      "char": {
+        "id": 2114444678,
+        "name": "Maokev Kusoni"
+      },
+      "ship": {
+        "id": 12005,
+        "name": "Ishtar"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98370339,
+          "name": "D-sync"
+        },
+        "char": {
+          "id": 2114043357,
+          "name": "Nutty Knife"
+        },
+        "ship": {
+          "id": 29984,
+          "name": "Tengu"
+        },
+        "weap": {
+          "id": 27435,
+          "name": "Caldari Navy Mjolnir Heavy Missile"
+        },
+        "fctn": 0,
+        "dmg": 1199,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277811,
+    "sys": 30003918,
+    "time": 1611780624,
+    "sumV": 1559984255,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40248027
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98647359,
+        "name": "A-s45"
+      },
+      "char": {
+        "id": 2114444594,
+        "name": "Ceunbo Kumamato"
+      },
+      "ship": {
+        "id": 33472,
+        "name": "Nestor"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 288377808,
+          "name": "Against ALL Authorities"
+        },
+        "corp": {
+          "id": 1698858600,
+          "name": "Russian Thunder Squad"
+        },
+        "char": {
+          "id": 94417342,
+          "name": "Bromum Atom"
+        },
+        "ship": {
+          "id": 17736,
+          "name": "Nightmare"
+        },
+        "weap": {
+          "id": 3057,
+          "name": "Mega Pulse Laser II"
+        },
+        "fctn": 0,
+        "dmg": 8270,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277806,
+    "sys": 30001254,
+    "time": 1611780619,
+    "sumV": 308849065,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50011309
+    },
+    "vict": {
+      "ally": {
+        "id": 1220922756,
+        "name": "Red Alliance"
+      },
+      "corp": {
+        "id": 98591829,
+        "name": "Cyber Collapse."
+      },
+      "char": {
+        "id": 1447377377,
+        "name": "LEGADEMA"
+      },
+      "ship": {
+        "id": 11993,
+        "name": "Cerberus"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99004885,
+          "name": "Darwinism."
+        },
+        "corp": {
+          "id": 98543995,
+          "name": "Black Dragon PHP"
+        },
+        "char": {
+          "id": 93112401,
+          "name": "Patoarch Lonestar"
+        },
+        "ship": {
+          "id": 34562,
+          "name": "Svipul"
+        },
+        "weap": {
+          "id": 2889,
+          "name": "200mm AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 650,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277804,
+    "sys": 30002718,
+    "time": 1611780615,
+    "sumV": 10497094,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50006983
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98646542,
+        "name": "Territorial Army Of The Commonwealth"
+      },
+      "char": {
+        "id": 2115963737,
+        "name": "KingEfrainIV Aishai"
+      },
+      "ship": {
+        "id": 589,
+        "name": "Executioner"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98559111,
+          "name": "Get A Life"
+        },
+        "char": {
+          "id": 2115359965,
+          "name": "Miso Miner3"
+        },
+        "ship": {
+          "id": 17738,
+          "name": "Machariel"
+        },
+        "weap": {
+          "id": 15963,
+          "name": "Imperial Navy Large EMP Smartbomb"
+        },
+        "fctn": 0,
+        "dmg": 1015,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277803,
+    "sys": 30004735,
+    "time": 1611780614,
+    "sumV": 41269950,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 2113278872,
+        "name": "Yolandi Yvormes"
+      },
+      "ship": {
+        "id": 11186,
+        "name": "Malediction"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 667531913,
+          "name": "GoonWaffe"
+        },
+        "char": {
+          "id": 804546151,
+          "name": "Sjugar02"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 782,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277801,
+    "sys": 30003336,
+    "time": 1611780613,
+    "sumV": 214463126,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50008791
+    },
+    "vict": {
+      "ally": {
+        "id": 99000739,
+        "name": "Of Sound Mind"
+      },
+      "corp": {
+        "id": 98477920,
+        "name": "Nobody in Local"
+      },
+      "char": {
+        "id": 92892943,
+        "name": "Trevor Dalech"
+      },
+      "ship": {
+        "id": 33468,
+        "name": "Astero"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 431502563,
+          "name": "Ministry of Inappropriate Footwork"
+        },
+        "corp": {
+          "id": 98253255,
+          "name": "Proudly Snoring"
+        },
+        "char": {
+          "id": 1689222956,
+          "name": "Sorgho"
+        },
+        "ship": {
+          "id": 29340,
+          "name": "Osprey Navy Issue"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 464,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277790,
+    "sys": 30002440,
+    "time": 1611780573,
+    "sumV": 4471831,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50013976
+    },
+    "vict": {
+      "ally": {
+        "id": 99004804,
+        "name": "DarkSide."
+      },
+      "corp": {
+        "id": 98515207,
+        "name": "XAOS RELOADED"
+      },
+      "char": {
+        "id": 777492399,
+        "name": "Zimosis"
+      },
+      "ship": {
+        "id": 26892,
+        "name": "Mobile Small Warp Disruptor II"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99005338,
+          "name": "Pandemic Horde"
+        },
+        "corp": {
+          "id": 98477766,
+          "name": "Horde Vanguard."
+        },
+        "char": {
+          "id": 96935681,
+          "name": "HuntingFighter Oramara"
+        },
+        "ship": {
+          "id": 3756,
+          "name": "Gnosis"
+        },
+        "weap": {
+          "id": 21638,
+          "name": "Vespa II"
+        },
+        "fctn": 0,
+        "dmg": 17348,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277784,
+    "sys": 30004735,
+    "time": 1611780561,
+    "sumV": 7281054,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99002367,
+        "name": "Evictus."
+      },
+      "corp": {
+        "id": 98570753,
+        "name": "Orde van Oranje Nassau"
+      },
+      "char": {
+        "id": 889409580,
+        "name": "sonnywaal"
+      },
+      "ship": {
+        "id": 32876,
+        "name": "Corax"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 98370861,
+          "name": "KarmaFleet"
+        },
+        "char": {
+          "id": 90129026,
+          "name": "Fooraap"
+        },
+        "ship": {
+          "id": 34828,
+          "name": "Jackdaw"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 857,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277782,
+    "sys": 30002421,
+    "time": 1611780551,
+    "sumV": 30584039,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 3,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50003101
+    },
+    "vict": {
+      "ally": {
+        "id": 99006113,
+        "name": "No Vacancies."
+      },
+      "corp": {
+        "id": 98323701,
+        "name": "No Vacancies"
+      },
+      "char": {
+        "id": 934245205,
+        "name": "Marie Morton"
+      },
+      "ship": {
+        "id": 11184,
+        "name": "Crusader"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99003581,
+          "name": "Fraternity."
+        },
+        "corp": {
+          "id": 98535868,
+          "name": "ChuangShi"
+        },
+        "char": {
+          "id": 2117532670,
+          "name": "VirusJY4"
+        },
+        "ship": {
+          "id": 22456,
+          "name": "Sabre"
+        },
+        "weap": {
+          "id": 2873,
+          "name": "125mm Gatling AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 2138,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277774,
+    "sys": 30004735,
+    "time": 1611780525,
+    "sumV": 14381552,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 3,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 498125261,
+        "name": "Test Alliance Please Ignore"
+      },
+      "corp": {
+        "id": 263585335,
+        "name": "Black Omega Security"
+      },
+      "char": {
+        "id": 92816618,
+        "name": "Ozzymandias Duskwalker"
+      },
+      "ship": {
+        "id": 16242,
+        "name": "Thrasher"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 197097487,
+          "name": "4S Corporation"
+        },
+        "char": {
+          "id": 90624745,
+          "name": "Xavier Danoll"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 954,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277771,
+    "sys": 30004735,
+    "time": 1611780524,
+    "sumV": 255673146,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 667531913,
+        "name": "GoonWaffe"
+      },
+      "char": {
+        "id": 92012164,
+        "name": "Yoosetsu"
+      },
+      "ship": {
+        "id": 11978,
+        "name": "Scimitar"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1727758877,
+          "name": "Northern Coalition."
+        },
+        "corp": {
+          "id": 424525976,
+          "name": "Criterion."
+        },
+        "char": {
+          "id": 1705292071,
+          "name": "Denalipro"
+        },
+        "ship": {
+          "id": 627,
+          "name": "Thorax"
+        },
+        "weap": {
+          "id": 3130,
+          "name": "Heavy Electron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 5037,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277770,
+    "sys": 30004735,
+    "time": 1611780522,
+    "sumV": 34033948,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 98370861,
+        "name": "KarmaFleet"
+      },
+      "char": {
+        "id": 2115826772,
+        "name": "Arza Ara"
+      },
+      "ship": {
+        "id": 11202,
+        "name": "Ares"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 498125261,
+          "name": "Test Alliance Please Ignore"
+        },
+        "corp": {
+          "id": 263585335,
+          "name": "Black Omega Security"
+        },
+        "char": {
+          "id": 94405346,
+          "name": "5pitf1re"
+        },
+        "ship": {
+          "id": 16242,
+          "name": "Thrasher"
+        },
+        "weap": {
+          "id": 2905,
+          "name": "250mm Light Artillery Cannon II"
+        },
+        "fctn": 0,
+        "dmg": 1483,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277764,
+    "sys": 30003563,
+    "time": 1611780508,
+    "sumV": 94557913,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 60006658
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000168,
+        "name": "Federal Navy Academy"
+      },
+      "char": {
+        "id": 2114320760,
+        "name": "Mick Barmata"
+      },
+      "ship": {
+        "id": 3756,
+        "name": "Gnosis"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99005178,
+          "name": "Domain Research and Mining Inst."
+        },
+        "corp": {
+          "id": 98506105,
+          "name": "HAMMER of TITAN"
+        },
+        "char": {
+          "id": 1129514033,
+          "name": "Kukubekcisi"
+        },
+        "ship": {
+          "id": 3756,
+          "name": "Gnosis"
+        },
+        "weap": {
+          "id": 3756,
+          "name": "Gnosis"
+        },
+        "fctn": 0,
+        "dmg": 13279,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277763,
+    "sys": 31001251,
+    "time": 1611780507,
+    "sumV": 72655419,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 4,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40416362
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98671430,
+        "name": "Original good Name"
+      },
+      "char": {
+        "id": 2115356108,
+        "name": "Gefabanar Norlen"
+      },
+      "ship": {
+        "id": 3756,
+        "name": "Gnosis"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 707482380,
+          "name": "Destiny's Call"
+        },
+        "corp": {
+          "id": 98165469,
+          "name": "Hammerwerke"
+        },
+        "char": {
+          "id": 288002611,
+          "name": "Rohn Sona"
+        },
+        "ship": {
+          "id": 29988,
+          "name": "Proteus"
+        },
+        "weap": {
+          "id": 3146,
+          "name": "Heavy Neutron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 3974,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277761,
+    "sys": 30004735,
+    "time": 1611780499,
+    "sumV": 263138601,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 624410653,
+        "name": "Les chevaliers de l'ordre"
+      },
+      "char": {
+        "id": 330290221,
+        "name": "AspiB'elt"
+      },
+      "ship": {
+        "id": 11978,
+        "name": "Scimitar"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 498125261,
+          "name": "Test Alliance Please Ignore"
+        },
+        "corp": {
+          "id": 98430328,
+          "name": "Livonian Bearslayers"
+        },
+        "char": {
+          "id": 2117113948,
+          "name": "DarkWarriorLV"
+        },
+        "ship": {
+          "id": 34828,
+          "name": "Jackdaw"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 632,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277760,
+    "sys": 30003047,
+    "time": 1611780497,
+    "sumV": 1685468,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": true,
+      "solo": false,
+      "awox": false,
+      "loc": 40193599
+    },
+    "vict": {
+      "ally": {
+        "id": 937872513,
+        "name": "Ivy League"
+      },
+      "corp": {
+        "id": 917701062,
+        "name": "EVE University"
+      },
+      "char": {
+        "id": 811622935,
+        "name": "Seian"
+      },
+      "ship": {
+        "id": 3766,
+        "name": "Vigil"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": 0,
+        "char": 0,
+        "ship": {
+          "id": 54151,
+          "name": "Raznaborg Blinding Leshak"
+        },
+        "weap": 0,
+        "fctn": 500026,
+        "dmg": 1386,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277759,
+    "sys": 31001251,
+    "time": 1611780495,
+    "sumV": 12778501,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40416362
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98671430,
+        "name": "Original good Name"
+      },
+      "char": {
+        "id": 2115356108,
+        "name": "Gefabanar Norlen"
+      },
+      "ship": {
+        "id": 33475,
+        "name": "Mobile Tractor Unit"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 707482380,
+          "name": "Destiny's Call"
+        },
+        "corp": {
+          "id": 98165469,
+          "name": "Hammerwerke"
+        },
+        "char": {
+          "id": 288002611,
+          "name": "Rohn Sona"
+        },
+        "ship": {
+          "id": 29988,
+          "name": "Proteus"
+        },
+        "weap": {
+          "id": 3146,
+          "name": "Heavy Neutron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 23829,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277758,
+    "sys": 30004735,
+    "time": 1611780493,
+    "sumV": 47556410,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 2115056465,
+        "name": "Sl Yder007"
+      },
+      "ship": {
+        "id": 11371,
+        "name": "Wolf"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 197097487,
+          "name": "4S Corporation"
+        },
+        "char": {
+          "id": 90624745,
+          "name": "Xavier Danoll"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 397,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277752,
+    "sys": 30005212,
+    "time": 1611780477,
+    "sumV": 7532200,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 40329505
+    },
+    "vict": {
+      "ally": {
+        "id": 99009885,
+        "name": "Xagenic Freymvork"
+      },
+      "corp": {
+        "id": 98403734,
+        "name": "Subsidy H.R.S."
+      },
+      "char": {
+        "id": 95987458,
+        "name": "James Longsoft Achasse"
+      },
+      "ship": {
+        "id": 29248,
+        "name": "Magnate"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98519026,
+          "name": "Ervp"
+        },
+        "char": {
+          "id": 696259508,
+          "name": "Cyrano Duvak"
+        },
+        "ship": {
+          "id": 44993,
+          "name": "Pacifier"
+        },
+        "weap": {
+          "id": 2889,
+          "name": "200mm AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 1013,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277753,
+    "sys": 30004735,
+    "time": 1611780477,
+    "sumV": 6381895,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 445965493,
+        "name": "Sabre Wulf"
+      },
+      "ship": {
+        "id": 16242,
+        "name": "Thrasher"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 131511956,
+          "name": "Tactical Narcotics Team"
+        },
+        "corp": {
+          "id": 98012419,
+          "name": "I N E X T R E M I S"
+        },
+        "char": {
+          "id": 1555599663,
+          "name": "Capt Fugly"
+        },
+        "ship": {
+          "id": 34828,
+          "name": "Jackdaw"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 604,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277751,
+    "sys": 30002586,
+    "time": 1611780468,
+    "sumV": 126080625,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50005881
+    },
+    "vict": {
+      "ally": {
+        "id": 1900696668,
+        "name": "The Initiative."
+      },
+      "corp": {
+        "id": 680022174,
+        "name": "DEFCON."
+      },
+      "char": {
+        "id": 1802971312,
+        "name": "Nath Gembolic"
+      },
+      "ship": {
+        "id": 34562,
+        "name": "Svipul"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99010428,
+          "name": "Eternal Requiem"
+        },
+        "corp": {
+          "id": 98665628,
+          "name": "Dickhead Corner"
+        },
+        "char": {
+          "id": 2117698596,
+          "name": "ZZZZZZ G7"
+        },
+        "ship": {
+          "id": 17715,
+          "name": "Gila"
+        },
+        "weap": {
+          "id": 31890,
+          "name": "Republic Fleet Valkyrie"
+        },
+        "fctn": 0,
+        "dmg": 208,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277750,
+    "sys": 31001251,
+    "time": 1611780465,
+    "sumV": 1245787,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40416362
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98671430,
+        "name": "Original good Name"
+      },
+      "char": {
+        "id": 2115356108,
+        "name": "Gefabanar Norlen"
+      },
+      "ship": {
+        "id": 33474,
+        "name": "Mobile Depot"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 707482380,
+          "name": "Destiny's Call"
+        },
+        "corp": {
+          "id": 98165469,
+          "name": "Hammerwerke"
+        },
+        "char": {
+          "id": 96076326,
+          "name": "Maison Candervelle"
+        },
+        "ship": {
+          "id": 29984,
+          "name": "Tengu"
+        },
+        "weap": {
+          "id": 27413,
+          "name": "Caldari Navy Scourge Heavy Assault Missile"
+        },
+        "fctn": 0,
+        "dmg": 1313,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277748,
+    "sys": 30004735,
+    "time": 1611780463,
+    "sumV": 126079399,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98477766,
+        "name": "Horde Vanguard."
+      },
+      "char": {
+        "id": 95421081,
+        "name": "Valla Deus"
+      },
+      "ship": {
+        "id": 49710,
+        "name": "Kikimora"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 131511956,
+          "name": "Tactical Narcotics Team"
+        },
+        "corp": {
+          "id": 98012419,
+          "name": "I N E X T R E M I S"
+        },
+        "char": {
+          "id": 1555599663,
+          "name": "Capt Fugly"
+        },
+        "ship": {
+          "id": 34828,
+          "name": "Jackdaw"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 708,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277744,
+    "sys": 30003720,
+    "time": 1611780455,
+    "sumV": 299611310,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": true,
+      "solo": false,
+      "awox": false,
+      "loc": 40235699
+    },
+    "vict": {
+      "ally": {
+        "id": 99009919,
+        "name": "Dreadbomb."
+      },
+      "corp": {
+        "id": 98646775,
+        "name": "Banana-Republic."
+      },
+      "char": {
+        "id": 2112910155,
+        "name": "Nal Nartu"
+      },
+      "ship": {
+        "id": 12005,
+        "name": "Ishtar"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": 0,
+        "char": 0,
+        "ship": {
+          "id": 24160,
+          "name": "Centus Tyrant"
+        },
+        "weap": 0,
+        "fctn": 500019,
+        "dmg": 15035,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277739,
+    "sys": 30045352,
+    "time": 1611780435,
+    "sumV": 22044857,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40350244
+    },
+    "vict": {
+      "ally": {
+        "id": 99010441,
+        "name": "I Will End Your Whole...."
+      },
+      "corp": {
+        "id": 98478883,
+        "name": "Know-Nothings"
+      },
+      "char": {
+        "id": 91548783,
+        "name": "Dannefan Senshi-Khuun"
+      },
+      "ship": {
+        "id": 42685,
+        "name": "Sunesis"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99004295,
+          "name": "A Band Apart."
+        },
+        "corp": {
+          "id": 98199279,
+          "name": "Stay Frosty."
+        },
+        "char": {
+          "id": 90974043,
+          "name": "Daniel Alpena"
+        },
+        "ship": {
+          "id": 17841,
+          "name": "Federation Navy Comet"
+        },
+        "weap": {
+          "id": 2456,
+          "name": "Hobgoblin II"
+        },
+        "fctn": 0,
+        "dmg": 4205,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277738,
+    "sys": 30003645,
+    "time": 1611780432,
+    "sumV": 241576957,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40231104
+    },
+    "vict": {
+      "ally": {
+        "id": 99009310,
+        "name": "VENI VIDI VICI."
+      },
+      "corp": {
+        "id": 98598862,
+        "name": "Chaos arbiter"
+      },
+      "char": {
+        "id": 2118070746,
+        "name": "deep fire cola"
+      },
+      "ship": {
+        "id": 17715,
+        "name": "Gila"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1728396456,
+          "name": "Dead Terrorists"
+        },
+        "corp": {
+          "id": 685495596,
+          "name": "Empire Assault Corp"
+        },
+        "char": {
+          "id": 1887977932,
+          "name": "Sgt Bladewing"
+        },
+        "ship": {
+          "id": 47270,
+          "name": "Vedmak"
+        },
+        "weap": {
+          "id": 47918,
+          "name": "Heavy Entropic Disintegrator II"
+        },
+        "fctn": 0,
+        "dmg": 8674,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277733,
+    "sys": 30000319,
+    "time": 1611780419,
+    "sumV": 120523903,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 4,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50011070
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98627389,
+        "name": "Alpha Academic"
+      },
+      "char": {
+        "id": 2114665248,
+        "name": "IgnessA"
+      },
+      "ship": {
+        "id": 33468,
+        "name": "Astero"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98546798,
+          "name": "I See You."
+        },
+        "char": {
+          "id": 94698290,
+          "name": "Napimel"
+        },
+        "ship": {
+          "id": 29990,
+          "name": "Loki"
+        },
+        "weap": {
+          "id": 27381,
+          "name": "Caldari Navy Nova Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1969,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277731,
+    "sys": 30045314,
+    "time": 1611780413,
+    "sumV": 255787597,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 11,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50016271
+    },
+    "vict": {
+      "ally": {
+        "id": 99010386,
+        "name": "Absolute Honor"
+      },
+      "corp": {
+        "id": 98595110,
+        "name": "Absolute Order"
+      },
+      "char": {
+        "id": 2117773072,
+        "name": "TheBadAzzSlash"
+      },
+      "ship": {
+        "id": 17715,
+        "name": "Gila"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1411711376,
+          "name": "Legion of xXDEATHXx"
+        },
+        "corp": {
+          "id": 928827408,
+          "name": "The First Foundation"
+        },
+        "char": {
+          "id": 657920202,
+          "name": "Mahik net"
+        },
+        "ship": {
+          "id": 17722,
+          "name": "Vigilant"
+        },
+        "weap": {
+          "id": 12346,
+          "name": "200mm Railgun II"
+        },
+        "fctn": 0,
+        "dmg": 11309,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277732,
+    "sys": 30004735,
+    "time": 1611780413,
+    "sumV": 284475908,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 679900455,
+        "name": "Kriegsmarinewerft"
+      },
+      "char": {
+        "id": 1190578956,
+        "name": "HSG Bomber"
+      },
+      "ship": {
+        "id": 11993,
+        "name": "Cerberus"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99005338,
+          "name": "Pandemic Horde"
+        },
+        "corp": {
+          "id": 98388312,
+          "name": "Pandemic Horde Inc."
+        },
+        "char": {
+          "id": 93834312,
+          "name": "VoidedMarrow Koraka"
+        },
+        "ship": {
+          "id": 621,
+          "name": "Caracal"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 2145,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277730,
+    "sys": 30004735,
+    "time": 1611780412,
+    "sumV": 72366759,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 2113654010,
+        "name": "Joe Beercan Bishop"
+      },
+      "ship": {
+        "id": 35683,
+        "name": "Hecate"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 667531913,
+          "name": "GoonWaffe"
+        },
+        "char": {
+          "id": 804546151,
+          "name": "Sjugar02"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1101,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277728,
+    "sys": 30002686,
+    "time": 1611780411,
+    "sumV": 11298395,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 3,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50000781
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000107,
+        "name": "The Scope"
+      },
+      "char": {
+        "id": 2113624151,
+        "name": "Runtime Terror"
+      },
+      "ship": {
+        "id": 657,
+        "name": "Iteron Mark V"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008435,
+          "name": "420 MLG TWINTURBO 3000 EMPIRE ALLIANCE RELOADED"
+        },
+        "corp": {
+          "id": 98267621,
+          "name": "The Congregation"
+        },
+        "char": {
+          "id": 2114114224,
+          "name": "JustWaffle Alar"
+        },
+        "ship": {
+          "id": 29988,
+          "name": "Proteus"
+        },
+        "weap": {
+          "id": 3146,
+          "name": "Heavy Neutron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 1614,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277729,
+    "sys": 30004735,
+    "time": 1611780411,
+    "sumV": 33081969,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 917450707,
+        "name": "Gimano"
+      },
+      "ship": {
+        "id": 11176,
+        "name": "Crow"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 1063360566,
+          "name": "SUNDERING"
+        },
+        "char": {
+          "id": 1097266199,
+          "name": "Vana Tara"
+        },
+        "ship": {
+          "id": 34828,
+          "name": "Jackdaw"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 556,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277726,
+    "sys": 30004735,
+    "time": 1611780410,
+    "sumV": 233501832,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98437227,
+        "name": "Banished Braindead Zombies"
+      },
+      "char": {
+        "id": 1800252968,
+        "name": "GanchaA"
+      },
+      "ship": {
+        "id": 12015,
+        "name": "Muninn"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 150097440,
+          "name": "Get Off My Lawn"
+        },
+        "corp": {
+          "id": 98026827,
+          "name": "TerraCorp Industries"
+        },
+        "char": {
+          "id": 1497577444,
+          "name": "GEFFI"
+        },
+        "ship": {
+          "id": 34828,
+          "name": "Jackdaw"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 530,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277723,
+    "sys": 31000372,
+    "time": 1611780404,
+    "sumV": 4212213,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40370038
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98667949,
+        "name": "OuterSpace Exploration and Exploitation Society"
+      },
+      "char": {
+        "id": 2118042362,
+        "name": "SantaRoja"
+      },
+      "ship": {
+        "id": 29248,
+        "name": "Magnate"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009287,
+          "name": "Beyond the Breach"
+        },
+        "corp": {
+          "id": 98648021,
+          "name": "Safeside Mechanics"
+        },
+        "char": {
+          "id": 2113462127,
+          "name": "Willowtan Dawnguard"
+        },
+        "ship": {
+          "id": 33470,
+          "name": "Stratios"
+        },
+        "weap": {
+          "id": 2456,
+          "name": "Hobgoblin II"
+        },
+        "fctn": 0,
+        "dmg": 789,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277722,
+    "sys": 30000835,
+    "time": 1611780402,
+    "sumV": 77600549,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50004973
+    },
+    "vict": {
+      "ally": {
+        "id": 99005724,
+        "name": "The Minions."
+      },
+      "corp": {
+        "id": 849473841,
+        "name": "Beach Boys"
+      },
+      "char": {
+        "id": 94760122,
+        "name": "Pierdolonez Eriker"
+      },
+      "ship": {
+        "id": 35683,
+        "name": "Hecate"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008469,
+          "name": "UNREAL Alliance"
+        },
+        "corp": {
+          "id": 98140464,
+          "name": "Real Enemy Academy"
+        },
+        "char": {
+          "id": 92573259,
+          "name": "mixas Bathana"
+        },
+        "ship": {
+          "id": 35683,
+          "name": "Hecate"
+        },
+        "weap": {
+          "id": 3074,
+          "name": "150mm Railgun II"
+        },
+        "fctn": 0,
+        "dmg": 536,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277718,
+    "sys": 30004735,
+    "time": 1611780400,
+    "sumV": 37255584,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 94200366,
+        "name": "Genup"
+      },
+      "ship": {
+        "id": 11400,
+        "name": "Jaguar"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 667531913,
+          "name": "GoonWaffe"
+        },
+        "char": {
+          "id": 804546151,
+          "name": "Sjugar02"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1345,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277717,
+    "sys": 30003286,
+    "time": 1611780397,
+    "sumV": 19057014,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 12,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50007065
+    },
+    "vict": {
+      "ally": {
+        "id": 937872513,
+        "name": "Ivy League"
+      },
+      "corp": {
+        "id": 917701062,
+        "name": "EVE University"
+      },
+      "char": {
+        "id": 2117978055,
+        "name": "Tomcat Evergreen"
+      },
+      "ship": {
+        "id": 37454,
+        "name": "Vigil Fleet Issue"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99005724,
+          "name": "The Minions."
+        },
+        "corp": {
+          "id": 849473841,
+          "name": "Beach Boys"
+        },
+        "char": {
+          "id": 92994808,
+          "name": "Redris Hita"
+        },
+        "ship": {
+          "id": 49710,
+          "name": "Kikimora"
+        },
+        "weap": {
+          "id": 47915,
+          "name": "Veles Light Entropic Disintegrator"
+        },
+        "fctn": 0,
+        "dmg": 4447,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277716,
+    "sys": 30004735,
+    "time": 1611780396,
+    "sumV": 42531938,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 624410653,
+        "name": "Les chevaliers de l'ordre"
+      },
+      "char": {
+        "id": 1850855270,
+        "name": "djendjil"
+      },
+      "ship": {
+        "id": 11202,
+        "name": "Ares"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99005338,
+          "name": "Pandemic Horde"
+        },
+        "corp": {
+          "id": 98558506,
+          "name": "A Blessed Bean"
+        },
+        "char": {
+          "id": 2113654010,
+          "name": "Joe Beercan Bishop"
+        },
+        "ship": {
+          "id": 35683,
+          "name": "Hecate"
+        },
+        "weap": {
+          "id": 3178,
+          "name": "Light Neutron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 758,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277713,
+    "sys": 31002253,
+    "time": 1611780392,
+    "sumV": 4828522,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40482712
+    },
+    "vict": {
+      "ally": {
+        "id": 99007879,
+        "name": "TIME CRIT"
+      },
+      "corp": {
+        "id": 98139309,
+        "name": "Don't Wake a sleeping bear"
+      },
+      "char": {
+        "id": 1338345669,
+        "name": "VidocQQ"
+      },
+      "ship": {
+        "id": 23061,
+        "name": "Einherji I"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009796,
+          "name": "Noobs in Groups"
+        },
+        "corp": {
+          "id": 98475544,
+          "name": "Deutsche Kapselpilotenschule"
+        },
+        "char": {
+          "id": 91487700,
+          "name": "Bolsonator Arody"
+        },
+        "ship": {
+          "id": 34317,
+          "name": "Confessor"
+        },
+        "weap": {
+          "id": 3041,
+          "name": "Small Focused Pulse Laser II"
+        },
+        "fctn": 0,
+        "dmg": 11664,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277714,
+    "sys": 31002253,
+    "time": 1611780392,
+    "sumV": 3627733,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40482712
+    },
+    "vict": {
+      "ally": {
+        "id": 99007879,
+        "name": "TIME CRIT"
+      },
+      "corp": {
+        "id": 98139309,
+        "name": "Don't Wake a sleeping bear"
+      },
+      "char": {
+        "id": 1338345669,
+        "name": "VidocQQ"
+      },
+      "ship": {
+        "id": 23055,
+        "name": "Templar I"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009796,
+          "name": "Noobs in Groups"
+        },
+        "corp": {
+          "id": 98475544,
+          "name": "Deutsche Kapselpilotenschule"
+        },
+        "char": {
+          "id": 2116125709,
+          "name": "Memphys Kain"
+        },
+        "ship": {
+          "id": 597,
+          "name": "Punisher"
+        },
+        "weap": {
+          "id": 6671,
+          "name": "Small Focused Modal Pulse Laser I"
+        },
+        "fctn": 0,
+        "dmg": 247,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277715,
+    "sys": 31002253,
+    "time": 1611780392,
+    "sumV": 6927271,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40482712
+    },
+    "vict": {
+      "ally": {
+        "id": 99007879,
+        "name": "TIME CRIT"
+      },
+      "corp": {
+        "id": 98139309,
+        "name": "Don't Wake a sleeping bear"
+      },
+      "char": {
+        "id": 1338345669,
+        "name": "VidocQQ"
+      },
+      "ship": {
+        "id": 40345,
+        "name": "Scarab I"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009796,
+          "name": "Noobs in Groups"
+        },
+        "corp": {
+          "id": 98475544,
+          "name": "Deutsche Kapselpilotenschule"
+        },
+        "char": {
+          "id": 696840801,
+          "name": "Khendra Bloodfist"
+        },
+        "ship": {
+          "id": 11371,
+          "name": "Wolf"
+        },
+        "weap": {
+          "id": 2889,
+          "name": "200mm AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 8584,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277712,
+    "sys": 30001984,
+    "time": 1611780389,
+    "sumV": 245095017,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 10,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50003951
+    },
+    "vict": {
+      "ally": {
+        "id": 99001317,
+        "name": "Banderlogs Alliance"
+      },
+      "corp": {
+        "id": 98520878,
+        "name": "Russian Space Community"
+      },
+      "char": {
+        "id": 2116168596,
+        "name": "SkyNet Lee"
+      },
+      "ship": {
+        "id": 12005,
+        "name": "Ishtar"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009567,
+          "name": "Plucky Adventurers"
+        },
+        "corp": {
+          "id": 98457537,
+          "name": "Large Orginal Revenue Generation Corp."
+        },
+        "char": {
+          "id": 95749989,
+          "name": "Joe Dirt Virpio"
+        },
+        "ship": {
+          "id": 33818,
+          "name": "Orthrus"
+        },
+        "weap": {
+          "id": 27381,
+          "name": "Caldari Navy Nova Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 6813,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277710,
+    "sys": 30004717,
+    "time": 1611780388,
+    "sumV": 3447321,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010414
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 667531913,
+        "name": "GoonWaffe"
+      },
+      "char": {
+        "id": 2001687263,
+        "name": "Satyagrahi"
+      },
+      "ship": {
+        "id": 648,
+        "name": "Badger"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 498125261,
+          "name": "Test Alliance Please Ignore"
+        },
+        "corp": {
+          "id": 1018389948,
+          "name": "Dreddit"
+        },
+        "char": {
+          "id": 92723090,
+          "name": "MrBlondz Isimazu"
+        },
+        "ship": {
+          "id": 12044,
+          "name": "Enyo"
+        },
+        "weap": {
+          "id": 3170,
+          "name": "Light Ion Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 276,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277706,
+    "sys": 31000005,
+    "time": 1611780373,
+    "sumV": 5055,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40487630
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98662297,
+        "name": "Quartum Latus"
+      },
+      "char": {
+        "id": 2112452640,
+        "name": "Eric Audeleson"
+      },
+      "ship": {
+        "id": 606,
+        "name": "Velator"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98370339,
+          "name": "D-sync"
+        },
+        "char": {
+          "id": 2112212920,
+          "name": "Razor Duframe"
+        },
+        "ship": {
+          "id": 35683,
+          "name": "Hecate"
+        },
+        "weap": {
+          "id": 3178,
+          "name": "Light Neutron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 680,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277707,
+    "sys": 30004735,
+    "time": 1611780373,
+    "sumV": 15482491,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98496411,
+        "name": "WipeOut Inc."
+      },
+      "char": {
+        "id": 1191950766,
+        "name": "spacewiking"
+      },
+      "ship": {
+        "id": 16242,
+        "name": "Thrasher"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 667531913,
+          "name": "GoonWaffe"
+        },
+        "char": {
+          "id": 804546151,
+          "name": "Sjugar02"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1126,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277704,
+    "sys": 30004735,
+    "time": 1611780367,
+    "sumV": 792385,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010895
+    },
+    "vict": {
+      "ally": {
+        "id": 99005338,
+        "name": "Pandemic Horde"
+      },
+      "corp": {
+        "id": 98558506,
+        "name": "A Blessed Bean"
+      },
+      "char": {
+        "id": 95954948,
+        "name": "Etolis Andedare"
+      },
+      "ship": {
+        "id": 585,
+        "name": "Slasher"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1354830081,
+          "name": "Goonswarm Federation"
+        },
+        "corp": {
+          "id": 679900455,
+          "name": "Kriegsmarinewerft"
+        },
+        "char": {
+          "id": 833004444,
+          "name": "DerOdin"
+        },
+        "ship": {
+          "id": 11993,
+          "name": "Cerberus"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 308,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277703,
+    "sys": 30040141,
+    "time": 1611780367,
+    "sumV": 36983754,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40342803
+    },
+    "vict": {
+      "ally": {
+        "id": 99009268,
+        "name": "Silent Company"
+      },
+      "corp": {
+        "id": 98399497,
+        "name": "Red Cold Chili Banderlogs Academy"
+      },
+      "char": {
+        "id": 93129552,
+        "name": "Anton Shieldsy"
+      },
+      "ship": {
+        "id": 33475,
+        "name": "Mobile Tractor Unit"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99010585,
+          "name": "Legitimate Business"
+        },
+        "corp": {
+          "id": 98667223,
+          "name": "Up. Tempo"
+        },
+        "char": {
+          "id": 1679997286,
+          "name": "Ntel1"
+        },
+        "ship": {
+          "id": 37483,
+          "name": "Magus"
+        },
+        "weap": {
+          "id": 2881,
+          "name": "150mm Light AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 49344,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277702,
+    "sys": 31000846,
+    "time": 1611780365,
+    "sumV": 6968970,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": true,
+      "solo": false,
+      "awox": false,
+      "loc": 40395217
+    },
+    "vict": {
+      "ally": {
+        "id": 99010346,
+        "name": "Black Force Federation"
+      },
+      "corp": {
+        "id": 98664242,
+        "name": "White Order"
+      },
+      "char": {
+        "id": 2118076296,
+        "name": "Aikara Shiyurida"
+      },
+      "ship": {
+        "id": 32880,
+        "name": "Venture"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": 0,
+        "char": 0,
+        "ship": {
+          "id": 30460,
+          "name": "Vigilant Sentry Tower"
+        },
+        "weap": 0,
+        "fctn": 500021,
+        "dmg": 678,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277700,
+    "sys": 30000207,
+    "time": 1611780344,
+    "sumV": 4011090,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 92693692,
+        "name": "Guy okaske"
+      },
+      "ship": {
+        "id": 23057,
+        "name": "Dragonfly I"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 90763727,
+          "name": "Tabord Ormand"
+        },
+        "ship": {
+          "id": 17740,
+          "name": "Vindicator"
+        },
+        "weap": {
+          "id": 3186,
+          "name": "Neutron Blaster Cannon II"
+        },
+        "fctn": 0,
+        "dmg": 11103,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277695,
+    "sys": 30004759,
+    "time": 1611780329,
+    "sumV": 67854854,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010994
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 98366055,
+        "name": "Ministry of Offense"
+      },
+      "char": {
+        "id": 94400433,
+        "name": "Jolly Nymphe"
+      },
+      "ship": {
+        "id": 12034,
+        "name": "Hound"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1727758877,
+          "name": "Northern Coalition."
+        },
+        "corp": {
+          "id": 402487260,
+          "name": "FinFleet"
+        },
+        "char": {
+          "id": 95112684,
+          "name": "True Messenger"
+        },
+        "ship": {
+          "id": 29986,
+          "name": "Legion"
+        },
+        "weap": {
+          "id": 3025,
+          "name": "Heavy Beam Laser II"
+        },
+        "fctn": 0,
+        "dmg": 447,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277692,
+    "sys": 30001198,
+    "time": 1611780317,
+    "sumV": 20996328,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40076054
+    },
+    "vict": {
+      "ally": {
+        "id": 99007252,
+        "name": "The Ancients."
+      },
+      "corp": {
+        "id": 98553215,
+        "name": "F.U.N. Inc."
+      },
+      "char": {
+        "id": 1969221517,
+        "name": "Luckyyy Strike"
+      },
+      "ship": {
+        "id": 17703,
+        "name": "Imperial Navy Slicer"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99003214,
+          "name": "Brave Collective"
+        },
+        "corp": {
+          "id": 98522659,
+          "name": "Incredible."
+        },
+        "char": {
+          "id": 96875547,
+          "name": "Marroc"
+        },
+        "ship": {
+          "id": 16242,
+          "name": "Thrasher"
+        },
+        "weap": {
+          "id": 16242,
+          "name": "Thrasher"
+        },
+        "fctn": 0,
+        "dmg": 644,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277691,
+    "sys": 31000923,
+    "time": 1611780313,
+    "sumV": 4531223,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 40399162
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000167,
+        "name": "State War Academy"
+      },
+      "char": {
+        "id": 2118124613,
+        "name": "Milibet Grey"
+      },
+      "ship": {
+        "id": 605,
+        "name": "Heron"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009606,
+          "name": "Silentium Consortium"
+        },
+        "corp": {
+          "id": 98322623,
+          "name": "Interbellum"
+        },
+        "char": {
+          "id": 2117368656,
+          "name": "Oalsur Ogeko"
+        },
+        "ship": {
+          "id": 33468,
+          "name": "Astero"
+        },
+        "weap": {
+          "id": 28262,
+          "name": "'Integrated' Acolyte"
+        },
+        "fctn": 0,
+        "dmg": 1031,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277689,
+    "sys": 30004759,
+    "time": 1611780305,
+    "sumV": 15766921,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010994
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 1184675423,
+        "name": "Amok."
+      },
+      "char": {
+        "id": 95852402,
+        "name": "take it boy"
+      },
+      "ship": {
+        "id": 16240,
+        "name": "Catalyst"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1727758877,
+          "name": "Northern Coalition."
+        },
+        "corp": {
+          "id": 402487260,
+          "name": "FinFleet"
+        },
+        "char": {
+          "id": 95112684,
+          "name": "True Messenger"
+        },
+        "ship": {
+          "id": 29986,
+          "name": "Legion"
+        },
+        "weap": {
+          "id": 3025,
+          "name": "Heavy Beam Laser II"
+        },
+        "fctn": 0,
+        "dmg": 537,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277688,
+    "sys": 30001251,
+    "time": 1611780289,
+    "sumV": 67615139,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50009566
+    },
+    "vict": {
+      "ally": {
+        "id": 99008809,
+        "name": "Already Replaced."
+      },
+      "corp": {
+        "id": 98582741,
+        "name": "Blazing Capsules"
+      },
+      "char": {
+        "id": 2113772076,
+        "name": "Mxracer006006"
+      },
+      "ship": {
+        "id": 33816,
+        "name": "Garmur"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 1220922756,
+          "name": "Red Alliance"
+        },
+        "corp": {
+          "id": 98561015,
+          "name": "PTUSHNIKI"
+        },
+        "char": {
+          "id": 789846275,
+          "name": "Gufich"
+        },
+        "ship": {
+          "id": 29340,
+          "name": "Osprey Navy Issue"
+        },
+        "weap": {
+          "id": 27361,
+          "name": "Caldari Navy Scourge Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 101,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277687,
+    "sys": 30002718,
+    "time": 1611780288,
+    "sumV": 4423,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50006983
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000170,
+        "name": "Republic Military School"
+      },
+      "char": {
+        "id": 2118080429,
+        "name": "Lysander Vance"
+      },
+      "ship": {
+        "id": 588,
+        "name": "Reaper"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98400319,
+          "name": "Safety Set To Red"
+        },
+        "char": {
+          "id": 94020078,
+          "name": "Xavier Ghasha"
+        },
+        "ship": {
+          "id": 47466,
+          "name": "Praxis"
+        },
+        "weap": {
+          "id": 3995,
+          "name": "Large EMP Smartbomb II"
+        },
+        "fctn": 0,
+        "dmg": 421,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277686,
+    "sys": 30001198,
+    "time": 1611780287,
+    "sumV": 126944529,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50002354
+    },
+    "vict": {
+      "ally": {
+        "id": 495729389,
+        "name": "Shadow Cartel"
+      },
+      "corp": {
+        "id": 98115937,
+        "name": "Yamagata Syndicate"
+      },
+      "char": {
+        "id": 803586428,
+        "name": "Piscis"
+      },
+      "ship": {
+        "id": 11186,
+        "name": "Malediction"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99003214,
+          "name": "Brave Collective"
+        },
+        "corp": {
+          "id": 98169165,
+          "name": "Brave Newbies Inc."
+        },
+        "char": {
+          "id": 1549195275,
+          "name": "Val Auroris"
+        },
+        "ship": {
+          "id": 29986,
+          "name": "Legion"
+        },
+        "weap": {
+          "id": 3025,
+          "name": "Heavy Beam Laser II"
+        },
+        "fctn": 0,
+        "dmg": 3259,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277684,
+    "sys": 30000207,
+    "time": 1611780284,
+    "sumV": 4011090,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 92693692,
+        "name": "Guy okaske"
+      },
+      "ship": {
+        "id": 23057,
+        "name": "Dragonfly I"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 95443818,
+          "name": "TaiFy"
+        },
+        "ship": {
+          "id": 24702,
+          "name": "Hurricane"
+        },
+        "weap": {
+          "id": 2897,
+          "name": "220mm Vulcan AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 4246,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277685,
+    "sys": 30000207,
+    "time": 1611780284,
+    "sumV": 3627733,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 92693692,
+        "name": "Guy okaske"
+      },
+      "ship": {
+        "id": 23055,
+        "name": "Templar I"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 90763727,
+          "name": "Tabord Ormand"
+        },
+        "ship": {
+          "id": 17740,
+          "name": "Vindicator"
+        },
+        "weap": {
+          "id": 3186,
+          "name": "Neutron Blaster Cannon II"
+        },
+        "fctn": 0,
+        "dmg": 10986,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277681,
+    "sys": 31000382,
+    "time": 1611780281,
+    "sumV": 128403707,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 6,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40370584
+    },
+    "vict": {
+      "ally": {
+        "id": 937872513,
+        "name": "Ivy League"
+      },
+      "corp": {
+        "id": 917701062,
+        "name": "EVE University"
+      },
+      "char": {
+        "id": 1523480576,
+        "name": "Pitheas Attikos"
+      },
+      "ship": {
+        "id": 24698,
+        "name": "Drake"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98624091,
+          "name": "Deliverance."
+        },
+        "char": {
+          "id": 95065934,
+          "name": "Naluk Mord"
+        },
+        "ship": {
+          "id": 49711,
+          "name": "Drekavac"
+        },
+        "weap": {
+          "id": 47918,
+          "name": "Heavy Entropic Disintegrator II"
+        },
+        "fctn": 0,
+        "dmg": 1741,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277678,
+    "sys": 30045352,
+    "time": 1611780260,
+    "sumV": 94388439,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 5,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 60015073
+    },
+    "vict": {
+      "ally": {
+        "id": 99004295,
+        "name": "A Band Apart."
+      },
+      "corp": {
+        "id": 98199279,
+        "name": "Stay Frosty."
+      },
+      "char": {
+        "id": 890208342,
+        "name": "Phoenix IV"
+      },
+      "ship": {
+        "id": 17932,
+        "name": "Dramiel"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99010412,
+          "name": "Nisuwa Cartel"
+        },
+        "corp": {
+          "id": 98514543,
+          "name": "Guardians of Parallel World"
+        },
+        "char": {
+          "id": 2115875944,
+          "name": "Estel Mythchoi"
+        },
+        "ship": {
+          "id": 28606,
+          "name": "Orca"
+        },
+        "weap": {
+          "id": 28272,
+          "name": "'Augmented' Hammerhead"
+        },
+        "fctn": 0,
+        "dmg": 4341,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277673,
+    "sys": 30004766,
+    "time": 1611780238,
+    "sumV": 32780761,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 10,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50011162
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 98361497,
+        "name": "True Faces Hungary"
+      },
+      "char": {
+        "id": 2113665645,
+        "name": "III Markos Laszlo"
+      },
+      "ship": {
+        "id": 11174,
+        "name": "Keres"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99003581,
+          "name": "Fraternity."
+        },
+        "corp": {
+          "id": 98133337,
+          "name": "Evil Space Goblins"
+        },
+        "char": {
+          "id": 2083735210,
+          "name": "Coreya"
+        },
+        "ship": {
+          "id": 2006,
+          "name": "Omen"
+        },
+        "weap": {
+          "id": 3009,
+          "name": "Focused Medium Beam Laser II"
+        },
+        "fctn": 0,
+        "dmg": 2137,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277667,
+    "sys": 30001966,
+    "time": 1611780226,
+    "sumV": 66392532,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40125588
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98552448,
+        "name": "OMGFLAMMINGKITTEN"
+      },
+      "char": {
+        "id": 2112511362,
+        "name": "The Sinner"
+      },
+      "ship": {
+        "id": 17924,
+        "name": "Succubus"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98596389,
+          "name": "Sons of Luminaire"
+        },
+        "char": {
+          "id": 2113504961,
+          "name": "Saucy Swag"
+        },
+        "ship": {
+          "id": 17718,
+          "name": "Phantasm"
+        },
+        "weap": {
+          "id": 3025,
+          "name": "Heavy Beam Laser II"
+        },
+        "fctn": 0,
+        "dmg": 324,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277666,
+    "sys": 30004759,
+    "time": 1611780224,
+    "sumV": 49151234,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50010994
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 98370861,
+        "name": "KarmaFleet"
+      },
+      "char": {
+        "id": 2116970854,
+        "name": "Cathy Axola"
+      },
+      "ship": {
+        "id": 37458,
+        "name": "Kirin"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009444,
+          "name": "Muh Zkill..."
+        },
+        "corp": {
+          "id": 98609876,
+          "name": "Why You Running..."
+        },
+        "char": {
+          "id": 163453045,
+          "name": "darkshadowalpha"
+        },
+        "ship": {
+          "id": 33816,
+          "name": "Garmur"
+        },
+        "weap": {
+          "id": 27371,
+          "name": "Caldari Navy Inferno Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 891,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277663,
+    "sys": 30002647,
+    "time": 1611780209,
+    "sumV": 4717582,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50003437
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98563551,
+        "name": "Winged Husars"
+      },
+      "char": {
+        "id": 2115497382,
+        "name": "Sir Crapsalot"
+      },
+      "ship": {
+        "id": 19744,
+        "name": "Sigil"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98500873,
+          "name": "xxx XPAM PA3BPATA xxx"
+        },
+        "char": {
+          "id": 94996717,
+          "name": "Frend Arran"
+        },
+        "ship": {
+          "id": 33470,
+          "name": "Stratios"
+        },
+        "weap": {
+          "id": 2446,
+          "name": "Ogre II"
+        },
+        "fctn": 0,
+        "dmg": 5958,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277658,
+    "sys": 30002718,
+    "time": 1611780194,
+    "sumV": 2797529,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50006983
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98664294,
+        "name": "Hyperion Industrys Corp."
+      },
+      "char": {
+        "id": 97138494,
+        "name": "excelbao"
+      },
+      "ship": {
+        "id": 32880,
+        "name": "Venture"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98400319,
+          "name": "Safety Set To Red"
+        },
+        "char": {
+          "id": 2117174438,
+          "name": "Mr NeonCat"
+        },
+        "ship": {
+          "id": 47466,
+          "name": "Praxis"
+        },
+        "weap": {
+          "id": 9678,
+          "name": "Large 'Vehemence' Shockwave Charge"
+        },
+        "fctn": 0,
+        "dmg": 728,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277656,
+    "sys": 30001966,
+    "time": 1611780193,
+    "sumV": 1909079276,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 10,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40125588
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98552448,
+        "name": "OMGFLAMMINGKITTEN"
+      },
+      "char": {
+        "id": 2112511362,
+        "name": "The Sinner"
+      },
+      "ship": {
+        "id": 17738,
+        "name": "Machariel"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98596389,
+          "name": "Sons of Luminaire"
+        },
+        "char": {
+          "id": 96739678,
+          "name": "Starac"
+        },
+        "ship": {
+          "id": 17718,
+          "name": "Phantasm"
+        },
+        "weap": {
+          "id": 3025,
+          "name": "Heavy Beam Laser II"
+        },
+        "fctn": 0,
+        "dmg": 40692,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277652,
+    "sys": 30000252,
+    "time": 1611780187,
+    "sumV": 1463797,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 5,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 50002214
+    },
+    "vict": {
+      "ally": {
+        "id": 99009265,
+        "name": "S I L E N T."
+      },
+      "corp": {
+        "id": 728155752,
+        "name": "Five-0"
+      },
+      "char": {
+        "id": 2117101637,
+        "name": "Kyuubid3mon"
+      },
+      "ship": {
+        "id": 584,
+        "name": "Griffin"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009129,
+          "name": "No Visual."
+        },
+        "corp": {
+          "id": 98563910,
+          "name": "Swager-Industry Industris"
+        },
+        "char": {
+          "id": 97237218,
+          "name": "swagman swagmanovec"
+        },
+        "ship": {
+          "id": 33818,
+          "name": "Orthrus"
+        },
+        "weap": {
+          "id": 27383,
+          "name": "Guristas Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1030,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277651,
+    "sys": 30002704,
+    "time": 1611780186,
+    "sumV": 109693122,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 25,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 40172020
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98614492,
+        "name": "Pandemic Horde High Sec Division"
+      },
+      "char": {
+        "id": 2113345800,
+        "name": "bean Ambramotte"
+      },
+      "ship": {
+        "id": 626,
+        "name": "Vexor"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 1000111,
+          "name": "Aliastra"
+        },
+        "char": {
+          "id": 1879536553,
+          "name": "Amidalla Farell"
+        },
+        "ship": {
+          "id": 33470,
+          "name": "Stratios"
+        },
+        "weap": {
+          "id": 3130,
+          "name": "Heavy Electron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 7220,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277649,
+    "sys": 30000848,
+    "time": 1611780181,
+    "sumV": 356659262,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 7,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50014053
+    },
+    "vict": {
+      "ally": {
+        "id": 99009321,
+        "name": "Outfoxed"
+      },
+      "corp": {
+        "id": 98491666,
+        "name": "Foxholers"
+      },
+      "char": {
+        "id": 96724445,
+        "name": "Rex Reynolds"
+      },
+      "ship": {
+        "id": 47270,
+        "name": "Vedmak"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98669578,
+          "name": "Apriore"
+        },
+        "char": {
+          "id": 1826991581,
+          "name": "Ka Rin"
+        },
+        "ship": {
+          "id": 594,
+          "name": "Incursus"
+        },
+        "weap": {
+          "id": 3162,
+          "name": "Light Electron Blaster II"
+        },
+        "fctn": 500003,
+        "dmg": 3568,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277645,
+    "sys": 30000207,
+    "time": 1611780164,
+    "sumV": 11173509,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 92693684,
+        "name": "Sonny Okaski"
+      },
+      "ship": {
+        "id": 40557,
+        "name": "Dragonfly II"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 2113633172,
+          "name": "MbiP KoTaKoB"
+        },
+        "ship": {
+          "id": 49711,
+          "name": "Drekavac"
+        },
+        "weap": {
+          "id": 47918,
+          "name": "Heavy Entropic Disintegrator II"
+        },
+        "fctn": 0,
+        "dmg": 3621,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277646,
+    "sys": 30000207,
+    "time": 1611780164,
+    "sumV": 11173509,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 92693684,
+        "name": "Sonny Okaski"
+      },
+      "ship": {
+        "id": 40557,
+        "name": "Dragonfly II"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 2117165312,
+          "name": "Aeruoms"
+        },
+        "ship": {
+          "id": 24696,
+          "name": "Harbinger"
+        },
+        "weap": {
+          "id": 6963,
+          "name": "Heavy Modulated Energy Beam I"
+        },
+        "fctn": 0,
+        "dmg": 4013,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277647,
+    "sys": 30000207,
+    "time": 1611780164,
+    "sumV": 11173509,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 92693684,
+        "name": "Sonny Okaski"
+      },
+      "ship": {
+        "id": 40557,
+        "name": "Dragonfly II"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 90763727,
+          "name": "Tabord Ormand"
+        },
+        "ship": {
+          "id": 17740,
+          "name": "Vindicator"
+        },
+        "weap": {
+          "id": 3186,
+          "name": "Neutron Blaster Cannon II"
+        },
+        "fctn": 0,
+        "dmg": 11504,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277641,
+    "sys": 30000148,
+    "time": 1611780156,
+    "sumV": 61495652,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": true,
+      "solo": false,
+      "awox": false,
+      "loc": 40009470
+    },
+    "vict": {
+      "ally": {
+        "id": 99009478,
+        "name": "DEMONS ENABLED"
+      },
+      "corp": {
+        "id": 98615618,
+        "name": "CERTIFIED DEMONS"
+      },
+      "char": {
+        "id": 2117891563,
+        "name": "That guy Dave"
+      },
+      "ship": {
+        "id": 17476,
+        "name": "Covetor"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 1000141,
+          "name": "Guristas Production"
+        },
+        "char": 0,
+        "ship": {
+          "id": 43616,
+          "name": "♦ Condor"
+        },
+        "weap": 0,
+        "fctn": 0,
+        "dmg": 5449,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277638,
+    "sys": 30000848,
+    "time": 1611780145,
+    "sumV": 369514938,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50014053
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98441948,
+        "name": "The Versa-Ex Academy"
+      },
+      "char": {
+        "id": 91440948,
+        "name": "Goppi Koks"
+      },
+      "ship": {
+        "id": 29990,
+        "name": "Loki"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009321,
+          "name": "Outfoxed"
+        },
+        "corp": {
+          "id": 98491666,
+          "name": "Foxholers"
+        },
+        "char": {
+          "id": 2115285511,
+          "name": "Suzi Uljanow"
+        },
+        "ship": {
+          "id": 35683,
+          "name": "Hecate"
+        },
+        "weap": {
+          "id": 3178,
+          "name": "Light Neutron Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 1145,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277635,
+    "sys": 30000831,
+    "time": 1611780133,
+    "sumV": 81622368,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40052608
+    },
+    "vict": {
+      "ally": {
+        "id": 99005724,
+        "name": "The Minions."
+      },
+      "corp": {
+        "id": 849473841,
+        "name": "Beach Boys"
+      },
+      "char": {
+        "id": 90246223,
+        "name": "Delta theOne"
+      },
+      "ship": {
+        "id": 34828,
+        "name": "Jackdaw"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99002685,
+          "name": "Synergy of Steel"
+        },
+        "corp": {
+          "id": 98621941,
+          "name": "Novus Unitas"
+        },
+        "char": {
+          "id": 95972536,
+          "name": "fabkekz Ohmiras"
+        },
+        "ship": {
+          "id": 17738,
+          "name": "Machariel"
+        },
+        "weap": {
+          "id": 9491,
+          "name": "1400mm 'Scout' Artillery I"
+        },
+        "fctn": 0,
+        "dmg": 2863,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277637,
+    "sys": 30002718,
+    "time": 1611780133,
+    "sumV": 34517959,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50006983
+    },
+    "vict": {
+      "ally": {
+        "id": 99005100,
+        "name": "All My Friends Are Ded"
+      },
+      "corp": {
+        "id": 98576506,
+        "name": "Brave Operations - Industry Division"
+      },
+      "char": {
+        "id": 96107459,
+        "name": "Magus Noctis Marchosias"
+      },
+      "ship": {
+        "id": 11186,
+        "name": "Malediction"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98400319,
+          "name": "Safety Set To Red"
+        },
+        "char": {
+          "id": 94020078,
+          "name": "Xavier Ghasha"
+        },
+        "ship": {
+          "id": 47466,
+          "name": "Praxis"
+        },
+        "weap": {
+          "id": 3995,
+          "name": "Large EMP Smartbomb II"
+        },
+        "fctn": 0,
+        "dmg": 817,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277634,
+    "sys": 30000848,
+    "time": 1611780131,
+    "sumV": 202911701,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50014053
+    },
+    "vict": {
+      "ally": {
+        "id": 99009321,
+        "name": "Outfoxed"
+      },
+      "corp": {
+        "id": 98491666,
+        "name": "Foxholers"
+      },
+      "char": {
+        "id": 93135332,
+        "name": "L Orek"
+      },
+      "ship": {
+        "id": 4302,
+        "name": "Oracle"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98518226,
+          "name": "With our Fears"
+        },
+        "char": {
+          "id": 1522832242,
+          "name": "On1"
+        },
+        "ship": {
+          "id": 11963,
+          "name": "Rapier"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1262,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277631,
+    "sys": 30001158,
+    "time": 1611780113,
+    "sumV": 39236208,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 11,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50001319
+    },
+    "vict": {
+      "ally": {
+        "id": 1354830081,
+        "name": "Goonswarm Federation"
+      },
+      "corp": {
+        "id": 98397049,
+        "name": "The Flying Dead."
+      },
+      "char": {
+        "id": 2117610404,
+        "name": "Shadow Warrior85"
+      },
+      "ship": {
+        "id": 11198,
+        "name": "Stiletto"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99006371,
+          "name": "Simple Farmers"
+        },
+        "corp": {
+          "id": 98655573,
+          "name": "Farmhouse."
+        },
+        "char": {
+          "id": 276197067,
+          "name": "Mr Kunta"
+        },
+        "ship": {
+          "id": 22456,
+          "name": "Sabre"
+        },
+        "weap": {
+          "id": 2881,
+          "name": "150mm Light AutoCannon II"
+        },
+        "fctn": 0,
+        "dmg": 1317,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277628,
+    "sys": 30005224,
+    "time": 1611780100,
+    "sumV": 1971163,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 40330218
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000167,
+        "name": "State War Academy"
+      },
+      "char": {
+        "id": 2117936008,
+        "name": "Akkula Togenada"
+      },
+      "ship": {
+        "id": 602,
+        "name": "Kestrel"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009416,
+          "name": "THE BESTICLES"
+        },
+        "corp": {
+          "id": 98450568,
+          "name": "Mosh Pit"
+        },
+        "char": {
+          "id": 359753716,
+          "name": "Duhust"
+        },
+        "ship": {
+          "id": 29990,
+          "name": "Loki"
+        },
+        "weap": {
+          "id": 24490,
+          "name": "Mjolnir Rage Heavy Assault Missile"
+        },
+        "fctn": 0,
+        "dmg": 1711,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277625,
+    "sys": 30045308,
+    "time": 1611780082,
+    "sumV": 334149501,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 22,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50016234
+    },
+    "vict": {
+      "ally": {
+        "id": 99009756,
+        "name": "Vulkaran Coalition"
+      },
+      "corp": {
+        "id": 98645417,
+        "name": "University of Vulkara"
+      },
+      "char": {
+        "id": 2117242018,
+        "name": "darthzaul"
+      },
+      "ship": {
+        "id": 641,
+        "name": "Megathron"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009972,
+          "name": "Black. Flag."
+        },
+        "corp": {
+          "id": 98318424,
+          "name": "Holy Cookie"
+        },
+        "char": {
+          "id": 96855995,
+          "name": "Captn Michonne"
+        },
+        "ship": {
+          "id": 29990,
+          "name": "Loki"
+        },
+        "weap": {
+          "id": 24488,
+          "name": "Nova Rage Heavy Assault Missile"
+        },
+        "fctn": 0,
+        "dmg": 19243,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277626,
+    "sys": 30000848,
+    "time": 1611780082,
+    "sumV": 239424599,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 2,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50014053
+    },
+    "vict": {
+      "ally": {
+        "id": 99009321,
+        "name": "Outfoxed"
+      },
+      "corp": {
+        "id": 98491666,
+        "name": "Foxholers"
+      },
+      "char": {
+        "id": 93288477,
+        "name": "Gray Arachnid"
+      },
+      "ship": {
+        "id": 47270,
+        "name": "Vedmak"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98068901,
+          "name": "The Versa-Ex Corp"
+        },
+        "char": {
+          "id": 90670878,
+          "name": "Allake Pisakin"
+        },
+        "ship": {
+          "id": 33818,
+          "name": "Orthrus"
+        },
+        "weap": {
+          "id": 27387,
+          "name": "Caldari Navy Mjolnir Light Missile"
+        },
+        "fctn": 0,
+        "dmg": 1653,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277623,
+    "sys": 30000848,
+    "time": 1611780072,
+    "sumV": 133239226,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 4,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 50014053
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 98607248,
+        "name": "King Crab Party"
+      },
+      "char": {
+        "id": 2114940952,
+        "name": "Sadizma"
+      },
+      "ship": {
+        "id": 24702,
+        "name": "Hurricane"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99009321,
+          "name": "Outfoxed"
+        },
+        "corp": {
+          "id": 98491666,
+          "name": "Foxholers"
+        },
+        "char": {
+          "id": 93135332,
+          "name": "L Orek"
+        },
+        "ship": {
+          "id": 4302,
+          "name": "Oracle"
+        },
+        "weap": {
+          "id": 3057,
+          "name": "Mega Pulse Laser II"
+        },
+        "fctn": 0,
+        "dmg": 1669,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277622,
+    "sys": 30040141,
+    "time": 1611780063,
+    "sumV": 233551375,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 40,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40342803
+    },
+    "vict": {
+      "ally": {
+        "id": 99009268,
+        "name": "Silent Company"
+      },
+      "corp": {
+        "id": 98399497,
+        "name": "Red Cold Chili Banderlogs Academy"
+      },
+      "char": {
+        "id": 93129552,
+        "name": "Anton Shieldsy"
+      },
+      "ship": {
+        "id": 47466,
+        "name": "Praxis"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99010585,
+          "name": "Legitimate Business"
+        },
+        "corp": {
+          "id": 98667223,
+          "name": "Up. Tempo"
+        },
+        "char": {
+          "id": 96368500,
+          "name": "Karl Ecnal"
+        },
+        "ship": {
+          "id": 11999,
+          "name": "Vagabond"
+        },
+        "weap": {
+          "id": 11999,
+          "name": "Vagabond"
+        },
+        "fctn": 0,
+        "dmg": 33042,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277621,
+    "sys": 30000135,
+    "time": 1611780060,
+    "sumV": 77944587,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": true,
+      "solo": false,
+      "awox": false,
+      "loc": 40008610
+    },
+    "vict": {
+      "ally": {
+        "id": 1900696668,
+        "name": "The Initiative."
+      },
+      "corp": {
+        "id": 773499566,
+        "name": "The Graduates"
+      },
+      "char": {
+        "id": 726712472,
+        "name": "Renius"
+      },
+      "ship": {
+        "id": 35683,
+        "name": "Hecate"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 1000274,
+          "name": "Vigilant Tyrannos"
+        },
+        "char": {
+          "id": 3019581,
+          "name": "Artemis Tyrannos"
+        },
+        "ship": {
+          "id": 34495,
+          "name": "Drifter Battleship"
+        },
+        "weap": {
+          "id": 34580,
+          "name": "Lux Kontos"
+        },
+        "fctn": 500024,
+        "dmg": 2155,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277614,
+    "sys": 30000207,
+    "time": 1611780044,
+    "sumV": 384458079,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 2117924016,
+        "name": "Marc2343"
+      },
+      "ship": {
+        "id": 24698,
+        "name": "Drake"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 2113633172,
+          "name": "MbiP KoTaKoB"
+        },
+        "ship": {
+          "id": 49711,
+          "name": "Drekavac"
+        },
+        "weap": {
+          "id": 47918,
+          "name": "Heavy Entropic Disintegrator II"
+        },
+        "fctn": 0,
+        "dmg": 2009,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277609,
+    "sys": 30000207,
+    "time": 1611780036,
+    "sumV": 48720080,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 1,
+      "npc": false,
+      "solo": false,
+      "awox": false,
+      "loc": 40013137
+    },
+    "vict": {
+      "ally": {
+        "id": 99009177,
+        "name": "Etsala Legion"
+      },
+      "corp": {
+        "id": 98511671,
+        "name": "The Alliance Navy ."
+      },
+      "char": {
+        "id": 2118143673,
+        "name": "Abracaxx"
+      },
+      "ship": {
+        "id": 621,
+        "name": "Caracal"
+      },
+      "fctn": 0
+    },
+    "atts": [
+      {
+        "ally": {
+          "id": 99008697,
+          "name": "GF Company"
+        },
+        "corp": {
+          "id": 98550309,
+          "name": "Phoenix Tag."
+        },
+        "char": {
+          "id": 2117165312,
+          "name": "Aeruoms"
+        },
+        "ship": {
+          "id": 24696,
+          "name": "Harbinger"
+        },
+        "weap": {
+          "id": 6963,
+          "name": "Heavy Modulated Energy Beam I"
+        },
+        "fctn": 0,
+        "dmg": 4728,
+        "blow": true
+      }
+    ]
+  },
+  {
+    "_id": 90277607,
+    "sys": 30002066,
+    "time": 1611780030,
+    "sumV": 62216155,
+    "moon": 0,
+    "war": 0,
+    "zkb": {
+      "pts": 40,
+      "npc": false,
+      "solo": true,
+      "awox": false,
+      "loc": 40131855
+    },
+    "vict": {
+      "ally": 0,
+      "corp": {
+        "id": 1000182,
+        "name": "Tribal Liberation Force"
+      },
+      "char": {
+        "id": 2116479949,
+        "name": "freekinator"
+      },
+      "ship": {
+        "id": 17480,
+        "name": "Procurer"
+      },
+      "fctn": 500002
+    },
+    "atts": [
+      {
+        "ally": 0,
+        "corp": {
+          "id": 98652899,
+          "name": "Eternal Life Rus"
+        },
+        "char": {
+          "id": 2116355582,
+          "name": "Frozen Tea"
+        },
+        "ship": {
+          "id": 16240,
+          "name": "Catalyst"
+        },
+        "weap": {
+          "id": 3170,
+          "name": "Light Ion Blaster II"
+        },
+        "fctn": 0,
+        "dmg": 29321,
+        "blow": true
+      }
+    ]
+  }
+]
