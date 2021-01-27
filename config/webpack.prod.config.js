@@ -142,6 +142,7 @@ module.exports = {
     }),
     new WebpackManifestPlugin({
       fileName: 'assets.json',
+      filter: fileDescr => fileDescr.isChunk,
     }),
     new webpack.NormalModuleReplacementPlugin(
       /popper.js/,

@@ -11,7 +11,9 @@ export const getMuiTheme = theme => {
     dark: isDark,
     light: !isDark,
     palette: {
-      type: theme, // 'dark' / 'light'
+      // type: theme, // 'dark' / 'light'
+      type: 'dark',
+
       // primary: {
       //   main: '#96CEF6',
       //   contrastText: '#142426',

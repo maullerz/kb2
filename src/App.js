@@ -31,9 +31,6 @@ const App = () => {
     setThemeSettings(getMuiTheme(theme))
   }, [theme])
 
-  console.log('loading:', loading)
-  console.log('themeSettings:', themeSettings)
-
   if (loading || !themeSettings) return null
 
   return (
