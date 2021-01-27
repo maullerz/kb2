@@ -16,15 +16,13 @@ const aliases = require(path.resolve(rootDirectory, 'config/aliases'))
 module.exports = {
   mode: 'development',
 
+  target: 'web',
+
   // https://webpack.js.org/configuration/devtool/#development
   devtool: 'eval-cheap-source-map', // fast, transformed code (lines only)
   // devtool: 'inline-source-map', // slow, original source
 
-  entry: {
-    main: [
-      `${clientDir}/index.js`,
-    ],
-  },
+  entry: path.resolve(clientDir, 'index.js'),
 
   resolve: {
     alias: {

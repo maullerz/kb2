@@ -14,6 +14,24 @@ module.exports = function getConfig(api) {
 
   const plugins = [
     [
+      'babel-plugin-import',
+      {
+        'libraryName': '@material-ui/core',
+        'libraryDirectory': 'esm',
+        'camel2DashComponentName': false,
+      },
+      'core',
+    ],
+    [
+      'babel-plugin-import',
+      {
+        'libraryName': '@material-ui/icons',
+        'libraryDirectory': 'esm',
+        'camel2DashComponentName': false,
+      },
+      'icons',
+    ],
+    [
       '@babel/plugin-transform-runtime',
       {
         corejs: false,
@@ -59,22 +77,7 @@ module.exports = function getConfig(api) {
       presets: [
         ['@babel/preset-env', { targets: { node: 'current' } }],
       ],
-      plugins: [
-        [
-          '@babel/plugin-transform-runtime',
-          {
-            corejs: false,
-            helpers: true,
-            regenerator: true,
-            useESModules: true,
-          },
-        ],
-        '@babel/plugin-proposal-class-properties',
-        '@babel/plugin-proposal-object-rest-spread',
-        '@babel/plugin-syntax-dynamic-import',
-        'lodash',
-        'date-fns',
-      ],
+      plugins,
     },
   }
 

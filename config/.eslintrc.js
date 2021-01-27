@@ -39,10 +39,11 @@ const config = {
   rules: {
     'semi': ['error', 'never'],
     'linebreak-style': 0,
-    'max-len': 0,
     'quotes': ['error', 'single', { allowTemplateLiterals: true }],
     'jsx-quotes': ['error', 'prefer-single'],
     'quote-props': ['error', 'consistent-as-needed'],
+    'arrow-parens': ['error', 'as-needed'],
+    'max-len': 0,
     // 'max-len': ['error', 120, 2, {
     //   ignoreUrls: true,
     //   ignoreComments: true,
@@ -99,6 +100,7 @@ if (process.env.NODE_ENV === 'development') {
   config.rules['no-undef'] = 1
   config.rules['react/jsx-no-undef'] = 1
   config.rules['no-unreachable'] = 1
+  config.rules['no-console'] = 0
 }
 
 module.exports = config

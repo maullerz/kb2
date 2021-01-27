@@ -10,6 +10,7 @@ module.exports = {
   components: path.resolve(appDirectory, 'src/components'),
 
   modules: path.resolve(appDirectory, 'src/modules'),
+  store: path.resolve(appDirectory, 'src/store'),
   layouts: path.resolve(appDirectory, 'src/layouts'),
   services: path.resolve(appDirectory, 'src/services'),
 

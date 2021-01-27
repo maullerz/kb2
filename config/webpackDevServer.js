@@ -40,10 +40,10 @@ const devServerConfig = {
   quiet: false,
   noInfo: false,
   lazy: false,
-  overlay: {
-    warnings: false,
-    errors: true,
-  },
+  // overlay: {
+  //   warnings: true,
+  //   errors: true,
+  // },
 
   proxy,
   compress: true,

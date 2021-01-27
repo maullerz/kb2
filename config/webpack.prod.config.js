@@ -7,6 +7,8 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
+const TerserPlugin = require('terser-webpack-plugin')
+const { WebpackManifestPlugin } = require('webpack-manifest-plugin')
 
 const rootDirectory = fs.realpathSync(process.cwd())
 const outputDir = path.resolve(rootDirectory, 'dist')
@@ -23,9 +25,7 @@ module.exports = {
 
   target: 'web',
 
-  entry: {
-    main: path.resolve(clientDir, 'index.js'),
-  },
+  entry: path.resolve(clientDir, 'index.js'),
 
   output: {
     path: outputDir,
@@ -56,22 +56,72 @@ module.exports = {
   optimization: {
     minimize: true,
     emitOnErrors: true,
-    // moduleIds: 'deterministic',
-    // runtimeChunk: 'single',
-    // splitChunks: {
-    //   cacheGroups: {
-    //     defaultVendors: {
-    //       test: /[\\/]node_modules[\\/]/,
-    //       name: 'vendors',
-    //       chunks: 'all',
-    //     },
-    //   },
-    // },
+    moduleIds: 'deterministic',
+    runtimeChunk: 'single',
+    splitChunks: {
+      cacheGroups: {
+        uilib: {
+          test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
+          name: 'mui',
+          chunks: 'all',
+        },
+        vendor: {
+          test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+          name: 'react',
+          chunks: 'all',
+        },
+        commons: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all'
+        },
+      },
+    },
+    minimizer: [
+      new TerserPlugin({
+        extractComments: false,
+        // Use multi-process parallel running to improve the build speed
+        // Default number of concurrent runs: os.cpus().length - 1
+        parallel: true,
+        // Enable file caching
+        // cache: true,
+        terserOptions: {
+          parse: {
+            // we want terser to parse ecma 8 code. However, we don't want it
+            // to apply any minfication steps that turns valid ecma 5 code
+            // into invalid ecma 5 code. This is why the 'compress' and 'output'
+            // sections only apply transformations that are ecma 5 safe
+            // https://github.com/facebook/create-react-app/pull/4234
+            ecma: 8,
+          },
+          compress: {
+            ecma: 5,
+            warnings: false,
+            // Disabled because of an issue with Uglify breaking seemingly valid code:
+            // https://github.com/facebook/create-react-app/issues/2376
+            // Pending further investigation:
+            // https://github.com/mishoo/UglifyJS2/issues/2011
+            comparisons: false,
+            // drop_console: true,
+          },
+          mangle: {
+            safari10: true,
+          },
+          output: {
+            ecma: 5,
+            comments: false,
+            // Turned on because emoji and regex is not minified properly using default
+            // https://github.com/facebook/create-react-app/issues/2488
+            ascii_only: true,
+          },
+        },
+      }),
+    ],
   },
 
   plugins: [
     new CleanWebpackPlugin({
-      verbose: true,
+      verbose: false,
       cleanOnceBeforeBuildPatterns: ['**/*'],
     }),
     new CopyWebpackPlugin({
@@ -82,6 +132,9 @@ module.exports = {
           ignore: ['**/index-template.html'],
         },
       }],
+    }),
+    new WebpackManifestPlugin({
+      fileName: 'assets.json',
     }),
     new webpack.NormalModuleReplacementPlugin(
       /popper.js/,
@@ -181,24 +234,36 @@ module.exports = {
     ],
   },
 
-  // stats: {
-  //   assets: true,
-  //   children: false,
-  //   chunks: true,
-  //   chunkModules: false,
-  //   colors: true,
-  //   entrypoints: false,
-  //   env: true,
-  //   errors: true,
-  //   errorDetails: true,
-  //   publicPath: true,
-  //   performance: false,
-  //   modules: false,
-  //   timings: true,
-  //   warnings: true,
-  // },
+  // https://webpack.js.org/configuration/stats/#stats-presets
+  // stats: 'detailed',
+  // stats: 'verbose',
+  // stats: 'normal',
+  // stats: 'minimal',
 
-  // performance: {
-  //   hints: false,
-  // },
+  stats: {
+    preset: 'verbose',
+    assets: false, // true to show images, icons, etc.
+    assetsSpace: 50,
+    assetsSort: '!size',
+    colors: true,
+    children: false,
+
+    chunkModules: false,
+    chunkOrigins: false,
+    chunksSort: '!size',
+
+    entrypoints: true,
+    logging: false,
+    modules: false,
+    relatedAssets: true,
+    timings: true,
+
+    groupAssetsByInfo: false,
+    groupAssetsByChunk: false,
+    groupAssetsByEmitStatus: false,
+  },
+
+  performance: {
+    hints: false,
+  },
 }
