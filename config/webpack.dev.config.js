@@ -50,39 +50,39 @@ module.exports = {
 
   context: rootDirectory,
 
-  optimization: {
-    minimize: false,
-    emitOnErrors: true,
-    moduleIds: 'deterministic',
-    runtimeChunk: 'single',
-    splitChunks: {
-      cacheGroups: {
-        // uilib: {
-        //   test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
-        //   name: 'mui',
-        //   chunks: 'all',
-        // },
-        // vendor: {
-        //   test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-        //   name: 'react',
-        //   chunks: 'all',
-        // },
-        commons: {
-          test: /[\\/]node_modules[\\/]/,
-          name: 'vendors',
-          chunks: 'all',
-        },
-      },
-    },
-  },
+  // optimization: {
+  //   minimize: false,
+  //   emitOnErrors: true,
+  //   moduleIds: 'deterministic',
+  //   runtimeChunk: 'single',
+  //   splitChunks: {
+  //     cacheGroups: {
+  //       // uilib: {
+  //       //   test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
+  //       //   name: 'mui',
+  //       //   chunks: 'all',
+  //       // },
+  //       // vendor: {
+  //       //   test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+  //       //   name: 'react',
+  //       //   chunks: 'all',
+  //       // },
+  //       commons: {
+  //         test: /[\\/]node_modules[\\/]/,
+  //         name: 'vendors',
+  //         chunks: 'all',
+  //       },
+  //     },
+  //   },
+  // },
 
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new ReactRefreshWebpackPlugin(),
-    new webpack.NormalModuleReplacementPlugin(
-      /popper.js/,
-      path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
-    ),
+    // new webpack.NormalModuleReplacementPlugin(
+    //   /popper.js/,
+    //   path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
+    // ),
     new HtmlWebpackPlugin({
       inject: true,
       template: path.resolve(rootDirectory, 'public/index-template.html'),

@@ -6,7 +6,6 @@ export const PageRoot = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;
-  padding: 28px 40px;
   background-color: var(--pageLayoutBackground);
   border-radius: 6px;
   color: var(--pageLayoutTextColor);
@@ -14,6 +13,16 @@ export const PageRoot = styled.div`
   ${() => !devMode && `
     min-width: 1080px;
   `}
+
+  padding: 14px 0;
+
+  @media (min-width: 728px) {
+    padding: 28px;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 28px 40px;
+  }
 `
 
 export const PageTitle = styled.div`

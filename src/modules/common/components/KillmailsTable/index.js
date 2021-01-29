@@ -1,52 +1,12 @@
-import React, { useState, useEffect } from 'react'
-import { useDispatch, useSelector } from 'react-redux'
-import { format } from 'date-fns'
+import React, { useState } from 'react'
+// import { useDispatch, useSelector } from 'react-redux'
+import useMediaQuery from 'react-hook-media-query'
 
-import { formatSum } from 'utils/FormatUtils'
-import { getSystemDescr } from 'utils/SdeUtils'
 import { Table, NoContent, Icon } from 'components'
 
-// TODO
-// import AllyIcon from 'components/icons/AllyIcon'
-// import ItemIcon from 'components/icons/ItemIcon'
+import { columns, mobileColumns } from './columns'
 
-const killmails = require('./killmails.json').slice(0,5)
-
-const columns = [
-  {
-    width: '10%', key: '_id', title: 'Time', align: 'right',
-    render: km => {
-      return (
-        <div>
-          <div>{format(km.time * 1000, 'HH:mm')}</div>
-          <div>{formatSum(km.sumV)}</div>
-        </div>
-      )
-    },
-  },
-  {
-    width: '10%', key: 'vict.ship', title: 'Ship',
-    render: km => <Icon icon='administration' id={km.vict.ship.id} />,
-  },
-  {
-    width: '10%', key: 'sys', title: 'System',
-    render: ({ sys }) => {
-      const sysDescr = getSystemDescr(sys)
-      return (
-        <>
-          <div>{sysDescr.system}</div>
-          <div>{sysDescr.region}</div>
-        </>
-      )
-    },
-  },
-  {
-    width: '30%', key: 'vict.char.name', title: 'Victim',
-  },
-  {
-    width: '30%', key: 'atts.char.name', title: 'Final Blow',
-  },
-]
+const killmails = require('./killmails.json').slice(0, 50)
 
 const KillmailsTable = props => {
   // const {
@@ -60,6 +20,7 @@ const KillmailsTable = props => {
 
   const { onRowClick } = props
   const [page, setPage] = useState(1)
+  const isDesktop = useMediaQuery('(min-width: 728px)')
 
   function handleRowClick(item) {
     if (onRowClick) {
@@ -124,7 +85,7 @@ const KillmailsTable = props => {
   return (
     <Table
       items={items}
-      columns={columns}
+      columns={isDesktop ? columns : mobileColumns}
       isLoading={isLoading}
       onRowClick={handleRowClick}
       onNoContent={renderNoContent}

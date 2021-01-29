@@ -9,33 +9,35 @@ const PageLayout = ({ children }) => {
 
   return (
     <PageRoot>
-      <PageTitle>
-        {blocks.title}
-      </PageTitle>
+      {blocks.title &&
+        <PageTitle>
+          {blocks.title}
+        </PageTitle>
+      }
 
-      {blocks.subTitleText && (
+      {blocks.subTitleText &&
         <ProjectTitle>
           {blocks.subTitleText}
         </ProjectTitle>
-      )}
+      }
 
       {blocks.subTitleNode && blocks.subTitleNode}
 
-      {blocks.header && (
+      {blocks.header &&
         <Header>
           {blocks.header}
         </Header>
-      )}
+      }
 
       <Content>
         {blocks.content}
       </Content>
 
-      {blocks.footer && (
+      {blocks.footer &&
         <Footer>
           {blocks.footer}
         </Footer>
-      )}
+      }
     </PageRoot>
   )
 }

@@ -8,11 +8,14 @@ export const Main = styled.main`
   // height: 100%;
   // overflow: hidden;
 
-  // background-image: url(https://c.wallhere.com/photos/16/e7/EVE_Online_Caldari_video_games_space_spaceship_science_fiction-111684.jpg!d);
-  background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/85/51/zropc9.jpg);
-  background-size: cover;
-  background-attachment: fixed;
   background-color: var(--mainLayoutWorkspaceBackground);
+
+  @media (min-width: 728px) {
+    // background-image: url(https://c.wallhere.com/photos/16/e7/EVE_Online_Caldari_video_games_space_spaceship_science_fiction-111684.jpg!d);
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/85/51/zropc9.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
 `
 
 export const Wrapper = styled.div`
@@ -35,7 +38,10 @@ export const Content = styled.div`
   position: relative;
   flex: 1 0;
   min-height: 0;
-  padding: 36px;
+
+  @media (min-width: 728px) {
+    padding: 36px;
+  }
 `
 
 export const FlexContainer = styled.div`

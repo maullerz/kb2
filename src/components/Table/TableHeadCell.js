@@ -7,6 +7,10 @@ import { HeadCell } from './styles'
 const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
   const { key, width, align, title, minWidth, highlighted } = column
 
+  if (title === null) {
+    return null
+  }
+
   function getSortedIcon(fieldName) {
     if (sortBy && sortBy.field === fieldName) {
       if (sortBy.direction === 'Ascending') {
@@ -39,10 +43,17 @@ const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
     onSortBy(newSortBy)
   }
 
+  const style = {
+    minWidth,
+    flexBasis: width,
+    textAlign: align,
+    ...(align === 'right' && { justifyContent: 'flex-end' }),
+  }
+
   return (
     <HeadCell
       onClick={handleSort}
-      style={{ flexBasis: width, textAlign: align, minWidth }}
+      style={style}
       highlighted={highlighted}
     >
       {title}

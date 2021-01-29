@@ -84,6 +84,16 @@ const config = {
     'react/jsx-closing-bracket-location': 'off',
     'react/jsx-filename-extension': 'off',
 
+    'react/jsx-wrap-multilines': ['error', {
+      declaration: 'parens-new-line',
+      assignment: 'parens-new-line',
+      return: 'parens-new-line',
+      arrow: 'parens-new-line',
+      condition: 'parens-new-line',
+      logical: 'ignore',
+      prop: 'parens-new-line',
+    }],
+
     // https://eslint.org/docs/rules/padding-line-between-statements
     'padding-line-between-statements': 'off',
     // 'padding-line-between-statements': [

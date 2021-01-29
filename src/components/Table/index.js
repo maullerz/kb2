@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 
 import Spinner from 'components/Spinner'
 import TableHeadCell from './TableHeadCell'
@@ -11,55 +11,22 @@ import { TableRoot, Head, Body, Row, Cell } from './styles'
 
 const Table = props => {
   const {
-    columns, items, isLoading, sortBy, checkable, draggable, checkedItems, isSubtable,
-    onRowClick, onSortBy, onNoContent, onCheckItems, onRenderControls,
-    pageSize, pagination, onPrevPage, onNextPage, onGoToPage, clearGlobalChecks,
+    columns, items, isLoading, sortBy, isSubtable,
+    onRowClick, onSortBy, onNoContent, onRenderControls,
+    pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
   } = props
 
-  const [globalChecked, setGlobalChecked] = useState(false)
+  // What TO DO?
 
-  useEffect(() => {
-    if (clearGlobalChecks) setGlobalChecked(false)
-  }, [clearGlobalChecks])
+  // const fullWidth = columns.reduce((sum, col) => {
+  //   return sum + Number(col.width.replace('%', ''))
+  // }, 0)
 
-  const fullWidth = columns.reduce((sum, col) => {
-    return sum + Number(col.width.replace('%', ''))
-  }, 0)
-
-  if (fullWidth !== 100) {
-    if (process.env.NODE_ENV === 'development') {
-      console.warn('fullWidth !== 100:', fullWidth) // eslint-disable-line no-console
-    }
-  }
-
-  function handleGlobalCheck(event) {
-    const { checked } = event.target
-
-    setGlobalChecked(checked)
-
-    if (checked) {
-      onCheckItems(items)
-    } else {
-      onCheckItems([])
-    }
-  }
-
-  function handleItemCheck(event) {
-    const { checked, id } = event.target
-    const changedItem = items.find(item => item.id === id)
-
-    if (checked) {
-      const mergedItems = [...checkedItems, changedItem]
-
-      setGlobalChecked(mergedItems.length === items.length)
-      onCheckItems(mergedItems)
-    } else {
-      const filteredItems = checkedItems.filter(item => item.id !== id)
-
-      setGlobalChecked(filteredItems.length === items.length)
-      onCheckItems(filteredItems)
-    }
-  }
+  // if (fullWidth !== 100) {
+  //   if (process.env.NODE_ENV === 'development') {
+  //     console.warn('fullWidth !== 100:', fullWidth) // eslint-disable-line no-console
+  //   }
+  // }
 
   function renderCell(item, col) {
     const { key, highlighted } = col
@@ -104,25 +71,17 @@ const Table = props => {
     )
   }
 
-  function renderRow(item, id, checked) {
+  function renderRow(item, id) {
     const handleRowClick = () => {
       if (onRowClick) {
         onRowClick(item)
       }
     }
 
-    const handleDragStart = event => {
-      event.dataTransfer.setData('file', `${item.id}:${item.name}`)
-      event.dataTransfer.setDragImage(FILE_DRAG_IMG, 0, 0)
-    }
-
     return (
       <Row
         key={id}
-        checkable={checkable}
-        draggable={draggable}
         onClick={handleRowClick}
-        onDragStart={handleDragStart}
       >
         {columns.map(col => renderCell(item, col))}
       </Row>
@@ -134,14 +93,12 @@ const Table = props => {
       return onNoContent()
     }
 
-    const checkedIds = checkedItems ? checkedItems.map(item => item.id) : []
-
     return (
       <>
         <Body
           isSubtable={isSubtable}
         >
-          {items.map((item, ix) => renderRow(item, item.id || ix, checkedIds.includes(item.id)))}
+          {items.map((item, ix) => renderRow(item, item.id || ix))}
         </Body>
         <TableFooter
           pageSize={pageSize}

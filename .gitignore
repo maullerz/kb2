@@ -11,3 +11,7 @@ stats.json
 
 TODO.md
 /old-src/
+
+src/components/Icon/
+src/components/buttons/
+src/components/icons-scss/

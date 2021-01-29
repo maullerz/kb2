@@ -6,6 +6,7 @@ import { ThemeProvider, StylesProvider } from '@material-ui/core/styles'
 import { MuiPickersUtilsProvider } from '@material-ui/pickers'
 import { CssBaseline } from '@material-ui/core'
 import DateFnsUtils from '@date-io/date-fns'
+import ReactTooltip from 'react-tooltip'
 
 import store from 'store'
 import history from 'services/routerHistory'
@@ -49,6 +50,12 @@ const App = () => {
           <Route path='/' component={Routes} />
         </Switch>
 
+        <ReactTooltip
+          effect='solid'
+          backgroundColor='#000f'
+          border
+          borderColor='#555'
+        />
         {/* <ToastContainer /> */}
       </MuiPickersUtilsProvider>
     </ThemeProvider>

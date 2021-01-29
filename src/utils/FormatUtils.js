@@ -38,37 +38,52 @@ const numberFormat = sum => {
   return '0a'
 }
 
-const formatSum = sum => {
+export const formatSum = sum => {
   if (sum === 0 || !sum) {
     return '0'
   }
   return numeral(sum).format(numberFormat(sum))
 }
 
-const formatDmg = dmg => {
+export const formatSumExt = sum => {
+  if (sum === 0 || !sum) {
+    return '0'
+  }
+  if (sum < oneMillion) {
+    return numeral(sum).format('0a')
+  }
+  const mod = sum % oneBillion
+  const bills = Math.trunc(sum / oneBillion)
+  const billsStr = bills ? `${bills},` : ''
+  const modStr = bills ? numeral(mod).format('0a') : numeral(mod).format('0.0a')
+  const result = `${billsStr}${modStr}` // '0.0a'
+  return result
+}
+
+export const formatDmg = dmg => {
   if (dmg === 0 || !dmg) {
     return '0'
   }
   return numeral(dmg).format(numberFormat(dmg))
 }
 
-const dmgPercent = dmg => (
+export const dmgPercent = dmg => (
   dmg === 0 || !dmg
     ? ''
     : `(${numeral(dmg).format('0,0.0%')})`
 )
 
-const dmgPercentZero = dmg => (
+export const dmgPercentZero = dmg => (
   dmg === 0 || !dmg
     ? '(0%)'
     : `(${numeral(dmg).format('0,0.0%')})`
 )
 
-const cntWhored = cnt => (
+export const cntWhored = cnt => (
   cnt === 0 || !cnt ? '' : ` [${cnt}]`
 )
 
-const cntWhoredZero = cnt => (
+export const cntWhoredZero = cnt => (
   cnt === 0 || !cnt ? '[0]' : ` [${cnt}]`
 )
 
@@ -77,14 +92,14 @@ const getMinutes = minutes => {
   return minutes
 }
 
-const getLocalTime = date => {
+export const getLocalTime = date => {
   let result = ''
   result += `${date.getHours()}`
   result += `:${getMinutes(date.getMinutes())}`
   return result
 }
 
-const getUTCTime = (date, withSeconds = true) => {
+export const getUTCTime = (date, withSeconds = true) => {
   let result = ''
   result += `${date.getUTCHours()}`
   result += `:${getMinutes(date.getUTCMinutes())}`
@@ -94,17 +109,17 @@ const getUTCTime = (date, withSeconds = true) => {
   return result
 }
 
-const timestampToLocal = timestamp => {
+export const timestampToLocal = timestamp => {
   const date = new Date(timestamp)
   return getLocalTime(date)
 }
 
-const timestampToUTC = timestamp => {
+export const timestampToUTC = timestamp => {
   const date = new Date(timestamp)
   return getUTCTime(date)
 }
 
-const formatZkillTimestamp = ts => {
+export const formatZkillTimestamp = ts => {
   const date = new Date(ts * 1000)
   let dateStr = `${date.getUTCFullYear()}`
   const month = date.getUTCMonth() + 1
@@ -117,7 +132,7 @@ const formatZkillTimestamp = ts => {
   return dateStr
 }
 
-const parseZkillDatetime = dt => {
+export const parseZkillDatetime = dt => {
   if (dt.length !== 12) return null
   const year = dt.substring(0, 4)
   const month = dt.substring(4, 6) - 1
@@ -131,17 +146,18 @@ const parseZkillDatetime = dt => {
   return new Date(timestamp)
 }
 
-module.exports = {
-  formatSum,
-  formatDmg,
-  dmgPercent,
-  dmgPercentZero,
-  cntWhored,
-  cntWhoredZero,
-  getLocalTime,
-  getUTCTime,
-  timestampToLocal,
-  timestampToUTC,
-  formatZkillTimestamp,
-  parseZkillDatetime,
-}
+// module.exports = {
+//   formatSum,
+//   formatSumExt,
+//   formatDmg,
+//   dmgPercent,
+//   dmgPercentZero,
+//   cntWhored,
+//   cntWhoredZero,
+//   getLocalTime,
+//   getUTCTime,
+//   timestampToLocal,
+//   timestampToUTC,
+//   formatZkillTimestamp,
+//   parseZkillDatetime,
+// }
