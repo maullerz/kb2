@@ -3,12 +3,14 @@ import { Switch, Route, Redirect } from 'react-router-dom'
 
 import MainLayout from 'layouts/MainLayout'
 import Home from 'modules/common/pages/Home'
+import Killmail from 'modules/common/pages/Killmail'
 
 const MainRoutes = () => {
   return (
     <MainLayout>
       <Switch>
-        <Route path='/' component={Home} />
+        <Route path='/' component={Home} exact />
+        <Route path='/kill/:killmailID' component={Killmail} exact />
         <Redirect from='*' to='/' />
       </Switch>
     </MainLayout>

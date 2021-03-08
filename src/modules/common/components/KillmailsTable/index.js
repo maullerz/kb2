@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 // import { useDispatch, useSelector } from 'react-redux'
 import useMediaQuery from 'react-hook-media-query'
 
-import { Table, NoContent, Icon } from 'components'
+import { Table, NoContent } from 'components'
 
 import { columns, mobileColumns } from './columns'
 
@@ -44,9 +44,9 @@ const KillmailsTable = props => {
     setPage(selectedPage)
   }
 
-  function getKillmails() {
-    // onSuccess(page, sortBy)
-  }
+  // function getKillmails() {
+  //   // onSuccess(page, sortBy)
+  // }
 
   // useEffect(() => {
   //   setPage(1)

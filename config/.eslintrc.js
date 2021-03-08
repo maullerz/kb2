@@ -102,6 +102,7 @@ const config = {
     //   { blankLine: 'always', prev: ['const', 'let', 'var'], next: '*' },
     //   { blankLine: 'any', prev: ['const', 'let', 'var'], next: ['const', 'let', 'var'] },
     // ],
+    'react/jsx-no-target-blank': ['warn', { allowReferrer: true }],
   },
 }
 

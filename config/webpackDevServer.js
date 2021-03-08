@@ -20,7 +20,7 @@ const useStaging = false
 const proxy = {
   '/api': {
     target: useStaging ? STAGING_BACKEND : LOCALHOST_BACKEND,
-    pathRewrite: { '^/api': '' },
+    // pathRewrite: { '^/api': '' },
     secure: false,
     prependPath: false,
   },
