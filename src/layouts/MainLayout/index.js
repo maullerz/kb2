@@ -1,10 +1,12 @@
 import React from 'react'
 import cx from 'classnames'
-import { AppBar, Toolbar, Typography, IconButton, Container, Card, Fab, Zoom, useScrollTrigger } from '@material-ui/core'
+import { Link } from 'react-router-dom'
+import { AppBar, Toolbar, Typography, IconButton, Container, Fab, Zoom, useScrollTrigger } from '@material-ui/core'
 import { Menu as MenuIcon, KeyboardArrowUp as KeyboardArrowUpIcon } from '@material-ui/icons'
 import { useTheme, makeStyles } from '@material-ui/core/styles'
 
-import { Main, Wrapper, Workspace, Content } from './styles'
+// Wrapper, Workspace,
+import { Main, Content } from './styles'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -43,6 +45,8 @@ function ScrollTop(props) {
   )
 }
 
+const darkStyle = { background: '#1B1C21' }
+
 const MainLayout = props => {
   const theme = useTheme()
   const { children } = props
@@ -50,16 +54,18 @@ const MainLayout = props => {
   return (
     <Main className={cx(theme.light && 'light-theme')}>
 
-      <AppBar position='static' style={{ background: '#1B1C21' }}>
+      <AppBar position='static' style={darkStyle}>
         <Container maxWidth='lg' disableGutters>
 
           <Toolbar variant='dense' id='back-to-top-anchor'>
             <IconButton edge='start' color='inherit' aria-label='menu'>
               <MenuIcon />
             </IconButton>
-            <Typography variant='h6' color='inherit'>
-              EveTools Killboard
-            </Typography>
+            <Link to='/'>
+              <Typography variant='h6' color='inherit'>
+                EveTools Killboard
+              </Typography>
+            </Link>
           </Toolbar>
 
         </Container>
@@ -67,40 +73,16 @@ const MainLayout = props => {
 
       <Container maxWidth='lg' disableGutters>
 
-        {false && (
-          <>
-            <Container maxWidth='lg'>
-              <Card elevation={3}>
-                <Typography component='div' style={{ height: '30vh' }}>Dat is Container</Typography>
-              </Card>
-            </Container>
-
-            <Container maxWidth='xl'>
-              <Typography component='div' style={{ backgroundColor: '#888', height: '30vh' }}>Dat is Container</Typography>
-            </Container>
-          </>
-        )}
-
         <Container maxWidth='xl' disableGutters style={{ background: 'var(--mainLayoutWorkspaceBackground)' }}>
           <Content>
             {children}
           </Content>
         </Container>
 
-        {false && (
-          <Wrapper>
-            <Workspace>
-              {/* <Header /> */}
-              <Content>
-                {children}
-              </Content>
-            </Workspace>
-          </Wrapper>
-        )}
       </Container>
 
       <ScrollTop {...props}>
-        <Fab color='secondary' size='small' aria-label='scroll back to top'>
+        <Fab color='primary' size='small' aria-label='scroll back to top'>
           <KeyboardArrowUpIcon />
         </Fab>
       </ScrollTop>

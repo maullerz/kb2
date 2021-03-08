@@ -4,18 +4,17 @@ export const Main = styled.main`
   display: flex;
   flex-direction: column;
   position: relative;
-  height: 1100px;
+  // height: 1100px;
   // height: 100%;
   // overflow: hidden;
 
-  background-color: var(--mainLayoutWorkspaceBackground);
+  // background-color: var(--mainLayoutWorkspaceBackground);
 
-  @media (min-width: 728px) {
-    // background-image: url(https://c.wallhere.com/photos/16/e7/EVE_Online_Caldari_video_games_space_spaceship_science_fiction-111684.jpg!d);
-    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/85/51/zropc9.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-  }
+  // @media (min-width: 728px) {
+  //   background-image: url(/background.jpg);
+  //   background-size: cover;
+  //   background-attachment: fixed;
+  // }
 `
 
 export const Wrapper = styled.div`

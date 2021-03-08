@@ -33,3 +33,9 @@ export const OrgIconContainer = styled(IconContainer)`
   // border: 1px solid transparent;
   // box-shadow: none;
 `
+
+export const CharIconContainer = styled(IconContainer)`
+  object-fit: contain;
+  width: 80px;
+  height: 80px;
+`

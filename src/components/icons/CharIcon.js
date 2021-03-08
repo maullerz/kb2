@@ -1,7 +1,7 @@
 import React from 'react'
 import { getCharUrl } from 'utils/KillmailUtils'
 
-import { IconContainer } from './styles'
+import { CharIconContainer } from './styles'
 
 const CharIcon = ({ id, mini, corpID }) => {
   let icon
@@ -9,8 +9,8 @@ const CharIcon = ({ id, mini, corpID }) => {
     // TODO: NPC corps like Triglav etc...
     icon = (
       <img
-        width='70'
-        height='70'
+        width='80'
+        height='80'
         alt='charID-undefined-corpID'
         src={`https://images.evetech.net/corporations/${corpID}/logo?size=64`}
       />
@@ -19,8 +19,8 @@ const CharIcon = ({ id, mini, corpID }) => {
     const charID = id || 1
     icon = (
       <img
-        width='70'
-        height='70'
+        width='80'
+        height='80'
         alt={`charID-${charID}`}
         src={getCharUrl(charID)}
       />
@@ -29,9 +29,9 @@ const CharIcon = ({ id, mini, corpID }) => {
 
   //  data-tip={tip}
   return (
-    <IconContainer mini={mini}>
+    <CharIconContainer mini={mini}>
       {icon}
-    </IconContainer>
+    </CharIconContainer>
   )
 }
 
