@@ -31,6 +31,7 @@ module.exports = {
 
   output: {
     path: outputDir,
+    pathinfo: false,
     publicPath: '/',
     filename: '[name].js',
     // https://github.com/webpack/webpack/issues/11660
@@ -98,26 +99,31 @@ module.exports = {
     }),
   ],
 
+  // https://webpack.js.org/configuration/stats/
   stats: {
-    preset: 'verbose',
-    assets: false, // true to show images, icons, etc.
-    assetsSpace: 50,
-    assetsSort: '!size',
-    colors: true,
-    children: false,
+    all: false, // for faster build and rebuild times
+  }
+  // stats: 'errors-only',
+  // stats: {
+  //   preset: 'verbose',
+  //   assets: false, // true to show images, icons, etc.
+  //   assetsSpace: 50,
+  //   assetsSort: '!size',
+  //   colors: true,
+  //   children: false,
 
-    chunkModules: false,
-    chunkOrigins: false,
-    chunksSort: '!size',
+  //   chunkModules: false,
+  //   chunkOrigins: false,
+  //   chunksSort: '!size',
 
-    entrypoints: true,
-    logging: false,
-    modules: false,
-    relatedAssets: true,
-    timings: true,
+  //   entrypoints: true,
+  //   logging: false,
+  //   modules: false,
+  //   relatedAssets: true,
+  //   timings: true,
 
-    groupAssetsByInfo: false,
-    groupAssetsByChunk: false,
-    groupAssetsByEmitStatus: false,
-  },
+  //   groupAssetsByInfo: false,
+  //   groupAssetsByChunk: false,
+  //   groupAssetsByEmitStatus: false,
+  // },
 }

@@ -34,7 +34,7 @@ const ItemsList = ({ kmData }) => {
   //   console.log('cnts:', cnts.map(cont => cont.flag))
   // }
 
-  console.log('vict:', vict)
+  // console.log('vict:', vict)
 
   const items = SdeUtils.parseKillmailItems(vict, prices)
   const { high, med, low, rig, sub, subHold, ...rest } = items
