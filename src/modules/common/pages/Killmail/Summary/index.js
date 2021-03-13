@@ -5,7 +5,9 @@ import { getTypeName, getGroupName, getSystemDescr } from 'utils/SdeUtils'
 import CharIcon from 'components/icons/CharIcon'
 import OrgIcon from 'components/icons/OrgIcon'
 
-import { Root, Head, CharName, HeadIcons, CorpAllyGroup, Label, Row, IconRow } from './styles'
+import { Root, Head, CharName, HeadIcons, CorpAllyGroup, Label, Row } from './styles'
+
+const greyColor = { color: 'grey' }
 
 const Summary = ({ kmData }) => {
   const { atts, vict, names, ...rest } = kmData
@@ -17,32 +19,33 @@ const Summary = ({ kmData }) => {
   return (
     <Root>
       <Head>
-        <CharName>
-          <span>{names.chars[vict.char]}</span>
-        </CharName>
-
+        <CharIcon id={vict.char} />
         <HeadIcons>
-          <CharIcon id={vict.char} />
-          <CorpAllyGroup>
-            <IconRow>
-              <OrgIcon corp={vict.corp} />
-              <div>{names.corps[vict.corp]}</div>
-            </IconRow>
-            {!!vict.ally &&
-              <IconRow>
-                <OrgIcon ally={vict.ally} />
-                <div>{names.allys[vict.ally]}</div>
-              </IconRow>
-            }
-          </CorpAllyGroup>
+          <OrgIcon corp={vict.corp} />
+          {!!vict.ally &&
+            <OrgIcon ally={vict.ally} />
+          }
         </HeadIcons>
+
+        <CorpAllyGroup>
+          <CharName>
+            {names.chars[vict.char]}
+          </CharName>
+          <div>{names.corps[vict.corp]}</div>
+          {names.allys[vict.ally]
+            ? <div>{names.allys[vict.ally]}</div>
+            : <div>&nbsp;</div>
+          }
+        </CorpAllyGroup>
       </Head>
 
       <Row>
         <Label>Ship:</Label>
         <div>
           <div>{getTypeName(vict.ship)}</div>
-          <div style={{ color: 'grey' }}>{getGroupName(vict.ship)}</div>
+          <div style={greyColor}>
+            {getGroupName(vict.ship)}
+          </div>
         </div>
       </Row>
 

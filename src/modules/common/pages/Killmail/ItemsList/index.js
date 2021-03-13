@@ -18,6 +18,7 @@ import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from '.
 const formatRaw = sum => numeral(sum).format('0,0')
 
 const colorRed = { color: 'var(--colorRed)' }
+const colorGreen = { color: 'var(--colorGreen)' }
 
 const ItemsList = ({ kmData }) => {
   const [collapsed, setCollapsed] = useState(false)
@@ -185,11 +186,11 @@ const ItemsList = ({ kmData }) => {
 
       <TotalRow>
         <h4>Destroyed:</h4>
-        <Sum>{formatRaw(items.destroyed)}</Sum>
+        <Sum style={colorRed}>{formatRaw(items.destroyed)}</Sum>
       </TotalRow>
       <TotalRow>
         <h4>Dropped:</h4>
-        <Sum style={colorRed}>{formatRaw(items.dropped)}</Sum>
+        <Sum style={colorGreen}>{formatRaw(items.dropped)}</Sum>
       </TotalRow>
       <TotalRow>
         <h4>Total:</h4>
