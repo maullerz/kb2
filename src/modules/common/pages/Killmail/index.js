@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import ReactTooltip from 'react-tooltip'
+// import { useQuery } from 'react-query'
 
 import KillmailService from 'api/KillmailService'
 import { parseItems } from 'utils/KillmailUtils'
@@ -23,6 +24,7 @@ import { Root, Header, Body, Center, Top, SummaryWrapper, Items, Attackers } fro
 const KillmailPage = () => {
   const [kmData, setKmData] = useState(null)
   const { killmailID } = useParams()
+  // const { isLoading, isError, data, error } = useQuery(['killmail', killmailID], () => KillmailService.getSingleKillmail(killmailID))
 
   useEffect(() => {
     if (killmailID) {

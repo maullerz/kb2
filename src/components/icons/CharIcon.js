@@ -35,4 +35,4 @@ const CharIcon = ({ id, mini, corpID }) => {
   )
 }
 
-export default CharIcon
+export default React.memo(CharIcon)

@@ -11,17 +11,13 @@ import * as SdeUtils from 'utils/SdeUtils'
 
 // import Collapsible from './Collapsible'
 import ListItem from './ListItem'
-import {
-  Root, Header,
-  SortHeader,
-  ItemGroup,
-  Digits,
-  Count,
-  Sum,
-} from './styles'
+import { Digits, Count, Sum } from './ListItem/styles'
+import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
 
 // CHECK: https://zkillboard.com/kill/87028891/
 const formatRaw = sum => numeral(sum).format('0,0')
+
+const colorRed = { color: 'var(--colorRed)' }
 
 const ItemsList = ({ kmData }) => {
   const [collapsed, setCollapsed] = useState(false)
@@ -62,8 +58,13 @@ const ItemsList = ({ kmData }) => {
 
     return (
       <ItemGroup key={groupName}>
-        <h4>{groupName}</h4>
-        {flagItems.map(item => {
+        <ItemGroupTitle>
+          <h4>{groupName}</h4>
+
+          <div>Total: 60,234,345</div>
+        </ItemGroupTitle>
+
+        {!collapsed && flagItems.map(item => {
           const { type, destroyed, dropped, singleton } = item
           return (
             <Fragment key={type}>
@@ -76,7 +77,8 @@ const ItemsList = ({ kmData }) => {
             </Fragment>
           )
         })}
-        {containers}
+
+        {!collapsed && containers}
       </ItemGroup>
     )
   }
@@ -133,53 +135,66 @@ const ItemsList = ({ kmData }) => {
         {collapsed ? <ExpandMoreIcon /> : <ExpandLessIcon />}
       </Header>
 
-      {!collapsed &&
-        <>
-          <SortHeader>
-            <div onClick={handleSortByType}>
-              Item Type
-              {order === 'type' && orderIcon}
-            </div>
-            <Digits>
-              <Count onClick={handleSortByCount}>
-                {order === 'count' && orderIcon}
-                Quantity
-              </Count>
-              <Sum onClick={handleSortBySum}>
-                {order === 'sum' && orderIcon}
-                Price
-              </Sum>
-            </Digits>
-          </SortHeader>
+      <SortHeader>
+        <div onClick={handleSortByType}>
+          Item Type
+          {order === 'type' && orderIcon}
+        </div>
+        <Digits>
+          <Count onClick={handleSortByCount}>
+            Quantity
+            {order === 'count' && orderIcon}
+          </Count>
+          <Sum onClick={handleSortBySum}>
+            Price
+            {order === 'sum' && orderIcon}
+          </Sum>
+        </Digits>
+      </SortHeader>
 
-          <ItemGroup>
-            <h4>Ship</h4>
-            <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
-          </ItemGroup>
+      {renderItemFlagGroup(high, 'High Slots')}
+      {renderItemFlagGroup(med, 'Medium Slots')}
+      {renderItemFlagGroup(low, 'Low Slots')}
+      {renderItemFlagGroup(rig, 'Rig Slots')}
+      {renderItemFlagGroup(sub, 'SubSystem Slots')}
+      {renderItemFlagGroup(subHold, 'Subsystem Hold')}
 
-          {renderItemFlagGroup(high, 'High Slots')}
-          {renderItemFlagGroup(med, 'Medium Slots')}
-          {renderItemFlagGroup(low, 'Low Slots')}
-          {renderItemFlagGroup(rig, 'Rig Slots')}
-          {renderItemFlagGroup(sub, 'SubSystem Slots')}
-          {renderItemFlagGroup(subHold, 'Subsystem Hold')}
+      {Object.keys(rest).map(slotKey => {
+        if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
+          return renderContainers(rest[slotKey], slotKey)
+        }
+        return renderItemFlagGroup(rest[slotKey], slotKey)
+      })}
+      {isCargoEmpty && renderContainers([], 'Cargo')}
 
-          {Object.keys(rest).map(slotKey => {
-            if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
-              return renderContainers(rest[slotKey], slotKey)
-            }
-            return renderItemFlagGroup(rest[slotKey], slotKey)
-          })}
-          {isCargoEmpty && renderContainers([], 'Cargo')}
+      {/*
+      <div>
+        <div>Dropped: {formatRaw(items.dropped)}</div>
+        <div>Destroyed: {formatRaw(items.destroyed)}</div>
+        <div>Ship: {formatRaw(items.ship)}</div>
+        <div>Total: {formatRaw(items.total)}</div>
+      </div>
+      */}
 
-          <div>
-            <div>Dropped: {formatRaw(items.dropped)}</div>
-            <div>Destroyed: {formatRaw(items.destroyed)}</div>
-            <div>Ship: {formatRaw(items.ship)}</div>
-            <div>Total: {formatRaw(items.total)}</div>
-          </div>
-        </>
-      }
+      <ItemGroup>
+        <ItemGroupTitle>
+          <h4>Ship</h4>
+        </ItemGroupTitle>
+        <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
+      </ItemGroup>
+
+      <TotalRow>
+        <h4>Destroyed:</h4>
+        <Sum>{formatRaw(items.destroyed)}</Sum>
+      </TotalRow>
+      <TotalRow>
+        <h4>Dropped:</h4>
+        <Sum style={colorRed}>{formatRaw(items.dropped)}</Sum>
+      </TotalRow>
+      <TotalRow>
+        <h4>Total:</h4>
+        <Sum>{formatRaw(items.total)}</Sum>
+      </TotalRow>
 
       <div />
     </Root>

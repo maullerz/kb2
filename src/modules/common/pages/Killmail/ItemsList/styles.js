@@ -6,13 +6,14 @@ export const Root = styled.div`
   display: flex;
   flex-direction: column;
   margin: auto;
-  padding: 0 20px;
+  padding: 20px;
 
-  @media (max-width: 767px) { padding: 0; }
+  @media (max-width: 767px) { padding: 10px 0; }
 `
 export const Header = styled.h4`
   cursor: pointer;
   height: 40px;
+  margin-bottom: 0;
   padding: 0 10px;
   display: flex;
   align-items: center;
@@ -33,6 +34,7 @@ export const SortHeader = styled.div`
   > div {
     display: flex;
     align-items: center;
+    cursor: pointer;
   }
 `
 
@@ -40,39 +42,42 @@ export const ItemGroup = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;
-
-  h4 {
-    font-size: 14px;
-    text-align: center;
-    margin: 0;
-    padding: 18px 0;
-    border-bottom: 1px solid #333;
-  }
 `
 
-export const Digits = styled.div`
+export const ItemGroupTitle = styled.div`
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  text-align: right;
-  font-size: 12px;
+  padding: 24px 10px 8px;
+  border-bottom: 1px solid #333;
 
   @media (max-width: 767px) {
-    .sum {
-      min-width: 70px;
-    }
+    padding: 24px 5px 8px;
+  }
+
+  h4 {
+    margin: 0;
+  }
+
+  div {
+    font-size: 12px;
+    color: #888;
   }
 `
 
-export const Count = styled.div`
+export const TotalRow = styled.div`
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  min-width: 70px;
-`
+  justify-content: space-between;
+  padding-left: 50%;
+  padding-right: 10px;
 
-export const Sum = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  min-width: 120px;
+  @media (max-width: 767px) {
+    padding-left: 30%;
+    padding-right: 5px;
+  }
+
+  h4 {
+    margin: 5px 0;
+  }
 `

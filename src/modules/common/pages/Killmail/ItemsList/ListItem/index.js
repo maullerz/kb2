@@ -1,6 +1,6 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import numeral from 'numeral'
+// import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import ItemIcon from 'components/icons/ItemIcon'
@@ -34,10 +34,11 @@ const formatSum = sum => {
   return result
 }
 
-const todoFixWidth = { width: 34, minWidth: 34, maxWidth: 34 }
-
 const ListItem = ({ type, count, isDestroyed, inContainer, prices, singleton, isMobile }) => {
-  const sum = singleton ? 1 * count : prices[type] * count
+  const sum = singleton
+    ? 1 * count
+    : prices[type] * count
+
   const formattedSum = isMobile ? formatSum(sum) : formatRaw(sum)
   const formattedCount = isMobile ? formatSum(count) : formatRaw(count)
   const name = SdeUtils.getTypeName(type)
@@ -47,14 +48,20 @@ const ListItem = ({ type, count, isDestroyed, inContainer, prices, singleton, is
       {inContainer &&
         <span>&mdash;</span>
       }
-      <span style={todoFixWidth}>
-        <ItemIcon id={type} singleton={singleton} />
-      </span>
+
+      <ItemIcon id={type} singleton={singleton} />
+
       <Name>
-        <Link to={`/db/type/${type}`}>
-          {singleton ? `${name} (Copy)` : name}
-        </Link>
+        {singleton ? `${name} (Copy)` : name}
       </Name>
+      {/*
+        TODO: db.evetools.org
+        <Name>
+          <Link to={`/db/type/${type}`}>
+            {singleton ? `${name} (Copy)` : name}
+          </Link>
+        </Name>
+      */}
       <Digits>
         <Count>{formattedCount}</Count>
         <Sum>{formattedSum}</Sum>
@@ -63,4 +70,4 @@ const ListItem = ({ type, count, isDestroyed, inContainer, prices, singleton, is
   )
 }
 
-export default ListItem
+export default React.memo(ListItem)

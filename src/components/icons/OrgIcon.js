@@ -1,5 +1,5 @@
 import React from 'react'
-import useMediaQuery from 'react-hook-media-query'
+// import useMediaQuery from 'react-hook-media-query'
 
 import { getAllyUrl, getCorpUrl } from 'utils/KillmailUtils'
 
@@ -10,7 +10,8 @@ const emptyUrl = 'https://images.evetech.net/corporations/1/logo?size=64'
 const isProd = process.env.NODE_ENV === 'production'
 
 const OrgIcon = ({ ally, corp, mini, names }) => {
-  const isDesktop = useMediaQuery('(min-width: 728px)')
+  const isDesktop = true // useMediaQuery('(min-width: 728px)')
+
   if (!ally && !corp) {
     return (
       <OrgIconContainer mini={mini || !isDesktop}>
@@ -48,7 +49,7 @@ const OrgIcon = ({ ally, corp, mini, names }) => {
   )
 }
 
-export default OrgIcon
+export default React.memo(OrgIcon)
 
 // const Img = ({ alt, iconUrl, mini }) => (
 //   <img

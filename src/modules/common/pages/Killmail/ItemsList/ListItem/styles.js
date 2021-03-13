@@ -7,25 +7,17 @@ export const Root = styled.div`
   align-items: center;
   padding: 5px 10px;
   border-bottom: 1px solid #333;
-  background-color: rgba(0,255,0,0.1);
+  // background-color: rgba(0,255,0,0.1);
+  // color: rgba(0,255,0,0.8);
 
   @media (max-width: 767px) {
     padding: 5px;
   }
 
-  a {
-    color: white;
-  }
-
   ${p => p.destroyed && `
-    /*color: #480000;*/
+    color: var(--colorRed);
     background-color: rgba(255, 0, 0, 0.1);
     background-color: transparent;
-
-    .digits {
-      /*color: #480000;*/
-      color: #888;
-    }
   `}
 
   ${p => p.subItem && `
@@ -43,23 +35,25 @@ export const Name = styled.div`
   flex-direction: column;
   align-items: flex-start;
   /*flex: 1 1;*/
-  padding-left: 10px;
+  padding-left: 16px;
   text-align: left;
+  color: var(--colorBlue);
 
-  @media (max-width: 767px) { padding-left: 5px; }
+  @media (max-width: 767px) {
+    padding-left: 5px;
+    font-size: 12px;
+  }
 `
 
 export const Digits = styled.div`
   display: flex;
   justify-content: space-between;
   text-align: right;
-  font-size: 12px;
+  font-size: 14px;
 
   @media (max-width: 767px) {
-    .sum {
-      min-width: 70px;
-    }
-  }§
+    font-size: 12px;
+  }
 `
 
 export const Count = styled.div`
@@ -73,8 +67,13 @@ export const Sum = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  min-width: 120px;
+  min-width: 150px;
+
+  @media (max-width: 767px) {
+    min-width: 70px;
+  }
 `
+
 // .billions, .trillions {
 //   font-weight: 900;
 // }

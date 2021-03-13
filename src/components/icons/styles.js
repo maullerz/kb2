@@ -12,16 +12,18 @@ export const Image = styled.img`
   `}
 `
 
-export const IconContainer = styled.div`
+export const ItemIconContainer = styled.div`
   width: ${() => `${normalSize}`};
   height: ${() => `${normalSize}`};
   flex-shrink: 0;
   overflow: hidden;
   text-align: center;
   /*background-color: #222;*/
-  box-shadow: inset -2px 10px 74px 0px rgba(0,0,0,0.2);
-  border: 1px solid #333;
-  /*border-radius: 4px;*/
+`
+
+export const IconContainer = styled(ItemIconContainer)`
+  // box-shadow: inset -2px 10px 74px 0px rgba(0,0,0,0.2);
+  // border: 1px solid #333;
 
   ${p => p.mini && `
     width: 24px;

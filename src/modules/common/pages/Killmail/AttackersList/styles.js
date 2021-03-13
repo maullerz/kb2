@@ -47,10 +47,14 @@ export const IconsGroup = styled.div`
     flex-direction: column;
     justify-content: flex-start;
     justify-content: space-between;
-    max-height: 70px;
+    // max-height: 70px;
 
     @media (max-width: 374px) {
       display: none;
+    }
+
+    > div:first-child {
+      border-bottom: 1px solid #181818;
     }
   }
 `
@@ -88,6 +92,10 @@ export const CorpAllyIcons = styled.div`
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
+
+  > div:last-child {
+    margin-left: 2px;
+  }
 `
 
 export const DmgCol = styled.div`
