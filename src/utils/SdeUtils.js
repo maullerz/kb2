@@ -216,9 +216,15 @@ export const getFitSlotKey = flag => {
   }
 }
 
+//
+// TODO: FOKIN CONTAINERS!
+// http://localhost:3000/kill/86935694
+//
 export const parseKillmailItems = (victim, prices) => {
   const victimItems = victim.itms || []
   if (!victimItems) return null
+
+  // console.log('victimItems:', JSON.stringify(victimItems, null, 2))
 
   const result = {
     high: [],
@@ -230,6 +236,7 @@ export const parseKillmailItems = (victim, prices) => {
     dropped: 0,
     destroyed: 0,
     ship: prices[victim.ship],
+    rawList: [],
   }
   victimItems.forEach(arrayValue => {
     const [flagID, type, dropped, destroyed, singleton] = arrayValue
@@ -258,6 +265,47 @@ export const parseKillmailItems = (victim, prices) => {
   })
 
   result.total = result.dropped + result.destroyed + result.ship
+
+  // raw list of items for sorting, but grouped by type, destroyed/dropped
+  let tempObjList = []
+  Object.keys(result).forEach(key => {
+    const slotItems = result[key]
+    if (Array.isArray(slotItems)) {
+      tempObjList = tempObjList.concat(slotItems)
+    }
+  })
+
+  // console.log('tempObjList:', JSON.stringify(tempObjList, null, 2))
+
+  tempObjList.forEach(item => {
+    const { flag, type, dropped, destroyed, singleton } = item
+    const sumDropped = prices[type] * dropped
+    const sumDestroyed = prices[type] * destroyed
+
+    if (sumDropped) {
+      result.rawList.push({
+        flag,
+        type,
+        isDestroyed: false,
+        count: dropped,
+        sum: sumDropped,
+        singleton,
+      })
+    }
+
+    if (sumDestroyed) {
+      result.rawList.push({
+        flag,
+        type,
+        isDestroyed: true,
+        count: destroyed,
+        sum: sumDestroyed,
+        singleton,
+      })
+    }
+  })
+
+  // console.log('result:', JSON.stringify(result, null, 2))
 
   return result
 }

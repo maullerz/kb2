@@ -12,29 +12,29 @@ export const Root = styled.div`
 `
 export const Header = styled.h4`
   cursor: pointer;
-  height: 40px;
-  margin-bottom: 0;
-  padding: 0 10px;
   display: flex;
   align-items: center;
+  height: 40px;
+  margin-bottom: 10px;
+  padding: 0 10px;
+  // background: #222;
 
   &:hover {
-    background: #000a;
+    background-color: #222a;
   }
 `
 
 export const SortHeader = styled.div`
+  cursor: pointer;
   width: 100%;
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  background: #000a;
+  background-color: #222;
   color: grey;
 
-  > div {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
+  &:hover {
+    background-color: #222a;
   }
 `
 

@@ -4,12 +4,11 @@ import isEmpty from 'lodash/isEmpty'
 import numeral from 'numeral'
 import ExpandLessIcon from '@material-ui/icons/ExpandLess'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
-// import ArrowDropUpIcon from '@material-ui/icons/ArrowDropUp'
-import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown'
 
 import * as SdeUtils from 'utils/SdeUtils'
 
 // import Collapsible from './Collapsible'
+import SortableColumn from './SortableColumn'
 import ListItem from './ListItem'
 import { Digits, Count, Sum } from './ListItem/styles'
 import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
@@ -22,32 +21,25 @@ const colorGreen = { color: 'var(--colorGreen)' }
 
 const ItemsList = ({ kmData }) => {
   const [collapsed, setCollapsed] = useState(false)
-  const [order, setOrder] = useState('type')
+  const [sortBy, setSortBy] = useState(null)
   const { vict, prices } = kmData
   const { cnts = [] } = vict
   const isMobile = useMediaQuery('(max-width: 767px)')
 
-  // if (cnts.length > 0) {
-  //   console.log('cnts:', cnts.map(cont => cont.flag))
-  // }
-
-  // console.log('vict:', vict)
-
   const items = SdeUtils.parseKillmailItems(vict, prices)
   const { high, med, low, rig, sub, subHold, ...rest } = items
   const isCargoEmpty = !Object.keys(rest).map(slotKey => slotKey).includes('Cargo')
-  const orderIcon = <ArrowDropDownIcon />
 
-  function handleSortByType() {
-    setOrder('type')
-  }
-
-  function handleSortByCount() {
-    setOrder('count')
-  }
-
-  function handleSortBySum() {
-    setOrder('sum')
+  function handleSortBy(field) {
+    if (sortBy && sortBy.field === field) {
+      if (sortBy.order === 'ASC') {
+        setSortBy(null)
+      } else {
+        setSortBy({ field, order: 'ASC' })
+      }
+    } else {
+      setSortBy({ field, order: 'DESC' })
+    }
   }
 
   function handleToggleCollapsed() {
@@ -128,6 +120,76 @@ const ItemsList = ({ kmData }) => {
     return renderItemFlagGroup(flagItems, groupName, flagContainers)
   }
 
+  function renderGrouped() {
+    return (
+      <>
+        {renderItemFlagGroup(high, 'High Slots')}
+        {renderItemFlagGroup(med, 'Medium Slots')}
+        {renderItemFlagGroup(low, 'Low Slots')}
+        {renderItemFlagGroup(rig, 'Rig Slots')}
+        {renderItemFlagGroup(sub, 'SubSystem Slots')}
+        {renderItemFlagGroup(subHold, 'Subsystem Hold')}
+
+        {Object.keys(rest).map(slotKey => {
+          if (!Array.isArray(rest[slotKey]) || slotKey === 'rawList') {
+            return null
+          }
+          if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
+            return renderContainers(rest[slotKey], slotKey)
+          }
+          return renderItemFlagGroup(rest[slotKey], slotKey)
+        })}
+        {isCargoEmpty && renderContainers([], 'Cargo')}
+      </>
+    )
+  }
+
+  function getSortedList({ field, order }, list) {
+    switch (field) {
+      case 'type':
+        return list.sort((a, b) => {
+          const nameA = SdeUtils.getTypeName(a.type)
+          const nameB = SdeUtils.getTypeName(b.type)
+          return order === 'DESC'
+            ? nameA.localeCompare(nameB)
+            : nameB.localeCompare(nameA)
+        })
+      case 'count':
+        return list.sort((a, b) => {
+          return order === 'ASC'
+            ? a.count - b.count
+            : b.count - a.count
+        })
+      case 'sum':
+        return list.sort((a, b) => {
+          return order === 'ASC'
+            ? a.sum - b.sum
+            : b.sum - a.sum
+        })
+      default:
+        return list
+    }
+  }
+
+  function renderOrdered() {
+    const orderedItems = getSortedList(sortBy, rest.rawList)
+    // console.log('orderedItems:', orderedItems)
+    return orderedItems.map(item => {
+      const { flag, type, count, sum, singleton, isDestroyed } = item
+      return (
+        <ListItem
+          key={`${type}-${flag}-${isDestroyed}`}
+          isMobile={isMobile}
+          type={type}
+          count={count}
+          totalSum={sum}
+          singleton={singleton}
+          isDestroyed={isDestroyed}
+        />
+      )
+    })
+  }
+
   return (
     <Root>
       <Header onClick={handleToggleCollapsed}>
@@ -137,45 +199,34 @@ const ItemsList = ({ kmData }) => {
       </Header>
 
       <SortHeader>
-        <div onClick={handleSortByType}>
-          Item Type
-          {order === 'type' && orderIcon}
-        </div>
+        <SortableColumn
+          field='type'
+          title='ItemType'
+          onClick={handleSortBy}
+          sortBy={sortBy}
+        />
         <Digits>
-          <Count onClick={handleSortByCount}>
-            Quantity
-            {order === 'count' && orderIcon}
-          </Count>
-          <Sum onClick={handleSortBySum}>
-            Price
-            {order === 'sum' && orderIcon}
-          </Sum>
+          <SortableColumn
+            as={Count}
+            field='count'
+            title='Quantity'
+            onClick={handleSortBy}
+            sortBy={sortBy}
+          />
+          <SortableColumn
+            as={Sum}
+            field='sum'
+            title='Price'
+            onClick={handleSortBy}
+            sortBy={sortBy}
+          />
         </Digits>
       </SortHeader>
 
-      {renderItemFlagGroup(high, 'High Slots')}
-      {renderItemFlagGroup(med, 'Medium Slots')}
-      {renderItemFlagGroup(low, 'Low Slots')}
-      {renderItemFlagGroup(rig, 'Rig Slots')}
-      {renderItemFlagGroup(sub, 'SubSystem Slots')}
-      {renderItemFlagGroup(subHold, 'Subsystem Hold')}
-
-      {Object.keys(rest).map(slotKey => {
-        if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
-          return renderContainers(rest[slotKey], slotKey)
-        }
-        return renderItemFlagGroup(rest[slotKey], slotKey)
-      })}
-      {isCargoEmpty && renderContainers([], 'Cargo')}
-
-      {/*
-      <div>
-        <div>Dropped: {formatRaw(items.dropped)}</div>
-        <div>Destroyed: {formatRaw(items.destroyed)}</div>
-        <div>Ship: {formatRaw(items.ship)}</div>
-        <div>Total: {formatRaw(items.total)}</div>
-      </div>
-      */}
+      {(sortBy && !collapsed)
+        ? renderOrdered()
+        : renderGrouped()
+      }
 
       <ItemGroup>
         <ItemGroupTitle>

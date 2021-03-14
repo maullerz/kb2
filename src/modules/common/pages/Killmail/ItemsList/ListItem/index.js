@@ -34,10 +34,15 @@ const formatSum = sum => {
   return result
 }
 
-const ListItem = ({ type, count, isDestroyed, inContainer, prices, singleton, isMobile }) => {
-  const sum = singleton
-    ? 1 * count
-    : prices[type] * count
+const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile }) => {
+  let sum
+  if (totalSum) {
+    sum = totalSum
+  } else {
+    sum = singleton
+      ? 1 * count
+      : prices[type] * count
+  }
 
   const formattedSum = isMobile ? formatSum(sum) : formatRaw(sum)
   const formattedCount = isMobile ? formatSum(count) : formatRaw(count)
