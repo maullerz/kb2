@@ -180,7 +180,7 @@ export const getFitSlotKey = flag => {
     case 16:
     case 17:
     case 18:
-      return 'low'
+      return ['low', 'Low Slots']
     case 19:
     case 20:
     case 21:
@@ -189,7 +189,7 @@ export const getFitSlotKey = flag => {
     case 24:
     case 25:
     case 26:
-      return 'med'
+      return ['med', 'Medium Slots']
     case 27:
     case 28:
     case 29:
@@ -198,19 +198,19 @@ export const getFitSlotKey = flag => {
     case 32:
     case 33:
     case 34:
-      return 'high'
+      return ['high', 'High Slots']
     case 92:
     case 93:
     case 94:
-      return 'rig'
+      return ['rig', 'Rigs']
     case 125:
     case 126:
     case 127:
     case 128:
     case 129:
-      return 'sub'
+      return ['sub', 'Subsystems']
     case 177:
-      return 'subHold'
+      return ['subHold', 'Subsystem Hold']
     default:
       return null
   }
@@ -264,12 +264,14 @@ export const parseKillmailItems = kmData => {
     rawDict: {},
     flagGroupsArray: [],
     flagGroups: {}, // 15: { id, name, items: [] }, ...
-    conts: null,
+    conts: [],
   }
 
+  // ============= All Items not in containers =============
   victimItems.forEach(arrayValue => {
     const [flagID, type, dropped, destroyed, singleton] = arrayValue
-    const slotKey = getFitSlotKey(flagID)
+
+    const [slotKey, slotNameOverride] = getFitSlotKey(flagID) || []
     const flag = getFlagByID(flagID)
 
     if (!flag) {
@@ -287,7 +289,7 @@ export const parseKillmailItems = kmData => {
       result.flagGroups[flagGroup] = {
         id: flag.flagID,
         key: flagGroup,
-        name: flag.flagText,
+        name: slotNameOverride || flag.flagText,
         items: [],
       }
     }
@@ -312,16 +314,28 @@ export const parseKillmailItems = kmData => {
     addItemToDict(result, { type, dropped, destroyed, singleton, sumDropped, sumDestroyed })
   })
 
-  // === CONTAINERS ===
+  // ============= CONTAINERS =============
   victimConts.forEach(cont => {
     // const [flag, type, drop, dstr, items] = cont
     const isDestroyed = !!cont.dstr
+    const flagName = getFlagByID(cont.flag).flagText
     const container = {
       flag: cont.flag,
+      flagName,
       type: cont.type,
       isDestroyed,
       items: [],
     }
+    // Add empty Groups for each Flag of Containers
+    if (!result.flagGroups[cont.flag]) {
+      result.flagGroups[cont.flag] = {
+        id: cont.flag,
+        key: flagName, // ? const flagGroup = slotKey || flag.flagText
+        name: flagName,
+        items: [],
+      }
+    }
+
     // add container cost to total
     if (isDestroyed) {
       result.destroyed += prices[cont.type] * 1
@@ -329,8 +343,7 @@ export const parseKillmailItems = kmData => {
       result.dropped += prices[cont.type] * 1
     }
     cont.items.forEach(item => {
-      // flagID not needed for raw list
-      const [, type, dropped, destroyed, singleton] = item
+      const [flagID, type, dropped, destroyed, singleton] = item
 
       // add each item cost to total
       const sumDropped = prices[type] * dropped
@@ -338,53 +351,19 @@ export const parseKillmailItems = kmData => {
       result.dropped += sumDropped
       result.destroyed += sumDestroyed
 
-      // flagID not needed - actual for ships inside, zero for other containers
+      // flagID - actual for ships inside, zero for other containers
+      // flagID needed for differentiate React children with same type - fitted items of ships in Fleet Hangar
+      // TODO: group items for ships in Fleet Hangar
       const itemInCont = {
-        type, dropped, destroyed, singleton, sumDropped, sumDestroyed,
+        flag: flagID, type, dropped, destroyed, singleton, sumDropped, sumDestroyed,
       }
       container.items.push(itemInCont)
       addItemToDict(result, itemInCont)
     })
+
+    result.conts.push(container)
   })
-
-  // // raw list of items for sorting, but grouped by type, destroyed/dropped
-  // let tempObjList = []
-  // Object.keys(result).forEach(key => {
-  //   const slotItems = result.flagGroups[key]
-  //   if (Array.isArray(slotItems)) {
-  //     tempObjList = tempObjList.concat(slotItems)
-  //   }
-  // })
-
-  // // console.log('tempObjList:', JSON.stringify(tempObjList, null, 2))
-
-  // tempObjList.forEach(item => {
-  //   const { flag, type, dropped, destroyed, singleton } = item
-  //   const sumDropped = prices[type] * dropped
-  //   const sumDestroyed = prices[type] * destroyed
-
-  //   if (sumDropped) {
-  //     result.rawList.push({
-  //       flag,
-  //       type,
-  //       isDestroyed: false,
-  //       count: dropped,
-  //       sum: sumDropped,
-  //       singleton,
-  //     })
-  //   }
-
-  //   if (sumDestroyed) {
-  //     result.rawList.push({
-  //       flag,
-  //       type,
-  //       isDestroyed: true,
-  //       count: destroyed,
-  //       sum: sumDestroyed,
-  //       singleton,
-  //     })
-  //   }
-  // })
+  // =======================================
 
   // Sorting flag groups logically
   const flagKeys = Object.keys(result.flagGroups)
@@ -422,134 +401,3 @@ export const parseKillmailItems = kmData => {
   // console.log('result:', JSON.stringify(result, null, 2))
   return result
 }
-
-// export const parseKillmailItems1 = kmData => {
-//   const { vict: victim, prices } = kmData
-
-//   const victimItems = victim.itms || []
-//   const victimConts = victim.cnts
-
-//   // console.log('victimItems:', JSON.stringify(victimItems, null, 2))
-//   // console.log('victimConts:', JSON.stringify(victimConts, null, 2))
-//   // victimConts: [
-//   //   {
-//   //     "flag": 90,
-//   //     "type": 52252,
-//   //     "drop": 0,
-//   //     "dstr": 1,
-//   //     "items": [
-//   //       [
-//   //         93,
-//   //         31378,
-//   //         0,
-//   //         1
-//   //       ],
-
-//   const result = {
-//     dropped: 0,
-//     destroyed: 0,
-//     ship: prices[victim.ship],
-//     rawList: [],
-//     flagGroups: {
-//       // high: [],
-//       // med: [],
-//       // low: [],
-//       // rig: [],
-//       // sub: [],
-//       // subHold: [],
-//     },
-//     conts: null,
-//   }
-
-//   function parseArrayValue(value) {
-//     const [flagID, type, dropped, destroyed, singleton] = value
-//     result.dropped += prices[type] * dropped
-//     result.destroyed += prices[type] * destroyed
-
-//     const slotKey = getFitSlotKey(flagID)
-//     const flag = getFlagByID(flagID)
-
-//     if (!flag) {
-//       console.error('WTF flag not found:', flagID)
-//     }
-
-//     const flagGroup = slotKey || flag.flagText
-//     if (!result.flagGroups[flagGroup]) result.flagGroups[flagGroup] = []
-//     const matched = result.flagGroups[flagGroup].find(item => item.type === type)
-
-//     if (matched) {
-//       matched.dropped += dropped
-//       matched.destroyed += destroyed
-//     } else {
-//       const fitItem = { flag: flag.flagID, type, dropped, destroyed }
-//       if (singleton) fitItem.singleton = true
-//       result.flagGroups[flagGroup].push(fitItem)
-//     }
-//   }
-
-//   victimItems.forEach(arrayValue => {
-//     parseArrayValue(arrayValue)
-//   })
-
-//   victimConts.forEach(cont => {
-//     console.log('cont:', cont)
-//     const [flag, type, drop, dstr, items] = cont
-//     const container = {
-//       flag,
-//       type,
-//       isDestroyed: !!dstr,
-//       items: [],
-//     }
-//     items.forEach(item => {
-//       container.items.push()
-//     })
-//     result.dropped += prices[type] * dropped
-//     result.destroyed += prices[type] * destroyed
-//     // parseArrayValue(arrayValue)
-//   })
-
-//   result.total = result.dropped + result.destroyed + result.ship
-
-//   // raw list of items for sorting, but grouped by type, destroyed/dropped
-//   let tempObjList = []
-//   Object.keys(result).forEach(key => {
-//     const slotItems = result.flagGroups[key]
-//     if (Array.isArray(slotItems)) {
-//       tempObjList = tempObjList.concat(slotItems)
-//     }
-//   })
-
-//   // console.log('tempObjList:', JSON.stringify(tempObjList, null, 2))
-
-//   tempObjList.forEach(item => {
-//     const { flag, type, dropped, destroyed, singleton } = item
-//     const sumDropped = prices[type] * dropped
-//     const sumDestroyed = prices[type] * destroyed
-
-//     if (sumDropped) {
-//       result.rawList.push({
-//         flag,
-//         type,
-//         isDestroyed: false,
-//         count: dropped,
-//         sum: sumDropped,
-//         singleton,
-//       })
-//     }
-
-//     if (sumDestroyed) {
-//       result.rawList.push({
-//         flag,
-//         type,
-//         isDestroyed: true,
-//         count: destroyed,
-//         sum: sumDestroyed,
-//         singleton,
-//       })
-//     }
-//   })
-
-//   // console.log('result:', JSON.stringify(result, null, 2))
-
-//   return result
-// }

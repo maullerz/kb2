@@ -121,7 +121,7 @@ export const parseItems = km => {
   itms.forEach(arrayValue => {
     const [flag, type, dropped, destroyed, singleton] = arrayValue
     // console.log('arrayValue:', arrayValue)
-    const slotKey = getFitSlotKey(flag)
+    const [slotKey] = getFitSlotKey(flag) || []
     // console.log('slotKey:', slotKey)
 
     if (!fit[slotKey]) {

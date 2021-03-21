@@ -49,87 +49,17 @@ const ItemsList = ({ kmData }) => {
     setCollapsed(!collapsed)
   }
 
-  // function renderItemFlagGroup(flagItems, groupName, containers) {
-  //   if (isEmpty(flagItems) && isEmpty(containers)) return null
-
-  //   return (
-  //     <ItemGroup key={groupName}>
-  //       <ItemGroupTitle>
-  //         <h4>{groupName}</h4>
-
-  //         <div>Total: 60,234,345</div>
-  //       </ItemGroupTitle>
-
-  //       {!collapsed && flagItems.map(item => {
-  //         const { type, destroyed, dropped, singleton } = item
-  //         return (
-  //           <Fragment key={type}>
-  //             {!!destroyed &&
-  //               <ListItem isMobile={isMobile} type={type} count={destroyed} prices={prices} singleton={singleton} isDestroyed />
-  //             }
-  //             {!!dropped &&
-  //               <ListItem isMobile={isMobile} type={type} count={dropped} prices={prices} singleton={singleton} />
-  //             }
-  //           </Fragment>
-  //         )
-  //       })}
-
-  //       {!collapsed && containers}
-  //     </ItemGroup>
-  //   )
-  // }
-
-  // function renderContainers(flagItems, groupName) {
-  //   // http://localhost:3000/kill/86935694
-  //   // prepare Containers for flag
-  //   let flag
-  //   if (flagItems.length > 0) {
-  //     flag = flagItems[0].flag // eslint-disable-line
-  //   } else {
-  //     flag = groupName === 'Cargo' ? 5 : 1234 // todo: fleet hangar
-  //   }
-
-  //   const contData = cnts.filter(cont => cont.flag === flag)
-  //   const flagContainers = contData.map((cont, ix) => {
-  //     const count = cont.drop || cont.dstr // TODO: check that not both available
-  //     return (
-  //       <Fragment key={`${cont.type}-${ix}`}>
-  //         <ListItem
-  //           type={cont.type}
-  //           count={count}
-  //           prices={prices}
-  //           isDestroyed={cont.dstr}
-  //           isMobile={isMobile}
-  //         />
-  //         {cont.items.map(item => {
-  //           const [, type, dropped, destroyed, singleton] = item
-  //           return (
-  //             <ListItem
-  //               inContainer
-  //               type={type}
-  //               count={dropped || destroyed}
-  //               prices={prices}
-  //               isDestroyed={!!destroyed}
-  //               key={type}
-  //               singleton={singleton}
-  //               isMobile={isMobile}
-  //             />
-  //           )
-  //         })}
-  //       </Fragment>
-  //     )
-  //   })
-
-  //   return renderItemFlagGroup(flagItems, groupName, flagContainers)
-  // }
-
   function renderGrouped() {
+    items.conts.forEach(cont => {
+      const { items: tmp, ...rest } = cont
+      console.log('cont:', JSON.stringify({ ...rest, itemsCount: tmp.length }, null, 2))
+    })
     return items.flagGroupsArray.map(group => {
       return (
         <ItemFlagGroup
           key={group.id}
           group={group}
-          conts={null}
+          conts={items.conts}
           prices={prices}
           collapsed={collapsed}
           isMobile={isMobile}
@@ -137,30 +67,6 @@ const ItemsList = ({ kmData }) => {
       )
     })
   }
-
-  // function renderGrouped1() {
-  //   return (
-  //     <>
-  //       {renderItemFlagGroup(high, 'High Slots')}
-  //       {renderItemFlagGroup(med, 'Medium Slots')}
-  //       {renderItemFlagGroup(low, 'Low Slots')}
-  //       {renderItemFlagGroup(rig, 'Rig Slots')}
-  //       {renderItemFlagGroup(sub, 'SubSystem Slots')}
-  //       {renderItemFlagGroup(subHold, 'Subsystem Hold')}
-
-  //       {Object.keys(rest).map(slotKey => {
-  //         if (!Array.isArray(rest[slotKey]) || slotKey === 'rawList') {
-  //           return null
-  //         }
-  //         if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
-  //           return renderContainers(rest[slotKey], slotKey)
-  //         }
-  //         return renderItemFlagGroup(rest[slotKey], slotKey)
-  //       })}
-  //       {isCargoEmpty && renderContainers([], 'Cargo')}
-  //     </>
-  //   )
-  // }
 
   function getSortedList({ field, order }, list) {
     switch (field) {
@@ -255,7 +161,7 @@ const ItemsList = ({ kmData }) => {
 
       <TotalRow>
         <h4>Destroyed:</h4>
-        <Sum style={colorRed}>{formatRaw(items.destroyed)}</Sum>
+        <Sum style={colorRed}>{formatRaw(items.destroyed + items.ship)}</Sum>
       </TotalRow>
       <TotalRow>
         <h4>Dropped:</h4>

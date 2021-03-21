@@ -21,8 +21,8 @@ module.exports = {
   target: 'web',
 
   // https://webpack.js.org/configuration/devtool/#development
-  devtool: 'eval-cheap-source-map', // fast, transformed code (lines only)
-  // devtool: 'inline-source-map', // slow, original source
+  // devtool: 'eval-cheap-source-map', // fast, transformed code (lines only)
+  devtool: 'inline-source-map', // slow, original source
 
   // entry: path.resolve(clientDir, 'index.js'),
   entry: {
