@@ -10,10 +10,10 @@ import RigRack from './RigRack'
 
 import { Root } from './styles'
 
-function FittingWheel({ km, items }) {
-  if (!km) return null
+function FittingWheel({ kmData }) {
+  if (!kmData) return null
 
-  const { vict } = km
+  const { vict, fittingItems: items } = kmData
   const { ship } = vict
 
   const groupID = getGroupID(ship)

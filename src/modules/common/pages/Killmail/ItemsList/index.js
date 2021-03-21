@@ -1,6 +1,5 @@
-import React, { Fragment, useState } from 'react'
+import React, { useState } from 'react'
 import useMediaQuery from 'react-hook-media-query'
-import isEmpty from 'lodash/isEmpty'
 import numeral from 'numeral'
 import ExpandLessIcon from '@material-ui/icons/ExpandLess'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
@@ -8,8 +7,9 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 import * as SdeUtils from 'utils/SdeUtils'
 
 // import Collapsible from './Collapsible'
-import SortableColumn from './SortableColumn'
 import ListItem from './ListItem'
+import ItemFlagGroup from './ItemFlagGroup'
+import SortableColumn from './SortableColumn'
 import { Digits, Count, Sum } from './ListItem/styles'
 import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
 
@@ -23,12 +23,15 @@ const ItemsList = ({ kmData }) => {
   const [collapsed, setCollapsed] = useState(false)
   const [sortBy, setSortBy] = useState(null)
   const { vict, prices } = kmData
-  const { cnts = [] } = vict
+  // const { cnts = [] } = vict
   const isMobile = useMediaQuery('(max-width: 767px)')
 
-  const items = SdeUtils.parseKillmailItems(vict, prices)
-  const { high, med, low, rig, sub, subHold, ...rest } = items
-  const isCargoEmpty = !Object.keys(rest).map(slotKey => slotKey).includes('Cargo')
+  // console.log('vict:', JSON.stringify(vict, null, 2))
+
+  // const items = SdeUtils.parseKillmailItems(vict, prices)
+  const items = kmData.parsedItems
+  // const { high, med, low, rig, sub, subHold, ...rest } = items
+  // const isCargoEmpty = !Object.keys(rest).map(slotKey => slotKey).includes('Cargo')
 
   function handleSortBy(field) {
     if (sortBy && sortBy.field === field) {
@@ -46,103 +49,118 @@ const ItemsList = ({ kmData }) => {
     setCollapsed(!collapsed)
   }
 
-  function renderItemFlagGroup(flagItems, groupName, containers) {
-    if (isEmpty(flagItems) && isEmpty(containers)) return null
+  // function renderItemFlagGroup(flagItems, groupName, containers) {
+  //   if (isEmpty(flagItems) && isEmpty(containers)) return null
 
-    return (
-      <ItemGroup key={groupName}>
-        <ItemGroupTitle>
-          <h4>{groupName}</h4>
+  //   return (
+  //     <ItemGroup key={groupName}>
+  //       <ItemGroupTitle>
+  //         <h4>{groupName}</h4>
 
-          <div>Total: 60,234,345</div>
-        </ItemGroupTitle>
+  //         <div>Total: 60,234,345</div>
+  //       </ItemGroupTitle>
 
-        {!collapsed && flagItems.map(item => {
-          const { type, destroyed, dropped, singleton } = item
-          return (
-            <Fragment key={type}>
-              {!!destroyed &&
-                <ListItem isMobile={isMobile} type={type} count={destroyed} prices={prices} singleton={singleton} isDestroyed />
-              }
-              {!!dropped &&
-                <ListItem isMobile={isMobile} type={type} count={dropped} prices={prices} singleton={singleton} />
-              }
-            </Fragment>
-          )
-        })}
+  //       {!collapsed && flagItems.map(item => {
+  //         const { type, destroyed, dropped, singleton } = item
+  //         return (
+  //           <Fragment key={type}>
+  //             {!!destroyed &&
+  //               <ListItem isMobile={isMobile} type={type} count={destroyed} prices={prices} singleton={singleton} isDestroyed />
+  //             }
+  //             {!!dropped &&
+  //               <ListItem isMobile={isMobile} type={type} count={dropped} prices={prices} singleton={singleton} />
+  //             }
+  //           </Fragment>
+  //         )
+  //       })}
 
-        {!collapsed && containers}
-      </ItemGroup>
-    )
-  }
+  //       {!collapsed && containers}
+  //     </ItemGroup>
+  //   )
+  // }
 
-  function renderContainers(flagItems, groupName) {
-    // http://localhost:3000/kill/86935694
-    // prepare Containers for flag
-    let flag
-    if (flagItems.length > 0) {
-      flag = flagItems[0].flag // eslint-disable-line
-    } else {
-      flag = groupName === 'Cargo' ? 5 : 1234 // todo: fleet hangar
-    }
+  // function renderContainers(flagItems, groupName) {
+  //   // http://localhost:3000/kill/86935694
+  //   // prepare Containers for flag
+  //   let flag
+  //   if (flagItems.length > 0) {
+  //     flag = flagItems[0].flag // eslint-disable-line
+  //   } else {
+  //     flag = groupName === 'Cargo' ? 5 : 1234 // todo: fleet hangar
+  //   }
 
-    const contData = cnts.filter(cont => cont.flag === flag)
-    const flagContainers = contData.map((cont, ix) => {
-      const count = cont.drop || cont.dstr // TODO: check that not both available
-      return (
-        <Fragment key={`${cont.type}-${ix}`}>
-          <ListItem
-            type={cont.type}
-            count={count}
-            prices={prices}
-            isDestroyed={cont.dstr}
-            isMobile={isMobile}
-          />
-          {cont.items.map(item => {
-            const [, type, dropped, destroyed, singleton] = item
-            return (
-              <ListItem
-                inContainer
-                type={type}
-                count={dropped || destroyed}
-                prices={prices}
-                isDestroyed={!!destroyed}
-                key={type}
-                singleton={singleton}
-                isMobile={isMobile}
-              />
-            )
-          })}
-        </Fragment>
-      )
-    })
+  //   const contData = cnts.filter(cont => cont.flag === flag)
+  //   const flagContainers = contData.map((cont, ix) => {
+  //     const count = cont.drop || cont.dstr // TODO: check that not both available
+  //     return (
+  //       <Fragment key={`${cont.type}-${ix}`}>
+  //         <ListItem
+  //           type={cont.type}
+  //           count={count}
+  //           prices={prices}
+  //           isDestroyed={cont.dstr}
+  //           isMobile={isMobile}
+  //         />
+  //         {cont.items.map(item => {
+  //           const [, type, dropped, destroyed, singleton] = item
+  //           return (
+  //             <ListItem
+  //               inContainer
+  //               type={type}
+  //               count={dropped || destroyed}
+  //               prices={prices}
+  //               isDestroyed={!!destroyed}
+  //               key={type}
+  //               singleton={singleton}
+  //               isMobile={isMobile}
+  //             />
+  //           )
+  //         })}
+  //       </Fragment>
+  //     )
+  //   })
 
-    return renderItemFlagGroup(flagItems, groupName, flagContainers)
-  }
+  //   return renderItemFlagGroup(flagItems, groupName, flagContainers)
+  // }
 
   function renderGrouped() {
-    return (
-      <>
-        {renderItemFlagGroup(high, 'High Slots')}
-        {renderItemFlagGroup(med, 'Medium Slots')}
-        {renderItemFlagGroup(low, 'Low Slots')}
-        {renderItemFlagGroup(rig, 'Rig Slots')}
-        {renderItemFlagGroup(sub, 'SubSystem Slots')}
-        {renderItemFlagGroup(subHold, 'Subsystem Hold')}
-
-        {Object.keys(rest).map(slotKey => {
-          if (!Array.isArray(rest[slotKey]) || slotKey === 'rawList') {
-            return null
-          }
-          if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
-            return renderContainers(rest[slotKey], slotKey)
-          }
-          return renderItemFlagGroup(rest[slotKey], slotKey)
-        })}
-        {isCargoEmpty && renderContainers([], 'Cargo')}
-      </>
-    )
+    return items.flagGroupsArray.map(group => {
+      return (
+        <ItemFlagGroup
+          key={group.id}
+          group={group}
+          conts={null}
+          prices={prices}
+          collapsed={collapsed}
+          isMobile={isMobile}
+        />
+      )
+    })
   }
+
+  // function renderGrouped1() {
+  //   return (
+  //     <>
+  //       {renderItemFlagGroup(high, 'High Slots')}
+  //       {renderItemFlagGroup(med, 'Medium Slots')}
+  //       {renderItemFlagGroup(low, 'Low Slots')}
+  //       {renderItemFlagGroup(rig, 'Rig Slots')}
+  //       {renderItemFlagGroup(sub, 'SubSystem Slots')}
+  //       {renderItemFlagGroup(subHold, 'Subsystem Hold')}
+
+  //       {Object.keys(rest).map(slotKey => {
+  //         if (!Array.isArray(rest[slotKey]) || slotKey === 'rawList') {
+  //           return null
+  //         }
+  //         if (cnts.length > 0 && slotKey === 'Cargo') { // + fleet hangar, + ... ?
+  //           return renderContainers(rest[slotKey], slotKey)
+  //         }
+  //         return renderItemFlagGroup(rest[slotKey], slotKey)
+  //       })}
+  //       {isCargoEmpty && renderContainers([], 'Cargo')}
+  //     </>
+  //   )
+  // }
 
   function getSortedList({ field, order }, list) {
     switch (field) {
@@ -172,7 +190,7 @@ const ItemsList = ({ kmData }) => {
   }
 
   function renderOrdered() {
-    const orderedItems = getSortedList(sortBy, rest.rawList)
+    const orderedItems = getSortedList(sortBy, items.rawList)
     // console.log('orderedItems:', orderedItems)
     return orderedItems.map(item => {
       const { flag, type, count, sum, singleton, isDestroyed } = item

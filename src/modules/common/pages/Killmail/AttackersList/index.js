@@ -80,10 +80,8 @@ const Attacker = ({ att, names, totalDmg }) => {
   )
 }
 
-const AttackersList = ({ data, names }) => {
-  // const [] = useState()
-  const { atts: attackers, vict: { dmg } } = data
-  // console.log('attackers:', attackers)
+const AttackersList = ({ data }) => {
+  const { atts: attackers, vict: { dmg }, names } = data
 
   return (
     <Root>

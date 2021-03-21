@@ -4,7 +4,8 @@ import ReactTooltip from 'react-tooltip'
 // import { useQuery } from 'react-query'
 
 import KillmailService from 'api/KillmailService'
-import { parseItems } from 'utils/KillmailUtils'
+import * as SdeUtils from 'utils/SdeUtils'
+import * as KillmailUtils from 'utils/KillmailUtils'
 import { Spinner, Href } from 'components'
 
 import Summary from './Summary'
@@ -21,30 +22,53 @@ import { Root, Header, Body, Center, Top, SummaryWrapper, Items, Attackers } fro
 // http://localhost:3000/kill/87158884
 // https://zkillboard.com/kill/87158884/
 
+const DEBUG = true
+const km = require('./km.json')
+
+const getDevelopingKillmail = () => {
+  if (DEBUG && km) {
+    const parsedItems = SdeUtils.parseKillmailItems(km)
+    const fittingItems = KillmailUtils.parseItems(km)
+    return {
+      ...km,
+      parsedItems,
+      fittingItems,
+    }
+  }
+  return null
+}
+
 const KillmailPage = () => {
-  const [kmData, setKmData] = useState(null)
+  const [kmData, setKmData] = useState(getDevelopingKillmail())
   const { killmailID } = useParams()
   // const { isLoading, isError, data, error } = useQuery(['killmail', killmailID], () => KillmailService.getSingleKillmail(killmailID))
 
   useEffect(() => {
-    if (killmailID) {
+    if (killmailID && !kmData) {
       KillmailService.getSingleKillmail(killmailID)
         .then(({ data }) => {
-          console.log('data:', data)
-          setKmData(data)
+          // console.log('data:', data)
+          const parsedItems = SdeUtils.parseKillmailItems(data)
+          const fittingItems = KillmailUtils.parseItems(data)
+          setKmData({
+            ...data,
+            parsedItems,
+            fittingItems,
+          })
         })
         .catch(err => console.error('err:', err))
     }
   }, [killmailID])
 
+  // console.log('kmData:', JSON.stringify(kmData, null, 2))
+
   function renderBody() {
-    const fittingItems = parseItems(kmData)
     return (
       <>
         <Body>
           <Center>
             <Top>
-              <FittingWheel km={kmData} items={fittingItems} />
+              <FittingWheel kmData={kmData} />
               <SummaryWrapper>
                 <Summary kmData={kmData} />
               </SummaryWrapper>
@@ -56,7 +80,7 @@ const KillmailPage = () => {
           </Center>
 
           <Attackers>
-            <AttackersList data={kmData} names={kmData.names} />
+            <AttackersList data={kmData} />
           </Attackers>
         </Body>
 
