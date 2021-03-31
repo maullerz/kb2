@@ -14,6 +14,7 @@ import { Digits, Count, Sum } from './ListItem/styles'
 import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
 
 // CHECK: https://zkillboard.com/kill/87028891/
+
 const formatRaw = sum => numeral(sum).format('0,0')
 
 const colorRed = { color: 'var(--colorRed)' }
@@ -54,10 +55,10 @@ const ItemsList = ({ kmData }) => {
       const { items: tmp, ...rest } = cont
       console.log('cont:', JSON.stringify({ ...rest, itemsCount: tmp.length }, null, 2))
     })
-    return items.flagGroupsArray.map(group => {
+    return items.flagGroupsArray.map((group, ix) => {
       return (
         <ItemFlagGroup
-          key={group.id}
+          key={`${group.id}-${ix}`}
           group={group}
           conts={items.conts}
           prices={prices}

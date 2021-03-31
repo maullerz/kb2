@@ -24,8 +24,8 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
         if (ix === 0) {
           console.log('group.items[0]:', JSON.stringify(item, null, 2))
         }
-        return ( // `${type}-${ix}`
-          <Fragment key={type}>
+        return (
+          <Fragment key={`${type}-${ix}`}>
             {!!destroyed &&
               <ListItem isMobile={isMobile} type={type} count={destroyed} prices={prices} singleton={singleton} isDestroyed />
             }

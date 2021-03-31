@@ -11,6 +11,40 @@ const flags = require('./sde/flags.json')
 // TODO: fetch from esi.evetech.net
 const additionalTypes = require('./sde/additionalTypes.json')
 
+// TODO: move that to API
+const uniSystems = require('./sde/uniSystems.json')
+
+export const getSystemSS = sysID => {
+  return uniSystems[sysID].ss
+}
+
+export const getSSColor = ss => {
+  switch (true) {
+    case (ss < 0.1):
+      return '#F30202'
+    case (ss < 0.2):
+      return '#DC3201'
+    case (ss < 0.3):
+      return '#EB4903'
+    case (ss < 0.4):
+      return '#F66301'
+    case (ss < 0.5):
+      return '#E58000'
+    case (ss < 0.6):
+      return '#F5F501'
+    case (ss < 0.7):
+      return '#96F933'
+    case (ss < 0.8):
+      return '#00FF00'
+    case (ss < 0.9):
+      return '#02F34B'
+    case (ss < 1.0):
+      return '#4BF3C3'
+    default:
+      return '#33F9F9'
+  }
+}
+
 export const getSystemDescr = systemID => {
   const relSystemID = systemID - 30000000
   const system = SYSTEMS_DATA.systems.find(sys => sys[1] === relSystemID)
@@ -20,9 +54,14 @@ export const getSystemDescr = systemID => {
   //   console.error('triglavian system:', km)
   //   return 'WTF'
   // }
+  const ss = parseFloat(getSystemSS(systemID)).toFixed(2)
+  const ssColor = getSSColor(ss)
+
   return {
     system: system ? system[0] : relSystemID,
     region,
+    ss,
+    ssStyle: { color: ssColor },
   }
 }
 

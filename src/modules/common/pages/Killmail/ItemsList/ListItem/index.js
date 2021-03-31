@@ -54,7 +54,7 @@ const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, sin
         <span>&mdash;</span>
       }
 
-      <ItemIcon id={type} singleton={singleton} />
+      <ItemIcon id={type} singleton={singleton} mini />
 
       <Name>
         {singleton ? `${name} (Copy)` : name}

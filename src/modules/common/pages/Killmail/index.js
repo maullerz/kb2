@@ -22,6 +22,11 @@ import { Root, Header, Body, Center, Top, SummaryWrapper, Items, Attackers } fro
 // http://localhost:3000/kill/87158884
 // https://zkillboard.com/kill/87158884/
 
+// Orca with ships
+// http://localhost:3000/kill/91842087/
+// with giant conts
+// http://localhost:3000/kill/91788976
+
 const DEBUG = true
 const km = require('./km.json')
 

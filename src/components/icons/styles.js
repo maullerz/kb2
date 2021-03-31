@@ -19,6 +19,11 @@ export const ItemIconContainer = styled.div`
   overflow: hidden;
   text-align: center;
   /*background-color: #222;*/
+
+  ${p => p.mini && `
+    width: 24px;
+    height: 24px;
+  `}
 `
 
 export const IconContainer = styled(ItemIconContainer)`

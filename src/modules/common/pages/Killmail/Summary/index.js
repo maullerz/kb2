@@ -63,7 +63,13 @@ const Summary = ({ kmData }) => {
       */}
       <Row>
         <Label>System:</Label>
-        <div>{`${sysDescr.system} / ${sysDescr.region}`}</div>
+        <div>
+          {sysDescr.system}
+          &nbsp;
+          <span style={sysDescr.ssStyle}>{sysDescr.ss}</span>
+          &nbsp;/&nbsp;
+          {sysDescr.region}
+        </div>
       </Row>
 
       {/*

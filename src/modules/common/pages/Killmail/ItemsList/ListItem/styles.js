@@ -5,13 +5,16 @@ export const Root = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px 10px;
   border-bottom: 1px solid #333;
-  // background-color: rgba(0,255,0,0.1);
-  // color: rgba(0,255,0,0.8);
+
+  padding: 5px 10px;
+  // condensed
+  // padding: 0 10px;
 
   @media (max-width: 767px) {
-    padding: 5px;
+    padding: 0 5px;
+    // condensed
+    // padding: 0 5px;
   }
 
   ${p => p.destroyed && `
