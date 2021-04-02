@@ -13,7 +13,7 @@ import SortableColumn from './SortableColumn'
 import { Digits, Count, Sum } from './ListItem/styles'
 import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
 
-// CHECK: https://zkillboard.com/kill/87028891/
+// CHECK: http://localhost:3000/kill/87028891/
 
 const formatRaw = sum => numeral(sum).format('0,0')
 
@@ -159,14 +159,22 @@ const ItemsList = ({ kmData }) => {
         </ItemGroupTitle>
         <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
       </ItemGroup>
+      {/*
+        TODO: <h4>Fitted</h4>
+        TODO: <h4>Cargo</h4>
+      */}
 
       <TotalRow>
         <h4>Destroyed:</h4>
-        <Sum style={colorRed}>{formatRaw(items.destroyed + items.ship)}</Sum>
+        <Sum style={colorRed}>
+          {formatRaw(items.destroyed + items.ship)}
+        </Sum>
       </TotalRow>
       <TotalRow>
         <h4>Dropped:</h4>
-        <Sum style={colorGreen}>{formatRaw(items.dropped)}</Sum>
+        <Sum style={colorGreen}>
+          {formatRaw(items.dropped)}
+        </Sum>
       </TotalRow>
       <TotalRow>
         <h4>Total:</h4>

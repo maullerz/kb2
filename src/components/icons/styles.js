@@ -1,14 +1,23 @@
 import styled from 'styled-components'
 
+const mobileMaxWidth = '767px'
+
 // const normalSize = '32px'
 const normalSize = '40px'
+const miniSize = '30px'
+const miniSizeMobile = '24px'
 
 export const Image = styled.img`
   width: ${() => `${normalSize}`};
 
   ${p => p.mini && `
-    width: 24px;
-    height: 24px;
+    width: ${miniSize};
+    height: ${miniSize};
+
+    @media (max-width: ${mobileMaxWidth}) {
+      width: ${miniSizeMobile};
+      height: ${miniSizeMobile};
+    }
   `}
 `
 
@@ -21,8 +30,13 @@ export const ItemIconContainer = styled.div`
   /*background-color: #222;*/
 
   ${p => p.mini && `
-    width: 24px;
-    height: 24px;
+    width: ${miniSize};
+    height: ${miniSize};
+
+    @media (max-width: ${mobileMaxWidth}) {
+      width: ${miniSizeMobile};
+      height: ${miniSizeMobile};
+    }
   `}
 `
 
@@ -31,8 +45,13 @@ export const IconContainer = styled(ItemIconContainer)`
   // border: 1px solid #333;
 
   ${p => p.mini && `
-    width: 24px;
-    height: 24px;
+    width: ${miniSize};
+    height: ${miniSize};
+
+    @media (max-width: ${mobileMaxWidth}) {
+      width: ${miniSizeMobile};
+      height: ${miniSizeMobile};
+    }
   `}
 `
 

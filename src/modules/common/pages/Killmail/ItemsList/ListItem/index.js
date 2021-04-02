@@ -3,6 +3,7 @@ import numeral from 'numeral'
 // import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
+import * as FormatUtils from 'utils/FormatUtils'
 import ItemIcon from 'components/icons/ItemIcon'
 
 import {
@@ -20,18 +21,20 @@ const formatSum = sum => {
   if (sum === 0 || sum === 1 || !sum) {
     return sum || '0'
   }
-  const sumStr = numeral(sum).format('0.00 a').toUpperCase()
+  return FormatUtils.formatSum(sum)
 
-  let result = <div>{sumStr}</div>
-  if (sumStr.includes('m')) {
-    result = <div>{sumStr}</div>
-  } else if (sumStr.includes('b')) {
-    result = <b>{sumStr}</b>
-  } else if (sumStr.includes('t')) {
-    result = <b>{sumStr}</b>
-  }
+  // const sumStr = numeral(sum).format('0.00 a').toUpperCase()
 
-  return result
+  // let result = <div>{sumStr}</div>
+  // if (sumStr.includes('m')) {
+  //   result = <div>{sumStr}</div>
+  // } else if (sumStr.includes('b')) {
+  //   result = <b>{sumStr}</b>
+  // } else if (sumStr.includes('t')) {
+  //   result = <b>{sumStr}</b>
+  // }
+
+  // return result
 }
 
 const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile }) => {

@@ -7,12 +7,12 @@ export const Root = styled.div`
   align-items: center;
   border-bottom: 1px solid #333;
 
-  padding: 5px 10px;
+  padding: 3px 10px;
   // condensed
   // padding: 0 10px;
 
   @media (max-width: 767px) {
-    padding: 0 5px;
+    padding: 3px 5px;
     // condensed
     // padding: 0 5px;
   }
@@ -24,10 +24,12 @@ export const Root = styled.div`
   `}
 
   ${p => p.subItem && `
-    padding-left: 20px;
+    // padding-left: 20px;
+    // condensed
+    padding-left: 10px;
 
     span {
-      margin-right: 20px;
+      margin-right: 10px;
     }
   `}
 `
@@ -37,8 +39,9 @@ export const Name = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  /*flex: 1 1;*/
-  padding-left: 16px;
+  // padding-left: 16px;
+  // condensed
+  padding-left: 8px;
   text-align: left;
   color: var(--colorBlue);
 
