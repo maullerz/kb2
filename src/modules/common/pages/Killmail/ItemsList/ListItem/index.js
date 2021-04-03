@@ -1,6 +1,5 @@
 import React from 'react'
 import numeral from 'numeral'
-// import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'

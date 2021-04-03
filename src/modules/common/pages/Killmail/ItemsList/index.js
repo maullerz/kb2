@@ -20,9 +20,38 @@ const formatRaw = sum => numeral(sum).format('0,0')
 const colorRed = { color: 'var(--colorRed)' }
 const colorGreen = { color: 'var(--colorGreen)' }
 
+function getSortedList({ field, order }, list) {
+  switch (field) {
+    case 'type':
+      return list.sort((a, b) => {
+        const nameA = SdeUtils.getTypeName(a.type)
+        const nameB = SdeUtils.getTypeName(b.type)
+        return order === 'DESC'
+          ? nameA.localeCompare(nameB)
+          : nameB.localeCompare(nameA)
+      })
+    case 'count':
+      return list.sort((a, b) => {
+        return order === 'ASC'
+          ? a.count - b.count
+          : b.count - a.count
+      })
+    case 'sum':
+      return list.sort((a, b) => {
+        return order === 'ASC'
+          ? a.sum - b.sum
+          : b.sum - a.sum
+      })
+    default:
+      return list
+  }
+}
+
 const ItemsList = ({ kmData }) => {
+  // TODO: useReducer
   const [collapsed, setCollapsed] = useState(false)
   const [sortBy, setSortBy] = useState(null)
+  const [orderedItems, setOrderedItems] = useState(null)
   const { vict, prices } = kmData
   // const { cnts = [] } = vict
   const isMobile = useMediaQuery('(max-width: 767px)')
@@ -35,15 +64,23 @@ const ItemsList = ({ kmData }) => {
   // const isCargoEmpty = !Object.keys(rest).map(slotKey => slotKey).includes('Cargo')
 
   function handleSortBy(field) {
+    let newSortBy
     if (sortBy && sortBy.field === field) {
       if (sortBy.order === 'ASC') {
-        setSortBy(null)
+        newSortBy = null
       } else {
-        setSortBy({ field, order: 'ASC' })
+        newSortBy = { field, order: 'ASC' }
       }
     } else {
-      setSortBy({ field, order: 'DESC' })
+      newSortBy = { field, order: 'DESC' }
     }
+    if (newSortBy) {
+      const newOrderedItems = getSortedList(newSortBy, items.rawList)
+      setOrderedItems(newOrderedItems)
+    } else {
+      setOrderedItems(null)
+    }
+    setSortBy(newSortBy)
   }
 
   function handleToggleCollapsed() {
@@ -51,11 +88,15 @@ const ItemsList = ({ kmData }) => {
   }
 
   function renderGrouped() {
-    items.conts.forEach(cont => {
-      const { items: tmp, ...rest } = cont
-      console.log('cont:', JSON.stringify({ ...rest, itemsCount: tmp.length }, null, 2))
-    })
-    return items.flagGroupsArray.map((group, ix) => {
+    // items.conts.forEach(cont => {
+    //   const { items: tmp, ...rest } = cont
+    //   console.log('cont:', JSON.stringify({ ...rest, itemsCount: tmp.length }, null, 2))
+    // })
+    return items.flagGroupsArray.map((element, ix) => {
+      let group = element
+      if (typeof element === 'string') {
+        group = items.flagGroups[element]
+      }
       return (
         <ItemFlagGroup
           key={`${group.id}-${ix}`}
@@ -69,41 +110,21 @@ const ItemsList = ({ kmData }) => {
     })
   }
 
-  function getSortedList({ field, order }, list) {
-    switch (field) {
-      case 'type':
-        return list.sort((a, b) => {
-          const nameA = SdeUtils.getTypeName(a.type)
-          const nameB = SdeUtils.getTypeName(b.type)
-          return order === 'DESC'
-            ? nameA.localeCompare(nameB)
-            : nameB.localeCompare(nameA)
-        })
-      case 'count':
-        return list.sort((a, b) => {
-          return order === 'ASC'
-            ? a.count - b.count
-            : b.count - a.count
-        })
-      case 'sum':
-        return list.sort((a, b) => {
-          return order === 'ASC'
-            ? a.sum - b.sum
-            : b.sum - a.sum
-        })
-      default:
-        return list
-    }
-  }
-
   function renderOrdered() {
-    const orderedItems = getSortedList(sortBy, items.rawList)
-    // console.log('orderedItems:', orderedItems)
+    // const orderedItems = getSortedList(sortBy, items.rawList)
+    console.log('orderedItems:', orderedItems.slice(0, 5))
     return orderedItems.map(item => {
-      const { flag, type, count, sum, singleton, isDestroyed } = item
+      const { type, count, sum, singleton, isDestroyed } = item
+      // const { type, dropped, destroyed, sumDestroyed, sumDropped, singleton } = item
+      // const isDestroyed = sumDestroyed > 0
+      // if (isDestroyed && sumDropped > 0) {
+      //   console.error('============= NEED TWO LIST ITEMS ==============')
+      // }
+      // const sum = isDestroyed ? sumDestroyed : sumDropped
+      // const count = isDestroyed ? sumDestroyed : sumDropped
       return (
         <ListItem
-          key={`${type}-${flag}-${isDestroyed}`}
+          key={`${type}-${isDestroyed}`}
           isMobile={isMobile}
           type={type}
           count={count}

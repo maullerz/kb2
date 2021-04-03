@@ -1,12 +1,13 @@
 import React, { Fragment } from 'react'
-// import isEmpty from 'lodash/isEmpty'
+import numeral from 'numeral'
 
 import ListItem from '../ListItem'
-// import { Digits, Count, Sum } from '../ListItem/styles'
-import { ItemGroup, ItemGroupTitle } from './styles'
+import { ItemGroup, ItemGroupTitle, GroupTotal } from './styles'
+
+const formatRaw = sum => numeral(sum).format('0,0')
 
 const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
-  const { items, ...rest } = group
+  const { items, totalSum, ...rest } = group
   console.log('group:', JSON.stringify({ ...rest, itemsCount: items.length }, null, 2))
 
   const containersInGroup = conts.filter(cont => cont.flag === group.id)
@@ -16,13 +17,13 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
       <ItemGroupTitle>
         <h4>{group.name}</h4>
 
-        <div>Total: 60,234,345</div>
+        {collapsed && <div>Total: {formatRaw(totalSum)}</div>}
       </ItemGroupTitle>
 
       {!collapsed && group.items.map((item, ix) => {
         const { type, destroyed, dropped, singleton } = item
         if (ix === 0) {
-          console.log('group.items[0]:', JSON.stringify(item, null, 2))
+          // console.log('group.items[0]:', JSON.stringify(item, null, 2))
         }
         return (
           <Fragment key={`${type}-${ix}`}>
@@ -38,7 +39,7 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
 
       {!collapsed && containersInGroup.map((cont, ix) => {
         if (ix === 0) {
-          console.log('cont.items[0]:', JSON.stringify(cont.items[0], null, 2))
+          // console.log('cont.items[0]:', JSON.stringify(cont.items[0], null, 2))
         }
         // cont.items[0]: {
         //   "flag": 155,
@@ -75,6 +76,10 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
           </Fragment>
         )
       })}
+
+      {!collapsed &&
+        <GroupTotal>Total: {formatRaw(totalSum)}</GroupTotal>
+      }
     </ItemGroup>
   )
 }

@@ -6,6 +6,7 @@ export const Root = styled.div`
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #333;
+  background-color: #001600;
 
   padding: 3px 10px;
   // condensed
@@ -20,7 +21,7 @@ export const Root = styled.div`
   ${p => p.destroyed && `
     color: var(--colorRed);
     background-color: rgba(255, 0, 0, 0.1);
-    background-color: transparent;
+    background-color: #060606;
   `}
 
   ${p => p.subItem && `

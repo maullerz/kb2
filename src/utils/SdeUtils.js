@@ -278,6 +278,7 @@ const addItemToDict = (result, item) => {
       sumDestroyed: sumDestroyed + item.sumDestroyed,
     }
   } else {
+    // !Warning its [may be] possible to have same type but not the same singlton value
     result.rawDict[type] = {
       type,
       dropped: item.dropped,
@@ -293,15 +294,17 @@ export const parseKillmailItems = kmData => {
   const { vict: victim, prices } = kmData
 
   const victimItems = victim.itms || []
-  const victimConts = victim.cnts
+  const victimConts = victim.cnts || []
 
   const result = {
     dropped: 0,
     destroyed: 0,
     ship: prices[victim.ship],
+    // raw list for ordered not grouped display of items
     rawList: [],
     rawDict: {},
-    flagGroupsArray: [],
+    // displaying of grouped items by flag
+    flagGroupsArray: [], // array of keys of flagGroups
     flagGroups: {}, // 15: { id, name, items: [] }, ...
     conts: [],
   }
@@ -352,6 +355,7 @@ export const parseKillmailItems = kmData => {
     // for ordering and totalSum / counts grouping
     addItemToDict(result, { type, dropped, destroyed, singleton, sumDropped, sumDestroyed })
   })
+  // =======================================
 
   // ============= CONTAINERS =============
   victimConts.forEach(cont => {
@@ -364,23 +368,32 @@ export const parseKillmailItems = kmData => {
       type: cont.type,
       isDestroyed,
       items: [],
+      totalSum: 0,
     }
+    // add container cost to total
+    if (isDestroyed) {
+      result.destroyed += prices[cont.type] * 1
+      container.sumDestroyed = prices[cont.type] * 1
+      container.totalSum = container.sumDestroyed
+    } else {
+      result.dropped += prices[cont.type] * 1
+      container.sumDropped = prices[cont.type] * 1
+      container.totalSum = container.sumDropped
+    }
+    // add container to Dict
+    addItemToDict(result, { ...container, dropped: Number(!isDestroyed), destroyed: Number(isDestroyed) })
+
     // Add empty Groups for each Flag of Containers
     if (!result.flagGroups[cont.flag]) {
       result.flagGroups[cont.flag] = {
         id: cont.flag,
         key: flagName, // ? const flagGroup = slotKey || flag.flagText
         name: flagName,
+        totalSum: 0,
         items: [],
       }
     }
 
-    // add container cost to total
-    if (isDestroyed) {
-      result.destroyed += prices[cont.type] * 1
-    } else {
-      result.dropped += prices[cont.type] * 1
-    }
     cont.items.forEach(item => {
       const [flagID, type, dropped, destroyed, singleton] = item
 
@@ -389,6 +402,8 @@ export const parseKillmailItems = kmData => {
       const sumDestroyed = prices[type] * destroyed
       result.dropped += sumDropped
       result.destroyed += sumDestroyed
+      container.totalSum += sumDropped
+      container.totalSum += sumDestroyed
 
       // flagID - actual for ships inside, zero for other containers
       // flagID needed for differentiate React children with same type - fitted items of ships in Fleet Hangar
@@ -404,39 +419,84 @@ export const parseKillmailItems = kmData => {
   })
   // =======================================
 
+  // Forming Dict finished, create list for sorting
+  Object.values(result.rawDict).forEach(dictItem => {
+    const { type, dropped, destroyed, sumDestroyed, sumDropped, singleton } = dictItem
+    const isDestroyed = sumDestroyed > 0
+    const rawItem = {
+      type,
+      isDestroyed,
+      singleton,
+      sum: isDestroyed ? sumDestroyed : sumDropped,
+      count: isDestroyed ? destroyed : dropped,
+    }
+    result.rawList.push(rawItem)
+    if (isDestroyed && sumDropped > 0) {
+      const secondRawItem = {
+        type,
+        isDestroyed: false,
+        singleton,
+        sum: sumDropped,
+        count: dropped,
+      }
+      result.rawList.push(secondRawItem)
+    }
+  })
+  // =======================================
+
   // Sorting flag groups logically
   const flagKeys = Object.keys(result.flagGroups)
   const startGroupsOrder = ['high', 'med', 'low', 'rig', 'sub', 'subHold', 'Drone Bay']
   const endGroupsOrder = ['Cargo']
-  const tmp = []
+  const orderedFlagGroupKeys = []
   // sorted start
   startGroupsOrder.forEach(key => {
     const matched = flagKeys.includes(key)
     if (matched) {
-      tmp.push(key)
+      orderedFlagGroupKeys.push(key)
     }
   })
   // unsorted middle
   flagKeys.forEach(key => {
-    const matched = tmp.includes(key)
+    const matched = orderedFlagGroupKeys.includes(key)
     const endMatched = endGroupsOrder.includes(key)
     if (!matched && !endMatched) {
-      tmp.push(key)
+      orderedFlagGroupKeys.push(key)
     }
   })
   // sorted end
   endGroupsOrder.forEach(key => {
     const matched = flagKeys.includes(key)
     if (matched) {
-      tmp.push(key)
+      orderedFlagGroupKeys.push(key)
     }
   })
-  result.flagGroupsArray = tmp.map(key => result.flagGroups[key])
-  // console.log('flagKeys:', flagKeys)
-  // console.log('tmp:', tmp)
-  // console.log('result.flagGroupsArray:', result.flagGroupsArray)
+  result.flagGroupsArray = orderedFlagGroupKeys // .map(key => result.flagGroups[key])
+  // =======================================
+
+  // Get Totals for each Flag Group
+  Object.values(result.flagGroups).forEach(group => {
+    const totalItemsSum = group.items.reduce((total, item) => {
+      const { type, destroyed, dropped, singleton } = item
+      const costDestroyed = destroyed * (singleton ? 1 : prices[type])
+      const costDropped = dropped * (singleton ? 1 : prices[type])
+      return total + costDestroyed + costDropped
+    }, 0)
+    const totalContsSum = result.conts
+      .filter(cont => cont.flag === group.id)
+      .reduce((total, cont) => (total + cont.totalSum), 0)
+
+    group.totalSum = totalItemsSum + totalContsSum
+  })
 
   result.total = result.dropped + result.destroyed + result.ship
   // console.log('result:', JSON.stringify(result, null, 2))
+
+  // const { conts, rawDict, flagGroupsArray, flagGroups, ...rest } = result
+  // console.log('conts:', JSON.stringify(result.conts, null, 2))
+  // console.log('flagGroupsArray:', JSON.stringify(result.flagGroupsArray, null, 2))
+  // console.log('flagGroups:', JSON.stringify(result.flagGroups, null, 2))
+  console.log('rawDict:', JSON.stringify(result.rawDict, null, 2))
+
   return result
 }

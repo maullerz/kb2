@@ -26,3 +26,11 @@ export const ItemGroupTitle = styled.div`
     color: #888;
   }
 `
+
+export const GroupTotal = styled.div`
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px 8px;
+  font-size: 12px;
+  color: #888;
+`
