@@ -1,6 +1,8 @@
 import React from 'react'
+
 import { getShipAttributes, getStrategicCruiserAttributes, getGroupID } from 'utils/SdeUtils'
 import { getRenderUrl } from 'utils/KillmailUtils'
+import { Href } from 'components'
 
 import LowSlotsRack from './LowSlotsRack'
 import MediumSlotsRack from './MediumSlotsRack'
@@ -8,7 +10,7 @@ import HighSlotsRack from './HighSlotsRack'
 import SubSystemsRack from './SubSystemsRack'
 import RigRack from './RigRack'
 
-import { Root } from './styles'
+import { Root, ZkbLinkCont } from './styles'
 
 function FittingWheel({ kmData }) {
   if (!kmData) return null
@@ -25,6 +27,12 @@ function FittingWheel({ kmData }) {
 
   return (
     <Root>
+      <ZkbLinkCont>
+        <Href link={`https://zkillboard.com/kill/${kmData.killmailID}/`}>
+          zkillboard
+        </Href>
+      </ZkbLinkCont>
+
       <svg viewBox='0 0 335 335' xmlns='http://www.w3.org/2000/svg'>
         <image xlinkHref={getRenderUrl(ship)} preserveAspectRatio='none' height='205' width='205' x='68.746' y='68.414' strokeWidth='1.249' />
         <g transform='translate(-102.177 -72.666)'>

@@ -15,14 +15,15 @@ export const Root = styled.div`
     min-height: 300px;
   }
 
-  > svg {
-    width: 100%;
-    height: 100%;
+  ${p => p.mini && `
+    width: ${miniSize};
+    height: ${miniSize};
 
-    image {
-      z-index: 10;
+    @media (max-width: ${mobileMaxWidth}) {
+      width: ${miniSizeMobile};
+      height: ${miniSizeMobile};
     }
-  }
+  `}
 `
 
 export const ZkbLinkCont = styled.div`

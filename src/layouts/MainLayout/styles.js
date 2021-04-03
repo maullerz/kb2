@@ -10,11 +10,12 @@ export const Main = styled.main`
 
   // background-color: var(--mainLayoutWorkspaceBackground);
 
-  // @media (min-width: 728px) {
-  //   background-image: url(/background.jpg);
-  //   background-size: cover;
-  //   background-attachment: fixed;
-  // }
+  @media (min-width: 728px) {
+    // background-image: url(/background.jpg);
+    background-image: url(/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
 `
 
 export const Wrapper = styled.div`

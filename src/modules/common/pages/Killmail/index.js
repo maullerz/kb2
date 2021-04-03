@@ -6,14 +6,20 @@ import ReactTooltip from 'react-tooltip'
 import KillmailService from 'api/KillmailService'
 import * as SdeUtils from 'utils/SdeUtils'
 import * as KillmailUtils from 'utils/KillmailUtils'
-import { Spinner, Href } from 'components'
+import {
+  Spinner,
+  // Href,
+} from 'components'
 
 import Summary from './Summary'
 import ItemsList from './ItemsList'
 import FittingWheel from './FittingWheel'
 import AttackersList from './AttackersList'
 
-import { Root, Header, Body, Center, Top, SummaryWrapper, Items, Attackers } from './styles'
+import {
+  Root, // Header,
+  Body, Center, Top, SummaryWrapper, Items, Attackers,
+} from './styles'
 
 // None & Structure service slot 1/2/...
 // http://localhost:3000/kill/89911203
@@ -28,7 +34,7 @@ import { Root, Header, Body, Center, Top, SummaryWrapper, Items, Attackers } fro
 // http://localhost:3000/kill/91788976
 
 const DEBUG = false
-const km = require('./km.json')
+const km = null // require('./km.json')
 
 const getDevelopingKillmail = () => {
   if (DEBUG && km) {
@@ -101,11 +107,11 @@ const KillmailPage = () => {
 
   return (
     <Root>
-      <Header>
+      {/* <Header>
         <Href link={`https://zkillboard.com/kill/${killmailID}/`}>
           zkillboard
         </Href>
-      </Header>
+      </Header> */}
 
       {kmData
         ? renderBody()

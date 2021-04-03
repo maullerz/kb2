@@ -8,7 +8,7 @@ export const Root = styled.div`
   max-width: 1180px;
   min-height: 600px;
   margin: auto;
-  padding-bottom: 400px;
+  padding-bottom: 100px;
 `
 
 export const Header = styled.div`

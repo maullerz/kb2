@@ -5,6 +5,8 @@ import { AppBar, Toolbar, Typography, IconButton, Container, Fab, Zoom, useScrol
 import { Menu as MenuIcon, KeyboardArrowUp as KeyboardArrowUpIcon } from '@material-ui/icons'
 import { useTheme, makeStyles } from '@material-ui/core/styles'
 
+import Footer from 'modules/common/components/Footer'
+
 // Wrapper, Workspace,
 import { Main, Content } from './styles'
 
@@ -79,6 +81,10 @@ const MainLayout = props => {
           </Content>
         </Container>
 
+      </Container>
+
+      <Container maxWidth='lg' disableGutters>
+        <Footer />
       </Container>
 
       <ScrollTop {...props}>
