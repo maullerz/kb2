@@ -11,26 +11,11 @@
     "analyze": "npm run build:stats && npm run build && mv ./stats.json ./dist && npx webpack-bundle-analyzer ./dist/stats.json",
     "docker": "docker-compose up --build web",
     "lint": "eslint -c config/.eslintrc.js --ext js src",
-    "lint:fix": "eslint -c config/.eslintrc.js --fix --ext js src",
-    "lint:staged": "eslint -c config/.eslintrc.js --fix --ext js",
-    "lint:commit": "`npm bin`/lint-staged",
-    "lint:css": "stylelint --config config/stylelint.css.config.js --fix 'src/**/*.pcss'",
-    "lint:styled": "stylelint --config config/stylelint.styled.config.js 'src/**/styles.js'"
+    "lint:fix": "eslint -c config/.eslintrc.js --fix --ext js src"
   },
   "engines": {
     "node": "12.x",
     "npm": "7.x"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.(js|jsx)": [
-      "npm run lint:staged",
-      "git add"
-    ]
   },
   "dependencies": {
     "@date-io/date-fns": "1.3.13",
@@ -39,9 +24,9 @@
     "@material-ui/lab": "4.0.0-alpha.56",
     "@material-ui/pickers": "3.3.10",
     "axios": "0.21.1",
-    "classnames": "2.2.6",
+    "classnames": "2.3.1",
     "connected-react-router": "6.9.1",
-    "core-js": "3.9.1",
+    "core-js": "3.10.0",
     "date-fns": "2.19.0",
     "formik": "2.2.6",
     "history": "4.10.1",
@@ -54,14 +39,12 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-hook-media-query": "1.0.3",
-    "react-query": "3.13.2",
     "react-redux": "7.2.3",
     "react-router-dom": "5.2.0",
     "react-tooltip": "4.2.17",
-    "recharts": "2.0.9",
     "redux": "4.0.5",
     "redux-thunk": "2.3.0",
-    "styled-components": "5.2.2",
+    "styled-components": "5.2.3",
     "yup": "0.32.9"
   },
   "devDependencies": {
@@ -96,25 +79,19 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "file-loader": "6.2.0",
     "html-webpack-plugin": "5.3.1",
-    "husky": "4.3.8",
-    "lint-staged": "10.5.4",
     "mini-css-extract-plugin": "1.4.0",
     "postcss": "8.2.9",
     "postcss-flexbugs-fixes": "5.0.2",
-    "postcss-import": "14.0.0",
+    "postcss-import": "14.0.1",
     "postcss-loader": "4.2.0",
     "react-dev-utils": "11.0.4",
     "react-refresh": "0.10.0",
     "style-loader": "2.0.0",
-    "stylelint": "13.12.0",
-    "stylelint-config-standard": "20.0.0",
-    "stylelint-config-styled-components": "0.1.1",
-    "stylelint-processor-styled-components": "1.10.0",
     "url-loader": "4.1.1",
-    "webpack": "5.28.0",
+    "webpack": "5.30.0",
     "webpack-cli": "4.6.0",
     "webpack-dev-server": "3.11.2",
-    "webpack-manifest-plugin": "3.1.0"
+    "webpack-manifest-plugin": "3.1.1"
   },
   "repository": {
     "type": "git",
