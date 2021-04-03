@@ -27,7 +27,7 @@ import { Root, Header, Body, Center, Top, SummaryWrapper, Items, Attackers } fro
 // with giant conts
 // http://localhost:3000/kill/91788976
 
-const DEBUG = true
+const DEBUG = false
 const km = require('./km.json')
 
 const getDevelopingKillmail = () => {

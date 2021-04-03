@@ -1,3 +1,5 @@
+// import { format } from 'date-fns'
+
 const numeral = require('numeral')
 
 const oneBillion = 1000000000
@@ -5,6 +7,8 @@ const tenMillion = 10000000
 const oneMillion = 1000000
 const tenThousand = 10000
 const oneThousand = 1000
+
+export const formatRaw = sum => numeral(sum).format('0,0')
 
 // only three significant digits
 const numberFormat = sum => {
@@ -109,6 +113,22 @@ export const getUTCTime = (date, withSeconds = true) => {
   return result
 }
 
+export const getUTCDateTime = (date, withSeconds = true) => {
+  let result = ''
+
+  result += `${date.getUTCFullYear()}`
+  // TODO: zero padding
+  result += `-${date.getUTCMonth() + 1}`
+  result += `-${date.getUTCDate()}`
+
+  result += ` ${date.getUTCHours()}`
+  result += `:${getMinutes(date.getUTCMinutes())}`
+  if (withSeconds) {
+    result += `:${getMinutes(date.getUTCSeconds())}`
+  }
+  return result
+}
+
 export const timestampToLocal = timestamp => {
   const date = new Date(timestamp)
   return getLocalTime(date)
@@ -117,6 +137,18 @@ export const timestampToLocal = timestamp => {
 export const timestampToUTC = timestamp => {
   const date = new Date(timestamp)
   return getUTCTime(date)
+}
+
+// const KM_DATE_TIME_FORMAT = 'yyyy-MM-dd hh:mm:ss'
+
+export const formatKmTime = kmTimeInSec => {
+  // (new Date(rest.time * 1000)).toLocaleString()
+  // return format(date, KM_DATE_TIME_FORMAT)
+  // const date = new Date(kmTimeInSec * 1000)
+  // return getUTCDateTime(date)
+  const date = new Date(kmTimeInSec * 1000)
+  const formattedDate = date.toISOString().replace('.000Z', '').replace('T', ' ')
+  return formattedDate
 }
 
 export const formatZkillTimestamp = ts => {

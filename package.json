@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node config/webpackDevServer.js",
     "build": "webpack --config ./config/webpack.prod.config.js",
-    "build:stats": "webpack --config config/webpack.prod.config.js --profile --json > stats.json",
+    "build:stats:old": "webpack --config config/webpack.prod.config.js --profile --json > stats.json",
+    "build:stats": "webpack --config config/webpack.prod.config.js --stats=detailed --json > ./stats.json",
     "analyze": "npm run build:stats && npm run build && mv ./stats.json ./dist && npx webpack-bundle-analyzer ./dist/stats.json",
     "docker": "docker-compose up --build web",
     "lint": "eslint -c config/.eslintrc.js --ext js src",

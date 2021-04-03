@@ -7,8 +7,8 @@ import { ItemGroup, ItemGroupTitle, GroupTotal } from './styles'
 const formatRaw = sum => numeral(sum).format('0,0')
 
 const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
-  const { items, totalSum, ...rest } = group
-  console.log('group:', JSON.stringify({ ...rest, itemsCount: items.length }, null, 2))
+  // const { items, totalSum, ...rest } = group
+  // console.log('group:', JSON.stringify({ ...rest, itemsCount: items.length }, null, 2))
 
   const containersInGroup = conts.filter(cont => cont.flag === group.id)
 
@@ -17,14 +17,11 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
       <ItemGroupTitle>
         <h4>{group.name}</h4>
 
-        {collapsed && <div>Total: {formatRaw(totalSum)}</div>}
+        {collapsed && <div>Total: {formatRaw(group.totalSum)}</div>}
       </ItemGroupTitle>
 
       {!collapsed && group.items.map((item, ix) => {
         const { type, destroyed, dropped, singleton } = item
-        if (ix === 0) {
-          // console.log('group.items[0]:', JSON.stringify(item, null, 2))
-        }
         return (
           <Fragment key={`${type}-${ix}`}>
             {!!destroyed &&
@@ -38,9 +35,6 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
       })}
 
       {!collapsed && containersInGroup.map((cont, ix) => {
-        if (ix === 0) {
-          // console.log('cont.items[0]:', JSON.stringify(cont.items[0], null, 2))
-        }
         // cont.items[0]: {
         //   "flag": 155,
         //   "type": 8263,
@@ -78,7 +72,7 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
       })}
 
       {!collapsed &&
-        <GroupTotal>Total: {formatRaw(totalSum)}</GroupTotal>
+        <GroupTotal>Total: {formatRaw(group.totalSum)}</GroupTotal>
       }
     </ItemGroup>
   )

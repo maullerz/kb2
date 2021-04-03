@@ -64,4 +64,8 @@ export const CharIconContainer = styled(IconContainer)`
   object-fit: contain;
   width: 80px;
   height: 80px;
+
+  ${p => p.corpBorder && `
+    border: 1px solid #333;
+  `}
 `

@@ -1,18 +1,37 @@
-import { SYSTEMS_DATA } from 'data/constants'
-// const startsWith = require('lodash/startsWith')
-// const types = require('./sde/typeIDs.json')
-const types = require('./sde/rawTypes.json')
-const groups = require('./sde/groupIDs.json')
-const cats = require('./sde/categoryIDs.json')
-// const attributes = require('./sde/typeAttributesShips.json')
-const shipAttributes = require('./sde/typeDogmaParsedShips.json')
-const flags = require('./sde/flags.json')
+// TODO: move that to API ?
+let types = null // require('./sde/rawTypesShort.json')
+let groups = null // require('./sde/groupIDs.json')
+let cats = null // require('./sde/categoryIDs.json')
+let shipAttributes = null // require('./sde/typeDogmaParsedShips.json') // const attributes = req..('./sde/typeAttributesShips.json')
+let flags = null // require('./sde/flags.json')
+let uniSystems = null // require('./sde/uniSystemsShort.json')
 
 // TODO: fetch from esi.evetech.net
-const additionalTypes = require('./sde/additionalTypes.json')
+// Problems when type not found
+const additionalTypes = {} // require('./sde/additionalTypes.json')
 
-// TODO: move that to API
-const uniSystems = require('./sde/uniSystems.json')
+export function loadData() {
+  if (types) {
+    if (process.env.NODE_ENV === 'development') {
+      console.warn('already loaded!')
+    }
+    return Promise.resolve()
+  }
+  const m1 = import('./sde/rawTypesShort.json')
+    .then(module => { types = module.default })
+  const m2 = import('./sde/groupIDs.json')
+    .then(module => { groups = module.default })
+  const m3 = import('./sde/categoryIDs.json')
+    .then(module => { cats = module.default })
+  const m4 = import('./sde/typeDogmaParsedShips.json')
+    .then(module => { shipAttributes = module.default })
+  const m5 = import('./sde/flags.json')
+    .then(module => { flags = module.default })
+  const m6 = import('./sde/uniSystemsShort.json')
+    .then(module => { uniSystems = module.default })
+
+  return Promise.all([m1, m2, m3, m4, m5, m6])
+}
 
 export const getSystemSS = sysID => {
   return uniSystems[sysID].ss
@@ -46,19 +65,13 @@ export const getSSColor = ss => {
 }
 
 export const getSystemDescr = systemID => {
-  const relSystemID = systemID - 30000000
-  const system = SYSTEMS_DATA.systems.find(sys => sys[1] === relSystemID)
-  const region = system && SYSTEMS_DATA.regions[system[2]]
-  // TODO: triglavian
-  // if (!system) {
-  //   console.error('triglavian system:', km)
-  //   return 'WTF'
-  // }
-  const ss = parseFloat(getSystemSS(systemID)).toFixed(2)
+  const system = uniSystems[systemID]
+  const region = system.region.name
+  const ss = parseFloat(system.ss).toFixed(2)
   const ssColor = getSSColor(ss)
 
   return {
-    system: system ? system[0] : relSystemID,
+    system: system ? system.name : systemID,
     region,
     ss,
     ssStyle: { color: ssColor },
@@ -496,7 +509,7 @@ export const parseKillmailItems = kmData => {
   // console.log('conts:', JSON.stringify(result.conts, null, 2))
   // console.log('flagGroupsArray:', JSON.stringify(result.flagGroupsArray, null, 2))
   // console.log('flagGroups:', JSON.stringify(result.flagGroups, null, 2))
-  console.log('rawDict:', JSON.stringify(result.rawDict, null, 2))
+  // console.log('rawDict:', JSON.stringify(result.rawDict, null, 2))
 
   return result
 }

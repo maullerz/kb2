@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import useMediaQuery from 'react-hook-media-query'
-import numeral from 'numeral'
 import ExpandLessIcon from '@material-ui/icons/ExpandLess'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 
 import * as SdeUtils from 'utils/SdeUtils'
+import * as FormatUtils from 'utils/FormatUtils'
 
 // import Collapsible from './Collapsible'
 import ListItem from './ListItem'
@@ -14,8 +14,6 @@ import { Digits, Count, Sum } from './ListItem/styles'
 import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
 
 // CHECK: http://localhost:3000/kill/87028891/
-
-const formatRaw = sum => numeral(sum).format('0,0')
 
 const colorRed = { color: 'var(--colorRed)' }
 const colorGreen = { color: 'var(--colorGreen)' }
@@ -147,7 +145,7 @@ const ItemsList = ({ kmData }) => {
       <SortHeader>
         <SortableColumn
           field='type'
-          title='ItemType'
+          title='Item Type'
           onClick={handleSortBy}
           sortBy={sortBy}
         />
@@ -162,7 +160,7 @@ const ItemsList = ({ kmData }) => {
           <SortableColumn
             as={Sum}
             field='sum'
-            title='Price'
+            title='Price (ISK)'
             onClick={handleSortBy}
             sortBy={sortBy}
           />
@@ -188,18 +186,18 @@ const ItemsList = ({ kmData }) => {
       <TotalRow>
         <h4>Destroyed:</h4>
         <Sum style={colorRed}>
-          {formatRaw(items.destroyed + items.ship)}
+          {FormatUtils.formatRaw(items.destroyed + items.ship)}
         </Sum>
       </TotalRow>
       <TotalRow>
         <h4>Dropped:</h4>
         <Sum style={colorGreen}>
-          {formatRaw(items.dropped)}
+          {FormatUtils.formatRaw(items.dropped)}
         </Sum>
       </TotalRow>
       <TotalRow>
         <h4>Total:</h4>
-        <Sum>{formatRaw(items.total)}</Sum>
+        <Sum>{FormatUtils.formatRaw(items.total)}</Sum>
       </TotalRow>
 
       <div />

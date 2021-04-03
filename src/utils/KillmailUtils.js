@@ -56,7 +56,7 @@ export const getIconUrl = (type, singleton) => {
   if (categoryID === 9) {
     return `${SELFHOST}/${type}/bp?size=${IMG_QUALITY}`
   }
-  const result = NO_TYPE_ICONS.includes(groupID)
+  const result = groupID && NO_TYPE_ICONS.includes(groupID)
     ? getRenderUrl(type, 64)
     : `${SELFHOST}/${type}/icon?size=${IMG_QUALITY}`
     // : `${SELFHOST}/${type}_${IMG_QUALITY}.png`

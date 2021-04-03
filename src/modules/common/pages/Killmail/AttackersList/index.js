@@ -19,7 +19,7 @@ import {
   DmgPerc,
 } from './styles'
 
-const MAX_ITEMS = 100
+const MAX_ITEMS = 10
 
 const greyColor = { color: '#ccc' }
 
@@ -33,7 +33,7 @@ const Attacker = ({ att, names, totalDmg }) => {
     </>
   ) : undefined
   return (
-    <ListItem>
+    <ListItem finalBlow={att.length > 1 && att.blow}>
 
       <Char>
         <CharIcon id={att.char} corp={att.corp} />

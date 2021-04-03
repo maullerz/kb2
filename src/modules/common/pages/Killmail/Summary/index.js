@@ -1,20 +1,23 @@
-import React from 'react'
-import numeral from 'numeral'
+import React, { useState } from 'react'
 
-import { getTypeName, getGroupName, getSystemDescr } from 'utils/SdeUtils'
+import * as SdeUtils from 'utils/SdeUtils'
+import * as FormatUtils from 'utils/FormatUtils'
 import CharIcon from 'components/icons/CharIcon'
 import OrgIcon from 'components/icons/OrgIcon'
 
 import { Root, Head, CharName, HeadIcons, CorpAllyGroup, Label, Row } from './styles'
 
-const greyColor = { color: 'grey' }
+const redColor = { color: 'red' }
+const whiteColor = { color: 'white' }
+const greenColor = { color: 'var(--colorGreen)' }
+const noWrap = { whiteSpace: 'nowrap' }
 
 const Summary = ({ kmData }) => {
-  const { atts, vict, names, ...rest } = kmData
+  const { atts, vict, names, parsedItems, ...rest } = kmData
+  const [datetimeStr] = useState(FormatUtils.formatKmTime(rest.time))
   // console.log('rest:', rest)
-  // const shipName = `${getTypeName(vict.ship)} (${getGroupName(vict.ship)})`
-  const sysDescr = getSystemDescr(rest.sys)
-  const datetime = (new Date(rest.time * 1000)).toLocaleString()
+  // const shipName = `${SdeUtils.getTypeName(vict.ship)} (${SdeUtils.getGroupName(vict.ship)})`
+  const sysDescr = SdeUtils.getSystemDescr(rest.sys)
 
   return (
     <Root>
@@ -42,10 +45,11 @@ const Summary = ({ kmData }) => {
       <Row>
         <Label>Ship:</Label>
         <div>
-          <div>{getTypeName(vict.ship)}</div>
-          <div style={greyColor}>
-            {getGroupName(vict.ship)}
-          </div>
+          <span>{SdeUtils.getTypeName(vict.ship)}</span>
+          {` / `}
+          <span style={noWrap}>
+            {SdeUtils.getGroupName(vict.ship)}
+          </span>
         </div>
       </Row>
 
@@ -85,32 +89,55 @@ const Summary = ({ kmData }) => {
 
       <Row>
         <Label>Time:</Label>
-        <div>{datetime}</div>
+        <div>{datetimeStr}</div>
       </Row>
+
       <Row>
         <Label>Damage:</Label>
-        <div>{numeral(vict.dmg).format('0,0')}</div>
+        <div>{FormatUtils.formatRaw(vict.dmg)}</div>
       </Row>
       {/*
       <Row>
         <Label>Fitted:</Label>
         <div>TODO:</div>
       </Row>
+      */}
       <Row>
         <Label>Dropped:</Label>
-        <div>TODO:</div>
+        <div style={greenColor}>
+          {FormatUtils.formatRaw(parsedItems.dropped)} ISK
+        </div>
       </Row>
       <Row>
         <Label>Destroyed:</Label>
-        <div>TODO:</div>
+        <div style={redColor}>
+          {FormatUtils.formatRaw(parsedItems.destroyed + parsedItems.ship)} ISK
+        </div>
       </Row>
-      */}
       <Row>
         <Label>Total:</Label>
-        <div>{numeral(rest.sumV).format('0,0')}</div>
+        <div style={whiteColor}>
+          {FormatUtils.formatRaw(parsedItems.total)} ISK
+        </div>
       </Row>
     </Root>
   )
 }
 
+// <TotalRow>
+//   <h4>Destroyed:</h4>
+//   <Sum style={colorRed}>
+//     {formatRaw(parsedItems.destroyed + parsedItems.ship)}
+//   </Sum>
+// </TotalRow>
+// <TotalRow>
+//   <h4>Dropped:</h4>
+//   <Sum style={colorGreen}>
+//     {formatRaw(parsedItems.dropped)}
+//   </Sum>
+// </TotalRow>
+// <TotalRow>
+//   <h4>Total:</h4>
+//   <Sum>{formatRaw(parsedItems.total)}</Sum>
+// </TotalRow>
 export default Summary

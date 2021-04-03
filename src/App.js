@@ -11,8 +11,8 @@ import ReactTooltip from 'react-tooltip'
 import store from 'store'
 import history from 'services/routerHistory'
 
-import { loadData } from 'data/constants'
 import * as SettingsSelectors from 'store/reducers/settings.selectors'
+import { loadData } from 'utils/SdeUtils'
 
 import { getMuiTheme } from 'assets/styles/mui/muiTheme'
 import 'assets/styles/index.pcss'

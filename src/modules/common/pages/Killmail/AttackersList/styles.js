@@ -28,6 +28,10 @@ export const ListItem = styled.div`
   @media (max-width: 767px) {
     padding: 5px;
   }
+
+  ${p => p.finalBlow && `
+    border: 1px solid gold;
+  `}
 `
 
 export const Char = styled.div`
@@ -53,7 +57,8 @@ export const IconsGroup = styled.div`
       display: none;
     }
 
-    > div:first-child {
+    // :first-child cannot, bc needed for CharCorpIcon with border
+    > div {
       border-bottom: 1px solid #181818;
     }
   }

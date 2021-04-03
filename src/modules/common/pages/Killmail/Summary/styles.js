@@ -53,6 +53,10 @@ export const Row = styled.div`
   padding: 5px 0;
   border-bottom: 1px solid #333;
 
+  > div {
+    color: #888;
+  }
+
   > div:last-child {
     width: 100%;
   }
