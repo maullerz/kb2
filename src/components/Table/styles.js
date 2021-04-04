@@ -73,7 +73,8 @@ export const Row = styled.div`
   position: relative;
   display: flex;
   align-items: center;
-  height: 48px;
+  // height: 48px;
+  height: 52px;
   padding: 0 5px;
 
   font-family: Verdana;
@@ -96,6 +97,7 @@ export const Row = styled.div`
 
 export const Cell = styled.div`
   position: relative;
+  min-height: 20px;
   text-overflow: ellipsis;
   overflow: hidden;
   ${({ highlighted }) => highlighted && `

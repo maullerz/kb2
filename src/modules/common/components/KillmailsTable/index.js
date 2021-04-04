@@ -7,7 +7,8 @@ import { Table, NoContent } from 'components'
 
 import { columns, mobileColumns } from './columns'
 
-// const killmails = require('./killmails.json').slice(0, 50)
+const devKillmails = require('./killmails.json').slice(0, 50)
+
 const IS_DEV = process.env.NODE_ENV === 'development'
 
 const reducerFunc = (prevState, newState) => ({
@@ -61,11 +62,16 @@ const KillmailsTable = props => {
   async function getKillmails() {
     // onSuccess(page, sortBy)
     try {
-      const { data } = await KillmailService.getKillmails()
       if (IS_DEV) {
-        console.log('data[0]:', data[0])
+        setState({ items: devKillmails, isLoading: false, totalPages: 1, totalCount: items.length })
+        console.log('devKillmails[2]:', devKillmails[2])
+      } else {
+        const { data } = await KillmailService.getKillmails()
+        if (IS_DEV) {
+          console.log('data[0]:', data[0])
+        }
+        setState({ items: data, isLoading: false, totalPages: 1, totalCount: items.length })
       }
-      setState({ items: data, isLoading: false, totalPages: 1, totalCount: items.length })
     } catch (e) {
       console.error('getKillmails:', e.message || e)
       setState({ isLoading: false })

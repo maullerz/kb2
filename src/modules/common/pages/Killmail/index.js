@@ -33,6 +33,7 @@ import {
 // with giant conts
 // http://localhost:3000/kill/91788976
 
+const IS_DEV = process.env.NODE_ENV === 'development'
 const DEBUG = false
 const km = null // require('./km.json')
 
@@ -58,7 +59,9 @@ const KillmailPage = () => {
     if (killmailID && !kmData) {
       KillmailService.getSingleKillmail(killmailID)
         .then(({ data }) => {
-          // console.log('data:', data)
+          if (IS_DEV) {
+            console.log('killmail:', data)
+          }
           const parsedItems = SdeUtils.parseKillmailItems(data)
           const fittingItems = KillmailUtils.parseItems(data)
           setKmData({

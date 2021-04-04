@@ -10,6 +10,35 @@ import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
 
 import { Time, CharName, MultilineCell } from './styles'
 
+function getAttackerNames(att) {
+  const hasAlly = att.ally
+  const hasCorp = att.ally
+  const shipName = att.ship.name || ''
+  const attackerName = att.char.name || ''
+
+  if (!hasAlly && !hasCorp) {
+    return attackerName
+      ? <CharName>{attackerName}</CharName>
+      : <div>{shipName}</div>
+  }
+
+  if (!hasAlly) {
+    return (
+      <MultilineCell>
+        <CharName>{attackerName || shipName}</CharName>
+        <div>{att.corp.name}</div>
+      </MultilineCell>
+    )
+  }
+
+  return (
+    <MultilineCell>
+      <CharName>{attackerName}</CharName>
+      <div>{att.ally.name}</div>
+    </MultilineCell>
+  )
+}
+
 const columnsObject = {
   timeAndSum: {
     width: '70px', title: 'Time', align: 'right', // highlighted: true,
@@ -97,20 +126,9 @@ const columnsObject = {
     render: km => {
       const { atts } = km
       const finalBlow = atts.find(att => att.blow) || atts[0]
-      const attackerName = finalBlow.char.name || ''
       return (
         <>
-          {finalBlow.ally ? (
-            <MultilineCell>
-              <CharName>{attackerName}</CharName>
-              <div>{finalBlow.ally.name}</div>
-            </MultilineCell>
-          ) : (
-            <MultilineCell>
-              <CharName>{attackerName}</CharName>
-              <div>{finalBlow.corp.name}</div>
-            </MultilineCell>
-          )}
+          {getAttackerNames(finalBlow)}
           <InvolvedCountBadge km={km} />
         </>
       )

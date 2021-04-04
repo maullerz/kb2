@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react'
+import { useHistory } from 'react-router-dom'
 
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
@@ -6,6 +7,12 @@ import KillmailsTable from 'modules/common/components/KillmailsTable'
 import { HeaderPanel, Title } from './styles'
 
 const Home = () => {
+  const history = useHistory()
+
+  function handleGotoKillmail(km) {
+    history.push(`/kill/${km._id}`)
+  }
+
   return (
     <PageLayout>
       <Fragment key='title'>
@@ -14,7 +21,7 @@ const Home = () => {
         </HeaderPanel>
       </Fragment>
       <Fragment key='content'>
-        <KillmailsTable />
+        <KillmailsTable onRowClick={handleGotoKillmail} />
       </Fragment>
     </PageLayout>
   )
