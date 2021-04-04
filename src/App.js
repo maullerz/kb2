@@ -12,7 +12,7 @@ import store from 'store'
 import history from 'services/routerHistory'
 
 import * as SettingsSelectors from 'store/reducers/settings.selectors'
-import { loadData } from 'utils/SdeUtils'
+import { loadData } from 'utils/SdeData'
 
 import { getMuiTheme } from 'assets/styles/mui/muiTheme'
 import 'assets/styles/index.pcss'
@@ -25,6 +25,7 @@ const App = () => {
   const [themeSettings, setThemeSettings] = useState(getMuiTheme(theme))
 
   async function prepare() {
+    setLoading(true)
     await loadData()
     setLoading(false)
   }

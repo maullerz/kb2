@@ -8,33 +8,33 @@ import OrgIcon from 'components/icons/OrgIcon'
 import ItemIcon from 'components/icons/ItemIcon'
 import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
 
-import { Time, CharName, MultilineCell } from './styles'
+import { Time, EntityName, MultilineCell } from './styles'
 
 function getAttackerNames(att) {
   const hasAlly = att.ally
-  const hasCorp = att.ally
+  const hasCorp = att.corp
   const shipName = att.ship.name || ''
   const attackerName = att.char.name || ''
 
   if (!hasAlly && !hasCorp) {
     return attackerName
-      ? <CharName>{attackerName}</CharName>
-      : <div>{shipName}</div>
+      ? <EntityName>{attackerName}</EntityName>
+      : <EntityName>{shipName}</EntityName>
   }
 
   if (!hasAlly) {
     return (
       <MultilineCell>
-        <CharName>{attackerName || shipName}</CharName>
-        <div>{att.corp.name}</div>
+        <EntityName>{attackerName || shipName}</EntityName>
+        <EntityName>{att.corp.name}</EntityName>
       </MultilineCell>
     )
   }
 
   return (
     <MultilineCell>
-      <CharName>{attackerName}</CharName>
-      <div>{att.ally.name}</div>
+      <EntityName>{attackerName}</EntityName>
+      <EntityName>{att.ally.name}</EntityName>
     </MultilineCell>
   )
 }
@@ -45,7 +45,7 @@ const columnsObject = {
     render: km => {
       return (
         <Link to={`/kill/${km._id || km.id}`}>
-          <MultilineCell>
+          <MultilineCell alignRight>
             <div>{formatSumExt(km.sumV)}</div>
             <Time>{format(km.time * 1000, 'HH:mm')}</Time>
           </MultilineCell>
@@ -88,13 +88,13 @@ const columnsObject = {
       const name = `${vict.char.name || ''}`
       return vict.ally ? (
         <MultilineCell>
-          <CharName>{name}</CharName>
-          <div>{vict.ally.name}</div>
+          <EntityName>{name}</EntityName>
+          <EntityName>{vict.ally.name}</EntityName>
         </MultilineCell>
       ) : (
         <MultilineCell>
-          <CharName>{name}</CharName>
-          <div>{vict.corp.name}</div>
+          <EntityName>{name}</EntityName>
+          <EntityName>{vict.corp.name}</EntityName>
         </MultilineCell>
       )
     },

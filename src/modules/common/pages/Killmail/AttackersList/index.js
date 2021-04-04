@@ -23,7 +23,7 @@ const MAX_ITEMS = 10
 
 const greyColor = { color: '#ccc' }
 
-const Attacker = ({ att, names, totalDmg }) => {
+const Attacker = ({ att, names, totalDmg, isNPC }) => {
   // TODO: do not show group for NPC
   const groupName = getGroupName(att.ship)
   const shipName = att.ship ? (
@@ -33,7 +33,7 @@ const Attacker = ({ att, names, totalDmg }) => {
     </>
   ) : undefined
   return (
-    <ListItem finalBlow={att.length > 1 && att.blow}>
+    <ListItem finalBlow={!isNPC && att.blow}>
 
       <Char>
         <CharIcon id={att.char} corp={att.corp} />

@@ -64,7 +64,7 @@ const KillmailsTable = props => {
     try {
       if (IS_DEV) {
         setState({ items: devKillmails, isLoading: false, totalPages: 1, totalCount: items.length })
-        console.log('devKillmails[2]:', devKillmails[2])
+        console.log('devKillmails[6]:', devKillmails[6])
       } else {
         const { data } = await KillmailService.getKillmails()
         if (IS_DEV) {

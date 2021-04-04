@@ -1,37 +1,15 @@
-// TODO: move that to API ?
-let types = null // require('./sde/rawTypesShort.json')
-let groups = null // require('./sde/groupIDs.json')
-let cats = null // require('./sde/categoryIDs.json')
-let shipAttributes = null // require('./sde/typeDogmaParsedShips.json') // const attributes = req..('./sde/typeAttributesShips.json')
-let flags = null // require('./sde/flags.json')
-let uniSystems = null // require('./sde/uniSystemsShort.json')
+import {
+  types,
+  groups,
+  cats,
+  shipAttributes,
+  flags,
+  uniSystems,
+} from './SdeData'
 
 // TODO: fetch from esi.evetech.net
 // Problems when type not found
 const additionalTypes = {} // require('./sde/additionalTypes.json')
-
-export function loadData() {
-  if (types) {
-    if (process.env.NODE_ENV === 'development') {
-      console.warn('already loaded!')
-    }
-    return Promise.resolve()
-  }
-  const m1 = import('./sde/rawTypesShort.json')
-    .then(module => { types = module.default })
-  const m2 = import('./sde/groupIDs.json')
-    .then(module => { groups = module.default })
-  const m3 = import('./sde/categoryIDs.json')
-    .then(module => { cats = module.default })
-  const m4 = import('./sde/typeDogmaParsedShips.json')
-    .then(module => { shipAttributes = module.default })
-  const m5 = import('./sde/flags.json')
-    .then(module => { flags = module.default })
-  const m6 = import('./sde/uniSystemsShort.json')
-    .then(module => { uniSystems = module.default })
-
-  return Promise.all([m1, m2, m3, m4, m5, m6])
-}
 
 export const getSystemSS = sysID => {
   return uniSystems[sysID].ss
@@ -78,7 +56,9 @@ export const getSystemDescr = systemID => {
   }
 }
 
-export const getTypeInfo = typeID => types[typeID] || additionalTypes[typeID]
+export const getTypeInfo = typeID => {
+  return types[typeID] || additionalTypes[typeID]
+}
 
 export const getTypeName = typeID => {
   const typeInfo = getTypeInfo(typeID)
@@ -278,11 +258,26 @@ export const getFitSlotKey = flag => {
 //
 // -----------------------------------
 // { type, dropped, destroyed, singleton, sumDropped, sumDestroyed }
+
+// singleton: 2
+// http://localhost:3000/kill/91944946
+
 // we ignore flagID and flagGroups here
 const addItemToDict = (result, item) => {
   const { type } = item
+  if (item.sumDropped === null || item.sumDestroyed === null) {
+    console.log('==========================================')
+    console.log(JSON.stringify(item, null, 2))
+    console.log('==========================================')
+  }
+
   if (result.rawDict[type]) {
     const { dropped, destroyed, sumDropped, sumDestroyed } = result.rawDict[type]
+    if (sumDropped === null || sumDestroyed === null) {
+      console.log('==========================================')
+      console.log(JSON.stringify(result.rawDict[type], null, 2))
+      console.log('==========================================')
+    }
     result.rawDict[type] = {
       ...result.rawDict[type],
       dropped: dropped + item.dropped,
@@ -301,6 +296,16 @@ const addItemToDict = (result, item) => {
       singleton: item.singleton,
     }
   }
+}
+
+const getItemPrice = (typeID, prices) => {
+  // TODO: Static Prices for Fraction Structures / Supercapitals / Etc.
+
+  if (!prices[typeID]) {
+    return 1 // BPC-singleton and something unknown
+  }
+
+  return prices[typeID]
 }
 
 export const parseKillmailItems = kmData => {
@@ -333,8 +338,9 @@ export const parseKillmailItems = kmData => {
       throw new Error(`WTF flag not found: ${flagID}`)
     }
 
-    const sumDropped = prices[type] * dropped
-    const sumDestroyed = prices[type] * destroyed
+    const itemPrice = getItemPrice(type, prices)
+    const sumDropped = itemPrice * dropped
+    const sumDestroyed = itemPrice * destroyed
     result.dropped += sumDropped
     result.destroyed += sumDestroyed
 
@@ -384,13 +390,14 @@ export const parseKillmailItems = kmData => {
       totalSum: 0,
     }
     // add container cost to total
+    const contPrice = getItemPrice(cont.type, prices)
     if (isDestroyed) {
-      result.destroyed += prices[cont.type] * 1
-      container.sumDestroyed = prices[cont.type] * 1
+      result.destroyed += contPrice * 1
+      container.sumDestroyed = contPrice * 1
       container.totalSum = container.sumDestroyed
     } else {
-      result.dropped += prices[cont.type] * 1
-      container.sumDropped = prices[cont.type] * 1
+      result.dropped += contPrice * 1
+      container.sumDropped = contPrice * 1
       container.totalSum = container.sumDropped
     }
     // add container to Dict
@@ -411,8 +418,9 @@ export const parseKillmailItems = kmData => {
       const [flagID, type, dropped, destroyed, singleton] = item
 
       // add each item cost to total
-      const sumDropped = prices[type] * dropped
-      const sumDestroyed = prices[type] * destroyed
+      const itemPrice = getItemPrice(type, prices)
+      const sumDropped = itemPrice * dropped
+      const sumDestroyed = itemPrice * destroyed
       result.dropped += sumDropped
       result.destroyed += sumDestroyed
       container.totalSum += sumDropped
@@ -491,8 +499,9 @@ export const parseKillmailItems = kmData => {
   Object.values(result.flagGroups).forEach(group => {
     const totalItemsSum = group.items.reduce((total, item) => {
       const { type, destroyed, dropped, singleton } = item
-      const costDestroyed = destroyed * (singleton ? 1 : prices[type])
-      const costDropped = dropped * (singleton ? 1 : prices[type])
+      const itemPrice = singleton ? 1 : getItemPrice(type, prices)
+      const costDestroyed = destroyed * itemPrice
+      const costDropped = dropped * itemPrice
       return total + costDestroyed + costDropped
     }, 0)
     const totalContsSum = result.conts

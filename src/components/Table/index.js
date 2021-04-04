@@ -38,28 +38,6 @@ const Table = props => {
       textAlign: col.align,
     }
 
-    // const alignRight = col.align === 'right'
-    // const controlsCellStyle = {
-    //   ...cellStyle,
-    //   minWidth: col.minWidth,
-    //   ...(alignRight && {
-    //     display: 'flex',
-    //     justifyContent: 'flex-end',
-    //   }),
-    // }
-
-    // if (key === 'controls' && onRenderControls) {
-    //   return (
-    //     <Cell
-    //       key={key}
-    //       style={controlsCellStyle}
-    //       highlighted={highlighted}
-    //     >
-    //       {onRenderControls(item)}
-    //     </Cell>
-    //   )
-    // }
-
     if (col.link) {
       const path = col.link.replace('{placeholder}', item[col.linkKey])
       return (

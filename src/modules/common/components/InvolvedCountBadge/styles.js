@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Root = styled.div`
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom: 16px;
   right: 0;
   display: flex;
   flex-direction: column;
@@ -20,10 +20,12 @@ export const InvolvedCountText = styled.div`
   color: #888;
   border: 1px solid #888;
   border-radius: 4px;
+  background-color: var(--pageLayoutBackground);
 
   ${p => p.isSolo && `
     color: rgb(18, 59, 53);
     background-color: rgb(136, 238, 172);
+    border: 1px solid var(--pageLayoutBackground);
     // background-color: #77b300;
     // color: white;
   `}
@@ -31,5 +33,6 @@ export const InvolvedCountText = styled.div`
   ${p => p.isNPC && `
     color: white;
     background-color: #9933cc;
+    border: 1px solid var(--pageLayoutBackground);
   `}
 `

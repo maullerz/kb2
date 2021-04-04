@@ -97,13 +97,17 @@ export const Row = styled.div`
 
 export const Cell = styled.div`
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  // align-items: center;
+  height: 100%;
+
   min-height: 20px;
   text-overflow: ellipsis;
   overflow: hidden;
+
   ${({ highlighted }) => highlighted && `
-    display: flex;
-    align-items: center;
-    height: 100%;
     background-color: rgba(115, 119, 140, 0.2);
   `}
 
