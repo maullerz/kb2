@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import Spinner from 'components/Spinner'
 import TableHeadCell from './TableHeadCell'
@@ -12,7 +13,8 @@ import { TableRoot, Head, Body, Row, Cell } from './styles'
 const Table = props => {
   const {
     columns, items, isLoading, sortBy, isSubtable,
-    onRowClick, onSortBy, onNoContent, onRenderControls,
+    onRowClick, onSortBy, onNoContent,
+    // onRenderControls,
     pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
   } = props
 
@@ -31,41 +33,46 @@ const Table = props => {
   function renderCell(item, col) {
     const { key, highlighted } = col
     const value = item[key] || ''
-
-    const alignRight = col.align === 'right'
-
     const cellStyle = {
       flexBasis: col.width,
       textAlign: col.align,
     }
 
-    const controlsCellStyle = {
-      ...cellStyle,
-      minWidth: col.minWidth,
-      ...(alignRight && {
-        display: 'flex',
-        justifyContent: 'flex-end',
-      }),
-    }
+    // const alignRight = col.align === 'right'
+    // const controlsCellStyle = {
+    //   ...cellStyle,
+    //   minWidth: col.minWidth,
+    //   ...(alignRight && {
+    //     display: 'flex',
+    //     justifyContent: 'flex-end',
+    //   }),
+    // }
 
-    if (key === 'controls' && onRenderControls) {
+    // if (key === 'controls' && onRenderControls) {
+    //   return (
+    //     <Cell
+    //       key={key}
+    //       style={controlsCellStyle}
+    //       highlighted={highlighted}
+    //     >
+    //       {onRenderControls(item)}
+    //     </Cell>
+    //   )
+    // }
+
+    if (col.link) {
+      const path = col.link.replace('{placeholder}', item[col.linkKey])
       return (
-        <Cell
-          key={key}
-          style={controlsCellStyle}
-          highlighted={highlighted}
-        >
-          {onRenderControls(item)}
-        </Cell>
+        <Link to={path} key={key}>
+          <Cell style={cellStyle} highlighted={highlighted}>
+            {col.render ? col.render(item) : value}
+          </Cell>
+        </Link>
       )
     }
 
     return (
-      <Cell
-        key={key}
-        style={cellStyle}
-        highlighted={highlighted}
-      >
+      <Cell key={key} style={cellStyle} highlighted={highlighted}>
         {col.render ? col.render(item) : value}
       </Cell>
     )
@@ -95,18 +102,18 @@ const Table = props => {
 
     return (
       <>
-        <Body
-          isSubtable={isSubtable}
-        >
+        <Body isSubtable={isSubtable}>
           {items.map((item, ix) => renderRow(item, item.id || ix))}
         </Body>
-        <TableFooter
-          pageSize={pageSize}
-          pagination={pagination}
-          onPrevPage={onPrevPage}
-          onNextPage={onNextPage}
-          onGoToPage={onGoToPage}
-        />
+        {false && // TODO: TableFooter
+          <TableFooter
+            pageSize={pageSize}
+            pagination={pagination}
+            onPrevPage={onPrevPage}
+            onNextPage={onNextPage}
+            onGoToPage={onGoToPage}
+          />
+        }
       </>
     )
   }

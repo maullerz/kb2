@@ -1,4 +1,4 @@
-FROM node:12-alpine
+FROM node:12-alpine as builder
 
 COPY ["./package.json", "./package-lock.json", "./babel.config.js", "/build/"]
 WORKDIR /build

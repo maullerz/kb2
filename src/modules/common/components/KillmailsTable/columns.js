@@ -1,10 +1,12 @@
 import React from 'react'
 import { format } from 'date-fns'
+import { Link } from 'react-router-dom'
 
 import { formatSumExt } from 'utils/FormatUtils'
 import { getSystemDescr } from 'utils/SdeUtils'
 import OrgIcon from 'components/icons/OrgIcon'
 import ItemIcon from 'components/icons/ItemIcon'
+import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
 
 import { Time, CharName, MultilineCell } from './styles'
 
@@ -13,19 +15,23 @@ const columnsObject = {
     width: '70px', title: 'Time', align: 'right', // highlighted: true,
     render: km => {
       return (
-        <MultilineCell>
-          <Time>{format(km.time * 1000, 'HH:mm')}</Time>
-          <div>{formatSumExt(km.sumV)}</div>
-        </MultilineCell>
+        <Link to={`/kill/${km._id || km.id}`}>
+          <MultilineCell>
+            <div>{formatSumExt(km.sumV)}</div>
+            <Time>{format(km.time * 1000, 'HH:mm')}</Time>
+          </MultilineCell>
+        </Link>
       )
     },
   },
   shipIcon: {
-    width: '50px', title: 'Ship',
-    render: km => <ItemIcon id={km.vict.ship.id} tooltip />,
+    width: '50px', title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
+    render: km => (
+      <ItemIcon id={km.vict.ship.id} tooltip />
+    ),
   },
   system: {
-    width: '100px', title: 'System',
+    width: '200px', title: 'System',
     render: ({ sys }) => {
       const sysDescr = getSystemDescr(sys)
       return (
@@ -47,7 +53,7 @@ const columnsObject = {
     ),
   },
   victimName: {
-    width: '30%', title: 'Victim',
+    width: '28%', title: 'Victim',
     render: ({ vict }) => {
       // const name = `${vict.char.name || ''} (${vict.ship.name})`
       const name = `${vict.char.name || ''}`
@@ -66,33 +72,47 @@ const columnsObject = {
   },
   attShipIcon: {
     width: '50px', title: 'Final Blow',
-    render: ({ atts }) => <ItemIcon id={atts[0].ship.id} tooltip />,
+    render: ({ atts }) => {
+      const finalBlow = atts.find(att => att.blow) || atts[0]
+      return (
+        <ItemIcon id={finalBlow.ship.id} tooltip />
+      )
+    },
   },
   attAllyIcon: {
     width: '50px', title: null,
-    render: ({ atts }) => (
-      <OrgIcon
-        ally={atts[0].ally && atts[0].ally.id}
-        corp={atts[0].corp.id}
-        names={null}
-      />
-    ),
+    render: ({ atts }) => {
+      const finalBlow = atts.find(att => att.blow) || atts[0]
+      return (
+        <OrgIcon
+          ally={finalBlow.ally && finalBlow.ally.id}
+          corp={finalBlow.corp.id}
+          names={null}
+        />
+      )
+    },
   },
   attName: {
-    width: '30%', title: null,
-    render: ({ atts }) => {
-      // const attackerName = `${atts[0].char.name || ''} (${atts[0].ship.name})`
-      const attackerName = `${atts[0].char.name || ''}`
-      return atts[0].ally ? (
-        <MultilineCell>
-          <CharName>{attackerName}</CharName>
-          <div>{atts[0].ally.name}</div>
-        </MultilineCell>
-      ) : (
-        <MultilineCell>
-          <CharName>{attackerName}</CharName>
-          <div>{atts[0].corp.name}</div>
-        </MultilineCell>
+    width: '32%', title: null,
+    render: km => {
+      const { atts } = km
+      const finalBlow = atts.find(att => att.blow) || atts[0]
+      const attackerName = finalBlow.char.name || ''
+      return (
+        <>
+          {finalBlow.ally ? (
+            <MultilineCell>
+              <CharName>{attackerName}</CharName>
+              <div>{finalBlow.ally.name}</div>
+            </MultilineCell>
+          ) : (
+            <MultilineCell>
+              <CharName>{attackerName}</CharName>
+              <div>{finalBlow.corp.name}</div>
+            </MultilineCell>
+          )}
+          <InvolvedCountBadge km={km} />
+        </>
       )
     },
   },

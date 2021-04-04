@@ -103,6 +103,8 @@ const config = {
     //   { blankLine: 'any', prev: ['const', 'let', 'var'], next: ['const', 'let', 'var'] },
     // ],
     'react/jsx-no-target-blank': ['warn', { allowReferrer: true }],
+
+    'react/destructuring-assignment': 'off',
   },
 }
 

@@ -75,7 +75,7 @@ export const Row = styled.div`
   align-items: center;
   height: 48px;
   padding: 0 5px;
-  cursor: pointer;
+
   font-family: Verdana;
   font-style: normal;
   font-weight: normal;

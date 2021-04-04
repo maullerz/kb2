@@ -3,7 +3,7 @@ import React from 'react'
 
 import { Href } from 'components'
 
-import { Root } from 'styles'
+import { Root } from './styles'
 
 function Footer() {
 
