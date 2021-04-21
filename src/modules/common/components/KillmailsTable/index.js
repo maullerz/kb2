@@ -1,6 +1,7 @@
 import React, { useReducer, useEffect } from 'react'
 // import { useDispatch, useSelector } from 'react-redux'
 import useMediaQuery from 'react-hook-media-query'
+import ReactTooltip from 'react-tooltip'
 
 import KillmailService from 'api/KillmailService'
 import { Table, NoContent } from 'components'
@@ -9,7 +10,7 @@ import { columns, mobileColumns } from './columns'
 
 const devKillmails = require('./killmails.json').slice(0, 50)
 
-const IS_DEV = process.env.NODE_ENV === 'development'
+const IS_DEV = false && process.env.NODE_ENV === 'development'
 
 const reducerFunc = (prevState, newState) => ({
   ...prevState,
@@ -81,6 +82,10 @@ const KillmailsTable = props => {
   useEffect(() => {
     getKillmails()
   }, [])
+
+  useEffect(() => {
+    ReactTooltip.rebuild()
+  }, [items])
   // }, [page, searchFilter, contactPosition]) // , sortBy
 
   // useEffect(() => {

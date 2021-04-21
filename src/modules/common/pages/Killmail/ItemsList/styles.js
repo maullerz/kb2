@@ -33,6 +33,8 @@ export const SortHeader = styled.div`
   background-color: #222;
   color: grey;
 
+  @media (max-width: 767px) { padding: 10px 5px; }
+
   &:hover {
     background-color: #222a;
   }

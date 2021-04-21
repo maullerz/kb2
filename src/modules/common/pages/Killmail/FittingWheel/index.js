@@ -12,6 +12,8 @@ import RigRack from './RigRack'
 
 import { Root, ZkbLinkCont } from './styles'
 
+const isDev = process.env.NODE_ENV === 'development'
+
 function FittingWheel({ kmData }) {
   if (!kmData) return null
 
@@ -28,9 +30,15 @@ function FittingWheel({ kmData }) {
   return (
     <Root>
       <ZkbLinkCont>
-        <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
-          zkillboard
-        </Href>
+        {isDev ? (
+          <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
+            zkillboard
+          </Href>
+        ) : (
+          <a href={`https://zkillboard.com/kill/${kmData._id}/`} rel='noopener'>
+            zkillboard
+          </a>
+        )}
       </ZkbLinkCont>
 
       <svg viewBox='0 0 335 335' xmlns='http://www.w3.org/2000/svg'>

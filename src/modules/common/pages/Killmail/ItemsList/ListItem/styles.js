@@ -67,7 +67,7 @@ export const Count = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  min-width: 70px;
+  min-width: 80px;
 `
 
 export const Sum = styled.div`

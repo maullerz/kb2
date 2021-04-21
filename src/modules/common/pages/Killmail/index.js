@@ -21,6 +21,13 @@ import {
   Body, Center, Top, SummaryWrapper, Items, Attackers,
 } from './styles'
 
+// Duplicate Containers
+// http://localhost:3000/kill/81245472/
+
+// Titan with containers
+// https://zkillboard.com/kill/91991358/
+// https://br.evetools.org/related/30002537/202104060300
+
 // None & Structure service slot 1/2/...
 // http://localhost:3000/kill/89911203
 

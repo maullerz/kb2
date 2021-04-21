@@ -17,7 +17,7 @@ const Home = () => {
     <PageLayout>
       <Fragment key='title'>
         <HeaderPanel>
-          <Title>Alpha version - In Development...</Title>
+          <Title>Alpha version - Under Development...</Title>
         </HeaderPanel>
       </Fragment>
       <Fragment key='content'>

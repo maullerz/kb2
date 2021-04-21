@@ -63,6 +63,7 @@ const columnsObject = {
     width: '200px', title: 'System',
     render: ({ sys }) => {
       const sysDescr = getSystemDescr(sys)
+      // console.log('sysDescr:', sysDescr)
       return (
         <MultilineCell>
           <div>{sysDescr.system}</div>
