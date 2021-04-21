@@ -128,7 +128,7 @@
     "published": true
   },
   "41": {
-    "name": "Planetary Interaction",
+    "name": "Planetary Industry",
     "published": true
   },
   "42": {
@@ -177,6 +177,10 @@
   },
   "91": {
     "name": "SKINs",
+    "published": true
+  },
+  "2100": {
+    "name": "Expert Systems",
     "published": true
   },
   "350001": {

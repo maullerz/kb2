@@ -8566,7 +8566,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "name": "Target Breaker",
+    "name": "Signature Suppressor",
     "published": true,
     "useBasePrice": false
   },
@@ -8575,7 +8575,7 @@
     "anchored": false,
     "categoryID": 9,
     "fittableNonSingleton": false,
-    "name": "Target Breaker Blueprint",
+    "name": "Signature Suppressor Blueprint",
     "published": true,
     "useBasePrice": true
   },
@@ -13391,6 +13391,87 @@
     "fittableNonSingleton": true,
     "iconID": 1721,
     "name": "Interdiction Burst Probes",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4090": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2100,
+    "fittableNonSingleton": false,
+    "name": "QA Expert Systems",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4091": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2100,
+    "fittableNonSingleton": false,
+    "name": "Standard Expert Systems",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4093": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "Mobile Cynosural Beacon",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4094": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Scalable Decorative Asteroid",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4095": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mobile Cynosural Beacon Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4096": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 4,
+    "fittableNonSingleton": false,
+    "name": "Molecular-Forged Materials",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4097": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Molecular-Forged Reaction Formulas",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4098": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2100,
+    "fittableNonSingleton": false,
+    "name": "Promotional Expert Systems",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4100": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Tournament Champion Monument",
     "published": false,
     "useBasePrice": false
   },

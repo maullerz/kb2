@@ -56,6 +56,7 @@ const App = () => {
           backgroundColor='#000f'
           border
           borderColor='#555'
+          multiline
         />
         {/* <ToastContainer /> */}
       </MuiPickersUtilsProvider>

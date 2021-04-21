@@ -2,7 +2,7 @@ import React from 'react'
 // import useMediaQuery from 'react-hook-media-query'
 
 import { getIconUrl, getUnknownItemUrl } from 'utils/KillmailUtils'
-import { getTypeName } from 'utils/SdeUtils'
+import { getTypeName, getGroupName } from 'utils/SdeUtils'
 
 import { ItemIconContainer, Image } from './styles'
 
@@ -13,8 +13,8 @@ const ItemIcon = ({ id, mini, singleton, tooltip }) => {
     ? getIconUrl(id, singleton)
     : getUnknownItemUrl()
 
-  const tip = tooltip
-    ? getTypeName(id)
+  const tip = tooltip && id
+    ? `${getTypeName(id)}<br />(${getGroupName(id)})`
     : undefined
 
   return (

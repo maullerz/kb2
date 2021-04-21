@@ -99,6 +99,11 @@ export const getCategory = typeID => {
 
 export const getCategoryID = typeID => {
   const group = groups[getGroupID(typeID)]
+  if (!group) {
+    console.error('not found groupID:', getGroupID(typeID))
+    console.log('  typeID:', typeID)
+    return 0
+  }
   return Number(group.categoryID)
 }
 
