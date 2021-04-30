@@ -9,6 +9,9 @@ import {
 // TODO: fetch from esi.evetech.net
 // Problems when type not found
 const additionalTypes = {} // require('./sde/additionalTypes.json')
+const skinsTypes = require('./sde/skinsTypesIds.json')
+
+const SKIN_GROUP = 1950
 
 export const getSSColor = ss => {
   switch (true) {
@@ -38,13 +41,20 @@ export const getSSColor = ss => {
 }
 
 export const getTypeInfo = typeID => {
-  return types[typeID] || additionalTypes[typeID]
+  const result = types[typeID] || additionalTypes[typeID]
+  if (!result && skinsTypes.includes(Number(typeID))) {
+    return {
+      name: 'SKIN',
+      groupID: SKIN_GROUP,
+    }
+  }
+  return result
 }
 
 export const getTypeName = typeID => {
   const typeInfo = getTypeInfo(typeID)
   if (!typeInfo) {
-    console.error('not found typeID:', typeID)
+    console.error('getTypeName: not found typeID:', typeID)
     return 'Unknown'
   }
   return typeInfo.name
@@ -53,7 +63,7 @@ export const getTypeName = typeID => {
 export const getGroupID = typeID => {
   const typeInfo = getTypeInfo(typeID)
   if (!typeInfo) {
-    console.error('not found typeID:', typeID)
+    console.error('getGroupID: not found typeID:', typeID)
     return false
   }
   return typeInfo.groupID
@@ -62,7 +72,7 @@ export const getGroupID = typeID => {
 export const getGroupName = typeID => {
   const info = getTypeInfo(typeID)
   if (!info) {
-    console.error('not found typeID:', typeID)
+    console.error('getGroupName: not found typeID:', typeID)
     return 'Unknown'
   }
   const group = groups[info.groupID]
@@ -73,19 +83,19 @@ export const getCategory = typeID => {
   const info = getTypeInfo(typeID)
   const group = groups[info.groupID]
   return {
-    id: Number(group.categoryID),
-    name: cats[group.categoryID].name.en,
+    id: Number(group.cat),
+    name: cats[group.cat].name.en,
   }
 }
 
 export const getCategoryID = typeID => {
   const group = groups[getGroupID(typeID)]
   if (!group) {
-    console.error('not found groupID:', getGroupID(typeID))
+    console.error('getCategoryID: not found groupID:', getGroupID(typeID))
     console.log('  typeID:', typeID)
     return 0
   }
-  return Number(group.categoryID)
+  return Number(group.cat)
 }
 
 const CAT_AMMO = 8

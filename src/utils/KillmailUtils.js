@@ -24,6 +24,8 @@ const NPC_ALLYS = [
   // 1000274, // Vigilant Tyrannos
 ]
 
+const SKIN_GROUP = 1950
+
 export const getUnknownItemUrl = () => '/icons/eve-question.png'
 
 export const getCorpUrl = corpID => {
@@ -48,7 +50,7 @@ export const getIconUrl = (type, singleton) => {
     return `${TYPES_BASE}/${type}/bpc?size=${IMG_QUALITY}`
   }
   const groupID = getGroupID(type)
-  if (!groupID) {
+  if (!groupID || groupID === SKIN_GROUP) {
     return getUnknownItemUrl()
   }
   const categoryID = getCategoryID(type)
