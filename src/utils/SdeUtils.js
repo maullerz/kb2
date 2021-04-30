@@ -4,16 +4,11 @@ import {
   cats,
   shipAttributes,
   flags,
-  uniSystems,
 } from './SdeData'
 
 // TODO: fetch from esi.evetech.net
 // Problems when type not found
 const additionalTypes = {} // require('./sde/additionalTypes.json')
-
-export const getSystemSS = sysID => {
-  return uniSystems[sysID].ss
-}
 
 export const getSSColor = ss => {
   switch (true) {
@@ -39,20 +34,6 @@ export const getSSColor = ss => {
       return '#4BF3C3'
     default:
       return '#33F9F9'
-  }
-}
-
-export const getSystemDescr = systemID => {
-  const system = uniSystems[systemID]
-  const region = system.region.name
-  const ss = parseFloat(system.ss).toFixed(2)
-  const ssColor = getSSColor(ss)
-
-  return {
-    system: system ? system.name : systemID,
-    region,
-    ss,
-    ssStyle: { color: ssColor },
   }
 }
 

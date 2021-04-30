@@ -17,7 +17,8 @@ const Summary = ({ kmData }) => {
   const [datetimeStr] = useState(FormatUtils.formatKmTime(rest.time))
   // console.log('rest:', rest)
   // const shipName = `${SdeUtils.getTypeName(vict.ship)} (${SdeUtils.getGroupName(vict.ship)})`
-  const sysDescr = SdeUtils.getSystemDescr(rest.sys)
+  const sysDescr = rest.sys
+  const ssStyle = { color: SdeUtils.getSSColor(sysDescr.ss) }
 
   return (
     <Root>
@@ -68,9 +69,9 @@ const Summary = ({ kmData }) => {
       <Row>
         <Label>System:</Label>
         <div>
-          {sysDescr.system}
+          {sysDescr.name}
           &nbsp;
-          <span style={sysDescr.ssStyle}>{sysDescr.ss}</span>
+          <span style={ssStyle}>{sysDescr.ss}</span>
           &nbsp;/&nbsp;
           {sysDescr.region}
         </div>

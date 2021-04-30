@@ -3,7 +3,7 @@ import { format } from 'date-fns'
 import { Link } from 'react-router-dom'
 
 import { formatSumExt } from 'utils/FormatUtils'
-import { getSystemDescr } from 'utils/SdeUtils'
+import * as SdeUtils from 'utils/SdeUtils'
 import OrgIcon from 'components/icons/OrgIcon'
 import ItemIcon from 'components/icons/ItemIcon'
 import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
@@ -62,12 +62,12 @@ const columnsObject = {
   system: {
     width: '200px', title: 'System',
     render: ({ sys }) => {
-      const sysDescr = getSystemDescr(sys)
-      // console.log('sysDescr:', sysDescr)
+      // console.log('sys:', sys)
+      const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
       return (
         <MultilineCell>
-          <div>{sysDescr.system}</div>
-          <div>{sysDescr.region}</div>
+          <div>{sys.name} <span style={ssStyle}>{sys.ss}</span></div>
+          <div>{sys.region}</div>
         </MultilineCell>
       )
     },

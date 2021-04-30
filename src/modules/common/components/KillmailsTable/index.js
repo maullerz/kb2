@@ -8,9 +8,10 @@ import { Table, NoContent } from 'components'
 
 import { columns, mobileColumns } from './columns'
 
-const devKillmails = require('./killmails.json').slice(0, 50)
-
 const IS_DEV = false && process.env.NODE_ENV === 'development'
+
+// const devKillmails = require('./killmails.json').slice(0, 50)
+const devKillmails = null
 
 const reducerFunc = (prevState, newState) => ({
   ...prevState,

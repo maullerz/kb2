@@ -6,7 +6,7 @@ let groups = null // require('./sde/groupIDs.json')
 let cats = null // require('./sde/categoryIDs.json')
 let shipAttributes = null // require('./sde/typeDogmaParsedShips.json') // const attributes = req..('./sde/typeAttributesShips.json')
 let flags = null // require('./sde/flags.json')
-let uniSystems = null // require('./sde/uniSystemsShort.json')
+// let typesArr = null
 
 function loadData() {
   if (types) {
@@ -30,10 +30,10 @@ function loadData() {
     .then(module => { shipAttributes = module.default })
   const m5 = import('./sde/flags.json')
     .then(module => { flags = module.default })
-  const m6 = import('./sde/uniSystemsShort.json')
-    .then(module => { uniSystems = module.default })
+  // const m6 = import('./sde/rawTypesArray.json')
+  //   .then(module => { typesArr = module.default })
 
-  return Promise.all([m1, m2, m3, m4, m5, m6])
+  return Promise.all([m1, m2, m3, m4, m5])
 }
 
 export {
@@ -43,5 +43,4 @@ export {
   cats,
   shipAttributes,
   flags,
-  uniSystems,
 }
