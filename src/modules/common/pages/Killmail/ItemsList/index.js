@@ -6,7 +6,6 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'
 
-// import Collapsible from './Collapsible'
 import ListItem from './ListItem'
 import ItemFlagGroup from './ItemFlagGroup'
 import SortableColumn from './SortableColumn'

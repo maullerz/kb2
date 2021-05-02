@@ -1,7 +1,5 @@
 import styled from 'styled-components'
 
-import Icon from 'components/Icon'
-
 export const Root = styled.div`
   position: relative;
   display: flex;
@@ -36,14 +34,15 @@ export const Descr = styled.div`
   color: rgba(255, 255, 255, 0.6);
 `
 
-export const StyledIcon = styled(Icon)`
-  margin-bottom: 8px;
+// import Icon from 'components/Icon'
+// export const StyledIcon = styled(Icon)`
+//   margin-bottom: 8px;
 
-  ${p => !p.custom && `
-    transform: scale(1.95);
+//   ${p => !p.custom && `
+//     transform: scale(1.95);
 
-    svg > path {
-      fill: rgba(255, 255, 255, 0.4);
-    }
-  `};
-`
+//     svg > path {
+//       fill: rgba(255, 255, 255, 0.4);
+//     }
+//   `};
+// `

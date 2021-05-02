@@ -105,6 +105,11 @@ const config = {
     'react/jsx-no-target-blank': ['warn', { allowReferrer: true }],
 
     'react/destructuring-assignment': 'off',
+
+    'no-console': 'off',
+    'no-unreachable': 'warn',
+    'no-unused-vars': 'warn',
+    'no-undef': 'warn',
   },
 }
 

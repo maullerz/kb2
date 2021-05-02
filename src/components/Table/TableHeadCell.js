@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Icon from 'components/Icon'
+// import Icon from 'components/Icon'
 
 import { HeadCell } from './styles'
 
@@ -11,17 +11,17 @@ const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
     return null
   }
 
-  function getSortedIcon(fieldName) {
-    if (sortBy && sortBy.field === fieldName) {
-      if (sortBy.direction === 'Ascending') {
-        return 'arrowUp'
-      }
+  // function getSortedIcon(fieldName) {
+  //   if (sortBy && sortBy.field === fieldName) {
+  //     if (sortBy.direction === 'Ascending') {
+  //       return 'arrowUp'
+  //     }
 
-      return 'arrowDown'
-    }
+  //     return 'arrowDown'
+  //   }
 
-    return 'arrowDouble'
-  }
+  //   return 'arrowDouble'
+  // }
 
   function handleSort() {
     if (noSort || !onSortBy) {
@@ -57,9 +57,10 @@ const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
       highlighted={highlighted}
     >
       {title}
-      {!noSort &&
-        <Icon icon={getSortedIcon(key)} noWrapper />
-      }
+      {/*
+        TODO:
+        !noSort && <Icon icon={getSortedIcon(key)} noWrapper />
+      */}
     </HeadCell>
   )
 }

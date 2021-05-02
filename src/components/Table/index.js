@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import Spinner from 'components/Spinner'
 import TableHeadCell from './TableHeadCell'
-import TableFooter from './TableFooter'
+// import TableFooter from './TableFooter'
 
 import { TableRoot, Head, Body, Row, Cell } from './styles'
 
@@ -15,7 +15,7 @@ const Table = props => {
     columns, items, isLoading, sortBy, isSubtable,
     onRowClick, onSortBy, onNoContent,
     // onRenderControls,
-    pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
+    // pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
   } = props
 
   // What TO DO?
@@ -83,15 +83,15 @@ const Table = props => {
         <Body isSubtable={isSubtable}>
           {items.map((item, ix) => renderRow(item, item.id || ix))}
         </Body>
-        {false && // TODO: TableFooter
-          <TableFooter
-            pageSize={pageSize}
-            pagination={pagination}
-            onPrevPage={onPrevPage}
-            onNextPage={onNextPage}
-            onGoToPage={onGoToPage}
-          />
-        }
+
+        {/* TODO: TableFooter */}
+        {/* <TableFooter
+          pageSize={pageSize}
+          pagination={pagination}
+          onPrevPage={onPrevPage}
+          onNextPage={onNextPage}
+          onGoToPage={onGoToPage}
+        /> */}
       </>
     )
   }
