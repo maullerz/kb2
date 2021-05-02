@@ -6,8 +6,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node config/webpackDevServer.js",
-    "build1": "webpack --config ./config/webpack.prod.config.js",
-    "build": "`npm bin`/webpack --config ./config/webpack.prod.config.js --color --progress",
+    "build": "`npm bin`/webpack --config ./config/webpack.prod.config.js",
     "build:stats:old": "webpack --config config/webpack.prod.config.js --profile --json > stats.json",
     "build:stats": "webpack --config config/webpack.prod.config.js --stats=detailed --json > ./stats.json",
     "analyze": "npm run build:stats && npm run build && mv ./stats.json ./dist && npx webpack-bundle-analyzer ./dist/stats.json",
