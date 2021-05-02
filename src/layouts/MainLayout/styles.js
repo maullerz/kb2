@@ -11,8 +11,8 @@ export const Main = styled.main`
   // background-color: var(--mainLayoutWorkspaceBackground);
 
   @media (min-width: 728px) {
-    // background-image: url(/background.jpg);
-    background-image: url(/bg.jpg);
+    // background-image: url(/img/background.jpg);
+    background-image: url(/img/bg.jpg);
     background-size: cover;
     background-attachment: fixed;
   }

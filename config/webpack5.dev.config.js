@@ -18,26 +18,25 @@ const mode = 'development'
 module.exports = {
   mode,
 
+  target: 'web',
+
   // https://webpack.js.org/configuration/devtool/#development
   // devtool: 'eval-cheap-source-map', // fast, transformed code (lines only)
   devtool: 'inline-source-map', // slow, original source
 
+  // entry: path.resolve(clientDir, 'index.js'),
   entry: {
     main: path.resolve(clientDir, 'index.js'),
   },
-  // entry: {
-  //   main: [
-  //     'webpack-dev-server/client?http://0.0.0.0:4002', // WebpackDevServer host and port
-  //     'webpack/hot/dev-server',
-  //     './src/index.js',
-  //   ],
-  // },
 
   output: {
-    pathinfo: true,
     path: outputDir,
+    pathinfo: false,
     publicPath: '/',
-    filename: '[name].[hash].js',
+    filename: '[name].js',
+    // https://github.com/webpack/webpack/issues/11660
+    // chunkLoading: false,
+    wasmLoading: false,
   },
 
   resolve: {
@@ -50,8 +49,33 @@ module.exports = {
 
   module: getModuleRules(mode),
 
-  // context: rootDirectory,
+  context: rootDirectory,
 
+  // optimization: {
+  //   minimize: false,
+  //   emitOnErrors: true,
+  //   moduleIds: 'deterministic',
+  //   runtimeChunk: 'single',
+  //   splitChunks: {
+  //     cacheGroups: {
+  //       // uilib: {
+  //       //   test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
+  //       //   name: 'mui',
+  //       //   chunks: 'all',
+  //       // },
+  //       // vendor: {
+  //       //   test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+  //       //   name: 'react',
+  //       //   chunks: 'all',
+  //       // },
+  //       commons: {
+  //         test: /[\\/]node_modules[\\/]/,
+  //         name: 'vendors',
+  //         chunks: 'all',
+  //       },
+  //     },
+  //   },
+  // },
 
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
@@ -76,9 +100,9 @@ module.exports = {
   ],
 
   // https://webpack.js.org/configuration/stats/
-  // stats: {
-  //   all: false, // for faster build and rebuild times
-  // }
+  stats: {
+    all: false, // for faster build and rebuild times
+  }
   // stats: 'errors-only',
   // stats: {
   //   preset: 'verbose',

@@ -66,7 +66,7 @@ const columnsObject = {
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
       return (
         <MultilineCell>
-          <div>{sys.name} <span style={ssStyle}>{sys.ss}</span></div>
+          <div><span style={ssStyle}>{sys.ss}</span> {sys.name}</div>
           <div>{sys.region}</div>
         </MultilineCell>
       )
@@ -84,9 +84,13 @@ const columnsObject = {
   },
   victimName: {
     width: '28%', title: 'Victim',
-    render: ({ vict }) => {
+    render: km => {
+      const { vict } = km
       // const name = `${vict.char.name || ''} (${vict.ship.name})`
-      const name = `${vict.char.name || ''}`
+      if (!vict.char) {
+        // console.error('vict:', vict)
+      }
+      const name = `${vict.char?.name || ''}`
       return vict.ally ? (
         <MultilineCell>
           <EntityName>{name}</EntityName>

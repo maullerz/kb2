@@ -1,37 +1,28 @@
-/* eslint-disable */
-const fs = require('fs');
-const path = require('path');
-const webpack = require('webpack');
-const WebpackDevServer = require('webpack-dev-server');
-const openBrowser = require('react-dev-utils/openBrowser');
+/* eslint no-console: 'off' */
+/* eslint global-require: 'off' */
 
-const appDirectory = fs.realpathSync(process.cwd());
-const contentBase = path.resolve(appDirectory, 'public');
-
+process.env.BABEL_ENV = 'development'
 process.env.NODE_ENV = 'development'
-const PORT = process.env.PORT || 3000;
-const HOST = '0.0.0.0';
+process.env.HMR = true
 
-const LOCALHOST_BACKEND ='http://localhost:4000'
-const STAGING_BACKEND = 'https://api.evetools.org'
-const useStaging = false
+const fs = require('fs')
+const path = require('path')
+const chalk = require('chalk')
+const webpack = require('webpack')
+const WebpackDevServer = require('webpack-dev-server')
+const openBrowser = require('react-dev-utils/openBrowser')
+const config = require('./webpack.dev.config.js')
 
-// Proxy for develop
-const proxy = {
-  '/api': {
-    target: useStaging ? STAGING_BACKEND : LOCALHOST_BACKEND,
-    // pathRewrite: { '^/api': '' },
-    secure: false,
-    prependPath: false,
-  },
-};
-
-const developmentConfig = require('./webpack.dev.config.js');
+const defaultPort = 4001
+const PORT = parseInt(process.env.PORT, 10) || defaultPort
+const HOST = process.env.HOST || '0.0.0.0'
+const appDirectory = fs.realpathSync(process.cwd())
+const contentBase = path.resolve(appDirectory, 'public')
 
 // more options here: https://webpack.js.org/configuration/dev-server/
 const devServerConfig = {
   contentBase,
-  publicPath: developmentConfig.output.publicPath,
+  publicPath: config.output.publicPath,
   host: '0.0.0.0',
   hot: true,
   hotOnly: true,
@@ -40,18 +31,19 @@ const devServerConfig = {
   quiet: false,
   noInfo: false,
   lazy: false,
-  // overlay: {
-  //   warnings: true,
-  //   errors: true,
-  // },
-
-  proxy,
+  overlay: {
+    warnings: false,
+    errors: true,
+  },
+  proxy: {
+    '/api': {
+      target: 'http://localhost:4000',
+      secure: false,
+      prependPath: false,
+    },
+  },
   compress: true,
   disableHostCheck: true,
-  headers: {
-    'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Headers': '*',
-  },
   // more info here: https://webpack.js.org/configuration/stats/
   stats: {
     assets: true,
@@ -69,46 +61,34 @@ const devServerConfig = {
   // if you are not happy with all that verbose info in your console,
   // just uncomment next line:
   // stats: 'minimal',
-};
-
-let compiler;
-
-try {
-  compiler = webpack(developmentConfig);
-} catch (err) {
-  console.log('Failed to compile.');
-  console.log();
-  console.log(err.message || err);
-  console.log();
-  console.log('compiler:', compiler)
-  process.exit(1);
 }
 
-const devServer = new WebpackDevServer(compiler, devServerConfig);
+let compiler
+try {
+  compiler = webpack(config)
+} catch (err) {
+  console.log(chalk.red('Failed to compile.'))
+  console.log()
+  console.log(err.message || err)
+  console.log()
+  process.exit(1)
+}
 
-devServer.listen(PORT, HOST, (err) => {
+const devServer = new WebpackDevServer(compiler, devServerConfig)
+
+devServer.listen(PORT, HOST, err => {
   if (err) {
-    console.error(err);
-
-    return;
+    console.error(err)
+    return
   }
-  console.log();
-  console.log(`Starting webpack-dev-server on http://${HOST}:${PORT}`);
-  console.log('API proxy:');
-  devServerConfig.proxy.forEach((devProxy) => {
-    console.log(`  ${devProxy.context} => ${devProxy.target}`);
-  });
-  console.log();
-  console.log();
+  console.log(`Starting webpack-dev-server on http://localhost:${PORT}`)
+  openBrowser(`http://localhost:${PORT}`)
+})
 
-  openBrowser(`http://localhost:${PORT}`);
-});
-
-const quitSignals = ['SIGINT', 'SIGTERM'];
-
-quitSignals.forEach((sig) => {
+const quitSignals = ['SIGINT', 'SIGTERM']
+quitSignals.forEach(sig => {
   process.on(sig, () => {
-    devServer.close();
-    process.exit();
-  });
-});
+    devServer.close()
+    process.exit()
+  })
+})

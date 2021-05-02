@@ -1,4 +1,5 @@
 /* eslint import/no-mutable-exports: off */
+/* eslint global-require: off */
 
 // TODO: move that to API ?
 let types = null // require('./sde/rawTypesShort.json')
@@ -17,13 +18,24 @@ function castTypesArrayToObj(typesArray) {
   return result
 }
 
+// function loadDataAsync() {
+//   types = castTypesArrayToObj(require('./sde/rawTypesArray.json'))
+//   groups = require('./sde/groupsShort.json')
+//   cats = require('./sde/categoryIDs.json')
+//   shipAttributes = require('./sde/typeDogmaParsedShips.json')
+//   flags = require('./sde/flags.json')
+//   return Promise.resolve()
+// }
+
 function loadData() {
   if (types) {
     if (process.env.NODE_ENV === 'development') {
       console.warn('already loaded!')
     }
     return Promise.resolve()
-  } if (process.env.NODE_ENV === 'development') {
+  }
+
+  if (process.env.NODE_ENV === 'development') {
     console.log('============================================')
     console.log('============== LOADING JSONS ===============')
     console.log('============================================')

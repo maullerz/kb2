@@ -18,12 +18,6 @@ const aliases = require(path.resolve(rootDirectory, 'config/aliases'))
 
 const { getModuleRules } = require('./webpack.rules')
 
-// Webpack 4 requires
-// copy-webpack-plugin@6
-// html-webpack-plugin@3
-// terser-webpack-plugin@4
-
-
 // for Sentry.io and similar tools set to true
 const BUILD_SOURCE_MAP = false
 const mode = 'production'
@@ -31,9 +25,25 @@ const mode = 'production'
 module.exports = {
   mode,
 
+  target: 'web',
+
   // entry: path.resolve(clientDir, 'index.js'),
   entry: {
     main: path.resolve(clientDir, 'index.js'),
+  },
+
+  output: {
+    path: outputDir,
+    publicPath: '/',
+    // Unfortunately Webpack have issues with contenthash currently
+    // It changes on repeated builds even if content not changed
+    // https://github.com/webpack/webpack/issues/9520
+    // anyway it is still very useful for long term caching
+    filename: '[name].[contenthash].js',
+    chunkFilename: '[name].[contenthash].js',
+    // https://github.com/webpack/webpack/issues/11660
+    chunkLoading: false,
+    wasmLoading: false,
   },
 
   context: clientDir,
@@ -48,47 +58,59 @@ module.exports = {
     extensions: ['.js', '.jsx', '.scss'],
   },
 
-  output: {
-    pathinfo: true,
-    publicPath: '/',
-    path: outputDir,
-    filename: '[name].[chunkhash].js',
-  },
-
-  performance: {
-    hints: false,
-  },
-
   module: getModuleRules(mode),
 
   optimization: {
-    runtimeChunk: {
-      name: 'manifest',
-    },
+    minimize: false,
+    emitOnErrors: true,
+    moduleIds: 'deterministic',
+    chunkIds: 'deterministic',
+    // runtimeChunk: 'single',
+
     splitChunks: {
-      automaticNameDelimiter: '-',
+      // include all types of chunks
       chunks: 'all',
+      // chunks: 'async',
       cacheGroups: {
-        uilib: {
-          test: /[\\/]node_modules[\\/](@material-ui|date-fns|@date-io)[\\/]/,
-          name: 'mui',
-          chunks: 'all',
-        },
-        // react: {
-        //   test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-        //   name: 'react',
-        //   chunks: 'all',
-        // },
-        vendors: {
-          test: /[\\/]node_modules[\\/]/,
-          name: 'vendors',
+        defaultVendors: {
+          // test: /[\\/]node_modules[\\/]/,
+          // reuseExistingChunk: true,
           priority: -10,
+          test: /[\\/]node_modules[\\/]/,
+          // name: 'vendors',
+        },
+        default: {
+          minChunks: 2,
+          priority: -20,
           reuseExistingChunk: true,
-          chunks: 'all',
         },
       },
     },
 
+    // TODO: Splitting Chunks
+    // currently doesnt work on Webpack 5
+    // splitChunks: { chunks: 'all' },
+
+    // runtimeChunk: 'single',
+    // splitChunks: {
+    //   cacheGroups: {
+    //     uilib: {
+    //       test: /[\\/]node_modules[\\/](@material-ui|date-fns|@date-io)[\\/]/,
+    //       name: 'mui',
+    //       chunks: 'all',
+    //     },
+    //     vendor: {
+    //       test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+    //       name: 'react',
+    //       chunks: 'all',
+    //     },
+    //     commons: {
+    //       test: /[\\/]node_modules[\\/]/,
+    //       name: 'vendors',
+    //       chunks: 'all',
+    //     },
+    //   },
+    // },
     minimizer: [
       new TerserPlugin({
         extractComments: false,
@@ -147,7 +169,7 @@ module.exports = {
     }),
     new WebpackManifestPlugin({
       fileName: 'assets.json',
-      // filter: fileDescr => fileDescr.isChunk,
+      filter: fileDescr => fileDescr.isChunk,
     }),
     new webpack.NormalModuleReplacementPlugin(
       /popper.js/,
@@ -157,7 +179,6 @@ module.exports = {
       template: path.resolve(publicDir, 'index-template.html'),
       filename: 'index.html',
       minify: false,
-      inject: true,
     }),
     new MiniCssExtractPlugin({
       filename: '[name].[contenthash].css',
@@ -174,21 +195,36 @@ module.exports = {
     }),
   ],
 
-  // https://webpack.js.org/configuration/stats/#stats
+  // https://webpack.js.org/configuration/stats/#stats-presets
+  // stats: 'detailed',
+  // stats: 'verbose',
+  // stats: 'normal',
+  // stats: 'minimal',
+
   stats: {
-    assets: true,
-    children: false,
-    chunks: true,
-    chunkModules: false,
+    preset: 'verbose',
+    assets: false, // true to show images, icons, etc.
+    assetsSpace: 50,
+    assetsSort: '!size',
     colors: true,
-    entrypoints: false,
-    env: true,
-    errors: true,
-    errorDetails: true,
-    publicPath: true,
-    performance: false,
+    children: false,
+
+    chunkModules: false,
+    chunkOrigins: false,
+    chunksSort: '!size',
+
+    entrypoints: true,
+    logging: false,
     modules: false,
+    relatedAssets: true,
     timings: true,
-    warnings: true,
+
+    groupAssetsByInfo: false,
+    groupAssetsByChunk: false,
+    groupAssetsByEmitStatus: false,
+  },
+
+  performance: {
+    hints: false,
   },
 }

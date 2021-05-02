@@ -110,7 +110,7 @@ const ItemsList = ({ kmData }) => {
 
   function renderOrdered() {
     // const orderedItems = getSortedList(sortBy, items.rawList)
-    console.log('orderedItems:', orderedItems.slice(0, 5))
+    // console.log('orderedItems:', orderedItems.slice(0, 5))
     return orderedItems.map(item => {
       const { type, count, sum, singleton, isDestroyed } = item
       // const { type, dropped, destroyed, sumDestroyed, sumDropped, singleton } = item
