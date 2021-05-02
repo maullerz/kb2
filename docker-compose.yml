@@ -5,8 +5,8 @@ services:
     container_name: evekb-kb2
     build:
       context: .
-      # dockerfile: ./config/Dockerfile
-      dockerfile: ./config/Dockerfile.nginx
+      dockerfile: ./config/Dockerfile
+      # dockerfile: ./config/Dockerfile.nginx
     networks:
       - evekb
     ports:
