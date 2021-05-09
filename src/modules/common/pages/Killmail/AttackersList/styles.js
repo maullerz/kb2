@@ -127,3 +127,29 @@ export const DmgPerc = styled.div`
   font-size: 12px;
   color: grey;
 `
+
+export const Expander = styled.div`
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  width: 100%;
+  height: 48px;
+  padding-left: 10px;
+  background-color: #333;
+
+  color: #888;
+  text-align: left;
+  font-size: 14px;
+  user-select: none;
+
+  > span {
+    margin-right: 6px;
+  }
+
+  &:hover {
+    background-color: #555;
+  }
+  &:active, &:focus {
+    background-color: #777;
+  }
+`

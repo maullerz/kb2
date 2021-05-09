@@ -1,7 +1,9 @@
 import React from 'react'
 import numeral from 'numeral'
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 
 import { getTypeName, getGroupName } from 'utils/SdeUtils'
+import useBooleanToggle from 'utils/hooks/useBooleanToggle'
 import CharIcon from 'components/icons/CharIcon'
 import ItemIcon from 'components/icons/ItemIcon'
 import OrgIcon from 'components/icons/OrgIcon'
@@ -17,6 +19,7 @@ import {
   DmgCol,
   DmgDigits,
   DmgPerc,
+  Expander,
 } from './styles'
 
 const MAX_ITEMS = 10
@@ -84,6 +87,28 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
 
 const AttackersList = ({ data }) => {
   const { atts: attackers, vict: { dmg }, names } = data
+  const remainingCount = attackers.length - MAX_ITEMS
+  const [expanded, toggleExpanded] = useBooleanToggle(false)
+
+  function renderRemaining() {
+    if (!expanded) {
+      return (
+        <Expander onClick={toggleExpanded}>
+          <span>Expand extra {remainingCount} participants</span>
+          <ExpandMoreIcon />
+        </Expander>
+      )
+    }
+
+    return attackers.slice(MAX_ITEMS).map(att => (
+      <Attacker
+        key={att.char || `${att.char}-${att.corp}-${att.ship}`}
+        att={att}
+        names={names}
+        totalDmg={dmg}
+      />
+    ))
+  }
 
   return (
     <Root>
@@ -96,9 +121,8 @@ const AttackersList = ({ data }) => {
           totalDmg={dmg}
         />
       ))}
-      {attackers.length > MAX_ITEMS &&
-        <div>and {attackers.length - MAX_ITEMS} more involved...</div>
-      }
+
+      {remainingCount > 0 && renderRemaining()}
     </Root>
   )
 }
