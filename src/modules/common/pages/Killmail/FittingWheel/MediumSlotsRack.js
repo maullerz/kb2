@@ -23,7 +23,7 @@ const Slot = ({ svg, type, typeCoord, ammo, ammoCoord }) => (
   </g>
 )
 
-const typeCoords = [
+const TYPE_COORDS = [
   [122.697, 292.082],
   [90.793, 279.868],
   [61.63, 261.507],
@@ -33,7 +33,7 @@ const typeCoords = [
   [10.949, 138.359],
   [17.345, 104.546],
 ]
-const ammoCoords = [
+const AMMO_COORDS = [
   [131.302, 265.479],
   [105.296, 256.007],
   [83.445, 241.135],
@@ -96,31 +96,27 @@ const SLOTS_SVG = [
   ),
 ]
 
-// const Slot = ({ svg, type, typeCoord, ammo, ammoCoord }) => (
-//   <g className={cx(!type && styles.emptySlot)}>
-//     <g className='module'>
-//       {svg}
-//       {type && renderImg(type, typeCoord)}
-//     </g>
-//     {ammo && renderAmmoImg(ammo, ammoCoord)}
-//   </g>
-// )
-
 const MediumSlotsRack = ({ items, slotsCount }) => {
   if (isEmpty(items)) return null
 
   const slots = Object.keys(items).slice(0, slotsCount)
+  // that needed to render from top to bottom (but list is constructing from bottom to top)
+  // because otherwise slots overlap images
+  const svgs = SLOTS_SVG.slice(0, slotsCount)
+  const typeCoords = TYPE_COORDS.slice(0, slotsCount)
+  const ammoCoords = AMMO_COORDS.slice(0, slotsCount)
 
   return slots.map((slotFlag, ix) => {
     const { ammo, item } = items[slotFlag]
+    const index = slotsCount - ix - 1
     return (
       <Slot
         key={`med-${slotFlag}`}
-        svg={SLOTS_SVG[ix]}
+        svg={svgs[index]}
         type={item && item.type}
-        typeCoord={typeCoords[ix]}
+        typeCoord={typeCoords[index]}
         ammo={ammo && ammo.type}
-        ammoCoord={ammoCoords[ix]}
+        ammoCoord={ammoCoords[index]}
       />
     )
   })
