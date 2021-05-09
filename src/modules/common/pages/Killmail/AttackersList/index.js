@@ -77,8 +77,11 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
         </DmgDigits>
 
         <CorpAllyIcons>
-          {att.ally ? <OrgIcon ally={att.ally} /> : null}
-          <OrgIcon corp={att.corp} />
+          {att.ally
+            ? <OrgIcon ally={att.ally} names={names} />
+            : null
+          }
+          <OrgIcon corp={att.corp} names={names} />
         </CorpAllyIcons>
       </DmgCol>
     </ListItem>

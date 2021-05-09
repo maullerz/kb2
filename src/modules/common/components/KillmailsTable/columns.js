@@ -79,6 +79,7 @@ const columnsObject = {
         ally={vict.ally && vict.ally.id}
         corp={vict.corp.id}
         names={null}
+        nameObj={vict.ally || vict.corp}
       />
     ),
   },
@@ -122,6 +123,7 @@ const columnsObject = {
           ally={finalBlow.ally && finalBlow.ally.id}
           corp={finalBlow.corp.id}
           names={null}
+          nameObj={finalBlow.ally || finalBlow.corp}
         />
       )
     },

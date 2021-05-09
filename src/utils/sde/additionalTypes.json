@@ -8,19 +8,21 @@
   "57833": {
     "graphicID": 2511,
     "groupID": 1665,
-    "mass": 13150000,
     "name": "EoM Zealous Sword"
   },
   "57835": {
     "graphicID": 3133,
     "groupID": 1666,
-    "mass": 15500000,
     "name": "EoM Devout Fanatic"
   },
   "57830": {
     "graphicID": 2387,
     "groupID": 1664,
-    "mass": 1650000,
     "name": "EoM Black Dagger"
+  },
+  "2894": {
+    "graphicID": 10026,
+    "groupID": 227,
+    "name": "Invisible Cloud"
   }
 }

@@ -18,6 +18,7 @@ const NO_TYPE_ICONS = [
 const NPC_CORPS = [
   1000274, // Vigilant Tyrannos
   1000298, // The Convocation of Triglav
+  1000288, // Navka Overminds
 ]
 
 const NPC_ALLYS = [

@@ -9,6 +9,7 @@ import { Root, Head, CharName, HeadIcons, CorpAllyGroup, Label, Row } from './st
 
 const redColor = { color: 'red' }
 const whiteColor = { color: 'white' }
+const greyColor = { color: 'grey' }
 const greenColor = { color: 'var(--colorGreen)' }
 const noWrap = { whiteSpace: 'nowrap' }
 
@@ -25,9 +26,9 @@ const Summary = ({ kmData }) => {
       <Head>
         <CharIcon id={vict.char} />
         <HeadIcons>
-          <OrgIcon corp={vict.corp} />
+          <OrgIcon corp={vict.corp} names={names} />
           {!!vict.ally &&
-            <OrgIcon ally={vict.ally} />
+            <OrgIcon ally={vict.ally} names={names} />
           }
         </HeadIcons>
 
@@ -35,7 +36,9 @@ const Summary = ({ kmData }) => {
           <CharName>
             {names.chars[vict.char]}
           </CharName>
-          <div>{names.corps[vict.corp]}</div>
+          <div style={greyColor}>
+            {names.corps[vict.corp]}
+          </div>
           {names.allys[vict.ally]
             ? <div>{names.allys[vict.ally]}</div>
             : <div>&nbsp;</div>
