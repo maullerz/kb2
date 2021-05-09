@@ -68,8 +68,9 @@ export const Names = styled.div`
   flex: 1 0;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  // justify-content: space-between;
   margin: 0 10px;
+  padding: 5px 0;
   font-size: 12px;
 
   @media (max-width: 767px) {
@@ -78,6 +79,10 @@ export const Names = styled.div`
 
   > div {
     color: grey;
+  }
+
+  > div:nth-child(2) {
+    margin: 10px 0;
   }
 
   > div:first-child {

@@ -50,9 +50,11 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
         <div>
           {att.char ? names.chars[att.char] : names.types[att.ship]}
         </div>
-        <ShipName>
-          {shipName}
-        </ShipName>
+        {false &&
+          <ShipName>
+            {shipName}
+          </ShipName>
+        }
         {names.corps[att.corp]
           ? <div>{names.corps[att.corp]}</div>
           : <div>&nbsp;</div>

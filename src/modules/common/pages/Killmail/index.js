@@ -106,6 +106,7 @@ const KillmailPage = () => {
         </Body>
 
         <ReactTooltip
+          multiline
           effect='solid'
           backgroundColor='#000f'
           border

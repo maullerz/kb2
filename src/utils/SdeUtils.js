@@ -8,7 +8,7 @@ import {
 
 // TODO: fetch from esi.evetech.net
 // Problems when type not found
-const additionalTypes = {} // require('./sde/additionalTypes.json')
+const additionalTypes = require('./sde/additionalTypes.json')
 const skinsTypes = require('./sde/skinsTypesIds.json')
 
 const SKIN_GROUP = 1950
