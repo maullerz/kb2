@@ -1,24 +1,26 @@
 {
   "47465": {
-    "typeID": 47465,
     "graphicID": 22085,
     "groupID": 1971,
     "iconID": 22020,
-    "name": "Unstable Abyssal Depths",
-    "portionSize": 1,
-    "published": false
+    "name": "Unstable Abyssal Depths"
   },
   "57833": {
-    "capacity": 1900,
-    "description": "This is a combat cruiser of the fanatical Equilibrium of Mankind organization, a radical and heretical Amarr sect dedicated to an apocalyptic religious ideology. Members of the EoM can be found across New Eden, attempting to accomplish their supposedly \"divine mission\" of annihilating the human race within the cluster and leaving it for God alone.",
     "graphicID": 2511,
     "groupID": 1665,
     "mass": 13150000,
-    "name": "EoM Zealous Sword",
-    "portionSize": 1,
-    "published": false,
-    "radius": 110,
-    "typeID": 57833,
-    "volume": 0
+    "name": "EoM Zealous Sword"
+  },
+  "57835": {
+    "graphicID": 3133,
+    "groupID": 1666,
+    "mass": 15500000,
+    "name": "EoM Devout Fanatic"
+  },
+  "57830": {
+    "graphicID": 2387,
+    "groupID": 1664,
+    "mass": 1650000,
+    "name": "EoM Black Dagger"
   }
 }

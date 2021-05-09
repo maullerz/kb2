@@ -4,7 +4,7 @@ export const HeaderPanel = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  // align-items: center;
   justify-content: space-between;
   margin-bottom: 16px;
 `

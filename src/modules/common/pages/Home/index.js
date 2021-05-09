@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react'
 import { useHistory } from 'react-router-dom'
 
+import { Href } from 'components'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 
@@ -18,6 +19,12 @@ const Home = () => {
       <Fragment key='title'>
         <HeaderPanel>
           <Title>Alpha version - Under Development...</Title>
+          <Title>
+            discuss in&nbsp;
+            <Href link='https://discord.gg/HyPnAU7'>
+              Discord
+            </Href>
+          </Title>
         </HeaderPanel>
       </Fragment>
       <Fragment key='content'>
