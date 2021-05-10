@@ -19,4 +19,9 @@ export const Title = styled.div`
   color: #FFFFFF;
   white-space: nowrap;
   text-transform: none;
+
+  @media (max-width: 767px) {
+    padding: 0 10px;
+    font-size: 14px;
+  }
 `

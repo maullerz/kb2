@@ -20,9 +20,19 @@
     "groupID": 1664,
     "name": "EoM Black Dagger"
   },
+  "58764": {
+    "graphicID": 2508,
+    "groupID": 1667,
+    "name": "EoM Purifying Lord"
+  },
   "2894": {
     "graphicID": 10026,
     "groupID": 227,
     "name": "Invisible Cloud"
+  },
+  "47438": {
+    "graphicID": 22035,
+    "groupID": 1981,
+    "name": "Medium-Range Deviant Automata Suppressor"
   }
 }

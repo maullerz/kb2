@@ -164,7 +164,7 @@ export const columns = [
 
 export const mobileColumns = [
   getColumn('shipIcon', '40px'),
-  getColumn('system'),
+  getColumn('system', '140px'),
   // getColumn('victimAllyIcon'),
   getColumn('victimName', '50%'),
   getColumn('attAllyIcon', '40px'),
