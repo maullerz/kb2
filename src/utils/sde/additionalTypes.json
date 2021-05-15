@@ -34,5 +34,11 @@
     "graphicID": 22035,
     "groupID": 1981,
     "name": "Medium-Range Deviant Automata Suppressor"
+  },
+  "57836": {
+    "graphicID": 2508,
+    "groupID": 1667,
+    "mass": 97100000,
+    "name": "EoM Atoning Warrior"
   }
 }

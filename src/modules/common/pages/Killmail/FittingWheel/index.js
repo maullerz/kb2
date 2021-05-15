@@ -53,15 +53,9 @@ function FittingWheel({ kmData }) {
         </svg>
       </Root>
       <ZkbLinkCont>
-        {isDev ? (
-          <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
-            zkillboard
-          </Href>
-        ) : (
-          <a href={`https://zkillboard.com/kill/${kmData._id}/`} rel='noopener'>
-            zkillboard
-          </a>
-        )}
+        <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
+          zkillboard
+        </Href>
       </ZkbLinkCont>
     </>
   )

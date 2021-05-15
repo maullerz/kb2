@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
 import * as DateUtils from 'utils/DateUtils'
@@ -93,10 +93,10 @@ const Table = props => {
         <Body>
           {days.map(({ dayString, kms }) => {
             return (
-              <>
+              <Fragment key={dayString}>
                 <DayRow>{dayString}</DayRow>
                 {kms.map((km, ix) => renderRow(km, km.id || ix))}
-              </>
+              </Fragment>
             )
           })}
         </Body>
