@@ -1,10 +1,9 @@
 import React, { Fragment } from 'react'
-import numeral from 'numeral'
+
+import * as FormatUtils from 'utils/FormatUtils'
 
 import ListItem from '../ListItem'
 import { ItemGroup, ItemGroupTitle, GroupTotal } from './styles'
-
-const formatRaw = sum => numeral(sum).format('0,0')
 
 const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
   // const { items, totalSum, ...rest } = group
@@ -17,7 +16,11 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
       <ItemGroupTitle>
         <h4>{group.name}</h4>
 
-        {collapsed && <div>Total: {formatRaw(group.totalSum)}</div>}
+        {collapsed &&
+          <div>
+            Total: {FormatUtils.formatConditionally(group.totalSum, isMobile)}
+          </div>
+        }
       </ItemGroupTitle>
 
       {!collapsed && group.items.map((item, ix) => {
@@ -72,7 +75,7 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
       })}
 
       {!collapsed &&
-        <GroupTotal>Total: {formatRaw(group.totalSum)}</GroupTotal>
+        <GroupTotal>Total: {FormatUtils.formatRaw(group.totalSum)}</GroupTotal>
       }
     </ItemGroup>
   )

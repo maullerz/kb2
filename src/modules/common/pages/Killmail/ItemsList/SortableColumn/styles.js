@@ -6,10 +6,10 @@ export const Column = styled.div`
   width: 100%;
 `
 
-export const NoIcon = styled.div`
-  width: 21px;
-  height: 21px;
-`
+// export const NoIcon = styled.div`
+//   width: 21px;
+//   height: 21px;
+// `
 
 export const Title = styled.span`
   text-overflow: ellipsis;

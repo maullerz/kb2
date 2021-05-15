@@ -9,8 +9,8 @@ import * as FormatUtils from 'utils/FormatUtils'
 import ListItem from './ListItem'
 import ItemFlagGroup from './ItemFlagGroup'
 import SortableColumn from './SortableColumn'
-import { Digits, Count, Sum } from './ListItem/styles'
-import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow } from './styles'
+import { Digits } from './ListItem/styles'
+import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow, CountHead, SumHead } from './styles'
 
 // CHECK: http://localhost:3000/kill/87028891/
 
@@ -141,42 +141,47 @@ const ItemsList = ({ kmData }) => {
         {collapsed ? <ExpandMoreIcon /> : <ExpandLessIcon />}
       </Header>
 
-      <SortHeader>
-        <SortableColumn
-          field='type'
-          title='Item Type'
-          onClick={handleSortBy}
-          sortBy={sortBy}
-        />
-        <Digits>
+      {!collapsed &&
+        <SortHeader>
           <SortableColumn
-            as={Count}
-            field='count'
-            title='Quantity'
+            field='type'
+            title='Item Type'
             onClick={handleSortBy}
             sortBy={sortBy}
           />
-          <SortableColumn
-            as={Sum}
-            field='sum'
-            title='Price (ISK)'
-            onClick={handleSortBy}
-            sortBy={sortBy}
-          />
-        </Digits>
-      </SortHeader>
+          <Digits>
+            <SortableColumn
+              as={CountHead}
+              field='count'
+              title='Quantity'
+              onClick={handleSortBy}
+              sortBy={sortBy}
+            />
+            <SortableColumn
+              as={SumHead}
+              field='sum'
+              title='Price (ISK)'
+              onClick={handleSortBy}
+              sortBy={sortBy}
+            />
+          </Digits>
+        </SortHeader>
+      }
 
       {(sortBy && !collapsed)
         ? renderOrdered()
         : renderGrouped()
       }
 
-      <ItemGroup>
-        <ItemGroupTitle>
-          <h4>Ship</h4>
-        </ItemGroupTitle>
-        <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
-      </ItemGroup>
+      {!collapsed &&
+        <ItemGroup>
+          <ItemGroupTitle>
+            <h4>Ship</h4>
+          </ItemGroupTitle>
+          <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
+        </ItemGroup>
+      }
+
       {/*
         TODO: <h4>Fitted</h4>
         TODO: <h4>Cargo</h4>
@@ -184,19 +189,19 @@ const ItemsList = ({ kmData }) => {
 
       <TotalRow>
         <h4>Destroyed:</h4>
-        <Sum style={colorRed}>
+        <SumHead style={colorRed}>
           {FormatUtils.formatRaw(items.destroyed + items.ship)}
-        </Sum>
+        </SumHead>
       </TotalRow>
       <TotalRow>
         <h4>Dropped:</h4>
-        <Sum style={colorGreen}>
+        <SumHead style={colorGreen}>
           {FormatUtils.formatRaw(items.dropped)}
-        </Sum>
+        </SumHead>
       </TotalRow>
       <TotalRow>
         <h4>Total:</h4>
-        <Sum>{FormatUtils.formatRaw(items.total)}</Sum>
+        <SumHead>{FormatUtils.formatRaw(items.total)}</SumHead>
       </TotalRow>
 
       <div />

@@ -51,20 +51,10 @@ export const formatSum = sum => {
 
 export const formatSumExt = sum => {
   return formatSum(sum)
+}
 
-  // wtf was that? delete?
-  // if (sum === 0 || !sum) {
-  //   return '0'
-  // }
-  // if (sum < oneMillion) {
-  //   return numeral(sum).format('0a')
-  // }
-  // const mod = sum % oneBillion
-  // const bills = Math.trunc(sum / oneBillion)
-  // const billsStr = bills ? `${bills},` : ''
-  // const modStr = bills ? numeral(mod).format('0a') : numeral(mod).format('0.0a')
-  // const result = `${billsStr}${modStr}` // '0.0a'
-  // return result
+export const formatConditionally = (sum, isMobile) => {
+  return isMobile ? formatSum(sum) : formatRaw(sum)
 }
 
 export const formatDmg = dmg => {

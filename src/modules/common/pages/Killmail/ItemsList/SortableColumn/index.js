@@ -2,11 +2,12 @@ import React from 'react'
 import ArrowDropUpIcon from '@material-ui/icons/ArrowDropUp'
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown'
 
-import { Column, Title, NoIcon } from './styles'
+import { Column, Title } from './styles'
 
 function SortableColumn({ as, field, title, sortBy, onClick }) {
   const RootComponent = as || Column
   const isTypeField = field === 'type'
+  const isCountField = field === 'count'
 
   function handleClick() {
     if (onClick) {
@@ -16,7 +17,7 @@ function SortableColumn({ as, field, title, sortBy, onClick }) {
 
   function renderIcon() {
     if (!sortBy || field !== sortBy.field) {
-      return <NoIcon />
+      return null // <NoIcon />
     }
     if (sortBy.order === 'ASC') {
       return isTypeField ? <ArrowDropDownIcon /> : <ArrowDropUpIcon />
@@ -26,11 +27,11 @@ function SortableColumn({ as, field, title, sortBy, onClick }) {
 
   return (
     <RootComponent onClick={handleClick}>
-      {!isTypeField && renderIcon()}
+      {isCountField && renderIcon()}
       <Title>
         {title}
       </Title>
-      {isTypeField && renderIcon()}
+      {!isCountField && renderIcon()}
     </RootComponent>
   )
 }

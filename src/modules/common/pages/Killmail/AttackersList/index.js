@@ -9,22 +9,12 @@ import ItemIcon from 'components/icons/ItemIcon'
 import OrgIcon from 'components/icons/OrgIcon'
 
 import {
-  Root,
-  ListItem,
-  Char,
-  IconsGroup,
-  Names,
-  ShipName,
-  CorpAllyIcons,
-  DmgCol,
-  DmgDigits,
-  DmgPerc,
-  Expander,
+  Root, ListItem, Char, IconsGroup,
+  Names, ShipName, AllyName, CorpAllyIcons,
+  DmgCol, DmgDigits, DmgPerc, Expander,
 } from './styles'
 
 const MAX_ITEMS = 10
-
-const greyColor = { color: '#ccc' }
 
 const Attacker = ({ att, names, totalDmg, isNPC }) => {
   // TODO: do not show group for NPC
@@ -63,7 +53,7 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
           : <div>&nbsp;</div>
         }
         {names.allys[att.ally]
-          ? <div style={greyColor}>{names.allys[att.ally]}</div>
+          ? <AllyName>{names.allys[att.ally]}</AllyName>
           : null
         }
       </Names>
@@ -97,7 +87,7 @@ const AttackersList = ({ data }) => {
     if (!expanded) {
       return (
         <Expander onClick={toggleExpanded}>
-          <span>Expand extra {remainingCount} participants</span>
+          <span>Show other {remainingCount} participants</span>
           <ExpandMoreIcon />
         </Expander>
       )

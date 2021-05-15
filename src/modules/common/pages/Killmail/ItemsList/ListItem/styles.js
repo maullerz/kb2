@@ -68,6 +68,10 @@ export const Count = styled.div`
   align-items: center;
   justify-content: flex-end;
   min-width: 80px;
+
+  @media (max-width: 767px) {
+    min-width: 40px;
+  }
 `
 
 export const Sum = styled.div`
@@ -77,10 +81,6 @@ export const Sum = styled.div`
   min-width: 150px;
 
   @media (max-width: 767px) {
-    min-width: 70px;
+    min-width: 60px;
   }
 `
-
-// .billions, .trillions {
-//   font-weight: 900;
-// }

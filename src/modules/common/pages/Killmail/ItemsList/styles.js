@@ -8,7 +8,9 @@ export const Root = styled.div`
   margin: auto;
   padding: 20px;
 
-  @media (max-width: 767px) { padding: 10px 0; }
+  @media (max-width: 767px) {
+    padding: 10px;
+  }
 `
 export const Header = styled.h4`
   cursor: pointer;
@@ -17,7 +19,6 @@ export const Header = styled.h4`
   height: 40px;
   margin-bottom: 10px;
   padding: 0 10px;
-  // background: #222;
 
   &:hover {
     background-color: #222a;
@@ -81,5 +82,23 @@ export const TotalRow = styled.div`
 
   h4 {
     margin: 5px 0;
+  }
+`
+
+export const CountHead = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 80px;
+`
+
+export const SumHead = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 150px;
+
+  @media (max-width: 767px) {
+    min-width: 60px;
   }
 `

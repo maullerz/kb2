@@ -59,8 +59,14 @@ const columnsObject = {
       <ItemIcon id={km.vict.ship.id} tooltip />
     ),
   },
+  shipIconMini: {
+    width: '50px', title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
+    render: km => (
+      <ItemIcon id={km.vict.ship.id} tooltip mini />
+    ),
+  },
   system: {
-    width: '150px', title: 'System',
+    width: '150px', title: 'System', padLeft: 5,
     render: ({ sys }) => {
       // console.log('sys:', sys)
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
@@ -85,8 +91,21 @@ const columnsObject = {
       />
     ),
   },
+  victimAllyIconMini: {
+    width: '50px', title: '',
+    render: ({ vict }) => (
+      <OrgIcon
+        mini
+        ally={vict.ally && vict.ally.id}
+        corp={vict.corp.id}
+        names={null}
+        nameObj={vict.ally || vict.corp}
+      />
+    ),
+  },
+
   victimName: {
-    width: '28%', title: 'Victim',
+    width: '28%', title: 'Victim', padLeft: 5,
     render: km => {
       const { vict } = km
       // const name = `${vict.char.name || ''} (${vict.ship.name})`
@@ -96,8 +115,8 @@ const columnsObject = {
       const name = `${vict.char?.name || ''}`
       return vict.ally ? (
         <MultilineCell>
-          <EntityName>{name}</EntityName>
-          <EntityName>{vict.ally.name}</EntityName>
+          <EntityName>{name}</EntityName> {/* slice is for such things - Federation of Respect Honor Passion Alliance. */}
+          <EntityName>{vict.ally.name.slice(0, 40)}</EntityName>
         </MultilineCell>
       ) : (
         <MultilineCell>
@@ -166,12 +185,12 @@ export const columns = [
 ]
 
 export const mobileColumns = [
-  getColumn('shipIcon', '40px'),
-  getColumn('system', '140px'),
-  // getColumn('victimAllyIcon'),
+  getColumn('shipIconMini', '40px'),
+  getColumn('system', '40%'), // '110px'),
+  getColumn('victimAllyIconMini', '40px'),
   getColumn('victimName', '50%'),
-  getColumn('attAllyIcon', '40px'),
+  // getColumn('attAllyIcon', '40px'),
   // getColumn('attShipIcon', '40px'),
   // getColumn('attName'),
-  getColumn('timeAndSum'),
+  getColumn('timeAndSum', '56px'),
 ]

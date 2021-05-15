@@ -13,8 +13,8 @@ import { TableRoot, Head, Body, Row, Cell, DayRow } from './styles'
 
 const Table = props => {
   const {
-    columns, items, isLoading, sortBy, isSubtable,
-    onRowClick, onSortBy, onNoContent,
+    columns, items, isLoading, sortBy,
+    onRowClick, onSortBy, onNoContent, isDesktop,
     // onRenderControls,
     // pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
   } = props
@@ -37,6 +37,12 @@ const Table = props => {
     const cellStyle = {
       flexBasis: col.width,
       textAlign: col.align,
+      ...(col.padLeft && {
+        paddingLeft: col.padLeft,
+      }),
+      ...(col.padRight && {
+        paddingRight: col.padRight,
+      }),
     }
 
     if (col.link) {
@@ -67,6 +73,7 @@ const Table = props => {
     return (
       <Row
         key={id}
+        isDesktop={isDesktop}
         onClick={handleRowClick}
       >
         {columns.map(col => renderCell(item, col))}
@@ -83,7 +90,7 @@ const Table = props => {
 
     return (
       <>
-        <Body isSubtable={isSubtable}>
+        <Body>
           {days.map(({ dayString, kms }) => {
             return (
               <>
@@ -108,7 +115,7 @@ const Table = props => {
 
   return (
     <TableRoot>
-      <Head isSubtable={isSubtable}>
+      <Head isDesktop={isDesktop}>
         {columns.map(column => (
           <TableHeadCell
             key={column.key}
@@ -116,7 +123,6 @@ const Table = props => {
             sortBy={sortBy}
             onSortBy={onSortBy}
             noSort={column.noSort}
-            isSubtable={isSubtable}
           />
         ))}
       </Head>

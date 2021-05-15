@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Root = styled.div`
   width: 100%;
-  max-width: 600px;
+  max-width: 430px;
   display: flex;
   flex-direction: column;
   padding: 5px;
@@ -12,9 +12,6 @@ export const Root = styled.div`
     padding-left: 10px;
   }
 
-  @media (max-width: 767px) {
-    padding: 5px 0;
-  }
 `
 
 export const ListItem = styled.div`
@@ -75,6 +72,10 @@ export const Names = styled.div`
 
   @media (max-width: 767px) {
     margin: 0 5px;
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
   }
 
   > div {
@@ -96,6 +97,10 @@ export const ShipName = styled.div`
   > span {
     white-space: nowrap;
   }
+`
+
+export const AllyName = styled.div`
+  color: #ccc;
 `
 
 export const CorpAllyIcons = styled.div`

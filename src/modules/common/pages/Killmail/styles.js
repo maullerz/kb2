@@ -33,6 +33,7 @@ export const Body = styled.div`
 
 export const Center = styled.div`
   display: flex;
+  flex: 1;
   flex-direction: column;
   background: rgba(0, 0, 0, 0.2);
 `
@@ -64,8 +65,6 @@ export const SummaryWrapper = styled.div`
 `
 
 export const Items = styled.div`
-  /*min-width: 365px;*/
-  /*min-height: 500px;*/
   display: flex;
 
   @media (max-width: 768px) {
@@ -74,6 +73,7 @@ export const Items = styled.div`
 `
 
 export const Attackers = styled.div`
+  max-width: 430px;
   min-height: 500px;
   flex: 1 1;
   display: flex;

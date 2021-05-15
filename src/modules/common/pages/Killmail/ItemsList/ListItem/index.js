@@ -1,5 +1,4 @@
 import React from 'react'
-import numeral from 'numeral'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'
@@ -13,29 +12,6 @@ import {
   Sum,
 } from './styles'
 
-// CHECK: https://zkillboard.com/kill/87028891/
-const formatRaw = sum => numeral(sum).format('0,0')
-
-const formatSum = sum => {
-  if (sum === 0 || sum === 1 || !sum) {
-    return sum || '0'
-  }
-  return FormatUtils.formatSum(sum)
-
-  // const sumStr = numeral(sum).format('0.00 a').toUpperCase()
-
-  // let result = <div>{sumStr}</div>
-  // if (sumStr.includes('m')) {
-  //   result = <div>{sumStr}</div>
-  // } else if (sumStr.includes('b')) {
-  //   result = <b>{sumStr}</b>
-  // } else if (sumStr.includes('t')) {
-  //   result = <b>{sumStr}</b>
-  // }
-
-  // return result
-}
-
 const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile }) => {
   let sum
   if (totalSum) {
@@ -45,10 +21,10 @@ const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, sin
       ? 1 * count
       : prices[type] * count
   }
-
-  const formattedSum = isMobile ? formatSum(sum) : formatRaw(sum)
-  const formattedCount = isMobile ? formatSum(count) : formatRaw(count)
   const name = SdeUtils.getTypeName(type)
+
+  const formattedSum = FormatUtils.formatConditionally(sum, isMobile)
+  const formattedCount = FormatUtils.formatConditionally(count, isMobile)
 
   return (
     <Root destroyed={isDestroyed} subItem={inContainer}>

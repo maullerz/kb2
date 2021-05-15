@@ -17,6 +17,10 @@ export const Head = styled.div`
   align-items: center;
   padding: 0 5px;
 
+  ${p => !p.isDesktop && `
+    padding: 0 10px;
+  `}
+
   font-family: Verdana;
   font-size: 12px;
   font-weight: 400;
@@ -51,7 +55,7 @@ export const HeadCell = styled.div`
   }
 
   &:not(:first-child) {
-    padding: 0 0 0 3px;
+    // padding: 0 0 0 3px;
   }
   @media (min-width: 728px) {
     padding: 0 5px;
@@ -76,6 +80,10 @@ export const Row = styled.div`
   // height: 48px;
   height: 52px;
   padding: 0 5px;
+
+  ${p => !p.isDesktop && `
+    padding: 0 10px;
+  `}
 
   font-family: Verdana;
   font-style: normal;
@@ -112,7 +120,7 @@ export const Cell = styled.div`
   `}
 
   &:not(:first-child) {
-    padding: 0 0 0 5px;
+    // padding: 0 0 0 5px;
   }
   @media (min-width: 728px) {
     padding: 0 5px;

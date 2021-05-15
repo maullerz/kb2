@@ -5,7 +5,7 @@ const mobileMaxWidth = '767px'
 // const normalSize = '32px'
 const normalSize = '40px'
 const miniSize = '30px'
-const miniSizeMobile = '24px'
+const miniSizeMobile = '30px'
 
 export const Image = styled.img`
   width: ${() => `${normalSize}`};

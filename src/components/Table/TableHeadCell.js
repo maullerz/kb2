@@ -5,7 +5,7 @@ import React from 'react'
 import { HeadCell } from './styles'
 
 const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
-  const { key, width, align, title, minWidth, highlighted } = column
+  const { key, width, align, padLeft, title, minWidth, highlighted } = column
 
   if (title === null) {
     return null
@@ -47,7 +47,10 @@ const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
     minWidth,
     flexBasis: width,
     textAlign: align,
-    ...(align === 'right' && title !== 'Time' && { justifyContent: 'flex-end' }),
+    ...(align === 'right' && { justifyContent: 'flex-end' }),
+    ...(padLeft && {
+      paddingLeft: padLeft,
+    }),
   }
 
   return (
