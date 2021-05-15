@@ -38,7 +38,11 @@
   "57836": {
     "graphicID": 2508,
     "groupID": 1667,
-    "mass": 97100000,
     "name": "EoM Atoning Warrior"
+  },
+  "57831": {
+    "graphicID": 20199,
+    "groupID": 1664,
+    "name": "EoM Holy Purger"
   }
 }

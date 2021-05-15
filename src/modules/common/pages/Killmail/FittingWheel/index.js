@@ -12,8 +12,6 @@ import RigRack from './RigRack'
 
 import { Root, ZkbLinkCont } from './styles'
 
-const isDev = true // process.env.NODE_ENV === 'development'
-
 function FittingWheel({ kmData }) {
   if (!kmData) return null
 

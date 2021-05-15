@@ -1,7 +1,5 @@
 import styled from 'styled-components'
 
-const devMode = process.env.NODE_ENV === 'development'
-
 export const PageRoot = styled.div`
   position: relative;
   display: flex;
@@ -9,10 +7,6 @@ export const PageRoot = styled.div`
   background-color: var(--pageLayoutBackground);
   border-radius: 6px;
   color: var(--pageLayoutTextColor);
-
-  ${() => !devMode && `
-    min-width: 1080px;
-  `}
 
   padding: 14px 0;
 
@@ -59,9 +53,6 @@ export const Header = styled.div`
 
 export const Content = styled.div`
   position: relative;
-  ${() => !devMode && `
-    min-width: 1000px;
-  `}
 `
 
 export const Footer = styled.div`

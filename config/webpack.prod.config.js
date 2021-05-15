@@ -31,14 +31,14 @@ const mode = 'production'
 module.exports = {
   mode,
 
+  devtool: BUILD_SOURCE_MAP && 'hidden-source-map',
+
   // entry: path.resolve(clientDir, 'index.js'),
   entry: {
     main: path.resolve(clientDir, 'index.js'),
   },
 
   context: clientDir,
-
-  devtool: BUILD_SOURCE_MAP && 'hidden-source-map',
 
   resolve: {
     alias: {
@@ -141,13 +141,13 @@ module.exports = {
         from: publicDir,
         to: outputDir,
         globOptions: {
-          ignore: ['**/index-template.html'],
+          ignore: ['**/index-*.html'],
         },
       }],
     }),
     new WebpackManifestPlugin({
       fileName: 'assets.json',
-      // filter: fileDescr => fileDescr.isChunk,
+      filter: fileDescr => fileDescr.isChunk,
     }),
     new webpack.NormalModuleReplacementPlugin(
       /popper.js/,
@@ -156,7 +156,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: path.resolve(publicDir, 'index-template.html'),
       filename: 'index.html',
-      minify: false,
+      minify: true,
       inject: true,
     }),
     new MiniCssExtractPlugin({
@@ -166,8 +166,8 @@ module.exports = {
 
     new webpack.DefinePlugin({
       'process.env': {
-        NODE_ENV: JSON.stringify('production'),
         BABEL_ENV: JSON.stringify('production'),
+        NODE_ENV: JSON.stringify('production'),
         APP_ENV: JSON.stringify(process.env.APP_ENV || ''),
         API_HOST: JSON.stringify(process.env.API_HOST || ''),
       },

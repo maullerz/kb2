@@ -25,13 +25,8 @@ module.exports = {
   entry: {
     main: path.resolve(clientDir, 'index.js'),
   },
-  // entry: {
-  //   main: [
-  //     'webpack-dev-server/client?http://0.0.0.0:4002', // WebpackDevServer host and port
-  //     'webpack/hot/dev-server',
-  //     './src/index.js',
-  //   ],
-  // },
+
+  context: clientDir,
 
   output: {
     pathinfo: true,
@@ -49,9 +44,6 @@ module.exports = {
   },
 
   module: getModuleRules(mode),
-
-  // context: rootDirectory,
-
 
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
