@@ -16,6 +16,11 @@ export const Main = styled.main`
     background-size: cover;
     background-attachment: fixed;
   }
+
+  .makeStyles-root-1, .makeStyles-root-2 {
+    right: 32px;
+    bottom: 32px;
+  }
 `
 
 export const Wrapper = styled.div`

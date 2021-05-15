@@ -29,17 +29,6 @@ function FittingWheel({ kmData }) {
 
   return (
     <>
-      <ZkbLinkCont>
-        {isDev ? (
-          <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
-            zkillboard
-          </Href>
-        ) : (
-          <a href={`https://zkillboard.com/kill/${kmData._id}/`} rel='noopener'>
-            zkillboard
-          </a>
-        )}
-      </ZkbLinkCont>
       <Root>
         <svg viewBox='0 0 335 335' xmlns='http://www.w3.org/2000/svg'>
           <image xlinkHref={getRenderUrl(ship)} preserveAspectRatio='none' height='205' width='205' x='68.746' y='68.414' strokeWidth='1.249' />
@@ -63,6 +52,17 @@ function FittingWheel({ kmData }) {
           }
         </svg>
       </Root>
+      <ZkbLinkCont>
+        {isDev ? (
+          <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
+            zkillboard
+          </Href>
+        ) : (
+          <a href={`https://zkillboard.com/kill/${kmData._id}/`} rel='noopener'>
+            zkillboard
+          </a>
+        )}
+      </ZkbLinkCont>
     </>
   )
 }
