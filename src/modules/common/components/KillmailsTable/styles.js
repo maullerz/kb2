@@ -23,4 +23,18 @@ export const MultilineCell = styled.div`
   @media (min-width: 728px) {
     padding: 3px 0;
   }
+
+  @media (max-width: 767px) {
+
+  }
+`
+
+export const SystemName = styled.div`
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  span {
+    font-size: 12px;
+  }
 `

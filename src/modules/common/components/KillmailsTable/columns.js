@@ -8,7 +8,7 @@ import OrgIcon from 'components/icons/OrgIcon'
 import ItemIcon from 'components/icons/ItemIcon'
 import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
 
-import { Time, EntityName, MultilineCell } from './styles'
+import { Time, EntityName, MultilineCell, SystemName } from './styles'
 
 function getAttackerNames(att) {
   const hasAlly = att.ally
@@ -41,7 +41,7 @@ function getAttackerNames(att) {
 
 const columnsObject = {
   timeAndSum: {
-    width: '70px', title: 'Time', align: 'right', // highlighted: true,
+    width: '56px', title: 'Time', align: 'right', // highlighted: true,
     render: km => {
       return (
         <Link to={`/kill/${km._id || km.id}`}>
@@ -60,13 +60,15 @@ const columnsObject = {
     ),
   },
   system: {
-    width: '200px', title: 'System',
+    width: '150px', title: 'System',
     render: ({ sys }) => {
       // console.log('sys:', sys)
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
       return (
         <MultilineCell>
-          <div><span style={ssStyle}>{sys.ss}</span> {sys.name}</div>
+          <SystemName>
+            <span style={ssStyle}>{sys.ss}</span> {sys.name}
+          </SystemName>
           <div>{sys.region}</div>
         </MultilineCell>
       )
@@ -133,6 +135,7 @@ const columnsObject = {
     render: km => {
       const { atts } = km
       const finalBlow = atts.find(att => att.blow) || atts[0]
+      // TODO: for Desktop - attackers alliances icons
       return (
         <>
           {getAttackerNames(finalBlow)}
@@ -168,7 +171,7 @@ export const mobileColumns = [
   // getColumn('victimAllyIcon'),
   getColumn('victimName', '50%'),
   getColumn('attAllyIcon', '40px'),
-  getColumn('attShipIcon', '40px'),
+  // getColumn('attShipIcon', '40px'),
   // getColumn('attName'),
   getColumn('timeAndSum'),
 ]

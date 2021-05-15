@@ -1,11 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+import * as DateUtils from 'utils/DateUtils'
 import Spinner from 'components/Spinner'
+
 import TableHeadCell from './TableHeadCell'
 // import TableFooter from './TableFooter'
-
-import { TableRoot, Head, Body, Row, Cell } from './styles'
+import { TableRoot, Head, Body, Row, Cell, DayRow } from './styles'
 
 // TODO
 // https://material-ui.com/components/pagination/
@@ -78,10 +79,19 @@ const Table = props => {
       return onNoContent()
     }
 
+    const days = DateUtils.getKillmailsByDay(items)
+
     return (
       <>
         <Body isSubtable={isSubtable}>
-          {items.map((item, ix) => renderRow(item, item.id || ix))}
+          {days.map(({ dayString, kms }) => {
+            return (
+              <>
+                <DayRow>{dayString}</DayRow>
+                {kms.map((km, ix) => renderRow(km, km.id || ix))}
+              </>
+            )
+          })}
         </Body>
 
         {/* TODO: TableFooter */}

@@ -47,7 +47,7 @@ const TableHeadCell = ({ column, sortBy, onSortBy, noSort = true }) => {
     minWidth,
     flexBasis: width,
     textAlign: align,
-    ...(align === 'right' && { justifyContent: 'flex-end' }),
+    ...(align === 'right' && title !== 'Time' && { justifyContent: 'flex-end' }),
   }
 
   return (

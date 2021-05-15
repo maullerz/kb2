@@ -65,7 +65,7 @@ const MainLayout = props => {
             </IconButton>
             <Link to='/'>
               <Typography variant='h6' color='inherit'>
-                EveTools Killboard (Alpha version)
+                EveTools Killboard (Alpha)
               </Typography>
             </Link>
           </Toolbar>

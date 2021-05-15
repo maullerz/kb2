@@ -29,4 +29,5 @@ export const ZkbLinkCont = styled.div`
   position: absolute;
   top: 10px;
   left: 10px;
+  font-size: 12px;
 `

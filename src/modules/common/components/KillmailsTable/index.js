@@ -115,6 +115,7 @@ const KillmailsTable = props => {
   return (
     <Table
       items={items}
+      isDesktop={isDesktop}
       columns={isDesktop ? columns : mobileColumns}
       isLoading={isLoading}
       onRowClick={handleRowClick}

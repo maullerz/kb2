@@ -118,3 +118,22 @@ export const Cell = styled.div`
     padding: 0 5px;
   }
 `
+
+export const DayRow = styled.div`
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 48px;
+  padding-left: 16px;
+
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  @media (min-width: 728px) {
+    font-size: 14px;
+  }
+  line-height: 120%;
+  color: var(--tableRowTextColor);
+  border: 1px solid transparent;
+`
