@@ -53,6 +53,7 @@ export const Name = styled.div`
 `
 
 export const Digits = styled.div`
+  position: relative;
   display: flex;
   justify-content: space-between;
   text-align: right;

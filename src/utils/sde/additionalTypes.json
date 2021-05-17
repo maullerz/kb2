@@ -44,5 +44,16 @@
     "graphicID": 20199,
     "groupID": 1664,
     "name": "EoM Holy Purger"
+  },
+  "10131": {
+    "graphicID": 1689,
+    "groupID": 227,
+    "mass": 0,
+    "name": "Fire Cloud"
+  },
+  "30901": {
+    "graphicID": 3567,
+    "groupID": 226,
+    "name": "Sleeper Engineering Station"
   }
 }

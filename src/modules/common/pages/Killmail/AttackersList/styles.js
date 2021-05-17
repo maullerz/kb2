@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Root = styled.div`
   width: 100%;
-  max-width: 430px;
+  max-width: 600px;
   display: flex;
   flex-direction: column;
   padding: 5px;
@@ -11,7 +11,6 @@ export const Root = styled.div`
   h4 {
     padding-left: 10px;
   }
-
 `
 
 export const ListItem = styled.div`

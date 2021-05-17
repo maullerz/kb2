@@ -8,8 +8,8 @@ export const Root = styled.div`
   margin: auto;
   padding: 20px;
 
-  @media (max-width: 767px) {
-    padding: 10px;
+  @media (max-width: 1023px) {
+    padding: 0 10px;
   }
 `
 export const Header = styled.h4`
@@ -34,7 +34,11 @@ export const SortHeader = styled.div`
   background-color: #222;
   color: grey;
 
-  @media (max-width: 767px) { padding: 10px 5px; }
+  // @media (max-width: 767px) { padding: 10px 5px; }
+
+  svg {
+    margin-left: 5px;
+  }
 
   &:hover {
     background-color: #222a;
