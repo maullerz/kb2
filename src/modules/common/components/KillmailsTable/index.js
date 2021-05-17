@@ -1,4 +1,5 @@
 import React, { useReducer, useEffect } from 'react'
+import { useHistory } from 'react-router-dom'
 // import { useDispatch, useSelector } from 'react-redux'
 import useMediaQuery from 'react-hook-media-query'
 import ReactTooltip from 'react-tooltip'
@@ -19,17 +20,10 @@ const reducerFunc = (prevState, newState) => ({
 })
 
 const KillmailsTable = props => {
-  // const {
-  //   contactPosition, isCompanies, searchFilter, onRowClick,
-  //   editContact, editCompany, deleteContact, deleteCompany, onSuccess,
-  // } = props
-  // const dispatch = useDispatch()
-  // const contacts = useSelector(contactsList)
-  // const companies = useSelector(companiesList)
-  // const sortBy = useSelector(contactsSortBy)
+  const history = useHistory()
+  const { systemID } = props
 
   const isDesktop = useMediaQuery('(min-width: 728px)')
-  const { onRowClick } = props
   const [state, setState] = useReducer(reducerFunc, {
     items: [],
     isLoading: true,
@@ -39,10 +33,8 @@ const KillmailsTable = props => {
   })
   const { items, isLoading, page, totalPages, totalCount } = state
 
-  function handleRowClick(item) {
-    if (onRowClick) {
-      onRowClick(item)
-    }
+  function handleRowClick(km) {
+    history.push(`/kill/${km._id}`)
   }
 
   // function handleSortBy(newSortBy) {
@@ -68,7 +60,8 @@ const KillmailsTable = props => {
         setState({ items: devKillmails, isLoading: false, totalPages: 1, totalCount: items.length })
         console.log('devKillmails[6]:', devKillmails[6])
       } else {
-        const { data } = await KillmailService.getKillmails()
+        const params = { systemID }
+        const { data } = await KillmailService.getKillmails(params)
         if (IS_DEV) {
           console.log('data[0]:', data[0])
         }

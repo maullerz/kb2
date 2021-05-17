@@ -13,8 +13,8 @@ import { Time, EntityName, MultilineCell, SystemName } from './styles'
 function getAttackerNames(att) {
   const hasAlly = att.ally
   const hasCorp = att.corp
-  const shipName = att.ship.name || ''
-  const attackerName = att.char.name || ''
+  const shipName = att.ship?.name || ''
+  const attackerName = att.char?.name || ''
 
   if (!hasAlly && !hasCorp) {
     return attackerName
@@ -37,6 +37,10 @@ function getAttackerNames(att) {
       <EntityName>{att.ally.name}</EntityName>
     </MultilineCell>
   )
+}
+
+const stopPropagation = event => {
+  event.stopPropagation()
 }
 
 const columnsObject = {
@@ -71,9 +75,11 @@ const columnsObject = {
       // console.log('sys:', sys)
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
       return (
-        <MultilineCell>
+        <MultilineCell onClick={stopPropagation}>
           <SystemName>
-            <span style={ssStyle}>{sys.ss}</span> {sys.name}
+            <Link to={`/system/${sys.id}`}>
+              <span style={ssStyle}>{sys.ss}</span> {sys.name}
+            </Link>
           </SystemName>
           <div>{sys.region}</div>
         </MultilineCell>
@@ -85,7 +91,7 @@ const columnsObject = {
     render: ({ vict }) => (
       <OrgIcon
         ally={vict.ally && vict.ally.id}
-        corp={vict.corp.id}
+        corp={vict.corp?.id}
         names={null}
         nameObj={vict.ally || vict.corp}
       />

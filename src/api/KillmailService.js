@@ -1,17 +1,23 @@
 import BaseAPI from './BaseAPI'
 
 class KillmailService extends BaseAPI {
-  getKillmails() {
+  getKillmails(params) {
     return this.call({
-      method: 'get',
+      method: 'post',
       url: '/v1/killmails',
+      data: {
+        ...params,
+      },
     })
   }
 
-  getKillmailsSkip(skipCount) {
+  getStats(params) {
     return this.call({
-      method: 'get',
-      url: `/v1/killmails/skip/${skipCount}`,
+      method: 'post',
+      url: '/v1/stats',
+      data: {
+        ...params,
+      },
     })
   }
 

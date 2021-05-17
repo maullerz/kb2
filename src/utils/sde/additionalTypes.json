@@ -55,5 +55,24 @@
     "graphicID": 3567,
     "groupID": 226,
     "name": "Sleeper Engineering Station"
+  },
+  "58765": {
+    "graphicID": 2508,
+    "groupID": 1667,
+    "name": "EoM Sacred Assassin"
+  },
+  "58856": {
+    "groupID": 303,
+    "iconID": 21841,
+    "name": "Basic Capsuleer Day Glamourex Booster"
+  },
+  "19753": {
+    "graphicID": 2726,
+    "groupID": 227,
+    "name": "Toxic Cloud Environment"
+  },
+  "58885": {
+    "groupID": 1950,
+    "name": "Tristan Federation Navy SKIN"
   }
 }

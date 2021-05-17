@@ -2,31 +2,17 @@ import React from 'react'
 
 import useLayout from 'utils/hooks/useLayout'
 
-import { PageRoot, PageTitle, ProjectTitle, Header, Content, Footer } from './styles'
+import { PageRoot, HeadBlock, Content, Footer } from './styles'
 
 const PageLayout = ({ children }) => {
   const blocks = useLayout(children)
 
   return (
     <PageRoot>
-      {blocks.title &&
-        <PageTitle>
-          {blocks.title}
-        </PageTitle>
-      }
-
-      {blocks.subTitleText &&
-        <ProjectTitle>
-          {blocks.subTitleText}
-        </ProjectTitle>
-      }
-
-      {blocks.subTitleNode && blocks.subTitleNode}
-
-      {blocks.header &&
-        <Header>
-          {blocks.header}
-        </Header>
+      {blocks.head &&
+        <HeadBlock>
+          {blocks.head}
+        </HeadBlock>
       }
 
       <Content>

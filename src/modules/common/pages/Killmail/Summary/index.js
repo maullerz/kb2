@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'
@@ -72,7 +73,9 @@ const Summary = ({ kmData }) => {
       <Row>
         <Label>System:</Label>
         <div>
-          {sysDescr.name}
+          <Link to={`/system/${sysDescr.id}`}>
+            {sysDescr.name}
+          </Link>
           &nbsp;
           <span style={ssStyle}>{sysDescr.ss}</span>
           &nbsp;/&nbsp;

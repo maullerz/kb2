@@ -4,6 +4,7 @@ import { Switch, Route, Redirect } from 'react-router-dom'
 import MainLayout from 'layouts/MainLayout'
 import Home from 'modules/common/pages/Home'
 import Killmail from 'modules/common/pages/Killmail'
+import System from 'modules/common/pages/System'
 
 // import Orders from 'modules/market/pages/Orders'
 // import CallbackRoute from 'modules/market/pages/CallbackRoute'
@@ -24,6 +25,7 @@ const MainRoutes = () => {
       <Switch>
         <Route path='/' component={Home} exact />
         <Route path='/kill/:killmailID' component={Killmail} exact />
+        <Route path='/system/:systemID' component={System} exact />
         {/*
         <Route path='/orders' component={Orders} />
         <Route path='/callback' component={CallbackRoute} />
