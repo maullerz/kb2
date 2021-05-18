@@ -81697,7 +81697,7 @@
   },
   "43573": {
     "groupID": 1814,
-    "name": "♦ Scorpion"
+    "name": "AEGIS Security Marshal"
   },
   "43574": {
     "groupID": 1803,
@@ -94485,7 +94485,7 @@
   },
   "54715": {
     "groupID": 4057,
-    "name": "54715_Female_Accessories_Masks_Mask_F_Types_Mask_F_blackredsoe.png"
+    "name": "Women's SOE Enhanced Biosecurity Mask"
   },
   "54716": {
     "groupID": 4057,
@@ -94497,7 +94497,7 @@
   },
   "54719": {
     "groupID": 4057,
-    "name": "54719_Male_Accessories_Masks_Mask_M_Types_Mask_M_blackredsoe.png"
+    "name": "Men's SOE Enhanced Biosecurity Mask"
   },
   "54720": {
     "groupID": 4057,
@@ -97900,7 +97900,7 @@
   },
   "57373": {
     "groupID": 4050,
-    "name": "Event 24 Proving Filament"
+    "name": "2v2 Gnosis Proving Filament"
   },
   "57374": {
     "groupID": 4050,
@@ -98323,9 +98323,65 @@
     "groupID": 915,
     "name": "Enhanced Neurolink Protection Cell Blueprint"
   },
+  "57560": {
+    "groupID": 306,
+    "name": "AEGIS Encrypted Key Storage"
+  },
+  "57561": {
+    "groupID": 306,
+    "name": "AEGIS Security Vault"
+  },
+  "57562": {
+    "groupID": 306,
+    "name": "Gate Control System"
+  },
+  "57563": {
+    "groupID": 306,
+    "name": "Super Special Vault"
+  },
+  "57568": {
+    "groupID": 474,
+    "name": "AEGIS Coded Security Key CSSF-ENS"
+  },
+  "57569": {
+    "groupID": 474,
+    "name": "Gate Control Code A"
+  },
+  "57572": {
+    "groupID": 474,
+    "name": "Gate Control Code B"
+  },
+  "57573": {
+    "groupID": 474,
+    "name": "Gate Control Code C"
+  },
   "57578": {
     "groupID": 4098,
     "name": "Expired Grand Prix Interceptors Expert System"
+  },
+  "57582": {
+    "groupID": 1803,
+    "name": "AEGIS Security Pacifier"
+  },
+  "57583": {
+    "groupID": 1664,
+    "name": "Signals Cormorant"
+  },
+  "57584": {
+    "groupID": 1813,
+    "name": "AEGIS Security Enforcer"
+  },
+  "57585": {
+    "groupID": 1665,
+    "name": "Signals Lachesis"
+  },
+  "57586": {
+    "groupID": 1814,
+    "name": "AEGIS Security Marshal"
+  },
+  "57587": {
+    "groupID": 1667,
+    "name": "Signals Scorpion"
   },
   "57626": {
     "groupID": 1141,
@@ -98390,6 +98446,18 @@
   "57747": {
     "groupID": 303,
     "name": "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+  },
+  "57750": {
+    "groupID": 287,
+    "name": "Salvaging Phase-0xZ Forager"
+  },
+  "57751": {
+    "groupID": 287,
+    "name": "Punishing Phase-IVxZ Broodguard"
+  },
+  "57761": {
+    "groupID": 383,
+    "name": "AEGIS Security GunStar"
   },
   "57763": {
     "groupID": 303,
@@ -98475,6 +98543,38 @@
     "groupID": 314,
     "name": "YC123.4 Serenity Season Medal - New Eden"
   },
+  "57829": {
+    "groupID": 1568,
+    "name": "EoM Holy Binder"
+  },
+  "57830": {
+    "groupID": 1664,
+    "name": "EoM Black Dagger"
+  },
+  "57831": {
+    "groupID": 1664,
+    "name": "EoM Holy Purger"
+  },
+  "57832": {
+    "groupID": 1665,
+    "name": "EoM Hoplokrisma"
+  },
+  "57833": {
+    "groupID": 1665,
+    "name": "EoM Zealous Sword"
+  },
+  "57834": {
+    "groupID": 1665,
+    "name": "EoM Holy Sanctifier"
+  },
+  "57835": {
+    "groupID": 1666,
+    "name": "EoM Devout Fanatic"
+  },
+  "57836": {
+    "groupID": 1667,
+    "name": "EoM Atoning Warrior"
+  },
   "57837": {
     "groupID": 288,
     "name": "CreoDron Autonomous Maintenance Bot"
@@ -98491,9 +98591,29 @@
     "groupID": 1207,
     "name": "CD Com Tower"
   },
+  "58724": {
+    "groupID": 1207,
+    "name": "EoM Cyno Network Spoofing Facility"
+  },
+  "58725": {
+    "groupID": 1207,
+    "name": "EoM Cyno Network Spoofing Facility"
+  },
+  "58726": {
+    "groupID": 1207,
+    "name": "EoM Cyno Network Spoofing Facility"
+  },
   "58727": {
     "groupID": 303,
     "name": "Serenity Monthly Cerebral Accelerator - 2021.5"
+  },
+  "58753": {
+    "groupID": 494,
+    "name": "Vulnerable EoM Rogue Capital Shipyard"
+  },
+  "58757": {
+    "groupID": 1089,
+    "name": "Men's Capsuleer Day XVIII T-Shirt"
   },
   "58758": {
     "groupID": 303,
@@ -98507,6 +98627,26 @@
     "groupID": 303,
     "name": "Serenity YC123.5 Season Pass"
   },
+  "58764": {
+    "groupID": 1667,
+    "name": "EoM Purifying Lord"
+  },
+  "58765": {
+    "groupID": 1667,
+    "name": "EoM Sacred Assassin"
+  },
+  "58767": {
+    "groupID": 1092,
+    "name": "Men's Capsuleer Day XVIII Cap"
+  },
+  "58768": {
+    "groupID": 1089,
+    "name": "Women's Capsuleer Day XVIII T-Shirt"
+  },
+  "58769": {
+    "groupID": 1092,
+    "name": "Women's Capsuleer Day XVIII Cap"
+  },
   "58770": {
     "groupID": 303,
     "name": "Serenity The Hunt Accelerator Bronze"
@@ -98519,8 +98659,236 @@
     "groupID": 303,
     "name": "Serenity The Hunt Accelerator Gold"
   },
+  "58785": {
+    "groupID": 1090,
+    "name": "58785_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_amarr.png"
+  },
+  "58786": {
+    "groupID": 1090,
+    "name": "58786_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_caldari.png"
+  },
+  "58787": {
+    "groupID": 1090,
+    "name": "58787_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_gallente.png"
+  },
+  "58788": {
+    "groupID": 1090,
+    "name": "58788_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_minmatar.png"
+  },
+  "58791": {
+    "groupID": 1090,
+    "name": "58791_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_amarr.png"
+  },
+  "58792": {
+    "groupID": 1090
+  },
+  "58793": {
+    "groupID": 1090,
+    "name": "58793_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_gallente.png"
+  },
+  "58794": {
+    "groupID": 1090
+  },
+  "58795": {
+    "groupID": 1194,
+    "name": "Capsule Cascade Firework Crate"
+  },
+  "58797": {
+    "groupID": 1194,
+    "name": " Capsuleer Day XVIII T-Shirt and Cap Crate"
+  },
+  "58803": {
+    "groupID": 494,
+    "name": "Vulnerable EoM Rogue Capital Shipyard"
+  },
+  "58804": {
+    "groupID": 494,
+    "name": "Vulnerable EoM Rogue Capital Shipyard"
+  },
+  "58806": {
+    "groupID": 383,
+    "name": "EoM Stasis Webber Tower"
+  },
+  "58808": {
+    "groupID": 383,
+    "name": "EoM Warp Disruptor Tower"
+  },
+  "58809": {
+    "groupID": 1089,
+    "name": "58809_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_amarr.png"
+  },
+  "58810": {
+    "groupID": 1089,
+    "name": "58810_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_caldari.png"
+  },
+  "58811": {
+    "groupID": 1089,
+    "name": "58811_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_gallente.png"
+  },
+  "58812": {
+    "groupID": 1089,
+    "name": "58812_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_minmatar.png"
+  },
+  "58813": {
+    "groupID": 1089,
+    "name": "58813_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_amarr.png"
+  },
+  "58814": {
+    "groupID": 1089,
+    "name": "58814_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_caldari.png"
+  },
+  "58815": {
+    "groupID": 1089,
+    "name": "58815_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_gallente.png"
+  },
+  "58816": {
+    "groupID": 1089,
+    "name": "58816_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_minmatar.png"
+  },
+  "58817": {
+    "groupID": 1091,
+    "name": "58817_Female_Feet_ShoesEngF01_Types_ShoesEngF01_amarr.png"
+  },
+  "58818": {
+    "groupID": 1091
+  },
+  "58819": {
+    "groupID": 1091,
+    "name": "58819_Female_Feet_ShoesEngF01_Types_ShoesEngF01_gallente.png"
+  },
+  "58820": {
+    "groupID": 1091
+  },
+  "58821": {
+    "groupID": 1091,
+    "name": "58821_Female_Feet_ShoesEngF01_Types_ShoesEngF01_redblack.png"
+  },
+  "58825": {
+    "groupID": 1091,
+    "name": "58825_Male_Feet_ShoesEngM01_Types_ShoesEngM01_amarr.png"
+  },
+  "58826": {
+    "groupID": 1091,
+    "name": "58826_Male_Feet_ShoesEngM01_Types_ShoesEngM01_caldari.png"
+  },
+  "58827": {
+    "groupID": 1091,
+    "name": "58827_Male_Feet_ShoesEngM01_Types_ShoesEngM01_gallente.png"
+  },
+  "58828": {
+    "groupID": 1091,
+    "name": "58828_Male_Feet_ShoesEngM01_Types_ShoesEngM01_minmatar.png"
+  },
+  "58829": {
+    "groupID": 1091,
+    "name": "58829_Male_Feet_ShoesEngM01_Types_ShoesEngM01_redblack.png"
+  },
+  "58843": {
+    "groupID": 4050,
+    "name": "Event 26 Proving Filament"
+  },
+  "58844": {
+    "groupID": 4050,
+    "name": "Event 27 Proving Filament"
+  },
+  "58845": {
+    "groupID": 4050,
+    "name": "Event 28 Proving Filament"
+  },
+  "58846": {
+    "groupID": 4050,
+    "name": "Event 29 Proving Filament"
+  },
+  "58847": {
+    "groupID": 4050,
+    "name": "Event 30 Proving Filament"
+  },
+  "58848": {
+    "groupID": 4050,
+    "name": "Event 31 Proving Filament"
+  },
+  "58849": {
+    "groupID": 4050,
+    "name": "Event 32 Proving Filament"
+  },
+  "58850": {
+    "groupID": 4050,
+    "name": "Event 33 Proving Filament"
+  },
+  "58851": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day Cerebral Accelerator"
+  },
+  "58852": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day Cerebral Accelerator"
+  },
+  "58853": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day Cerebral Accelerator"
+  },
+  "58854": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day Glamourex Booster"
+  },
+  "58855": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day Glamourex Booster"
+  },
+  "58856": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day Glamourex Booster"
+  },
+  "58857": {
+    "groupID": 4041,
+    "name": "Capsuleer Day Noise-18 'Needlejack' Filament"
+  },
+  "58858": {
+    "groupID": 4041,
+    "name": "Capsuleer Day Signal-18 'Needlejack' Filament"
+  },
   "58906": {
     "groupID": 4093,
     "name": "Highsec Authorized Mobile Cynosural Beacon"
+  },
+  "58919": {
+    "groupID": 4117,
+    "name": "Interdiction Nullifier I"
+  },
+  "58955": {
+    "groupID": 4118,
+    "name": "Interdiction Nullifier I Blueprint"
+  },
+  "58966": {
+    "groupID": 4117,
+    "name": "Compact Interdiction Nullifier"
+  },
+  "58971": {
+    "groupID": 4117,
+    "name": "Restrained Interdiction Nullifier"
+  },
+  "58972": {
+    "groupID": 4117,
+    "name": "Interdiction Nullifier II"
+  },
+  "58973": {
+    "groupID": 4118,
+    "name": "Compact Interdiction Nullifier Blueprint"
+  },
+  "58974": {
+    "groupID": 4118,
+    "name": "Restrained Interdiction Nullifier Blueprint"
+  },
+  "58975": {
+    "groupID": 4118,
+    "name": "Interdiction Nullifier II Blueprint"
+  },
+  "59177": {
+    "groupID": 303,
+    "name": "Serenity Monthly Cerebral Accelerator - 2021.6"
+  },
+  "59197": {
+    "groupID": 303,
+    "name": "Neo Serenity Special Cerebral Accelerator"
   }
 }

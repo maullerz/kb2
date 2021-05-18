@@ -6785,17 +6785,6 @@
     "published": false,
     "stackable": true
   },
-  "1539": {
-    "attributeID": 1539,
-    "categoryID": 7,
-    "dataType": 4,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "warpBubbleImmuneModifier",
-    "published": false,
-    "stackable": true
-  },
   "1541": {
     "attributeID": 1541,
     "categoryID": 7,

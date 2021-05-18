@@ -102122,7 +102122,7 @@
   [
     43573,
     1814,
-    "♦ Scorpion"
+    "AEGIS Security Marshal"
   ],
   [
     43574,
@@ -118107,7 +118107,7 @@
   [
     54715,
     4057,
-    "54715_Female_Accessories_Masks_Mask_F_Types_Mask_F_blackredsoe.png"
+    "Women's SOE Enhanced Biosecurity Mask"
   ],
   [
     54716,
@@ -118122,7 +118122,7 @@
   [
     54719,
     4057,
-    "54719_Male_Accessories_Masks_Mask_M_Types_Mask_M_blackredsoe.png"
+    "Men's SOE Enhanced Biosecurity Mask"
   ],
   [
     54720,
@@ -122377,7 +122377,7 @@
   [
     57373,
     4050,
-    "Event 24 Proving Filament"
+    "2v2 Gnosis Proving Filament"
   ],
   [
     57374,
@@ -122910,9 +122910,79 @@
     "Enhanced Neurolink Protection Cell Blueprint"
   ],
   [
+    57560,
+    306,
+    "AEGIS Encrypted Key Storage"
+  ],
+  [
+    57561,
+    306,
+    "AEGIS Security Vault"
+  ],
+  [
+    57562,
+    306,
+    "Gate Control System"
+  ],
+  [
+    57563,
+    306,
+    "Super Special Vault"
+  ],
+  [
+    57568,
+    474,
+    "AEGIS Coded Security Key CSSF-ENS"
+  ],
+  [
+    57569,
+    474,
+    "Gate Control Code A"
+  ],
+  [
+    57572,
+    474,
+    "Gate Control Code B"
+  ],
+  [
+    57573,
+    474,
+    "Gate Control Code C"
+  ],
+  [
     57578,
     4098,
     "Expired Grand Prix Interceptors Expert System"
+  ],
+  [
+    57582,
+    1803,
+    "AEGIS Security Pacifier"
+  ],
+  [
+    57583,
+    1664,
+    "Signals Cormorant"
+  ],
+  [
+    57584,
+    1813,
+    "AEGIS Security Enforcer"
+  ],
+  [
+    57585,
+    1665,
+    "Signals Lachesis"
+  ],
+  [
+    57586,
+    1814,
+    "AEGIS Security Marshal"
+  ],
+  [
+    57587,
+    1667,
+    "Signals Scorpion"
   ],
   [
     57626,
@@ -122993,6 +123063,21 @@
     57747,
     303,
     "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+  ],
+  [
+    57750,
+    287,
+    "Salvaging Phase-0xZ Forager"
+  ],
+  [
+    57751,
+    287,
+    "Punishing Phase-IVxZ Broodguard"
+  ],
+  [
+    57761,
+    383,
+    "AEGIS Security GunStar"
   ],
   [
     57763,
@@ -123100,6 +123185,46 @@
     "YC123.4 Serenity Season Medal - New Eden"
   ],
   [
+    57829,
+    1568,
+    "EoM Holy Binder"
+  ],
+  [
+    57830,
+    1664,
+    "EoM Black Dagger"
+  ],
+  [
+    57831,
+    1664,
+    "EoM Holy Purger"
+  ],
+  [
+    57832,
+    1665,
+    "EoM Hoplokrisma"
+  ],
+  [
+    57833,
+    1665,
+    "EoM Zealous Sword"
+  ],
+  [
+    57834,
+    1665,
+    "EoM Holy Sanctifier"
+  ],
+  [
+    57835,
+    1666,
+    "EoM Devout Fanatic"
+  ],
+  [
+    57836,
+    1667,
+    "EoM Atoning Warrior"
+  ],
+  [
     57837,
     288,
     "CreoDron Autonomous Maintenance Bot"
@@ -123120,9 +123245,34 @@
     "CD Com Tower"
   ],
   [
+    58724,
+    1207,
+    "EoM Cyno Network Spoofing Facility"
+  ],
+  [
+    58725,
+    1207,
+    "EoM Cyno Network Spoofing Facility"
+  ],
+  [
+    58726,
+    1207,
+    "EoM Cyno Network Spoofing Facility"
+  ],
+  [
     58727,
     303,
     "Serenity Monthly Cerebral Accelerator - 2021.5"
+  ],
+  [
+    58753,
+    494,
+    "Vulnerable EoM Rogue Capital Shipyard"
+  ],
+  [
+    58757,
+    1089,
+    "Men's Capsuleer Day XVIII T-Shirt"
   ],
   [
     58758,
@@ -123140,6 +123290,31 @@
     "Serenity YC123.5 Season Pass"
   ],
   [
+    58764,
+    1667,
+    "EoM Purifying Lord"
+  ],
+  [
+    58765,
+    1667,
+    "EoM Sacred Assassin"
+  ],
+  [
+    58767,
+    1092,
+    "Men's Capsuleer Day XVIII Cap"
+  ],
+  [
+    58768,
+    1089,
+    "Women's Capsuleer Day XVIII T-Shirt"
+  ],
+  [
+    58769,
+    1092,
+    "Women's Capsuleer Day XVIII Cap"
+  ],
+  [
     58770,
     303,
     "Serenity The Hunt Accelerator Bronze"
@@ -123155,8 +123330,298 @@
     "Serenity The Hunt Accelerator Gold"
   ],
   [
+    58785,
+    1090,
+    "58785_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_amarr.png"
+  ],
+  [
+    58786,
+    1090,
+    "58786_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_caldari.png"
+  ],
+  [
+    58787,
+    1090,
+    "58787_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_gallente.png"
+  ],
+  [
+    58788,
+    1090,
+    "58788_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_minmatar.png"
+  ],
+  [
+    58791,
+    1090,
+    "58791_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_amarr.png"
+  ],
+  [
+    58792,
+    1090,
+    null
+  ],
+  [
+    58793,
+    1090,
+    "58793_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_gallente.png"
+  ],
+  [
+    58794,
+    1090,
+    null
+  ],
+  [
+    58795,
+    1194,
+    "Capsule Cascade Firework Crate"
+  ],
+  [
+    58797,
+    1194,
+    " Capsuleer Day XVIII T-Shirt and Cap Crate"
+  ],
+  [
+    58803,
+    494,
+    "Vulnerable EoM Rogue Capital Shipyard"
+  ],
+  [
+    58804,
+    494,
+    "Vulnerable EoM Rogue Capital Shipyard"
+  ],
+  [
+    58806,
+    383,
+    "EoM Stasis Webber Tower"
+  ],
+  [
+    58808,
+    383,
+    "EoM Warp Disruptor Tower"
+  ],
+  [
+    58809,
+    1089,
+    "58809_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_amarr.png"
+  ],
+  [
+    58810,
+    1089,
+    "58810_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_caldari.png"
+  ],
+  [
+    58811,
+    1089,
+    "58811_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_gallente.png"
+  ],
+  [
+    58812,
+    1089,
+    "58812_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_minmatar.png"
+  ],
+  [
+    58813,
+    1089,
+    "58813_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_amarr.png"
+  ],
+  [
+    58814,
+    1089,
+    "58814_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_caldari.png"
+  ],
+  [
+    58815,
+    1089,
+    "58815_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_gallente.png"
+  ],
+  [
+    58816,
+    1089,
+    "58816_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_minmatar.png"
+  ],
+  [
+    58817,
+    1091,
+    "58817_Female_Feet_ShoesEngF01_Types_ShoesEngF01_amarr.png"
+  ],
+  [
+    58818,
+    1091,
+    null
+  ],
+  [
+    58819,
+    1091,
+    "58819_Female_Feet_ShoesEngF01_Types_ShoesEngF01_gallente.png"
+  ],
+  [
+    58820,
+    1091,
+    null
+  ],
+  [
+    58821,
+    1091,
+    "58821_Female_Feet_ShoesEngF01_Types_ShoesEngF01_redblack.png"
+  ],
+  [
+    58825,
+    1091,
+    "58825_Male_Feet_ShoesEngM01_Types_ShoesEngM01_amarr.png"
+  ],
+  [
+    58826,
+    1091,
+    "58826_Male_Feet_ShoesEngM01_Types_ShoesEngM01_caldari.png"
+  ],
+  [
+    58827,
+    1091,
+    "58827_Male_Feet_ShoesEngM01_Types_ShoesEngM01_gallente.png"
+  ],
+  [
+    58828,
+    1091,
+    "58828_Male_Feet_ShoesEngM01_Types_ShoesEngM01_minmatar.png"
+  ],
+  [
+    58829,
+    1091,
+    "58829_Male_Feet_ShoesEngM01_Types_ShoesEngM01_redblack.png"
+  ],
+  [
+    58843,
+    4050,
+    "Event 26 Proving Filament"
+  ],
+  [
+    58844,
+    4050,
+    "Event 27 Proving Filament"
+  ],
+  [
+    58845,
+    4050,
+    "Event 28 Proving Filament"
+  ],
+  [
+    58846,
+    4050,
+    "Event 29 Proving Filament"
+  ],
+  [
+    58847,
+    4050,
+    "Event 30 Proving Filament"
+  ],
+  [
+    58848,
+    4050,
+    "Event 31 Proving Filament"
+  ],
+  [
+    58849,
+    4050,
+    "Event 32 Proving Filament"
+  ],
+  [
+    58850,
+    4050,
+    "Event 33 Proving Filament"
+  ],
+  [
+    58851,
+    303,
+    "Extended Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    58852,
+    303,
+    "Potent Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    58853,
+    303,
+    "Basic Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    58854,
+    303,
+    "Potent Capsuleer Day Glamourex Booster"
+  ],
+  [
+    58855,
+    303,
+    "Extended Capsuleer Day Glamourex Booster"
+  ],
+  [
+    58856,
+    303,
+    "Basic Capsuleer Day Glamourex Booster"
+  ],
+  [
+    58857,
+    4041,
+    "Capsuleer Day Noise-18 'Needlejack' Filament"
+  ],
+  [
+    58858,
+    4041,
+    "Capsuleer Day Signal-18 'Needlejack' Filament"
+  ],
+  [
     58906,
     4093,
     "Highsec Authorized Mobile Cynosural Beacon"
+  ],
+  [
+    58919,
+    4117,
+    "Interdiction Nullifier I"
+  ],
+  [
+    58955,
+    4118,
+    "Interdiction Nullifier I Blueprint"
+  ],
+  [
+    58966,
+    4117,
+    "Compact Interdiction Nullifier"
+  ],
+  [
+    58971,
+    4117,
+    "Restrained Interdiction Nullifier"
+  ],
+  [
+    58972,
+    4117,
+    "Interdiction Nullifier II"
+  ],
+  [
+    58973,
+    4118,
+    "Compact Interdiction Nullifier Blueprint"
+  ],
+  [
+    58974,
+    4118,
+    "Restrained Interdiction Nullifier Blueprint"
+  ],
+  [
+    58975,
+    4118,
+    "Interdiction Nullifier II Blueprint"
+  ],
+  [
+    59177,
+    303,
+    "Serenity Monthly Cerebral Accelerator - 2021.6"
+  ],
+  [
+    59197,
+    303,
+    "Neo Serenity Special Cerebral Accelerator"
   ]
 ]
