@@ -81,7 +81,7 @@ const columnsObject = {
               <span style={ssStyle}>{sys.ss}</span> {sys.name}
             </Link>
           </SystemName>
-          <div>{sys.region}</div>
+          <SystemName>{sys.region}</SystemName>
         </MultilineCell>
       )
     },

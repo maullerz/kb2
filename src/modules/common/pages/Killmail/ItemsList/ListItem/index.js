@@ -14,12 +14,16 @@ import {
 
 const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile }) => {
   let sum
+  if (!prices && process.env.NODE_ENV === 'development') {
+    console.warn('ListItem without prices:', { type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile })
+  }
+
   if (totalSum) {
     sum = totalSum
   } else {
     sum = singleton
       ? 1 * count
-      : prices[type] * count
+      : (prices ? prices[type] : 1) * count
   }
   const name = SdeUtils.getTypeName(type)
 

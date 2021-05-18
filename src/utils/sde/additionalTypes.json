@@ -74,5 +74,10 @@
   "58885": {
     "groupID": 1950,
     "name": "Tristan Federation Navy SKIN"
+  },
+  "57832": {
+    "graphicID": 58,
+    "groupID": 1665,
+    "name": "EoM Hoplokrisma"
   }
 }
