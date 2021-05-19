@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
 
-import { Root, InfoBlock, Row, Label } from './styles'
+import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
 
 const QUALITY = 256
 
@@ -19,7 +19,10 @@ const SystemSummary = ({ stats }) => {
 
   return (
     <Root>
-      <img width='100' height='100' src={getImgUrl(sunTypeID)} alt='sun' />
+      <ImgRect>
+        <img width='100' height='100' src={getImgUrl(sunTypeID)} alt='sun' />
+      </ImgRect>
+
       <InfoBlock>
         <Row>
           <Label>System:</Label>
@@ -33,11 +36,19 @@ const SystemSummary = ({ stats }) => {
         </Row>
         <Row>
           <Label>Constellation:</Label>
-          <div>{constellation.name}</div>
+          <div>
+            <Link to={`/constellation/${constellation.id}`}>
+              {constellation.name}
+            </Link>
+          </div>
         </Row>
         <Row>
           <Label>Region:</Label>
-          <div>{region.name}</div>
+          <div>
+            <Link to={`/region/${region.id}`}>
+              {region.name}
+            </Link>
+          </div>
         </Row>
       </InfoBlock>
     </Root>

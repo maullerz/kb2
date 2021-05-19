@@ -5,6 +5,8 @@ import MainLayout from 'layouts/MainLayout'
 import Home from 'modules/common/pages/Home'
 import Killmail from 'modules/common/pages/Killmail'
 import System from 'modules/common/pages/System'
+import Constellation from 'modules/common/pages/Constellation'
+import Region from 'modules/common/pages/Region'
 
 // import Orders from 'modules/market/pages/Orders'
 // import CallbackRoute from 'modules/market/pages/CallbackRoute'
@@ -26,6 +28,8 @@ const MainRoutes = () => {
         <Route path='/' component={Home} exact />
         <Route path='/kill/:killmailID' component={Killmail} exact />
         <Route path='/system/:systemID' component={System} exact />
+        <Route path='/constellation/:constellationID' component={Constellation} exact />
+        <Route path='/region/:regionID' component={Region} exact />
         {/*
         <Route path='/orders' component={Orders} />
         <Route path='/callback' component={CallbackRoute} />

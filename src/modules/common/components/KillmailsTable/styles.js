@@ -1,12 +1,29 @@
 import styled from 'styled-components'
 
-export const Time = styled.div`
+export const Time = styled.span`
   color: #888;
 `
 
-export const EntityName = styled.div`
-  // color: gold;
+export const CharName = styled.span`
+  color: gold;
+`
+
+export const ShipName = styled.span`
+  color: #888;
+`
+
+export const Sum = styled.div`
   color: #42aff0;
+`
+
+export const EntityName = styled.div`
+  color: white;
+
+  ${p => p.nowrap && `
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  `}
 `
 
 export const MultilineCell = styled.div`

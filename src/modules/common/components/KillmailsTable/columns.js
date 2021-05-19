@@ -8,24 +8,25 @@ import OrgIcon from 'components/icons/OrgIcon'
 import ItemIcon from 'components/icons/ItemIcon'
 import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
 
-import { Time, EntityName, MultilineCell, SystemName } from './styles'
+import { Sum, Time, EntityName, CharName, ShipName, MultilineCell, SystemName } from './styles'
 
 function getAttackerNames(att) {
   const hasAlly = att.ally
   const hasCorp = att.corp
   const shipName = att.ship?.name || ''
   const attackerName = att.char?.name || ''
+  const charNode = attackerName
+    ? <CharName>{attackerName}</CharName>
+    : <EntityName>{shipName}</EntityName>
 
   if (!hasAlly && !hasCorp) {
-    return attackerName
-      ? <EntityName>{attackerName}</EntityName>
-      : <EntityName>{shipName}</EntityName>
+    return charNode
   }
 
   if (!hasAlly) {
     return (
       <MultilineCell>
-        <EntityName>{attackerName || shipName}</EntityName>
+        {charNode}
         <EntityName>{att.corp.name}</EntityName>
       </MultilineCell>
     )
@@ -33,7 +34,7 @@ function getAttackerNames(att) {
 
   return (
     <MultilineCell>
-      <EntityName>{attackerName}</EntityName>
+      {charNode}
       <EntityName>{att.ally.name}</EntityName>
     </MultilineCell>
   )
@@ -43,17 +44,21 @@ const stopPropagation = event => {
   event.stopPropagation()
 }
 
+const BIL = 1_000_000_000
+
 const columnsObject = {
   timeAndSum: {
     width: '56px', title: 'Time', align: 'right', // highlighted: true,
     render: km => {
+      const sum = formatSumExt(km.sumV)
       return (
-        <Link to={`/kill/${km._id || km.id}`}>
-          <MultilineCell alignRight>
-            <div>{formatSumExt(km.sumV)}</div>
-            <Time>{format(km.time * 1000, 'HH:mm')}</Time>
-          </MultilineCell>
-        </Link>
+        <MultilineCell alignRight>
+          {km.sumV >= BIL
+            ? <Sum><b>{sum}</b></Sum>
+            : <Sum>{sum}</Sum>
+          }
+          <Time>{format(km.time * 1000, 'HH:mm')}</Time>
+        </MultilineCell>
       )
     },
   },
@@ -75,13 +80,17 @@ const columnsObject = {
       // console.log('sys:', sys)
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
       return (
-        <MultilineCell onClick={stopPropagation}>
-          <SystemName>
+        <MultilineCell>
+          <SystemName onClick={stopPropagation}>
             <Link to={`/system/${sys.id}`}>
               <span style={ssStyle}>{sys.ss}</span> {sys.name}
             </Link>
           </SystemName>
-          <SystemName>{sys.region}</SystemName>
+          <SystemName onClick={stopPropagation}>
+            <Link to={`/region/${sys.regionId}`}>
+              {sys.region}
+            </Link>
+          </SystemName>
         </MultilineCell>
       )
     },
@@ -114,20 +123,19 @@ const columnsObject = {
     width: '28%', title: 'Victim', padLeft: 5,
     render: km => {
       const { vict } = km
-      // const name = `${vict.char.name || ''} (${vict.ship.name})`
       if (!vict.char) {
         // console.error('vict:', vict)
       }
       const name = `${vict.char?.name || ''}`
-      return vict.ally ? (
+      // slice is for such things - Federation of Respect Honor Passion Alliance.
+      const orgName = String(vict.ally?.name || vict.corp?.name).slice(0, 40)
+
+      return (
         <MultilineCell>
-          <EntityName>{name}</EntityName> {/* slice is for such things - Federation of Respect Honor Passion Alliance. */}
-          <EntityName>{vict.ally.name.slice(0, 40)}</EntityName>
-        </MultilineCell>
-      ) : (
-        <MultilineCell>
-          <EntityName>{name}</EntityName>
-          <EntityName>{vict.corp.name}</EntityName>
+          <EntityName nowrap>
+            <CharName>{name}</CharName> <ShipName>({vict.ship.name})</ShipName>
+          </EntityName>
+          <EntityName>{orgName}</EntityName>
         </MultilineCell>
       )
     },

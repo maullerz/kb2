@@ -21,7 +21,7 @@ const reducerFunc = (prevState, newState) => ({
 
 const KillmailsTable = props => {
   const history = useHistory()
-  const { systemID } = props
+  const { systemID, constellationID, regionID } = props
 
   const isDesktop = useMediaQuery('(min-width: 728px)')
   const [state, setState] = useReducer(reducerFunc, {
@@ -60,7 +60,7 @@ const KillmailsTable = props => {
         setState({ items: devKillmails, isLoading: false, totalPages: 1, totalCount: items.length })
         console.log('devKillmails[6]:', devKillmails[6])
       } else {
-        const params = { systemID }
+        const params = { systemID, constellationID, regionID }
         const { data } = await KillmailService.getKillmails(params)
         if (IS_DEV) {
           console.log('data[0]:', data[0])

@@ -79,7 +79,9 @@ const Summary = ({ kmData }) => {
           &nbsp;
           <span style={ssStyle}>{sysDescr.ss}</span>
           &nbsp;/&nbsp;
-          {sysDescr.region}
+          <Link to={`/region/${sysDescr.regionId}`}>
+            {sysDescr.region}
+          </Link>
         </div>
       </Row>
 
