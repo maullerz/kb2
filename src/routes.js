@@ -9,6 +9,8 @@ import Constellation from 'modules/common/pages/Constellation'
 import Region from 'modules/common/pages/Region'
 
 import Character from 'modules/common/pages/Character'
+import Corporation from 'modules/common/pages/Corporation'
+import Alliance from 'modules/common/pages/Alliance'
 
 // import Orders from 'modules/market/pages/Orders'
 // import CallbackRoute from 'modules/market/pages/CallbackRoute'
@@ -34,6 +36,9 @@ const MainRoutes = () => {
         <Route path='/region/:regionID' component={Region} exact />
 
         <Route path='/character/:charID' component={Character} exact />
+        <Route path='/corporation/:corpID' component={Corporation} exact />
+        <Route path='/alliance/:allyID' component={Alliance} exact />
+
         {/*
         <Route path='/orders' component={Orders} />
         <Route path='/callback' component={CallbackRoute} />

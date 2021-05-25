@@ -51,6 +51,17 @@
     "mass": 0,
     "name": "Fire Cloud"
   },
+  "10760": {
+    "graphicID": 1984,
+    "groupID": 227,
+    "iconID": 3225,
+    "name": "Acidic Cloud"
+  },
+  "10124": {
+    "graphicID": 1211,
+    "groupID": 226,
+    "name": "Beacon"
+  },
   "30901": {
     "graphicID": 3567,
     "groupID": 226,

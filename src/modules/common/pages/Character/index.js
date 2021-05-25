@@ -6,7 +6,6 @@ import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 
 import CharacterSummary from './CharacterSummary'
-// import { HeaderPanel, Title } from './styles'
 
 const Character = () => {
   const charID = Number(useParams().charID)

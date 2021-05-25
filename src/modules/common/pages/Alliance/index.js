@@ -5,32 +5,31 @@ import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 
-import ConstellationSummary from './ConstellationSummary'
+import AllianceSummary from './AllianceSummary'
 
-const Constellation = () => {
-  const constellationID = Number(useParams().constellationID)
+const Alliance = () => {
+  const allyID = Number(useParams().allyID)
   const [stats, setStats] = useState(null)
 
-  // console.log('constellationID:', constellationID)
-
-  if (!constellationID) {
+  if (!allyID) {
     return <Redirect to='/' />
   }
 
-  async function getConstellationStats() {
+  async function getAllianceStats() {
     try {
-      const { data } = await KillmailService.getStats({ constellationID })
+      const { data } = await KillmailService.getStats({ allyID })
       setStats(data)
     } catch (e) {
-      console.error('getConstellationStats:', e.message || e)
+      console.error('getAllianceStats:', e.message || e)
     }
   }
 
   useEffect(() => {
-    if (constellationID) {
-      getConstellationStats()
+    if (allyID) {
+      setStats(null)
+      getAllianceStats()
     }
-  }, [constellationID])
+  }, [allyID])
 
   if (!stats) {
     return null
@@ -39,13 +38,13 @@ const Constellation = () => {
   return (
     <PageLayout>
       <Fragment key='head'>
-        <ConstellationSummary stats={stats} />
+        <AllianceSummary stats={stats} />
       </Fragment>
       <Fragment key='content'>
-        <KillmailsTable constellationID={constellationID} />
+        <KillmailsTable allyID={allyID} />
       </Fragment>
     </PageLayout>
   )
 }
 
-export default Constellation
+export default Alliance

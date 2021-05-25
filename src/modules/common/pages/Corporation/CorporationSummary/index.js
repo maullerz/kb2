@@ -1,11 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import { getCharUrl } from 'utils/KillmailUtils'
+import { getCorpUrl } from 'utils/KillmailUtils'
 
 import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
 
-const CharacterSummary = ({ stats }) => {
+const CorporationSummary = ({ stats }) => {
   const { id, name } = stats
 
   // console.log('stats:', JSON.stringify(stats, null, 2))
@@ -13,23 +13,15 @@ const CharacterSummary = ({ stats }) => {
   return (
     <Root>
       <ImgRect>
-        <img width='100' height='100' src={getCharUrl(id)} alt='character portrait' />
+        <img width='100' height='100' src={getCorpUrl(id, 256)} alt='corporation logo' />
       </ImgRect>
 
       <InfoBlock>
         <Row>
-          <Label>Character:</Label>
-          <div>
-            <Link to={`/character/${id}`}>
-              {name}
-            </Link>
-          </div>
-        </Row>
-        <Row>
           <Label>Corporation:</Label>
           <div>
-            <Link to={`/corporation/${0}`}>
-              corp name
+            <Link to={`/corporation/${id}`}>
+              {name}
             </Link>
           </div>
         </Row>
@@ -46,4 +38,4 @@ const CharacterSummary = ({ stats }) => {
   )
 }
 
-export default CharacterSummary
+export default CorporationSummary

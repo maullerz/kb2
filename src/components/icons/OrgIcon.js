@@ -1,5 +1,5 @@
 import React from 'react'
-// import useMediaQuery from 'react-hook-media-query'
+import { Link } from 'react-router-dom'
 
 import { getAllyUrl, getCorpUrl } from 'utils/KillmailUtils'
 
@@ -9,7 +9,7 @@ const emptyUrl = 'https://images.evetech.net/corporations/1/logo?size=64'
 
 const isProd = process.env.NODE_ENV === 'production'
 
-const OrgIcon = ({ ally, corp, mini, names, nameObj }) => {
+const OrgIcon = ({ ally, corp, mini, link, names, nameObj }) => {
   const isDesktop = true // useMediaQuery('(min-width: 728px)')
 
   if (!ally && !corp) {
@@ -47,11 +47,23 @@ const OrgIcon = ({ ally, corp, mini, names, nameObj }) => {
     //   : `corp-${corp}: ${names.corps[corp]}`
   }
 
-  return (
+  const node = (
     <OrgIconContainer mini={mini || !isDesktop} data-tip={getTooltipString()}>
       <Image src={iconUrl} mini={mini || !isDesktop} alt={alt} />
     </OrgIconContainer>
   )
+
+  // TODO:
+  if (link && !isProd) {
+    const url = ally ? `/alliance/${ally}` : `/corporation/${corp}`
+    return (
+      <Link to={url}>
+        {node}
+      </Link>
+    )
+  }
+
+  return node
 }
 
 export default React.memo(OrgIcon)

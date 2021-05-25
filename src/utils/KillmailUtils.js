@@ -29,15 +29,15 @@ const SKIN_GROUP = 1950
 
 export const getUnknownItemUrl = () => '/icons/eve-question.png'
 
-export const getCorpUrl = corpID => {
+export const getCorpUrl = (corpID, quality) => {
   const corp = NPC_CORPS.includes(Number(corpID)) || !corpID ? 1 : corpID
-  const result = `${CORPS_BASE}/${corp}/logo?size=${IMG_QUALITY}`
+  const result = `${CORPS_BASE}/${corp}/logo?size=${quality || IMG_QUALITY}`
   return result
 }
 
-export const getAllyUrl = allyID => {
+export const getAllyUrl = (allyID, quality) => {
   const ally = NPC_ALLYS.includes(allyID) || !allyID ? 1 : allyID
-  const result = `${ALLYS_BASE}/${ally}/logo?size=${IMG_QUALITY}`
+  const result = `${ALLYS_BASE}/${ally}/logo?size=${quality || IMG_QUALITY}`
   return result
 }
 

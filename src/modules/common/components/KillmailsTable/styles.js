@@ -27,6 +27,10 @@ export const Sum = styled.div`
 export const EntityName = styled.div`
   color: white;
 
+  a:hover, a:active {
+    text-decoration: underline;
+  }
+
   ${p => p.nowrap && `
     white-space: nowrap;
     overflow: hidden;
@@ -57,5 +61,9 @@ export const SystemName = styled.div`
 
   span {
     font-size: 12px;
+  }
+
+  a:hover, a:active {
+    text-decoration: underline;
   }
 `

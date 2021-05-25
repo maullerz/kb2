@@ -39,7 +39,11 @@ function getAttackerNames(att) {
     return (
       <MultilineCell>
         {charNode}
-        <EntityName>{att.corp.name}</EntityName>
+        <EntityName onClick={stopPropagation}>
+          <Link to={`/corporation/${att.corp.id}`}>
+            {att.corp.name}
+          </Link>
+        </EntityName>
       </MultilineCell>
     )
   }
@@ -47,7 +51,11 @@ function getAttackerNames(att) {
   return (
     <MultilineCell>
       {charNode}
-      <EntityName>{att.ally.name}</EntityName>
+      <EntityName onClick={stopPropagation}>
+        <Link to={`/alliance/${att.ally.id}`}>
+          {att.ally.name}
+        </Link>
+      </EntityName>
     </MultilineCell>
   )
 }
@@ -117,6 +125,7 @@ const columnsObject = {
     render: ({ vict }) => (
       <OrgIcon
         mini
+        link
         ally={vict.ally && vict.ally.id}
         corp={vict.corp.id}
         names={null}
@@ -144,12 +153,24 @@ const columnsObject = {
         </CharName>
       ) : null
 
+      const orgNode = vict.ally?.name ? (
+        <Link to={`/alliance/${vict.ally.id}`}>
+          {orgName}
+        </Link>
+      ) : (
+        <Link to={`/corporation/${vict.corp?.id}`}>
+          {orgName}{/* <ShipName>corp</ShipName> */}
+        </Link>
+      )
+
       return (
         <MultilineCell>
           <EntityName nowrap>
             {charNode} <ShipName>({vict.ship.name})</ShipName>
           </EntityName>
-          <EntityName>{orgName}</EntityName>
+          <EntityName nowrap onClick={stopPropagation}>
+            {orgNode}
+          </EntityName>
         </MultilineCell>
       )
     },
@@ -207,8 +228,8 @@ export const columns = [
   getColumn('system'),
   getColumn('victimAllyIcon'),
   getColumn('victimName'),
-  getColumn('attAllyIcon'),
   getColumn('attShipIcon'),
+  getColumn('attAllyIcon'),
   getColumn('attName'),
 ]
 
@@ -216,7 +237,7 @@ export const mobileColumns = [
   getColumn('shipIconMini', '40px'),
   getColumn('system', '40%'), // '110px'),
   getColumn('victimAllyIconMini', '40px'),
-  getColumn('victimName', '50%'),
+  getColumn('victimName', '56%'),
   // getColumn('attAllyIcon', '40px'),
   // getColumn('attShipIcon', '40px'),
   // getColumn('attName'),

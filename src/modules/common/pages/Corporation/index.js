@@ -5,32 +5,31 @@ import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 
-import ConstellationSummary from './ConstellationSummary'
+import CorporationSummary from './CorporationSummary'
 
-const Constellation = () => {
-  const constellationID = Number(useParams().constellationID)
+const Corporation = () => {
+  const corpID = Number(useParams().corpID)
   const [stats, setStats] = useState(null)
 
-  // console.log('constellationID:', constellationID)
-
-  if (!constellationID) {
+  if (!corpID) {
     return <Redirect to='/' />
   }
 
-  async function getConstellationStats() {
+  async function getCorporationStats() {
     try {
-      const { data } = await KillmailService.getStats({ constellationID })
+      const { data } = await KillmailService.getStats({ corpID })
       setStats(data)
     } catch (e) {
-      console.error('getConstellationStats:', e.message || e)
+      console.error('getCorporationStats:', e.message || e)
     }
   }
 
   useEffect(() => {
-    if (constellationID) {
-      getConstellationStats()
+    if (corpID) {
+      setStats(null)
+      getCorporationStats()
     }
-  }, [constellationID])
+  }, [corpID])
 
   if (!stats) {
     return null
@@ -39,13 +38,13 @@ const Constellation = () => {
   return (
     <PageLayout>
       <Fragment key='head'>
-        <ConstellationSummary stats={stats} />
+        <CorporationSummary stats={stats} />
       </Fragment>
       <Fragment key='content'>
-        <KillmailsTable constellationID={constellationID} />
+        <KillmailsTable corpID={corpID} />
       </Fragment>
     </PageLayout>
   )
 }
 
-export default Constellation
+export default Corporation
