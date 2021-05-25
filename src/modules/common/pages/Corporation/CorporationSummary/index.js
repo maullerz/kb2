@@ -6,7 +6,7 @@ import { getCorpUrl } from 'utils/KillmailUtils'
 import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
 
 const CorporationSummary = ({ stats }) => {
-  const { id, name } = stats
+  const { id, name, allyID } = stats
 
   // console.log('stats:', JSON.stringify(stats, null, 2))
 
@@ -25,14 +25,16 @@ const CorporationSummary = ({ stats }) => {
             </Link>
           </div>
         </Row>
-        <Row>
-          <Label>Alliance:</Label>
-          <div>
-            <Link to={`/alliance/${0}`}>
-              ally name
-            </Link>
-          </div>
-        </Row>
+        {allyID &&
+          <Row>
+            <Label>Alliance:</Label>
+            <div>
+              <Link to={`/alliance/${0}`}>
+                ally name
+              </Link>
+            </div>
+          </Row>
+        }
       </InfoBlock>
     </Root>
   )

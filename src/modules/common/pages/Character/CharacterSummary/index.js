@@ -6,7 +6,7 @@ import { getCharUrl } from 'utils/KillmailUtils'
 import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
 
 const CharacterSummary = ({ stats }) => {
-  const { id, name } = stats
+  const { id, name, corpID, allyID } = stats
 
   // console.log('stats:', JSON.stringify(stats, null, 2))
 
@@ -25,22 +25,26 @@ const CharacterSummary = ({ stats }) => {
             </Link>
           </div>
         </Row>
-        <Row>
-          <Label>Corporation:</Label>
-          <div>
-            <Link to={`/corporation/${0}`}>
-              corp name
-            </Link>
-          </div>
-        </Row>
-        <Row>
-          <Label>Alliance:</Label>
-          <div>
-            <Link to={`/alliance/${0}`}>
-              ally name
-            </Link>
-          </div>
-        </Row>
+        {corpID &&
+          <Row>
+            <Label>Corporation:</Label>
+            <div>
+              <Link to={`/corporation/${0}`}>
+                corp name
+              </Link>
+            </div>
+          </Row>
+        }
+        {allyID &&
+          <Row>
+            <Label>Alliance:</Label>
+            <div>
+              <Link to={`/alliance/${0}`}>
+                ally name
+              </Link>
+            </div>
+          </Row>
+        }
       </InfoBlock>
     </Root>
   )
