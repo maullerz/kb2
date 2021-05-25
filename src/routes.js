@@ -8,6 +8,8 @@ import System from 'modules/common/pages/System'
 import Constellation from 'modules/common/pages/Constellation'
 import Region from 'modules/common/pages/Region'
 
+import Character from 'modules/common/pages/Character'
+
 // import Orders from 'modules/market/pages/Orders'
 // import CallbackRoute from 'modules/market/pages/CallbackRoute'
 
@@ -30,6 +32,8 @@ const MainRoutes = () => {
         <Route path='/system/:systemID' component={System} exact />
         <Route path='/constellation/:constellationID' component={Constellation} exact />
         <Route path='/region/:regionID' component={Region} exact />
+
+        <Route path='/character/:charID' component={Character} exact />
         {/*
         <Route path='/orders' component={Orders} />
         <Route path='/callback' component={CallbackRoute} />

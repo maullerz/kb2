@@ -10,13 +10,25 @@ import InvolvedCountBadge from 'modules/common/components/InvolvedCountBadge'
 
 import { Sum, Time, EntityName, CharName, ShipName, MultilineCell, SystemName } from './styles'
 
+const stopPropagation = event => {
+  event.stopPropagation()
+}
+
+const BIL = 1_000_000_000
+
 function getAttackerNames(att) {
   const hasAlly = att.ally
   const hasCorp = att.corp
   const shipName = att.ship?.name || ''
   const attackerName = att.char?.name || ''
   const charNode = attackerName
-    ? <CharName>{attackerName}</CharName>
+    ? (
+      <CharName onClick={stopPropagation}>
+        <Link to={`/character/${att.char.id}`}>
+          {attackerName}
+        </Link>
+      </CharName>
+    )
     : <EntityName>{shipName}</EntityName>
 
   if (!hasAlly && !hasCorp) {
@@ -39,12 +51,6 @@ function getAttackerNames(att) {
     </MultilineCell>
   )
 }
-
-const stopPropagation = event => {
-  event.stopPropagation()
-}
-
-const BIL = 1_000_000_000
 
 const columnsObject = {
   timeAndSum: {
@@ -126,14 +132,22 @@ const columnsObject = {
       if (!vict.char) {
         // console.error('vict:', vict)
       }
-      const name = `${vict.char?.name || ''}`
+      const name = vict.char?.name || ''
       // slice is for such things - Federation of Respect Honor Passion Alliance.
       const orgName = String(vict.ally?.name || vict.corp?.name).slice(0, 40)
+
+      const charNode = name ? (
+        <CharName onClick={stopPropagation}>
+          <Link to={`/character/${vict.char.id}`}>
+            {name}
+          </Link>
+        </CharName>
+      ) : null
 
       return (
         <MultilineCell>
           <EntityName nowrap>
-            <CharName>{name}</CharName> <ShipName>({vict.ship.name})</ShipName>
+            {charNode} <ShipName>({vict.ship.name})</ShipName>
           </EntityName>
           <EntityName>{orgName}</EntityName>
         </MultilineCell>

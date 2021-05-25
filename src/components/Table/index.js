@@ -11,13 +11,28 @@ import { TableRoot, Head, Body, Row, Cell, DayRow } from './styles'
 // TODO
 // https://material-ui.com/components/pagination/
 
+const checkForVictim = (data, params) => {
+  if (params.charID && data.vict.char.id === params.charID) {
+    return true
+  }
+  if (params.corpID && data.vict.corp.id === params.corpID) {
+    return true
+  }
+  if (params.allyID && data.vict.ally.id === params.allyID) {
+    return true
+  }
+  return false
+}
+
 const Table = props => {
   const {
-    columns, items, isLoading, sortBy,
+    columns, items, isLoading, sortBy, params,
     onRowClick, onSortBy, onNoContent, isDesktop,
     // onRenderControls,
     // pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
   } = props
+
+  const isVictimCheck = params.charID || params.corpID || params.allyID
 
   // What TO DO?
 
@@ -70,9 +85,12 @@ const Table = props => {
       }
     }
 
+    const isVictim = isVictimCheck && checkForVictim(item, params)
+
     return (
       <Row
         key={id}
+        isVictim={isVictim}
         isDesktop={isDesktop}
         onClick={handleRowClick}
       >

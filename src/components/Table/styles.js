@@ -101,6 +101,14 @@ export const Row = styled.div`
     border: 1px solid #96CEF6;
     border-radius: 4px;
   }
+
+  ${p => p.isVictim && `
+    background: #480000;
+
+    :hover {
+      background: rgba(72, 0, 0, 0.75);
+    }
+  `}
 `
 
 export const Cell = styled.div`

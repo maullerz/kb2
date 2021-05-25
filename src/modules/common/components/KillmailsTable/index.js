@@ -21,7 +21,6 @@ const reducerFunc = (prevState, newState) => ({
 
 const KillmailsTable = props => {
   const history = useHistory()
-  const { systemID, constellationID, regionID } = props
 
   const isDesktop = useMediaQuery('(min-width: 728px)')
   const [state, setState] = useReducer(reducerFunc, {
@@ -60,7 +59,9 @@ const KillmailsTable = props => {
         setState({ items: devKillmails, isLoading: false, totalPages: 1, totalCount: items.length })
         console.log('devKillmails[6]:', devKillmails[6])
       } else {
-        const params = { systemID, constellationID, regionID }
+        // const { systemID, constellationID, regionID } = props
+        // const params = { systemID, constellationID, regionID }
+        const params = props
         const { data } = await KillmailService.getKillmails(params)
         if (IS_DEV) {
           console.log('data[0]:', data[0])
@@ -75,7 +76,7 @@ const KillmailsTable = props => {
 
   useEffect(() => {
     getKillmails()
-  }, [])
+  }, [props])
 
   useEffect(() => {
     ReactTooltip.rebuild()
@@ -108,6 +109,7 @@ const KillmailsTable = props => {
   return (
     <Table
       items={items}
+      params={props}
       isDesktop={isDesktop}
       columns={isDesktop ? columns : mobileColumns}
       isLoading={isLoading}

@@ -17,7 +17,8 @@ export const InvolvedCountText = styled.div`
   padding: 0 5px;
   font-size: 10px;
   font-weight: 900;
-  color: #888;
+  // color: #888;
+  color: white;
   border: 1px solid #888;
   border-radius: 4px;
   background-color: var(--pageLayoutBackground);

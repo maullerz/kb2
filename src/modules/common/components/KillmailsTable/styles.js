@@ -6,6 +6,14 @@ export const Time = styled.span`
 
 export const CharName = styled.span`
   color: gold;
+
+  a {
+    color: gold;
+  }
+
+  a:hover, a:active {
+    text-decoration: underline;
+  }
 `
 
 export const ShipName = styled.span`
