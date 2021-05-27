@@ -16,14 +16,14 @@ export const InfoBlock = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 300px;
+  max-width: 400px;
   margin-left: 10px;
   border-top: 1px solid #333;
   font-size: 14px;
 
   @media (max-width: 400px) {
     margin-left: 5px;
-    font-size: 12px;
+    font-size: 10px;
   }
 `
 
@@ -44,9 +44,14 @@ export const Row = styled.div`
 
 export const Label = styled.div`
   font-weight: bold;
-  min-width: 110px;
+  min-width: 90px;
 
   @media (max-width: 400px) {
-    min-width: 100px;
+    min-width: 60px;
   }
+`
+
+export const Ticker = styled.span`
+  color: #888;
+  font-weight: bold;
 `

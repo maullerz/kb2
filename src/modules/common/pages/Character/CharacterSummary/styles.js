@@ -16,7 +16,7 @@ export const InfoBlock = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 300px;
+  max-width: 400px;
   margin-left: 10px;
   border-top: 1px solid #333;
   font-size: 14px;
@@ -24,6 +24,25 @@ export const InfoBlock = styled.div`
   @media (max-width: 400px) {
     margin-left: 5px;
     font-size: 12px;
+  }
+`
+
+export const LogosBlock = styled.div`
+  display: flex;
+  flex-direction: column;
+  // justify-content: space-between;
+  margin-left: 10px;
+
+  > a {
+    margin-bottom: 10px;
+  }
+
+  @media (max-width: 400px) {
+    margin-left: 5px;
+
+    > a {
+      margin-bottom: 5px;
+    }
   }
 `
 

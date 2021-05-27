@@ -44,9 +44,9 @@ export const Row = styled.div`
 
 export const Label = styled.div`
   font-weight: bold;
-  min-width: 110px;
+  min-width: 70px;
 
   @media (max-width: 400px) {
-    min-width: 100px;
+    min-width: 60px;
   }
 `

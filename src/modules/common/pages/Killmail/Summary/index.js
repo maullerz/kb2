@@ -3,8 +3,7 @@ import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'
-import CharIcon from 'components/icons/CharIcon'
-import OrgIcon from 'components/icons/OrgIcon'
+import { CharIcon, OrgIcon } from 'components'
 import { CharName, CorpName, AllyName } from 'components/primitives'
 
 import { Root, Head, HeadIcons, Names, Label, Row } from './styles'
