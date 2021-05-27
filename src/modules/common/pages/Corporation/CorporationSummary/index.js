@@ -2,8 +2,9 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 import { getCorpUrl } from 'utils/KillmailUtils'
+import { PageImgRect } from 'components/primitives'
 
-import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
+import { Root, InfoBlock, Row, Label } from './styles'
 
 const CorporationSummary = ({ stats }) => {
   const { id, name, allyID } = stats
@@ -12,9 +13,7 @@ const CorporationSummary = ({ stats }) => {
 
   return (
     <Root>
-      <ImgRect>
-        <img width='100' height='100' src={getCorpUrl(id, 256)} alt='corporation logo' />
-      </ImgRect>
+      <PageImgRect src={getCorpUrl(id, 256)} alt='corporation logo' />
 
       <InfoBlock>
         <Row>

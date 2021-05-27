@@ -97,6 +97,22 @@ const Table = props => {
         {columns.map(col => renderCell(item, col))}
       </Row>
     )
+
+    // <Link to={`/kill/${item._id}`} />
+    // return (
+    //   <RowWrapper key={id}>
+
+    //     <Row
+    //       // key={id}
+    //       isVictim={isVictim}
+    //       isDesktop={isDesktop}
+    //       // onClick={handleRowClick}
+    //     >
+    //       <Link to={`/kill/${item._id}`} />
+    //       {columns.map(col => renderCell(item, col))}
+    //     </Row>
+    //   </RowWrapper>
+    // )
   }
 
   function renderBody() {

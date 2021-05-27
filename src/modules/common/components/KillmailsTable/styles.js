@@ -10,10 +10,6 @@ export const CharName = styled.span`
   a {
     color: gold;
   }
-
-  a:hover, a:active {
-    text-decoration: underline;
-  }
 `
 
 export const ShipName = styled.span`
@@ -26,10 +22,6 @@ export const Sum = styled.div`
 
 export const EntityName = styled.div`
   color: white;
-
-  a:hover, a:active {
-    text-decoration: underline;
-  }
 
   ${p => p.nowrap && `
     white-space: nowrap;
@@ -61,9 +53,5 @@ export const SystemName = styled.div`
 
   span {
     font-size: 12px;
-  }
-
-  a:hover, a:active {
-    text-decoration: underline;
   }
 `

@@ -77,13 +77,13 @@ const columnsObject = {
     },
   },
   shipIcon: {
-    width: '50px', title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
+    width: '50px', title: 'Ship', // link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
       <ItemIcon id={km.vict.ship.id} tooltip />
     ),
   },
   shipIconMini: {
-    width: '50px', title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
+    width: '50px', title: 'Ship', padLeft: 5, // link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
       <ItemIcon id={km.vict.ship.id} tooltip mini />
     ),
@@ -234,12 +234,12 @@ export const columns = [
 ]
 
 export const mobileColumns = [
-  getColumn('shipIconMini', '40px'),
+  getColumn('timeAndSum', '56px'),
+  getColumn('shipIconMini', '46px'),
   getColumn('system', '40%'), // '110px'),
   getColumn('victimAllyIconMini', '40px'),
   getColumn('victimName', '56%'),
   // getColumn('attAllyIcon', '40px'),
   // getColumn('attShipIcon', '40px'),
   // getColumn('attName'),
-  getColumn('timeAndSum', '56px'),
 ]

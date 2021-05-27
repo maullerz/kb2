@@ -50,9 +50,3 @@ export const Label = styled.div`
     min-width: 100px;
   }
 `
-
-export const ImgRect = styled.div`
-  width: 102px;
-  height: 102px;
-  border: 1px solid #333;
-`

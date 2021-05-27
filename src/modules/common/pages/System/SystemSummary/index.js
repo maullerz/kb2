@@ -2,8 +2,9 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 import * as SdeUtils from 'utils/SdeUtils'
+import { PageImgRect } from 'components/primitives'
 
-import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
+import { Root, InfoBlock, Row, Label } from './styles'
 
 const QUALITY = 256
 
@@ -19,9 +20,7 @@ const SystemSummary = ({ stats }) => {
 
   return (
     <Root>
-      <ImgRect>
-        <img width='100' height='100' src={getImgUrl(sunTypeID)} alt='system sun' />
-      </ImgRect>
+      <PageImgRect src={getImgUrl(sunTypeID)} alt='system sun' />
 
       <InfoBlock>
         <Row>

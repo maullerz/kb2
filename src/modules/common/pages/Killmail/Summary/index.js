@@ -5,12 +5,12 @@ import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'
 import CharIcon from 'components/icons/CharIcon'
 import OrgIcon from 'components/icons/OrgIcon'
+import { CharName, CorpName, AllyName } from 'components/primitives'
 
-import { Root, Head, CharName, HeadIcons, CorpAllyGroup, Label, Row } from './styles'
+import { Root, Head, HeadIcons, CorpAllyGroup, Label, Row } from './styles'
 
 const redColor = { color: 'red' }
 const whiteColor = { color: 'white' }
-const greyColor = { color: 'grey' }
 const greenColor = { color: 'var(--colorGreen)' }
 const noWrap = { whiteSpace: 'nowrap' }
 
@@ -27,21 +27,17 @@ const Summary = ({ kmData }) => {
       <Head>
         <CharIcon id={vict.char} />
         <HeadIcons>
-          <OrgIcon corp={vict.corp} names={names} />
+          <OrgIcon link corp={vict.corp} names={names} />
           {!!vict.ally &&
-            <OrgIcon ally={vict.ally} names={names} />
+            <OrgIcon link ally={vict.ally} names={names} />
           }
         </HeadIcons>
 
         <CorpAllyGroup>
-          <CharName>
-            {names.chars[vict.char]}
-          </CharName>
-          <div style={greyColor}>
-            {names.corps[vict.corp]}
-          </div>
+          <CharName id={vict.char} name={names.chars[vict.char]} />
+          <CorpName id={vict.corp} name={names.corps[vict.corp]} />
           {names.allys[vict.ally]
-            ? <div>{names.allys[vict.ally]}</div>
+            ? <AllyName id={vict.ally} name={names.allys[vict.ally]} />
             : <div>&nbsp;</div>
           }
         </CorpAllyGroup>

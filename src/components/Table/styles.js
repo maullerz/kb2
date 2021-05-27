@@ -74,16 +74,16 @@ export const Body = styled.div`
 `
 
 export const Row = styled.div`
+  cursor: pointer;
   position: relative;
   display: flex;
   align-items: center;
-  // height: 48px;
   height: 52px;
   padding: 0 5px;
 
-  ${p => !p.isDesktop && `
-    padding: 0 10px;
-  `}
+  // ${p => !p.isDesktop && `
+  //   padding: 0 10px;
+  // `}
 
   font-family: Verdana;
   font-style: normal;
@@ -95,6 +95,7 @@ export const Row = styled.div`
   line-height: 120%;
   color: var(--tableRowTextColor);
   border: 1px solid transparent;
+  border-bottom: 1px solid black;
 
   :hover {
     background: rgba(150, 206, 246, 0.15);

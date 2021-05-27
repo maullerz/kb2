@@ -1,9 +1,10 @@
-import React, { useReducer, useEffect } from 'react'
-import { useHistory } from 'react-router-dom'
+import React, { useReducer, useEffect, useCallback } from 'react'
+// import { useHistory } from 'react-router-dom'
 // import { useDispatch, useSelector } from 'react-redux'
 import useMediaQuery from 'react-hook-media-query'
 import ReactTooltip from 'react-tooltip'
 
+import history from 'services/routerHistory'
 import KillmailService from 'api/KillmailService'
 import { Table, NoContent } from 'components'
 
@@ -19,9 +20,26 @@ const reducerFunc = (prevState, newState) => ({
   ...newState,
 })
 
-const KillmailsTable = props => {
-  const history = useHistory()
+function handleRowClick(km) {
+  history.push(`/kill/${km._id}`)
+}
 
+function renderNoContent() {
+  // const isSearchEmpty = (items.length === 0 && searchFilter)
+  // const descr = isSearchEmpty
+  //   ? 'Try to adjust your search to find what you are looking for.'
+  //   : 'Once they are added, they will appear here.'
+  const title = 'No results found.'
+  const descr = 'Try to adjust your search to find what you are looking for.'
+  return (
+    <NoContent
+      title={title}
+      descr={descr}
+    />
+  )
+}
+
+const KillmailsTable = props => {
   const isDesktop = useMediaQuery('(min-width: 728px)')
   const [state, setState] = useReducer(reducerFunc, {
     items: [],
@@ -32,25 +50,21 @@ const KillmailsTable = props => {
   })
   const { items, isLoading, page, totalPages, totalCount } = state
 
-  function handleRowClick(km) {
-    history.push(`/kill/${km._id}`)
-  }
-
   // function handleSortBy(newSortBy) {
   //   dispatch(GlobalContactsActions.setContactsSortBy(newSortBy))
   // }
 
-  function handlePrevPageClick() {
+  const handlePrevPageClick = useCallback(() => {
     setState({ page: page - 1 })
-  }
+  }, [])
 
-  function handleNextPageClick() {
+  const handleNextPageClick = useCallback(() => {
     setState({ page: page + 1 })
-  }
+  }, [])
 
-  function handleGoToPage(selectedPage) {
+  const handleGoToPage = useCallback(selectedPage => {
     setState({ page: selectedPage })
-  }
+  }, [])
 
   async function getKillmails() {
     // onSuccess(page, sortBy)
@@ -91,20 +105,12 @@ const KillmailsTable = props => {
   //   handleSortBy(null)
   // }, [contactPosition])
 
-  function renderNoContent() {
-    // const isSearchEmpty = (items.length === 0 && searchFilter)
-    // const descr = isSearchEmpty
-    //   ? 'Try to adjust your search to find what you are looking for.'
-    //   : 'Once they are added, they will appear here.'
-    const title = 'No results found.'
-    const descr = 'Try to adjust your search to find what you are looking for.'
-    return (
-      <NoContent
-        title={title}
-        descr={descr}
-      />
-    )
-  }
+  const pagination = useCallback(() => ({
+    page,
+    totalPages,
+    itemsCount: items.length,
+    totalCount,
+  }), [page, totalPages, items, totalCount])
 
   return (
     <Table
@@ -118,12 +124,7 @@ const KillmailsTable = props => {
       // onSortBy={handleSortBy}
       // sortBy={sortBy}
 
-      pagination={{
-        page,
-        totalPages,
-        itemsCount: items.length,
-        totalCount,
-      }}
+      pagination={pagination}
       onPrevPage={handlePrevPageClick}
       onNextPage={handleNextPageClick}
       onGoToPage={handleGoToPage}

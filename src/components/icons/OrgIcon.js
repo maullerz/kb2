@@ -49,12 +49,12 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj }) => {
 
   const node = (
     <OrgIconContainer mini={mini || !isDesktop} data-tip={getTooltipString()}>
-      <Image src={iconUrl} mini={mini || !isDesktop} alt={alt} />
+      <Image org src={iconUrl} mini={mini || !isDesktop} alt={alt} />
     </OrgIconContainer>
   )
 
-  // TODO:
-  if (link && !isProd) {
+  // TODO: ? && !isProd
+  if (link) {
     const url = ally ? `/alliance/${ally}` : `/corporation/${corp}`
     return (
       <Link to={url}>

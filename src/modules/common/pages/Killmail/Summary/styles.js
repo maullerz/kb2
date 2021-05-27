@@ -37,11 +37,6 @@ export const CorpAllyGroup = styled.div`
   }
 `
 
-export const CharName = styled.div`
-  font-weight: bold;
-  color: gold;
-`
-
 export const Label = styled.div`
   font-weight: bold;
   min-width: 111px;

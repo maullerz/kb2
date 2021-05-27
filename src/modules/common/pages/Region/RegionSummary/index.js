@@ -1,14 +1,16 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import { Root, InfoBlock, Row, Label, ImgRect } from './styles'
+import { PageImgRect } from 'components/primitives'
+
+import { Root, InfoBlock, Row, Label } from './styles'
 
 const RegionSummary = ({ stats }) => {
   // console.log('stats:', JSON.stringify(stats, null, 2))
 
   return (
     <Root>
-      <ImgRect />
+      <PageImgRect />
       <InfoBlock>
         <Row>
           <Label>Region:</Label>
