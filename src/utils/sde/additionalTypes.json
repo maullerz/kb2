@@ -90,5 +90,30 @@
     "graphicID": 58,
     "groupID": 1665,
     "name": "EoM Hoplokrisma"
+  },
+  "47437": {
+    "groupID": 1981,
+    "name": "Short-Range Deviant Automata Suppressor",
+    "graphicID": 22035
+  },
+  "47438": {
+    "groupID": 1981,
+    "name": "Medium-Range Deviant Automata Suppressor",
+    "graphicID": 22035
+  },
+  "47439": {
+    "groupID": 1971,
+    "name": "Small Bioluminescence Cloud",
+    "graphicID": 22077
+  },
+  "47440": {
+    "groupID": 1971,
+    "name": "Medium Bioluminescence Cloud",
+    "graphicID": 22080
+  },
+  "47441": {
+    "groupID": 1971,
+    "name": "Large Bioluminescence Cloud",
+    "graphicID": 22081
   }
 }
