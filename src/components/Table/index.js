@@ -21,6 +21,9 @@ const checkForVictim = (data, params) => {
   if (params.allyID && data.vict.ally.id === params.allyID) {
     return true
   }
+  if (params.shipID && data.vict.ship.id === params.shipID) {
+    return true
+  }
   return false
 }
 
@@ -32,7 +35,7 @@ const Table = props => {
     // pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
   } = props
 
-  const isVictimCheck = params.charID || params.corpID || params.allyID
+  const isVictimCheck = params.charID || params.corpID || params.allyID || params.shipID
 
   // What TO DO?
 

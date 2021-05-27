@@ -13,7 +13,7 @@ export const formatRaw = sum => numeral(sum).format('0,0')
 // only three significant digits
 const numberFormat = sum => {
   if (sum >= 100 * oneBillion) {
-    return '0.0a'
+    return '0a'
   }
   if (sum >= 10 * oneBillion) {
     return '0.0a'

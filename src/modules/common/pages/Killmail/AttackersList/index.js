@@ -28,7 +28,7 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
 
         <IconsGroup>
           <div>
-            <ItemIcon id={att.ship} tooltip />
+            <ItemIcon id={att.ship} link tooltip />
             <ItemIcon id={att.weap || att.ship} tooltip />
           </div>
         </IconsGroup>

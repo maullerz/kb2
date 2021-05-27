@@ -28,6 +28,7 @@ const Constellation = () => {
 
   useEffect(() => {
     if (constellationID) {
+      setStats(null)
       getConstellationStats()
     }
   }, [constellationID])

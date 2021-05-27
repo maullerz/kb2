@@ -12,6 +12,8 @@ import Character from 'modules/common/pages/Character'
 import Corporation from 'modules/common/pages/Corporation'
 import Alliance from 'modules/common/pages/Alliance'
 
+import Ship from 'modules/common/pages/Ship'
+
 // import Orders from 'modules/market/pages/Orders'
 // import CallbackRoute from 'modules/market/pages/CallbackRoute'
 
@@ -38,6 +40,8 @@ const MainRoutes = () => {
         <Route path='/character/:charID' component={Character} exact />
         <Route path='/corporation/:corpID' component={Corporation} exact />
         <Route path='/alliance/:allyID' component={Alliance} exact />
+
+        <Route path='/ship/:shipID' component={Ship} exact />
 
         {/*
         <Route path='/orders' component={Orders} />

@@ -29,6 +29,7 @@ const System = () => {
 
   useEffect(() => {
     if (systemID) {
+      setStats(null)
       getSystemStats()
     }
   }, [systemID])

@@ -46,10 +46,19 @@ const Summary = ({ kmData }) => {
       <Row>
         <Label>Ship:</Label>
         <div>
-          <span>{SdeUtils.getTypeName(vict.ship)}</span>
+          <span>
+            <Link to={`/ship/${vict.ship}`}>
+              {SdeUtils.getTypeName(vict.ship)}
+            </Link>
+          </span>
           {` / `}
           <span style={noWrap}>
             {SdeUtils.getGroupName(vict.ship)}
+            {/*
+              <Link to={`/group/${SdeUtils.getGroupID(vict.ship)}`}>
+                {SdeUtils.getGroupName(vict.ship)}
+              </Link>
+            */}
           </span>
         </div>
       </Row>

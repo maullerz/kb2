@@ -29,6 +29,7 @@ const Region = () => {
 
   useEffect(() => {
     if (regionID) {
+      setStats(null)
       getRegionStats()
     }
   }, [regionID])
