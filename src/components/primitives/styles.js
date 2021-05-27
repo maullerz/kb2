@@ -32,6 +32,10 @@ export const ShipName = styled.div`
   }
 `
 
+export const CharShipName = styled.span`
+  color: #555;
+`
+
 export const ImgRect = styled.div`
   width: 102px;
   height: 102px;

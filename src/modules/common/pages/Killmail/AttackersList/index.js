@@ -4,14 +4,14 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 
 import { getTypeName, getGroupName } from 'utils/SdeUtils'
 import useBooleanToggle from 'utils/hooks/useBooleanToggle'
-import CharIcon from 'components/icons/CharIcon'
-import ItemIcon from 'components/icons/ItemIcon'
-import OrgIcon from 'components/icons/OrgIcon'
+import { CharIcon, ItemIcon, OrgIcon } from 'components'
+import { CharName, CorpName, AllyName } from 'components/primitives'
 
 import {
   Root, ListItem, Char, IconsGroup,
-  Names, ShipName, AllyName, CorpAllyIcons,
+  Names, CorpAllyIcons,
   DmgCol, DmgDigits, DmgPerc, Expander,
+  SpaceBetween,
 } from './styles'
 
 const MAX_ITEMS = 10
@@ -19,17 +19,12 @@ const MAX_ITEMS = 10
 const Attacker = ({ att, names, totalDmg, isNPC }) => {
   // TODO: do not show group for NPC
   const groupName = getGroupName(att.ship)
-  const shipName = att.ship ? (
-    <>
-      {/* <span>{getTypeName(att.ship)}</span> <span>{`(${})`}</span> */}
-      <div>{getTypeName(att.ship) || groupName}</div>
-    </>
-  ) : undefined
+  const shipName = att.ship ? getTypeName(att.ship) || groupName : undefined
   return (
     <ListItem finalBlow={!isNPC && att.blow}>
 
       <Char>
-        <CharIcon id={att.char} corp={att.corp} />
+        <CharIcon link id={att.char} corp={att.corp} />
 
         <IconsGroup>
           <div>
@@ -39,41 +34,39 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
         </IconsGroup>
       </Char>
 
-      <Names>
-        <div>
-          {att.char ? names.chars[att.char] : names.types[att.ship]}
-        </div>
-        {false &&
-          <ShipName>
-            {shipName}
-          </ShipName>
-        }
-        {names.corps[att.corp]
-          ? <div>{names.corps[att.corp]}</div>
-          : <div>&nbsp;</div>
-        }
-        {names.allys[att.ally]
-          ? <AllyName>{names.allys[att.ally]}</AllyName>
-          : null
-        }
-      </Names>
-
-      <DmgCol>
-        <DmgDigits>
-          <div>{numeral(att.dmg).format('0,0')}</div>
-          <DmgPerc>
-            {numeral(att.dmg / totalDmg).format('0,0.0%')}
-          </DmgPerc>
-        </DmgDigits>
-
-        <CorpAllyIcons>
-          {att.ally
-            ? <OrgIcon ally={att.ally} names={names} />
-            : null
+      <SpaceBetween>
+        <Names>
+          {att.char
+            ? <CharName id={att.char} name={names.chars[att.char]} ship={shipName} />
+            : <div>{names.types[att.ship]}</div>
           }
-          <OrgIcon corp={att.corp} names={names} />
-        </CorpAllyIcons>
-      </DmgCol>
+          {names.corps[att.corp]
+            ? <CorpName id={att.corp} name={names.corps[att.corp]} />
+            : <div>&nbsp;</div>
+          }
+          {names.allys[att.ally]
+            ? <AllyName id={att.ally} name={names.allys[att.ally]} />
+            : <div>&nbsp;</div>
+          }
+        </Names>
+
+        <DmgCol>
+          <DmgDigits>
+            <div>{numeral(att.dmg).format('0,0')}</div>
+            <DmgPerc>
+              {numeral(att.dmg / totalDmg).format('0,0.0%')}
+            </DmgPerc>
+          </DmgDigits>
+
+          <CorpAllyIcons>
+            {att.ally
+              ? <OrgIcon link mini ally={att.ally} names={names} />
+              : null
+            }
+            <OrgIcon link mini corp={att.corp} names={names} />
+          </CorpAllyIcons>
+        </DmgCol>
+      </SpaceBetween>
     </ListItem>
   )
 }

@@ -9,7 +9,11 @@ const emptyUrl = 'https://images.evetech.net/corporations/1/logo?size=64'
 
 const isProd = process.env.NODE_ENV === 'production'
 
-const OrgIcon = ({ ally, corp, mini, link, names, nameObj }) => {
+const stopPropagation = event => {
+  event.stopPropagation()
+}
+
+const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg }) => {
   const isDesktop = true // useMediaQuery('(min-width: 728px)')
 
   if (!ally && !corp) {
@@ -26,7 +30,13 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj }) => {
     : `corp-${corp}`
 
   function getTooltipString() {
-    if (nameObj) return nameObj.name
+    if (nameObj && showOrg) {
+      if (ally) return `alliance:<br/>${nameObj.name}`
+      return `corporation:<br/>${nameObj.name}`
+    }
+    if (nameObj) {
+      return nameObj.name
+    }
 
     if (!names) {
       if (isProd) return undefined
@@ -53,11 +63,10 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj }) => {
     </OrgIconContainer>
   )
 
-  // TODO: ? && !isProd
   if (link) {
     const url = ally ? `/alliance/${ally}` : `/corporation/${corp}`
     return (
-      <Link to={url}>
+      <Link to={url} onClick={stopPropagation}>
         {node}
       </Link>
     )

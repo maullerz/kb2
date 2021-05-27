@@ -16,7 +16,7 @@ export const Root = styled.div`
 export const ListItem = styled.div`
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  // justify-content: space-between;
   padding: 10px;
   margin-bottom: 5px;
   background-color: #181818;
@@ -60,35 +60,51 @@ export const IconsGroup = styled.div`
   }
 `
 
+// export const Names = styled.div`
+//   flex: 1 0;
+//   display: flex;
+//   flex-direction: column;
+//   // justify-content: space-between;
+//   margin: 0 10px;
+//   padding: 5px 0;
+//   font-size: 12px;
+
+//   @media (max-width: 767px) {
+//     margin: 0 5px;
+
+//     white-space: nowrap;
+//     text-overflow: ellipsis;
+//     overflow: hidden;
+//   }
+
+//   > div {
+//     color: grey;
+//   }
+
+//   > div:nth-child(2) {
+//     margin: 10px 0;
+//   }
+
+//   > div:first-child {
+//     color: gold;
+//     /*font-size: 14px;*/
+//   }
+// `
+
 export const Names = styled.div`
-  flex: 1 0;
   display: flex;
   flex-direction: column;
-  // justify-content: space-between;
-  margin: 0 10px;
-  padding: 5px 0;
+  justify-content: space-between;
+  margin-left: 7px;
   font-size: 12px;
+  flex-grow: 1;
+  flex-basis: 100%;
+`
 
-  @media (max-width: 767px) {
-    margin: 0 5px;
-
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-  }
-
-  > div {
-    color: grey;
-  }
-
-  > div:nth-child(2) {
-    margin: 10px 0;
-  }
-
-  > div:first-child {
-    color: gold;
-    /*font-size: 14px;*/
-  }
+export const SpaceBetween = styled.div`
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
 `
 
 export const ShipName = styled.div`
@@ -107,7 +123,7 @@ export const CorpAllyIcons = styled.div`
   flex-direction: row;
   justify-content: flex-end;
 
-  > div:last-child {
+  > a:last-child {
     margin-left: 2px;
   }
 `
@@ -124,10 +140,11 @@ export const DmgCol = styled.div`
 export const DmgDigits = styled.div`
   display: flex;
   flex-direction: column;
-  font-size: 12px;
+  font-size: 14px;
 `
 
 export const DmgPerc = styled.div`
+  margin-top: 3px;
   font-size: 12px;
   color: grey;
 `

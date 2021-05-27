@@ -23,10 +23,22 @@ export const Head = styled.div`
 export const HeadIcons = styled.div`
   display: flex;
   flex-direction: column;
-  margin-left: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
 `
 
 export const CorpAllyGroup = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 5px;
+
+  > div {
+    margin-bottom: 2px;
+  }
+`
+
+export const Names = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;

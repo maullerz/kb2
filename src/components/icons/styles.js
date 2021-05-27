@@ -22,14 +22,9 @@ export const Image = styled.img`
     height: ${miniSize};
   `}
 
-  ${p => p.org && `
-    width: ${normalSizeOrg};
-    height: ${normalSizeOrg};
-
-    ${({ mini }) => mini && `
-      width: ${miniSizeOrg};
-      height: ${miniSizeOrg};
-    `}
+  ${({ org, mini }) => org && `
+    width: ${mini ? miniSizeOrg : normalSizeOrg};
+    height: ${mini ? miniSizeOrg : normalSizeOrg};
   `}
 `
 
@@ -76,8 +71,5 @@ export const CharIconContainer = styled(IconContainer)`
   object-fit: contain;
   width: 80px;
   height: 80px;
-
-  ${p => p.corpBorder && `
-    border: 1px solid #333;
-  `}
+  border: 1px solid #333;
 `

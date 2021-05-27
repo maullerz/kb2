@@ -113,6 +113,8 @@ const columnsObject = {
     width: '50px', title: '',
     render: ({ vict }) => (
       <OrgIcon
+        link
+        showOrg
         ally={vict.ally && vict.ally.id}
         corp={vict.corp?.id}
         names={null}
@@ -126,6 +128,7 @@ const columnsObject = {
       <OrgIcon
         mini
         link
+        showOrg
         ally={vict.ally && vict.ally.id}
         corp={vict.corp.id}
         names={null}
@@ -190,6 +193,8 @@ const columnsObject = {
       const finalBlow = atts.find(att => att.blow) || atts[0]
       return (
         <OrgIcon
+          link
+          showOrg
           ally={finalBlow.ally && finalBlow.ally.id}
           corp={finalBlow.corp.id}
           names={null}

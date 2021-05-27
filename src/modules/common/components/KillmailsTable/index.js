@@ -119,6 +119,7 @@ const KillmailsTable = props => {
       isDesktop={isDesktop}
       columns={isDesktop ? columns : mobileColumns}
       isLoading={isLoading}
+
       onRowClick={handleRowClick}
       onNoContent={renderNoContent}
       // onSortBy={handleSortBy}

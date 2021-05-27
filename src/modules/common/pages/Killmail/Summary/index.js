@@ -7,7 +7,7 @@ import CharIcon from 'components/icons/CharIcon'
 import OrgIcon from 'components/icons/OrgIcon'
 import { CharName, CorpName, AllyName } from 'components/primitives'
 
-import { Root, Head, HeadIcons, CorpAllyGroup, Label, Row } from './styles'
+import { Root, Head, HeadIcons, Names, Label, Row } from './styles'
 
 const redColor = { color: 'red' }
 const whiteColor = { color: 'white' }
@@ -25,7 +25,7 @@ const Summary = ({ kmData }) => {
   return (
     <Root>
       <Head>
-        <CharIcon id={vict.char} />
+        <CharIcon id={vict.char} link />
         <HeadIcons>
           <OrgIcon link corp={vict.corp} names={names} />
           {!!vict.ally &&
@@ -33,14 +33,14 @@ const Summary = ({ kmData }) => {
           }
         </HeadIcons>
 
-        <CorpAllyGroup>
+        <Names>
           <CharName id={vict.char} name={names.chars[vict.char]} />
           <CorpName id={vict.corp} name={names.corps[vict.corp]} />
           {names.allys[vict.ally]
             ? <AllyName id={vict.ally} name={names.allys[vict.ally]} />
             : <div>&nbsp;</div>
           }
-        </CorpAllyGroup>
+        </Names>
       </Head>
 
       <Row>
