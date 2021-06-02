@@ -1,44 +1,44 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
 import { getRenderUrl } from 'utils/KillmailUtils'
-import { PageImgRect } from 'components/primitives'
+// import { PageImgRect } from 'components/primitives'
+import SummaryLayout from 'layouts/SummaryLayout'
 
-import { Root, InfoBlock, Row, Label } from './styles'
+import { Row, Label } from './styles'
 
 const ShipSummary = ({ stats }) => {
-  const { id, name, groupID, groupName } = stats
+  const { id, name, groupID, groupName } = stats || {}
 
   // console.log('stats:', JSON.stringify(stats, null, 2))
-
   return (
-    <Root>
-      <PageImgRect src={getRenderUrl(id)} alt='ship type' />
-
-      <InfoBlock>
-        <Row>
-          <Label>Ship:</Label>
-          <div>
-            <Link to={`/ship/${id}`}>
-              {name}
-            </Link>
-          </div>
-        </Row>
-        {groupID &&
+    <SummaryLayout imgProps={{ src: getRenderUrl(id), alt: 'ship type' }}>
+      {stats &&
+        <Fragment key='info'>
           <Row>
-            <Label>Group:</Label>
+            <Label>Ship:</Label>
             <div>
-              {groupName}
-              {/*
-                <Link to={`/group/${groupID}`}>
-                  {groupName}
-                </Link>
-              */}
+              <Link to={`/ship/${id}`}>
+                {name}
+              </Link>
             </div>
           </Row>
-        }
-      </InfoBlock>
-    </Root>
+          {groupID &&
+            <Row>
+              <Label>Group:</Label>
+              <div>
+                {groupName}
+                {/*
+                  <Link to={`/group/${groupID}`}>
+                    {groupName}
+                  </Link>
+                */}
+              </div>
+            </Row>
+          }
+        </Fragment>
+      }
+    </SummaryLayout>
   )
 }
 

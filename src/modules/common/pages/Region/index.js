@@ -34,10 +34,6 @@ const Region = () => {
     }
   }, [regionID])
 
-  if (!stats) {
-    return null
-  }
-
   return (
     <PageLayout>
       <Fragment key='head'>

@@ -33,10 +33,6 @@ const Character = () => {
     }
   }, [charID])
 
-  if (!stats) {
-    return null
-  }
-
   return (
     <PageLayout>
       <Fragment key='head'>

@@ -33,10 +33,6 @@ const Constellation = () => {
     }
   }, [constellationID])
 
-  if (!stats) {
-    return null
-  }
-
   return (
     <PageLayout>
       <Fragment key='head'>

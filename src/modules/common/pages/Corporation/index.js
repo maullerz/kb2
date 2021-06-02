@@ -31,10 +31,6 @@ const Corporation = () => {
     }
   }, [corpID])
 
-  if (!stats) {
-    return null
-  }
-
   return (
     <PageLayout>
       <Fragment key='head'>

@@ -40,10 +40,6 @@ const Ship = () => {
     }
   }, [shipID])
 
-  if (!stats) {
-    return null
-  }
-
   return (
     <PageLayout>
       <Fragment key='head'>

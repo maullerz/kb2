@@ -1,58 +1,59 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
 import { getCorpUrl } from 'utils/KillmailUtils'
-import { PageImgRect } from 'components/primitives'
+// import { PageImgRect } from 'components/primitives'
+import SummaryLayout from 'layouts/SummaryLayout'
 
-import { Root, InfoBlock, Row, Label, Ticker } from './styles'
+import { Row, Label, Ticker } from './styles'
 
 const CorporationSummary = ({ stats }) => {
-  const { id, name, ticker, ceoID, ceoName, allyID } = stats
+  const { id, name, ticker, ceoID, ceoName, allyID } = stats || {}
 
   // console.log('stats:', JSON.stringify(stats, null, 2))
 
   return (
-    <Root>
-      <PageImgRect src={getCorpUrl(id, 256)} alt='corporation logo' />
-
-      <InfoBlock>
-        <Row>
-          <Label>Corporation:</Label>
-          <div>
-            <Link to={`/corporation/${id}`}>
-              {name}
-            </Link>
-            <Ticker> [{ticker}]</Ticker>
-          </div>
-        </Row>
-        {ceoID && ceoName &&
+    <SummaryLayout imgProps={{ src: getCorpUrl(id, 256), alt: 'corporation logo' }}>
+      {stats &&
+        <Fragment key='info'>
           <Row>
-            <Label>CEO:</Label>
+            <Label>Corporation:</Label>
             <div>
-              <Link to={`/character/${ceoID}`}>
-                {ceoName}
+              <Link to={`/corporation/${id}`}>
+                {name}
               </Link>
+              <Ticker> [{ticker}]</Ticker>
             </div>
           </Row>
-        }
-        {allyID &&
+          {ceoID && ceoName &&
+            <Row>
+              <Label>CEO:</Label>
+              <div>
+                <Link to={`/character/${ceoID}`}>
+                  {ceoName}
+                </Link>
+              </div>
+            </Row>
+          }
+          {allyID &&
+            <Row>
+              <Label>Alliance:</Label>
+              <div>
+                <Link to={`/alliance/${allyID}`}>
+                  {stats.allyName}
+                </Link>
+              </div>
+            </Row>
+          }
           <Row>
-            <Label>Alliance:</Label>
+            <Label>Members:</Label>
             <div>
-              <Link to={`/alliance/${allyID}`}>
-                {stats.allyName}
-              </Link>
+              {stats.members}
             </div>
           </Row>
-        }
-        <Row>
-          <Label>Members:</Label>
-          <div>
-            {stats.members}
-          </div>
-        </Row>
-      </InfoBlock>
-    </Root>
+        </Fragment>
+      }
+    </SummaryLayout>
   )
 }
 

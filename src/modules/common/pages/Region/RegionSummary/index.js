@@ -1,27 +1,28 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
-import { PageImgRect } from 'components/primitives'
+// import { PageImgRect } from 'components/primitives'
+import SummaryLayout from 'layouts/SummaryLayout'
 
-import { Root, InfoBlock, Row, Label } from './styles'
+import { Row, Label } from './styles'
 
 const RegionSummary = ({ stats }) => {
   // console.log('stats:', JSON.stringify(stats, null, 2))
-
   return (
-    <Root>
-      <PageImgRect />
-      <InfoBlock>
-        <Row>
-          <Label>Region:</Label>
-          <div>
-            <Link to={`/region/${stats.id}`}>
-              {stats.name}
-            </Link>
-          </div>
-        </Row>
-      </InfoBlock>
-    </Root>
+    <SummaryLayout>
+      {stats &&
+        <Fragment key='info'>
+          <Row>
+            <Label>Region:</Label>
+            <div>
+              <Link to={`/region/${stats.id}`}>
+                {stats.name}
+              </Link>
+            </div>
+          </Row>
+        </Fragment>
+      }
+    </SummaryLayout>
   )
 }
 

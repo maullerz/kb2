@@ -31,10 +31,6 @@ const Alliance = () => {
     }
   }, [allyID])
 
-  if (!stats) {
-    return null
-  }
-
   return (
     <PageLayout>
       <Fragment key='head'>

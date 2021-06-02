@@ -6,7 +6,6 @@ import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 
 import SystemSummary from './SystemSummary'
-// import { HeaderPanel, Title } from './styles'
 
 const System = () => {
   const systemID = Number(useParams().systemID)
@@ -33,10 +32,6 @@ const System = () => {
       getSystemStats()
     }
   }, [systemID])
-
-  if (!stats) {
-    return null
-  }
 
   return (
     <PageLayout>
