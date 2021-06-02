@@ -1,9 +1,10 @@
 import styled from 'styled-components'
 
-// const normalSize = '32px'
 const normalSize = '40px'
+// const normalSize = '38px'
 const normalSizeOrg = '38px'
 const miniSize = '30px'
+// const miniSize = '28px'
 const miniSizeOrg = '28px'
 
 // const mobileMaxWidth = '767px'
@@ -43,6 +44,10 @@ export const ItemIconContainer = styled.div`
   ${p => p.mini && `
     width: ${miniSize};
     height: ${miniSize};
+  `}
+
+  ${p => p.border && `
+    border: 1px solid #333;
   `}
 `
 

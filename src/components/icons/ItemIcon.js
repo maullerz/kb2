@@ -7,7 +7,7 @@ import { getTypeName, getGroupName } from 'utils/SdeUtils'
 
 import { ItemIconContainer, Image } from './styles'
 
-const ItemIcon = ({ id, mini, singleton, tooltip, link }) => {
+const ItemIcon = ({ id, mini, singleton, tooltip, link, border }) => {
   const isDesktop = true // useMediaQuery('(min-width: 728px)')
 
   const iconUrl = id
@@ -19,7 +19,7 @@ const ItemIcon = ({ id, mini, singleton, tooltip, link }) => {
     : undefined
 
   const node = (
-    <ItemIconContainer mini={mini || !isDesktop} data-tip={tip}>
+    <ItemIconContainer mini={mini || !isDesktop} data-tip={tip} border={border}>
       <Image src={iconUrl} mini={mini || !isDesktop} />
     </ItemIconContainer>
   )

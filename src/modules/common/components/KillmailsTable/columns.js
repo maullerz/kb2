@@ -79,7 +79,7 @@ const columnsObject = {
   shipIcon: {
     width: '50px', title: 'Ship', // link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
-      <ItemIcon id={km.vict.ship.id} tooltip />
+      <ItemIcon id={km.vict.ship.id} tooltip={false} />
     ),
   },
   shipIconMini: {

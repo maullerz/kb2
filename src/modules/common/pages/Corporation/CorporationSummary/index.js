@@ -45,14 +45,12 @@ const CorporationSummary = ({ stats }) => {
             </div>
           </Row>
         }
-        {stats.members &&
-          <Row>
-            <Label>Members:</Label>
-            <div>
-              {stats.members}
-            </div>
-          </Row>
-        }
+        <Row>
+          <Label>Members:</Label>
+          <div>
+            {stats.members}
+          </div>
+        </Row>
       </InfoBlock>
     </Root>
   )

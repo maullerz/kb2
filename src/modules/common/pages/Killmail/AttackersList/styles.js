@@ -38,58 +38,16 @@ export const Char = styled.div`
 
 export const IconsGroup = styled.div`
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: flex-start;
   justify-content: space-between;
+  // max-height: 70px;
   margin-left: 2px;
 
-  > div {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    justify-content: space-between;
-    // max-height: 70px;
-
-    @media (max-width: 374px) {
-      display: none;
-    }
-
-    // :first-child cannot, bc needed for CharCorpIcon with border
-    > div {
-      border-bottom: 1px solid #181818;
-    }
+  @media (max-width: 374px) {
+    display: none;
   }
 `
-
-// export const Names = styled.div`
-//   flex: 1 0;
-//   display: flex;
-//   flex-direction: column;
-//   // justify-content: space-between;
-//   margin: 0 10px;
-//   padding: 5px 0;
-//   font-size: 12px;
-
-//   @media (max-width: 767px) {
-//     margin: 0 5px;
-
-//     white-space: nowrap;
-//     text-overflow: ellipsis;
-//     overflow: hidden;
-//   }
-
-//   > div {
-//     color: grey;
-//   }
-
-//   > div:nth-child(2) {
-//     margin: 10px 0;
-//   }
-
-//   > div:first-child {
-//     color: gold;
-//     /*font-size: 14px;*/
-//   }
-// `
 
 export const Names = styled.div`
   display: flex;

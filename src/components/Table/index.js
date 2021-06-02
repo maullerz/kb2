@@ -1,15 +1,19 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
+import TablePagination from '@material-ui/core/TablePagination'
+// import Pagination from '@material-ui/lab/Pagination'
+// import PaginationItem from '@material-ui/lab/PaginationItem'
 
 import * as DateUtils from 'utils/DateUtils'
 import Spinner from 'components/Spinner'
 
 import TableHeadCell from './TableHeadCell'
-// import TableFooter from './TableFooter'
 import { TableRoot, Head, Body, Row, Cell, DayRow } from './styles'
 
-// TODO
 // https://material-ui.com/components/pagination/
+// https://material-ui.com/api/table-pagination/
+const PAGE_SIZE = 50
+const emptyArr = []
 
 const checkForVictim = (data, params) => {
   if (params.charID && data.vict.char.id === params.charID) {
@@ -31,11 +35,12 @@ const Table = props => {
   const {
     columns, items, isLoading, sortBy, params,
     onRowClick, onSortBy, onNoContent, isDesktop,
-    // onRenderControls,
-    // pageSize, pagination, onPrevPage, onNextPage, onGoToPage,
+    pagination, onGoToPage,
   } = props
 
   const isVictimCheck = params.charID || params.corpID || params.allyID || params.shipID
+
+  // console.log('pagination:', pagination)
 
   // What TO DO?
 
@@ -125,8 +130,23 @@ const Table = props => {
 
     const days = DateUtils.getKillmailsByDay(items)
 
+    const paginationNode = (
+      <TablePagination
+        rowsPerPageOptions={emptyArr}
+        component='div'
+        count={pagination.totalCount}
+        page={pagination.page - 1}
+        rowsPerPage={PAGE_SIZE}
+        onChangePage={onGoToPage}
+        // TODO:
+        // ActionsComponent={Pagination}
+        // ActionsComponent={PaginationItem}
+      />
+    )
+
     return (
       <>
+        {paginationNode}
         <Body>
           {days.map(({ dayString, kms }) => {
             return (
@@ -137,15 +157,9 @@ const Table = props => {
             )
           })}
         </Body>
+        {paginationNode}
 
-        {/* TODO: TableFooter */}
-        {/* <TableFooter
-          pageSize={pageSize}
-          pagination={pagination}
-          onPrevPage={onPrevPage}
-          onNextPage={onNextPage}
-          onGoToPage={onGoToPage}
-        /> */}
+        {isLoading && <Spinner fullscreen />}
       </>
     )
   }
@@ -163,7 +177,7 @@ const Table = props => {
           />
         ))}
       </Head>
-      {isLoading
+      {isLoading && items.length === 0
         ? <Spinner />
         : renderBody()
       }
