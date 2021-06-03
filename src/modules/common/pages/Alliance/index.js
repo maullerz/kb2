@@ -4,11 +4,15 @@ import { useParams, Redirect } from 'react-router-dom'
 import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
+import SummaryNavigation from 'components/SummaryNavigation'
 
 import AllianceSummary from './AllianceSummary'
 
 const Alliance = () => {
   const allyID = Number(useParams().allyID)
+  const { killsType } = useParams()
+  const isLosses = killsType === 'losses'
+  const isKills = killsType === 'kills'
   const [stats, setStats] = useState(null)
 
   if (!allyID) {
@@ -35,9 +39,10 @@ const Alliance = () => {
     <PageLayout>
       <Fragment key='head'>
         <AllianceSummary stats={stats} />
+        <SummaryNavigation root={`/alliance/${allyID}`} />
       </Fragment>
       <Fragment key='content'>
-        <KillmailsTable allyID={allyID} />
+        <KillmailsTable allyID={allyID} isLosses={isLosses} isKills={isKills} />
       </Fragment>
     </PageLayout>
   )

@@ -4,11 +4,15 @@ import { useParams, Redirect } from 'react-router-dom'
 import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
+import SummaryNavigation from 'components/SummaryNavigation'
 
 import CorporationSummary from './CorporationSummary'
 
 const Corporation = () => {
   const corpID = Number(useParams().corpID)
+  const { killsType } = useParams()
+  const isLosses = killsType === 'losses'
+  const isKills = killsType === 'kills'
   const [stats, setStats] = useState(null)
 
   if (!corpID) {
@@ -35,9 +39,10 @@ const Corporation = () => {
     <PageLayout>
       <Fragment key='head'>
         <CorporationSummary stats={stats} />
+        <SummaryNavigation root={`/corporation/${corpID}`} />
       </Fragment>
       <Fragment key='content'>
-        <KillmailsTable corpID={corpID} />
+        <KillmailsTable corpID={corpID} isLosses={isLosses} isKills={isKills} />
       </Fragment>
     </PageLayout>
   )

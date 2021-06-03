@@ -22,6 +22,7 @@ export const PageRoot = styled.div`
 export const HeadBlock = styled.div`
   position: relative;
   display: flex;
+  flex-direction: column;
 `
 
 export const Content = styled.div`
