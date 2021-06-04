@@ -23,18 +23,18 @@ const LINKS = [
   // { text: '', to: '' },
 ]
 
-const MenuItem = ({ text, to, onClose }) => {
+const MenuItem = React.forwardRef(({ text, to, onClose }, ref) => {
   const handleClick = useCallback(() => {
     onClose()
     history.push(to)
   }, [])
 
   return (
-    <StyledMenuItem onClick={handleClick}>
+    <StyledMenuItem ref={ref} onClick={handleClick}>
       {text}
     </StyledMenuItem>
   )
-}
+})
 
 const AppMenu = () => {
   const [anchorEl, setAnchorEl] = React.useState(null)

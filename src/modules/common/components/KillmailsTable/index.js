@@ -1,9 +1,11 @@
 import React, { useState, useReducer, useEffect, useCallback, useMemo } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
 import ReactTooltip from 'react-tooltip'
+import isEqual from 'lodash/isEqual'
 
 import history from 'services/routerHistory'
 import KillmailService from 'api/KillmailService'
+import usePrevious from 'utils/hooks/usePrevious'
 import { Table, NoContent } from 'components'
 
 import { columns, mobileColumns } from './columns'
@@ -47,6 +49,7 @@ const KillmailsTable = props => {
     totalCount: 0,
   })
   const { items, isLoading, page, totalPages, totalCount } = state
+  const prevProps = usePrevious(props)
   const [params, setParams] = useState({ ...props, page })
 
   // Page in TablePagination = page + 1
@@ -56,7 +59,7 @@ const KillmailsTable = props => {
   }, [])
 
   async function getKillmails() {
-    setState({ isLoading: true })
+    setState({ isLoading: true, items: [] })
     try {
       const { data } = await KillmailService.getKillmails(params)
       setState({
@@ -75,6 +78,13 @@ const KillmailsTable = props => {
   useEffect(() => {
     getKillmails()
   }, [params])
+
+  // Checking Props for changing, to trigger api params change
+  useEffect(() => {
+    if (prevProps && !isEqual(props, prevProps)) {
+      setParams({ ...props, page })
+    }
+  }, [props])
 
   // only when items changed
   useEffect(() => {
