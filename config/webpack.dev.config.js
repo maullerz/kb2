@@ -48,10 +48,10 @@ module.exports = {
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new ReactRefreshWebpackPlugin(),
-    // new webpack.NormalModuleReplacementPlugin(
-    //   /popper.js/,
-    //   path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
-    // ),
+    new webpack.NormalModuleReplacementPlugin(
+      /popper.js/,
+      path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
+    ),
     new HtmlWebpackPlugin({
       inject: true,
       template: path.resolve(rootDirectory, 'public/index-dev.html'),

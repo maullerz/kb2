@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import numeral from 'numeral'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
+import ReactTooltip from 'react-tooltip'
 
 import { getTypeName, getGroupName } from 'utils/SdeUtils'
 import useBooleanToggle from 'utils/hooks/useBooleanToggle'
@@ -73,6 +74,12 @@ const AttackersList = ({ data }) => {
   const { atts: attackers, vict: { dmg }, names } = data
   const remainingCount = attackers.length - MAX_ITEMS
   const [expanded, toggleExpanded] = useBooleanToggle(false)
+
+  useEffect(() => {
+    if (expanded) {
+      ReactTooltip.rebuild()
+    }
+  }, [expanded])
 
   function renderRemaining() {
     if (!expanded) {

@@ -8,6 +8,13 @@ export const TableRoot = styled.div`
   width: 100%;
 `
 
+export const TopPaginationWrapper = styled.div`
+  position: absolute;
+  top: 0;
+  top: -52px;
+  right: 0;
+`
+
 export const Head = styled.div`
   position: relative;
   height: 48px;

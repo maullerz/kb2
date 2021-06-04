@@ -14,6 +14,8 @@ import Alliance from 'modules/common/pages/Alliance'
 
 import Ship from 'modules/common/pages/Ship'
 
+import Preset from 'modules/common/pages/Preset'
+
 // import Orders from 'modules/market/pages/Orders'
 // import CallbackRoute from 'modules/market/pages/CallbackRoute'
 
@@ -46,6 +48,8 @@ const MainRoutes = () => {
 
         <Route path='/ship/:shipID' component={Ship} exact />
         <Route path='/ship/:shipID/:killsType' component={Ship} exact />
+
+        <Route path='/preset/:type' component={Preset} exact />
 
         {/*
         <Route path='/orders' component={Orders} />

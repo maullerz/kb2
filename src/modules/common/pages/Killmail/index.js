@@ -76,6 +76,7 @@ const KillmailPage = () => {
             parsedItems,
             fittingItems,
           })
+          ReactTooltip.rebuild()
         })
         .catch(err => console.error('err:', err))
     }
@@ -105,13 +106,13 @@ const KillmailPage = () => {
           </Attackers>
         </Body>
 
-        <ReactTooltip
+        {/* <ReactTooltip
           multiline
           effect='solid'
           backgroundColor='#000f'
           border
           borderColor='#555'
-        />
+        /> */}
       </>
     )
   }

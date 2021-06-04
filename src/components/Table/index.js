@@ -8,7 +8,7 @@ import * as DateUtils from 'utils/DateUtils'
 import Spinner from 'components/Spinner'
 
 import TableHeadCell from './TableHeadCell'
-import { TableRoot, Head, Body, Row, Cell, DayRow } from './styles'
+import { TableRoot, TopPaginationWrapper, Head, Body, Row, Cell, DayRow } from './styles'
 
 // https://material-ui.com/components/pagination/
 // https://material-ui.com/api/table-pagination/
@@ -123,6 +123,20 @@ const Table = props => {
     // )
   }
 
+  const paginationNode = pagination.totalCount > 0 ? (
+    <TablePagination
+      rowsPerPageOptions={emptyArr}
+      component='div'
+      count={pagination.totalCount}
+      page={pagination.page - 1}
+      rowsPerPage={PAGE_SIZE}
+      onChangePage={onGoToPage}
+      // TODO:
+      // ActionsComponent={Pagination}
+      // ActionsComponent={PaginationItem}
+    />
+  ) : null
+
   function renderBody() {
     if (items.length === 0 && onNoContent) {
       return onNoContent()
@@ -130,23 +144,8 @@ const Table = props => {
 
     const days = DateUtils.getKillmailsByDay(items)
 
-    const paginationNode = (
-      <TablePagination
-        rowsPerPageOptions={emptyArr}
-        component='div'
-        count={pagination.totalCount}
-        page={pagination.page - 1}
-        rowsPerPage={PAGE_SIZE}
-        onChangePage={onGoToPage}
-        // TODO:
-        // ActionsComponent={Pagination}
-        // ActionsComponent={PaginationItem}
-      />
-    )
-
     return (
       <>
-        {paginationNode}
         <Body>
           {days.map(({ dayString, kms }) => {
             return (
@@ -157,7 +156,7 @@ const Table = props => {
             )
           })}
         </Body>
-        {paginationNode}
+        {false && paginationNode}
 
         {isLoading && <Spinner fullscreen />}
       </>
@@ -165,23 +164,28 @@ const Table = props => {
   }
 
   return (
-    <TableRoot>
-      <Head isDesktop={isDesktop}>
-        {columns.map(column => (
-          <TableHeadCell
-            key={column.key}
-            column={column}
-            sortBy={sortBy}
-            onSortBy={onSortBy}
-            noSort={column.noSort}
-          />
-        ))}
-      </Head>
-      {isLoading && items.length === 0
-        ? <Spinner />
-        : renderBody()
+    <>
+      <TableRoot>
+        <Head isDesktop={isDesktop}>
+          <TopPaginationWrapper>
+            {paginationNode}
+          </TopPaginationWrapper>
+          {columns.map(column => (
+            <TableHeadCell
+              key={column.key}
+              column={column}
+              sortBy={sortBy}
+              onSortBy={onSortBy}
+              noSort={column.noSort}
+            />
+          ))}
+        </Head>
+        {isLoading && items.length === 0
+          ? <Spinner />
+          : renderBody()
       }
-    </TableRoot>
+      </TableRoot>
+    </>
   )
 }
 

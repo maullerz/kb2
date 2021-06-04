@@ -1,13 +1,13 @@
 import React from 'react'
 import cx from 'classnames'
 import { Link } from 'react-router-dom'
-import { AppBar, Toolbar, Typography, IconButton, Container, Fab, Zoom, useScrollTrigger } from '@material-ui/core'
-import { Menu as MenuIcon, KeyboardArrowUp as KeyboardArrowUpIcon } from '@material-ui/icons'
+import { AppBar, Toolbar, Typography, Container, Fab, Zoom, useScrollTrigger } from '@material-ui/core'
+import { KeyboardArrowUp as KeyboardArrowUpIcon } from '@material-ui/icons'
 import { useTheme, makeStyles } from '@material-ui/core/styles'
 
 import Footer from 'modules/common/components/Footer'
 
-// Wrapper, Workspace,
+import AppMenu from './AppMenu'
 import { Main, Content } from './styles'
 
 const useStyles = makeStyles(theme => ({
@@ -60,9 +60,7 @@ const MainLayout = props => {
         <Container maxWidth='lg' disableGutters>
 
           <Toolbar variant='dense' id='back-to-top-anchor'>
-            <IconButton edge='start' color='inherit' aria-label='menu'>
-              <MenuIcon />
-            </IconButton>
+            <AppMenu />
             <Link to='/'>
               <Typography variant='h6' color='inherit'>
                 EveTools Killboard (Alpha)

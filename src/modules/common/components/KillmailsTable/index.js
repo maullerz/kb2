@@ -1,4 +1,4 @@
-import React, { useReducer, useEffect, useCallback, useMemo } from 'react'
+import React, { useState, useReducer, useEffect, useCallback, useMemo } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
 import ReactTooltip from 'react-tooltip'
 
@@ -8,8 +8,7 @@ import { Table, NoContent } from 'components'
 
 import { columns, mobileColumns } from './columns'
 
-const IS_DEV = false && process.env.NODE_ENV === 'development'
-
+// const IS_DEV = false && process.env.NODE_ENV === 'development'
 // const devKillmails = require('./killmails.json').slice(0, 50)
 // const devKillmails = null
 
@@ -48,26 +47,18 @@ const KillmailsTable = props => {
     totalCount: 0,
   })
   const { items, isLoading, page, totalPages, totalCount } = state
+  const [params, setParams] = useState({ ...props, page })
 
   // Page in TablePagination = page + 1
   const handleGoToPage = useCallback((ev, selectedPage) => {
     setState({ page: selectedPage + 1 })
+    setParams({ ...params, page: selectedPage + 1 })
   }, [])
 
   async function getKillmails() {
-    // onSuccess(page, sortBy)
+    setState({ isLoading: true })
     try {
-      // const { systemID, constellationID, regionID } = props
-      // const params = { systemID, constellationID, regionID }
-      const params = {
-        ...props,
-        page,
-      }
-      setState({ isLoading: true })
       const { data } = await KillmailService.getKillmails(params)
-      if (IS_DEV) {
-        console.log('data[0]:', data[0])
-      }
       setState({
         items: data.data,
         page: data.page,
@@ -83,7 +74,7 @@ const KillmailsTable = props => {
 
   useEffect(() => {
     getKillmails()
-  }, [props, page])
+  }, [params])
 
   // only when items changed
   useEffect(() => {
