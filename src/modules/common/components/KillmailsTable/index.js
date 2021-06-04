@@ -1,7 +1,5 @@
 import React, { useReducer, useEffect, useCallback, useMemo } from 'react'
-// import { useHistory } from 'react-router-dom'
-// import { useDispatch, useSelector } from 'react-redux'
-import useMediaQuery from 'react-hook-media-query'
+import { useMediaQuery } from '@react-hook/media-query'
 import ReactTooltip from 'react-tooltip'
 
 import history from 'services/routerHistory'
@@ -41,7 +39,7 @@ function renderNoContent() {
 }
 
 const KillmailsTable = props => {
-  const isDesktop = true // useMediaQuery('(min-width: 728px)')
+  const isDesktop = useMediaQuery('(min-width: 728px)')
   const [state, setState] = useReducer(reducerFunc, {
     items: [],
     isLoading: true,

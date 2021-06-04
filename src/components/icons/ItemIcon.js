@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-// import useMediaQuery from 'react-hook-media-query'
+// import { useMediaQuery } from '@react-hook/media-query'
 
 import { getIconUrl, getUnknownItemUrl } from 'utils/KillmailUtils'
 import { getTypeName, getGroupName } from 'utils/SdeUtils'

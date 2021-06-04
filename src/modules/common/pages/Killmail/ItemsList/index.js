@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import useMediaQuery from 'react-hook-media-query'
+import { useMediaQuery } from '@react-hook/media-query'
 import ExpandLessIcon from '@material-ui/icons/ExpandLess'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 

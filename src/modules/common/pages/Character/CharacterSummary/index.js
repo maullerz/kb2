@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
-import useMediaQuery from 'react-hook-media-query'
+import { useMediaQuery } from '@react-hook/media-query'
 
 import { getCharUrl } from 'utils/KillmailUtils'
 import { OrgIcon } from 'components'
