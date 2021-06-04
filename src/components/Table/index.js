@@ -123,6 +123,14 @@ const Table = props => {
     // )
   }
 
+  const renderPaginationInfo = ({ from, to, count }) => {
+    if (isDesktop) {
+      return `${from}-${to} of ${count}`
+    }
+    return null
+    // return `${pagination.page} page`
+  }
+
   const paginationNode = pagination.totalCount > 0 ? (
     <TablePagination
       rowsPerPageOptions={emptyArr}
@@ -131,6 +139,7 @@ const Table = props => {
       page={pagination.page - 1}
       rowsPerPage={PAGE_SIZE}
       onChangePage={onGoToPage}
+      labelDisplayedRows={renderPaginationInfo}
       // TODO:
       // ActionsComponent={Pagination}
       // ActionsComponent={PaginationItem}
@@ -156,7 +165,7 @@ const Table = props => {
             )
           })}
         </Body>
-        {false && paginationNode}
+        {paginationNode}
 
         {isLoading && <Spinner fullscreen />}
       </>
@@ -166,10 +175,17 @@ const Table = props => {
   return (
     <>
       <TableRoot>
-        <Head isDesktop={isDesktop}>
-          <TopPaginationWrapper>
+        {!isDesktop &&
+          <TopPaginationWrapper isDesktop={isDesktop}>
             {paginationNode}
           </TopPaginationWrapper>
+        }
+        <Head isDesktop={isDesktop}>
+          {isDesktop &&
+            <TopPaginationWrapper isDesktop={isDesktop}>
+              {paginationNode}
+            </TopPaginationWrapper>
+          }
           {columns.map(column => (
             <TableHeadCell
               key={column.key}

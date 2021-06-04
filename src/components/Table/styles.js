@@ -13,6 +13,14 @@ export const TopPaginationWrapper = styled.div`
   top: 0;
   top: -52px;
   right: 0;
+
+  // (min-width: 728px)
+  ${p => p.isDesktop && `
+    position: absolute;
+    top: 0;
+    top: -52px;
+    right: 0;
+  `}
 `
 
 export const Head = styled.div`
@@ -25,7 +33,7 @@ export const Head = styled.div`
   padding: 0 5px;
 
   ${p => !p.isDesktop && `
-    padding: 0 10px;
+    padding: 0 5px;
   `}
 
   font-family: Verdana;

@@ -4,6 +4,7 @@ import { useParams, Redirect } from 'react-router-dom'
 import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
+import SummaryNavigation from 'components/SummaryNavigation'
 
 import RegionSummary from './RegionSummary'
 // import { HeaderPanel, Title } from './styles'
@@ -38,6 +39,7 @@ const Region = () => {
     <PageLayout>
       <Fragment key='head'>
         <RegionSummary stats={stats} />
+        <SummaryNavigation />
       </Fragment>
       <Fragment key='content'>
         <KillmailsTable regionID={regionID} />

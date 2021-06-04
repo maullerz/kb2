@@ -4,6 +4,7 @@ import { useParams, Redirect } from 'react-router-dom'
 import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
+import SummaryNavigation from 'components/SummaryNavigation'
 
 import SystemSummary from './SystemSummary'
 
@@ -37,6 +38,7 @@ const System = () => {
     <PageLayout>
       <Fragment key='head'>
         <SystemSummary stats={stats} />
+        <SummaryNavigation />
       </Fragment>
       <Fragment key='content'>
         <KillmailsTable systemID={systemID} />

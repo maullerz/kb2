@@ -9,6 +9,8 @@ const activeStyle = {
 }
 
 const SummaryNavigation = ({ root }) => {
+  if (!root) return <Root />
+
   return (
     <Root>
       <NavLink to={`${root}`} exact activeStyle={activeStyle}>
