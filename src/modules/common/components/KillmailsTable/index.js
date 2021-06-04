@@ -21,6 +21,7 @@ const reducerFunc = (prevState, newState) => ({
 })
 
 function handleRowClick(km) {
+  ReactTooltip.hide()
   history.push(`/kill/${km._id}`)
 }
 
@@ -40,7 +41,7 @@ function renderNoContent() {
 }
 
 const KillmailsTable = props => {
-  const isDesktop = useMediaQuery('(min-width: 728px)')
+  const isDesktop = true // useMediaQuery('(min-width: 728px)')
   const [state, setState] = useReducer(reducerFunc, {
     items: [],
     isLoading: true,
@@ -49,18 +50,6 @@ const KillmailsTable = props => {
     totalCount: 0,
   })
   const { items, isLoading, page, totalPages, totalCount } = state
-
-  // function handleSortBy(newSortBy) {
-  //   dispatch(GlobalContactsActions.setContactsSortBy(newSortBy))
-  // }
-
-  // const handlePrevPageClick = useCallback(() => {
-  //   setState({ page: page - 1 })
-  // }, [])
-
-  // const handleNextPageClick = useCallback(() => {
-  //   setState({ page: page + 1 })
-  // }, [])
 
   // Page in TablePagination = page + 1
   const handleGoToPage = useCallback((ev, selectedPage) => {
@@ -98,18 +87,10 @@ const KillmailsTable = props => {
     getKillmails()
   }, [props, page])
 
+  // only when items changed
   useEffect(() => {
     ReactTooltip.rebuild()
   }, [items])
-  // }, [page, searchFilter, contactPosition]) // , sortBy
-
-  // useEffect(() => {
-  //   setState({ page: 1 })
-  // }, [searchFilter])
-
-  // useEffect(() => {
-  //   handleSortBy(null)
-  // }, [contactPosition])
 
   const pagination = useMemo(() => ({
     page: page || 1,

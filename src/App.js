@@ -52,11 +52,13 @@ const App = () => {
         </Switch>
 
         <ReactTooltip
-          effect='solid'
+          // effect='solid'
           backgroundColor='#000f'
           border
           borderColor='#555'
           multiline
+          // delayHide={500}
+          // delayShow={500}
         />
         {/* <ToastContainer /> */}
       </MuiPickersUtilsProvider>

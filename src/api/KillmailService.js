@@ -7,6 +7,9 @@ class KillmailService extends BaseAPI {
       url: '/v1/killmails',
       data: {
         ...params,
+        isLosses: params.isLosses || undefined,
+        isKills: params.isKills || undefined,
+        page: params.page === 1 ? undefined : params.page,
       },
     })
   }
