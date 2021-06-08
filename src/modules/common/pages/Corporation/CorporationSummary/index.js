@@ -42,6 +42,9 @@ const CorporationSummary = ({ stats }) => {
                 <Link to={`/alliance/${allyID}`}>
                   {stats.allyName}
                 </Link>
+                {stats.allyTicker &&
+                  <Ticker> [{stats.allyTicker}]</Ticker>
+                }
               </div>
             </Row>
           }

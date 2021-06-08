@@ -8,7 +8,7 @@ import SummaryLayout from 'layouts/SummaryLayout'
 import { Row, Label, Ticker } from './styles'
 
 const AllianceSummary = ({ stats }) => {
-  const { id, name, ticker, executorID, executorName } = stats || {}
+  const { id, name, ticker, execID, execName, execTicker } = stats || {}
 
   // console.log('stats:', JSON.stringify(stats, null, 2))
   return (
@@ -24,13 +24,16 @@ const AllianceSummary = ({ stats }) => {
               <Ticker> [{ticker}]</Ticker>
             </div>
           </Row>
-          {executorID && executorName &&
+          {execID && execName &&
             <Row>
               <Label>Executor:</Label>
               <div>
-                <Link to={`/corporation/${executorID}`}>
-                  {executorName}
+                <Link to={`/corporation/${execID}`}>
+                  {execName}
                 </Link>
+                {execTicker &&
+                  <Ticker> [{execTicker}]</Ticker>
+                }
               </div>
             </Row>
           }

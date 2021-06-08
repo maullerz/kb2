@@ -23,3 +23,8 @@ export const Label = styled.div`
     min-width: 100px;
   }
 `
+
+export const Ticker = styled.span`
+  color: #888;
+  font-weight: bold;
+`

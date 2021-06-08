@@ -7,7 +7,7 @@ import { OrgIcon } from 'components'
 // import { PageImgRect } from 'components/primitives'
 import SummaryLayout from 'layouts/SummaryLayout'
 
-import { Row, Label } from './styles'
+import { Row, Label, Ticker } from './styles'
 
 // Maullerz
 // http://localhost:4001/character/247755210
@@ -42,6 +42,9 @@ const CharacterSummary = ({ stats }) => {
                 <Link to={`/corporation/${corpID}`}>
                   {stats.corpName}
                 </Link>
+                {stats.corpTicker &&
+                  <Ticker> [{stats.corpTicker}]</Ticker>
+                }
               </div>
             </Row>
           }
@@ -52,6 +55,9 @@ const CharacterSummary = ({ stats }) => {
                 <Link to={`/alliance/${allyID}`}>
                   {stats.allyName}
                 </Link>
+                {stats.allyTicker &&
+                  <Ticker> [{stats.allyTicker}]</Ticker>
+                }
               </div>
             </Row>
           }

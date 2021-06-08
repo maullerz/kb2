@@ -123,28 +123,35 @@ const Table = props => {
     // )
   }
 
-  const renderPaginationInfo = ({ from, to, count }) => {
-    if (isDesktop) {
-      return `${from}-${to} of ${count}`
+  function renderPagination(isBottom = false) {
+    const renderPaginationInfo = ({ from, to, count }) => {
+      if (isDesktop || isBottom) {
+        return `${from}-${to} of ${count}`
+      }
+      return null
+      // return `${from}-${to}`
+      // return `${pagination.page} page`
     }
-    return null
-    // return `${pagination.page} page`
-  }
 
-  const paginationNode = pagination.totalCount > 0 ? (
-    <TablePagination
-      rowsPerPageOptions={emptyArr}
-      component='div'
-      count={pagination.totalCount}
-      page={pagination.page - 1}
-      rowsPerPage={PAGE_SIZE}
-      onChangePage={onGoToPage}
-      labelDisplayedRows={renderPaginationInfo}
-      // TODO:
-      // ActionsComponent={Pagination}
-      // ActionsComponent={PaginationItem}
-    />
-  ) : null
+    if (pagination.totalCount <= 0) {
+      return null
+    }
+
+    return (
+      <TablePagination
+        rowsPerPageOptions={emptyArr}
+        component='div'
+        count={pagination.totalCount}
+        page={pagination.page - 1}
+        rowsPerPage={PAGE_SIZE}
+        onChangePage={onGoToPage}
+        labelDisplayedRows={renderPaginationInfo}
+        // TODO:
+        // ActionsComponent={Pagination}
+        // ActionsComponent={PaginationItem}
+      />
+    )
+  }
 
   function renderBody() {
     if (items.length === 0 && onNoContent) {
@@ -165,7 +172,7 @@ const Table = props => {
             )
           })}
         </Body>
-        {paginationNode}
+        {renderPagination(true)}
 
         {isLoading && <Spinner fullscreen />}
       </>
@@ -177,13 +184,13 @@ const Table = props => {
       <TableRoot>
         {!isDesktop &&
           <TopPaginationWrapper isDesktop={isDesktop}>
-            {paginationNode}
+            {renderPagination()}
           </TopPaginationWrapper>
         }
         <Head isDesktop={isDesktop}>
           {isDesktop &&
             <TopPaginationWrapper isDesktop={isDesktop}>
-              {paginationNode}
+              {renderPagination()}
             </TopPaginationWrapper>
           }
           {columns.map(column => (
