@@ -89,9 +89,7 @@ const SearchInput = () => {
 
   async function fetchAutocomplete(text) {
     try {
-      console.log('getAutocomplete:', text)
       const { data: result } = await KillmailService.getAutocomplete(text) || {}
-      console.log('result:', result)
       setMatchedResults(result)
     } catch (e) {
       console.error('fetchAutocomplete:', e)

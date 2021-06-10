@@ -16,7 +16,8 @@ const stopPropagation = event => {
 
 const BIL = 1_000_000_000
 
-function getAttackerNames(att) {
+function getAttackerName(att) {
+  if (!att) return null
   const hasAlly = att.ally
   const hasCorp = att.corp
   const shipName = att.ship?.name || ''
@@ -180,9 +181,15 @@ const columnsObject = {
   },
   attShipIcon: {
     width: '50px', title: 'Final Blow',
-    render: ({ atts }) => {
+    render: km => {
+      const { atts } = km
+      const finalBlow = atts.blow
+      if (!finalBlow) return null
+      if (!atts.blow.ship) {
+        console.error('km without finalBlow ship:', km)
+      }
       return (
-        <ItemIcon id={atts.blow.ship.id} tooltip />
+        <ItemIcon id={atts.blow.ship?.id} tooltip />
       )
     },
   },
@@ -190,6 +197,7 @@ const columnsObject = {
     width: '50px', title: null,
     render: ({ atts }) => {
       const finalBlow = atts.blow
+      if (!finalBlow) return <OrgIcon />
       return (
         <OrgIcon
           link
@@ -209,7 +217,7 @@ const columnsObject = {
       const { atts } = km
       return (
         <>
-          {getAttackerNames(atts.blow)}
+          {getAttackerName(atts.blow)}
           <InvolvedCountBadge km={km} />
         </>
       )
@@ -231,8 +239,8 @@ export const columns = [
   getColumn('system'),
   getColumn('victimAllyIcon'),
   getColumn('victimName'),
-  getColumn('attShipIcon'),
   getColumn('attAllyIcon'),
+  getColumn('attShipIcon'),
   getColumn('attName'),
 ]
 
