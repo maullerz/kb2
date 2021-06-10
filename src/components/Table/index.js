@@ -16,16 +16,16 @@ const PAGE_SIZE = 50
 const emptyArr = []
 
 const checkForVictim = (data, params) => {
-  if (params.charID && data.vict.char.id === params.charID) {
+  if (params.charID && data.vict.char?.id === params.charID) {
     return true
   }
-  if (params.corpID && data.vict.corp.id === params.corpID) {
+  if (params.corpID && data.vict.corp?.id === params.corpID) {
     return true
   }
-  if (params.allyID && data.vict.ally.id === params.allyID) {
+  if (params.allyID && data.vict.ally?.id === params.allyID) {
     return true
   }
-  if (params.shipID && data.vict.ship.id === params.shipID) {
+  if (params.shipID && data.vict.ship?.id === params.shipID) {
     return true
   }
   return false

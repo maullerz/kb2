@@ -1,11 +1,13 @@
 import React from 'react'
 import cx from 'classnames'
 import { Link } from 'react-router-dom'
+import { useMediaQuery } from '@react-hook/media-query'
 import { AppBar, Toolbar, Typography, Container, Fab, Zoom, useScrollTrigger } from '@material-ui/core'
 import { KeyboardArrowUp as KeyboardArrowUpIcon } from '@material-ui/icons'
 import { useTheme, makeStyles } from '@material-ui/core/styles'
 
 import Footer from 'modules/common/components/Footer'
+import SearchInput from 'components/SearchInput'
 
 import AppMenu from './AppMenu'
 import { Main, Content } from './styles'
@@ -51,6 +53,7 @@ const darkStyle = { background: '#1B1C21' }
 
 const MainLayout = props => {
   const theme = useTheme()
+  const isMobile = useMediaQuery('(max-width: 500px)')
   const { children } = props
 
   return (
@@ -62,10 +65,12 @@ const MainLayout = props => {
           <Toolbar variant='dense' id='back-to-top-anchor'>
             <AppMenu />
             <Link to='/'>
-              <Typography variant='h6' color='inherit'>
-                EveTools Killboard (Alpha)
+              <Typography variant='h6' color='inherit' noWrap>
+                {isMobile ? 'EveTools KB' : 'EveTools Killboard'}
               </Typography>
             </Link>
+
+            <SearchInput />
           </Toolbar>
 
         </Container>

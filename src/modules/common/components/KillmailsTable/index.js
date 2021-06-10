@@ -82,7 +82,7 @@ const KillmailsTable = props => {
   // Checking Props for changing, to trigger api params change
   useEffect(() => {
     if (prevProps && !isEqual(props, prevProps)) {
-      setParams({ ...props, page })
+      setParams({ ...props, page: 1 })
     }
   }, [props])
 

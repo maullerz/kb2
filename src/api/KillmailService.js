@@ -30,6 +30,13 @@ class KillmailService extends BaseAPI {
       url: `/v1/killmails/${killmailId}`,
     })
   }
+
+  getAutocomplete(text) {
+    return this.call({
+      method: 'get',
+      url: `/v1/search/kb/autocomplete/${text}`,
+    })
+  }
 }
 
 export default new KillmailService()

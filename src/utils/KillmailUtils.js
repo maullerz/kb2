@@ -66,9 +66,9 @@ export const getIconUrl = (type, singleton) => {
   return result
 }
 
-export const getCharUrl = type => {
+export const getCharUrl = (type, quality) => {
   // https://images.evetech.net/characters/95296935/portrait?size=64
-  const result = `${CHARS_BASE}/${type}/portrait?size=${CHAR_QUALITY}`
+  const result = `${CHARS_BASE}/${type}/portrait?size=${quality || CHAR_QUALITY}`
   return result
 }
 

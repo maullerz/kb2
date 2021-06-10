@@ -181,16 +181,15 @@ const columnsObject = {
   attShipIcon: {
     width: '50px', title: 'Final Blow',
     render: ({ atts }) => {
-      const finalBlow = atts.find(att => att.blow) || atts[0]
       return (
-        <ItemIcon id={finalBlow.ship.id} tooltip />
+        <ItemIcon id={atts.blow.ship.id} tooltip />
       )
     },
   },
   attAllyIcon: {
     width: '50px', title: null,
     render: ({ atts }) => {
-      const finalBlow = atts.find(att => att.blow) || atts[0]
+      const finalBlow = atts.blow
       return (
         <OrgIcon
           link
@@ -203,15 +202,14 @@ const columnsObject = {
       )
     },
   },
+  // TODO: for Desktop - attackers alliances icons
   attName: {
     width: '32%', title: null,
     render: km => {
       const { atts } = km
-      const finalBlow = atts.find(att => att.blow) || atts[0]
-      // TODO: for Desktop - attackers alliances icons
       return (
         <>
-          {getAttackerNames(finalBlow)}
+          {getAttackerNames(atts.blow)}
           <InvolvedCountBadge km={km} />
         </>
       )

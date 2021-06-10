@@ -3,17 +3,19 @@ import { Link } from 'react-router-dom'
 
 import { getCharUrl } from 'utils/KillmailUtils'
 
-import { CharIconContainer } from './styles'
+import { CharIconContainer, miniSize } from './styles'
 
 const CharIcon = ({ id, mini, corp, link }) => {
   let icon
+  const size = mini ? miniSize : 80
+
   if (!id && corp) {
     // TODO: NPC corps like Triglav etc...
     const corpNpc = 1
     icon = (
       <img
-        width='80'
-        height='80'
+        width={size}
+        height={size}
         alt='charID-undefined-corp'
         src={`https://images.evetech.net/corporations/${corpNpc}/logo?size=64`}
       />
@@ -22,8 +24,8 @@ const CharIcon = ({ id, mini, corp, link }) => {
     const charID = id || 1
     icon = (
       <img
-        width='80'
-        height='80'
+        width={size}
+        height={size}
         alt={`charID-${charID}`}
         src={getCharUrl(charID)}
       />

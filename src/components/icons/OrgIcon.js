@@ -19,7 +19,7 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg }) => {
   if (!ally && !corp) {
     return (
       <OrgIconContainer mini={mini || !isDesktop}>
-        <Image mini={mini || !isDesktop} empty src={emptyUrl} />
+        <Image org mini={mini || !isDesktop} empty src={emptyUrl} />
       </OrgIconContainer>
     )
   }

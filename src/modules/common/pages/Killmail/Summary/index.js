@@ -15,7 +15,7 @@ const noWrap = { whiteSpace: 'nowrap' }
 
 const Summary = ({ kmData }) => {
   const { atts, vict, names, parsedItems, ...rest } = kmData
-  const [datetimeStr] = useState(FormatUtils.formatKmTime(rest.time))
+  const [datetimeStr] = useState(`${FormatUtils.formatKmTime(rest.time)} ET`)
   // console.log('rest:', rest)
   // const shipName = `${SdeUtils.getTypeName(vict.ship)} (${SdeUtils.getGroupName(vict.ship)})`
   const sysDescr = rest.sys

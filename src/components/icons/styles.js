@@ -3,7 +3,7 @@ import styled from 'styled-components'
 const normalSize = '40px'
 // const normalSize = '38px'
 const normalSizeOrg = '38px'
-const miniSize = '30px'
+export const miniSize = '30px'
 // const miniSize = '28px'
 const miniSizeOrg = '28px'
 
@@ -77,4 +77,9 @@ export const CharIconContainer = styled(IconContainer)`
   width: 80px;
   height: 80px;
   border: 1px solid #333;
+
+  ${p => p.mini && `
+    width: ${miniSize};
+    height: ${miniSize};
+  `}
 `

@@ -21,6 +21,12 @@ export const Main = styled.main`
     right: 32px;
     bottom: 32px;
   }
+
+  @media (max-width: 727px) {
+    .MuiTypography-h6 {
+      font-size: 1rem;
+    }
+  }
 `
 
 export const Wrapper = styled.div`
