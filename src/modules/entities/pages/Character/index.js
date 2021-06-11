@@ -4,7 +4,7 @@ import { useParams, Redirect } from 'react-router-dom'
 import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
-import SummaryNavigation from 'components/SummaryNavigation'
+import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
 
 import CharacterSummary from './CharacterSummary'
 

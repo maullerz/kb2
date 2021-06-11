@@ -1,15 +1,12 @@
 import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import ReactTooltip from 'react-tooltip'
-// import { useQuery } from 'react-query'
+import isEmpty from 'lodash/isEmpty'
 
 import KillmailService from 'api/KillmailService'
 import * as SdeUtils from 'utils/SdeUtils'
 import * as KillmailUtils from 'utils/KillmailUtils'
-import {
-  Spinner,
-  // Href,
-} from 'components'
+import { Spinner, NoContent } from 'components'
 
 import Summary from './Summary'
 import ItemsList from './ItemsList'
@@ -78,13 +75,26 @@ const KillmailPage = () => {
           })
           ReactTooltip.rebuild()
         })
-        .catch(err => console.error('err:', err))
+        .catch(err => {
+          console.error('err:', err)
+          setKmData({})
+        })
     }
   }, [killmailID])
 
   // console.log('kmData:', JSON.stringify(kmData, null, 2))
 
   function renderBody() {
+    if (isEmpty(kmData)) {
+      return (
+        <Body>
+          <NoContent
+            title='Killmail not found.'
+            descr='Actually EveTools still doesn`t have many killmails as on ZKillboard.'
+          />
+        </Body>
+      )
+    }
     return (
       <>
         <Body>

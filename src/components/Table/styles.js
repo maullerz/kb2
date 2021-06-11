@@ -168,4 +168,6 @@ export const DayRow = styled.div`
   line-height: 120%;
   color: var(--tableRowTextColor);
   border: 1px solid transparent;
+  // background: black;
+  background: var(--mainLayoutWorkspaceBackground);
 `

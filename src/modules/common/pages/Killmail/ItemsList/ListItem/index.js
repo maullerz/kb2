@@ -12,9 +12,11 @@ import {
   Sum,
 } from './styles'
 
+// Failed Sort by Sum - http://localhost:4001/kill/93337849
+
 const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile }) => {
   let sum
-  if (!prices && process.env.NODE_ENV === 'development') {
+  if (!prices && !totalSum && process.env.NODE_ENV === 'development') {
     console.warn('ListItem without prices:', { type, count, isDestroyed, inContainer, prices, totalSum, singleton, isMobile })
   }
 
