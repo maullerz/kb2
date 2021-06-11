@@ -27,12 +27,9 @@ const ShipSummary = ({ stats }) => {
             <Row>
               <Label>Group:</Label>
               <div>
-                {groupName}
-                {/*
-                  <Link to={`/group/${groupID}`}>
-                    {groupName}
-                  </Link>
-                */}
+                <Link to={`/group/${groupID}`}>
+                  {groupName}
+                </Link>
               </div>
             </Row>
           }

@@ -60,6 +60,31 @@ export const getTypeName = typeID => {
   return typeInfo.name
 }
 
+export const getGroupTypes = groupID => {
+  const typeIds = Object.keys(types).filter(typeID => {
+    const type = types[typeID]
+    return type.groupID === Number(groupID)
+  })
+  return typeIds.map(id => ({
+    id,
+    name: types[id].name,
+  }))
+}
+
+export const getGroupInfo = groupID => {
+  const groupInfo = groups[groupID]
+  if (!groupInfo) {
+    console.error('getGroupInfo: not found groupID:', groupID)
+    return false
+  }
+  return {
+    id: groupID,
+    name: groupInfo.name,
+    categoryID: groupInfo.categoryID,
+    types: getGroupTypes(groupID),
+  }
+}
+
 export const getGroupID = typeID => {
   const typeInfo = getTypeInfo(typeID)
   if (!typeInfo) {

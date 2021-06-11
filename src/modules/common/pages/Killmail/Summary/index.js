@@ -52,12 +52,9 @@ const Summary = ({ kmData }) => {
           </span>
           {` / `}
           <span style={noWrap}>
-            {SdeUtils.getGroupName(vict.ship)}
-            {/*
-              <Link to={`/group/${SdeUtils.getGroupID(vict.ship)}`}>
-                {SdeUtils.getGroupName(vict.ship)}
-              </Link>
-            */}
+            <Link to={`/group/${SdeUtils.getGroupID(vict.ship)}`}>
+              {SdeUtils.getGroupName(vict.ship)}
+            </Link>
           </span>
         </div>
       </Row>

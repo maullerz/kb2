@@ -1,5 +1,6 @@
 import React, { Fragment, useState, useEffect } from 'react'
 import { useParams, Redirect } from 'react-router-dom'
+import ReactTooltip from 'react-tooltip'
 
 // import KillmailService from 'api/KillmailService'
 import * as SdeUtils from 'utils/SdeUtils'
@@ -10,46 +11,46 @@ import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
 import GroupSummary from './GroupSummary'
 
 const Group = () => {
-  const shipID = Number(useParams().shipID)
+  const groupID = Number(useParams().groupID)
   const { killsType } = useParams()
   const isLosses = killsType === 'losses'
   const isKills = killsType === 'kills'
   const [stats, setStats] = useState(null)
 
-  if (!shipID) {
+  if (!groupID) {
     return <Redirect to='/' />
   }
 
   async function getGroupStats() {
     try {
-      // const { data } = await KillmailService.getStats({ shipID })
-      const typeInfo = SdeUtils.getTypeInfo(shipID)
-      const data = {
-        ...typeInfo,
-        id: shipID,
-        groupName: SdeUtils.getGroupName(shipID),
-      }
+      // const { data } = await KillmailService.getStats({ groupID })
+      const data = SdeUtils.getGroupInfo(groupID)
       setStats(data)
+      ReactTooltip.rebuild()
     } catch (e) {
       console.error('getGroupStats:', e.message || e)
     }
   }
 
   useEffect(() => {
-    if (shipID) {
+    if (groupID) {
       setStats(null)
       getGroupStats()
     }
-  }, [shipID])
+
+    return () => {
+      ReactTooltip.hide()
+    }
+  }, [groupID])
 
   return (
     <PageLayout>
       <Fragment key='head'>
         <GroupSummary stats={stats} />
-        <SummaryNavigation root={`/ship/${shipID}`} />
+        <SummaryNavigation root={`/group/${groupID}`} />
       </Fragment>
       <Fragment key='content'>
-        <KillmailsTable shipID={shipID} isLosses={isLosses} isKills={isKills} />
+        <KillmailsTable groupID={groupID} isLosses={isLosses} isKills={isKills} />
       </Fragment>
     </PageLayout>
   )

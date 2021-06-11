@@ -10,6 +10,10 @@ export const Root = styled.div`
   @media (max-width: 400px) {
     padding: 0 5px;
   }
+
+  ${p => p.withItems && `
+    flex-direction: column;
+  `}
 `
 
 export const LogosBlock = styled.div`
@@ -43,5 +47,23 @@ export const InfoBlock = styled.div`
   @media (max-width: 400px) {
     margin-left: 5px;
     font-size: 10px;
+  }
+`
+
+export const ItemsWrapper = styled.div`
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: 10px;
+  padding: 5px;
+  border-bottom: 1px solid #333;
+
+  // > a {
+  //   margin-right: 5px;
+  //   margin-bottom: 5px;
+  // }
+
+  @media (max-width: 400px) {
+    margin-left: 5px;
   }
 `

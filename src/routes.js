@@ -12,7 +12,7 @@ import Character from 'modules/entities/pages/Character'
 import Corporation from 'modules/entities/pages/Corporation'
 import Alliance from 'modules/entities/pages/Alliance'
 import Ship from 'modules/entities/pages/Ship'
-// import Group from 'modules/entities/pages/Group'
+import Group from 'modules/entities/pages/Group'
 
 import Preset from 'modules/entities/pages/Preset'
 
@@ -48,6 +48,8 @@ const MainRoutes = () => {
 
         <Route path='/ship/:shipID' component={Ship} exact />
         <Route path='/ship/:shipID/:killsType' component={Ship} exact />
+        <Route path='/group/:groupID' component={Group} exact />
+        <Route path='/group/:groupID/:killsType' component={Group} exact />
 
         <Route path='/preset/:type' component={Preset} exact />
 

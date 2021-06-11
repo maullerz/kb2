@@ -5,6 +5,7 @@ import TablePagination from '@material-ui/core/TablePagination'
 // import PaginationItem from '@material-ui/lab/PaginationItem'
 
 import * as DateUtils from 'utils/DateUtils'
+import * as SdeUtils from 'utils/SdeUtils'
 import Spinner from 'components/Spinner'
 
 import TableHeadCell from './TableHeadCell'
@@ -25,8 +26,12 @@ const checkForVictim = (data, params) => {
   if (params.allyID && data.vict.ally?.id === params.allyID) {
     return true
   }
-  if (params.shipID && data.vict.ship?.id === params.shipID) {
+  if (params.shipID && data.vict.ship.id === params.shipID) {
     return true
+  }
+  if (params.groupID) {
+    const victGroupID = SdeUtils.getGroupID(data.vict.ship.id)
+    return victGroupID === params.groupID
   }
   return false
 }
@@ -38,7 +43,7 @@ const Table = props => {
     pagination, onGoToPage,
   } = props
 
-  const isVictimCheck = params.charID || params.corpID || params.allyID || params.shipID
+  const isVictimCheck = params.charID || params.corpID || params.allyID || params.shipID || params.groupID
 
   // console.log('pagination:', pagination)
 

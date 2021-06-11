@@ -1,4 +1,4 @@
-import React, { useState, useReducer, useEffect, useCallback, useMemo } from 'react'
+import React, { useState, useReducer, useEffect, useMemo } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
 import ReactTooltip from 'react-tooltip'
 import isEqual from 'lodash/isEqual'
@@ -53,10 +53,10 @@ const KillmailsTable = props => {
   const [params, setParams] = useState({ ...props, page })
 
   // Page in TablePagination = page + 1
-  const handleGoToPage = useCallback((ev, selectedPage) => {
+  const handleGoToPage = (ev, selectedPage) => {
     setState({ page: selectedPage + 1 })
     setParams({ ...params, page: selectedPage + 1 })
-  }, [])
+  }
 
   async function getKillmails() {
     setState({ isLoading: true, items: [] })

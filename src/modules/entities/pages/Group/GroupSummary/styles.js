@@ -23,3 +23,23 @@ export const Label = styled.div`
     min-width: 60px;
   }
 `
+
+export const ItemCont = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  // padding: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  font-size: 12px;
+  text-align: center;
+
+  ${p => p.isDesktop && `
+    width: 100px;
+    max-width: 100px;
+    height: 80px;
+    max-height: 80px;
+    overflow: hidden;
+  `}
+`
