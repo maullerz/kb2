@@ -114252,17 +114252,17 @@
   [
     52801,
     303,
-    "Basic 'Bonding' Cerebral Accelerator"
+    "Expired Basic 'Bonding' Cerebral Accelerator"
   ],
   [
     52802,
     303,
-    "Potent 'Bonding' Cerebral Accelerator"
+    "Expired Potent 'Bonding' Cerebral Accelerator"
   ],
   [
     52803,
     303,
-    "Extended 'Bonding' Cerebral Accelerator"
+    "Expired Extended 'Bonding' Cerebral Accelerator"
   ],
   [
     52804,
@@ -114282,17 +114282,17 @@
   [
     52807,
     303,
-    "Basic 'Radiance' Cerebral Accelerator"
+    "Expired Basic 'Radiance' Cerebral Accelerator"
   ],
   [
     52808,
     303,
-    "Potent 'Radiance' Cerebral Accelerator"
+    "Expired Potent 'Radiance' Cerebral Accelerator"
   ],
   [
     52809,
     303,
-    "Extended 'Radiance' Cerebral Accelerator"
+    "Expired Extended 'Radiance' Cerebral Accelerator"
   ],
   [
     52810,
@@ -115041,48 +115041,48 @@
   ],
   [
     53330,
-    4041,
-    "DSHR-01H Highsec Ice Storm Filament"
+    4072,
+    "Expired DSHR-01H Highsec Ice Storm Filament"
   ],
   [
     53331,
-    4041,
-    "DNCR-05H Highsec Ice Storm Filament"
+    4072,
+    "Expired DNCR-05H Highsec Ice Storm Filament"
   ],
   [
     53332,
-    4041,
-    "PRNCR-10H Highsec Ice Storm Filament"
+    4072,
+    "Expired PRNCR-10H Highsec Ice Storm Filament"
   ],
   [
     53333,
-    4041,
-    "VXN-01N Nullsec Ice Storm Filament"
+    4072,
+    "Expired VXN-01N Nullsec Ice Storm Filament"
   ],
   [
     53334,
-    4041,
-    "CMT-05N Nullsec Ice Storm Filament"
+    4072,
+    "Expired CMT-05N Nullsec Ice Storm Filament"
   ],
   [
     53335,
-    4041,
-    "CPD-10N Nullsec Ice Storm Filament"
+    4072,
+    "Expired CPD-10N Nullsec Ice Storm Filament"
   ],
   [
     53336,
-    4041,
-    "DNNR-01L Lowsec Ice Storm Filament"
+    4072,
+    "Expired DNNR-01L Lowsec Ice Storm Filament"
   ],
   [
     53337,
-    4041,
-    "BLTZN-05L Lowsec Ice Storm Filament"
+    4072,
+    "Expired BLTZN-05L Lowsec Ice Storm Filament"
   ],
   [
     53338,
-    4041,
-    "RDLF-10L Lowsec Ice Storm Filament"
+    4072,
+    "Expired RDLF-10L Lowsec Ice Storm Filament"
   ],
   [
     53341,
@@ -122382,7 +122382,7 @@
   [
     57374,
     4050,
-    "Event 25 Proving Filament"
+    "1v1 Battleships Proving Filament"
   ],
   [
     57397,
@@ -123052,17 +123052,17 @@
   [
     57745,
     303,
-    "Basic 'Guri Kikhivaa' Cerebral Accelerator"
+    "Expired Basic 'Guri Kikhivaa' Cerebral Accelerator"
   ],
   [
     57746,
     303,
-    "Improved 'Guri Kikhivaa' Cerebral Accelerator"
+    "Expired Improved 'Guri Kikhivaa' Cerebral Accelerator"
   ],
   [
     57747,
     303,
-    "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+    "Expired Extended 'Guri Kikhivaa' Cerebral Accelerator"
   ],
   [
     57750,
@@ -123332,42 +123332,42 @@
   [
     58785,
     1090,
-    "58785_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_amarr.png"
+    "Women's Imperial Stargate Crew Pants"
   ],
   [
     58786,
     1090,
-    "58786_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_caldari.png"
+    "Women's State Stargate Crew Pants"
   ],
   [
     58787,
     1090,
-    "58787_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_gallente.png"
+    "Women's Federation Stargate Crew Pants"
   ],
   [
     58788,
     1090,
-    "58788_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_minmatar.png"
+    "Women's Republic Stargate Crew Pants"
   ],
   [
     58791,
     1090,
-    "58791_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_amarr.png"
+    "Men's Imperial Stargate Crew Pants"
   ],
   [
     58792,
     1090,
-    null
+    "Men's State Stargate Crew Pants"
   ],
   [
     58793,
     1090,
-    "58793_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_gallente.png"
+    "Men's Federation Stargate Crew Pants"
   ],
   [
     58794,
     1090,
-    null
+    "Men's Republic Stargate Crew Pants"
   ],
   [
     58795,
@@ -123402,62 +123402,62 @@
   [
     58809,
     1089,
-    "58809_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_amarr.png"
+    "Women's Imperial Stargate Crew Top"
   ],
   [
     58810,
     1089,
-    "58810_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_caldari.png"
+    "Women's State Stargate Crew Top"
   ],
   [
     58811,
     1089,
-    "58811_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_gallente.png"
+    "Women's Federation Stargate Crew Top"
   ],
   [
     58812,
     1089,
-    "58812_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_minmatar.png"
+    "Women's Republic Stargate Crew Top"
   ],
   [
     58813,
     1089,
-    "58813_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_amarr.png"
+    "Men's Imperial Stargate Crew Top"
   ],
   [
     58814,
     1089,
-    "58814_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_caldari.png"
+    "Men's State Stargate Crew Top"
   ],
   [
     58815,
     1089,
-    "58815_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_gallente.png"
+    "Men's Federation Stargate Crew Top"
   ],
   [
     58816,
     1089,
-    "58816_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_minmatar.png"
+    "Men's Republic Stargate Crew Top"
   ],
   [
     58817,
     1091,
-    "58817_Female_Feet_ShoesEngF01_Types_ShoesEngF01_amarr.png"
+    "Women's Imperial Stargate Crew Shoes"
   ],
   [
     58818,
     1091,
-    null
+    "Women's State Stargate Crew Shoes"
   ],
   [
     58819,
     1091,
-    "58819_Female_Feet_ShoesEngF01_Types_ShoesEngF01_gallente.png"
+    "Women's Federation Stargate Crew Shoes"
   ],
   [
     58820,
     1091,
-    null
+    "Women's Republic Stargate Crew Shoes"
   ],
   [
     58821,
@@ -123467,22 +123467,22 @@
   [
     58825,
     1091,
-    "58825_Male_Feet_ShoesEngM01_Types_ShoesEngM01_amarr.png"
+    "Men's Imperial Stargate Crew Shoes"
   ],
   [
     58826,
     1091,
-    "58826_Male_Feet_ShoesEngM01_Types_ShoesEngM01_caldari.png"
+    "Men's State Stargate Crew Shoes"
   ],
   [
     58827,
     1091,
-    "58827_Male_Feet_ShoesEngM01_Types_ShoesEngM01_gallente.png"
+    "Men's Federation Stargate Crew Shoes"
   ],
   [
     58828,
     1091,
-    "58828_Male_Feet_ShoesEngM01_Types_ShoesEngM01_minmatar.png"
+    "Men's Republic Stargate Crew Shoes"
   ],
   [
     58829,
@@ -123492,12 +123492,12 @@
   [
     58843,
     4050,
-    "Event 26 Proving Filament"
+    "2v2v2 Gallente Cruiser and AF Proving Filament"
   ],
   [
     58844,
     4050,
-    "Event 27 Proving Filament"
+    "2v2 T1 Destroyers Proving Filament"
   ],
   [
     58845,
@@ -123532,17 +123532,17 @@
   [
     58851,
     303,
-    "Extended Capsuleer Day Cerebral Accelerator"
+    "Expired Extended Capsuleer Day Cerebral Accelerator"
   ],
   [
     58852,
     303,
-    "Potent Capsuleer Day Cerebral Accelerator"
+    "Expired Potent Capsuleer Day Cerebral Accelerator"
   ],
   [
     58853,
     303,
-    "Basic Capsuleer Day Cerebral Accelerator"
+    "Expired Basic Capsuleer Day Cerebral Accelerator"
   ],
   [
     58854,
@@ -123561,13 +123561,23 @@
   ],
   [
     58857,
-    4041,
-    "Capsuleer Day Noise-18 'Needlejack' Filament"
+    4072,
+    "Expired Capsuleer Day Noise-18 'Needlejack' Filament"
   ],
   [
     58858,
     4041,
     "Capsuleer Day Signal-18 'Needlejack' Filament"
+  ],
+  [
+    58904,
+    4107,
+    "Mobile Observatory"
+  ],
+  [
+    58905,
+    4108,
+    "Mobile Observatory Blueprint"
   ],
   [
     58906,
@@ -123578,6 +123588,86 @@
     58919,
     4117,
     "Interdiction Nullifier I"
+  ],
+  [
+    58933,
+    1088,
+    "Men's State Commander's Dress Jacket"
+  ],
+  [
+    58934,
+    1088,
+    "Men's Imperial Commander's Dress Jacket"
+  ],
+  [
+    58935,
+    1088,
+    "Men's Federation Commander's Dress Jacket"
+  ],
+  [
+    58936,
+    1088,
+    "Men's Republic Commander's Dress Jacket"
+  ],
+  [
+    58941,
+    1088,
+    "Women's State Commander's Dress Jacket"
+  ],
+  [
+    58942,
+    1088,
+    "Women's Imperial Commander's Dress Jacket"
+  ],
+  [
+    58943,
+    1088,
+    "Women's Federation Commander's Dress Jacket"
+  ],
+  [
+    58944,
+    1088,
+    "Women's Republic Commander's Dress Jacket"
+  ],
+  [
+    58946,
+    1090,
+    "Women's State Commander's Dress Pants"
+  ],
+  [
+    58947,
+    1090,
+    "Women's Imperial Commander's Dress Pants"
+  ],
+  [
+    58948,
+    1090,
+    "Women's Federation Commander's Dress Pants"
+  ],
+  [
+    58949,
+    1090,
+    "Women's Republic Commander's Dress Pants"
+  ],
+  [
+    58951,
+    1090,
+    "Men's State Commander's Dress Pants"
+  ],
+  [
+    58952,
+    1090,
+    "Men's Imperial Commander's Dress Pants"
+  ],
+  [
+    58953,
+    1090,
+    "Men's Federation Commander's Dress Pants"
+  ],
+  [
+    58954,
+    1090,
+    "Men's Republic Commander's Dress Pants"
   ],
   [
     58955,
@@ -123615,13 +123705,278 @@
     "Interdiction Nullifier II Blueprint"
   ],
   [
+    59174,
+    1803,
+    "♦ Succubus"
+  ],
+  [
+    59175,
+    1813,
+    "♦ Phantasm"
+  ],
+  [
+    59176,
+    1814,
+    "♦ Nightmare"
+  ],
+  [
     59177,
     303,
     "Serenity Monthly Cerebral Accelerator - 2021.6"
   ],
   [
+    59178,
+    1088,
+    "Men's 'Republic Valklear' Jacket"
+  ],
+  [
+    59179,
+    1090,
+    "Men's 'Republic Valklear' Pants"
+  ],
+  [
+    59180,
+    1088,
+    "Women's 'Republic Valklear' Jacket"
+  ],
+  [
+    59181,
+    1090,
+    "Women's 'Republic Valklear' Pants"
+  ],
+  [
+    59185,
+    1088,
+    "Men's 'Federal Defender' Jacket"
+  ],
+  [
+    59187,
+    1090,
+    "Men's 'Federal Defender' Pants"
+  ],
+  [
+    59189,
+    303,
+    "Mining Blitz Range Booster Dose I"
+  ],
+  [
+    59190,
+    303,
+    "Mining Blitz Range Booster Dose II"
+  ],
+  [
+    59191,
+    303,
+    "Mining Blitz Range Booster Dose III"
+  ],
+  [
+    59192,
+    303,
+    "Mining Blitz Yield Booster Dose I"
+  ],
+  [
+    59193,
+    303,
+    "Mining Blitz Yield Booster Dose II"
+  ],
+  [
+    59194,
+    303,
+    "Mining Blitz Yield Booster Dose III"
+  ],
+  [
+    59195,
+    4098,
+    "Mining Blitz Expedition Frigates Expert System"
+  ],
+  [
+    59196,
+    1088,
+    "Women's 'Federal Defender' Jacket"
+  ],
+  [
     59197,
     303,
     "Neo Serenity Special Cerebral Accelerator"
+  ],
+  [
+    59198,
+    1090,
+    "Women's 'Federal Defender' Pants"
+  ],
+  [
+    59199,
+    1084,
+    "Men's Republic Service Tattoo (Thukker)"
+  ],
+  [
+    59200,
+    1084,
+    "Women's Republic Service Tattoo (Thukker)"
+  ],
+  [
+    59201,
+    1084,
+    "Men's Republic Service Tattoo (Starkmanir)"
+  ],
+  [
+    59202,
+    1084,
+    "Women's Republic Service Tattoo (Starkmanir)"
+  ],
+  [
+    59221,
+    1084,
+    "Men's Republic Service Tattoo (Brutor)"
+  ],
+  [
+    59223,
+    1084,
+    "Women's Republic Service Tattoo (Brutor)"
+  ],
+  [
+    59226,
+    1084,
+    "Men's Republic Service Tattoo (Vherokior)"
+  ],
+  [
+    59227,
+    1084,
+    "Women's Republic Service Tattoo (Vherokior)"
+  ],
+  [
+    59228,
+    1084,
+    "Men's Republic Service Tattoo (Krusual)"
+  ],
+  [
+    59229,
+    1084,
+    "Women's Republic Service Tattoo (Krusual)"
+  ],
+  [
+    59230,
+    1084,
+    "Men's Republic Service Tattoo (Sebiestor)"
+  ],
+  [
+    59231,
+    1084,
+    "Women's Republic Service Tattoo (Sebiestor)"
+  ],
+  [
+    59232,
+    1084,
+    "Men's Republic Service Tattoo (Nefantar)"
+  ],
+  [
+    59233,
+    1084,
+    "Women's Republic Service Tattoo (Nefantar)"
+  ],
+  [
+    59294,
+    303,
+    "Serenity YC123.6 Season Standard Cerebral Accelerator"
+  ],
+  [
+    59295,
+    303,
+    "Serenity YC123.6 Season Advanced Cerebral Accelerator"
+  ],
+  [
+    59296,
+    303,
+    "Serenity YC123.6 Season Pass"
+  ],
+  [
+    59297,
+    303,
+    "Serenity EoM Season Accelerator Bronze"
+  ],
+  [
+    59298,
+    303,
+    "Serenity EoM Season Accelerator Silver"
+  ],
+  [
+    59299,
+    303,
+    "Serenity EoM Season Accelerator Gold"
+  ],
+  [
+    59301,
+    303,
+    "Serenity Extended Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    59302,
+    303,
+    "Serenity Potent Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    59303,
+    303,
+    "Serenity Basic Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    59304,
+    303,
+    "Serenity Potent Capsuleer Day Glamourex Booster"
+  ],
+  [
+    59305,
+    303,
+    "Serenity Extended Capsuleer Day Glamourex Booster"
+  ],
+  [
+    59306,
+    303,
+    "Serenity Basic Capsuleer Day Glamourex Booster"
+  ],
+  [
+    59307,
+    4041,
+    "Serenity Capsuleer Day Noise-18 'Needlejack' Filament"
+  ],
+  [
+    59308,
+    4041,
+    "Serenity Capsuleer Day Signal-18 'Needlejack' Filament"
+  ],
+  [
+    59317,
+    314,
+    "Serenity Ship Crate"
+  ],
+  [
+    59318,
+    314,
+    "Serenity Imp/Whiptail Crate"
+  ],
+  [
+    59319,
+    1194,
+    "Gallente Federation Day Jacket Crate"
+  ],
+  [
+    59320,
+    1194,
+    "Gallente Federation Day Pants Crate"
+  ],
+  [
+    59322,
+    1194,
+    " Capsuleer Day XVIII Omega Booster Gift Box"
+  ],
+  [
+    59369,
+    4050,
+    "Event 34 Proving Filament"
+  ],
+  [
+    59404,
+    4098,
+    "Gallente Federation Day Expert System"
   ]
 ]

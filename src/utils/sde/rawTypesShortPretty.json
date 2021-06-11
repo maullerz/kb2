@@ -91401,15 +91401,15 @@
   },
   "52801": {
     "groupID": 303,
-    "name": "Basic 'Bonding' Cerebral Accelerator"
+    "name": "Expired Basic 'Bonding' Cerebral Accelerator"
   },
   "52802": {
     "groupID": 303,
-    "name": "Potent 'Bonding' Cerebral Accelerator"
+    "name": "Expired Potent 'Bonding' Cerebral Accelerator"
   },
   "52803": {
     "groupID": 303,
-    "name": "Extended 'Bonding' Cerebral Accelerator"
+    "name": "Expired Extended 'Bonding' Cerebral Accelerator"
   },
   "52804": {
     "groupID": 303,
@@ -91425,15 +91425,15 @@
   },
   "52807": {
     "groupID": 303,
-    "name": "Basic 'Radiance' Cerebral Accelerator"
+    "name": "Expired Basic 'Radiance' Cerebral Accelerator"
   },
   "52808": {
     "groupID": 303,
-    "name": "Potent 'Radiance' Cerebral Accelerator"
+    "name": "Expired Potent 'Radiance' Cerebral Accelerator"
   },
   "52809": {
     "groupID": 303,
-    "name": "Extended 'Radiance' Cerebral Accelerator"
+    "name": "Expired Extended 'Radiance' Cerebral Accelerator"
   },
   "52810": {
     "groupID": 303,
@@ -92032,40 +92032,40 @@
     "name": "Battleship Elite"
   },
   "53330": {
-    "groupID": 4041,
-    "name": "DSHR-01H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DSHR-01H Highsec Ice Storm Filament"
   },
   "53331": {
-    "groupID": 4041,
-    "name": "DNCR-05H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNCR-05H Highsec Ice Storm Filament"
   },
   "53332": {
-    "groupID": 4041,
-    "name": "PRNCR-10H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired PRNCR-10H Highsec Ice Storm Filament"
   },
   "53333": {
-    "groupID": 4041,
-    "name": "VXN-01N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired VXN-01N Nullsec Ice Storm Filament"
   },
   "53334": {
-    "groupID": 4041,
-    "name": "CMT-05N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CMT-05N Nullsec Ice Storm Filament"
   },
   "53335": {
-    "groupID": 4041,
-    "name": "CPD-10N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CPD-10N Nullsec Ice Storm Filament"
   },
   "53336": {
-    "groupID": 4041,
-    "name": "DNNR-01L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNNR-01L Lowsec Ice Storm Filament"
   },
   "53337": {
-    "groupID": 4041,
-    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired BLTZN-05L Lowsec Ice Storm Filament"
   },
   "53338": {
-    "groupID": 4041,
-    "name": "RDLF-10L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired RDLF-10L Lowsec Ice Storm Filament"
   },
   "53341": {
     "groupID": 1194,
@@ -97904,7 +97904,7 @@
   },
   "57374": {
     "groupID": 4050,
-    "name": "Event 25 Proving Filament"
+    "name": "1v1 Battleships Proving Filament"
   },
   "57397": {
     "groupID": 185
@@ -98437,15 +98437,15 @@
   },
   "57745": {
     "groupID": 303,
-    "name": "Basic 'Guri Kikhivaa' Cerebral Accelerator"
+    "name": "Expired Basic 'Guri Kikhivaa' Cerebral Accelerator"
   },
   "57746": {
     "groupID": 303,
-    "name": "Improved 'Guri Kikhivaa' Cerebral Accelerator"
+    "name": "Expired Improved 'Guri Kikhivaa' Cerebral Accelerator"
   },
   "57747": {
     "groupID": 303,
-    "name": "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+    "name": "Expired Extended 'Guri Kikhivaa' Cerebral Accelerator"
   },
   "57750": {
     "groupID": 287,
@@ -98661,33 +98661,35 @@
   },
   "58785": {
     "groupID": 1090,
-    "name": "58785_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_amarr.png"
+    "name": "Women's Imperial Stargate Crew Pants"
   },
   "58786": {
     "groupID": 1090,
-    "name": "58786_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_caldari.png"
+    "name": "Women's State Stargate Crew Pants"
   },
   "58787": {
     "groupID": 1090,
-    "name": "58787_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_gallente.png"
+    "name": "Women's Federation Stargate Crew Pants"
   },
   "58788": {
     "groupID": 1090,
-    "name": "58788_Female_bottomOuter_PantsEngF01_Types_PantsEngF01_minmatar.png"
+    "name": "Women's Republic Stargate Crew Pants"
   },
   "58791": {
     "groupID": 1090,
-    "name": "58791_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_amarr.png"
+    "name": "Men's Imperial Stargate Crew Pants"
   },
   "58792": {
-    "groupID": 1090
+    "groupID": 1090,
+    "name": "Men's State Stargate Crew Pants"
   },
   "58793": {
     "groupID": 1090,
-    "name": "58793_Male_bottomOuter_PantsEngM01_Types_PantsEngM01_gallente.png"
+    "name": "Men's Federation Stargate Crew Pants"
   },
   "58794": {
-    "groupID": 1090
+    "groupID": 1090,
+    "name": "Men's Republic Stargate Crew Pants"
   },
   "58795": {
     "groupID": 1194,
@@ -98715,49 +98717,51 @@
   },
   "58809": {
     "groupID": 1089,
-    "name": "58809_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_amarr.png"
+    "name": "Women's Imperial Stargate Crew Top"
   },
   "58810": {
     "groupID": 1089,
-    "name": "58810_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_caldari.png"
+    "name": "Women's State Stargate Crew Top"
   },
   "58811": {
     "groupID": 1089,
-    "name": "58811_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_gallente.png"
+    "name": "Women's Federation Stargate Crew Top"
   },
   "58812": {
     "groupID": 1089,
-    "name": "58812_Female_TopMiddle_ShirtEngF01_Types_ShirtEngF01_minmatar.png"
+    "name": "Women's Republic Stargate Crew Top"
   },
   "58813": {
     "groupID": 1089,
-    "name": "58813_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_amarr.png"
+    "name": "Men's Imperial Stargate Crew Top"
   },
   "58814": {
     "groupID": 1089,
-    "name": "58814_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_caldari.png"
+    "name": "Men's State Stargate Crew Top"
   },
   "58815": {
     "groupID": 1089,
-    "name": "58815_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_gallente.png"
+    "name": "Men's Federation Stargate Crew Top"
   },
   "58816": {
     "groupID": 1089,
-    "name": "58816_Male_topMiddle_ShirtEngM01_Types_ShirtEngM01_minmatar.png"
+    "name": "Men's Republic Stargate Crew Top"
   },
   "58817": {
     "groupID": 1091,
-    "name": "58817_Female_Feet_ShoesEngF01_Types_ShoesEngF01_amarr.png"
+    "name": "Women's Imperial Stargate Crew Shoes"
   },
   "58818": {
-    "groupID": 1091
+    "groupID": 1091,
+    "name": "Women's State Stargate Crew Shoes"
   },
   "58819": {
     "groupID": 1091,
-    "name": "58819_Female_Feet_ShoesEngF01_Types_ShoesEngF01_gallente.png"
+    "name": "Women's Federation Stargate Crew Shoes"
   },
   "58820": {
-    "groupID": 1091
+    "groupID": 1091,
+    "name": "Women's Republic Stargate Crew Shoes"
   },
   "58821": {
     "groupID": 1091,
@@ -98765,19 +98769,19 @@
   },
   "58825": {
     "groupID": 1091,
-    "name": "58825_Male_Feet_ShoesEngM01_Types_ShoesEngM01_amarr.png"
+    "name": "Men's Imperial Stargate Crew Shoes"
   },
   "58826": {
     "groupID": 1091,
-    "name": "58826_Male_Feet_ShoesEngM01_Types_ShoesEngM01_caldari.png"
+    "name": "Men's State Stargate Crew Shoes"
   },
   "58827": {
     "groupID": 1091,
-    "name": "58827_Male_Feet_ShoesEngM01_Types_ShoesEngM01_gallente.png"
+    "name": "Men's Federation Stargate Crew Shoes"
   },
   "58828": {
     "groupID": 1091,
-    "name": "58828_Male_Feet_ShoesEngM01_Types_ShoesEngM01_minmatar.png"
+    "name": "Men's Republic Stargate Crew Shoes"
   },
   "58829": {
     "groupID": 1091,
@@ -98785,11 +98789,11 @@
   },
   "58843": {
     "groupID": 4050,
-    "name": "Event 26 Proving Filament"
+    "name": "2v2v2 Gallente Cruiser and AF Proving Filament"
   },
   "58844": {
     "groupID": 4050,
-    "name": "Event 27 Proving Filament"
+    "name": "2v2 T1 Destroyers Proving Filament"
   },
   "58845": {
     "groupID": 4050,
@@ -98817,15 +98821,15 @@
   },
   "58851": {
     "groupID": 303,
-    "name": "Extended Capsuleer Day Cerebral Accelerator"
+    "name": "Expired Extended Capsuleer Day Cerebral Accelerator"
   },
   "58852": {
     "groupID": 303,
-    "name": "Potent Capsuleer Day Cerebral Accelerator"
+    "name": "Expired Potent Capsuleer Day Cerebral Accelerator"
   },
   "58853": {
     "groupID": 303,
-    "name": "Basic Capsuleer Day Cerebral Accelerator"
+    "name": "Expired Basic Capsuleer Day Cerebral Accelerator"
   },
   "58854": {
     "groupID": 303,
@@ -98840,12 +98844,20 @@
     "name": "Basic Capsuleer Day Glamourex Booster"
   },
   "58857": {
-    "groupID": 4041,
-    "name": "Capsuleer Day Noise-18 'Needlejack' Filament"
+    "groupID": 4072,
+    "name": "Expired Capsuleer Day Noise-18 'Needlejack' Filament"
   },
   "58858": {
     "groupID": 4041,
     "name": "Capsuleer Day Signal-18 'Needlejack' Filament"
+  },
+  "58904": {
+    "groupID": 4107,
+    "name": "Mobile Observatory"
+  },
+  "58905": {
+    "groupID": 4108,
+    "name": "Mobile Observatory Blueprint"
   },
   "58906": {
     "groupID": 4093,
@@ -98854,6 +98866,70 @@
   "58919": {
     "groupID": 4117,
     "name": "Interdiction Nullifier I"
+  },
+  "58933": {
+    "groupID": 1088,
+    "name": "Men's State Commander's Dress Jacket"
+  },
+  "58934": {
+    "groupID": 1088,
+    "name": "Men's Imperial Commander's Dress Jacket"
+  },
+  "58935": {
+    "groupID": 1088,
+    "name": "Men's Federation Commander's Dress Jacket"
+  },
+  "58936": {
+    "groupID": 1088,
+    "name": "Men's Republic Commander's Dress Jacket"
+  },
+  "58941": {
+    "groupID": 1088,
+    "name": "Women's State Commander's Dress Jacket"
+  },
+  "58942": {
+    "groupID": 1088,
+    "name": "Women's Imperial Commander's Dress Jacket"
+  },
+  "58943": {
+    "groupID": 1088,
+    "name": "Women's Federation Commander's Dress Jacket"
+  },
+  "58944": {
+    "groupID": 1088,
+    "name": "Women's Republic Commander's Dress Jacket"
+  },
+  "58946": {
+    "groupID": 1090,
+    "name": "Women's State Commander's Dress Pants"
+  },
+  "58947": {
+    "groupID": 1090,
+    "name": "Women's Imperial Commander's Dress Pants"
+  },
+  "58948": {
+    "groupID": 1090,
+    "name": "Women's Federation Commander's Dress Pants"
+  },
+  "58949": {
+    "groupID": 1090,
+    "name": "Women's Republic Commander's Dress Pants"
+  },
+  "58951": {
+    "groupID": 1090,
+    "name": "Men's State Commander's Dress Pants"
+  },
+  "58952": {
+    "groupID": 1090,
+    "name": "Men's Imperial Commander's Dress Pants"
+  },
+  "58953": {
+    "groupID": 1090,
+    "name": "Men's Federation Commander's Dress Pants"
+  },
+  "58954": {
+    "groupID": 1090,
+    "name": "Men's Republic Commander's Dress Pants"
   },
   "58955": {
     "groupID": 4118,
@@ -98883,12 +98959,224 @@
     "groupID": 4118,
     "name": "Interdiction Nullifier II Blueprint"
   },
+  "59174": {
+    "groupID": 1803,
+    "name": "♦ Succubus"
+  },
+  "59175": {
+    "groupID": 1813,
+    "name": "♦ Phantasm"
+  },
+  "59176": {
+    "groupID": 1814,
+    "name": "♦ Nightmare"
+  },
   "59177": {
     "groupID": 303,
     "name": "Serenity Monthly Cerebral Accelerator - 2021.6"
   },
+  "59178": {
+    "groupID": 1088,
+    "name": "Men's 'Republic Valklear' Jacket"
+  },
+  "59179": {
+    "groupID": 1090,
+    "name": "Men's 'Republic Valklear' Pants"
+  },
+  "59180": {
+    "groupID": 1088,
+    "name": "Women's 'Republic Valklear' Jacket"
+  },
+  "59181": {
+    "groupID": 1090,
+    "name": "Women's 'Republic Valklear' Pants"
+  },
+  "59185": {
+    "groupID": 1088,
+    "name": "Men's 'Federal Defender' Jacket"
+  },
+  "59187": {
+    "groupID": 1090,
+    "name": "Men's 'Federal Defender' Pants"
+  },
+  "59189": {
+    "groupID": 303,
+    "name": "Mining Blitz Range Booster Dose I"
+  },
+  "59190": {
+    "groupID": 303,
+    "name": "Mining Blitz Range Booster Dose II"
+  },
+  "59191": {
+    "groupID": 303,
+    "name": "Mining Blitz Range Booster Dose III"
+  },
+  "59192": {
+    "groupID": 303,
+    "name": "Mining Blitz Yield Booster Dose I"
+  },
+  "59193": {
+    "groupID": 303,
+    "name": "Mining Blitz Yield Booster Dose II"
+  },
+  "59194": {
+    "groupID": 303,
+    "name": "Mining Blitz Yield Booster Dose III"
+  },
+  "59195": {
+    "groupID": 4098,
+    "name": "Mining Blitz Expedition Frigates Expert System"
+  },
+  "59196": {
+    "groupID": 1088,
+    "name": "Women's 'Federal Defender' Jacket"
+  },
   "59197": {
     "groupID": 303,
     "name": "Neo Serenity Special Cerebral Accelerator"
+  },
+  "59198": {
+    "groupID": 1090,
+    "name": "Women's 'Federal Defender' Pants"
+  },
+  "59199": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Thukker)"
+  },
+  "59200": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Thukker)"
+  },
+  "59201": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Starkmanir)"
+  },
+  "59202": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Starkmanir)"
+  },
+  "59221": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Brutor)"
+  },
+  "59223": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Brutor)"
+  },
+  "59226": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Vherokior)"
+  },
+  "59227": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Vherokior)"
+  },
+  "59228": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Krusual)"
+  },
+  "59229": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Krusual)"
+  },
+  "59230": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Sebiestor)"
+  },
+  "59231": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Sebiestor)"
+  },
+  "59232": {
+    "groupID": 1084,
+    "name": "Men's Republic Service Tattoo (Nefantar)"
+  },
+  "59233": {
+    "groupID": 1084,
+    "name": "Women's Republic Service Tattoo (Nefantar)"
+  },
+  "59294": {
+    "groupID": 303,
+    "name": "Serenity YC123.6 Season Standard Cerebral Accelerator"
+  },
+  "59295": {
+    "groupID": 303,
+    "name": "Serenity YC123.6 Season Advanced Cerebral Accelerator"
+  },
+  "59296": {
+    "groupID": 303,
+    "name": "Serenity YC123.6 Season Pass"
+  },
+  "59297": {
+    "groupID": 303,
+    "name": "Serenity EoM Season Accelerator Bronze"
+  },
+  "59298": {
+    "groupID": 303,
+    "name": "Serenity EoM Season Accelerator Silver"
+  },
+  "59299": {
+    "groupID": 303,
+    "name": "Serenity EoM Season Accelerator Gold"
+  },
+  "59301": {
+    "groupID": 303,
+    "name": "Serenity Extended Capsuleer Day Cerebral Accelerator"
+  },
+  "59302": {
+    "groupID": 303,
+    "name": "Serenity Potent Capsuleer Day Cerebral Accelerator"
+  },
+  "59303": {
+    "groupID": 303,
+    "name": "Serenity Basic Capsuleer Day Cerebral Accelerator"
+  },
+  "59304": {
+    "groupID": 303,
+    "name": "Serenity Potent Capsuleer Day Glamourex Booster"
+  },
+  "59305": {
+    "groupID": 303,
+    "name": "Serenity Extended Capsuleer Day Glamourex Booster"
+  },
+  "59306": {
+    "groupID": 303,
+    "name": "Serenity Basic Capsuleer Day Glamourex Booster"
+  },
+  "59307": {
+    "groupID": 4041,
+    "name": "Serenity Capsuleer Day Noise-18 'Needlejack' Filament"
+  },
+  "59308": {
+    "groupID": 4041,
+    "name": "Serenity Capsuleer Day Signal-18 'Needlejack' Filament"
+  },
+  "59317": {
+    "groupID": 314,
+    "name": "Serenity Ship Crate"
+  },
+  "59318": {
+    "groupID": 314,
+    "name": "Serenity Imp/Whiptail Crate"
+  },
+  "59319": {
+    "groupID": 1194,
+    "name": "Gallente Federation Day Jacket Crate"
+  },
+  "59320": {
+    "groupID": 1194,
+    "name": "Gallente Federation Day Pants Crate"
+  },
+  "59322": {
+    "groupID": 1194,
+    "name": " Capsuleer Day XVIII Omega Booster Gift Box"
+  },
+  "59369": {
+    "groupID": 4050,
+    "name": "Event 34 Proving Filament"
+  },
+  "59404": {
+    "groupID": 4098,
+    "name": "Gallente Federation Day Expert System"
   }
 }

@@ -13475,6 +13475,24 @@
     "published": false,
     "useBasePrice": false
   },
+  "4107": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "Mobile Observatory",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4108": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mobile Observatory Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
   "4117": {
     "anchorable": false,
     "anchored": false,
