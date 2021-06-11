@@ -6,23 +6,25 @@ import SummaryLayout from 'layouts/SummaryLayout'
 import { Row, Label } from './styles'
 
 const ConstellationSummary = ({ stats }) => {
+  const { id, name, region } = stats || {}
+  const links = id && { type: 'constellation', id, name, region: region.name }
   return (
-    <SummaryLayout>
+    <SummaryLayout links={links} noImage>
       {stats &&
         <Fragment key='info'>
           <Row>
             <Label>Constellation:</Label>
             <div>
-              <Link to={`/constellation/${stats.id}`}>
-                {stats.name}
+              <Link to={`/constellation/${id}`}>
+                {name}
               </Link>
             </div>
           </Row>
           <Row>
             <Label>Region:</Label>
             <div>
-              <Link to={`/region/${stats.region?.id}`}>
-                {stats.region?.name}
+              <Link to={`/region/${region.id}`}>
+                {region.name}
               </Link>
             </div>
           </Row>

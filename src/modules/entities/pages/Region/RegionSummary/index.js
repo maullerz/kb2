@@ -1,22 +1,22 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
-// import { PageImgRect } from 'components/primitives'
 import SummaryLayout from 'layouts/SummaryLayout'
 
 import { Row, Label } from './styles'
 
 const RegionSummary = ({ stats }) => {
-  // console.log('stats:', JSON.stringify(stats, null, 2))
+  const { id, name } = stats || {}
+  const links = id && { type: 'region', id, name }
   return (
-    <SummaryLayout>
+    <SummaryLayout links={links} noImage>
       {stats &&
         <Fragment key='info'>
           <Row>
             <Label>Region:</Label>
             <div>
-              <Link to={`/region/${stats.id}`}>
-                {stats.name}
+              <Link to={`/region/${id}`}>
+                {name}
               </Link>
             </div>
           </Row>

@@ -1,18 +1,20 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
-import { getAllyUrl } from 'utils/KillmailUtils'
-// import { PageImgRect } from 'components/primitives'
 import SummaryLayout from 'layouts/SummaryLayout'
+import { getAllyUrl } from 'utils/KillmailUtils'
 
 import { Row, Label, Ticker } from './styles'
 
 const AllianceSummary = ({ stats }) => {
   const { id, name, ticker, execID, execName, execTicker } = stats || {}
+  const links = id && { type: 'ally', id, name }
 
-  // console.log('stats:', JSON.stringify(stats, null, 2))
   return (
-    <SummaryLayout imgProps={{ src: getAllyUrl(id, 256), alt: 'ally logo' }}>
+    <SummaryLayout
+      imgProps={{ src: getAllyUrl(id, 256), alt: 'ally logo' }}
+      links={links}
+    >
       {stats &&
         <Fragment key='info'>
           <Row>

@@ -2,22 +2,23 @@ import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
 import { getCorpUrl } from 'utils/KillmailUtils'
-// import { PageImgRect } from 'components/primitives'
 import SummaryLayout from 'layouts/SummaryLayout'
 
 import { Row, Label, Ticker } from './styles'
 
 const CorporationSummary = ({ stats }) => {
   const { id, name, ticker, ceoID, ceoName, allyID } = stats || {}
-
-  // console.log('stats:', JSON.stringify(stats, null, 2))
+  const links = id && { type: 'corp', id, name }
 
   return (
-    <SummaryLayout imgProps={{ src: getCorpUrl(id, 256), alt: 'corporation logo' }}>
+    <SummaryLayout
+      imgProps={{ src: getCorpUrl(id, 256), alt: 'corporation logo' }}
+      links={links}
+    >
       {stats &&
         <Fragment key='info'>
           <Row>
-            <Label>Corporation:</Label>
+            <Label>Corp:</Label>
             <div>
               <Link to={`/corporation/${id}`}>
                 {name}
@@ -54,6 +55,7 @@ const CorporationSummary = ({ stats }) => {
               {stats.members}
             </div>
           </Row>
+
         </Fragment>
       }
     </SummaryLayout>

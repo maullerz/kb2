@@ -20,7 +20,7 @@ export const Label = styled.div`
   min-width: 90px;
 
   @media (max-width: 400px) {
-    min-width: 60px;
+    min-width: 70px;
   }
 `
 

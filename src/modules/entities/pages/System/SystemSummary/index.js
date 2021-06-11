@@ -14,18 +14,21 @@ const getImgUrl = sunTypeID => {
 }
 
 const SystemSummary = ({ stats }) => {
-  const { sunTypeID, name, constellation, region, ss } = stats || {}
+  const { id, name, sunTypeID, constellation, region, ss } = stats || {}
   const ssStyle = ss && { color: SdeUtils.getSSColor(ss) }
+  const links = id && { type: 'system', id, name, region: region.name }
 
-  // console.log('stats:', JSON.stringify(stats, null, 2))
   return (
-    <SummaryLayout imgProps={{ src: getImgUrl(sunTypeID), alt: 'system sun' }}>
+    <SummaryLayout
+      imgProps={{ src: getImgUrl(sunTypeID), alt: 'system sun' }}
+      links={links}
+    >
       {stats &&
         <Fragment key='info'>
           <Row>
             <Label>System:</Label>
             <div>
-              <Link to={`/system/${stats.id}`}>
+              <Link to={`/system/${id}`}>
                 {name}
               </Link>
               &nbsp;

@@ -35,6 +35,22 @@ export const LogosBlock = styled.div`
   }
 `
 
+export const Container = styled.div`
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+
+  @media (max-width: 700px) {
+    flex-direction: column;
+  }
+`
+
+export const FlexRowContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+`
+
 export const InfoBlock = styled.div`
   display: flex;
   flex-direction: column;
@@ -46,7 +62,28 @@ export const InfoBlock = styled.div`
 
   @media (max-width: 400px) {
     margin-left: 5px;
-    font-size: 10px;
+    font-size: 12px;
+  }
+`
+
+export const LinksBlock = styled.div`
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 0;
+  flex-shrink: 1;
+  // width: 100%;
+  font-size: 14px;
+
+  > a {
+    margin-left: 16px;
+  }
+
+  @media (max-width: 700px) {
+    margin: 10px;
+  }
+
+  @media (max-width: 400px) {
+    font-size: 12px;
   }
 `
 

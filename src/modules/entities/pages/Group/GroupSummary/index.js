@@ -10,10 +10,10 @@ import { Row, Label, ItemCont } from './styles'
 const GroupSummary = ({ stats }) => {
   const isDesktop = false // useMediaQuery('(min-width: 401px)')
   const { id, name, types } = stats || {}
+  const links = id && { type: 'group', id, name }
 
-  // console.log('stats:', JSON.stringify(stats, null, 2))
   return (
-    <SummaryLayout>
+    <SummaryLayout links={links}>
       {stats &&
         <Fragment key='info'>
           <Row>
@@ -30,8 +30,8 @@ const GroupSummary = ({ stats }) => {
         <Fragment key='items'>
           {types.map(type => {
             return (
-              <ItemCont isDesktop={isDesktop}>
-                <ItemIcon key={type.id} id={type.id} tooltip link />
+              <ItemCont key={type.id} isDesktop={isDesktop}>
+                <ItemIcon id={type.id} tooltip link />
                 {isDesktop && type.name}
               </ItemCont>
             )

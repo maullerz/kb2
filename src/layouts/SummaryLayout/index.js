@@ -2,29 +2,137 @@ import React from 'react'
 
 import useLayout from 'utils/hooks/useLayout'
 import { PageImgRect } from 'components/primitives'
+import { Href } from 'components'
 
-import { Root, LogosBlock, InfoBlock, ItemsWrapper } from './styles'
+import { Root, LogosBlock, Container, FlexRowContainer, InfoBlock, LinksBlock, ItemsWrapper } from './styles'
 
-const SummaryLayout = ({ children, imgProps }) => {
+const SummaryLayout = ({ children, imgProps, links, noImage }) => {
   const blocks = useLayout(children)
+
+  function renderLinks() {
+    if (links.type === 'ship') {
+      return (
+        <Href link={`https://zkillboard.com/ship/${links.id}/`}>
+          zKillboard
+        </Href>
+      )
+    }
+    if (links.type === 'group') {
+      return (
+        <Href link={`https://zkillboard.com/group/${links.id}/`}>
+          zKillboard
+        </Href>
+      )
+    }
+    if (links.type === 'system') {
+      return (
+        <>
+          <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.region)}/${encodeURIComponent(links.name)}`}>
+            DOTLAN
+          </Href>
+          <Href link={`https://zkillboard.com/system/${links.id}/`}>
+            zKillboard
+          </Href>
+        </>
+      )
+    }
+    if (links.type === 'constellation') {
+      return (
+        <>
+          <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.region)}/${encodeURIComponent(links.name)}`}>
+            DOTLAN
+          </Href>
+          <Href link={`https://zkillboard.com/constellation/${links.id}/`}>
+            zKillboard
+          </Href>
+        </>
+      )
+    }
+    if (links.type === 'region') {
+      return (
+        <>
+          <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.name)}`}>
+            DOTLAN
+          </Href>
+          <Href link={`https://zkillboard.com/region/${links.id}/`}>
+            zKillboard
+          </Href>
+        </>
+      )
+    }
+    if (links.type === 'char') {
+      return (
+        <>
+          <Href link={`https://zkillboard.com/character/${links.id}/`}>
+            zKillboard
+          </Href>
+          <Href link={`https://evewho.com/character/${links.id}/`}>
+            EVEWho
+          </Href>
+        </>
+      )
+    }
+    if (links.type === 'corp') {
+      return (
+        <>
+          <Href link={`https://evemaps.dotlan.net/corp/${encodeURIComponent(links.name)}`}>
+            DOTLAN
+          </Href>
+          <Href link={`https://zkillboard.com/corporation/${links.id}/`}>
+            zKillboard
+          </Href>
+          <Href link={`https://evewho.com/corporation/${links.id}/`}>
+            EVEWho
+          </Href>
+        </>
+      )
+    }
+    if (links.type === 'ally') {
+      return (
+        <>
+          <Href link={`https://evemaps.dotlan.net/alliance/${encodeURIComponent(links.name)}`}>
+            DOTLAN
+          </Href>
+          <Href link={`https://zkillboard.com/alliance/${links.id}/`}>
+            zKillboard
+          </Href>
+          <Href link={`https://evewho.com/alliance/${links.id}/`}>
+            EVEWho
+          </Href>
+        </>
+      )
+    }
+
+    return null
+  }
 
   return (
     <Root withItems={!!blocks.items}>
-      {!blocks.items &&
-        <PageImgRect {...(blocks.info ? imgProps : {})} />
-      }
+      <Container>
+        <FlexRowContainer>
+          {!blocks.items && !noImage &&
+            <PageImgRect {...(blocks.info ? imgProps : {})} />
+          }
 
-      {blocks.logos &&
-        <LogosBlock>
-          {blocks.logos}
-        </LogosBlock>
-      }
+          {blocks.logos &&
+            <LogosBlock>
+              {blocks.logos}
+            </LogosBlock>
+          }
 
-      {blocks.info &&
-        <InfoBlock>
-          {blocks.info}
-        </InfoBlock>
-      }
+          {blocks.info &&
+            <InfoBlock>
+              {blocks.info}
+            </InfoBlock>
+          }
+        </FlexRowContainer>
+
+        {links &&
+          <LinksBlock>
+            {renderLinks()}
+          </LinksBlock>
+        }
+      </Container>
 
       {blocks.items &&
         <ItemsWrapper>

@@ -52,7 +52,7 @@ function FittingWheel({ kmData }) {
       </Root>
       <ZkbLinkCont>
         <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
-          zkillboard
+          zKillboard
         </Href>
       </ZkbLinkCont>
     </>

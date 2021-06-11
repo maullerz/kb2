@@ -41,4 +41,14 @@ export const ImgRect = styled.div`
   height: 102px;
   border: 1px solid #333;
   background-color: #222;
+
+  @media (max-width: 400px) {
+    width: 62px;
+    height: 62px;
+
+    > img {
+      width: 60px;
+      height: 60px;
+    }
+  }
 `

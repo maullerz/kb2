@@ -4,21 +4,20 @@ import { useMediaQuery } from '@react-hook/media-query'
 
 import { getCharUrl } from 'utils/KillmailUtils'
 import { OrgIcon } from 'components'
-// import { PageImgRect } from 'components/primitives'
 import SummaryLayout from 'layouts/SummaryLayout'
 
 import { Row, Label, Ticker } from './styles'
 
-// Maullerz
-// http://localhost:4001/character/247755210
-
 const CharacterSummary = ({ stats }) => {
   const isDesktop = useMediaQuery('(min-width: 401px)')
   const { id, name, corpID, allyID } = stats || {}
+  const links = id && { type: 'char', id }
 
-  // console.log('stats:', JSON.stringify(stats, null, 2))
   return (
-    <SummaryLayout imgProps={{ src: getCharUrl(id), alt: 'char portrait' }}>
+    <SummaryLayout
+      imgProps={{ src: getCharUrl(id), alt: 'char portrait' }}
+      links={links}
+    >
       {stats &&
         <Fragment key='logos'>
           <OrgIcon link corp={corpID} />

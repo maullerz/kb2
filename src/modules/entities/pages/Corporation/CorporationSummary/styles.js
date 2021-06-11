@@ -17,10 +17,10 @@ export const Row = styled.div`
 
 export const Label = styled.div`
   font-weight: bold;
-  min-width: 110px;
+  min-width: 90px;
 
   @media (max-width: 400px) {
-    min-width: 80px;
+    min-width: 74px;
   }
 `
 
