@@ -186,7 +186,11 @@ const columnsObject = {
       const finalBlow = atts.blow
       if (!finalBlow) return null
       if (!atts.blow.ship) {
-        console.error('km without finalBlow ship:', km)
+        if (process.env.NODE_ENV === 'development') {
+          console.error('km without finalBlow ship:', km)
+        } else {
+          console.error('km without finalBlow ship:', km._id)
+        }
       }
       return (
         <ItemIcon id={atts.blow.ship?.id} tooltip />

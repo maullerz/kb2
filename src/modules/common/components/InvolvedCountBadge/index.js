@@ -24,7 +24,7 @@ import { Root, InvolvedCountText } from './styles'
 
 function InvolvedCountBadge({ km }) {
   const { atts, zkb } = km
-  const isNPC = zkb.npc
+  const isNPC = zkb.npc || !atts.blow || !atts.blow.ship
   const isSolo = zkb.solo
 
   function renderCount() {
