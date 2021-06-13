@@ -10,6 +10,7 @@ import OrgIcon from 'components/icons/OrgIcon'
 import CharIcon from 'components/icons/CharIcon'
 import ItemIcon from 'components/icons/ItemIcon'
 import useFocus from 'utils/hooks/useFocus'
+// import * as SdeUtils from 'utils/SdeUtils'
 
 import {
   Root, InputWrapper, StyledInput, StyledIconButton,
@@ -20,9 +21,10 @@ const debouncedFetchAutocomplete = debounce((text, fetchFunc) => {
   if (text && text.length >= 2) {
     fetchFunc(text)
   }
-}, 200)
+}, 400)
 
-const getIcon = (id, type) => {
+const getIcon = (id, type, rest) => {
+  const sunTypeID = rest && rest[0]
   switch (type) {
     case 'ship':
       return <ItemIcon mini id={id} />
@@ -32,8 +34,12 @@ const getIcon = (id, type) => {
       return <OrgIcon mini corp={id} />
     case 'char':
       return <CharIcon mini id={id} />
-    case 'region':
     case 'system':
+      if (sunTypeID) {
+        return <ItemIcon mini id={sunTypeID} />
+      }
+      return <OrgIcon mini />
+    case 'region':
     default:
       return <OrgIcon mini />
   }
@@ -58,7 +64,7 @@ const getLink = (type, id) => {
   }
 }
 
-const DropdownItem = ({ id, name, type }) => {
+const DropdownItem = ({ id, name, type, rest }) => {
   const link = getLink(type, id)
 
   function handleSelect() {
@@ -68,7 +74,7 @@ const DropdownItem = ({ id, name, type }) => {
   return (
     <ItemName onClick={handleSelect}>
       <div>
-        {getIcon(id, type)}
+        {getIcon(id, type, rest)}
         <span>{name}</span>
       </div>
       <span>{type}</span>
@@ -116,8 +122,8 @@ const SearchInput = () => {
   function processResult(type, arrayResult, nodes) {
     if (arrayResult.length) {
       if (nodes.length) nodes.push(<Separator key={`sep-${type}`} />)
-      arrayResult.forEach(([id, name]) => {
-        nodes.push(<DropdownItem key={id} id={id} name={name} type={type} />)
+      arrayResult.forEach(([id, name, ...rest]) => {
+        nodes.push(<DropdownItem key={id} id={id} name={name} type={type} rest={rest} />)
       })
     }
   }

@@ -15,7 +15,7 @@ const CharacterSummary = ({ stats }) => {
 
   return (
     <SummaryLayout
-      imgProps={{ src: getCharUrl(id), alt: 'char portrait' }}
+      imgProps={id && { src: getCharUrl(id), alt: 'char portrait' }}
       links={links}
     >
       {stats &&

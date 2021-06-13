@@ -11,13 +11,15 @@ const CharIcon = ({ id, mini, corp, link }) => {
 
   if (!id && corp) {
     // TODO: NPC corps like Triglav etc...
-    const corpNpc = 1
+    // This is not only NPC - its also when structure involved
+    // http://localhost:4001/kill/92989028 {char: 0, corp: 1346499997, ally: 0, fctn: 0, ship: 12235, …}
+    // const corpNpc = 1
     icon = (
       <img
         width={size}
         height={size}
         alt='charID-undefined-corp'
-        src={`https://images.evetech.net/corporations/${corpNpc}/logo?size=64`}
+        src={`https://images.evetech.net/corporations/${corp}/logo?size=64`}
       />
     )
   } else {

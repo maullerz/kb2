@@ -12,7 +12,7 @@ const AllianceSummary = ({ stats }) => {
 
   return (
     <SummaryLayout
-      imgProps={{ src: getAllyUrl(id, 256), alt: 'ally logo' }}
+      imgProps={id && { src: getAllyUrl(id, 256), alt: 'ally logo' }}
       links={links}
     >
       {stats &&

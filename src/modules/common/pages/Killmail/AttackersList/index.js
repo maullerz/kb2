@@ -37,7 +37,7 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
         <Names>
           {att.char
             ? <CharName id={att.char} name={names.chars[att.char]} ship={shipName} />
-            : <div>{names.types[att.ship]}</div>
+            : <div>{att.ship ? getTypeName(att.ship) : 'Unknown'}</div>
           }
           {names.corps[att.corp]
             ? <CorpName id={att.corp} name={names.corps[att.corp]} />

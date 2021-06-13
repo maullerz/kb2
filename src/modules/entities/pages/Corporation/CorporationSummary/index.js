@@ -12,7 +12,7 @@ const CorporationSummary = ({ stats }) => {
 
   return (
     <SummaryLayout
-      imgProps={{ src: getCorpUrl(id, 256), alt: 'corporation logo' }}
+      imgProps={id && { src: getCorpUrl(id, 256), alt: 'corporation logo' }}
       links={links}
     >
       {stats &&

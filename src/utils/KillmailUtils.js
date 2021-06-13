@@ -1,4 +1,5 @@
-import { getGroupID, getCategoryID, getFitSlotKey, isAmmo } from 'utils/SdeUtils'
+/* eslint no-use-before-define: ["error", { "variables": false }] */
+import { getGroupID, getCategoryID, getFitSlotKey, isAmmo, isShip } from 'utils/SdeUtils'
 
 const IMG_QUALITY = 64
 const CHAR_QUALITY = 256
@@ -12,7 +13,7 @@ const SELFHOST = 'https://img.evetools.org/sdeimages/types'
 
 const NO_TYPE_ICONS = [
   0, // fallback, also for {weap: 0}
-  4028, // Invading Precursor Entities
+  // 4028, // Invading Precursor Entities
 ]
 
 const NPC_CORPS = [
@@ -42,13 +43,16 @@ export const getAllyUrl = (allyID, quality) => {
 }
 
 export const getRenderUrl = (ship, quality = RENDER_QUALITY) => {
-  const result = `${TYPES_BASE}/${ship}/render?size=${quality}`
+  if (!isShip(ship)) {
+    return getIconUrl(ship, false, quality)
+  }
+  const result = `${SELFHOST}/${ship}/render?size=${quality}`
   return result
 }
 
 export const getIconUrl = (type, singleton) => {
   if (singleton) {
-    return `${TYPES_BASE}/${type}/bpc?size=${IMG_QUALITY}`
+    return `${SELFHOST}/${type}/bpc?size=${IMG_QUALITY}`
   }
   const groupID = getGroupID(type)
   if (!groupID || groupID === SKIN_GROUP) {
@@ -59,8 +63,14 @@ export const getIconUrl = (type, singleton) => {
   if (categoryID === 9) {
     return `${SELFHOST}/${type}/bp?size=${IMG_QUALITY}`
   }
+
+  if (groupID && NO_TYPE_ICONS.includes(groupID)) {
+    console.log('groupID:', groupID)
+  }
+
   const result = groupID && NO_TYPE_ICONS.includes(groupID)
-    ? getRenderUrl(type, 64)
+    // ? getRenderUrl(type, 64)
+    ? `${SELFHOST}/${type}/render?size=64`
     : `${SELFHOST}/${type}/icon?size=${IMG_QUALITY}`
     // : `${SELFHOST}/${type}_${IMG_QUALITY}.png`
   return result

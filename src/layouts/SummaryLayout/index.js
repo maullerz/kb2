@@ -25,6 +25,19 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
       )
     }
     if (links.type === 'system') {
+      if (links.isWH) {
+        return (
+          <>
+            <Href link={`http://anoik.is/systems/${encodeURIComponent(links.name)}`}>
+              Anoik.is
+            </Href>
+            <Href link={`https://zkillboard.com/system/${links.id}/`}>
+              zKillboard
+            </Href>
+          </>
+        )
+      }
+
       return (
         <>
           <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.region)}/${encodeURIComponent(links.name)}`}>

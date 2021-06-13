@@ -82,9 +82,9 @@ export const ItemName = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 5px;
+  padding: 3px 5px;
 
-  div {
+  > div {
     display: flex;
     align-items: center;
     white-space: nowrap;
@@ -133,7 +133,7 @@ export const Overlay = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 10px 5px;
+  padding: 10px 0;
   background-color: #333;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
 `

@@ -13,7 +13,7 @@ const ShipSummary = ({ stats }) => {
 
   return (
     <SummaryLayout
-      imgProps={{ src: getRenderUrl(id), alt: 'ship type' }}
+      imgProps={id && { src: getRenderUrl(id), alt: 'ship type' }}
       links={links}
     >
       {stats &&

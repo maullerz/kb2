@@ -4,8 +4,8 @@ import { Href } from 'components'
 
 import { Root, LegalContainer, Links } from './styles'
 
-// const isDev = process.env.NODE_ENV === 'development'
-const isDev = false
+const isDev = process.env.NODE_ENV === 'development'
+// const isDev = false
 
 function Footer() {
   return (

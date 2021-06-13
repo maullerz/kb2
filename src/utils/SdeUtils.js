@@ -13,6 +13,31 @@ const skinsTypes = require('./sde/skinsTypesIds.json')
 
 const SKIN_GROUP = 1950
 
+export const isWH = whClassID => {
+  const result = whClassID <= 6 || (whClassID > 9 && whClassID < 19)
+  return result
+}
+
+export function getClassName(whClassID) {
+  const className = `C${whClassID}`
+  switch (whClassID) {
+    case 13:
+      return `${className} Shattered`
+    case 14:
+      return `${className} Sentinel Drifter`
+    case 15:
+      return `${className} Barbican Drifter`
+    case 16:
+      return `${className} Vidette Drifter`
+    case 17:
+      return `${className} Conflux Drifter`
+    case 18:
+      return `${className} Redoubt Drifter`
+    default:
+      return className
+  }
+}
+
 export const getSSColor = ss => {
   switch (true) {
     case (ss < 0.1):
@@ -80,7 +105,7 @@ export const getGroupInfo = groupID => {
   return {
     id: groupID,
     name: groupInfo.name,
-    categoryID: groupInfo.categoryID,
+    categoryID: groupInfo.cat,
     types: getGroupTypes(groupID),
   }
 }
@@ -123,11 +148,21 @@ export const getCategoryID = typeID => {
   return Number(group.cat)
 }
 
+// "6": { "name": "Ship" }
+// "65": { "name": "Structure" }
+// "87": { "name": "Fighter"
+export const SHIP_CATEGORIES = [6, 65, 87]
+
+export const isShip = typeID => {
+  const categoryID = getCategoryID(typeID)
+  return SHIP_CATEGORIES.includes(categoryID)
+}
+
 const CAT_AMMO = 8
 
 export const isAmmo = typeID => {
-  const category = getCategory(typeID)
-  return category.id === CAT_AMMO
+  const categoryID = getCategoryID(typeID)
+  return categoryID === CAT_AMMO
 }
 
 const ATTR_LOW_SLOTS = 12
@@ -320,8 +355,6 @@ const addItemToDict = (result, item) => {
 }
 
 const getItemPrice = (typeID, prices) => {
-  // TODO: Static Prices for Fraction Structures / Supercapitals / Etc.
-
   if (!prices[typeID]) {
     return 1 // BPC-singleton and something unknown
   }
@@ -330,8 +363,9 @@ const getItemPrice = (typeID, prices) => {
 }
 
 export const parseKillmailItems = kmData => {
-  const { vict: victim, prices } = kmData
+  const { vict: victim } = kmData
 
+  const prices = kmData.prices || {}
   const victimItems = victim.itms || []
   const victimConts = victim.cnts || []
 

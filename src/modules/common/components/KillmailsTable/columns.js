@@ -94,11 +94,12 @@ const columnsObject = {
     render: ({ sys }) => {
       // console.log('sys:', sys)
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
+      const ssStr = sys.whClassID ? `C${sys.whClassID}` : sys.ss
       return (
         <MultilineCell>
           <SystemName onClick={stopPropagation}>
             <Link to={`/system/${sys.id}`}>
-              <span style={ssStyle}>{sys.ss}</span> {sys.name}
+              <span style={ssStyle}>{ssStr}</span> {sys.name}
             </Link>
           </SystemName>
           <SystemName onClick={stopPropagation}>
@@ -189,7 +190,8 @@ const columnsObject = {
         if (process.env.NODE_ENV === 'development') {
           console.error('km without finalBlow ship:', km)
         } else {
-          console.error('km without finalBlow ship:', km._id)
+          // yes those exists
+          // console.error('km without finalBlow ship:', km._id)
         }
       }
       return (
@@ -206,8 +208,8 @@ const columnsObject = {
         <OrgIcon
           link
           showOrg
-          ally={finalBlow.ally && finalBlow.ally.id}
-          corp={finalBlow.corp.id}
+          ally={finalBlow.ally?.id}
+          corp={finalBlow.corp?.id}
           names={null}
           nameObj={finalBlow.ally || finalBlow.corp}
         />

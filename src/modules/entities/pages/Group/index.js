@@ -25,6 +25,13 @@ const Group = () => {
     try {
       // const { data } = await KillmailService.getStats({ groupID })
       const data = SdeUtils.getGroupInfo(groupID)
+
+      // Abyssal Hazards
+      if (groupID === 1971) {
+        // only 47465 - Unstable Abyssal Depths applicable
+        data.types = [{ id: '47465', name: 'Unstable Abyssal Depths' }]
+      }
+
       setStats(data)
       ReactTooltip.rebuild()
     } catch (e) {
