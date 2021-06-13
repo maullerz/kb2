@@ -45,6 +45,9 @@ export const getCorpUrl = (corpID, quality) => {
   if (FACTION_CORPS.includes(Number(corp))) {
     corp = FACTION_CORPS_ICONS[corp]
   }
+  if (Number(corp) === 500021) {
+    corp = 1
+  }
   const result = `${CORPS_BASE}/${corp}/logo?size=${quality || IMG_QUALITY}`
   return result
 }
