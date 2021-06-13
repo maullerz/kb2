@@ -203,15 +203,19 @@ const columnsObject = {
     width: '50px', title: null,
     render: ({ atts }) => {
       const finalBlow = atts.blow
-      if (!finalBlow) return <OrgIcon />
+      if (!finalBlow) {
+        // console.log('no finalBlow:', atts)
+        return <OrgIcon />
+      }
       return (
         <OrgIcon
           link
           showOrg
           ally={finalBlow.ally?.id}
-          corp={finalBlow.corp?.id}
+          corp={finalBlow.corp?.id || finalBlow.fctn?.id}
+          isFaction={finalBlow.fctn && !finalBlow.corp}
           names={null}
-          nameObj={finalBlow.ally || finalBlow.corp}
+          nameObj={finalBlow.ally || finalBlow.corp || finalBlow.fctn}
         />
       )
     },

@@ -4,11 +4,12 @@ import { getGroupID, getCategoryID, getFitSlotKey, isAmmo, isShip } from 'utils/
 const IMG_QUALITY = 64
 const CHAR_QUALITY = 256
 const RENDER_QUALITY = 256
+const SELFHOST = 'https://img.evetools.org/sdeimages/types'
+
 const TYPES_BASE = 'https://images.evetech.net/types'
 const CHARS_BASE = 'https://images.evetech.net/characters'
 const CORPS_BASE = 'https://images.evetech.net/corporations'
 const ALLYS_BASE = 'https://images.evetech.net/alliances'
-const SELFHOST = 'https://img.evetools.org/sdeimages/types'
 // const imgUrl = `https://img.evetools.org/sdeimages/types/${typeID}/icon?size=${quality}`
 
 const NO_TYPE_ICONS = [
@@ -17,28 +18,40 @@ const NO_TYPE_ICONS = [
 ]
 
 const NPC_CORPS = [
-  1000274, // Vigilant Tyrannos
-  1000298, // The Convocation of Triglav
-  1000288, // Navka Overminds
+  1000287, // Infested Regions Hiveminds 20996
+  1000288, // Navka Overminds 20996
+  1000289, // Unshackled Overminds 20996
+  1000290, // Karybdis Infestation 20996
+  1000291, // Scylla Infestation 20996
 ]
 
-const NPC_ALLYS = [
-  // 1000274, // Vigilant Tyrannos
+const FACTION_CORPS = [
+  // TODO: 1000287, // NPC_CORPS // Rogue Drones 500025
+  1000274, // Vigilant Tyrannos // Drifters 500024
+  1000298, // The Convocation of Triglav // Triglavian Collective 500026
 ]
+
+const FACTION_CORPS_ICONS = {
+  1000274: 500024,
+  1000298: 500026,
+}
 
 const SKIN_GROUP = 1950
 
 export const getUnknownItemUrl = () => '/icons/eve-question.png'
 
 export const getCorpUrl = (corpID, quality) => {
-  const corp = NPC_CORPS.includes(Number(corpID)) || !corpID ? 1 : corpID
+  let corp = NPC_CORPS.includes(Number(corpID)) || !corpID ? 1 : corpID
+  if (FACTION_CORPS.includes(Number(corp))) {
+    corp = FACTION_CORPS_ICONS[corp]
+  }
   const result = `${CORPS_BASE}/${corp}/logo?size=${quality || IMG_QUALITY}`
   return result
 }
 
 export const getAllyUrl = (allyID, quality) => {
-  const ally = NPC_ALLYS.includes(allyID) || !allyID ? 1 : allyID
-  const result = `${ALLYS_BASE}/${ally}/logo?size=${quality || IMG_QUALITY}`
+  // Legacy? Not valid? const ally = NPC_ALLYS.includes(allyID) || !allyID ? 1 : allyID
+  const result = `${ALLYS_BASE}/${allyID}/logo?size=${quality || IMG_QUALITY}`
   return result
 }
 

@@ -13,7 +13,9 @@ const stopPropagation = event => {
   event.stopPropagation()
 }
 
-const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg, isFaction }) => {
+// TODO: FactionIcon
+
+const FactionIcon = ({ ally, corp, mini, link, names, nameObj, showOrg }) => {
   const isDesktop = true // useMediaQuery('(min-width: 728px)')
 
   if (!ally && !corp) {
@@ -32,7 +34,7 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg, isFaction })
   function getTooltipString() {
     if (nameObj && showOrg) {
       if (ally) return `alliance:<br/>${nameObj.name}`
-      return `${isFaction ? 'faction' : 'corporation'}:<br/>${nameObj.name}`
+      return `corporation:<br/>${nameObj.name}`
     }
     if (nameObj) {
       return nameObj.name
@@ -42,16 +44,16 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg, isFaction })
       if (isProd) return undefined
       return ally
         ? `ally: ${ally}`
-        : `${isFaction ? 'faction' : 'corp'}: ${corp}`
+        : `corp: ${corp}`
     }
     if (isProd) {
       return ally
         ? `${names.allys[ally]}`
-        : `${names.corps[corp] || names.fctns[corp]}`
+        : `${names.corps[corp]}`
     }
     return ally
       ? `${names.allys[ally]}`
-      : `${names.corps[corp] || names.fctns[corp]}`
+      : `${names.corps[corp]}`
     // return ally
     //   ? `${ally}: ${names.allys[ally]}`
     //   : `corp-${corp}: ${names.corps[corp]}`
@@ -64,7 +66,7 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg, isFaction })
   )
 
   if (link) {
-    const url = ally ? `/alliance/${ally}` : `/${isFaction ? 'faction' : 'corporation'}/${corp}`
+    const url = ally ? `/alliance/${ally}` : `/corporation/${corp}`
     return (
       <Link to={url} onClick={stopPropagation}>
         {node}
@@ -75,4 +77,4 @@ const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg, isFaction })
   return node
 }
 
-export default React.memo(OrgIcon)
+export default React.memo(FactionIcon)

@@ -25,7 +25,7 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
     <ListItem finalBlow={!isNPC && att.blow}>
 
       <Char>
-        <CharIcon link id={att.char} corp={att.corp} />
+        <CharIcon link id={att.char} corp={att.corp || att.fctn} />
 
         <IconsGroup>
           <ItemIcon id={att.ship} link tooltip border />
@@ -39,8 +39,8 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
             ? <CharName id={att.char} name={names.chars[att.char]} ship={shipName} />
             : <div>{att.ship ? getTypeName(att.ship) : 'Unknown'}</div>
           }
-          {names.corps[att.corp]
-            ? <CorpName id={att.corp} name={names.corps[att.corp]} />
+          {names.corps[att.corp] || names.fctns[att.fctn]
+            ? <CorpName id={att.corp || att.fctn} name={names.corps[att.corp] || names.fctns[att.fctn]} isFaction={att.fctn && !att.corp} />
             : <div>&nbsp;</div>
           }
           {names.allys[att.ally]
@@ -62,7 +62,7 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
               ? <OrgIcon link mini ally={att.ally} names={names} />
               : null
             }
-            <OrgIcon link mini corp={att.corp} names={names} />
+            <OrgIcon link mini corp={att.corp || att.fctn} names={names} isFaction={att.fctn && !att.corp} />
           </CorpAllyIcons>
         </DmgCol>
       </SpaceBetween>

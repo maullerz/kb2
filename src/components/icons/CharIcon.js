@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import { getCharUrl } from 'utils/KillmailUtils'
+import { getCharUrl, getCorpUrl } from 'utils/KillmailUtils'
 
 import { CharIconContainer, miniSize } from './styles'
 
@@ -19,7 +19,7 @@ const CharIcon = ({ id, mini, corp, link }) => {
         width={size}
         height={size}
         alt='charID-undefined-corp'
-        src={`https://images.evetech.net/corporations/${corp}/logo?size=64`}
+        src={getCorpUrl(corp, 256)}
       />
     )
   } else {
