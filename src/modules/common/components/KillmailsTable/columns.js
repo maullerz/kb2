@@ -63,7 +63,7 @@ function getAttackerName(att) {
 
 const columnsObject = {
   timeAndSum: {
-    width: '56px', title: 'Time', align: 'right', // highlighted: true,
+    width: '56px', title: 'Time', align: 'right', link: '/kill/{placeholder}', linkKey: '_id',
     render: km => {
       const sum = formatSumExt(km.sumV)
       return (
@@ -78,13 +78,13 @@ const columnsObject = {
     },
   },
   shipIcon: {
-    width: '50px', title: 'Ship', // link: '/kill/{placeholder}', linkKey: '_id',
+    width: '50px', title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
       <ItemIcon id={km.vict.ship.id} tooltip />
     ),
   },
   shipIconMini: {
-    width: '50px', title: 'Ship', padLeft: 5, // link: '/kill/{placeholder}', linkKey: '_id',
+    width: '50px', title: 'Ship', padLeft: 5, link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
       <ItemIcon id={km.vict.ship.id} tooltip mini />
     ),

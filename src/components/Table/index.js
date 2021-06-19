@@ -59,7 +59,7 @@ const Table = props => {
   //   }
   // }
 
-  function renderCell(item, col) {
+  function renderCell(item, col, onClick) {
     const { key, highlighted } = col
     const value = item[key] || ''
     const cellStyle = {
@@ -85,7 +85,7 @@ const Table = props => {
     }
 
     return (
-      <Cell key={key} style={cellStyle} highlighted={highlighted}>
+      <Cell key={key} style={cellStyle} highlighted={highlighted} onClick={onClick}>
         {col.render ? col.render(item) : value}
       </Cell>
     )
@@ -105,27 +105,17 @@ const Table = props => {
         key={id}
         isVictim={isVictim}
         isDesktop={isDesktop}
-        onClick={handleRowClick}
+        // onClick will be handled by Cells without "link" prop
+        // onClick={handleRowClick}
       >
-        {columns.map(col => renderCell(item, col))}
+        {columns.map(col => renderCell(item, col, handleRowClick))}
       </Row>
     )
 
-    // <Link to={`/kill/${item._id}`} />
-    // return (
-    //   <RowWrapper key={id}>
-
-    //     <Row
-    //       // key={id}
-    //       isVictim={isVictim}
-    //       isDesktop={isDesktop}
-    //       // onClick={handleRowClick}
-    //     >
-    //       <Link to={`/kill/${item._id}`} />
-    //       {columns.map(col => renderCell(item, col))}
-    //     </Row>
-    //   </RowWrapper>
-    // )
+    // Cant place Link as wrapper because a inside a issue
+    // Cant use Link as sibling bc all events are going to Row children
+    // seems only way to mark all Row children with pointer-events: none;
+    // but it will be too much to control
   }
 
   function renderPagination(isBottom = false) {
