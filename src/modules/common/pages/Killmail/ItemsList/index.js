@@ -10,9 +10,12 @@ import ListItem from './ListItem'
 import ItemFlagGroup from './ItemFlagGroup'
 import SortableColumn from './SortableColumn'
 import { Digits } from './ListItem/styles'
-import { Root, Header, SortHeader, ItemGroup, ItemGroupTitle, TotalRow, CountHead, SumHead } from './styles'
+import { ItemGroup, ItemGroupTitle } from './ItemFlagGroup/styles'
+import { Root, Header, SortHeader, TotalRow, CountHead, SumHead } from './styles'
 
 // CHECK: http://localhost:3000/kill/87028891/
+
+// TODO: Save/Load "Collapsed" to localStorage
 
 const colorRed = { color: 'var(--colorRed)' }
 const colorGreen = { color: 'var(--colorGreen)' }
@@ -173,14 +176,12 @@ const ItemsList = ({ kmData }) => {
         : renderGrouped()
       }
 
-      {!collapsed &&
-        <ItemGroup>
-          <ItemGroupTitle>
-            <h4>Ship</h4>
-          </ItemGroupTitle>
-          <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
-        </ItemGroup>
-      }
+      <ItemGroup>
+        <ItemGroupTitle isCollapsed={collapsed}>
+          <h4>Ship</h4>
+        </ItemGroupTitle>
+        <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
+      </ItemGroup>
 
       {/*
         TODO: <h4>Fitted</h4>

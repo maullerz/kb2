@@ -13,7 +13,7 @@ const ItemFlagGroup = ({ group, conts, prices, collapsed, isMobile }) => {
 
   return (
     <ItemGroup key={group.name}>
-      <ItemGroupTitle>
+      <ItemGroupTitle isCollapsed={collapsed}>
         <h4>{group.name}</h4>
 
         {collapsed &&

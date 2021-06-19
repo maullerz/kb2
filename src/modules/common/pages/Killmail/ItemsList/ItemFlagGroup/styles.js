@@ -17,12 +17,19 @@ export const ItemGroupTitle = styled.div`
     padding: 24px 5px 8px;
   }
 
+  ${p => p.isCollapsed && `
+    padding: 8px 10px;
+
+    @media (max-width: 767px) {
+      padding: 8px 5px;
+    }
+  `}
+
   h4 {
     margin: 0;
   }
 
   div {
-    font-size: 12px;
     color: #888;
   }
 `
