@@ -55,7 +55,6 @@ const CorporationSummary = ({ stats }) => {
               {stats.members}
             </div>
           </Row>
-
         </Fragment>
       }
     </SummaryLayout>

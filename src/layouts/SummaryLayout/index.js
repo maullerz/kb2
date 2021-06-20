@@ -17,6 +17,13 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
         </Href>
       )
     }
+    if (links.type === 'faction') {
+      return (
+        <Href link={`https://zkillboard.com/faction/${links.id}/`}>
+          zKillboard
+        </Href>
+      )
+    }
     if (links.type === 'group') {
       return (
         <Href link={`https://zkillboard.com/group/${links.id}/`}>

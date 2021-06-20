@@ -10,6 +10,7 @@ import Constellation from 'modules/entities/pages/Constellation'
 import Region from 'modules/entities/pages/Region'
 import Character from 'modules/entities/pages/Character'
 import Corporation from 'modules/entities/pages/Corporation'
+import Faction from 'modules/entities/pages/Faction'
 import Alliance from 'modules/entities/pages/Alliance'
 import Ship from 'modules/entities/pages/Ship'
 import Group from 'modules/entities/pages/Group'
@@ -45,6 +46,8 @@ const MainRoutes = () => {
         <Route path='/corporation/:corpID/:killsType' component={Corporation} exact />
         <Route path='/alliance/:allyID' component={Alliance} exact />
         <Route path='/alliance/:allyID/:killsType' component={Alliance} exact />
+        <Route path='/faction/:factionID' component={Faction} exact />
+        <Route path='/faction/:factionID/:killsType' component={Faction} exact />
 
         <Route path='/ship/:shipID' component={Ship} exact />
         <Route path='/ship/:shipID/:killsType' component={Ship} exact />

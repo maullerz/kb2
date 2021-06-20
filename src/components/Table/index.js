@@ -29,6 +29,9 @@ const checkForVictim = (data, params) => {
   if (params.shipID && data.vict.ship.id === params.shipID) {
     return true
   }
+  if (params.factionID && data.vict.fctn?.id === params.factionID) {
+    return true
+  }
   if (params.groupID) {
     const victGroupID = SdeUtils.getGroupID(data.vict.ship.id)
     return victGroupID === params.groupID
@@ -42,8 +45,6 @@ const Table = props => {
     onRowClick, onSortBy, onNoContent, isDesktop,
     pagination, onGoToPage,
   } = props
-
-  const isVictimCheck = params.charID || params.corpID || params.allyID || params.shipID || params.groupID
 
   // console.log('pagination:', pagination)
 
@@ -98,7 +99,7 @@ const Table = props => {
       }
     }
 
-    const isVictim = isVictimCheck && checkForVictim(item, params)
+    const isVictim = checkForVictim(item, params)
 
     return (
       <Row
