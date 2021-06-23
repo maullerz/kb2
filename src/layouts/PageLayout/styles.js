@@ -25,7 +25,20 @@ export const HeadBlock = styled.div`
   flex-direction: column;
 `
 
+export const Center = styled.div`
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+`
+
 export const Content = styled.div`
+  position: relative;
+  flex-grow: 1;
+  flex-shrink: 0;
+  padding-right: 20px;
+`
+
+export const Stats = styled.div`
   position: relative;
 `
 

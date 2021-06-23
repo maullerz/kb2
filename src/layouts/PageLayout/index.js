@@ -2,7 +2,7 @@ import React from 'react'
 
 import useLayout from 'utils/hooks/useLayout'
 
-import { PageRoot, HeadBlock, Content, Footer } from './styles'
+import { PageRoot, HeadBlock, Center, Content, Stats, Footer } from './styles'
 
 const PageLayout = ({ children }) => {
   const blocks = useLayout(children)
@@ -15,9 +15,15 @@ const PageLayout = ({ children }) => {
         </HeadBlock>
       }
 
-      <Content>
-        {blocks.content}
-      </Content>
+      <Center>
+        <Content>
+          {blocks.content}
+        </Content>
+
+        <Stats>
+          {blocks.stats}
+        </Stats>
+      </Center>
 
       {blocks.footer &&
         <Footer>

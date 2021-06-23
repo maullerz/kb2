@@ -24,6 +24,16 @@ class KillmailService extends BaseAPI {
     })
   }
 
+  getStatsMonthly(params) {
+    return this.call({
+      method: 'post',
+      url: '/v1/stats/monthly',
+      data: {
+        ...params,
+      },
+    })
+  }
+
   getSingleKillmail(killmailId) {
     return this.call({
       method: 'get',

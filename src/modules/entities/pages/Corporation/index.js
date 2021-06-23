@@ -5,6 +5,7 @@ import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
+import TopStats from 'modules/entities/components/TopStats'
 
 import CorporationSummary from './CorporationSummary'
 
@@ -21,8 +22,13 @@ const Corporation = () => {
 
   async function getCorporationStats() {
     try {
-      const { data } = await KillmailService.getStats({ corpID })
-      setStats(data)
+      const [infoStats, monthlyStats] = await Promise.all([
+        await KillmailService.getStats({ corpID }),
+        await KillmailService.getStatsMonthly({ corpID }),
+      ])
+      const { data: info } = infoStats
+      const { data: monthly } = monthlyStats
+      setStats({ info, monthly })
     } catch (e) {
       console.error('getCorporationStats:', e.message || e)
     }
@@ -38,12 +44,22 @@ const Corporation = () => {
   return (
     <PageLayout>
       <Fragment key='head'>
-        <CorporationSummary stats={stats} />
+        <CorporationSummary stats={stats?.info} />
         <SummaryNavigation root={`/corporation/${corpID}`} />
       </Fragment>
       <Fragment key='content'>
         <KillmailsTable corpID={corpID} isLosses={isLosses} isKills={isKills} />
       </Fragment>
+      {stats && stats.monthly &&
+        <Fragment key='stats'>
+          {Object.keys(stats.monthly).map(key => (
+            <Fragment key={key}>
+              <TopStats type={key} data={stats.monthly[key]} />
+              <br />
+            </Fragment>
+          ))}
+        </Fragment>
+      }
     </PageLayout>
   )
 }

@@ -51,7 +51,7 @@ export const Content = styled.div`
   min-height: 0;
 
   @media (min-width: 728px) {
-    padding: 36px;
+    padding: 36px 0;
   }
 `
 
