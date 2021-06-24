@@ -5,6 +5,8 @@ export const Root = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
+  min-width: 180px;
+  max-width: 220px;
   padding: 5px;
   border-radius: 4px;
   background-color: var(--mainLayoutWorkspaceBackground);
@@ -25,8 +27,6 @@ export const Item = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-width: 180px;
-  max-width: 220px;
   padding: 5px 10px;
 
   :hover {

@@ -29,32 +29,13 @@ export const Main = styled.main`
   }
 `
 
-export const Wrapper = styled.div`
-  position: relative;
-  // overflow: hidden;
-  flex: 1 0;
-  display: flex;
-`
-
-export const Workspace = styled.div`
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  background-color: var(--mainLayoutWorkspaceBackground);
-  // overflow-x: hidden;
-  // overflow-y: auto;
-`
-
 export const Content = styled.div`
   position: relative;
   flex: 1 0;
   min-height: 0;
+  background: var(--mainLayoutWorkspaceBackground);
 
   @media (min-width: 728px) {
-    padding: 36px 0;
+    padding: 36px 0; // 14px;
   }
-`
-
-export const FlexContainer = styled.div`
-  display: flex;
 `

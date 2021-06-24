@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { capitalize, isEmpty } from 'lodash'
 
 import * as SdeUtils from 'utils/SdeUtils'
-import { CharIcon, ItemIcon, OrgIcon } from 'components'
+import { CharIcon, ItemIcon } from 'components' // , OrgIcon
 
 import { Root, Header, Item, Row, Column, Name, Total, GreyColor } from './styles'
 

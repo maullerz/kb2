@@ -53,10 +53,7 @@ const Corporation = () => {
       {stats && stats.monthly &&
         <Fragment key='stats'>
           {Object.keys(stats.monthly).map(key => (
-            <Fragment key={key}>
-              <TopStats type={key} data={stats.monthly[key]} />
-              <br />
-            </Fragment>
+            <TopStats key={key} type={key} data={stats.monthly[key]} />
           ))}
         </Fragment>
       }

@@ -78,7 +78,7 @@ const MainLayout = props => {
 
       <Container maxWidth='lg' disableGutters>
 
-        <Container maxWidth='xl' disableGutters style={{ background: 'var(--mainLayoutWorkspaceBackground)' }}>
+        <Container maxWidth='xl' disableGutters>
           <Content>
             {children}
           </Content>
