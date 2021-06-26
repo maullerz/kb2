@@ -5,7 +5,7 @@ export const Root = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  min-width: 180px;
+  min-width: 220px;
   max-width: 220px;
   padding: 5px;
   border-radius: 4px;
@@ -13,6 +13,11 @@ export const Root = styled.div`
 
   a, a:hover {
     text-decoration: none;
+  }
+
+  @media (max-width: 1300px) {
+    min-width: 240px;
+    max-width: 240px;
   }
 `
 

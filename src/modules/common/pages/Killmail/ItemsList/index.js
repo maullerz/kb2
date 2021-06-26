@@ -11,7 +11,7 @@ import ItemFlagGroup from './ItemFlagGroup'
 import SortableColumn from './SortableColumn'
 import { Digits } from './ListItem/styles'
 import { ItemGroup, ItemGroupTitle } from './ItemFlagGroup/styles'
-import { Root, Header, SortHeader, TotalRow, CountHead, SumHead } from './styles'
+import { Root, Header, Line, SortHeader, TotalRow, CountHead, SumHead } from './styles'
 
 // CHECK: http://localhost:3000/kill/87028891/
 
@@ -140,6 +140,7 @@ const ItemsList = ({ kmData }) => {
     <Root>
       <Header onClick={handleToggleCollapsed}>
         Items Dropped / Destroyed
+        <Line />
         &nbsp;
         {collapsed ? <ExpandMoreIcon /> : <ExpandLessIcon />}
       </Header>

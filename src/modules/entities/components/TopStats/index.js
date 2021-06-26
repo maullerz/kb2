@@ -3,23 +3,31 @@ import { Link } from 'react-router-dom'
 import { capitalize, isEmpty } from 'lodash'
 
 import * as SdeUtils from 'utils/SdeUtils'
-import { CharIcon, ItemIcon } from 'components' // , OrgIcon
+import { CharIcon, ItemIcon, OrgIcon } from 'components'
 
 import { Root, Header, Item, Row, Column, Name, Total, GreyColor } from './styles'
 
-function getHeader(type) {
-  switch (type) {
-    case 'ships':
-      return 'Top Ships'
-    default:
-      return `Top ${capitalize(type)}`
-  }
-}
-
-const TopStats = ({ type, header, data }) => {
+const TopStats = ({ type, data }) => {
   if (isEmpty(data)) return null
 
+  const header = `Top ${capitalize(type)}`
+
   function renderItem({ id, total, ...rest }) {
+    if (type === 'corps') {
+      return (
+        <Link to={`/corporation/${id}`} key={id}>
+          <Item>
+            <Row>
+              <OrgIcon corp={id} mini />
+              <Name>
+                {rest.name}
+              </Name>
+            </Row>
+            <Total>{total}</Total>
+          </Item>
+        </Link>
+      )
+    }
     if (type === 'chars') {
       return (
         <Link to={`/character/${id}`} key={id}>
@@ -81,7 +89,9 @@ const TopStats = ({ type, header, data }) => {
 
   return (
     <Root>
-      <Header>{header || getHeader(type)}</Header>
+      <Header>
+        {header}
+      </Header>
       {data.map(item => renderItem(item))}
     </Root>
   )
