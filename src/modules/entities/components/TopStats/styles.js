@@ -56,6 +56,7 @@ export const Total = styled.div`
 export const Name = styled.div`
   margin-left: 6px;
   padding-right: 10px;
+  word-break: break-word;
 `
 
 export const GreyColor = styled.div`
