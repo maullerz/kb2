@@ -9,7 +9,7 @@ import { Row, Label } from './styles'
 
 const ShipSummary = ({ stats }) => {
   const { id, name, groupID, groupName } = stats || {}
-  const links = id && { type: 'group', id, name }
+  const links = id && { type: 'ship', id, name }
 
   return (
     <SummaryLayout

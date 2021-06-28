@@ -67,7 +67,7 @@ export const formatDmg = dmg => {
 export const dmgPercent = dmg => (
   dmg === 0 || !dmg
     ? ''
-    : `(${numeral(dmg).format('0,0.0%')})`
+    : `${numeral(dmg).format('0,0.0%')}`
 )
 
 export const dmgPercentZero = dmg => (

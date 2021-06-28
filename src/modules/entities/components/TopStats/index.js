@@ -3,16 +3,19 @@ import { Link } from 'react-router-dom'
 import { capitalize, isEmpty } from 'lodash'
 
 import * as SdeUtils from 'utils/SdeUtils'
+// import * as FormatUtils from 'utils/FormatUtils'
 import { CharIcon, ItemIcon, OrgIcon } from 'components'
 
+// import ExtendedStatRow from './ExtendedStatRow'
 import { Root, Header, Item, Row, Column, Name, Total, GreyColor } from './styles'
 
-const TopStats = ({ type, data }) => {
+const TopStats = ({ type, data }) => { // , forShip
   if (isEmpty(data)) return null
 
   const header = `Top ${capitalize(type)}`
 
-  function renderItem({ id, total, ...rest }) {
+  function renderItem(itemData) {
+    const { id, total, ...rest } = itemData
     if (type === 'corps') {
       return (
         <Link to={`/corporation/${id}`} key={id}>
@@ -28,6 +31,9 @@ const TopStats = ({ type, data }) => {
         </Link>
       )
     }
+    // if (type === 'chars' && forShip) {
+    //   return <ExtendedStatRow type={type} data={itemData} />
+    // } //  && !forShip
     if (type === 'chars') {
       return (
         <Link to={`/character/${id}`} key={id}>
