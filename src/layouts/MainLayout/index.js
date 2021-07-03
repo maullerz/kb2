@@ -4,13 +4,14 @@ import { Link } from 'react-router-dom'
 import { useMediaQuery } from '@react-hook/media-query'
 import { AppBar, Toolbar, Typography, Container, Fab, Zoom, useScrollTrigger } from '@material-ui/core'
 import { KeyboardArrowUp as KeyboardArrowUpIcon } from '@material-ui/icons'
+import HelpOutlineIcon from '@material-ui/icons/HelpOutline'
 import { useTheme, makeStyles } from '@material-ui/core/styles'
 
 import Footer from 'modules/common/components/Footer'
 import SearchInput from 'components/SearchInput'
 
 import AppMenu from './AppMenu'
-import { Main, Content } from './styles'
+import { Main, Content, LinkButton } from './styles'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -69,6 +70,10 @@ const MainLayout = props => {
                 {isMobile ? 'EveTools KB' : 'EveTools Killboard'}
               </Typography>
             </Link>
+
+            <LinkButton to='/about'>
+              <HelpOutlineIcon />
+            </LinkButton>
 
             <SearchInput />
           </Toolbar>

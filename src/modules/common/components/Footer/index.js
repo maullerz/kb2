@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Href } from 'components'
 
-import { Root, LegalContainer, Links } from './styles'
+import { Root, LegalContainer, Links, PartnerLogo } from './styles'
 
 const isDev = process.env.NODE_ENV === 'development'
 // const isDev = false
@@ -10,6 +10,11 @@ const isDev = process.env.NODE_ENV === 'development'
 function Footer() {
   return (
     <Root>
+      <PartnerLogo>
+        <Href link='https://www.eveonline.com/partners'>
+          <img src='/img/eve-partner.png' alt='eve online partner' />
+        </Href>
+      </PartnerLogo>
       <LegalContainer>
         <span>All EVE related materials are property of</span>
         <Href link='https://www.ccpgames.com' noWrap>
@@ -18,10 +23,12 @@ function Footer() {
       </LegalContainer>
 
       <Links>
+        <Href link='/about'>
+          About
+        </Href>
+        &nbsp;/&nbsp;
         {isDev &&
           <>
-            <Href to='/about'>About</Href>
-            &nbsp;/&nbsp;
             <Href link='https://github.com/maullerz/kb2'>
               GitHub
             </Href>
@@ -33,13 +40,11 @@ function Footer() {
         </Href>
         &nbsp;/&nbsp;
         <Href link='https://www.patreon.com/bePatron?u=40114286'>
-          Become a Patron!
+          Become a Patron
         </Href>
       </Links>
     </Root>
   )
 }
-
-// TODO: zKillboard brought to you by Squizz Caphinator
 
 export default Footer

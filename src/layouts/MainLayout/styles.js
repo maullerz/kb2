@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
 export const Main = styled.main`
@@ -37,5 +38,16 @@ export const Content = styled.div`
 
   @media (min-width: 728px) {
     padding: 36px 0; // 14px;
+  }
+`
+
+export const LinkButton = styled(Link)`
+  position: relative;
+  display: flex;
+  margin-left: 10px;
+  color: white;
+
+  &:hover {
+    color: #42aff0;
   }
 `

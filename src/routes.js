@@ -4,6 +4,7 @@ import { Switch, Route, Redirect } from 'react-router-dom'
 import MainLayout from 'layouts/MainLayout'
 import Home from 'modules/common/pages/Home'
 import Killmail from 'modules/common/pages/Killmail'
+import About from 'modules/common/pages/About'
 
 import System from 'modules/entities/pages/System'
 import Constellation from 'modules/entities/pages/Constellation'
@@ -60,6 +61,8 @@ const MainRoutes = () => {
         <Route path='/orders' component={Orders} />
         <Route path='/callback' component={CallbackRoute} />
         */}
+        <Route path='/about' component={About} exact />
+
         <Redirect from='*' to='/' />
       </Switch>
     </MainLayout>
