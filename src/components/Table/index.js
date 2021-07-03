@@ -77,8 +77,8 @@ const Table = props => {
     if (col.link) {
       const path = col.link.replace('{placeholder}', item[col.linkKey])
       return (
-        <Link to={path} key={key}>
-          <Cell style={cellStyle} highlighted={highlighted}>
+        <Link style={cellStyle} to={path} key={key}>
+          <Cell highlighted={highlighted}>
             {col.render ? col.render(item) : value}
           </Cell>
         </Link>
