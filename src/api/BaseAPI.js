@@ -6,9 +6,9 @@ const axiosConfig = {
   baseURL: '/api/',
   timeout: API_CALL_TIMEOUT,
   headers: {
-    'Accept': 'application/json;charset=UTF-8',
-    'Content-Type': 'application/json;charset=UTF-8',
-    'Access-Control-Allow-Origin': '*',
+    Accept: 'application/json',
+    // 'Content-Type': 'application/json;charset=UTF-8',
+    // 'Access-Control-Allow-Origin': '*',
   },
 }
 

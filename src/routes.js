@@ -18,18 +18,10 @@ import Group from 'modules/entities/pages/Group'
 
 import Preset from 'modules/entities/pages/Preset'
 
-// import Orders from 'modules/market/pages/Orders'
-// import CallbackRoute from 'modules/market/pages/CallbackRoute'
+import Orders from 'modules/market/pages/Orders'
+import CallbackRoute from 'modules/market/pages/CallbackRoute'
 
-// const Home = () => (
-//   <div>
-//     <br />
-//     <br />
-//     <h1>Home Stub</h1>
-//     <br />
-//     <br />
-//   </div>
-// )
+const isDev = process.env.NODE_ENV === 'development'
 
 const MainRoutes = () => {
   return (
@@ -57,10 +49,9 @@ const MainRoutes = () => {
 
         <Route path='/preset/:type' component={Preset} exact />
 
-        {/*
-        <Route path='/orders' component={Orders} />
-        <Route path='/callback' component={CallbackRoute} />
-        */}
+        {isDev && <Route path='/orders' component={Orders} />}
+        {isDev && <Route path='/callback' component={CallbackRoute} />}
+
         <Route path='/about' component={About} exact />
 
         <Redirect from='*' to='/' />
