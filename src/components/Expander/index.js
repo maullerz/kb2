@@ -1,24 +1,26 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import ExpandLessIcon from '@material-ui/icons/ExpandLess'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 
 import { Header, Line } from './styles'
 
 const getStoredValue = storageKey => {
-  const result = localStorage.getItem(`collapsed-${storageKey}`)
+  const result = localStorage.getItem(storageKey)
   return Boolean(result)
 }
 
 const saveStoredValue = (storageKey, value) => {
-  localStorage.setItem(`collapsed-${storageKey}`, Boolean(value))
+  localStorage.setItem(storageKey, Boolean(value))
 }
 
-function Expander({ title, storageKey, onChange }) {
-  const [collapsed, setCollapsed] = useState(getStoredValue(storageKey))
+function Expander({ title, storageKey, onChange, backgroundColor, marginBottom, lineColor }) {
+  const [collapsed, setCollapsed] = useState(storageKey ? getStoredValue(storageKey) : false)
 
   function handleToggleCollapsed() {
     const newValue = !collapsed
-    saveStoredValue(storageKey, newValue)
+    if (storageKey) {
+      saveStoredValue(storageKey, newValue)
+    }
     setCollapsed(newValue)
     if (onChange) {
       onChange(newValue)
@@ -26,10 +28,14 @@ function Expander({ title, storageKey, onChange }) {
   }
 
   return (
-    <Header onClick={handleToggleCollapsed} collapsed={collapsed}>
+    <Header
+      onClick={handleToggleCollapsed}
+      collapsed={collapsed}
+      backgroundColor={backgroundColor}
+      marginBottom={marginBottom}
+    >
       {title}
-      <Line />
-      &nbsp;
+      <Line lineColor={lineColor} />
       {collapsed
         ? <ExpandMoreIcon />
         : <ExpandLessIcon />

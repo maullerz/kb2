@@ -44,8 +44,10 @@ const PageLayout = ({ children }) => {
             {collapsed && <EmptyRow />}
             <Expander
               title='Top Stats (kills, last 7 days)'
-              storageKey='top-stats-7'
+              storageKey='collapsed-top-stats-7'
               onChange={handleToggleCollapsed}
+              backgroundColor='var(--tableHeaderBackground)'
+              lineColor='#888'
             />
           </>
         }

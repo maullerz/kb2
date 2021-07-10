@@ -5,18 +5,19 @@ export const Root = styled.div`
   max-width: 600px;
   display: flex;
   flex-direction: column;
-  padding: 5px;
   margin: 0 auto;
+`
 
-  h4 {
-    padding-left: 10px;
-  }
+export const List = styled.div`
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 5px;
 `
 
 export const ListItem = styled.div`
   width: 100%;
   display: flex;
-  // justify-content: space-between;
   padding: 10px;
   margin-bottom: 5px;
   background-color: #181818;
@@ -40,6 +41,12 @@ export const Char = styled.div`
       display: none;
     }
   }
+`
+
+export const TopChar = styled.div`
+  display: flex;
+  justify-content: space-between;
+  flex: 0 0;
 `
 
 export const IconsGroup = styled.div`
@@ -93,7 +100,6 @@ export const DmgCol = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  /*justify-content: flex-start;*/
   text-align: right;
 `
 
@@ -109,7 +115,34 @@ export const DmgPerc = styled.div`
   color: grey;
 `
 
-export const Expander = styled.div`
+export const TopBlock = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 5px;
+  padding: 5px 0;
+  background-color: #222;
+`
+
+export const TopPilotRoot = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 200px;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 600;
+
+  > div:first-child {
+    margin-bottom: 6px;
+  }
+
+  > div:last-child {
+    margin-top: 6px;
+  }
+`
+
+export const ExpandBtn = styled.div`
   display: flex;
   align-items: center;
   cursor: pointer;

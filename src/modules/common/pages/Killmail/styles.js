@@ -70,7 +70,7 @@ export const SummaryWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   width: 100%;
-  margin: auto;
+  // margin: auto;
 `
 
 export const Items = styled.div`

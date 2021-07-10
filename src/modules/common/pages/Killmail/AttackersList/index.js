@@ -5,18 +5,35 @@ import ReactTooltip from 'react-tooltip'
 
 import { getTypeName, getGroupName } from 'utils/SdeUtils'
 import useBooleanToggle from 'utils/hooks/useBooleanToggle'
-import { CharIcon, ItemIcon, OrgIcon } from 'components'
+import { CharIcon, ItemIcon, OrgIcon, Expander } from 'components'
 import { CharName, CorpName, AllyName } from 'components/primitives'
 
+import InvolvedGrouped from './InvolvedGrouped'
 import {
-  Root, ListItem, Char, IconsGroup,
+  Root, List, ListItem, TopChar, Char, IconsGroup,
   Names, CorpAllyIcons,
-  DmgCol, DmgDigits, DmgPerc, Expander,
-  SpaceBetween,
+  DmgCol, DmgDigits, DmgPerc, ExpandBtn,
+  SpaceBetween, TopBlock, TopPilotRoot,
 } from './styles'
 
 const MAX_ITEMS = 10
 const MAX_ITEMS_DELTA = 5
+
+const TopPilot = ({ att, names, isFinalBlow }) => {
+  return (
+    <TopPilotRoot>
+      <div>{isFinalBlow ? 'Final Blow' : 'Top Damage'}</div>
+      <TopChar>
+        <CharIcon link id={att.char} corp={att.corp || att.fctn} />
+        <IconsGroup>
+          <ItemIcon id={att.ship} link tooltip border />
+          <ItemIcon id={att.weap || att.ship} tooltip border />
+        </IconsGroup>
+      </TopChar>
+      <CharName id={att.char} name={names.chars[att.char]} />
+    </TopPilotRoot>
+  )
+}
 
 const Attacker = ({ att, names, totalDmg, isNPC }) => {
   // TODO: do not show group for NPC
@@ -77,6 +94,7 @@ const AttackersList = ({ data }) => {
     ? attackers.length - MAX_ITEMS
     : 0
   const [expanded, toggleExpanded] = useBooleanToggle(false)
+  const [expandedAll, toggleExpandedAll] = useBooleanToggle(true)
 
   useEffect(() => {
     if (expanded) {
@@ -87,10 +105,10 @@ const AttackersList = ({ data }) => {
   function renderRemaining() {
     if (!expanded) {
       return (
-        <Expander onClick={toggleExpanded}>
+        <ExpandBtn onClick={toggleExpanded}>
           <span>Show other {remainingCount} participants</span>
           <ExpandMoreIcon />
-        </Expander>
+        </ExpandBtn>
       )
     }
 
@@ -106,17 +124,33 @@ const AttackersList = ({ data }) => {
 
   return (
     <Root>
-      <h4>Involved: {attackers.length}</h4>
-      {attackers.slice(0, MAX_ITEMS).map(att => (
-        <Attacker
-          key={att.char || `${att.char}-${att.corp}-${att.ship}`}
-          att={att}
-          names={names}
-          totalDmg={dmg}
-        />
-      ))}
+      <TopBlock>
+        <TopPilot att={attackers[0]} names={names} />
+        <TopPilot att={attackers.find(att => att.blow)} names={names} isFinalBlow />
+      </TopBlock>
 
-      {remainingCount > 0 && renderRemaining()}
+      <List>
+        <Expander
+          title={`Involved Pilots: ${attackers.length}`}
+          // storageKey='collapsed-killmail-involved-pilots'
+          onChange={toggleExpandedAll}
+          backgroundColor='#222'
+          marginBottom='6px'
+        />
+
+        {expandedAll && attackers.slice(0, MAX_ITEMS).map(att => (
+          <Attacker
+            key={att.char || `${att.char}-${att.corp}-${att.ship}`}
+            att={att}
+            names={names}
+            totalDmg={dmg}
+          />
+        ))}
+
+        {remainingCount > 0 && renderRemaining()}
+      </List>
+
+      <InvolvedGrouped attackers={attackers} names={names} />
     </Root>
   )
 }
