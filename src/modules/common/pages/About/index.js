@@ -3,7 +3,7 @@ import React, { Fragment } from 'react'
 import { Href } from 'components'
 import OldPageLayout from 'layouts/OldPageLayout'
 
-import { Title, Content, Subheader, Paragraph, Row } from './styles'
+import { Title, Content, Subheader, Paragraph, DivParagraph, Row } from './styles'
 
 const Home = () => {
   return (
@@ -44,7 +44,7 @@ const Home = () => {
           <Subheader>
             Contacts
           </Subheader>
-          <Paragraph>
+          <DivParagraph>
             <Row>
               <span>In Game:</span>
               <span>
@@ -77,7 +77,7 @@ const Home = () => {
                 </Href>
               </span>
             </Row>
-          </Paragraph>
+          </DivParagraph>
 
           {/* <Subheader>
             TODO: Privacy Policy

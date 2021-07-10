@@ -32,6 +32,10 @@ export const Paragraph = styled.p`
   font-size: 14px;
 `
 
+export const DivParagraph = styled.div`
+  font-size: 14px;
+`
+
 export const Row = styled.div`
   display: flex;
   align-items: center;

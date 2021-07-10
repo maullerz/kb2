@@ -36,6 +36,7 @@ export const Links = styled.div`
 export const PartnerLogo = styled.div`
   display: flex;
   width: 320px;
+  margin-top: 20px;
 
   img {
     width: 320px;
