@@ -125,13 +125,36 @@
   "59176": {
     "name": "♦ Nightmare"
   },
-  "59639": {
-    "name": "Augoror Reenactment Drone"
+  "59636": {
+    "groupID": 1568,
+    "name": "Impairor Reenactment Drone"
   },
-  "59638": {
+  "59637": {
+    "groupID": 1568,
     "name": "Inquisitor Reenactment Drone"
   },
+  "59638": {
+    "groupID": 1568,
+    "name": "Inquisitor Reenactment Drone"
+  },
+  "59639": {
+    "groupID": 1665,
+    "name": "Augoror Reenactment Drone"
+  },
+  "59640": {
+    "groupID": 310,
+    "name": "Minmatar Mining Corporation Testing Center"
+  },
   "59641": {
+    "groupID": 1568,
     "name": "Punisher Reenactment Drone"
+  },
+  "59642": {
+    "groupID": 1666,
+    "name": "Prophecy Reenactment Drone"
+  },
+  "59643": {
+    "groupID": 1666,
+    "name": "Elite Prophecy Reenactment Drone"
   }
 }

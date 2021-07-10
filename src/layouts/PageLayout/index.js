@@ -1,15 +1,19 @@
 import React, { useState } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
-import ExpandLessIcon from '@material-ui/icons/ExpandLess'
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 
 import useLayout from 'utils/hooks/useLayout'
+import { Expander } from 'components'
 
-import { PageRoot, HeadBlock, Center, Content, Stats, Footer, Header, Line } from './styles'
+import { PageRoot, HeadBlock, Center, Content, Stats, Footer, EmptyRow } from './styles'
+
+const getStoredValue = () => {
+  const result = localStorage.getItem(`collapsed-top-stats-7`)
+  return Boolean(result)
+}
 
 const PageLayout = ({ children }) => {
   const blocks = useLayout(children)
-  const [collapsed, setCollapsed] = useState(false)
+  const [collapsed, setCollapsed] = useState(getStoredValue())
   const isDesktop = useMediaQuery('(min-width: 1301px)')
 
   function handleToggleCollapsed() {
@@ -24,7 +28,7 @@ const PageLayout = ({ children }) => {
         </HeadBlock>
       }
 
-      <Center>
+      <Center collapsed={collapsed}>
         <Content>
           {blocks.content}
         </Content>
@@ -36,12 +40,14 @@ const PageLayout = ({ children }) => {
         }
 
         {!isDesktop && blocks.stats &&
-          <Header onClick={handleToggleCollapsed} collapsed={collapsed}>
-            Top Stats (kills, last 7 days)
-            <Line />
-            &nbsp;
-            {collapsed ? <ExpandMoreIcon /> : <ExpandLessIcon />}
-          </Header>
+          <>
+            {collapsed && <EmptyRow />}
+            <Expander
+              title='Top Stats (kills, last 7 days)'
+              storageKey='top-stats-7'
+              onChange={handleToggleCollapsed}
+            />
+          </>
         }
       </Center>
 

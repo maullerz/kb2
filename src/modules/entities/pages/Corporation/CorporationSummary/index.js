@@ -49,6 +49,16 @@ const CorporationSummary = ({ stats }) => {
               </div>
             </Row>
           }
+          {stats.factionID &&
+            <Row>
+              <Label>Faction:</Label>
+              <div>
+                <Link to={`/faction/${stats.factionID}`}>
+                  {stats.factionName}
+                </Link>
+              </div>
+            </Row>
+          }
           <Row>
             <Label>Members:</Label>
             <div>

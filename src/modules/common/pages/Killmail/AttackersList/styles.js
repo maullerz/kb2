@@ -34,6 +34,12 @@ export const Char = styled.div`
   display: flex;
   justify-content: space-between;
   flex: 0 0;
+
+  > :first-child {
+    @media (max-width: 374px) {
+      display: none;
+    }
+  }
 `
 
 export const IconsGroup = styled.div`
@@ -43,10 +49,6 @@ export const IconsGroup = styled.div`
   justify-content: space-between;
   // max-height: 70px;
   margin-left: 2px;
-
-  @media (max-width: 374px) {
-    display: none;
-  }
 `
 
 export const Names = styled.div`
