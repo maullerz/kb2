@@ -47,6 +47,8 @@ function getSortedList({ field, order }, list) {
   }
 }
 
+const DEBUG = false
+
 const ItemsList = ({ kmData }) => {
   // TODO: useReducer
   const [collapsed, setCollapsed] = useState(false)
@@ -56,10 +58,13 @@ const ItemsList = ({ kmData }) => {
   // const { cnts = [] } = vict
   const isMobile = useMediaQuery('(max-width: 767px)')
 
-  // console.log('vict:', JSON.stringify(vict, null, 2))
-
   // const items = SdeUtils.parseKillmailItems(vict, prices)
   const items = kmData.parsedItems
+
+  if (DEBUG) {
+    const { rawList, rawDict, ...rest } = items
+    console.log('items:', JSON.stringify(rest, null, 2))
+  }
   // const { high, med, low, rig, sub, subHold, ...rest } = items
   // const isCargoEmpty = !Object.keys(rest).map(slotKey => slotKey).includes('Cargo')
 

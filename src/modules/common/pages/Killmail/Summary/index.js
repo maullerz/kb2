@@ -128,6 +128,12 @@ const Summary = ({ kmData }) => {
         </div>
       </Row>
       <Row>
+        <Label>Fitted:</Label>
+        <div>
+          {FormatUtils.formatRaw(parsedItems.fittedValue)} ISK
+        </div>
+      </Row>
+      <Row>
         <Label>Total:</Label>
         <div style={whiteColor}>
           {FormatUtils.formatRaw(parsedItems.total)} ISK

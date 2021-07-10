@@ -28,7 +28,7 @@ export const Header = styled.h4`
 export const Line = styled.span`
   display: flex;
   margin: 0 14px;
-  width: 20%;
+  width: 10%;
   flex-grow: 1;
   border-top: 1px solid #333;
 `

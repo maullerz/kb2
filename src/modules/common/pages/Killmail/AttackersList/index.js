@@ -16,6 +16,7 @@ import {
 } from './styles'
 
 const MAX_ITEMS = 10
+const MAX_ITEMS_DELTA = 5
 
 const Attacker = ({ att, names, totalDmg, isNPC }) => {
   // TODO: do not show group for NPC
@@ -72,7 +73,9 @@ const Attacker = ({ att, names, totalDmg, isNPC }) => {
 
 const AttackersList = ({ data }) => {
   const { atts: attackers, vict: { dmg }, names } = data
-  const remainingCount = attackers.length - MAX_ITEMS
+  const remainingCount = (attackers.length - MAX_ITEMS) > MAX_ITEMS_DELTA
+    ? attackers.length - MAX_ITEMS
+    : 0
   const [expanded, toggleExpanded] = useBooleanToggle(false)
 
   useEffect(() => {

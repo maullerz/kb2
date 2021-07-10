@@ -372,6 +372,7 @@ export const parseKillmailItems = kmData => {
   const result = {
     dropped: 0,
     destroyed: 0,
+    fittedValue: 0,
     ship: prices[victim.ship],
     // raw list for ordered not grouped display of items
     rawList: [],
@@ -519,10 +520,45 @@ export const parseKillmailItems = kmData => {
     }
   })
   // =======================================
+  // Make one Structure Service Slots group
+  const serviceSlots = [
+    'Structure service slot 1',
+    'Structure service slot 2',
+    'Structure service slot 3',
+    'Structure service slot 4',
+    'Structure service slot 5',
+    'Structure service slot 6',
+    'Structure service slot 7',
+    'Structure service slot 8',
+  ]
+  const tmpFlagGroups = {}
+  const serviceSlotsGroup = {
+    id: -1,
+    key: 'Structure Service Slots',
+    name: 'Structure Service Slots',
+    items: [],
+    totalSum: 0,
+  }
+  Object.keys(result.flagGroups).forEach(groupKey => {
+    const group = result.flagGroups[groupKey]
+    if (serviceSlots.includes(group.key)) {
+      // serviceSlotsGroup.totalSum += group.totalSum
+      serviceSlotsGroup.items = serviceSlotsGroup.items.concat(group.items)
+    } else {
+      tmpFlagGroups[groupKey] = group
+    }
+  })
+  result.flagGroups = {
+    ...tmpFlagGroups,
+  }
+  if (serviceSlotsGroup.items.length > 0) {
+    result.flagGroups['Structure Service Slots'] = serviceSlotsGroup
+  }
+  // --------------------------------------------- Make one Structure Service Slots group
 
   // Sorting flag groups logically
   const flagKeys = Object.keys(result.flagGroups)
-  const startGroupsOrder = ['high', 'med', 'low', 'rig', 'sub', 'subHold', 'Drone Bay']
+  const startGroupsOrder = ['high', 'med', 'low', 'rig', 'sub', 'subHold', 'Drone Bay', 'Specialized Fuel Bay']
   const endGroupsOrder = ['Cargo']
   const orderedFlagGroupKeys = []
   // sorted start
@@ -564,6 +600,25 @@ export const parseKillmailItems = kmData => {
       .reduce((total, cont) => (total + cont.totalSum), 0)
 
     group.totalSum = totalItemsSum + totalContsSum
+  })
+
+  // Get Fitted value
+  const fitGroups = [
+    'high', 'med', 'low', 'rig', 'sub', 'subHold', 'Drone Bay', 'Specialized Fuel Bay',
+    // 'Core Room',
+    // "Structure service slot 1",
+    // "Structure service slot 2",
+    // "Structure service slot 3",
+    // "Structure service slot 4",
+    // "Structure service slot 5",
+    // "Structure service slot 6",
+    // "Structure service slot 7",
+    // "Structure service slot 8",
+  ]
+  Object.values(result.flagGroups).forEach(group => {
+    if (fitGroups.includes(group.key)) {
+      result.fittedValue += group.totalSum
+    }
   })
 
   result.total = result.dropped + result.destroyed + result.ship
