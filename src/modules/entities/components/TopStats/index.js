@@ -40,6 +40,7 @@ const TopStats = ({ type, data }) => { // , forShip
           <Item>
             <Row>
               <CharIcon id={id} mini />
+              {rest.corp && <OrgIcon corp={rest.corp} mini />}
               <Name>
                 {rest.name}
               </Name>

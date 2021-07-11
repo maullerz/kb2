@@ -16,8 +16,8 @@ export const Root = styled.div`
   }
 
   @media (max-width: 1300px) {
-    min-width: 240px;
-    max-width: 240px;
+    min-width: 260px;
+    max-width: 260px;
   }
 `
 

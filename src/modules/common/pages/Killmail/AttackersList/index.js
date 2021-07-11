@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import numeral from 'numeral'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
+import ExpandLessIcon from '@material-ui/icons/ExpandLess'
 import ReactTooltip from 'react-tooltip'
 
 import { getTypeName, getGroupName } from 'utils/SdeUtils'
@@ -112,22 +113,32 @@ const AttackersList = ({ data }) => {
       )
     }
 
-    return attackers.slice(MAX_ITEMS).map(att => (
-      <Attacker
-        key={att.char || `${att.char}-${att.corp}-${att.ship}`}
-        att={att}
-        names={names}
-        totalDmg={dmg}
-      />
-    ))
+    return (
+      <>
+        {attackers.slice(MAX_ITEMS).map(att => (
+          <Attacker
+            key={att.char || `${att.char}-${att.corp}-${att.ship}`}
+            att={att}
+            names={names}
+            totalDmg={dmg}
+          />
+        ))}
+        <ExpandBtn onClick={toggleExpanded}>
+          <span>Shrink list</span>
+          <ExpandLessIcon />
+        </ExpandBtn>
+      </>
+    )
   }
 
   return (
     <Root>
-      <TopBlock>
-        <TopPilot att={attackers[0]} names={names} />
-        <TopPilot att={attackers.find(att => att.blow)} names={names} isFinalBlow />
-      </TopBlock>
+      {attackers.length > 1 &&
+        <TopBlock>
+          <TopPilot att={attackers[0]} names={names} />
+          <TopPilot att={attackers.find(att => att.blow)} names={names} isFinalBlow />
+        </TopBlock>
+      }
 
       <List>
         <Expander
@@ -147,7 +158,7 @@ const AttackersList = ({ data }) => {
           />
         ))}
 
-        {remainingCount > 0 && renderRemaining()}
+        {expandedAll && remainingCount > 0 && renderRemaining()}
       </List>
 
       <InvolvedGrouped attackers={attackers} names={names} />
