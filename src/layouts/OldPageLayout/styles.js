@@ -8,6 +8,7 @@ export const PageRoot = styled.div`
   border-radius: 6px;
   color: var(--pageLayoutTextColor);
 
+  margin-top: 14px;
   padding: 14px 0;
 
   @media (min-width: 728px) {

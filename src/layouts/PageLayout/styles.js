@@ -15,6 +15,13 @@ export const PageRoot = styled.div`
   }
 `
 
+export const AdsBlock = styled.div`
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`
+
 export const HeadBlock = styled.div`
   position: relative;
   display: flex;
@@ -80,4 +87,8 @@ export const Footer = styled.div`
 
 export const EmptyRow = styled.div`
   margin-bottom: 50px;
+
+  ${p => p.small && `
+    margin-bottom: 20px;
+  `}
 `

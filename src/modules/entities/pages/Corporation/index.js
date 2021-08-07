@@ -6,6 +6,7 @@ import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
 import TopStats from 'modules/entities/components/TopStats'
+import Ads from 'components/Ads'
 
 import CorporationSummary from './CorporationSummary'
 
@@ -43,6 +44,9 @@ const Corporation = () => {
 
   return (
     <PageLayout>
+      <Fragment key='ads'>
+        <Ads type='list' />
+      </Fragment>
       <Fragment key='head'>
         <CorporationSummary stats={stats?.info} />
         <SummaryNavigation root={`/corporation/${corpID}`} />

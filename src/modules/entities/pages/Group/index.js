@@ -7,6 +7,7 @@ import * as SdeUtils from 'utils/SdeUtils'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
+import Ads from 'components/Ads'
 
 import GroupSummary from './GroupSummary'
 
@@ -52,6 +53,9 @@ const Group = () => {
 
   return (
     <PageLayout>
+      <Fragment key='ads'>
+        <Ads type='list' />
+      </Fragment>
       <Fragment key='head'>
         <GroupSummary stats={stats} />
         <SummaryNavigation root={`/group/${groupID}`} />

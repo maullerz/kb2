@@ -6,7 +6,7 @@ import isEmpty from 'lodash/isEmpty'
 import KillmailService from 'api/KillmailService'
 import * as SdeUtils from 'utils/SdeUtils'
 import * as KillmailUtils from 'utils/KillmailUtils'
-import { Spinner, NoContent } from 'components'
+import { Spinner, NoContent, Ads } from 'components'
 
 import Summary from './Summary'
 import ItemsList from './ItemsList'
@@ -14,7 +14,7 @@ import FittingWheel from './FittingWheel'
 import AttackersList from './AttackersList'
 
 import {
-  Root, // Header,
+  Root, AdsBlock,
   Body, Center, Top, SummaryWrapper, Items, Attackers,
 } from './styles'
 
@@ -129,11 +129,9 @@ const KillmailPage = () => {
 
   return (
     <Root>
-      {/* <Header>
-        <Href link={`https://zkillboard.com/kill/${killmailID}/`}>
-          zkillboard
-        </Href>
-      </Header> */}
+      <AdsBlock>
+        <Ads type='list' />
+      </AdsBlock>
 
       {kmData
         ? renderBody()

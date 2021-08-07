@@ -2,6 +2,7 @@ import CharIcon from './icons/CharIcon'
 import OrgIcon from './icons/OrgIcon'
 import ItemIcon from './icons/ItemIcon'
 
+import Ads from './Ads'
 import Table from './Table'
 import NoContent from './NoContent'
 import Spinner from './Spinner'
@@ -12,6 +13,8 @@ export {
   CharIcon,
   ItemIcon,
   OrgIcon,
+
+  Ads,
   Table,
   NoContent,
   Spinner,

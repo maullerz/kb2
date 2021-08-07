@@ -6,6 +6,7 @@ import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
 import TopStats from 'modules/entities/components/TopStats'
+import Ads from 'components/Ads'
 
 import CharacterSummary from './CharacterSummary'
 
@@ -45,6 +46,9 @@ const Character = () => {
 
   return (
     <PageLayout>
+      <Fragment key='ads'>
+        <Ads type='list' />
+      </Fragment>
       <Fragment key='head'>
         <CharacterSummary stats={stats?.info} />
         <SummaryNavigation root={`/character/${charID}`} />

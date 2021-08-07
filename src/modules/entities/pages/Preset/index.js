@@ -3,6 +3,7 @@ import { useParams, Redirect } from 'react-router-dom'
 
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
+import Ads from 'components/Ads'
 
 import { Header } from './styles'
 
@@ -28,6 +29,9 @@ const Preset = () => {
 
   return (
     <PageLayout>
+      <Fragment key='ads'>
+        <Ads type='list' />
+      </Fragment>
       <Fragment key='head'>
         <Header>
           {getTypeDescr(type)}

@@ -5,6 +5,7 @@ import KillmailService from 'api/KillmailService'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
+import Ads from 'components/Ads'
 
 import ConstellationSummary from './ConstellationSummary'
 
@@ -36,6 +37,9 @@ const Constellation = () => {
 
   return (
     <PageLayout>
+      <Fragment key='ads'>
+        <Ads type='list' />
+      </Fragment>
       <Fragment key='head'>
         <ConstellationSummary stats={stats} />
         <SummaryNavigation />

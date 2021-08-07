@@ -6,6 +6,7 @@ import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
 import TopStats from 'modules/entities/components/TopStats'
+import Ads from 'components/Ads'
 
 import AllianceSummary from './AllianceSummary'
 
@@ -45,6 +46,10 @@ const Alliance = () => {
 
   return (
     <PageLayout>
+      <Fragment key='ads'>
+        <Ads type='list' />
+      </Fragment>
+
       <Fragment key='head'>
         <AllianceSummary stats={stats?.info} />
         <SummaryNavigation root={`/alliance/${allyID}`} />

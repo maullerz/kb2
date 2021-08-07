@@ -67,7 +67,10 @@ const MainLayout = props => {
             <AppMenu />
             <Link to='/'>
               <Typography variant='h6' color='inherit' noWrap>
-                {isMobile ? 'EveTools KB' : 'EveTools Killboard'}
+                {isMobile
+                  ? <img src='/icons/combatlog.png' width='32' height='32' alt='logo' /> // 'EveTools KB'
+                  : 'EveTools Killboard'
+                }
               </Typography>
             </Link>
 

@@ -10,6 +10,16 @@ export const Root = styled.div`
   min-height: 600px;
   margin: auto;
   padding-bottom: 100px;
+  // background: rgba(0,0,0,0.2);
+  // background: #000;
+`
+
+export const AdsBlock = styled.div`
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
 `
 
 export const Header = styled.div`
@@ -32,7 +42,7 @@ export const Body = styled.div`
   }
 
   @media (max-width: 727px) {
-    padding-top: 36px;
+    // padding-top: 36px;
     background: rgba(0,0,0,0.2);
   }
 `

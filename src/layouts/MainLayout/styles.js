@@ -28,6 +28,11 @@ export const Main = styled.main`
       font-size: 1rem;
     }
   }
+
+  h6 > img {
+    vertical-align: middle;
+    margin: auto 0;
+  }
 `
 
 export const Content = styled.div`
@@ -37,7 +42,7 @@ export const Content = styled.div`
   background: var(--mainLayoutWorkspaceBackground);
 
   @media (min-width: 728px) {
-    padding: 36px 0; // 14px;
+    // padding: 36px 0; // 14px;
   }
 `
 
