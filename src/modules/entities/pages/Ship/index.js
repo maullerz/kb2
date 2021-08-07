@@ -51,7 +51,7 @@ const Ship = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='ship' />
       </Fragment>
       <Fragment key='head'>
         <ShipSummary stats={info} />

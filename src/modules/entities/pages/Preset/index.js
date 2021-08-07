@@ -30,7 +30,7 @@ const Preset = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='preset' />
       </Fragment>
       <Fragment key='head'>
         <Header>

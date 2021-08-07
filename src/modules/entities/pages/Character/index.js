@@ -47,7 +47,7 @@ const Character = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='char' />
       </Fragment>
       <Fragment key='head'>
         <CharacterSummary stats={stats?.info} />

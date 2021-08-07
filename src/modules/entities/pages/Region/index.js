@@ -39,7 +39,7 @@ const Region = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='region' />
       </Fragment>
       <Fragment key='head'>
         <RegionSummary stats={stats} />

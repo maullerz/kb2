@@ -47,7 +47,7 @@ const Alliance = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='alliance' />
       </Fragment>
 
       <Fragment key='head'>

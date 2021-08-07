@@ -45,7 +45,7 @@ const Corporation = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='corp' />
       </Fragment>
       <Fragment key='head'>
         <CorporationSummary stats={stats?.info} />

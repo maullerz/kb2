@@ -38,7 +38,7 @@ const System = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='system' />
       </Fragment>
       <Fragment key='head'>
         <SystemSummary stats={stats} />

@@ -54,7 +54,7 @@ const Group = () => {
   return (
     <PageLayout>
       <Fragment key='ads'>
-        <Ads type='list' />
+        <Ads type='group' />
       </Fragment>
       <Fragment key='head'>
         <GroupSummary stats={stats} />

@@ -130,7 +130,7 @@ const KillmailPage = () => {
   return (
     <Root>
       <AdsBlock>
-        <Ads type='list' />
+        <Ads type='killmail' />
       </AdsBlock>
 
       {kmData
