@@ -11,7 +11,7 @@ const Home = () => {
     <OldPageLayout>
       <Fragment key='title'>
         <HeaderPanel>
-          <Title>Alpha version - Under Development</Title>
+          <Title>Beta version - Under Development</Title>
           <Title>
             discuss in&nbsp;
             <Href link='https://discord.gg/HyPnAU7'>

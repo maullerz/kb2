@@ -14,7 +14,7 @@ const stopPropagation = event => {
 }
 
 const OrgIcon = ({ ally, corp, mini, link, names, nameObj, showOrg, isFaction }) => {
-  const isDesktop = true // useMediaQuery('(min-width: 728px)')
+  const isDesktop = true // useMediaQuery('(min-width: 768px)')
 
   if (!ally && !corp) {
     return (

@@ -7,7 +7,7 @@ export const Root = styled.div`
   margin-bottom: 16px;
   padding: 0 10px;
 
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     padding: 0 5px;
   }
 
@@ -26,7 +26,7 @@ export const LogosBlock = styled.div`
     margin-bottom: 10px;
   }
 
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     margin-left: 5px;
 
     > a {
@@ -60,7 +60,7 @@ export const InfoBlock = styled.div`
   border-top: 1px solid #333;
   font-size: 14px;
 
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     margin-left: 5px;
     font-size: 12px;
   }
@@ -82,7 +82,7 @@ export const LinksBlock = styled.div`
     margin: 10px;
   }
 
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     font-size: 12px;
   }
 `
@@ -100,7 +100,7 @@ export const ItemsWrapper = styled.div`
   //   margin-bottom: 5px;
   // }
 
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     margin-left: 5px;
   }
 `

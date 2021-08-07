@@ -14,7 +14,7 @@ export const TopPaginationWrapper = styled.div`
   top: -52px;
   right: 0;
 
-  // (min-width: 728px)
+  // (min-width: 768px)
   ${p => p.isDesktop && `
     position: absolute;
     top: 0;
@@ -39,7 +39,7 @@ export const Head = styled.div`
   font-family: Verdana;
   font-size: 12px;
   font-weight: 400;
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     font-size: 14px;
     font-weight: 600;
   }
@@ -72,7 +72,7 @@ export const HeadCell = styled.div`
   &:not(:first-child) {
     // padding: 0 0 0 3px;
   }
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     padding: 0 5px;
   }
 `
@@ -104,7 +104,7 @@ export const Row = styled.div`
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     font-size: 14px;
   }
   line-height: 120%;
@@ -146,7 +146,7 @@ export const Cell = styled.div`
   &:not(:first-child) {
     // padding: 0 0 0 5px;
   }
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     padding: 0 5px;
   }
 `
@@ -162,7 +162,7 @@ export const DayRow = styled.div`
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     font-size: 14px;
   }
   line-height: 120%;

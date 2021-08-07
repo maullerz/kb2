@@ -72,6 +72,9 @@ const Table = props => {
       ...(col.padRight && {
         paddingRight: col.padRight,
       }),
+      ...(col.minWidth && {
+        minWidth: col.minWidth,
+      }),
     }
 
     if (col.link) {

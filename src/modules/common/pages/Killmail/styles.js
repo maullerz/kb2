@@ -41,7 +41,7 @@ export const Body = styled.div`
     flex-direction: column;
   }
 
-  @media (max-width: 727px) {
+  @media (max-width: 767px) {
     // padding-top: 36px;
     background: rgba(0,0,0,0.2);
   }

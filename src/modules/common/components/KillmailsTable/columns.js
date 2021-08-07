@@ -40,7 +40,7 @@ function getAttackerName(att) {
     return (
       <MultilineCell>
         {charNode}
-        <EntityName onClick={stopPropagation}>
+        <EntityName nowrap onClick={stopPropagation}>
           <Link to={`/corporation/${att.corp.id}`}>
             {att.corp.name}
           </Link>
@@ -52,7 +52,7 @@ function getAttackerName(att) {
   return (
     <MultilineCell>
       {charNode}
-      <EntityName onClick={stopPropagation}>
+      <EntityName nowrap onClick={stopPropagation}>
         <Link to={`/alliance/${att.ally.id}`}>
           {att.ally.name}
         </Link>
@@ -61,9 +61,49 @@ function getAttackerName(att) {
   )
 }
 
+function getVictimCell(km) {
+  const { vict } = km
+  if (!vict.char) {
+    // console.error('vict:', vict)
+  }
+  const name = vict.char?.name || ''
+  // slice is for such things - Federation of Respect Honor Passion Alliance.
+  const orgName = String(vict.ally?.name || vict.corp?.name).slice(0, 40)
+
+  const charNode = name ? (
+    <CharName onClick={stopPropagation}>
+      <Link to={`/character/${vict.char.id}`}>
+        {name}
+      </Link>
+    </CharName>
+  ) : null
+
+  const orgNode = vict.ally?.name ? (
+    <Link to={`/alliance/${vict.ally.id}`}>
+      {orgName}
+    </Link>
+  ) : (
+    <Link to={`/corporation/${vict.corp?.id}`}>
+      {orgName}{/* <ShipName>corp</ShipName> */}
+    </Link>
+  )
+
+  return (
+    <MultilineCell>
+      <EntityName nowrap>
+        {charNode} <ShipName>({vict.ship.name})</ShipName>
+      </EntityName>
+      <EntityName nowrap onClick={stopPropagation}>
+        {orgNode}
+      </EntityName>
+    </MultilineCell>
+  )
+}
+
 const columnsObject = {
   timeAndSum: {
-    width: '56px', title: 'Time', align: 'right', link: '/kill/{placeholder}', linkKey: '_id',
+    title: 'Time', align: 'right', minWidth: '56px',
+    link: '/kill/{placeholder}', linkKey: '_id',
     render: km => {
       const sum = formatSumExt(km.sumV)
       return (
@@ -78,19 +118,19 @@ const columnsObject = {
     },
   },
   shipIcon: {
-    width: '50px', title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
+    title: 'Ship', link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
       <ItemIcon id={km.vict.ship.id} tooltip />
     ),
   },
   shipIconMini: {
-    width: '50px', title: 'Ship', padLeft: 5, link: '/kill/{placeholder}', linkKey: '_id',
+    title: 'Ship', padLeft: 5, link: '/kill/{placeholder}', linkKey: '_id',
     render: km => (
       <ItemIcon id={km.vict.ship.id} tooltip mini />
     ),
   },
   system: {
-    width: '150px', title: 'System', padLeft: 5,
+    title: 'System', padLeft: 5,
     render: ({ sys }) => {
       // console.log('sys:', sys)
       const ssStyle = { color: SdeUtils.getSSColor(sys.ss) }
@@ -112,7 +152,7 @@ const columnsObject = {
     },
   },
   victimAllyIcon: {
-    width: '50px', title: '',
+    title: '',
     render: ({ vict }) => (
       <OrgIcon
         link
@@ -125,7 +165,7 @@ const columnsObject = {
     ),
   },
   victimAllyIconMini: {
-    width: '50px', title: '',
+    title: '',
     render: ({ vict }) => (
       <OrgIcon
         mini
@@ -138,50 +178,26 @@ const columnsObject = {
       />
     ),
   },
-
-  victimName: {
-    width: '28%', title: 'Victim', padLeft: 5,
+  victimCell: {
+    title: 'Victim', padLeft: 5,
     render: km => {
-      const { vict } = km
-      if (!vict.char) {
-        // console.error('vict:', vict)
-      }
-      const name = vict.char?.name || ''
-      // slice is for such things - Federation of Respect Honor Passion Alliance.
-      const orgName = String(vict.ally?.name || vict.corp?.name).slice(0, 40)
-
-      const charNode = name ? (
-        <CharName onClick={stopPropagation}>
-          <Link to={`/character/${vict.char.id}`}>
-            {name}
-          </Link>
-        </CharName>
-      ) : null
-
-      const orgNode = vict.ally?.name ? (
-        <Link to={`/alliance/${vict.ally.id}`}>
-          {orgName}
-        </Link>
-      ) : (
-        <Link to={`/corporation/${vict.corp?.id}`}>
-          {orgName}{/* <ShipName>corp</ShipName> */}
-        </Link>
-      )
-
+      return getVictimCell(km)
+    },
+  },
+  victimCellMobile: {
+    title: 'Victim', padLeft: 5,
+    render: km => {
+      const victim = getVictimCell(km)
       return (
-        <MultilineCell>
-          <EntityName nowrap>
-            {charNode} <ShipName>({vict.ship.name})</ShipName>
-          </EntityName>
-          <EntityName nowrap onClick={stopPropagation}>
-            {orgNode}
-          </EntityName>
-        </MultilineCell>
+        <>
+          {victim}
+          <InvolvedCountBadge km={km} />
+        </>
       )
     },
   },
   attShipIcon: {
-    width: '50px', title: 'Final Blow',
+    title: 'Final Blow',
     render: km => {
       const { atts } = km
       const finalBlow = atts.blow
@@ -200,7 +216,7 @@ const columnsObject = {
     },
   },
   attAllyIcon: {
-    width: '50px', title: null,
+    title: null,
     render: ({ atts }) => {
       const finalBlow = atts.blow
       if (!finalBlow) {
@@ -222,7 +238,7 @@ const columnsObject = {
   },
   // TODO: for Desktop - attackers alliances icons
   attName: {
-    width: '32%', title: null,
+    title: null,
     render: km => {
       const { atts } = km
       return (
@@ -235,32 +251,33 @@ const columnsObject = {
   },
 }
 
-const getColumn = (key, width) => {
+const getColumn = (key, width, minWidth) => {
   return {
     ...columnsObject[key],
     key,
     ...(width && { width }),
+    ...(minWidth && { minWidth }),
   }
 }
 
 export const columns = [
-  getColumn('timeAndSum'),
-  getColumn('shipIcon'),
-  getColumn('system'),
-  getColumn('victimAllyIcon'),
-  getColumn('victimName'),
-  getColumn('attAllyIcon'),
-  getColumn('attShipIcon'),
-  getColumn('attName'),
+  getColumn('timeAndSum', '56px'),
+  getColumn('shipIcon', '50px'),
+  getColumn('system', '130px'),
+  getColumn('victimAllyIcon', '50px'),
+  getColumn('victimCell', '32%'),
+  getColumn('attAllyIcon', '50px'),
+  getColumn('attShipIcon', '50px'),
+  getColumn('attName', '28%'),
 ]
 
 export const mobileColumns = [
-  getColumn('timeAndSum', '56px'),
+  getColumn('timeAndSum', '56px', '40px'),
   getColumn('shipIconMini', '46px'),
-  getColumn('system', '40%'), // '110px'),
+  getColumn('system', '35%'), // '110px'),
   getColumn('victimAllyIconMini', '40px'),
-  getColumn('victimName', '56%'),
+  getColumn('victimCellMobile', '65%'),
   // getColumn('attAllyIcon', '40px'),
   // getColumn('attShipIcon', '40px'),
-  // getColumn('attName'),
+  // getColumn('attCount', '50px'),
 ]

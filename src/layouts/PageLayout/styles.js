@@ -10,7 +10,7 @@ export const PageRoot = styled.div`
 
   padding: 14px 0;
 
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     padding: 14px;
   }
 `

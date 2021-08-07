@@ -13,6 +13,7 @@ import history from 'services/routerHistory'
 
 import * as SettingsSelectors from 'store/reducers/settings.selectors'
 import { loadData } from 'utils/SdeData'
+import ScrollToTop from 'utils/hooks/ScrollToTop'
 
 import { getMuiTheme } from 'assets/styles/mui/muiTheme'
 import 'assets/styles/index.pcss'
@@ -69,6 +70,7 @@ const App = () => {
 const Root = () => (
   <Provider store={store}>
     <ConnectedRouter history={history}>
+      <ScrollToTop />
       <StylesProvider injectFirst>
         <App />
       </StylesProvider>

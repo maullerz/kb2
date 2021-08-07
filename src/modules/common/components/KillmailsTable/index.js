@@ -40,7 +40,7 @@ function renderNoContent() {
 }
 
 const KillmailsTable = props => {
-  const isDesktop = useMediaQuery('(min-width: 728px)')
+  const isDesktop = useMediaQuery('(min-width: 768px)')
   const [state, setState] = useReducer(reducerFunc, {
     items: [],
     isLoading: true,

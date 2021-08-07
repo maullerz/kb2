@@ -19,7 +19,7 @@ export const Label = styled.div`
   font-weight: bold;
   min-width: 90px;
 
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     min-width: 80px;
   }
 `

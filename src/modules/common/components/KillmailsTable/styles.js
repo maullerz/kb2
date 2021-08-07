@@ -41,7 +41,7 @@ export const MultilineCell = styled.div`
     align-items: flex-end;
   `}
 
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     padding: 3px 0;
   }
 `

@@ -8,7 +8,7 @@ import { getTypeName, getGroupName } from 'utils/SdeUtils'
 import { ItemIconContainer, Image } from './styles'
 
 const ItemIcon = ({ id, mini, singleton, tooltip, link, border }) => {
-  const isDesktop = true // useMediaQuery('(min-width: 728px)')
+  const isDesktop = true // useMediaQuery('(min-width: 768px)')
 
   const iconUrl = id
     ? getIconUrl(id, singleton)

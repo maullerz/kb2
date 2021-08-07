@@ -11,7 +11,7 @@ export const Main = styled.main`
 
   // background-color: var(--mainLayoutWorkspaceBackground);
 
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     // background-image: url(/img/background.jpg);
     background-image: url(/img/bg.jpg);
     background-size: cover;
@@ -23,7 +23,7 @@ export const Main = styled.main`
     bottom: 32px;
   }
 
-  @media (max-width: 727px) {
+  @media (max-width: 767px) {
     .MuiTypography-h6 {
       font-size: 1rem;
     }
@@ -41,7 +41,7 @@ export const Content = styled.div`
   min-height: 0;
   background: var(--mainLayoutWorkspaceBackground);
 
-  @media (min-width: 728px) {
+  @media (min-width: 768px) {
     // padding: 36px 0; // 14px;
   }
 `
