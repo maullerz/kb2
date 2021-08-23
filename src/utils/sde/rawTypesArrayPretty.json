@@ -52077,7 +52077,7 @@
   [
     21833,
     226,
-    "Fortified Minmatar Lookout"
+    "Fortified Minmatar Grandstand"
   ],
   [
     21834,
@@ -78206,7 +78206,7 @@
   ],
   [
     28652,
-    590,
+    4127,
     "Covert Jump Portal Generator I"
   ],
   [
@@ -137770,11 +137770,6 @@
     "Capsuleer Day 2021 WSLS"
   ],
   [
-    58775,
-    227,
-    "Dungeon Cloud 9062 (do not translate)"
-  ],
-  [
     58785,
     1090,
     "Women's Imperial Stargate Crew Pants"
@@ -138012,17 +138007,17 @@
   [
     58844,
     4050,
-    "2v2 T1 Destroyers Proving Filament"
+    "2v2 Destroyers Proving Filament"
   ],
   [
     58845,
     4050,
-    "Event 28 Proving Filament"
+    "Liberation Games Rifter FFA Proving Filament"
   ],
   [
     58846,
     4050,
-    "Event 29 Proving Filament"
+    "Proving Conduit Throwback Proving Filament"
   ],
   [
     58847,
@@ -138062,17 +138057,17 @@
   [
     58854,
     303,
-    "Potent Capsuleer Day Glamourex Booster"
+    "Expired Potent Capsuleer Day Glamourex Booster"
   ],
   [
     58855,
     303,
-    "Extended Capsuleer Day Glamourex Booster"
+    "Expired Extended Capsuleer Day Glamourex Booster"
   ],
   [
     58856,
     303,
-    "Basic Capsuleer Day Glamourex Booster"
+    "Expired Basic Capsuleer Day Glamourex Booster"
   ],
   [
     58857,
@@ -138081,8 +138076,8 @@
   ],
   [
     58858,
-    4041,
-    "Capsuleer Day Signal-18 'Needlejack' Filament"
+    4072,
+    "Expired Capsuleer Day Signal-18 'Needlejack' Filament"
   ],
   [
     58904,
@@ -138526,13 +138521,13 @@
   ],
   [
     59307,
-    4041,
-    "Serenity Capsuleer Day Noise-18 'Needlejack' Filament"
+    4072,
+    "Expired Serenity Capsuleer Day Noise-18 'Needlejack' Filament"
   ],
   [
     59308,
-    4041,
-    "Serenity Capsuleer Day Signal-18 'Needlejack' Filament"
+    4072,
+    "Expired Serenity Capsuleer Day Signal-18 'Needlejack' Filament"
   ],
   [
     59317,
@@ -138600,14 +138595,54 @@
     "Reschard V Disaster Memorial"
   ],
   [
+    59366,
+    1088,
+    "Men's 'Imperial Loyalist' Jacket"
+  ],
+  [
+    59367,
+    1088,
+    "Women's 'Imperial Loyalist' Jacket"
+  ],
+  [
+    59368,
+    1090,
+    "Men's 'Imperial Loyalist' Pants"
+  ],
+  [
     59369,
     4050,
     "Event 34 Proving Filament"
   ],
   [
+    59370,
+    1090,
+    "Women's 'Imperial Loyalist' Pants"
+  ],
+  [
     59404,
     4098,
     "Gallente Federation Day Expert System"
+  ],
+  [
+    59405,
+    1088,
+    "Men's 'State Protector' Jacket"
+  ],
+  [
+    59406,
+    1090,
+    "Men's 'State Protector' Pants"
+  ],
+  [
+    59407,
+    1088,
+    "Women's 'State Protector' Jacket"
+  ],
+  [
+    59408,
+    1090,
+    "Women's 'State Protector' Pants"
   ],
   [
     59454,
@@ -138648,5 +138683,865 @@
     59461,
     226,
     "F7-ICZ Stargate Construction Monument"
+  ],
+  [
+    59503,
+    306,
+    "Novice Data Vault"
+  ],
+  [
+    59504,
+    306,
+    "Intermediate Data Vault"
+  ],
+  [
+    59505,
+    306,
+    "Expert Data Vault"
+  ],
+  [
+    59507,
+    1975,
+    "Plinth Minmatar NIO [Do not translate]"
+  ],
+  [
+    59508,
+    226,
+    "Fortified Minmatar Grandstand"
+  ],
+  [
+    59509,
+    226,
+    "Fortified Minmatar Viewing Lounge"
+  ],
+  [
+    59510,
+    1975,
+    "Minmatar Wall NIO [Do not translate]"
+  ],
+  [
+    59519,
+    4098,
+    "Minmatar Liberation Day Expert System"
+  ],
+  [
+    59520,
+    383,
+    "Liberation Games Firework Sentry"
+  ],
+  [
+    59584,
+    1814,
+    "AEGIS Security Battleship"
+  ],
+  [
+    59585,
+    1813,
+    "AEGIS Security Cruiser"
+  ],
+  [
+    59586,
+    1803,
+    "AEGIS Security Frigate"
+  ],
+  [
+    59587,
+    1194,
+    "Minmatar Liberation Day Apparel Crate"
+  ],
+  [
+    59595,
+    310,
+    "Limited Mining Expedition Beacon"
+  ],
+  [
+    59596,
+    310,
+    "Minor Mining Expedition Beacon"
+  ],
+  [
+    59597,
+    310,
+    "Standard Mining Expedition Beacon"
+  ],
+  [
+    59598,
+    310,
+    "Major Mining Expedition Beacon"
+  ],
+  [
+    59599,
+    310,
+    "Critical Mining Expedition Beacon"
+  ],
+  [
+    59601,
+    226,
+    "Karin Midular: Ray of Matar"
+  ],
+  [
+    59602,
+    226,
+    "Karishal Muritor Memorial Statue"
+  ],
+  [
+    59603,
+    314,
+    "Serenity 618 Event Crate"
+  ],
+  [
+    59612,
+    226,
+    "Amarr Cathedral"
+  ],
+  [
+    59613,
+    226,
+    "Sebiestor Tribal Embassy"
+  ],
+  [
+    59614,
+    226,
+    "Krusual Tribal Embassy"
+  ],
+  [
+    59615,
+    226,
+    "Brutor Tribal Embassy"
+  ],
+  [
+    59616,
+    226,
+    "Vherokior Tribal Embassy"
+  ],
+  [
+    59617,
+    226,
+    "Nefantar Tribal Embassy"
+  ],
+  [
+    59618,
+    226,
+    "Thukker Tribal Embassy"
+  ],
+  [
+    59619,
+    226,
+    "Starkmanir Tribal Embassy"
+  ],
+  [
+    59620,
+    303,
+    "Serenity Monthly Cerebral Accelerator - 2021.7"
+  ],
+  [
+    59621,
+    4100,
+    "Sebiestor Tribe Standard"
+  ],
+  [
+    59622,
+    4100,
+    "Krusual Tribe Standard"
+  ],
+  [
+    59623,
+    4100,
+    "Brutor Tribe Standard"
+  ],
+  [
+    59624,
+    4100,
+    "Vherokior Tribe Standard"
+  ],
+  [
+    59625,
+    4100,
+    "Nefantar Tribe Standard"
+  ],
+  [
+    59626,
+    4100,
+    "Thukker Tribe Standard"
+  ],
+  [
+    59627,
+    4100,
+    "Starkmanir Tribe Standard"
+  ],
+  [
+    59628,
+    226,
+    "Tribal Council Orbital Caravanserai"
+  ],
+  [
+    59629,
+    1971,
+    "Proving Overload Bonus (Do not translate)"
+  ],
+  [
+    59630,
+    4093,
+    "Covert Mobile Cynosural Beacon"
+  ],
+  [
+    59631,
+    897,
+    "Cynosural Field"
+  ],
+  [
+    59632,
+    4095,
+    "Covert Mobile Cynosural Beacon Blueprint"
+  ],
+  [
+    59633,
+    303,
+    "Strong Veilguard Booster"
+  ],
+  [
+    59636,
+    1568,
+    "Impairor Reenactment Drone"
+  ],
+  [
+    59637,
+    1568,
+    "Inquisitor Reenactment Drone"
+  ],
+  [
+    59638,
+    1568,
+    "Inquisitor Reenactment Drone"
+  ],
+  [
+    59639,
+    1665,
+    "Augoror Reenactment Drone"
+  ],
+  [
+    59640,
+    310,
+    "Minmatar Mining Corporation Testing Center"
+  ],
+  [
+    59641,
+    1568,
+    "Punisher Reenactment Drone"
+  ],
+  [
+    59642,
+    1666,
+    "Prophecy Reenactment Drone"
+  ],
+  [
+    59643,
+    1666,
+    "Elite Prophecy Reenactment Drone"
+  ],
+  [
+    59668,
+    227,
+    "Lib S1 HS W Spawner (Do not translate)"
+  ],
+  [
+    59669,
+    227,
+    "Lib S1 LS W Spawner (Do not translate)"
+  ],
+  [
+    59670,
+    227,
+    "Lib S1 HS B Spawner (Do not translate)"
+  ],
+  [
+    59671,
+    227,
+    "Lib S1 LS B Spawner (Do not translate)"
+  ],
+  [
+    59672,
+    227,
+    "Lib S2 HS R1 W Spawner (Do not translate)"
+  ],
+  [
+    59673,
+    227,
+    "Lib S2 HS R2 W Spawner (Do not translate)"
+  ],
+  [
+    59674,
+    227,
+    "Lib S2 LS R1 W Spawner (Do not translate)"
+  ],
+  [
+    59675,
+    227,
+    "Lib S2 LS R2 W Spawner (Do not translate)"
+  ],
+  [
+    59676,
+    227,
+    "Lib S2 HS B Spawner (Do not translate)"
+  ],
+  [
+    59677,
+    227,
+    "Lib S2 LS B Spawner (Do not translate)"
+  ],
+  [
+    59678,
+    718,
+    "Strong Veilguard Booster Blueprint"
+  ],
+  [
+    59688,
+    226,
+    "Sebiestor Firetail"
+  ],
+  [
+    59689,
+    226,
+    "Krusual Firetail"
+  ],
+  [
+    59690,
+    226,
+    "Brutor Firetail"
+  ],
+  [
+    59691,
+    226,
+    "Vherokior Firetail"
+  ],
+  [
+    59692,
+    226,
+    "Nefantar Firetail"
+  ],
+  [
+    59693,
+    226,
+    "Thukker Firetail"
+  ],
+  [
+    59694,
+    226,
+    "Starkmanir Firetail"
+  ],
+  [
+    59695,
+    226,
+    "Sebiestor Stabber"
+  ],
+  [
+    59696,
+    226,
+    "Krusual Stabber"
+  ],
+  [
+    59697,
+    226,
+    "Brutor Stabber"
+  ],
+  [
+    59698,
+    226,
+    "Vherokior Stabber"
+  ],
+  [
+    59699,
+    226,
+    "Nefantar Stabber"
+  ],
+  [
+    59700,
+    226,
+    "Thukker Stabber"
+  ],
+  [
+    59701,
+    226,
+    "Starkmanir Stabber"
+  ],
+  [
+    59702,
+    226,
+    "Sebiestor Hurricane"
+  ],
+  [
+    59703,
+    226,
+    "Krusual Hurricane"
+  ],
+  [
+    59704,
+    226,
+    "Brutor Hurricane "
+  ],
+  [
+    59705,
+    226,
+    "Vherokior Hurricane "
+  ],
+  [
+    59706,
+    226,
+    "Nefantar Hurricane "
+  ],
+  [
+    59707,
+    226,
+    "Thukker Hurricane "
+  ],
+  [
+    59708,
+    226,
+    "Starkmanir Hurricane "
+  ],
+  [
+    59709,
+    226,
+    "Sebiestor Tempest"
+  ],
+  [
+    59710,
+    226,
+    "Krusual Tempest"
+  ],
+  [
+    59711,
+    226,
+    "Brutor Tempest"
+  ],
+  [
+    59712,
+    226,
+    "Vherokior Tempest"
+  ],
+  [
+    59713,
+    226,
+    "Nefantar Tempest"
+  ],
+  [
+    59714,
+    226,
+    "Thukker Tempest"
+  ],
+  [
+    59715,
+    226,
+    "Starkmanir Tempest"
+  ],
+  [
+    59723,
+    226,
+    "The Eternal Flame"
+  ],
+  [
+    59724,
+    226,
+    "MMC Scythe Cruiser Mining Variant"
+  ],
+  [
+    59725,
+    226,
+    "MMC Scythe Maintenance Pad"
+  ],
+  [
+    59726,
+    226,
+    "MMC Storage and Preservation Facility"
+  ],
+  [
+    59727,
+    226,
+    "Mined Out Asteroid Field"
+  ],
+  [
+    59728,
+    226,
+    "MMC Testing Center Visitors Facility"
+  ],
+  [
+    59729,
+    226,
+    "Minmatar Mining Corporation Testing HQ"
+  ],
+  [
+    59730,
+    226,
+    "MMC Testing Center Observation Platform"
+  ],
+  [
+    59731,
+    383,
+    "AEGIS Security GunStar"
+  ],
+  [
+    59732,
+    383,
+    "AEGIS Security Heavy GunStar"
+  ],
+  [
+    59733,
+    226,
+    "AEGIS Proximity Mine"
+  ],
+  [
+    59734,
+    226,
+    "AEGIS Proximity Mine"
+  ],
+  [
+    59738,
+    226,
+    "Amarr Battlestation Ruins"
+  ],
+  [
+    59739,
+    226,
+    "Ruins of Fort Kavad"
+  ],
+  [
+    59740,
+    226,
+    "Preserved Amarr Defense Post"
+  ],
+  [
+    59741,
+    226,
+    "Preserved Amarr Battleship Wreck"
+  ],
+  [
+    59742,
+    226,
+    "Preserved Amarr Battleship Wreck"
+  ],
+  [
+    59743,
+    226,
+    "Preserved Minmatar Battleship Wreck"
+  ],
+  [
+    59744,
+    226,
+    "Preserved Minmatar Battleship Wreck"
+  ],
+  [
+    59745,
+    226,
+    "Unidentified Wreckage"
+  ],
+  [
+    59746,
+    226,
+    "Battle of Fort Kavad Monument"
+  ],
+  [
+    59748,
+    306,
+    "Novice Data Vault"
+  ],
+  [
+    59749,
+    306,
+    "Intermediate Data Vault"
+  ],
+  [
+    59750,
+    306,
+    "Expert Data Vault"
+  ],
+  [
+    59752,
+    314,
+    "Liberation Games Reward Token"
+  ],
+  [
+    59753,
+    310,
+    "Mahti Jailbreak Reenactment"
+  ],
+  [
+    59754,
+    310,
+    "Escape from Auner Reenactment"
+  ],
+  [
+    59755,
+    314,
+    "Serenity July Season Reward Crate"
+  ],
+  [
+    59756,
+    303,
+    "Serenity YC123.7 Season Advanced Cerebral Accelerator"
+  ],
+  [
+    59757,
+    303,
+    "Serenity YC123.7 Season Pass"
+  ],
+  [
+    59758,
+    303,
+    "Command Center Upgrades Skill Accelerator"
+  ],
+  [
+    59759,
+    303,
+    "Planetology Skill Accelerator"
+  ],
+  [
+    59760,
+    303,
+    "Interplanetary Consolidation Skill Accelerator"
+  ],
+  [
+    59761,
+    303,
+    "Trade Skill Accelerator"
+  ],
+  [
+    59762,
+    303,
+    "Advanced Planetology Skill Accelerator"
+  ],
+  [
+    59763,
+    303,
+    "Daytrading Skill Accelerator"
+  ],
+  [
+    59764,
+    303,
+    "Broker Relations Skill Accelerator"
+  ],
+  [
+    59765,
+    303,
+    "Customs Code Expertise Skill Accelerator"
+  ],
+  [
+    59766,
+    303,
+    "Advanced Broker Relations Skill Accelerator"
+  ],
+  [
+    59767,
+    303,
+    "Astrogeology Skill Accelerator"
+  ],
+  [
+    59768,
+    303,
+    "Mining Skill Accelerator"
+  ],
+  [
+    59792,
+    1895,
+    "Evacuation Transport Reenactment Drone"
+  ],
+  [
+    59793,
+    1895,
+    "Hijacked Transport Reenactment Drone"
+  ],
+  [
+    59795,
+    227,
+    "Escape from Auner Hauler Spawner"
+  ],
+  [
+    59796,
+    227,
+    "Mahti Prisonbreak Hauler Spawner"
+  ],
+  [
+    59797,
+    303,
+    "Serenity Zainou 'Beancounter' Manufacturing RP-108"
+  ],
+  [
+    59798,
+    303,
+    "Serenity Poteque 'Prospector' Harvesting MC-108"
+  ],
+  [
+    59799,
+    303,
+    "Serenity Zainou 'Beancounter' Manufacturing RP-308"
+  ],
+  [
+    59800,
+    303,
+    "Serenity Poteque 'Prospector' Harvesting MC-308"
+  ],
+  [
+    59801,
+    303,
+    "Serenity Zainou 'Beancounter' Manufacturing RP-708"
+  ],
+  [
+    59802,
+    303,
+    "Serenity Poteque 'Prospector' Harvesting MC-708"
+  ],
+  [
+    59803,
+    303,
+    "Serenity YC123.7 Cerebral Accelerator I"
+  ],
+  [
+    59804,
+    303,
+    "Serenity YC123.7 Cerebral Accelerator II"
+  ],
+  [
+    59805,
+    303,
+    "Serenity YC123.7 Cerebral Accelerator III"
+  ],
+  [
+    59806,
+    303,
+    "Serenity YC123.7 Cerebral Accelerator IV"
+  ],
+  [
+    59876,
+    303,
+    "Basic 'Rebel' Cerebral Accelerator"
+  ],
+  [
+    59878,
+    303,
+    "Potent 'Rebel' Cerebral Accelerator"
+  ],
+  [
+    59879,
+    303,
+    "Extended 'Rebel' Cerebral Accelerator"
+  ],
+  [
+    59880,
+    303,
+    "Liberation Games Damage Booster I"
+  ],
+  [
+    59881,
+    303,
+    "Liberation Games Damage Booster II"
+  ],
+  [
+    59882,
+    303,
+    "Liberation Games Damage Booster III"
+  ],
+  [
+    59883,
+    303,
+    "Liberation Games Accuracy Booster II"
+  ],
+  [
+    59884,
+    303,
+    "Liberation Games Accuracy Booster III"
+  ],
+  [
+    59885,
+    303,
+    "Liberation Games Range Booster I"
+  ],
+  [
+    59886,
+    303,
+    "Liberation Games Range Booster II"
+  ],
+  [
+    59887,
+    303,
+    "Liberation Games Range Booster III"
+  ],
+  [
+    59888,
+    303,
+    "Liberation Games EWar Booster I"
+  ],
+  [
+    59889,
+    303,
+    "Liberation Games EWar Booster II"
+  ],
+  [
+    59890,
+    303,
+    "Liberation Games EWar Booster III"
+  ],
+  [
+    59891,
+    303,
+    "Liberation Games Accuracy Booster I"
+  ],
+  [
+    59892,
+    1194,
+    "Republic Service Tattoo (Brutor Tribe) Package"
+  ],
+  [
+    59893,
+    1194,
+    "Republic Service Tattoo (Krusual Tribe) Package"
+  ],
+  [
+    59894,
+    1194,
+    "Republic Service Tattoo (Nefantar Tribe) Package"
+  ],
+  [
+    59895,
+    1194,
+    "Republic Service Tattoo (Sebiestor Tribe) Package"
+  ],
+  [
+    59896,
+    1194,
+    "Republic Service Tattoo (Starkmanir Tribe) Package"
+  ],
+  [
+    59897,
+    1194,
+    "Republic Service Tattoo (Thukker Tribe) Package"
+  ],
+  [
+    59898,
+    1194,
+    "Republic Service Tattoo (Vherokior Tribe) Package"
+  ],
+  [
+    59900,
+    314,
+    "Serenity YC123.7 Event Crate"
+  ],
+  [
+    59901,
+    314,
+    "Serenity YC123.7 Event SKIN Crate"
+  ],
+  [
+    59902,
+    314,
+    "Serenity YC123.7 Event Manufacturing Booster Crate"
+  ],
+  [
+    59903,
+    314,
+    "Serenity YC123.7 Event Skill Booster Crate"
+  ],
+  [
+    59942,
+    310,
+    "Battle of Fort Kavad Monument"
   ]
 ]

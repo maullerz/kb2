@@ -5655,6 +5655,28 @@
     "published": false,
     "stackable": true
   },
+  "1252": {
+    "attributeID": 1252,
+    "categoryID": 7,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "",
+    "displayNameID": {
+      "de": "Verwendet geheime Technologie",
+      "en": "Uses Covert Cynosural Field Technology",
+      "fr": "Utilise une technologie furtive",
+      "ja": "コバート技術を使用",
+      "ko": "코버트 기술 사용",
+      "ru": "Используется диверсионная маскировка",
+      "zh": "使用隐秘诱导力场科技"
+    },
+    "highIsGood": true,
+    "iconID": 0,
+    "name": "isCovert",
+    "published": true,
+    "stackable": true,
+    "unitID": 137
+  },
   "1253": {
     "attributeID": 1253,
     "categoryID": 7,
@@ -13422,5 +13444,82 @@
       "zh": "安装在舰船上的<b>战术克隆重制体</b>需要这种类型的燃料方能进行克隆重生"
     },
     "unitID": 116
+  },
+  "3131": {
+    "attributeID": 3131,
+    "categoryID": 7,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Number of units needed to conduit jump",
+    "displayNameID": {
+      "de": "Verbrauch des Gruppensprungs",
+      "en": "Conduit Jump Consumption Amount",
+      "fr": "Quantité consommée par le saut de groupe",
+      "ja": "コンジットジャンプ消費量",
+      "ko": "점프 필드 연료 소모량",
+      "ru": "Расход топлива при групповом прыжке",
+      "zh": "导管跳跃消耗量"
+    },
+    "highIsGood": false,
+    "name": "conduitJumpDriveConsumptionAmount",
+    "published": true,
+    "stackable": false,
+    "tooltipDescriptionID": {
+      "de": "Für den Gruppensprung benötigte Anzahl an Einheiten",
+      "en": "Number of units needed to conduit jump",
+      "fr": "Nombre d’unités requises pour le saut de groupe",
+      "ja": "コンジットジャンプに必要なユニット数",
+      "ko": "점프 필드 활성화 시 소모 연료",
+      "ru": "Количество ед. для группового прыжка",
+      "zh": "导管跳跃需要的单位数量"
+    },
+    "tooltipTitleID": {
+      "de": "Verbrauch des Gruppensprungantriebs",
+      "en": "Conduit Jump Drive Consumption Amount",
+      "fr": "Quantité consommée par le propulseur interstellaire de groupe",
+      "ja": "コンジットジャンプドライブ消費量",
+      "ko": "점프 필드 연료 소모량",
+      "ru": "Расход топлива гипердвигателем при групповом прыжке",
+      "zh": "导管跳跃引擎消耗量"
+    },
+    "unitID": 138
+  },
+  "3133": {
+    "attributeID": 3133,
+    "categoryID": 7,
+    "dataType": 1,
+    "defaultValue": 0,
+    "description": "How many passengers can be carried in a Conduit Jump",
+    "displayNameID": {
+      "de": "Passagieranzahl für den Gruppensprung",
+      "en": "Conduit Jump Passenger Count",
+      "fr": "Compteur de passagers du saut de groupe",
+      "ja": "コンジットジャンプ同乗者カウント",
+      "ko": "점프 필드 최대 인원",
+      "ru": "Количество пассажиров при групповом прыжке",
+      "zh": "导管跳跃乘客数量"
+    },
+    "highIsGood": false,
+    "name": "conduitJumpPassengerCount",
+    "published": true,
+    "stackable": false,
+    "tooltipDescriptionID": {
+      "de": "Maximale Anzahl an Passagieren, die in einem Gruppensprung von einem Ankerschiff mitgenommen werden können.",
+      "en": "Maximum number of passengers carried along with the anchor ship in a Conduit Jump",
+      "fr": "Nombre maximal de passagers emmenés avec le vaisseau d'ancrage lors d'un saut de groupe",
+      "ja": "コンジットジャンプで、係留艦に同行できる艦船の最大数",
+      "ko": "점프 필드 전개 시 이동 가능한 최대 인원",
+      "ru": "Максимальное количество пассажиров при групповом прыжке",
+      "zh": "在导管跳跃中锚船所能承载的乘客的最大数量"
+    },
+    "tooltipTitleID": {
+      "de": "Passagieranzahl für den Gruppensprung",
+      "en": "Conduit Jump Passenger Count",
+      "fr": "Compteur de passagers du saut de groupe",
+      "ja": "コンジットジャンプ同乗者カウント",
+      "ko": "점프 필드 최대 인원",
+      "ru": "Количество пассажиров при групповом прыжке",
+      "zh": "导管跳跃乘客数量"
+    }
   }
 }

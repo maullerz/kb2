@@ -13350,7 +13350,7 @@
   },
   "4079": {
     "anchorable": false,
-    "anchored": false,
+    "anchored": true,
     "categoryID": 2,
     "fittableNonSingleton": false,
     "name": "Encounter Surveillance System",
@@ -13471,7 +13471,7 @@
     "anchored": true,
     "categoryID": 2,
     "fittableNonSingleton": false,
-    "name": "Tournament Champion Monument",
+    "name": "Logo Display Monument",
     "published": false,
     "useBasePrice": false
   },
@@ -13511,6 +13511,16 @@
     "name": "Interdiction Nullifier Blueprint",
     "published": true,
     "useBasePrice": true
+  },
+  "4127": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 7,
+    "fittableNonSingleton": false,
+    "iconID": 0,
+    "name": "Covert Jump Portal Generator",
+    "published": true,
+    "useBasePrice": false
   },
   "350858": {
     "anchorable": false,

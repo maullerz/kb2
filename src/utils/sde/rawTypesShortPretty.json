@@ -41661,7 +41661,7 @@
   },
   "21833": {
     "groupID": 226,
-    "name": "Fortified Minmatar Lookout"
+    "name": "Fortified Minmatar Grandstand"
   },
   "21834": {
     "groupID": 226,
@@ -62564,7 +62564,7 @@
     "name": "Covert Cynosural Field I Blueprint"
   },
   "28652": {
-    "groupID": 590,
+    "groupID": 4127,
     "name": "Covert Jump Portal Generator I"
   },
   "28653": {
@@ -110209,10 +110209,6 @@
     "groupID": 227,
     "name": "Capsuleer Day 2021 WSLS"
   },
-  "58775": {
-    "groupID": 227,
-    "name": "Dungeon Cloud 9062 (do not translate)"
-  },
   "58785": {
     "groupID": 1090,
     "name": "Women's Imperial Stargate Crew Pants"
@@ -110403,15 +110399,15 @@
   },
   "58844": {
     "groupID": 4050,
-    "name": "2v2 T1 Destroyers Proving Filament"
+    "name": "2v2 Destroyers Proving Filament"
   },
   "58845": {
     "groupID": 4050,
-    "name": "Event 28 Proving Filament"
+    "name": "Liberation Games Rifter FFA Proving Filament"
   },
   "58846": {
     "groupID": 4050,
-    "name": "Event 29 Proving Filament"
+    "name": "Proving Conduit Throwback Proving Filament"
   },
   "58847": {
     "groupID": 4050,
@@ -110443,23 +110439,23 @@
   },
   "58854": {
     "groupID": 303,
-    "name": "Potent Capsuleer Day Glamourex Booster"
+    "name": "Expired Potent Capsuleer Day Glamourex Booster"
   },
   "58855": {
     "groupID": 303,
-    "name": "Extended Capsuleer Day Glamourex Booster"
+    "name": "Expired Extended Capsuleer Day Glamourex Booster"
   },
   "58856": {
     "groupID": 303,
-    "name": "Basic Capsuleer Day Glamourex Booster"
+    "name": "Expired Basic Capsuleer Day Glamourex Booster"
   },
   "58857": {
     "groupID": 4072,
     "name": "Expired Capsuleer Day Noise-18 'Needlejack' Filament"
   },
   "58858": {
-    "groupID": 4041,
-    "name": "Capsuleer Day Signal-18 'Needlejack' Filament"
+    "groupID": 4072,
+    "name": "Expired Capsuleer Day Signal-18 'Needlejack' Filament"
   },
   "58904": {
     "groupID": 4107,
@@ -110814,12 +110810,12 @@
     "name": "Serenity Basic Capsuleer Day Glamourex Booster"
   },
   "59307": {
-    "groupID": 4041,
-    "name": "Serenity Capsuleer Day Noise-18 'Needlejack' Filament"
+    "groupID": 4072,
+    "name": "Expired Serenity Capsuleer Day Noise-18 'Needlejack' Filament"
   },
   "59308": {
-    "groupID": 4041,
-    "name": "Serenity Capsuleer Day Signal-18 'Needlejack' Filament"
+    "groupID": 4072,
+    "name": "Expired Serenity Capsuleer Day Signal-18 'Needlejack' Filament"
   },
   "59317": {
     "groupID": 314,
@@ -110873,13 +110869,45 @@
     "groupID": 226,
     "name": "Reschard V Disaster Memorial"
   },
+  "59366": {
+    "groupID": 1088,
+    "name": "Men's 'Imperial Loyalist' Jacket"
+  },
+  "59367": {
+    "groupID": 1088,
+    "name": "Women's 'Imperial Loyalist' Jacket"
+  },
+  "59368": {
+    "groupID": 1090,
+    "name": "Men's 'Imperial Loyalist' Pants"
+  },
   "59369": {
     "groupID": 4050,
     "name": "Event 34 Proving Filament"
   },
+  "59370": {
+    "groupID": 1090,
+    "name": "Women's 'Imperial Loyalist' Pants"
+  },
   "59404": {
     "groupID": 4098,
     "name": "Gallente Federation Day Expert System"
+  },
+  "59405": {
+    "groupID": 1088,
+    "name": "Men's 'State Protector' Jacket"
+  },
+  "59406": {
+    "groupID": 1090,
+    "name": "Men's 'State Protector' Pants"
+  },
+  "59407": {
+    "groupID": 1088,
+    "name": "Women's 'State Protector' Jacket"
+  },
+  "59408": {
+    "groupID": 1090,
+    "name": "Women's 'State Protector' Pants"
   },
   "59454": {
     "groupID": 226,
@@ -110912,5 +110940,693 @@
   "59461": {
     "groupID": 226,
     "name": "F7-ICZ Stargate Construction Monument"
+  },
+  "59503": {
+    "groupID": 306,
+    "name": "Novice Data Vault"
+  },
+  "59504": {
+    "groupID": 306,
+    "name": "Intermediate Data Vault"
+  },
+  "59505": {
+    "groupID": 306,
+    "name": "Expert Data Vault"
+  },
+  "59507": {
+    "groupID": 1975,
+    "name": "Plinth Minmatar NIO [Do not translate]"
+  },
+  "59508": {
+    "groupID": 226,
+    "name": "Fortified Minmatar Grandstand"
+  },
+  "59509": {
+    "groupID": 226,
+    "name": "Fortified Minmatar Viewing Lounge"
+  },
+  "59510": {
+    "groupID": 1975,
+    "name": "Minmatar Wall NIO [Do not translate]"
+  },
+  "59519": {
+    "groupID": 4098,
+    "name": "Minmatar Liberation Day Expert System"
+  },
+  "59520": {
+    "groupID": 383,
+    "name": "Liberation Games Firework Sentry"
+  },
+  "59584": {
+    "groupID": 1814,
+    "name": "AEGIS Security Battleship"
+  },
+  "59585": {
+    "groupID": 1813,
+    "name": "AEGIS Security Cruiser"
+  },
+  "59586": {
+    "groupID": 1803,
+    "name": "AEGIS Security Frigate"
+  },
+  "59587": {
+    "groupID": 1194,
+    "name": "Minmatar Liberation Day Apparel Crate"
+  },
+  "59595": {
+    "groupID": 310,
+    "name": "Limited Mining Expedition Beacon"
+  },
+  "59596": {
+    "groupID": 310,
+    "name": "Minor Mining Expedition Beacon"
+  },
+  "59597": {
+    "groupID": 310,
+    "name": "Standard Mining Expedition Beacon"
+  },
+  "59598": {
+    "groupID": 310,
+    "name": "Major Mining Expedition Beacon"
+  },
+  "59599": {
+    "groupID": 310,
+    "name": "Critical Mining Expedition Beacon"
+  },
+  "59601": {
+    "groupID": 226,
+    "name": "Karin Midular: Ray of Matar"
+  },
+  "59602": {
+    "groupID": 226,
+    "name": "Karishal Muritor Memorial Statue"
+  },
+  "59603": {
+    "groupID": 314,
+    "name": "Serenity 618 Event Crate"
+  },
+  "59612": {
+    "groupID": 226,
+    "name": "Amarr Cathedral"
+  },
+  "59613": {
+    "groupID": 226,
+    "name": "Sebiestor Tribal Embassy"
+  },
+  "59614": {
+    "groupID": 226,
+    "name": "Krusual Tribal Embassy"
+  },
+  "59615": {
+    "groupID": 226,
+    "name": "Brutor Tribal Embassy"
+  },
+  "59616": {
+    "groupID": 226,
+    "name": "Vherokior Tribal Embassy"
+  },
+  "59617": {
+    "groupID": 226,
+    "name": "Nefantar Tribal Embassy"
+  },
+  "59618": {
+    "groupID": 226,
+    "name": "Thukker Tribal Embassy"
+  },
+  "59619": {
+    "groupID": 226,
+    "name": "Starkmanir Tribal Embassy"
+  },
+  "59620": {
+    "groupID": 303,
+    "name": "Serenity Monthly Cerebral Accelerator - 2021.7"
+  },
+  "59621": {
+    "groupID": 4100,
+    "name": "Sebiestor Tribe Standard"
+  },
+  "59622": {
+    "groupID": 4100,
+    "name": "Krusual Tribe Standard"
+  },
+  "59623": {
+    "groupID": 4100,
+    "name": "Brutor Tribe Standard"
+  },
+  "59624": {
+    "groupID": 4100,
+    "name": "Vherokior Tribe Standard"
+  },
+  "59625": {
+    "groupID": 4100,
+    "name": "Nefantar Tribe Standard"
+  },
+  "59626": {
+    "groupID": 4100,
+    "name": "Thukker Tribe Standard"
+  },
+  "59627": {
+    "groupID": 4100,
+    "name": "Starkmanir Tribe Standard"
+  },
+  "59628": {
+    "groupID": 226,
+    "name": "Tribal Council Orbital Caravanserai"
+  },
+  "59629": {
+    "groupID": 1971,
+    "name": "Proving Overload Bonus (Do not translate)"
+  },
+  "59630": {
+    "groupID": 4093,
+    "name": "Covert Mobile Cynosural Beacon"
+  },
+  "59631": {
+    "groupID": 897,
+    "name": "Cynosural Field"
+  },
+  "59632": {
+    "groupID": 4095,
+    "name": "Covert Mobile Cynosural Beacon Blueprint"
+  },
+  "59633": {
+    "groupID": 303,
+    "name": "Strong Veilguard Booster"
+  },
+  "59636": {
+    "groupID": 1568,
+    "name": "Impairor Reenactment Drone"
+  },
+  "59637": {
+    "groupID": 1568,
+    "name": "Inquisitor Reenactment Drone"
+  },
+  "59638": {
+    "groupID": 1568,
+    "name": "Inquisitor Reenactment Drone"
+  },
+  "59639": {
+    "groupID": 1665,
+    "name": "Augoror Reenactment Drone"
+  },
+  "59640": {
+    "groupID": 310,
+    "name": "Minmatar Mining Corporation Testing Center"
+  },
+  "59641": {
+    "groupID": 1568,
+    "name": "Punisher Reenactment Drone"
+  },
+  "59642": {
+    "groupID": 1666,
+    "name": "Prophecy Reenactment Drone"
+  },
+  "59643": {
+    "groupID": 1666,
+    "name": "Elite Prophecy Reenactment Drone"
+  },
+  "59668": {
+    "groupID": 227,
+    "name": "Lib S1 HS W Spawner (Do not translate)"
+  },
+  "59669": {
+    "groupID": 227,
+    "name": "Lib S1 LS W Spawner (Do not translate)"
+  },
+  "59670": {
+    "groupID": 227,
+    "name": "Lib S1 HS B Spawner (Do not translate)"
+  },
+  "59671": {
+    "groupID": 227,
+    "name": "Lib S1 LS B Spawner (Do not translate)"
+  },
+  "59672": {
+    "groupID": 227,
+    "name": "Lib S2 HS R1 W Spawner (Do not translate)"
+  },
+  "59673": {
+    "groupID": 227,
+    "name": "Lib S2 HS R2 W Spawner (Do not translate)"
+  },
+  "59674": {
+    "groupID": 227,
+    "name": "Lib S2 LS R1 W Spawner (Do not translate)"
+  },
+  "59675": {
+    "groupID": 227,
+    "name": "Lib S2 LS R2 W Spawner (Do not translate)"
+  },
+  "59676": {
+    "groupID": 227,
+    "name": "Lib S2 HS B Spawner (Do not translate)"
+  },
+  "59677": {
+    "groupID": 227,
+    "name": "Lib S2 LS B Spawner (Do not translate)"
+  },
+  "59678": {
+    "groupID": 718,
+    "name": "Strong Veilguard Booster Blueprint"
+  },
+  "59688": {
+    "groupID": 226,
+    "name": "Sebiestor Firetail"
+  },
+  "59689": {
+    "groupID": 226,
+    "name": "Krusual Firetail"
+  },
+  "59690": {
+    "groupID": 226,
+    "name": "Brutor Firetail"
+  },
+  "59691": {
+    "groupID": 226,
+    "name": "Vherokior Firetail"
+  },
+  "59692": {
+    "groupID": 226,
+    "name": "Nefantar Firetail"
+  },
+  "59693": {
+    "groupID": 226,
+    "name": "Thukker Firetail"
+  },
+  "59694": {
+    "groupID": 226,
+    "name": "Starkmanir Firetail"
+  },
+  "59695": {
+    "groupID": 226,
+    "name": "Sebiestor Stabber"
+  },
+  "59696": {
+    "groupID": 226,
+    "name": "Krusual Stabber"
+  },
+  "59697": {
+    "groupID": 226,
+    "name": "Brutor Stabber"
+  },
+  "59698": {
+    "groupID": 226,
+    "name": "Vherokior Stabber"
+  },
+  "59699": {
+    "groupID": 226,
+    "name": "Nefantar Stabber"
+  },
+  "59700": {
+    "groupID": 226,
+    "name": "Thukker Stabber"
+  },
+  "59701": {
+    "groupID": 226,
+    "name": "Starkmanir Stabber"
+  },
+  "59702": {
+    "groupID": 226,
+    "name": "Sebiestor Hurricane"
+  },
+  "59703": {
+    "groupID": 226,
+    "name": "Krusual Hurricane"
+  },
+  "59704": {
+    "groupID": 226,
+    "name": "Brutor Hurricane "
+  },
+  "59705": {
+    "groupID": 226,
+    "name": "Vherokior Hurricane "
+  },
+  "59706": {
+    "groupID": 226,
+    "name": "Nefantar Hurricane "
+  },
+  "59707": {
+    "groupID": 226,
+    "name": "Thukker Hurricane "
+  },
+  "59708": {
+    "groupID": 226,
+    "name": "Starkmanir Hurricane "
+  },
+  "59709": {
+    "groupID": 226,
+    "name": "Sebiestor Tempest"
+  },
+  "59710": {
+    "groupID": 226,
+    "name": "Krusual Tempest"
+  },
+  "59711": {
+    "groupID": 226,
+    "name": "Brutor Tempest"
+  },
+  "59712": {
+    "groupID": 226,
+    "name": "Vherokior Tempest"
+  },
+  "59713": {
+    "groupID": 226,
+    "name": "Nefantar Tempest"
+  },
+  "59714": {
+    "groupID": 226,
+    "name": "Thukker Tempest"
+  },
+  "59715": {
+    "groupID": 226,
+    "name": "Starkmanir Tempest"
+  },
+  "59723": {
+    "groupID": 226,
+    "name": "The Eternal Flame"
+  },
+  "59724": {
+    "groupID": 226,
+    "name": "MMC Scythe Cruiser Mining Variant"
+  },
+  "59725": {
+    "groupID": 226,
+    "name": "MMC Scythe Maintenance Pad"
+  },
+  "59726": {
+    "groupID": 226,
+    "name": "MMC Storage and Preservation Facility"
+  },
+  "59727": {
+    "groupID": 226,
+    "name": "Mined Out Asteroid Field"
+  },
+  "59728": {
+    "groupID": 226,
+    "name": "MMC Testing Center Visitors Facility"
+  },
+  "59729": {
+    "groupID": 226,
+    "name": "Minmatar Mining Corporation Testing HQ"
+  },
+  "59730": {
+    "groupID": 226,
+    "name": "MMC Testing Center Observation Platform"
+  },
+  "59731": {
+    "groupID": 383,
+    "name": "AEGIS Security GunStar"
+  },
+  "59732": {
+    "groupID": 383,
+    "name": "AEGIS Security Heavy GunStar"
+  },
+  "59733": {
+    "groupID": 226,
+    "name": "AEGIS Proximity Mine"
+  },
+  "59734": {
+    "groupID": 226,
+    "name": "AEGIS Proximity Mine"
+  },
+  "59738": {
+    "groupID": 226,
+    "name": "Amarr Battlestation Ruins"
+  },
+  "59739": {
+    "groupID": 226,
+    "name": "Ruins of Fort Kavad"
+  },
+  "59740": {
+    "groupID": 226,
+    "name": "Preserved Amarr Defense Post"
+  },
+  "59741": {
+    "groupID": 226,
+    "name": "Preserved Amarr Battleship Wreck"
+  },
+  "59742": {
+    "groupID": 226,
+    "name": "Preserved Amarr Battleship Wreck"
+  },
+  "59743": {
+    "groupID": 226,
+    "name": "Preserved Minmatar Battleship Wreck"
+  },
+  "59744": {
+    "groupID": 226,
+    "name": "Preserved Minmatar Battleship Wreck"
+  },
+  "59745": {
+    "groupID": 226,
+    "name": "Unidentified Wreckage"
+  },
+  "59746": {
+    "groupID": 226,
+    "name": "Battle of Fort Kavad Monument"
+  },
+  "59748": {
+    "groupID": 306,
+    "name": "Novice Data Vault"
+  },
+  "59749": {
+    "groupID": 306,
+    "name": "Intermediate Data Vault"
+  },
+  "59750": {
+    "groupID": 306,
+    "name": "Expert Data Vault"
+  },
+  "59752": {
+    "groupID": 314,
+    "name": "Liberation Games Reward Token"
+  },
+  "59753": {
+    "groupID": 310,
+    "name": "Mahti Jailbreak Reenactment"
+  },
+  "59754": {
+    "groupID": 310,
+    "name": "Escape from Auner Reenactment"
+  },
+  "59755": {
+    "groupID": 314,
+    "name": "Serenity July Season Reward Crate"
+  },
+  "59756": {
+    "groupID": 303,
+    "name": "Serenity YC123.7 Season Advanced Cerebral Accelerator"
+  },
+  "59757": {
+    "groupID": 303,
+    "name": "Serenity YC123.7 Season Pass"
+  },
+  "59758": {
+    "groupID": 303,
+    "name": "Command Center Upgrades Skill Accelerator"
+  },
+  "59759": {
+    "groupID": 303,
+    "name": "Planetology Skill Accelerator"
+  },
+  "59760": {
+    "groupID": 303,
+    "name": "Interplanetary Consolidation Skill Accelerator"
+  },
+  "59761": {
+    "groupID": 303,
+    "name": "Trade Skill Accelerator"
+  },
+  "59762": {
+    "groupID": 303,
+    "name": "Advanced Planetology Skill Accelerator"
+  },
+  "59763": {
+    "groupID": 303,
+    "name": "Daytrading Skill Accelerator"
+  },
+  "59764": {
+    "groupID": 303,
+    "name": "Broker Relations Skill Accelerator"
+  },
+  "59765": {
+    "groupID": 303,
+    "name": "Customs Code Expertise Skill Accelerator"
+  },
+  "59766": {
+    "groupID": 303,
+    "name": "Advanced Broker Relations Skill Accelerator"
+  },
+  "59767": {
+    "groupID": 303,
+    "name": "Astrogeology Skill Accelerator"
+  },
+  "59768": {
+    "groupID": 303,
+    "name": "Mining Skill Accelerator"
+  },
+  "59792": {
+    "groupID": 1895,
+    "name": "Evacuation Transport Reenactment Drone"
+  },
+  "59793": {
+    "groupID": 1895,
+    "name": "Hijacked Transport Reenactment Drone"
+  },
+  "59795": {
+    "groupID": 227,
+    "name": "Escape from Auner Hauler Spawner"
+  },
+  "59796": {
+    "groupID": 227,
+    "name": "Mahti Prisonbreak Hauler Spawner"
+  },
+  "59797": {
+    "groupID": 303,
+    "name": "Serenity Zainou 'Beancounter' Manufacturing RP-108"
+  },
+  "59798": {
+    "groupID": 303,
+    "name": "Serenity Poteque 'Prospector' Harvesting MC-108"
+  },
+  "59799": {
+    "groupID": 303,
+    "name": "Serenity Zainou 'Beancounter' Manufacturing RP-308"
+  },
+  "59800": {
+    "groupID": 303,
+    "name": "Serenity Poteque 'Prospector' Harvesting MC-308"
+  },
+  "59801": {
+    "groupID": 303,
+    "name": "Serenity Zainou 'Beancounter' Manufacturing RP-708"
+  },
+  "59802": {
+    "groupID": 303,
+    "name": "Serenity Poteque 'Prospector' Harvesting MC-708"
+  },
+  "59803": {
+    "groupID": 303,
+    "name": "Serenity YC123.7 Cerebral Accelerator I"
+  },
+  "59804": {
+    "groupID": 303,
+    "name": "Serenity YC123.7 Cerebral Accelerator II"
+  },
+  "59805": {
+    "groupID": 303,
+    "name": "Serenity YC123.7 Cerebral Accelerator III"
+  },
+  "59806": {
+    "groupID": 303,
+    "name": "Serenity YC123.7 Cerebral Accelerator IV"
+  },
+  "59876": {
+    "groupID": 303,
+    "name": "Basic 'Rebel' Cerebral Accelerator"
+  },
+  "59878": {
+    "groupID": 303,
+    "name": "Potent 'Rebel' Cerebral Accelerator"
+  },
+  "59879": {
+    "groupID": 303,
+    "name": "Extended 'Rebel' Cerebral Accelerator"
+  },
+  "59880": {
+    "groupID": 303,
+    "name": "Liberation Games Damage Booster I"
+  },
+  "59881": {
+    "groupID": 303,
+    "name": "Liberation Games Damage Booster II"
+  },
+  "59882": {
+    "groupID": 303,
+    "name": "Liberation Games Damage Booster III"
+  },
+  "59883": {
+    "groupID": 303,
+    "name": "Liberation Games Accuracy Booster II"
+  },
+  "59884": {
+    "groupID": 303,
+    "name": "Liberation Games Accuracy Booster III"
+  },
+  "59885": {
+    "groupID": 303,
+    "name": "Liberation Games Range Booster I"
+  },
+  "59886": {
+    "groupID": 303,
+    "name": "Liberation Games Range Booster II"
+  },
+  "59887": {
+    "groupID": 303,
+    "name": "Liberation Games Range Booster III"
+  },
+  "59888": {
+    "groupID": 303,
+    "name": "Liberation Games EWar Booster I"
+  },
+  "59889": {
+    "groupID": 303,
+    "name": "Liberation Games EWar Booster II"
+  },
+  "59890": {
+    "groupID": 303,
+    "name": "Liberation Games EWar Booster III"
+  },
+  "59891": {
+    "groupID": 303,
+    "name": "Liberation Games Accuracy Booster I"
+  },
+  "59892": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Brutor Tribe) Package"
+  },
+  "59893": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Krusual Tribe) Package"
+  },
+  "59894": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Nefantar Tribe) Package"
+  },
+  "59895": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Sebiestor Tribe) Package"
+  },
+  "59896": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Starkmanir Tribe) Package"
+  },
+  "59897": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Thukker Tribe) Package"
+  },
+  "59898": {
+    "groupID": 1194,
+    "name": "Republic Service Tattoo (Vherokior Tribe) Package"
+  },
+  "59900": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 Event Crate"
+  },
+  "59901": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 Event SKIN Crate"
+  },
+  "59902": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 Event Manufacturing Booster Crate"
+  },
+  "59903": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 Event Skill Booster Crate"
+  },
+  "59942": {
+    "groupID": 310,
+    "name": "Battle of Fort Kavad Monument"
   }
 }
