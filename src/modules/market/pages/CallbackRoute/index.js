@@ -1,14 +1,14 @@
 import React from 'react'
-import qs from 'qs'
+// import qs from 'qs'
 import { Link, useHistory, useLocation } from 'react-router-dom'
 
-import { Href } from 'components'
+// import { Href } from 'components'
 import * as SsoService from 'modules/market/api/SsoService'
 
 import { Root } from './styles'
 
 function CallbackRoute() {
-  const formRef = React.useRef(null)
+  // const formRef = React.useRef(null)
   const history = useHistory()
   const { search } = useLocation()
   const query = new URLSearchParams(search)

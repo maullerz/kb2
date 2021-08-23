@@ -1,5 +1,9 @@
 import styled from 'styled-components'
 
+const miniSize = '28px'
+const mobileMaxWidth = '767px'
+const miniSizeMobile = '30px'
+
 export const Root = styled.div`
   position: relative;
   width: 100%;

@@ -15,20 +15,4 @@ export const Root = styled.div`
     min-width: 300px;
     min-height: 300px;
   }
-
-  ${p => p.mini && `
-    width: ${miniSize};
-    height: ${miniSize};
-
-    @media (max-width: ${mobileMaxWidth}) {
-      width: ${miniSizeMobile};
-      height: ${miniSizeMobile};
-    }
-  `}
-`
-
-export const ZkbLinkCont = styled.div`
-  position: absolute;
-  top: 10px;
-  left: 10px;
 `

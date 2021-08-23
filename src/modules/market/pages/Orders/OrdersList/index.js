@@ -1,3 +1,4 @@
+/* eslint no-await-in-loop: off, no-nested-ternary: off */
 import React, { useState, useEffect } from 'react'
 
 import MarketService from 'modules/market/api/MarketService'
@@ -162,7 +163,7 @@ const OrdersList = ({ onRefresh }) => {
 
             const myPriceStyle = currStyle
               ? alignRight
-              : isMyLowest ? greenStyle : redStyle
+              : (isMyLowest ? greenStyle : redStyle)
 
             return (
               <tr key={item.order_id} style={currStyle}>

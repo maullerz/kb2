@@ -7,7 +7,6 @@ const TARY_NIGHT_ID = 92316178
 const JZ_LOCATION = 1031787606461
 
 class MarketService extends BaseAPI {
-
   getCharMarketOrders() {
     const token = localStorage.getItem('access_token')
     const esiUrl = `${esiPath}/characters/${TARY_NIGHT_ID}/orders/?${src}&token=${token}`
@@ -25,7 +24,6 @@ class MarketService extends BaseAPI {
       url: esiUrl,
     })
   }
-
 }
 
 export default new MarketService()

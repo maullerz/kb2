@@ -1,3 +1,4 @@
+/* eslint no-unused-vars: off, no-nested-ternary: off */
 import axios from 'axios'
 
 // 'version': '0.8.1',
