@@ -1,10 +1,10 @@
 import { useRef } from 'react'
 import isEqual from 'lodash/isEqual'
 
-function deepCompareEquals(a, b){
+function deepCompareEquals(a, b) {
   // TODO: implement deep comparison here
   // something like lodash
-  return isEqual(a, b);
+  return isEqual(a, b)
 }
 
 function useDeepCompareMemoize(value) {
@@ -22,7 +22,7 @@ function useDeepCompareMemoize(value) {
 function useDeepCompareEffect(callback, dependencies) {
   useEffect(
     callback,
-    dependencies.map(useDeepCompareMemoize)
+    dependencies.map(useDeepCompareMemoize),
   )
 }
 

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
 
 import useLayout from 'utils/hooks/useLayout'
-import { Expander } from 'components'
+import { Expander, Ads } from 'components'
 
 import { PageRoot, AdsBlock, HeadBlock, Center, Content, Stats, Footer, EmptyRow } from './styles'
 
@@ -23,7 +23,10 @@ const PageLayout = ({ children }) => {
   return (
     <>
       <AdsBlock>
-        {blocks.ads || <EmptyRow small />}
+        {blocks.ads
+          ? <Ads type='list' />
+          : <EmptyRow small />
+        }
       </AdsBlock>
 
       <PageRoot>
