@@ -2,9 +2,9 @@ import React, { useState } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
 
 import useLayout from 'utils/hooks/useLayout'
-import { Expander, Ads } from 'components'
+import { Expander } from 'components'
 
-import { PageRoot, AdsBlock, HeadBlock, Center, Content, Stats, Footer, EmptyRow } from './styles'
+import { PageRoot, HeadBlock, Center, Content, Stats, Footer, EmptyRow } from './styles'
 
 const getStoredValue = () => {
   const result = localStorage.getItem(`collapsed-top-stats-7`)
@@ -22,12 +22,12 @@ const PageLayout = ({ children }) => {
 
   return (
     <>
-      <AdsBlock>
+      {/* <AdsBlock>
         {blocks.ads
           ? <Ads type='list' />
           : <EmptyRow small />
         }
-      </AdsBlock>
+      </AdsBlock> */}
 
       <PageRoot>
         {blocks.head &&

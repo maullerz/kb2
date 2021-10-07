@@ -4,6 +4,7 @@ export const PageRoot = styled.div`
   position: relative;
   display: flex;
   flex-direction: column;
+  // min-height: 100%;
   background-color: var(--pageLayoutBackground);
   border-radius: 6px;
   color: var(--pageLayoutTextColor);
