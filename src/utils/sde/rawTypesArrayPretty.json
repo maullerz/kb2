@@ -12642,7 +12642,7 @@
   [
     3898,
     303,
-    "Quafe Zero"
+    "Quafe Zero Classic"
   ],
   [
     3899,
@@ -52077,7 +52077,7 @@
   [
     21833,
     226,
-    "Fortified Minmatar Grandstand"
+    "Fortified Minmatar Lookout"
   ],
   [
     21834,
@@ -71267,7 +71267,7 @@
   [
     26849,
     361,
-    "Tournament Bubble TEST"
+    "Tournament Bubble"
   ],
   [
     26850,
@@ -110782,7 +110782,7 @@
   [
     43573,
     1814,
-    "AEGIS Security Marshal"
+    "♦ Scorpion"
   ],
   [
     43574,
@@ -136867,7 +136867,7 @@
   [
     57562,
     306,
-    "Gate Control System"
+    "Twin-Linked Gate Control"
   ],
   [
     57563,
@@ -136878,21 +136878,6 @@
     57568,
     474,
     "AEGIS Coded Security Key CSSF-ENS"
-  ],
-  [
-    57569,
-    474,
-    "Gate Control Code A"
-  ],
-  [
-    57572,
-    474,
-    "Gate Control Code B"
-  ],
-  [
-    57573,
-    474,
-    "Gate Control Code C"
   ],
   [
     57578,
@@ -137160,6 +137145,46 @@
     "Plinth Caldari Placeholder"
   ],
   [
+    57714,
+    4102,
+    "ESS-NW-15 Reserve Security Key"
+  ],
+  [
+    57715,
+    4102,
+    "ESS-NW-45 Reserve Security Key"
+  ],
+  [
+    57716,
+    4102,
+    "ESS-NE-15 Reserve Security Key"
+  ],
+  [
+    57717,
+    4102,
+    "ESS-SE-15 Reserve Security Key"
+  ],
+  [
+    57718,
+    4102,
+    "ESS-SE-45 Reserve Security Key"
+  ],
+  [
+    57719,
+    4102,
+    "ESS-NE-45 Reserve Security Key"
+  ],
+  [
+    57720,
+    4102,
+    "ESS-SW-15 Reserve Security Key"
+  ],
+  [
+    57721,
+    4102,
+    "ESS-SW-45 Reserve Security Key"
+  ],
+  [
     57722,
     303,
     "Gallente Drones Specialization Skill Accelerator"
@@ -137221,17 +137246,17 @@
   ],
   [
     57749,
-    186,
+    319,
     "Overmind Nursery Nest"
   ],
   [
     57750,
-    287,
+    4037,
     "Salvaging Phase-0xZ Forager"
   ],
   [
     57751,
-    287,
+    4037,
     "Punishing Phase-IVxZ Broodguard"
   ],
   [
@@ -137282,7 +137307,7 @@
   [
     57762,
     226,
-    "AEGIS Security Garrison"
+    "EDENCOM power generator"
   ],
   [
     57763,
@@ -137348,6 +137373,91 @@
     57782,
     474,
     "Hunt YC123 Acceleration Gate Key"
+  ],
+  [
+    57788,
+    4106,
+    "Balin Ferrus"
+  ],
+  [
+    57791,
+    4055,
+    "OdysseyEXP_S2_POI1"
+  ],
+  [
+    57792,
+    4055,
+    "OdysseyEXP_S2_POI2"
+  ],
+  [
+    57793,
+    4055,
+    "OdysseyEXP_S2_POI3"
+  ],
+  [
+    57794,
+    4055,
+    "OdysseyEXP_S2_POI4"
+  ],
+  [
+    57795,
+    4055,
+    "OdysseyEXP_S2_POI5"
+  ],
+  [
+    57796,
+    4055,
+    "OdysseyEXP_S2_POI6"
+  ],
+  [
+    57797,
+    4128,
+    "AIR Frigate"
+  ],
+  [
+    57798,
+    4128,
+    "AIR Cruiser"
+  ],
+  [
+    57799,
+    4128,
+    "AIR Battleship"
+  ],
+  [
+    57800,
+    4128,
+    "[AIR] Bowhead"
+  ],
+  [
+    57801,
+    4105,
+    "Hostile Frigate"
+  ],
+  [
+    57802,
+    4105,
+    "Hostile Cruiser"
+  ],
+  [
+    57803,
+    4105,
+    "Hostile Battleship"
+  ],
+  [
+    57804,
+    227,
+    "OdysseyEXP_S2_Cloud1"
+  ],
+  [
+    57805,
+    226,
+    "Listening Post"
+  ],
+  [
+    57820,
+    4055,
+    "Odyssey Experience Scene 2 Camera Restriction"
   ],
   [
     57821,
@@ -137550,6 +137660,21 @@
     "Non-interactable Spatial Rift"
   ],
   [
+    58161,
+    4128,
+    "[AIR] Bowhead I"
+  ],
+  [
+    58162,
+    4128,
+    "[AIR] Bowhead II"
+  ],
+  [
+    58163,
+    4128,
+    "[AIR] Bowhead III"
+  ],
+  [
     58715,
     226,
     "AEGIS Security Deep Scanner"
@@ -137628,6 +137753,11 @@
     58744,
     1975,
     "Fortified EoM Bunker"
+  ],
+  [
+    58745,
+    25,
+    "AIR Civilian Astero"
   ],
   [
     58746,
@@ -137840,6 +137970,11 @@
     "EoM Stasis Webber Tower"
   ],
   [
+    58807,
+    227,
+    "Invisible Controller for Scene 1"
+  ],
+  [
     58808,
     383,
     "EoM Warp Disruptor Tower"
@@ -138022,22 +138157,22 @@
   [
     58847,
     4050,
-    "Event 30 Proving Filament"
+    "Foundation Day Omen FFA Proving Filament"
   ],
   [
     58848,
     4050,
-    "Event 31 Proving Filament"
+    "1v1 Destroyers Proving Filament"
   ],
   [
     58849,
     4050,
-    "Event 32 Proving Filament"
+    "Union Day 2v2 Caldari Battlecruisers Proving Filament"
   ],
   [
     58850,
     4050,
-    "Event 33 Proving Filament"
+    "Corvette FFA Proving Filament"
   ],
   [
     58851,
@@ -138096,53 +138231,53 @@
   ],
   [
     58907,
-    186,
+    1975,
     "Infested Aeon Debris"
   ],
   [
     58908,
-    186,
+    1975,
     "Infested Avatar Debris"
   ],
   [
     58909,
-    186,
+    1975,
     "Infested Wyvern Debris"
   ],
   [
     58910,
-    186,
+    1975,
     "Infested Leviathan Debris"
   ],
   [
     58911,
-    186,
+    1975,
     "Infested Nyx Debris"
   ],
   [
     58912,
-    186,
+    1975,
     "Infested Erebus Debris"
   ],
   [
     58913,
-    186,
+    1975,
     "Infested Hel Debris"
   ],
   [
     58914,
-    186,
+    1975,
     "Infested Ragnarok Debris"
   ],
   [
     58915,
-    186,
+    1975,
     "Infested Zirnitra Debris"
   ],
   [
     58916,
     186,
-    "Rogue Drone Nursery Pod"
+    "Salvageable Nursery Nest"
   ],
   [
     58917,
@@ -138612,7 +138747,7 @@
   [
     59369,
     4050,
-    "Event 34 Proving Filament"
+    "2v2 Interceptors Proving Filament"
   ],
   [
     59370,
@@ -138643,6 +138778,11 @@
     59408,
     1090,
     "Women's 'State Protector' Pants"
+  ],
+  [
+    59437,
+    1975,
+    "'Draccous' Fortizar Wreck (copy)"
   ],
   [
     59454,
@@ -138685,6 +138825,16 @@
     "F7-ICZ Stargate Construction Monument"
   ],
   [
+    59482,
+    1975,
+    "ENV_NPE_Wrecksite_01a"
+  ],
+  [
+    59483,
+    1975,
+    "ENV_NPE_CosmicStorm_01a"
+  ],
+  [
     59503,
     306,
     "Novice Data Vault"
@@ -138720,6 +138870,46 @@
     "Minmatar Wall NIO [Do not translate]"
   ],
   [
+    59511,
+    4128,
+    "[AIR] Incursus"
+  ],
+  [
+    59512,
+    4128,
+    "[AIR] Cormorant"
+  ],
+  [
+    59513,
+    4128,
+    "[AIR] Firetail"
+  ],
+  [
+    59514,
+    4128,
+    "[AIR] Stratios"
+  ],
+  [
+    59515,
+    4128,
+    "[AIR] Brutix"
+  ],
+  [
+    59516,
+    4128,
+    "[AIR] Osprey"
+  ],
+  [
+    59517,
+    4128,
+    "[AIR] Orca"
+  ],
+  [
+    59518,
+    4128,
+    "[AIR] Nestor"
+  ],
+  [
     59519,
     4098,
     "Minmatar Liberation Day Expert System"
@@ -138732,22 +138922,27 @@
   [
     59584,
     1814,
-    "AEGIS Security Battleship"
+    "SCC Security Commander"
   ],
   [
     59585,
     1813,
-    "AEGIS Security Cruiser"
+    "SCC Security Striker"
   ],
   [
     59586,
     1803,
-    "AEGIS Security Frigate"
+    "SCC Security Responder"
   ],
   [
     59587,
     1194,
     "Minmatar Liberation Day Apparel Crate"
+  ],
+  [
+    59588,
+    1975,
+    "Spatial Rift (non-interactable)"
   ],
   [
     59595,
@@ -138790,9 +138985,49 @@
     "Serenity 618 Event Crate"
   ],
   [
+    59604,
+    4130,
+    "Unidentified Hostile Scorpion"
+  ],
+  [
+    59605,
+    4130,
+    "Unidentified Hostile Megathron"
+  ],
+  [
+    59606,
+    4130,
+    "Unidentified Hostile Ferox"
+  ],
+  [
+    59607,
+    4130,
+    "Unidentified Hostile Gnosis"
+  ],
+  [
+    59608,
+    4130,
+    "Unidentified Hostile Moa"
+  ],
+  [
+    59609,
+    4130,
+    "Unidentified Hostile Catalyst"
+  ],
+  [
+    59610,
+    4130,
+    "Unidentified Hostile Crucifier"
+  ],
+  [
+    59611,
+    4130,
+    "Unidentified Hostile Hookbill"
+  ],
+  [
     59612,
     226,
-    "Amarr Cathedral"
+    "Order of St. Tetrimon Fortress Monastery"
   ],
   [
     59613,
@@ -139135,6 +139370,26 @@
     "Starkmanir Tempest"
   ],
   [
+    59716,
+    1975,
+    "Particle Cloud Electric Thunder 01a"
+  ],
+  [
+    59717,
+    1975,
+    "Particle Cloud Electric Thunder 02a"
+  ],
+  [
+    59718,
+    1975,
+    "Particle Cloud Electric Thunder 03a"
+  ],
+  [
+    59719,
+    1975,
+    "Dungeon Cloud 9105"
+  ],
+  [
     59723,
     226,
     "The Eternal Flame"
@@ -139177,12 +139432,12 @@
   [
     59731,
     383,
-    "AEGIS Security GunStar"
+    "SCC Security Stasis GunStar"
   ],
   [
     59732,
     383,
-    "AEGIS Security Heavy GunStar"
+    "SCC Security Heavy GunStar"
   ],
   [
     59733,
@@ -139350,6 +139605,11 @@
     "Hijacked Transport Reenactment Drone"
   ],
   [
+    59794,
+    1882,
+    "Background planet Sandstorm White"
+  ],
+  [
     59795,
     227,
     "Escape from Auner Hauler Spawner"
@@ -139412,77 +139672,77 @@
   [
     59876,
     303,
-    "Basic 'Rebel' Cerebral Accelerator"
+    "Expired Basic 'Rebel' Cerebral Accelerator"
   ],
   [
     59878,
     303,
-    "Potent 'Rebel' Cerebral Accelerator"
+    "Expired Potent 'Rebel' Cerebral Accelerator"
   ],
   [
     59879,
     303,
-    "Extended 'Rebel' Cerebral Accelerator"
+    "Expired Extended 'Rebel' Cerebral Accelerator"
   ],
   [
     59880,
     303,
-    "Liberation Games Damage Booster I"
+    "Expired Liberation Games Damage Booster I"
   ],
   [
     59881,
     303,
-    "Liberation Games Damage Booster II"
+    "Expired Liberation Games Damage Booster II"
   ],
   [
     59882,
     303,
-    "Liberation Games Damage Booster III"
+    "Expired Liberation Games Damage Booster III"
   ],
   [
     59883,
     303,
-    "Liberation Games Accuracy Booster II"
+    "Expired Liberation Games Accuracy Booster II"
   ],
   [
     59884,
     303,
-    "Liberation Games Accuracy Booster III"
+    "Expired Liberation Games Accuracy Booster III"
   ],
   [
     59885,
     303,
-    "Liberation Games Range Booster I"
+    "Expired Liberation Games Range Booster I"
   ],
   [
     59886,
     303,
-    "Liberation Games Range Booster II"
+    "Expired Liberation Games Range Booster II"
   ],
   [
     59887,
     303,
-    "Liberation Games Range Booster III"
+    "Expired Liberation Games Range Booster III"
   ],
   [
     59888,
     303,
-    "Liberation Games EWar Booster I"
+    "Expired Liberation Games EWar Booster I"
   ],
   [
     59889,
     303,
-    "Liberation Games EWar Booster II"
+    "Expired Liberation Games EWar Booster II"
   ],
   [
     59890,
     303,
-    "Liberation Games EWar Booster III"
+    "Expired Liberation Games EWar Booster III"
   ],
   [
     59891,
     303,
-    "Liberation Games Accuracy Booster I"
+    "Expired Liberation Games Accuracy Booster I"
   ],
   [
     59892,
@@ -139543,5 +139803,1385 @@
     59942,
     310,
     "Battle of Fort Kavad Monument"
+  ],
+  [
+    59956,
+    15,
+    "Association for Interdisciplinary Research Outpost"
+  ],
+  [
+    59960,
+    303,
+    "Precursor Cruiser Skill Accelerator"
+  ],
+  [
+    59961,
+    303,
+    "Medium Precursor Weapon Skill Accelerator"
+  ],
+  [
+    59962,
+    303,
+    "Medium Disintegrator Specialization Skill Accelerator"
+  ],
+  [
+    59964,
+    303,
+    "Tiamat Prremium Insurance"
+  ],
+  [
+    59967,
+    306,
+    "NW ESS Key Generator"
+  ],
+  [
+    59968,
+    306,
+    "NE ESS Key Generator"
+  ],
+  [
+    59969,
+    306,
+    "SW ESS Key Generator"
+  ],
+  [
+    59970,
+    306,
+    "SE ESS Key Generator"
+  ],
+  [
+    59971,
+    226,
+    "SCC Encounter Surveillance Audit Control"
+  ],
+  [
+    59972,
+    226,
+    "SCC Encounter Surveillance Administration"
+  ],
+  [
+    59974,
+    1975,
+    "abs1_t1_tetrimon_enviroment_asset"
+  ],
+  [
+    59977,
+    1194,
+    "Amarr Foundation Day Jacket Crate"
+  ],
+  [
+    59978,
+    1194,
+    "Amarr Foundation Day Pants Crate"
+  ],
+  [
+    59979,
+    226,
+    "ESS Key Generator Interface"
+  ],
+  [
+    59980,
+    310,
+    "Order of St. Tetrimon Fortress Monastery"
+  ],
+  [
+    59981,
+    310,
+    "The Traumark Installation"
+  ],
+  [
+    59982,
+    310,
+    "Old Traumark"
+  ],
+  [
+    59983,
+    310,
+    "Ndoria Mining Hub"
+  ],
+  [
+    59984,
+    226,
+    "Ndoria Mining Hub"
+  ],
+  [
+    59985,
+    4128,
+    "[AIR] Stratios II"
+  ],
+  [
+    59986,
+    4128,
+    "[AIR] Brutix II"
+  ],
+  [
+    59987,
+    4128,
+    "[AIR] Nestor II"
+  ],
+  [
+    59989,
+    314,
+    "Serenity YC123.7 Triglavian Recon Crate"
+  ],
+  [
+    59990,
+    1667,
+    "Tetrimon Paladin"
+  ],
+  [
+    59991,
+    1665,
+    "Tetrimon Zealot"
+  ],
+  [
+    59992,
+    227,
+    "Tetrimon Monastery NPC Spawner (Do not translate)"
+  ],
+  [
+    59996,
+    1975,
+    "Non-Interactable Amarr Control Tower"
+  ],
+  [
+    59997,
+    1975,
+    "Non-Interactable Hangar Array"
+  ],
+  [
+    59998,
+    1975,
+    "Non-Interactable Reprocessing Array"
+  ],
+  [
+    59999,
+    1975,
+    "Non-Interactable Silo"
+  ],
+  [
+    60000,
+    1975,
+    "Non-Interactable Reactor Array"
+  ],
+  [
+    60001,
+    1975,
+    "Non-Interactable Athanor"
+  ],
+  [
+    60002,
+    226,
+    "The Traumark Installation"
+  ],
+  [
+    60003,
+    226,
+    "The Ruins of Old Traumark"
+  ],
+  [
+    60004,
+    1975,
+    "as6_tashmurkon_enviroment_asset"
+  ],
+  [
+    60005,
+    1975,
+    "as7_tashmurkon_enviroment_asset"
+  ],
+  [
+    60006,
+    1975,
+    "uw_sentry02_tashmurkon_enviroment_asset"
+  ],
+  [
+    60007,
+    1975,
+    "Non-interactable Depleted Asteroid Field"
+  ],
+  [
+    60019,
+    4098,
+    "Amarr Foundation Day Expert System"
+  ],
+  [
+    60023,
+    303,
+    "Serenity Monthly Cerebral Accelerator - 2021.8"
+  ],
+  [
+    60024,
+    314,
+    "Serenity YC123.7 PotT SKIN Crate Small"
+  ],
+  [
+    60025,
+    314,
+    "Serenity YC123.7 PotT SKIN Crate Large"
+  ],
+  [
+    60033,
+    1739,
+    "AIR Skill Injector"
+  ],
+  [
+    60042,
+    1975,
+    "as3_tashmurkon_enviroment_asset"
+  ],
+  [
+    60043,
+    1975,
+    "abs2_t1_navy_enviroment_asset"
+  ],
+  [
+    60048,
+    1975,
+    "Minmatar Trade Station in Construction (DO NOT TRANSLATE)"
+  ],
+  [
+    60068,
+    303,
+    "Serenity Rookie Exclusive Cerebral Accelerator"
+  ],
+  [
+    60076,
+    4050,
+    "Totality Day 3v3 Kikimoras Proving Filament"
+  ],
+  [
+    60077,
+    4050,
+    "1v1 Battleships Redux Proving Filament"
+  ],
+  [
+    60078,
+    4050,
+    "Crimson Harvest Destroyer FFA Proving Filament"
+  ],
+  [
+    60079,
+    4050,
+    "Event 38 Proving Filament"
+  ],
+  [
+    60080,
+    4050,
+    "Event 39 Proving Filament"
+  ],
+  [
+    60089,
+    4098,
+    "Caldari Union Day Expert System"
+  ],
+  [
+    60091,
+    303,
+    "Serenity YC123.8 Season Standard Cerebral Accelerator"
+  ],
+  [
+    60092,
+    303,
+    "Serenity YC123.8 Season Advanced Cerebral Accelerator"
+  ],
+  [
+    60093,
+    303,
+    "Serenity YC123.8 Season Pass"
+  ],
+  [
+    60095,
+    314,
+    "Serenity YC123.8 Season Ship Crate"
+  ],
+  [
+    60096,
+    314,
+    "Serenity YC123.8 Season Reward Crate"
+  ],
+  [
+    60107,
+    1194,
+    "Caldari Union Day Pants Crate"
+  ],
+  [
+    60109,
+    1194,
+    "Caldari Union Day Jacket Crate"
+  ],
+  [
+    60110,
+    226,
+    "Landfall Kutuoto Miru Orbital Center"
+  ],
+  [
+    60111,
+    226,
+    "Urlen II Provist Riots Memorial"
+  ],
+  [
+    60112,
+    310,
+    "Landfall Kutuoto Miru Orbital Center"
+  ],
+  [
+    60113,
+    310,
+    "Urlen II Provist Riots Memorial"
+  ],
+  [
+    60115,
+    306,
+    "AIR Rogue Drone Analysis Node"
+  ],
+  [
+    60116,
+    306,
+    "AIR Rogue Drone Analysis Node"
+  ],
+  [
+    60117,
+    310,
+    "Sep Hacking Beacon"
+  ],
+  [
+    60121,
+    1975,
+    "Rock Formation - Branched & Twisted"
+  ],
+  [
+    60122,
+    1975,
+    "Secure Info Shard Wreck"
+  ],
+  [
+    60123,
+    1975,
+    "Snake Shaped Asteroid"
+  ],
+  [
+    60124,
+    1975,
+    "Sheared Rock Formation"
+  ],
+  [
+    60125,
+    1975,
+    "Nestor Battleship Wreck"
+  ],
+  [
+    60139,
+    1975,
+    "Rogue Drone Nursery Pods"
+  ],
+  [
+    60140,
+    1975,
+    "Rogue Drone Nursery Pod"
+  ],
+  [
+    60141,
+    1975,
+    "Rogue Drone Colony Nest"
+  ],
+  [
+    60142,
+    1975,
+    "Rogue Drone Harvest Hive"
+  ],
+  [
+    60143,
+    1813,
+    "SCC Security Neutralizer"
+  ],
+  [
+    60144,
+    319,
+    "Unidentified Signal"
+  ],
+  [
+    60145,
+    1803,
+    "SCC Security Interceptor"
+  ],
+  [
+    60153,
+    1813,
+    "SCC Security Jammer"
+  ],
+  [
+    60154,
+    1882,
+    "Cloudlayer_01a"
+  ],
+  [
+    60160,
+    1083,
+    "Men's 'Orb Semiotique' Synthetic Eye (right)"
+  ],
+  [
+    60161,
+    1090,
+    "Men's 'Semiotique Sports' Pants"
+  ],
+  [
+    60162,
+    1091,
+    "Men's 'Semiotique Sports' Shoes"
+  ],
+  [
+    60163,
+    1670,
+    "Men's 'Barbatus Semiotique' Facial Augmentation"
+  ],
+  [
+    60164,
+    1670,
+    "Men's 'Semiotique TorsoRig' Body Augmentation"
+  ],
+  [
+    60165,
+    1083,
+    "Men's 'Glass Semiotique' Monocle Interface (right)"
+  ],
+  [
+    60166,
+    1083,
+    "Women's 'Orb Semiotique' Synthetic Eye (right)"
+  ],
+  [
+    60167,
+    1090,
+    "Women's 'Semiotique Sports' Pants"
+  ],
+  [
+    60168,
+    1091,
+    "Women's 'Semiotique Sports' Shoes"
+  ],
+  [
+    60169,
+    1670,
+    "Women's 'Oculina Semiotique' Facial Augmentation"
+  ],
+  [
+    60170,
+    1670,
+    "Women's 'Semiotique TorsoRig' Body Augmentation"
+  ],
+  [
+    60171,
+    1083,
+    "Women's 'Glass Semiotique' Monocle Interface (right)"
+  ],
+  [
+    60172,
+    303,
+    "Serenity Monthly Cerebral Accelerator - 2021.9"
+  ],
+  [
+    60173,
+    1975,
+    "EDENCOM Shield Facility"
+  ],
+  [
+    60174,
+    1975,
+    "Upwell Storage Facility 01"
+  ],
+  [
+    60175,
+    1088,
+    "60175_Male_outer_JacketMilM02_Types_JacketMilM02_AIR.png"
+  ],
+  [
+    60176,
+    1088,
+    "60176_Female_Outer_JacketSLF_01_Types_JacketSLF_01_air.png"
+  ],
+  [
+    60177,
+    303,
+    "Serenity Autumn Limited 'Overclocker' Dose Type-A"
+  ],
+  [
+    60178,
+    303,
+    "Serenity Autumn Limited 'Hardshell' Dose Type-A"
+  ],
+  [
+    60179,
+    303,
+    "Serenity Autumn Limited 'Pyrolancea' Dose Type-A"
+  ],
+  [
+    60180,
+    303,
+    "Serenity Autumn Limited 'Efficiency' Dose Type-A"
+  ],
+  [
+    60181,
+    303,
+    "Serenity Autumn Limited 'Sharpeye' Dose Type-A"
+  ],
+  [
+    60182,
+    303,
+    "Serenity Autumn Limited 'Overclocker' Dose Type-B"
+  ],
+  [
+    60183,
+    303,
+    "Serenity Autumn Limited 'Hardshell' Dose Type-B"
+  ],
+  [
+    60184,
+    303,
+    "Serenity Autumn Limited 'Pyrolancea' Dose Type-B"
+  ],
+  [
+    60185,
+    303,
+    "Serenity Autumn Limited 'Efficiency' Dose Type-B"
+  ],
+  [
+    60186,
+    303,
+    "Serenity Autumn Limited 'Sharpeye' Dose Type-B"
+  ],
+  [
+    60187,
+    303,
+    "Serenity Autumn Limited Cerebral Accelerator I"
+  ],
+  [
+    60188,
+    303,
+    "Serenity Autumn Limited Cerebral Accelerator II"
+  ],
+  [
+    60189,
+    303,
+    "Serenity Autumn Limited Cerebral Accelerator III"
+  ],
+  [
+    60190,
+    303,
+    "Serenity Autumn Limited Cerebral Accelerator IV"
+  ],
+  [
+    60191,
+    314,
+    "Serenity Autumn Zakura Shumyu SKIN Crate"
+  ],
+  [
+    60192,
+    314,
+    "Serenity Autumn Event Crate"
+  ],
+  [
+    60201,
+    1568,
+    "Colony Nest Scavenger"
+  ],
+  [
+    60202,
+    1665,
+    "Colony Nest Overseer"
+  ],
+  [
+    60203,
+    1664,
+    "Colony Nest Guardian"
+  ],
+  [
+    60204,
+    1568,
+    "Colony Nest Forager"
+  ],
+  [
+    60205,
+    1664,
+    "Colony Nest Sentinel"
+  ],
+  [
+    60206,
+    227,
+    "Rogue Drone Event 2021 WaveHS Spawner"
+  ],
+  [
+    60207,
+    227,
+    "Rogue Drone Event 2021 BossHS Spawner"
+  ],
+  [
+    60244,
+    4137,
+    "Concord Rogue Analysis Beacon"
+  ],
+  [
+    60250,
+    303,
+    "Serenity YC123.9 Season Advanced Cerebral Accelerator"
+  ],
+  [
+    60251,
+    303,
+    "Serenity YC123.9 Season Pass"
+  ],
+  [
+    60252,
+    314,
+    "Serenity YC123.9 Season Ship Crate"
+  ],
+  [
+    60253,
+    314,
+    "Serenity YC123.9 Season Reward Crate"
+  ],
+  [
+    60255,
+    4037,
+    "Infested Abaddon"
+  ],
+  [
+    60269,
+    303,
+    "Amarr Battleship Operation Skill Accelerator"
+  ],
+  [
+    60270,
+    303,
+    "Caldari Battleship Operation Skill Accelerator"
+  ],
+  [
+    60271,
+    303,
+    "Gallente Battleship Operation Skill Accelerator"
+  ],
+  [
+    60272,
+    303,
+    "Minmatar Battleship Operation Skill Accelerator"
+  ],
+  [
+    60273,
+    303,
+    "Advanced Weapons Upgrade Skill Accelerator"
+  ],
+  [
+    60316,
+    4037,
+    "Infested Raven"
+  ],
+  [
+    60317,
+    4037,
+    "Infested Oracle"
+  ],
+  [
+    60318,
+    4037,
+    "Infested Prophecy"
+  ],
+  [
+    60319,
+    4100,
+    "Inaugural Liberation Games: Thukker Tribe"
+  ],
+  [
+    60321,
+    1814,
+    "AEGIS Security Marshal"
+  ],
+  [
+    60322,
+    1814,
+    "AEGIS Security Marshal"
+  ],
+  [
+    60323,
+    1813,
+    "AEGIS Security Enforcer"
+  ],
+  [
+    60324,
+    1813,
+    "AEGIS Security Enforcer"
+  ],
+  [
+    60325,
+    1813,
+    "AEGIS Security Enforcer"
+  ],
+  [
+    60326,
+    1803,
+    "AEGIS Security Pacifier"
+  ],
+  [
+    60327,
+    1803,
+    "AEGIS Security Pacifier"
+  ],
+  [
+    60328,
+    4055,
+    "Frigate Combat"
+  ],
+  [
+    60329,
+    4055,
+    "Cruiser Combat"
+  ],
+  [
+    60330,
+    4055,
+    "Battleship Combat"
+  ],
+  [
+    60331,
+    4037,
+    "Infested Eagle"
+  ],
+  [
+    60332,
+    4037,
+    "Infested Jaguar"
+  ],
+  [
+    60333,
+    4037,
+    "Giant Squid"
+  ],
+  [
+    60335,
+    1975,
+    "Non-Interactable Cynosural Field (Do not translate)"
+  ],
+  [
+    60336,
+    1975,
+    "Non-Interactable Minmatar Elevator (Do not translate)"
+  ],
+  [
+    60337,
+    1975,
+    "Non-Interactable Minmatar Junction  (Do not translate)"
+  ],
+  [
+    60375,
+    227,
+    "ABS (Do not translate) "
+  ],
+  [
+    60376,
+    1452,
+    "Infiltrator II"
+  ],
+  [
+    60382,
+    4037,
+    "Infested Brutix"
+  ],
+  [
+    60389,
+    306,
+    "EDENCOM construction dock"
+  ],
+  [
+    60390,
+    306,
+    "EDENCOM construction dock"
+  ],
+  [
+    60391,
+    306,
+    "EDENCOM construction dock"
+  ],
+  [
+    60392,
+    306,
+    "EDENCOM construction dock"
+  ],
+  [
+    60393,
+    1975,
+    "Shield facility shield collision"
+  ],
+  [
+    60394,
+    1975,
+    "Upwell EDENCOM station hub"
+  ],
+  [
+    60395,
+    1975,
+    "Upwell EDENCOM station"
+  ],
+  [
+    60396,
+    1975,
+    "Upwell EDENCOM power generator"
+  ],
+  [
+    60397,
+    1975,
+    "Upwell EDENCOM power generator wreck"
+  ],
+  [
+    60398,
+    1975,
+    "Upwell EDENCOM transfer relay"
+  ],
+  [
+    60399,
+    1975,
+    "Upwell EDENCOM construction dock 01"
+  ],
+  [
+    60400,
+    1975,
+    "Upwell EDENCOM inactive construction dock 01"
+  ],
+  [
+    60401,
+    1975,
+    "Upwell EDENCOM construction dock 02"
+  ],
+  [
+    60402,
+    1975,
+    "Upwell EDENCOM inactive construction dock 02"
+  ],
+  [
+    60403,
+    1975,
+    "Upwell EDENCOM construction dock 03"
+  ],
+  [
+    60404,
+    1975,
+    "Upwell EDENCOM inactive construction dock 03"
+  ],
+  [
+    60405,
+    1975,
+    "Upwell EDENCOM construction dock 04"
+  ],
+  [
+    60406,
+    1975,
+    "Upwell EDENCOM inactive construction dock 04"
+  ],
+  [
+    60407,
+    1975,
+    "EDENCOM factory frame and docks"
+  ],
+  [
+    60408,
+    1975,
+    "EDENCOM factory superstructure"
+  ],
+  [
+    60409,
+    1975,
+    "EDENCOM factory active"
+  ],
+  [
+    60410,
+    306,
+    "Gate Control System"
+  ],
+  [
+    60418,
+    383,
+    "Drone Light Stasis Tower"
+  ],
+  [
+    60419,
+    227,
+    "Rogue Drone Event 2021 WaveLS Spawner"
+  ],
+  [
+    60420,
+    227,
+    "Rogue Drone Event 2021 BossLS Spawner"
+  ],
+  [
+    60422,
+    303,
+    "AIR Astro-Acquisition Booster I"
+  ],
+  [
+    60423,
+    303,
+    "AIR Astro-Acquisition Booster II"
+  ],
+  [
+    60424,
+    303,
+    "AIR Astro-Acquisition Booster III"
+  ],
+  [
+    60425,
+    303,
+    "AIR Astro-Pinpointing Booster I"
+  ],
+  [
+    60426,
+    303,
+    "AIR Astro-Pinpointing Booster II"
+  ],
+  [
+    60427,
+    303,
+    "AIR Astro-Pinpointing Booster III"
+  ],
+  [
+    60428,
+    303,
+    "AIR Astro-Rangefinding Booster I"
+  ],
+  [
+    60429,
+    303,
+    "AIR Astro-Rangefinding Booster II"
+  ],
+  [
+    60430,
+    303,
+    "AIR Astro-Rangefinding Booster III"
+  ],
+  [
+    60432,
+    1090,
+    "60432_Male_bottomOuter_PantsPrtm01_Types_PantsPrtm01_redblack.png"
+  ],
+  [
+    60434,
+    1090,
+    "60434_Female_bottomOuter_PantsPrtF01_Types_PantsPrtF01_redblack.png"
+  ],
+  [
+    60435,
+    1089,
+    "60435_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CH.png"
+  ],
+  [
+    60436,
+    1089,
+    "60436_Female_TopMiddle_TshirtF01_Types_TshirtF01_BR_CH.png"
+  ],
+  [
+    60437,
+    186,
+    "EDENCOM power generator wreck"
+  ],
+  [
+    60438,
+    306,
+    "EDENCOM Secure Shield Facility"
+  ],
+  [
+    60439,
+    310,
+    "Rogue Drone Outgrowth Colony"
+  ],
+  [
+    60440,
+    310,
+    "Advanced Drone Outgrowth Colony"
+  ],
+  [
+    60441,
+    1665,
+    "Colony Nest Overseer"
+  ],
+  [
+    60442,
+    1665,
+    "Colony Nest Overseer"
+  ],
+  [
+    60443,
+    1665,
+    "Colony Nest Overseer"
+  ],
+  [
+    60444,
+    1665,
+    "Advanced Nest Overseer"
+  ],
+  [
+    60445,
+    1665,
+    "Advanced Nest Overseer"
+  ],
+  [
+    60446,
+    1665,
+    "Advanced Nest Overseer"
+  ],
+  [
+    60447,
+    1665,
+    "Advanced Nest Overseer"
+  ],
+  [
+    60448,
+    303,
+    "Basic Rogue Swarm Cerebral Accelerator"
+  ],
+  [
+    60449,
+    303,
+    "Potent Rogue Swarm Cerebral Accelerator"
+  ],
+  [
+    60450,
+    303,
+    "Extended Rogue Swarm Cerebral Accelerator"
+  ],
+  [
+    60454,
+    314,
+    "Intercepted Rogue Drone Communications Fragment 0KQC"
+  ],
+  [
+    60455,
+    314,
+    "Intercepted Rogue Drone Communications Fragment GQ35"
+  ],
+  [
+    60456,
+    314,
+    "Intercepted Rogue Drone Communications Fragment 55EG"
+  ],
+  [
+    60457,
+    314,
+    "Intercepted Rogue Drone Communications Fragment 52B7"
+  ],
+  [
+    60458,
+    314,
+    "Intercepted Rogue Drone Communications Fragment JQH0"
+  ],
+  [
+    60459,
+    4142,
+    "Rogue Drone Survey Data"
+  ],
+  [
+    60460,
+    1964,
+    "Light Drone Speed Mutaplasmid"
+  ],
+  [
+    60461,
+    1964,
+    "Light Drone Damage Mutaplasmid"
+  ],
+  [
+    60462,
+    1964,
+    "Light Drone Tank Mutaplasmid"
+  ],
+  [
+    60463,
+    1964,
+    "Heavy Drone Speed Mutaplasmid"
+  ],
+  [
+    60464,
+    1964,
+    "Heavy Drone Damage Mutaplasmid"
+  ],
+  [
+    60465,
+    1964,
+    "Heavy Drone Tank Mutaplasmid"
+  ],
+  [
+    60466,
+    1964,
+    "Heavy Drone Range Mutaplasmid"
+  ],
+  [
+    60467,
+    1964,
+    "Sentry Drone Speed Mutaplasmid"
+  ],
+  [
+    60468,
+    1964,
+    "Sentry Drone Damage Mutaplasmid"
+  ],
+  [
+    60469,
+    1964,
+    "Sentry Drone Tank Mutaplasmid"
+  ],
+  [
+    60470,
+    1964,
+    "Sentry Drone Range Mutaplasmid"
+  ],
+  [
+    60471,
+    1964,
+    "Light Drone Range Mutaplasmid"
+  ],
+  [
+    60472,
+    1964,
+    "Medium Drone Speed Mutaplasmid"
+  ],
+  [
+    60473,
+    1964,
+    "Medium Drone Damage Mutaplasmid"
+  ],
+  [
+    60474,
+    1964,
+    "Medium Drone Tank Mutaplasmid"
+  ],
+  [
+    60475,
+    1964,
+    "Medium Drone Range Mutaplasmid"
+  ],
+  [
+    60476,
+    1964,
+    "Drone Damage Amplifier Mutaplasmid"
+  ],
+  [
+    60477,
+    1964,
+    "Fighter Support Unit Mutaplasmid"
+  ],
+  [
+    60478,
+    100,
+    "Light Modified Rogue Drone"
+  ],
+  [
+    60479,
+    100,
+    "Medium Modified Rogue Drone"
+  ],
+  [
+    60480,
+    100,
+    "Heavy Modified Rogue Drone"
+  ],
+  [
+    60481,
+    100,
+    "Sentry Modified Rogue Drone"
+  ],
+  [
+    60482,
+    645,
+    "Modified Drone Damage Amplifier"
+  ],
+  [
+    60483,
+    407,
+    "Modified Fighter Support Unit"
+  ],
+  [
+    60484,
+    1975,
+    "EDENCOM Astrahus under construction"
+  ],
+  [
+    60485,
+    303,
+    "Serenity Monthly Cerebral Accelerator - 2021.10"
+  ],
+  [
+    60486,
+    314,
+    "Serenity YC123.10 DLI Firework Crate"
+  ],
+  [
+    60487,
+    303,
+    "Serenity Special Cruisers Insurance"
+  ],
+  [
+    60488,
+    303,
+    "Serenity Special Frigates Insurance"
+  ],
+  [
+    60489,
+    314,
+    "Serenity Cold Iron SKINs Crate S/M"
+  ],
+  [
+    60490,
+    314,
+    "Serenity Cold Iron SKINs Crate L"
+  ],
+  [
+    60498,
+    1975,
+    "Dungeon 9065 traffic FX"
+  ],
+  [
+    60500,
+    1975,
+    "Dungeon 9064 R0 traffic FX"
+  ],
+  [
+    60501,
+    1975,
+    "Dungeon 9064 R1 traffic FX"
+  ],
+  [
+    60505,
+    4037,
+    "Infested Ogre"
+  ],
+  [
+    60506,
+    4037,
+    "Infested Dominix"
+  ],
+  [
+    60508,
+    319,
+    "EDENCOM power generator"
+  ],
+  [
+    60514,
+    4141,
+    "Concord Rogue Analysis Beacon Blueprint"
+  ],
+  [
+    60515,
+    273,
+    "Rogue Drone Specialization"
+  ],
+  [
+    60517,
+    4037,
+    "Infested Thanatos"
+  ],
+  [
+    60518,
+    4037,
+    "Infested Firbolg"
+  ],
+  [
+    60553,
+    226,
+    "EDENCOM Memorial to Triglavian Invasions"
+  ],
+  [
+    60554,
+    1975,
+    "EDENCOM Stockpile Non-Interactable (Do not translate)"
+  ],
+  [
+    60575,
+    303,
+    "Quafe Zero Green Apple"
+  ],
+  [
+    60576,
+    1194,
+    "Quafe Zero Green Apple Party Pack"
+  ],
+  [
+    60580,
+    4037,
+    "Infested Typhoon"
+  ],
+  [
+    60581,
+    226,
+    "EDENCOM Invasions Command HQ (Yulai)"
+  ],
+  [
+    60582,
+    226,
+    "EDENCOM Stellar Monitoring (Yulai)"
+  ],
+  [
+    60583,
+    1975,
+    "Non-Interactable CONCORD Stellar Observatory (Do not translate)"
+  ],
+  [
+    60584,
+    1975,
+    "Non-Interactable Gallente Outpost (Do Not Translate)"
+  ],
+  [
+    60585,
+    310,
+    "EDENCOM Memorial to Triglavian Invasions"
+  ],
+  [
+    60586,
+    310,
+    "Perun Clade Liminal Proving Grounds"
+  ],
+  [
+    60587,
+    310,
+    "Veles Clade Automata Semiosis Sobornost"
+  ],
+  [
+    60588,
+    310,
+    "Svarog Clade Orbital Shipyards"
+  ],
+  [
+    60589,
+    366,
+    "Proving Conduit (Pochven)"
+  ],
+  [
+    60590,
+    226,
+    "Svarog Clade Orbital Shipyards"
+  ],
+  [
+    60591,
+    226,
+    "Veles Clade Automata Semiosis Sobornost"
+  ],
+  [
+    60592,
+    226,
+    "Navka Overmind Sobor Coalescence"
+  ],
+  [
+    60593,
+    1975,
+    "Non-Interactable Cyno Beacon (Do not translate)"
+  ],
+  [
+    60594,
+    1975,
+    "rds2_enviroment_asset"
+  ],
+  [
+    60596,
+    1979,
+    "Demo Filament"
+  ],
+  [
+    60597,
+    1971,
+    "Abyss Demo Effect Beacon (Do not translate)"
   ]
 ]

@@ -10113,7 +10113,7 @@
   },
   "3898": {
     "groupID": 303,
-    "name": "Quafe Zero"
+    "name": "Quafe Zero Classic"
   },
   "3899": {
     "groupID": 72,
@@ -41661,7 +41661,7 @@
   },
   "21833": {
     "groupID": 226,
-    "name": "Fortified Minmatar Grandstand"
+    "name": "Fortified Minmatar Lookout"
   },
   "21834": {
     "groupID": 226,
@@ -57013,7 +57013,7 @@
   },
   "26849": {
     "groupID": 361,
-    "name": "Tournament Bubble TEST"
+    "name": "Tournament Bubble"
   },
   "26850": {
     "groupID": 371,
@@ -88625,7 +88625,7 @@
   },
   "43573": {
     "groupID": 1814,
-    "name": "AEGIS Security Marshal"
+    "name": "♦ Scorpion"
   },
   "43574": {
     "groupID": 1803,
@@ -109487,7 +109487,7 @@
   },
   "57562": {
     "groupID": 306,
-    "name": "Gate Control System"
+    "name": "Twin-Linked Gate Control"
   },
   "57563": {
     "groupID": 306,
@@ -109496,18 +109496,6 @@
   "57568": {
     "groupID": 474,
     "name": "AEGIS Coded Security Key CSSF-ENS"
-  },
-  "57569": {
-    "groupID": 474,
-    "name": "Gate Control Code A"
-  },
-  "57572": {
-    "groupID": 474,
-    "name": "Gate Control Code B"
-  },
-  "57573": {
-    "groupID": 474,
-    "name": "Gate Control Code C"
   },
   "57578": {
     "groupID": 4098,
@@ -109721,6 +109709,38 @@
     "groupID": 226,
     "name": "Plinth Caldari Placeholder"
   },
+  "57714": {
+    "groupID": 4102,
+    "name": "ESS-NW-15 Reserve Security Key"
+  },
+  "57715": {
+    "groupID": 4102,
+    "name": "ESS-NW-45 Reserve Security Key"
+  },
+  "57716": {
+    "groupID": 4102,
+    "name": "ESS-NE-15 Reserve Security Key"
+  },
+  "57717": {
+    "groupID": 4102,
+    "name": "ESS-SE-15 Reserve Security Key"
+  },
+  "57718": {
+    "groupID": 4102,
+    "name": "ESS-SE-45 Reserve Security Key"
+  },
+  "57719": {
+    "groupID": 4102,
+    "name": "ESS-NE-45 Reserve Security Key"
+  },
+  "57720": {
+    "groupID": 4102,
+    "name": "ESS-SW-15 Reserve Security Key"
+  },
+  "57721": {
+    "groupID": 4102,
+    "name": "ESS-SW-45 Reserve Security Key"
+  },
   "57722": {
     "groupID": 303,
     "name": "Gallente Drones Specialization Skill Accelerator"
@@ -109770,15 +109790,15 @@
     "name": "Overmind Growth Structure"
   },
   "57749": {
-    "groupID": 186,
+    "groupID": 319,
     "name": "Overmind Nursery Nest"
   },
   "57750": {
-    "groupID": 287,
+    "groupID": 4037,
     "name": "Salvaging Phase-0xZ Forager"
   },
   "57751": {
-    "groupID": 287,
+    "groupID": 4037,
     "name": "Punishing Phase-IVxZ Broodguard"
   },
   "57752": {
@@ -109819,7 +109839,7 @@
   },
   "57762": {
     "groupID": 226,
-    "name": "AEGIS Security Garrison"
+    "name": "EDENCOM power generator"
   },
   "57763": {
     "groupID": 303,
@@ -109872,6 +109892,74 @@
   "57782": {
     "groupID": 474,
     "name": "Hunt YC123 Acceleration Gate Key"
+  },
+  "57788": {
+    "groupID": 4106,
+    "name": "Balin Ferrus"
+  },
+  "57791": {
+    "groupID": 4055,
+    "name": "OdysseyEXP_S2_POI1"
+  },
+  "57792": {
+    "groupID": 4055,
+    "name": "OdysseyEXP_S2_POI2"
+  },
+  "57793": {
+    "groupID": 4055,
+    "name": "OdysseyEXP_S2_POI3"
+  },
+  "57794": {
+    "groupID": 4055,
+    "name": "OdysseyEXP_S2_POI4"
+  },
+  "57795": {
+    "groupID": 4055,
+    "name": "OdysseyEXP_S2_POI5"
+  },
+  "57796": {
+    "groupID": 4055,
+    "name": "OdysseyEXP_S2_POI6"
+  },
+  "57797": {
+    "groupID": 4128,
+    "name": "AIR Frigate"
+  },
+  "57798": {
+    "groupID": 4128,
+    "name": "AIR Cruiser"
+  },
+  "57799": {
+    "groupID": 4128,
+    "name": "AIR Battleship"
+  },
+  "57800": {
+    "groupID": 4128,
+    "name": "[AIR] Bowhead"
+  },
+  "57801": {
+    "groupID": 4105,
+    "name": "Hostile Frigate"
+  },
+  "57802": {
+    "groupID": 4105,
+    "name": "Hostile Cruiser"
+  },
+  "57803": {
+    "groupID": 4105,
+    "name": "Hostile Battleship"
+  },
+  "57804": {
+    "groupID": 227,
+    "name": "OdysseyEXP_S2_Cloud1"
+  },
+  "57805": {
+    "groupID": 226,
+    "name": "Listening Post"
+  },
+  "57820": {
+    "groupID": 4055,
+    "name": "Odyssey Experience Scene 2 Camera Restriction"
   },
   "57821": {
     "groupID": 303,
@@ -110033,6 +110121,18 @@
     "groupID": 1975,
     "name": "Non-interactable Spatial Rift"
   },
+  "58161": {
+    "groupID": 4128,
+    "name": "[AIR] Bowhead I"
+  },
+  "58162": {
+    "groupID": 4128,
+    "name": "[AIR] Bowhead II"
+  },
+  "58163": {
+    "groupID": 4128,
+    "name": "[AIR] Bowhead III"
+  },
   "58715": {
     "groupID": 226,
     "name": "AEGIS Security Deep Scanner"
@@ -110096,6 +110196,10 @@
   "58744": {
     "groupID": 1975,
     "name": "Fortified EoM Bunker"
+  },
+  "58745": {
+    "groupID": 25,
+    "name": "AIR Civilian Astero"
   },
   "58746": {
     "groupID": 1975,
@@ -110265,6 +110369,10 @@
     "groupID": 383,
     "name": "EoM Stasis Webber Tower"
   },
+  "58807": {
+    "groupID": 227,
+    "name": "Invisible Controller for Scene 1"
+  },
   "58808": {
     "groupID": 383,
     "name": "EoM Warp Disruptor Tower"
@@ -110411,19 +110519,19 @@
   },
   "58847": {
     "groupID": 4050,
-    "name": "Event 30 Proving Filament"
+    "name": "Foundation Day Omen FFA Proving Filament"
   },
   "58848": {
     "groupID": 4050,
-    "name": "Event 31 Proving Filament"
+    "name": "1v1 Destroyers Proving Filament"
   },
   "58849": {
     "groupID": 4050,
-    "name": "Event 32 Proving Filament"
+    "name": "Union Day 2v2 Caldari Battlecruisers Proving Filament"
   },
   "58850": {
     "groupID": 4050,
-    "name": "Event 33 Proving Filament"
+    "name": "Corvette FFA Proving Filament"
   },
   "58851": {
     "groupID": 303,
@@ -110470,44 +110578,44 @@
     "name": "Highsec Authorized Mobile Cynosural Beacon"
   },
   "58907": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Aeon Debris"
   },
   "58908": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Avatar Debris"
   },
   "58909": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Wyvern Debris"
   },
   "58910": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Leviathan Debris"
   },
   "58911": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Nyx Debris"
   },
   "58912": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Erebus Debris"
   },
   "58913": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Hel Debris"
   },
   "58914": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Ragnarok Debris"
   },
   "58915": {
-    "groupID": 186,
+    "groupID": 1975,
     "name": "Infested Zirnitra Debris"
   },
   "58916": {
     "groupID": 186,
-    "name": "Rogue Drone Nursery Pod"
+    "name": "Salvageable Nursery Nest"
   },
   "58917": {
     "groupID": 1975,
@@ -110883,7 +110991,7 @@
   },
   "59369": {
     "groupID": 4050,
-    "name": "Event 34 Proving Filament"
+    "name": "2v2 Interceptors Proving Filament"
   },
   "59370": {
     "groupID": 1090,
@@ -110908,6 +111016,10 @@
   "59408": {
     "groupID": 1090,
     "name": "Women's 'State Protector' Pants"
+  },
+  "59437": {
+    "groupID": 1975,
+    "name": "'Draccous' Fortizar Wreck (copy)"
   },
   "59454": {
     "groupID": 226,
@@ -110941,6 +111053,14 @@
     "groupID": 226,
     "name": "F7-ICZ Stargate Construction Monument"
   },
+  "59482": {
+    "groupID": 1975,
+    "name": "ENV_NPE_Wrecksite_01a"
+  },
+  "59483": {
+    "groupID": 1975,
+    "name": "ENV_NPE_CosmicStorm_01a"
+  },
   "59503": {
     "groupID": 306,
     "name": "Novice Data Vault"
@@ -110969,6 +111089,38 @@
     "groupID": 1975,
     "name": "Minmatar Wall NIO [Do not translate]"
   },
+  "59511": {
+    "groupID": 4128,
+    "name": "[AIR] Incursus"
+  },
+  "59512": {
+    "groupID": 4128,
+    "name": "[AIR] Cormorant"
+  },
+  "59513": {
+    "groupID": 4128,
+    "name": "[AIR] Firetail"
+  },
+  "59514": {
+    "groupID": 4128,
+    "name": "[AIR] Stratios"
+  },
+  "59515": {
+    "groupID": 4128,
+    "name": "[AIR] Brutix"
+  },
+  "59516": {
+    "groupID": 4128,
+    "name": "[AIR] Osprey"
+  },
+  "59517": {
+    "groupID": 4128,
+    "name": "[AIR] Orca"
+  },
+  "59518": {
+    "groupID": 4128,
+    "name": "[AIR] Nestor"
+  },
   "59519": {
     "groupID": 4098,
     "name": "Minmatar Liberation Day Expert System"
@@ -110979,19 +111131,23 @@
   },
   "59584": {
     "groupID": 1814,
-    "name": "AEGIS Security Battleship"
+    "name": "SCC Security Commander"
   },
   "59585": {
     "groupID": 1813,
-    "name": "AEGIS Security Cruiser"
+    "name": "SCC Security Striker"
   },
   "59586": {
     "groupID": 1803,
-    "name": "AEGIS Security Frigate"
+    "name": "SCC Security Responder"
   },
   "59587": {
     "groupID": 1194,
     "name": "Minmatar Liberation Day Apparel Crate"
+  },
+  "59588": {
+    "groupID": 1975,
+    "name": "Spatial Rift (non-interactable)"
   },
   "59595": {
     "groupID": 310,
@@ -111025,9 +111181,41 @@
     "groupID": 314,
     "name": "Serenity 618 Event Crate"
   },
+  "59604": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Scorpion"
+  },
+  "59605": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Megathron"
+  },
+  "59606": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Ferox"
+  },
+  "59607": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Gnosis"
+  },
+  "59608": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Moa"
+  },
+  "59609": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Catalyst"
+  },
+  "59610": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Crucifier"
+  },
+  "59611": {
+    "groupID": 4130,
+    "name": "Unidentified Hostile Hookbill"
+  },
   "59612": {
     "groupID": 226,
-    "name": "Amarr Cathedral"
+    "name": "Order of St. Tetrimon Fortress Monastery"
   },
   "59613": {
     "groupID": 226,
@@ -111301,6 +111489,22 @@
     "groupID": 226,
     "name": "Starkmanir Tempest"
   },
+  "59716": {
+    "groupID": 1975,
+    "name": "Particle Cloud Electric Thunder 01a"
+  },
+  "59717": {
+    "groupID": 1975,
+    "name": "Particle Cloud Electric Thunder 02a"
+  },
+  "59718": {
+    "groupID": 1975,
+    "name": "Particle Cloud Electric Thunder 03a"
+  },
+  "59719": {
+    "groupID": 1975,
+    "name": "Dungeon Cloud 9105"
+  },
   "59723": {
     "groupID": 226,
     "name": "The Eternal Flame"
@@ -111335,11 +111539,11 @@
   },
   "59731": {
     "groupID": 383,
-    "name": "AEGIS Security GunStar"
+    "name": "SCC Security Stasis GunStar"
   },
   "59732": {
     "groupID": 383,
-    "name": "AEGIS Security Heavy GunStar"
+    "name": "SCC Security Heavy GunStar"
   },
   "59733": {
     "groupID": 226,
@@ -111473,6 +111677,10 @@
     "groupID": 1895,
     "name": "Hijacked Transport Reenactment Drone"
   },
+  "59794": {
+    "groupID": 1882,
+    "name": "Background planet Sandstorm White"
+  },
   "59795": {
     "groupID": 227,
     "name": "Escape from Auner Hauler Spawner"
@@ -111523,63 +111731,63 @@
   },
   "59876": {
     "groupID": 303,
-    "name": "Basic 'Rebel' Cerebral Accelerator"
+    "name": "Expired Basic 'Rebel' Cerebral Accelerator"
   },
   "59878": {
     "groupID": 303,
-    "name": "Potent 'Rebel' Cerebral Accelerator"
+    "name": "Expired Potent 'Rebel' Cerebral Accelerator"
   },
   "59879": {
     "groupID": 303,
-    "name": "Extended 'Rebel' Cerebral Accelerator"
+    "name": "Expired Extended 'Rebel' Cerebral Accelerator"
   },
   "59880": {
     "groupID": 303,
-    "name": "Liberation Games Damage Booster I"
+    "name": "Expired Liberation Games Damage Booster I"
   },
   "59881": {
     "groupID": 303,
-    "name": "Liberation Games Damage Booster II"
+    "name": "Expired Liberation Games Damage Booster II"
   },
   "59882": {
     "groupID": 303,
-    "name": "Liberation Games Damage Booster III"
+    "name": "Expired Liberation Games Damage Booster III"
   },
   "59883": {
     "groupID": 303,
-    "name": "Liberation Games Accuracy Booster II"
+    "name": "Expired Liberation Games Accuracy Booster II"
   },
   "59884": {
     "groupID": 303,
-    "name": "Liberation Games Accuracy Booster III"
+    "name": "Expired Liberation Games Accuracy Booster III"
   },
   "59885": {
     "groupID": 303,
-    "name": "Liberation Games Range Booster I"
+    "name": "Expired Liberation Games Range Booster I"
   },
   "59886": {
     "groupID": 303,
-    "name": "Liberation Games Range Booster II"
+    "name": "Expired Liberation Games Range Booster II"
   },
   "59887": {
     "groupID": 303,
-    "name": "Liberation Games Range Booster III"
+    "name": "Expired Liberation Games Range Booster III"
   },
   "59888": {
     "groupID": 303,
-    "name": "Liberation Games EWar Booster I"
+    "name": "Expired Liberation Games EWar Booster I"
   },
   "59889": {
     "groupID": 303,
-    "name": "Liberation Games EWar Booster II"
+    "name": "Expired Liberation Games EWar Booster II"
   },
   "59890": {
     "groupID": 303,
-    "name": "Liberation Games EWar Booster III"
+    "name": "Expired Liberation Games EWar Booster III"
   },
   "59891": {
     "groupID": 303,
-    "name": "Liberation Games Accuracy Booster I"
+    "name": "Expired Liberation Games Accuracy Booster I"
   },
   "59892": {
     "groupID": 1194,
@@ -111628,5 +111836,1109 @@
   "59942": {
     "groupID": 310,
     "name": "Battle of Fort Kavad Monument"
+  },
+  "59956": {
+    "groupID": 15,
+    "name": "Association for Interdisciplinary Research Outpost"
+  },
+  "59960": {
+    "groupID": 303,
+    "name": "Precursor Cruiser Skill Accelerator"
+  },
+  "59961": {
+    "groupID": 303,
+    "name": "Medium Precursor Weapon Skill Accelerator"
+  },
+  "59962": {
+    "groupID": 303,
+    "name": "Medium Disintegrator Specialization Skill Accelerator"
+  },
+  "59964": {
+    "groupID": 303,
+    "name": "Tiamat Prremium Insurance"
+  },
+  "59967": {
+    "groupID": 306,
+    "name": "NW ESS Key Generator"
+  },
+  "59968": {
+    "groupID": 306,
+    "name": "NE ESS Key Generator"
+  },
+  "59969": {
+    "groupID": 306,
+    "name": "SW ESS Key Generator"
+  },
+  "59970": {
+    "groupID": 306,
+    "name": "SE ESS Key Generator"
+  },
+  "59971": {
+    "groupID": 226,
+    "name": "SCC Encounter Surveillance Audit Control"
+  },
+  "59972": {
+    "groupID": 226,
+    "name": "SCC Encounter Surveillance Administration"
+  },
+  "59974": {
+    "groupID": 1975,
+    "name": "abs1_t1_tetrimon_enviroment_asset"
+  },
+  "59977": {
+    "groupID": 1194,
+    "name": "Amarr Foundation Day Jacket Crate"
+  },
+  "59978": {
+    "groupID": 1194,
+    "name": "Amarr Foundation Day Pants Crate"
+  },
+  "59979": {
+    "groupID": 226,
+    "name": "ESS Key Generator Interface"
+  },
+  "59980": {
+    "groupID": 310,
+    "name": "Order of St. Tetrimon Fortress Monastery"
+  },
+  "59981": {
+    "groupID": 310,
+    "name": "The Traumark Installation"
+  },
+  "59982": {
+    "groupID": 310,
+    "name": "Old Traumark"
+  },
+  "59983": {
+    "groupID": 310,
+    "name": "Ndoria Mining Hub"
+  },
+  "59984": {
+    "groupID": 226,
+    "name": "Ndoria Mining Hub"
+  },
+  "59985": {
+    "groupID": 4128,
+    "name": "[AIR] Stratios II"
+  },
+  "59986": {
+    "groupID": 4128,
+    "name": "[AIR] Brutix II"
+  },
+  "59987": {
+    "groupID": 4128,
+    "name": "[AIR] Nestor II"
+  },
+  "59989": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 Triglavian Recon Crate"
+  },
+  "59990": {
+    "groupID": 1667,
+    "name": "Tetrimon Paladin"
+  },
+  "59991": {
+    "groupID": 1665,
+    "name": "Tetrimon Zealot"
+  },
+  "59992": {
+    "groupID": 227,
+    "name": "Tetrimon Monastery NPC Spawner (Do not translate)"
+  },
+  "59996": {
+    "groupID": 1975,
+    "name": "Non-Interactable Amarr Control Tower"
+  },
+  "59997": {
+    "groupID": 1975,
+    "name": "Non-Interactable Hangar Array"
+  },
+  "59998": {
+    "groupID": 1975,
+    "name": "Non-Interactable Reprocessing Array"
+  },
+  "59999": {
+    "groupID": 1975,
+    "name": "Non-Interactable Silo"
+  },
+  "60000": {
+    "groupID": 1975,
+    "name": "Non-Interactable Reactor Array"
+  },
+  "60001": {
+    "groupID": 1975,
+    "name": "Non-Interactable Athanor"
+  },
+  "60002": {
+    "groupID": 226,
+    "name": "The Traumark Installation"
+  },
+  "60003": {
+    "groupID": 226,
+    "name": "The Ruins of Old Traumark"
+  },
+  "60004": {
+    "groupID": 1975,
+    "name": "as6_tashmurkon_enviroment_asset"
+  },
+  "60005": {
+    "groupID": 1975,
+    "name": "as7_tashmurkon_enviroment_asset"
+  },
+  "60006": {
+    "groupID": 1975,
+    "name": "uw_sentry02_tashmurkon_enviroment_asset"
+  },
+  "60007": {
+    "groupID": 1975,
+    "name": "Non-interactable Depleted Asteroid Field"
+  },
+  "60019": {
+    "groupID": 4098,
+    "name": "Amarr Foundation Day Expert System"
+  },
+  "60023": {
+    "groupID": 303,
+    "name": "Serenity Monthly Cerebral Accelerator - 2021.8"
+  },
+  "60024": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 PotT SKIN Crate Small"
+  },
+  "60025": {
+    "groupID": 314,
+    "name": "Serenity YC123.7 PotT SKIN Crate Large"
+  },
+  "60033": {
+    "groupID": 1739,
+    "name": "AIR Skill Injector"
+  },
+  "60042": {
+    "groupID": 1975,
+    "name": "as3_tashmurkon_enviroment_asset"
+  },
+  "60043": {
+    "groupID": 1975,
+    "name": "abs2_t1_navy_enviroment_asset"
+  },
+  "60048": {
+    "groupID": 1975,
+    "name": "Minmatar Trade Station in Construction (DO NOT TRANSLATE)"
+  },
+  "60068": {
+    "groupID": 303,
+    "name": "Serenity Rookie Exclusive Cerebral Accelerator"
+  },
+  "60076": {
+    "groupID": 4050,
+    "name": "Totality Day 3v3 Kikimoras Proving Filament"
+  },
+  "60077": {
+    "groupID": 4050,
+    "name": "1v1 Battleships Redux Proving Filament"
+  },
+  "60078": {
+    "groupID": 4050,
+    "name": "Crimson Harvest Destroyer FFA Proving Filament"
+  },
+  "60079": {
+    "groupID": 4050,
+    "name": "Event 38 Proving Filament"
+  },
+  "60080": {
+    "groupID": 4050,
+    "name": "Event 39 Proving Filament"
+  },
+  "60089": {
+    "groupID": 4098,
+    "name": "Caldari Union Day Expert System"
+  },
+  "60091": {
+    "groupID": 303,
+    "name": "Serenity YC123.8 Season Standard Cerebral Accelerator"
+  },
+  "60092": {
+    "groupID": 303,
+    "name": "Serenity YC123.8 Season Advanced Cerebral Accelerator"
+  },
+  "60093": {
+    "groupID": 303,
+    "name": "Serenity YC123.8 Season Pass"
+  },
+  "60095": {
+    "groupID": 314,
+    "name": "Serenity YC123.8 Season Ship Crate"
+  },
+  "60096": {
+    "groupID": 314,
+    "name": "Serenity YC123.8 Season Reward Crate"
+  },
+  "60107": {
+    "groupID": 1194,
+    "name": "Caldari Union Day Pants Crate"
+  },
+  "60109": {
+    "groupID": 1194,
+    "name": "Caldari Union Day Jacket Crate"
+  },
+  "60110": {
+    "groupID": 226,
+    "name": "Landfall Kutuoto Miru Orbital Center"
+  },
+  "60111": {
+    "groupID": 226,
+    "name": "Urlen II Provist Riots Memorial"
+  },
+  "60112": {
+    "groupID": 310,
+    "name": "Landfall Kutuoto Miru Orbital Center"
+  },
+  "60113": {
+    "groupID": 310,
+    "name": "Urlen II Provist Riots Memorial"
+  },
+  "60115": {
+    "groupID": 306,
+    "name": "AIR Rogue Drone Analysis Node"
+  },
+  "60116": {
+    "groupID": 306,
+    "name": "AIR Rogue Drone Analysis Node"
+  },
+  "60117": {
+    "groupID": 310,
+    "name": "Sep Hacking Beacon"
+  },
+  "60121": {
+    "groupID": 1975,
+    "name": "Rock Formation - Branched & Twisted"
+  },
+  "60122": {
+    "groupID": 1975,
+    "name": "Secure Info Shard Wreck"
+  },
+  "60123": {
+    "groupID": 1975,
+    "name": "Snake Shaped Asteroid"
+  },
+  "60124": {
+    "groupID": 1975,
+    "name": "Sheared Rock Formation"
+  },
+  "60125": {
+    "groupID": 1975,
+    "name": "Nestor Battleship Wreck"
+  },
+  "60139": {
+    "groupID": 1975,
+    "name": "Rogue Drone Nursery Pods"
+  },
+  "60140": {
+    "groupID": 1975,
+    "name": "Rogue Drone Nursery Pod"
+  },
+  "60141": {
+    "groupID": 1975,
+    "name": "Rogue Drone Colony Nest"
+  },
+  "60142": {
+    "groupID": 1975,
+    "name": "Rogue Drone Harvest Hive"
+  },
+  "60143": {
+    "groupID": 1813,
+    "name": "SCC Security Neutralizer"
+  },
+  "60144": {
+    "groupID": 319,
+    "name": "Unidentified Signal"
+  },
+  "60145": {
+    "groupID": 1803,
+    "name": "SCC Security Interceptor"
+  },
+  "60153": {
+    "groupID": 1813,
+    "name": "SCC Security Jammer"
+  },
+  "60154": {
+    "groupID": 1882,
+    "name": "Cloudlayer_01a"
+  },
+  "60160": {
+    "groupID": 1083,
+    "name": "Men's 'Orb Semiotique' Synthetic Eye (right)"
+  },
+  "60161": {
+    "groupID": 1090,
+    "name": "Men's 'Semiotique Sports' Pants"
+  },
+  "60162": {
+    "groupID": 1091,
+    "name": "Men's 'Semiotique Sports' Shoes"
+  },
+  "60163": {
+    "groupID": 1670,
+    "name": "Men's 'Barbatus Semiotique' Facial Augmentation"
+  },
+  "60164": {
+    "groupID": 1670,
+    "name": "Men's 'Semiotique TorsoRig' Body Augmentation"
+  },
+  "60165": {
+    "groupID": 1083,
+    "name": "Men's 'Glass Semiotique' Monocle Interface (right)"
+  },
+  "60166": {
+    "groupID": 1083,
+    "name": "Women's 'Orb Semiotique' Synthetic Eye (right)"
+  },
+  "60167": {
+    "groupID": 1090,
+    "name": "Women's 'Semiotique Sports' Pants"
+  },
+  "60168": {
+    "groupID": 1091,
+    "name": "Women's 'Semiotique Sports' Shoes"
+  },
+  "60169": {
+    "groupID": 1670,
+    "name": "Women's 'Oculina Semiotique' Facial Augmentation"
+  },
+  "60170": {
+    "groupID": 1670,
+    "name": "Women's 'Semiotique TorsoRig' Body Augmentation"
+  },
+  "60171": {
+    "groupID": 1083,
+    "name": "Women's 'Glass Semiotique' Monocle Interface (right)"
+  },
+  "60172": {
+    "groupID": 303,
+    "name": "Serenity Monthly Cerebral Accelerator - 2021.9"
+  },
+  "60173": {
+    "groupID": 1975,
+    "name": "EDENCOM Shield Facility"
+  },
+  "60174": {
+    "groupID": 1975,
+    "name": "Upwell Storage Facility 01"
+  },
+  "60175": {
+    "groupID": 1088,
+    "name": "60175_Male_outer_JacketMilM02_Types_JacketMilM02_AIR.png"
+  },
+  "60176": {
+    "groupID": 1088,
+    "name": "60176_Female_Outer_JacketSLF_01_Types_JacketSLF_01_air.png"
+  },
+  "60177": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Overclocker' Dose Type-A"
+  },
+  "60178": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Hardshell' Dose Type-A"
+  },
+  "60179": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Pyrolancea' Dose Type-A"
+  },
+  "60180": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Efficiency' Dose Type-A"
+  },
+  "60181": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Sharpeye' Dose Type-A"
+  },
+  "60182": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Overclocker' Dose Type-B"
+  },
+  "60183": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Hardshell' Dose Type-B"
+  },
+  "60184": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Pyrolancea' Dose Type-B"
+  },
+  "60185": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Efficiency' Dose Type-B"
+  },
+  "60186": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited 'Sharpeye' Dose Type-B"
+  },
+  "60187": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited Cerebral Accelerator I"
+  },
+  "60188": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited Cerebral Accelerator II"
+  },
+  "60189": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited Cerebral Accelerator III"
+  },
+  "60190": {
+    "groupID": 303,
+    "name": "Serenity Autumn Limited Cerebral Accelerator IV"
+  },
+  "60191": {
+    "groupID": 314,
+    "name": "Serenity Autumn Zakura Shumyu SKIN Crate"
+  },
+  "60192": {
+    "groupID": 314,
+    "name": "Serenity Autumn Event Crate"
+  },
+  "60201": {
+    "groupID": 1568,
+    "name": "Colony Nest Scavenger"
+  },
+  "60202": {
+    "groupID": 1665,
+    "name": "Colony Nest Overseer"
+  },
+  "60203": {
+    "groupID": 1664,
+    "name": "Colony Nest Guardian"
+  },
+  "60204": {
+    "groupID": 1568,
+    "name": "Colony Nest Forager"
+  },
+  "60205": {
+    "groupID": 1664,
+    "name": "Colony Nest Sentinel"
+  },
+  "60206": {
+    "groupID": 227,
+    "name": "Rogue Drone Event 2021 WaveHS Spawner"
+  },
+  "60207": {
+    "groupID": 227,
+    "name": "Rogue Drone Event 2021 BossHS Spawner"
+  },
+  "60244": {
+    "groupID": 4137,
+    "name": "Concord Rogue Analysis Beacon"
+  },
+  "60250": {
+    "groupID": 303,
+    "name": "Serenity YC123.9 Season Advanced Cerebral Accelerator"
+  },
+  "60251": {
+    "groupID": 303,
+    "name": "Serenity YC123.9 Season Pass"
+  },
+  "60252": {
+    "groupID": 314,
+    "name": "Serenity YC123.9 Season Ship Crate"
+  },
+  "60253": {
+    "groupID": 314,
+    "name": "Serenity YC123.9 Season Reward Crate"
+  },
+  "60255": {
+    "groupID": 4037,
+    "name": "Infested Abaddon"
+  },
+  "60269": {
+    "groupID": 303,
+    "name": "Amarr Battleship Operation Skill Accelerator"
+  },
+  "60270": {
+    "groupID": 303,
+    "name": "Caldari Battleship Operation Skill Accelerator"
+  },
+  "60271": {
+    "groupID": 303,
+    "name": "Gallente Battleship Operation Skill Accelerator"
+  },
+  "60272": {
+    "groupID": 303,
+    "name": "Minmatar Battleship Operation Skill Accelerator"
+  },
+  "60273": {
+    "groupID": 303,
+    "name": "Advanced Weapons Upgrade Skill Accelerator"
+  },
+  "60316": {
+    "groupID": 4037,
+    "name": "Infested Raven"
+  },
+  "60317": {
+    "groupID": 4037,
+    "name": "Infested Oracle"
+  },
+  "60318": {
+    "groupID": 4037,
+    "name": "Infested Prophecy"
+  },
+  "60319": {
+    "groupID": 4100,
+    "name": "Inaugural Liberation Games: Thukker Tribe"
+  },
+  "60321": {
+    "groupID": 1814,
+    "name": "AEGIS Security Marshal"
+  },
+  "60322": {
+    "groupID": 1814,
+    "name": "AEGIS Security Marshal"
+  },
+  "60323": {
+    "groupID": 1813,
+    "name": "AEGIS Security Enforcer"
+  },
+  "60324": {
+    "groupID": 1813,
+    "name": "AEGIS Security Enforcer"
+  },
+  "60325": {
+    "groupID": 1813,
+    "name": "AEGIS Security Enforcer"
+  },
+  "60326": {
+    "groupID": 1803,
+    "name": "AEGIS Security Pacifier"
+  },
+  "60327": {
+    "groupID": 1803,
+    "name": "AEGIS Security Pacifier"
+  },
+  "60328": {
+    "groupID": 4055,
+    "name": "Frigate Combat"
+  },
+  "60329": {
+    "groupID": 4055,
+    "name": "Cruiser Combat"
+  },
+  "60330": {
+    "groupID": 4055,
+    "name": "Battleship Combat"
+  },
+  "60331": {
+    "groupID": 4037,
+    "name": "Infested Eagle"
+  },
+  "60332": {
+    "groupID": 4037,
+    "name": "Infested Jaguar"
+  },
+  "60333": {
+    "groupID": 4037,
+    "name": "Giant Squid"
+  },
+  "60335": {
+    "groupID": 1975,
+    "name": "Non-Interactable Cynosural Field (Do not translate)"
+  },
+  "60336": {
+    "groupID": 1975,
+    "name": "Non-Interactable Minmatar Elevator (Do not translate)"
+  },
+  "60337": {
+    "groupID": 1975,
+    "name": "Non-Interactable Minmatar Junction  (Do not translate)"
+  },
+  "60375": {
+    "groupID": 227,
+    "name": "ABS (Do not translate) "
+  },
+  "60376": {
+    "groupID": 1452,
+    "name": "Infiltrator II"
+  },
+  "60382": {
+    "groupID": 4037,
+    "name": "Infested Brutix"
+  },
+  "60389": {
+    "groupID": 306,
+    "name": "EDENCOM construction dock"
+  },
+  "60390": {
+    "groupID": 306,
+    "name": "EDENCOM construction dock"
+  },
+  "60391": {
+    "groupID": 306,
+    "name": "EDENCOM construction dock"
+  },
+  "60392": {
+    "groupID": 306,
+    "name": "EDENCOM construction dock"
+  },
+  "60393": {
+    "groupID": 1975,
+    "name": "Shield facility shield collision"
+  },
+  "60394": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM station hub"
+  },
+  "60395": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM station"
+  },
+  "60396": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM power generator"
+  },
+  "60397": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM power generator wreck"
+  },
+  "60398": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM transfer relay"
+  },
+  "60399": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM construction dock 01"
+  },
+  "60400": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM inactive construction dock 01"
+  },
+  "60401": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM construction dock 02"
+  },
+  "60402": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM inactive construction dock 02"
+  },
+  "60403": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM construction dock 03"
+  },
+  "60404": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM inactive construction dock 03"
+  },
+  "60405": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM construction dock 04"
+  },
+  "60406": {
+    "groupID": 1975,
+    "name": "Upwell EDENCOM inactive construction dock 04"
+  },
+  "60407": {
+    "groupID": 1975,
+    "name": "EDENCOM factory frame and docks"
+  },
+  "60408": {
+    "groupID": 1975,
+    "name": "EDENCOM factory superstructure"
+  },
+  "60409": {
+    "groupID": 1975,
+    "name": "EDENCOM factory active"
+  },
+  "60410": {
+    "groupID": 306,
+    "name": "Gate Control System"
+  },
+  "60418": {
+    "groupID": 383,
+    "name": "Drone Light Stasis Tower"
+  },
+  "60419": {
+    "groupID": 227,
+    "name": "Rogue Drone Event 2021 WaveLS Spawner"
+  },
+  "60420": {
+    "groupID": 227,
+    "name": "Rogue Drone Event 2021 BossLS Spawner"
+  },
+  "60422": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition Booster I"
+  },
+  "60423": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition Booster II"
+  },
+  "60424": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition Booster III"
+  },
+  "60425": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing Booster I"
+  },
+  "60426": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing Booster II"
+  },
+  "60427": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing Booster III"
+  },
+  "60428": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding Booster I"
+  },
+  "60429": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding Booster II"
+  },
+  "60430": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding Booster III"
+  },
+  "60432": {
+    "groupID": 1090,
+    "name": "60432_Male_bottomOuter_PantsPrtm01_Types_PantsPrtm01_redblack.png"
+  },
+  "60434": {
+    "groupID": 1090,
+    "name": "60434_Female_bottomOuter_PantsPrtF01_Types_PantsPrtF01_redblack.png"
+  },
+  "60435": {
+    "groupID": 1089,
+    "name": "60435_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CH.png"
+  },
+  "60436": {
+    "groupID": 1089,
+    "name": "60436_Female_TopMiddle_TshirtF01_Types_TshirtF01_BR_CH.png"
+  },
+  "60437": {
+    "groupID": 186,
+    "name": "EDENCOM power generator wreck"
+  },
+  "60438": {
+    "groupID": 306,
+    "name": "EDENCOM Secure Shield Facility"
+  },
+  "60439": {
+    "groupID": 310,
+    "name": "Rogue Drone Outgrowth Colony"
+  },
+  "60440": {
+    "groupID": 310,
+    "name": "Advanced Drone Outgrowth Colony"
+  },
+  "60441": {
+    "groupID": 1665,
+    "name": "Colony Nest Overseer"
+  },
+  "60442": {
+    "groupID": 1665,
+    "name": "Colony Nest Overseer"
+  },
+  "60443": {
+    "groupID": 1665,
+    "name": "Colony Nest Overseer"
+  },
+  "60444": {
+    "groupID": 1665,
+    "name": "Advanced Nest Overseer"
+  },
+  "60445": {
+    "groupID": 1665,
+    "name": "Advanced Nest Overseer"
+  },
+  "60446": {
+    "groupID": 1665,
+    "name": "Advanced Nest Overseer"
+  },
+  "60447": {
+    "groupID": 1665,
+    "name": "Advanced Nest Overseer"
+  },
+  "60448": {
+    "groupID": 303,
+    "name": "Basic Rogue Swarm Cerebral Accelerator"
+  },
+  "60449": {
+    "groupID": 303,
+    "name": "Potent Rogue Swarm Cerebral Accelerator"
+  },
+  "60450": {
+    "groupID": 303,
+    "name": "Extended Rogue Swarm Cerebral Accelerator"
+  },
+  "60454": {
+    "groupID": 314,
+    "name": "Intercepted Rogue Drone Communications Fragment 0KQC"
+  },
+  "60455": {
+    "groupID": 314,
+    "name": "Intercepted Rogue Drone Communications Fragment GQ35"
+  },
+  "60456": {
+    "groupID": 314,
+    "name": "Intercepted Rogue Drone Communications Fragment 55EG"
+  },
+  "60457": {
+    "groupID": 314,
+    "name": "Intercepted Rogue Drone Communications Fragment 52B7"
+  },
+  "60458": {
+    "groupID": 314,
+    "name": "Intercepted Rogue Drone Communications Fragment JQH0"
+  },
+  "60459": {
+    "groupID": 4142,
+    "name": "Rogue Drone Survey Data"
+  },
+  "60460": {
+    "groupID": 1964,
+    "name": "Light Drone Speed Mutaplasmid"
+  },
+  "60461": {
+    "groupID": 1964,
+    "name": "Light Drone Damage Mutaplasmid"
+  },
+  "60462": {
+    "groupID": 1964,
+    "name": "Light Drone Tank Mutaplasmid"
+  },
+  "60463": {
+    "groupID": 1964,
+    "name": "Heavy Drone Speed Mutaplasmid"
+  },
+  "60464": {
+    "groupID": 1964,
+    "name": "Heavy Drone Damage Mutaplasmid"
+  },
+  "60465": {
+    "groupID": 1964,
+    "name": "Heavy Drone Tank Mutaplasmid"
+  },
+  "60466": {
+    "groupID": 1964,
+    "name": "Heavy Drone Range Mutaplasmid"
+  },
+  "60467": {
+    "groupID": 1964,
+    "name": "Sentry Drone Speed Mutaplasmid"
+  },
+  "60468": {
+    "groupID": 1964,
+    "name": "Sentry Drone Damage Mutaplasmid"
+  },
+  "60469": {
+    "groupID": 1964,
+    "name": "Sentry Drone Tank Mutaplasmid"
+  },
+  "60470": {
+    "groupID": 1964,
+    "name": "Sentry Drone Range Mutaplasmid"
+  },
+  "60471": {
+    "groupID": 1964,
+    "name": "Light Drone Range Mutaplasmid"
+  },
+  "60472": {
+    "groupID": 1964,
+    "name": "Medium Drone Speed Mutaplasmid"
+  },
+  "60473": {
+    "groupID": 1964,
+    "name": "Medium Drone Damage Mutaplasmid"
+  },
+  "60474": {
+    "groupID": 1964,
+    "name": "Medium Drone Tank Mutaplasmid"
+  },
+  "60475": {
+    "groupID": 1964,
+    "name": "Medium Drone Range Mutaplasmid"
+  },
+  "60476": {
+    "groupID": 1964,
+    "name": "Drone Damage Amplifier Mutaplasmid"
+  },
+  "60477": {
+    "groupID": 1964,
+    "name": "Fighter Support Unit Mutaplasmid"
+  },
+  "60478": {
+    "groupID": 100,
+    "name": "Light Modified Rogue Drone"
+  },
+  "60479": {
+    "groupID": 100,
+    "name": "Medium Modified Rogue Drone"
+  },
+  "60480": {
+    "groupID": 100,
+    "name": "Heavy Modified Rogue Drone"
+  },
+  "60481": {
+    "groupID": 100,
+    "name": "Sentry Modified Rogue Drone"
+  },
+  "60482": {
+    "groupID": 645,
+    "name": "Modified Drone Damage Amplifier"
+  },
+  "60483": {
+    "groupID": 407,
+    "name": "Modified Fighter Support Unit"
+  },
+  "60484": {
+    "groupID": 1975,
+    "name": "EDENCOM Astrahus under construction"
+  },
+  "60485": {
+    "groupID": 303,
+    "name": "Serenity Monthly Cerebral Accelerator - 2021.10"
+  },
+  "60486": {
+    "groupID": 314,
+    "name": "Serenity YC123.10 DLI Firework Crate"
+  },
+  "60487": {
+    "groupID": 303,
+    "name": "Serenity Special Cruisers Insurance"
+  },
+  "60488": {
+    "groupID": 303,
+    "name": "Serenity Special Frigates Insurance"
+  },
+  "60489": {
+    "groupID": 314,
+    "name": "Serenity Cold Iron SKINs Crate S/M"
+  },
+  "60490": {
+    "groupID": 314,
+    "name": "Serenity Cold Iron SKINs Crate L"
+  },
+  "60498": {
+    "groupID": 1975,
+    "name": "Dungeon 9065 traffic FX"
+  },
+  "60500": {
+    "groupID": 1975,
+    "name": "Dungeon 9064 R0 traffic FX"
+  },
+  "60501": {
+    "groupID": 1975,
+    "name": "Dungeon 9064 R1 traffic FX"
+  },
+  "60505": {
+    "groupID": 4037,
+    "name": "Infested Ogre"
+  },
+  "60506": {
+    "groupID": 4037,
+    "name": "Infested Dominix"
+  },
+  "60508": {
+    "groupID": 319,
+    "name": "EDENCOM power generator"
+  },
+  "60514": {
+    "groupID": 4141,
+    "name": "Concord Rogue Analysis Beacon Blueprint"
+  },
+  "60515": {
+    "groupID": 273,
+    "name": "Rogue Drone Specialization"
+  },
+  "60517": {
+    "groupID": 4037,
+    "name": "Infested Thanatos"
+  },
+  "60518": {
+    "groupID": 4037,
+    "name": "Infested Firbolg"
+  },
+  "60553": {
+    "groupID": 226,
+    "name": "EDENCOM Memorial to Triglavian Invasions"
+  },
+  "60554": {
+    "groupID": 1975,
+    "name": "EDENCOM Stockpile Non-Interactable (Do not translate)"
+  },
+  "60575": {
+    "groupID": 303,
+    "name": "Quafe Zero Green Apple"
+  },
+  "60576": {
+    "groupID": 1194,
+    "name": "Quafe Zero Green Apple Party Pack"
+  },
+  "60580": {
+    "groupID": 4037,
+    "name": "Infested Typhoon"
+  },
+  "60581": {
+    "groupID": 226,
+    "name": "EDENCOM Invasions Command HQ (Yulai)"
+  },
+  "60582": {
+    "groupID": 226,
+    "name": "EDENCOM Stellar Monitoring (Yulai)"
+  },
+  "60583": {
+    "groupID": 1975,
+    "name": "Non-Interactable CONCORD Stellar Observatory (Do not translate)"
+  },
+  "60584": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Outpost (Do Not Translate)"
+  },
+  "60585": {
+    "groupID": 310,
+    "name": "EDENCOM Memorial to Triglavian Invasions"
+  },
+  "60586": {
+    "groupID": 310,
+    "name": "Perun Clade Liminal Proving Grounds"
+  },
+  "60587": {
+    "groupID": 310,
+    "name": "Veles Clade Automata Semiosis Sobornost"
+  },
+  "60588": {
+    "groupID": 310,
+    "name": "Svarog Clade Orbital Shipyards"
+  },
+  "60589": {
+    "groupID": 366,
+    "name": "Proving Conduit (Pochven)"
+  },
+  "60590": {
+    "groupID": 226,
+    "name": "Svarog Clade Orbital Shipyards"
+  },
+  "60591": {
+    "groupID": 226,
+    "name": "Veles Clade Automata Semiosis Sobornost"
+  },
+  "60592": {
+    "groupID": 226,
+    "name": "Navka Overmind Sobor Coalescence"
+  },
+  "60593": {
+    "groupID": 1975,
+    "name": "Non-Interactable Cyno Beacon (Do not translate)"
+  },
+  "60594": {
+    "groupID": 1975,
+    "name": "rds2_enviroment_asset"
+  },
+  "60596": {
+    "groupID": 1979,
+    "name": "Demo Filament"
+  },
+  "60597": {
+    "groupID": 1971,
+    "name": "Abyss Demo Effect Beacon (Do not translate)"
   }
 }

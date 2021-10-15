@@ -13475,6 +13475,33 @@
     "published": false,
     "useBasePrice": false
   },
+  "4102": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "ESS Reserve Bank Keys",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4105": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Unidentified Entities",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4106": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "AIR Entities I",
+    "published": false,
+    "useBasePrice": false
+  },
   "4107": {
     "anchorable": false,
     "anchored": false,
@@ -13521,6 +13548,51 @@
     "name": "Covert Jump Portal Generator",
     "published": true,
     "useBasePrice": false
+  },
+  "4128": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "AIR Entities II",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4130": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Unidentified Entities II",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4137": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "Mobile Analysis Beacon",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4141": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mobile Analysis Beacon Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4142": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Rogue Drone Analysis Data",
+    "published": true,
+    "useBasePrice": true
   },
   "350858": {
     "anchorable": false,

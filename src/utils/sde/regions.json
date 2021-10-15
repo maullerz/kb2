@@ -423,5 +423,25 @@
   "13000001": {
     "name": "PR-01",
     "whClassID": 24
+  },
+  "14000001": {
+    "name": "VR-01",
+    "whClassID": 19
+  },
+  "14000002": {
+    "name": "VR-02",
+    "whClassID": 19
+  },
+  "14000003": {
+    "name": "VR-03",
+    "whClassID": 19
+  },
+  "14000004": {
+    "name": "VR-04",
+    "whClassID": 19
+  },
+  "14000005": {
+    "name": "VR-05",
+    "whClassID": 19
   }
 }

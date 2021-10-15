@@ -13521,5 +13521,25 @@
       "ru": "Количество пассажиров при групповом прыжке",
       "zh": "导管跳跃乘客数量"
     }
+  },
+  "3164": {
+    "attributeID": 3164,
+    "categoryID": 19,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "A attribute meant to over write the chance of loot dropping from a ship, so a setting of 0 will lead to no loot dropping from the player ship.",
+    "displayNameID": {
+      "en": "Drop Chance Overwrite"
+    },
+    "highIsGood": true,
+    "name": "dropChanceOverwrite",
+    "published": false,
+    "stackable": true,
+    "tooltipDescriptionID": {
+      "en": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped"
+    },
+    "tooltipTitleID": {
+      "en": "Drop Chance Overwrite"
+    }
   }
 }
