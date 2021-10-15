@@ -50,6 +50,10 @@ const MainRoutes = () => {
       <Switch>
         <Route path='/' component={Home} exact />
         <Route path='/kill/:killmailID' component={Killmail} exact />
+        <Route path='/about' component={About} exact />
+
+        {isDev && <Route path='/orders' component={Orders} />}
+        {isDev && <Route path='/callback' component={CallbackRoute} />}
 
         <AdsWrapper>
           <Route path='/system/:systemID' component={System} exact />
@@ -72,11 +76,6 @@ const MainRoutes = () => {
 
           <Route path='/preset/:type' component={Preset} exact />
         </AdsWrapper>
-
-        {isDev && <Route path='/orders' component={Orders} />}
-        {isDev && <Route path='/callback' component={CallbackRoute} />}
-
-        <Route path='/about' component={About} exact />
 
         <Redirect from='*' to='/' />
       </Switch>
