@@ -53,3 +53,29 @@ export const ZkbLinkCont = styled.div`
   left: 10px;
   font-size: 12px;
 `
+export const Views = styled.div`
+  position: absolute;
+  top: 10px;
+  left: 330px;
+  font-size: 12px;
+  display: flex;
+
+  @media (min-width: 1024px) and (max-width: 1180px) {
+    left: 250px;
+    right: auto;
+  }
+
+  @media (min-width: 399px) and (max-width: 1024px) {
+    left: auto;
+    right: 10px;
+  }
+
+  @media (max-width: 399px) {
+    left: auto;
+    right: 10px;
+  }
+
+  > div {
+    color: #888;
+  }
+`
