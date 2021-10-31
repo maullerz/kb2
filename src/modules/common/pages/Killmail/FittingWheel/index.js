@@ -49,15 +49,17 @@ function FittingWheel({ kmData }) {
             </>
           }
         </svg>
+
+        <ZkbLinkCont>
+          <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
+            zKillboard
+          </Href>
+        </ZkbLinkCont>
+
+        <Views>
+          <div>Views:</div> {viewed}
+        </Views>
       </Root>
-      <ZkbLinkCont>
-        <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
-          zKillboard
-        </Href>
-      </ZkbLinkCont>
-      <Views>
-        <div>Views:</div> {viewed}
-      </Views>
     </>
   )
 }
