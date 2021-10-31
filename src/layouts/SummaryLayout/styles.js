@@ -55,7 +55,7 @@ export const InfoBlock = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 400px;
+  max-width: 500px;
   margin-left: 10px;
   border-top: 1px solid #333;
   font-size: 14px;
@@ -94,11 +94,6 @@ export const ItemsWrapper = styled.div`
   margin-left: 10px;
   padding: 5px;
   border-bottom: 1px solid #333;
-
-  // > a {
-  //   margin-right: 5px;
-  //   margin-bottom: 5px;
-  // }
 
   @media (max-width: 480px) {
     margin-left: 5px;

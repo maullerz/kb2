@@ -4,7 +4,10 @@ import useLayout from 'utils/hooks/useLayout'
 import { PageImgRect } from 'components/primitives'
 import { Href } from 'components'
 
-import { Root, LogosBlock, Container, FlexRowContainer, InfoBlock, LinksBlock, ItemsWrapper } from './styles'
+import {
+  Root, LogosBlock, Container, FlexRowContainer,
+  InfoBlock, LinksBlock, ItemsWrapper,
+} from './styles'
 
 const SummaryLayout = ({ children, imgProps, links, noImage }) => {
   const blocks = useLayout(children)

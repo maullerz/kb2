@@ -21,7 +21,7 @@ const getImgUrl = (sunTypeID, systemID) => {
 }
 
 const SystemSummary = ({ stats }) => {
-  const { id, name, sunTypeID, constellation, region, ss, whClassID } = stats || {}
+  const { id, name, sunTypeID, constellation, region, ss, whClassID, neighbors } = stats || {}
   const isWH = SdeUtils.isWH(whClassID)
   const links = id && { type: 'system', id, name, region: region.name, isWH }
   const ssStyle = ss && { color: SdeUtils.getSSColor(ss) }
@@ -73,6 +73,21 @@ const SystemSummary = ({ stats }) => {
               </Link>
             </div>
           </Row>
+          {neighbors &&
+            <Row>
+              <Label>Adjacent:</Label>
+              <div>
+                {neighbors.map((sys, ix) => (
+                  <>
+                    {ix > 0 && ', '}
+                    <Link to={`/system/${sys.id}`}>
+                      {sys.name}
+                    </Link>
+                  </>
+                ))}
+              </div>
+            </Row>
+          }
         </Fragment>
       }
     </SummaryLayout>

@@ -42,7 +42,7 @@ export const ImgRect = styled.div`
   border: 1px solid #333;
   background-color: #222;
 
-  @media (max-width: 400px) {
+  @media (max-width: 600px) {
     width: 62px;
     height: 62px;
 
@@ -50,5 +50,9 @@ export const ImgRect = styled.div`
       width: 60px;
       height: 60px;
     }
+  }
+
+  @media (max-width: 474px) {
+    display: none;
   }
 `

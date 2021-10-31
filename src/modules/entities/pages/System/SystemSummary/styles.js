@@ -4,6 +4,7 @@ export const Row = styled.div`
   display: flex;
   align-items: center;
   padding: 5px;
+  line-height: 20px;
   border-bottom: 1px solid #333;
 
   > div {
