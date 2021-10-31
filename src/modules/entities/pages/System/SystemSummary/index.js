@@ -9,6 +9,8 @@ import { Row, Label } from './styles'
 
 const QUALITY = 256
 
+const noWrap = { whiteSpace: 'nowrap' }
+
 const getImgUrl = (sunTypeID, systemID) => {
   if (!sunTypeID) {
     if (systemID >= 32000000) {
@@ -77,14 +79,19 @@ const SystemSummary = ({ stats }) => {
             <Row>
               <Label>Adjacent:</Label>
               <div>
-                {neighbors.map((sys, ix) => (
-                  <>
-                    {ix > 0 && ', '}
-                    <Link to={`/system/${sys.id}`}>
-                      {sys.name}
-                    </Link>
-                  </>
-                ))}
+                {neighbors.map((sys, ix) => {
+                  const ssStyleAdj = { color: SdeUtils.getSSColor(sys.ss) }
+                  return (
+                    <span key={sys.id}>
+                      <Link style={noWrap} to={`/system/${sys.id}`}>
+                        {sys.name}
+                        &nbsp;
+                        <span style={ssStyleAdj}>{sys.ss}</span>
+                      </Link>
+                      {ix < neighbors.length - 1 && ', '}
+                    </span>
+                  )
+                })}
               </div>
             </Row>
           }

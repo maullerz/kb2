@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* Module not used currently */
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { capitalize, isEmpty } from 'lodash'

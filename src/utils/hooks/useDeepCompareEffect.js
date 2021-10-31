@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* Module not used currently */
 import { useRef } from 'react'
 import isEqual from 'lodash/isEqual'
 
