@@ -56,7 +56,7 @@ function FittingWheel({ kmData }) {
         </Href>
       </ZkbLinkCont>
       <Views>
-        <div>Views:&nbsp;</div> {viewed}
+        <div>Views:</div> {viewed}
       </Views>
     </>
   )

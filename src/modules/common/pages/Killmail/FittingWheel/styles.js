@@ -77,5 +77,6 @@ export const Views = styled.div`
 
   > div {
     color: #888;
+    margin-right: 5px;
   }
 `
