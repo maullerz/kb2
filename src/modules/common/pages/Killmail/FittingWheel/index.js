@@ -10,12 +10,12 @@ import HighSlotsRack from './HighSlotsRack'
 import SubSystemsRack from './SubSystemsRack'
 import RigRack from './RigRack'
 
-import { Root, ZkbLinkCont } from './styles'
+import { Root, Views, ZkbLinkCont } from './styles'
 
 function FittingWheel({ kmData }) {
   if (!kmData) return null
 
-  const { vict, fittingItems: items } = kmData
+  const { vict, fittingItems: items, viewed } = kmData
   const { ship } = vict
 
   const groupID = getGroupID(ship)
@@ -49,12 +49,17 @@ function FittingWheel({ kmData }) {
             </>
           }
         </svg>
+
+        <ZkbLinkCont>
+          <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
+            zKillboard
+          </Href>
+        </ZkbLinkCont>
+
+        <Views>
+          <div>Views:</div> {viewed}
+        </Views>
       </Root>
-      <ZkbLinkCont>
-        <Href link={`https://zkillboard.com/kill/${kmData._id}/`}>
-          zKillboard
-        </Href>
-      </ZkbLinkCont>
     </>
   )
 }

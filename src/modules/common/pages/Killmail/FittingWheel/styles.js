@@ -21,6 +21,8 @@ export const Root = styled.div`
     max-height: 320px;
     min-width: 320px;
     min-height: 320px;
+    padding-top: 30px;
+    margin: initial;
   }
 
   @media (max-width: 399px) {
@@ -52,4 +54,16 @@ export const ZkbLinkCont = styled.div`
   top: 10px;
   left: 10px;
   font-size: 12px;
+`
+export const Views = styled.div`
+  position: absolute;
+  top: 10px;
+  right: 0;
+  font-size: 12px;
+  display: flex;
+
+  > div {
+    color: #888;
+    margin-right: 5px;
+  }
 `
