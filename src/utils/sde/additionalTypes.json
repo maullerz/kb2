@@ -34,5 +34,25 @@
   "60708": {
     "groupID": 1664,
     "name": "Harvest Cleric"
+  },
+  "60684": {
+    "name": "Harvest Nosferatu Booster II",
+    "groupID": 303
+  },
+  "60695": {
+    "name": "Harvest Webifier Booster II",
+    "groupID": 303
+  },
+  "60703": {
+    "name": "Tetrimon Capacitor Booster I",
+    "groupID": 303
+  },
+  "60705": {
+    "name": "Tetrimon Resistance Booster I",
+    "groupID": 303
+  },
+  "60706": {
+    "name": "Tetrimon Resistance Booster II",
+    "groupID": 303
   }
 }
