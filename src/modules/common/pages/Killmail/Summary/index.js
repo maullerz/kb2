@@ -116,9 +116,9 @@ const Summary = ({ kmData }) => {
       </Row>
       */}
       <Row>
-        <Label>Dropped:</Label>
-        <div style={greenColor}>
-          {FormatUtils.formatRaw(parsedItems.dropped)} ISK
+        <Label>Fitted:</Label>
+        <div>
+          {FormatUtils.formatRaw(parsedItems.fittedValue)} ISK
         </div>
       </Row>
       <Row>
@@ -128,9 +128,9 @@ const Summary = ({ kmData }) => {
         </div>
       </Row>
       <Row>
-        <Label>Fitted:</Label>
-        <div>
-          {FormatUtils.formatRaw(parsedItems.fittedValue)} ISK
+        <Label>Dropped:</Label>
+        <div style={greenColor}>
+          {FormatUtils.formatRaw(parsedItems.dropped)} ISK
         </div>
       </Row>
       <Row>

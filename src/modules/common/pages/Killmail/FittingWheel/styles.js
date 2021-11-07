@@ -62,6 +62,10 @@ export const Views = styled.div`
   font-size: 12px;
   display: flex;
 
+  @media (max-width: 399px) {
+    margin-right: 10px;
+  }
+
   > div {
     color: #888;
     margin-right: 5px;
