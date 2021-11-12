@@ -1,5 +1,7 @@
 import styled from 'styled-components'
 
+const oneBillion = 1000000000
+
 export const Root = styled.div`
   flex: 0 0;
   display: flex;
@@ -84,4 +86,8 @@ export const Sum = styled.div`
   @media (max-width: 767px) {
     min-width: 60px;
   }
+
+  ${p => p.sum && p.sum >= oneBillion && `
+    font-weight: 900;
+  `}
 `

@@ -25,19 +25,19 @@ const numberFormat = sum => {
     return '0a'
   }
   if (sum >= tenMillion) {
-    return '0.0a'
+    return '0a'
   }
   if (sum >= oneMillion) {
-    return '0.00a'
+    return '0.0a'
   }
   if (sum >= 100 * oneThousand) {
     return '0a'
   }
   if (sum >= tenThousand) {
-    return '0.0a'
+    return '0a'
   }
   if (sum >= oneThousand) {
-    return '0.00a'
+    return '0.0a'
   }
   return '0a'
 }

@@ -53,7 +53,7 @@ const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, sin
       */}
       <Digits>
         <Count>{formattedCount}</Count>
-        <Sum>{formattedSum}</Sum>
+        <Sum sum={isMobile && sum}>{formattedSum}</Sum>
       </Digits>
     </Root>
   )
