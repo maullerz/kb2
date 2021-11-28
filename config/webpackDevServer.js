@@ -1,94 +1,96 @@
-/* eslint no-console: 'off' */
-/* eslint global-require: 'off' */
+/* eslint-disable */
+const fs = require('fs');
+const path = require('path');
+const webpack = require('webpack');
+const WebpackDevServer = require('webpack-dev-server');
+const openBrowser = require('react-dev-utils/openBrowser');
 
-process.env.BABEL_ENV = 'development'
+const appDirectory = fs.realpathSync(process.cwd());
+// const contentBase = path.resolve(appDirectory, 'public');
+
 process.env.NODE_ENV = 'development'
-process.env.HMR = true
+const PORT = process.env.PORT || 4001;
+const HOST = '0.0.0.0';
 
-const fs = require('fs')
-const path = require('path')
-const chalk = require('chalk')
-const webpack = require('webpack')
-const WebpackDevServer = require('webpack-dev-server')
-const openBrowser = require('react-dev-utils/openBrowser')
-const config = require('./webpack.dev.config.js')
+const LOCALHOST_BACKEND ='http://localhost:4000'
+const STAGING_BACKEND = 'https://api.evetools.org'
+const useStaging = false
 
-const defaultPort = 4001
-const PORT = parseInt(process.env.PORT, 10) || defaultPort
-const HOST = process.env.HOST || '0.0.0.0'
-const appDirectory = fs.realpathSync(process.cwd())
-const contentBase = path.resolve(appDirectory, 'public')
+// Proxy for develop
+const proxy = {
+  '/api': {
+    target: useStaging ? STAGING_BACKEND : LOCALHOST_BACKEND,
+    // pathRewrite: { '^/api': '' },
+    secure: false,
+    prependPath: false,
+  },
+};
+
+const developmentConfig = require('./webpack.dev.config.js');
+
+// { allowedHosts?, bonjour?, client?, compress?, devMiddleware?, headers?, historyApiFallback?, host?, hot?, http2?, https?, ipc?, liveReload?, magicHtml?, onAfterSetupMiddleware?, onBeforeSetupMiddleware?, onListening?, open?, port?, proxy?, server?, setupExitSignals?, static?, watchFiles?, webSocketServer? }
 
 // more options here: https://webpack.js.org/configuration/dev-server/
 const devServerConfig = {
-  contentBase,
-  publicPath: config.output.publicPath,
+  // contentBase,
+  // publicPath: developmentConfig.output.publicPath,
   host: '0.0.0.0',
   hot: true,
-  hotOnly: true,
-  inline: true,
+  // hotOnly: true,
+  // inline: true,
   historyApiFallback: true,
-  quiet: false,
-  noInfo: false,
-  lazy: false,
-  overlay: {
-    warnings: false,
-    errors: true,
-  },
-  proxy: {
-    '/api': {
-      target: 'http://localhost:4000',
-      secure: false,
-      prependPath: false,
-    },
-  },
+  // quiet: false,
+  // overlay: {
+  //   warnings: true,
+  //   errors: true,
+  // },
+
+  proxy,
   compress: true,
-  disableHostCheck: true,
-  // more info here: https://webpack.js.org/configuration/stats/
-  stats: {
-    assets: true,
-    children: false,
-    chunks: true,
-    chunkModules: false,
-    colors: true,
-    entrypoints: false,
-    errors: true,
-    errorDetails: true,
-    modules: false,
-    timings: true,
-    warnings: true,
+  headers: {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Headers': '*',
   },
-  // if you are not happy with all that verbose info in your console,
-  // just uncomment next line:
-  // stats: 'minimal',
-}
+};
 
-let compiler
+let compiler;
+
 try {
-  compiler = webpack(config)
+  compiler = webpack(developmentConfig);
 } catch (err) {
-  console.log(chalk.red('Failed to compile.'))
-  console.log()
-  console.log(err.message || err)
-  console.log()
-  process.exit(1)
+  console.log('Failed to compile.');
+  console.log();
+  console.log(err.message || err);
+  console.log();
+  console.log('compiler:', compiler)
+  process.exit(1);
 }
 
-const devServer = new WebpackDevServer(compiler, devServerConfig)
+const devServer = new WebpackDevServer(compiler, devServerConfig);
 
-devServer.listen(PORT, HOST, err => {
+devServer.listen(PORT, HOST, (err) => {
   if (err) {
-    console.error(err)
-    return
-  }
-  console.log(`Starting webpack-dev-server on http://localhost:${PORT}`)
-  openBrowser(`http://localhost:${PORT}`)
-})
+    console.error(err);
 
-const quitSignals = ['SIGINT', 'SIGTERM']
-quitSignals.forEach(sig => {
+    return;
+  }
+  console.log();
+  console.log(`Starting webpack-dev-server on http://${HOST}:${PORT}`);
+  console.log('API proxy:');
+  devServerConfig.proxy.forEach((devProxy) => {
+    console.log(`  ${devProxy.context} => ${devProxy.target}`);
+  });
+  console.log();
+  console.log();
+
+  openBrowser(`http://localhost:${PORT}`);
+});
+
+const quitSignals = ['SIGINT', 'SIGTERM'];
+
+quitSignals.forEach((sig) => {
   process.on(sig, () => {
-    devServer.close()
-    process.exit()
-  })
-})
+    devServer.close();
+    process.exit();
+  });
+});

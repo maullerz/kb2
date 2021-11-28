@@ -110,6 +110,8 @@ const config = {
     'no-unreachable': 'warn',
     'no-unused-vars': 'warn',
     'no-undef': 'warn',
+
+    'react/jsx-no-bind': 'off',
   },
 }
 

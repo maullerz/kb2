@@ -18,25 +18,21 @@ const mode = 'development'
 module.exports = {
   mode,
 
-  target: 'web',
-
   // https://webpack.js.org/configuration/devtool/#development
   // devtool: 'eval-cheap-source-map', // fast, transformed code (lines only)
   devtool: 'inline-source-map', // slow, original source
 
-  // entry: path.resolve(clientDir, 'index.js'),
   entry: {
     main: path.resolve(clientDir, 'index.js'),
   },
 
+  context: clientDir,
+
   output: {
+    pathinfo: true,
     path: outputDir,
-    pathinfo: false,
     publicPath: '/',
-    filename: '[name].js',
-    // https://github.com/webpack/webpack/issues/11660
-    // chunkLoading: false,
-    wasmLoading: false,
+    filename: '[name].[hash].js',
   },
 
   resolve: {
@@ -49,44 +45,16 @@ module.exports = {
 
   module: getModuleRules(mode),
 
-  context: rootDirectory,
-
-  // optimization: {
-  //   minimize: false,
-  //   emitOnErrors: true,
-  //   moduleIds: 'deterministic',
-  //   runtimeChunk: 'single',
-  //   splitChunks: {
-  //     cacheGroups: {
-  //       // uilib: {
-  //       //   test: /[\\/]node_modules[\\/](\@material-ui|date-fns|\@date-io)[\\/]/,
-  //       //   name: 'mui',
-  //       //   chunks: 'all',
-  //       // },
-  //       // vendor: {
-  //       //   test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-  //       //   name: 'react',
-  //       //   chunks: 'all',
-  //       // },
-  //       commons: {
-  //         test: /[\\/]node_modules[\\/]/,
-  //         name: 'vendors',
-  //         chunks: 'all',
-  //       },
-  //     },
-  //   },
-  // },
-
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new ReactRefreshWebpackPlugin(),
-    // new webpack.NormalModuleReplacementPlugin(
-    //   /popper.js/,
-    //   path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
-    // ),
+    new webpack.NormalModuleReplacementPlugin(
+      /popper.js/,
+      path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
+    ),
     new HtmlWebpackPlugin({
       inject: true,
-      template: path.resolve(rootDirectory, 'public/index-template.html'),
+      template: path.resolve(rootDirectory, 'public/index-dev.html'),
       filename: 'index.html',
       minify: false,
     }),
@@ -100,9 +68,9 @@ module.exports = {
   ],
 
   // https://webpack.js.org/configuration/stats/
-  stats: {
-    all: false, // for faster build and rebuild times
-  }
+  // stats: {
+  //   all: false, // for faster build and rebuild times
+  // }
   // stats: 'errors-only',
   // stats: {
   //   preset: 'verbose',

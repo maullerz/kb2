@@ -6,11 +6,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node config/webpackDevServer.js",
-    "build": "`npm bin`/webpack --config ./config/webpack.prod.config.js",
-    "build:stats:old": "webpack --config config/webpack.prod.config.js --profile --json > stats.json",
-    "build:stats": "webpack --config config/webpack.prod.config.js --stats=detailed --json > ./stats.json",
-    "analyze": "npm run build:stats && npm run build && mv ./stats.json ./dist && npx webpack-bundle-analyzer ./dist/stats.json",
-    "docker": "docker-compose up --build kb2",
+    "build": "NODE_ENV=production `npm bin`/webpack --config ./config/webpack.prod.config.js",
+    "analyze": "NODE_ENV=production webpack --config config/webpack.prod.config.js --analyze",
     "lint": "eslint -c config/.eslintrc.js --ext js src",
     "lint:fix": "eslint -c config/.eslintrc.js --fix --ext js src"
   },
@@ -68,10 +65,11 @@
     "babel-plugin-import": "1.13.3",
     "babel-plugin-lodash": "3.3.4",
     "babel-plugin-module-resolver": "4.1.0",
-    "babel-plugin-styled-components": "1.12.0",
-    "clean-webpack-plugin": "3.0.0",
-    "copy-webpack-plugin": "6.4.1",
-    "css-loader": "5.2.6",
+    "babel-plugin-styled-components": "2.0.2",
+    "browserslist": "4.18.1",
+    "clean-webpack-plugin": "4.0.0",
+    "copy-webpack-plugin": "10.0.0",
+    "css-loader": "6.5.1",
     "cssnano": "5.0.12",
     "eslint": "7.27.0",
     "eslint-config-airbnb": "18.2.1",
@@ -82,20 +80,23 @@
     "eslint-plugin-react": "7.27.1",
     "eslint-plugin-react-hooks": "4.3.0",
     "file-loader": "6.2.0",
-    "html-webpack-plugin": "4.5.2",
-    "mini-css-extract-plugin": "1.6.0",
+    "html-webpack-plugin": "5.5.0",
+    "immer": "9.0.7",
+    "mini-css-extract-plugin": "2.4.5",
     "postcss": "8.4.4",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-import": "14.0.2",
-    "postcss-loader": "4.2.0",
+    "postcss-loader": "6.2.1",
     "react-dev-utils": "11.0.4",
     "react-refresh": "0.11.0",
-    "style-loader": "2.0.0",
+    "style-loader": "3.3.1",
+    "terser-webpack-plugin": "5.2.5",
     "url-loader": "4.1.1",
-    "webpack": "4.46.0",
-    "webpack-cli": "3.3.12",
-    "webpack-dev-server": "3.11.2",
-    "webpack-manifest-plugin": "3.1.1"
+    "webpack": "5.64.4",
+    "webpack-bundle-analyzer": "4.5.0",
+    "webpack-cli": "4.9.1",
+    "webpack-dev-server": "4.6.0",
+    "webpack-manifest-plugin": "4.0.2"
   },
   "repository": {
     "type": "git",
@@ -111,9 +112,8 @@
     "url": "https://github.com/maullerz/kb2/issues"
   },
   "browserslist": [
-    "last 1 version",
-    "> 1%",
-    "not dead"
+    "defaults",
+    "not IE 11"
   ],
   "homepage": "https://github.com/maullerz/kb2#readme"
 }

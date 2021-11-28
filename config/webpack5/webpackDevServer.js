@@ -6,7 +6,7 @@ const WebpackDevServer = require('webpack-dev-server');
 const openBrowser = require('react-dev-utils/openBrowser');
 
 const appDirectory = fs.realpathSync(process.cwd());
-const contentBase = path.resolve(appDirectory, 'public');
+// const contentBase = path.resolve(appDirectory, 'public');
 
 process.env.NODE_ENV = 'development'
 const PORT = process.env.PORT || 4001;
@@ -28,18 +28,18 @@ const proxy = {
 
 const developmentConfig = require('./webpack.dev.config.js');
 
+// { allowedHosts?, bonjour?, client?, compress?, devMiddleware?, headers?, historyApiFallback?, host?, hot?, http2?, https?, ipc?, liveReload?, magicHtml?, onAfterSetupMiddleware?, onBeforeSetupMiddleware?, onListening?, open?, port?, proxy?, server?, setupExitSignals?, static?, watchFiles?, webSocketServer? }
+
 // more options here: https://webpack.js.org/configuration/dev-server/
 const devServerConfig = {
-  contentBase,
-  publicPath: developmentConfig.output.publicPath,
+  // contentBase,
+  // publicPath: developmentConfig.output.publicPath,
   host: '0.0.0.0',
   hot: true,
-  hotOnly: true,
-  inline: true,
+  // hotOnly: true,
+  // inline: true,
   historyApiFallback: true,
-  quiet: false,
-  noInfo: false,
-  lazy: false,
+  // quiet: false,
   // overlay: {
   //   warnings: true,
   //   errors: true,
@@ -47,28 +47,10 @@ const devServerConfig = {
 
   proxy,
   compress: true,
-  disableHostCheck: true,
   headers: {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Headers': '*',
   },
-  // more info here: https://webpack.js.org/configuration/stats/
-  stats: {
-    assets: true,
-    children: false,
-    chunks: true,
-    chunkModules: false,
-    colors: true,
-    entrypoints: false,
-    errors: true,
-    errorDetails: true,
-    modules: false,
-    timings: true,
-    warnings: true,
-  },
-  // if you are not happy with all that verbose info in your console,
-  // just uncomment next line:
-  // stats: 'minimal',
 };
 
 let compiler;
