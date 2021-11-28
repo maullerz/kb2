@@ -13529,17 +13529,32 @@
     "defaultValue": 0,
     "description": "A attribute meant to over write the chance of loot dropping from a ship, so a setting of 0 will lead to no loot dropping from the player ship.",
     "displayNameID": {
-      "en": "Drop Chance Overwrite"
+      "de": "Beutechance überschreiben",
+      "en": "Drop Chance Overwrite",
+      "fr": "Écraser les chances de récupération",
+      "ja": "ドロップ率の上書き",
+      "ko": "Drop Chance Overwrite",
+      "ru": "Изменение шанса выпадения добычи"
     },
     "highIsGood": true,
     "name": "dropChanceOverwrite",
     "published": false,
     "stackable": true,
     "tooltipDescriptionID": {
-      "en": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped"
+      "de": "Chance auf Beute von Spielerschiff überschreiben, Wert 0 = keine Beute",
+      "en": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped",
+      "fr": "Écrasez les chances de récupération de butin sur le vaisseau d'un autre joueur. Une valeur égale à 0 signifie qu'aucun butin n'est récupérable",
+      "ja": "プレイヤー艦のドロップ率を上書き。値が0の場合、戦利品のドロップなし",
+      "ko": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped",
+      "ru": "Изменяет шанс выпадения добычи из корабля игрока. 0 = добыча не выпадает"
     },
     "tooltipTitleID": {
-      "en": "Drop Chance Overwrite"
+      "de": "Beutechance überschreiben",
+      "en": "Drop Chance Overwrite",
+      "fr": "Écraser les chances de récupération",
+      "ja": "ドロップ率の上書き",
+      "ko": "Drop Chance Overwrite",
+      "ru": "Изменение шанса выпадения добычи"
     }
   }
 }

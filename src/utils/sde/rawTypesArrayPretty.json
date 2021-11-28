@@ -133937,37 +133937,37 @@
   [
     56648,
     1568,
-    "Shining Flame Crusader"
+    "Tetrimon Crusader"
   ],
   [
     56649,
     1568,
-    "Shining Flame Deacon"
+    "Tetrimon Deacon"
   ],
   [
     56650,
     1568,
-    "Shining Flame Crucifier"
+    "Tetrimon Crucifier"
   ],
   [
     56651,
     1665,
-    "Shining Flame Augoror"
+    "Tetrimon Augoror"
   ],
   [
     56652,
     1665,
-    "Shining Flame Omen"
+    "Tetrimon Omen"
   ],
   [
     56653,
     1665,
-    "Shining Flame Curse"
+    "Tetrimon Curse"
   ],
   [
     56654,
     1666,
-    "Shining Flame Oracle"
+    "Tetrimon Oracle"
   ],
   [
     56659,
@@ -134017,17 +134017,17 @@
   [
     56674,
     1667,
-    "Shining Flame Commander"
+    "Tetrimon Commander"
   ],
   [
     56675,
     1667,
-    "Shining Flame Commodore"
+    "Tetrimon Commodore"
   ],
   [
     56676,
     1667,
-    "Shining Flame Admiral"
+    "Tetrimon Admiral"
   ],
   [
     56677,
@@ -134102,12 +134102,12 @@
   [
     56691,
     474,
-    "Crimson Gauntlet Shortcut Keypass"
+    "Expired Crimson Gauntlet Shortcut Keypass"
   ],
   [
     56692,
     474,
-    "Shining Flame Base Shortcut Keypass"
+    "Expired Shining Flame Base Shortcut Keypass"
   ],
   [
     56693,
@@ -134322,7 +134322,7 @@
   [
     56747,
     494,
-    "Decloaked Shining Flame Transmission Relay"
+    "Decloaked Tetrimon Transmission Relay"
   ],
   [
     56748,
@@ -138042,7 +138042,7 @@
   [
     58821,
     1091,
-    "58821_Female_Feet_ShoesEngF01_Types_ShoesEngF01_redblack.png"
+    "Women's 'Sanguine Harvest' Shoes"
   ],
   [
     58825,
@@ -138067,7 +138067,7 @@
   [
     58829,
     1091,
-    "58829_Male_Feet_ShoesEngM01_Types_ShoesEngM01_redblack.png"
+    "Men's 'Sanguine Harvest' Shoes"
   ],
   [
     58830,
@@ -140062,12 +140062,12 @@
   [
     60079,
     4050,
-    "Event 38 Proving Filament"
+    "AT XVII 2v2 Cruisers Proving Filament"
   ],
   [
     60080,
     4050,
-    "Event 39 Proving Filament"
+    "AT XVII 1v1 Tactical Destroyers Proving Filament"
   ],
   [
     60089,
@@ -140417,7 +140417,7 @@
   [
     60244,
     4137,
-    "Concord Rogue Analysis Beacon"
+    "CONCORD Rogue Analysis Beacon"
   ],
   [
     60250,
@@ -140442,7 +140442,7 @@
   [
     60255,
     4037,
-    "Infested Abaddon"
+    "Infesting Interruptor Omicron"
   ],
   [
     60269,
@@ -140472,17 +140472,17 @@
   [
     60316,
     4037,
-    "Infested Raven"
+    "Infesting Destructor Theta"
   ],
   [
     60317,
     4037,
-    "Infested Oracle"
+    "Infesting Obstructor Nu"
   ],
   [
     60318,
     4037,
-    "Infested Prophecy"
+    "Infesting Obstructor Pi"
   ],
   [
     60319,
@@ -140542,17 +140542,17 @@
   [
     60331,
     4037,
-    "Infested Eagle"
+    "Infesting Disruptor Tau"
   ],
   [
     60332,
     4037,
-    "Infested Jaguar"
+    "Infesting Vector Mu"
   ],
   [
     60333,
     4037,
-    "Giant Squid"
+    "Infesting Mutagenitor Zero"
   ],
   [
     60335,
@@ -140582,7 +140582,7 @@
   [
     60382,
     4037,
-    "Infested Brutix"
+    "Infesting Obstructor Xi"
   ],
   [
     60389,
@@ -140757,22 +140757,22 @@
   [
     60432,
     1090,
-    "60432_Male_bottomOuter_PantsPrtm01_Types_PantsPrtm01_redblack.png"
+    "Men's 'Sanguine Harvest' Pants"
   ],
   [
     60434,
     1090,
-    "60434_Female_bottomOuter_PantsPrtF01_Types_PantsPrtF01_redblack.png"
+    "Women's 'Sanguine Harvest' Pants"
   ],
   [
     60435,
     1089,
-    "60435_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CH.png"
+    "Men's 'Sanguine Harvest' T-Shirt"
   ],
   [
     60436,
     1089,
-    "60436_Female_TopMiddle_TshirtF01_Types_TshirtF01_BR_CH.png"
+    "Women's 'Sanguine Harvest' T-Shirt"
   ],
   [
     60437,
@@ -140832,17 +140832,17 @@
   [
     60448,
     303,
-    "Basic Rogue Swarm Cerebral Accelerator"
+    "Expired Basic Rogue Swarm Cerebral Accelerator"
   ],
   [
     60449,
     303,
-    "Potent Rogue Swarm Cerebral Accelerator"
+    "Expired Potent Rogue Swarm Cerebral Accelerator"
   ],
   [
     60450,
     303,
-    "Extended Rogue Swarm Cerebral Accelerator"
+    "Expired Extended Rogue Swarm Cerebral Accelerator"
   ],
   [
     60454,
@@ -140872,127 +140872,127 @@
   [
     60459,
     4142,
-    "Rogue Drone Survey Data"
+    "Rogue Drone Infestation Data"
   ],
   [
     60460,
     1964,
-    "Light Drone Speed Mutaplasmid"
+    "Exigent Light Drone Navigation Mutaplasmid"
   ],
   [
     60461,
     1964,
-    "Light Drone Damage Mutaplasmid"
+    "Exigent Light Drone Firepower Mutaplasmid"
   ],
   [
     60462,
     1964,
-    "Light Drone Tank Mutaplasmid"
+    "Exigent Light Drone Durability Mutaplasmid"
   ],
   [
     60463,
     1964,
-    "Heavy Drone Speed Mutaplasmid"
+    "Exigent Heavy Drone Navigation Mutaplasmid"
   ],
   [
     60464,
     1964,
-    "Heavy Drone Damage Mutaplasmid"
+    "Exigent Heavy Drone Firepower Mutaplasmid"
   ],
   [
     60465,
     1964,
-    "Heavy Drone Tank Mutaplasmid"
+    "Exigent Heavy Drone Durability Mutaplasmid"
   ],
   [
     60466,
     1964,
-    "Heavy Drone Range Mutaplasmid"
+    "Exigent Heavy Drone Projection Mutaplasmid"
   ],
   [
     60467,
     1964,
-    "Sentry Drone Speed Mutaplasmid"
+    "Exigent Sentry Drone Precision Mutaplasmid"
   ],
   [
     60468,
     1964,
-    "Sentry Drone Damage Mutaplasmid"
+    "Exigent Sentry Drone Firepower Mutaplasmid"
   ],
   [
     60469,
     1964,
-    "Sentry Drone Tank Mutaplasmid"
+    "Exigent Sentry Drone Durability Mutaplasmid"
   ],
   [
     60470,
     1964,
-    "Sentry Drone Range Mutaplasmid"
+    "Exigent Sentry Drone Projection Mutaplasmid"
   ],
   [
     60471,
     1964,
-    "Light Drone Range Mutaplasmid"
+    "Exigent Light Drone Projection Mutaplasmid"
   ],
   [
     60472,
     1964,
-    "Medium Drone Speed Mutaplasmid"
+    "Exigent Medium Drone Navigation Mutaplasmid"
   ],
   [
     60473,
     1964,
-    "Medium Drone Damage Mutaplasmid"
+    "Exigent Medium Drone Firepower Mutaplasmid"
   ],
   [
     60474,
     1964,
-    "Medium Drone Tank Mutaplasmid"
+    "Exigent Medium Drone Durability Mutaplasmid"
   ],
   [
     60475,
     1964,
-    "Medium Drone Range Mutaplasmid"
+    "Exigent Medium Drone Projection Mutaplasmid"
   ],
   [
     60476,
     1964,
-    "Drone Damage Amplifier Mutaplasmid"
+    "Radical Drone Damage Amplifier Mutaplasmid"
   ],
   [
     60477,
     1964,
-    "Fighter Support Unit Mutaplasmid"
+    "Radical Fighter Support Unit Mutaplasmid"
   ],
   [
     60478,
     100,
-    "Light Modified Rogue Drone"
+    "Light Mutated Drone"
   ],
   [
     60479,
     100,
-    "Medium Modified Rogue Drone"
+    "Medium Mutated Drone"
   ],
   [
     60480,
     100,
-    "Heavy Modified Rogue Drone"
+    "Heavy Mutated Drone"
   ],
   [
     60481,
     100,
-    "Sentry Modified Rogue Drone"
+    "Sentry Mutated Drone"
   ],
   [
     60482,
     645,
-    "Modified Drone Damage Amplifier"
+    "Mutated Drone Damage Amplifier"
   ],
   [
     60483,
     407,
-    "Modified Fighter Support Unit"
+    "Mutated Fighter Support Unit"
   ],
   [
     60484,
@@ -141047,12 +141047,12 @@
   [
     60505,
     4037,
-    "Infested Ogre"
+    "Infesting Corrupted Drone"
   ],
   [
     60506,
     4037,
-    "Infested Dominix"
+    "Infesting Corruptor Sigma"
   ],
   [
     60508,
@@ -141062,22 +141062,22 @@
   [
     60514,
     4141,
-    "Concord Rogue Analysis Beacon Blueprint"
+    "CONCORD Rogue Analysis Beacon Blueprint"
   ],
   [
     60515,
     273,
-    "Rogue Drone Specialization"
+    "Mutated Drone Specialization"
   ],
   [
     60517,
     4037,
-    "Infested Thanatos"
+    "Infesting Subvertor Gamma"
   ],
   [
     60518,
     4037,
-    "Infested Firbolg"
+    "Infesting Subverted Fighter"
   ],
   [
     60553,
@@ -141102,7 +141102,7 @@
   [
     60580,
     4037,
-    "Infested Typhoon"
+    "Infesting Destructor Zeta"
   ],
   [
     60581,
@@ -141183,5 +141183,265 @@
     60597,
     1971,
     "Abyss Demo Effect Beacon (Do not translate)"
+  ],
+  [
+    60598,
+    4050,
+    "AT XVII Frigate FFA Proving Filament"
+  ],
+  [
+    60599,
+    4050,
+    "AT XVII 1v1 Battlecruisers Proving Filament"
+  ],
+  [
+    60600,
+    4050,
+    "Event 42 Proving Filament"
+  ],
+  [
+    60601,
+    4050,
+    "Event 43 Proving Filament"
+  ],
+  [
+    60602,
+    4050,
+    "Event 44 Proving Filament"
+  ],
+  [
+    60603,
+    4050,
+    "Event 45 Proving Filament"
+  ],
+  [
+    60604,
+    4050,
+    "Event 46 Proving Filament"
+  ],
+  [
+    60605,
+    4050,
+    "Event 47 Proving Filament"
+  ],
+  [
+    60606,
+    4050,
+    "Event 48 Proving Filament"
+  ],
+  [
+    60607,
+    4050,
+    "Event 49 Proving Filament"
+  ],
+  [
+    60609,
+    1975,
+    "uw_sentry01_enviroment_asset"
+  ],
+  [
+    60610,
+    1975,
+    "uw_sentry02_enviroment_asset"
+  ],
+  [
+    60620,
+    1975,
+    "tg_sentry01_enviroment_asset"
+  ],
+  [
+    60621,
+    1975,
+    "tgt01_active_enviroment_asset"
+  ],
+  [
+    60622,
+    1975,
+    "udh02_enviroment_asset"
+  ],
+  [
+    60681,
+    474,
+    "Tetrimon Base Shortcut Keypass"
+  ],
+  [
+    60682,
+    474,
+    "Crimson Gauntlet Shortcut Keypass"
+  ],
+  [
+    60683,
+    303,
+    "Harvest Nosferatu Booster I"
+  ],
+  [
+    60684,
+    303,
+    "Harvest Nosferatu Booster II"
+  ],
+  [
+    60685,
+    303,
+    "Harvest Nosferatu Booster III"
+  ],
+  [
+    60686,
+    303,
+    "Tetrimon Capacitor Booster II"
+  ],
+  [
+    60687,
+    303,
+    "Tetrimon Resistance Booster III"
+  ],
+  [
+    60688,
+    303,
+    "Tetrimon Precision Booster I"
+  ],
+  [
+    60689,
+    303,
+    "Tetrimon Precision Booster II"
+  ],
+  [
+    60690,
+    303,
+    "Tetrimon Precision Booster III"
+  ],
+  [
+    60691,
+    303,
+    "Tetrimon Anti-Drain Booster I"
+  ],
+  [
+    60692,
+    303,
+    "Tetrimon Anti-Drain Booster II"
+  ],
+  [
+    60693,
+    303,
+    "Tetrimon Anti-Drain Booster III"
+  ],
+  [
+    60694,
+    303,
+    "Harvest Webifier Booster I"
+  ],
+  [
+    60695,
+    303,
+    "Harvest Webifier Booster II"
+  ],
+  [
+    60696,
+    303,
+    "Harvest Webifier Booster III"
+  ],
+  [
+    60697,
+    303,
+    "Harvest Damage Booster I"
+  ],
+  [
+    60698,
+    303,
+    "Harvest Damage Booster II"
+  ],
+  [
+    60699,
+    303,
+    "Harvest Damage Booster III"
+  ],
+  [
+    60700,
+    303,
+    "Harvest Anti-Disruptor Booster I"
+  ],
+  [
+    60701,
+    303,
+    "Harvest Anti-Disruptor Booster II"
+  ],
+  [
+    60702,
+    303,
+    "Harvest Anti-Disruptor Booster III"
+  ],
+  [
+    60703,
+    303,
+    "Tetrimon Capacitor Booster I"
+  ],
+  [
+    60704,
+    303,
+    "Tetrimon Capacitor Booster III"
+  ],
+  [
+    60705,
+    303,
+    "Tetrimon Resistance Booster I"
+  ],
+  [
+    60706,
+    303,
+    "Tetrimon Resistance Booster II"
+  ],
+  [
+    60707,
+    1664,
+    "Tetrimon Heretic"
+  ],
+  [
+    60708,
+    1664,
+    "Harvest Cleric"
+  ],
+  [
+    60709,
+    1568,
+    "Harvest Exsanguinator"
+  ],
+  [
+    60710,
+    306,
+    "Crimson Harvest Network Node"
+  ],
+  [
+    60711,
+    306,
+    "Crimson Harvest Network Hub"
+  ],
+  [
+    60712,
+    306,
+    "Tetrimon Network Node"
+  ],
+  [
+    60713,
+    306,
+    "Tetrimon Network Hub"
+  ],
+  [
+    60714,
+    303,
+    "Basic 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    60715,
+    303,
+    "Potent 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    60716,
+    303,
+    "Extended 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    60717,
+    1971,
+    "Proving CH2021 Bonus (Do not translate)"
   ]
 ]

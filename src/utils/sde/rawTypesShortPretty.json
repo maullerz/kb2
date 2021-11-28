@@ -107149,31 +107149,31 @@
   },
   "56648": {
     "groupID": 1568,
-    "name": "Shining Flame Crusader"
+    "name": "Tetrimon Crusader"
   },
   "56649": {
     "groupID": 1568,
-    "name": "Shining Flame Deacon"
+    "name": "Tetrimon Deacon"
   },
   "56650": {
     "groupID": 1568,
-    "name": "Shining Flame Crucifier"
+    "name": "Tetrimon Crucifier"
   },
   "56651": {
     "groupID": 1665,
-    "name": "Shining Flame Augoror"
+    "name": "Tetrimon Augoror"
   },
   "56652": {
     "groupID": 1665,
-    "name": "Shining Flame Omen"
+    "name": "Tetrimon Omen"
   },
   "56653": {
     "groupID": 1665,
-    "name": "Shining Flame Curse"
+    "name": "Tetrimon Curse"
   },
   "56654": {
     "groupID": 1666,
-    "name": "Shining Flame Oracle"
+    "name": "Tetrimon Oracle"
   },
   "56659": {
     "groupID": 303,
@@ -107213,15 +107213,15 @@
   },
   "56674": {
     "groupID": 1667,
-    "name": "Shining Flame Commander"
+    "name": "Tetrimon Commander"
   },
   "56675": {
     "groupID": 1667,
-    "name": "Shining Flame Commodore"
+    "name": "Tetrimon Commodore"
   },
   "56676": {
     "groupID": 1667,
-    "name": "Shining Flame Admiral"
+    "name": "Tetrimon Admiral"
   },
   "56677": {
     "groupID": 1975,
@@ -107281,11 +107281,11 @@
   },
   "56691": {
     "groupID": 474,
-    "name": "Crimson Gauntlet Shortcut Keypass"
+    "name": "Expired Crimson Gauntlet Shortcut Keypass"
   },
   "56692": {
     "groupID": 474,
-    "name": "Shining Flame Base Shortcut Keypass"
+    "name": "Expired Shining Flame Base Shortcut Keypass"
   },
   "56693": {
     "groupID": 1991,
@@ -107457,7 +107457,7 @@
   },
   "56747": {
     "groupID": 494,
-    "name": "Decloaked Shining Flame Transmission Relay"
+    "name": "Decloaked Tetrimon Transmission Relay"
   },
   "56748": {
     "groupID": 4088,
@@ -110427,7 +110427,7 @@
   },
   "58821": {
     "groupID": 1091,
-    "name": "58821_Female_Feet_ShoesEngF01_Types_ShoesEngF01_redblack.png"
+    "name": "Women's 'Sanguine Harvest' Shoes"
   },
   "58825": {
     "groupID": 1091,
@@ -110447,7 +110447,7 @@
   },
   "58829": {
     "groupID": 1091,
-    "name": "58829_Male_Feet_ShoesEngM01_Types_ShoesEngM01_redblack.png"
+    "name": "Men's 'Sanguine Harvest' Shoes"
   },
   "58830": {
     "groupID": 1975,
@@ -112043,11 +112043,11 @@
   },
   "60079": {
     "groupID": 4050,
-    "name": "Event 38 Proving Filament"
+    "name": "AT XVII 2v2 Cruisers Proving Filament"
   },
   "60080": {
     "groupID": 4050,
-    "name": "Event 39 Proving Filament"
+    "name": "AT XVII 1v1 Tactical Destroyers Proving Filament"
   },
   "60089": {
     "groupID": 4098,
@@ -112327,7 +112327,7 @@
   },
   "60244": {
     "groupID": 4137,
-    "name": "Concord Rogue Analysis Beacon"
+    "name": "CONCORD Rogue Analysis Beacon"
   },
   "60250": {
     "groupID": 303,
@@ -112347,7 +112347,7 @@
   },
   "60255": {
     "groupID": 4037,
-    "name": "Infested Abaddon"
+    "name": "Infesting Interruptor Omicron"
   },
   "60269": {
     "groupID": 303,
@@ -112371,15 +112371,15 @@
   },
   "60316": {
     "groupID": 4037,
-    "name": "Infested Raven"
+    "name": "Infesting Destructor Theta"
   },
   "60317": {
     "groupID": 4037,
-    "name": "Infested Oracle"
+    "name": "Infesting Obstructor Nu"
   },
   "60318": {
     "groupID": 4037,
-    "name": "Infested Prophecy"
+    "name": "Infesting Obstructor Pi"
   },
   "60319": {
     "groupID": 4100,
@@ -112427,15 +112427,15 @@
   },
   "60331": {
     "groupID": 4037,
-    "name": "Infested Eagle"
+    "name": "Infesting Disruptor Tau"
   },
   "60332": {
     "groupID": 4037,
-    "name": "Infested Jaguar"
+    "name": "Infesting Vector Mu"
   },
   "60333": {
     "groupID": 4037,
-    "name": "Giant Squid"
+    "name": "Infesting Mutagenitor Zero"
   },
   "60335": {
     "groupID": 1975,
@@ -112459,7 +112459,7 @@
   },
   "60382": {
     "groupID": 4037,
-    "name": "Infested Brutix"
+    "name": "Infesting Obstructor Xi"
   },
   "60389": {
     "groupID": 306,
@@ -112599,19 +112599,19 @@
   },
   "60432": {
     "groupID": 1090,
-    "name": "60432_Male_bottomOuter_PantsPrtm01_Types_PantsPrtm01_redblack.png"
+    "name": "Men's 'Sanguine Harvest' Pants"
   },
   "60434": {
     "groupID": 1090,
-    "name": "60434_Female_bottomOuter_PantsPrtF01_Types_PantsPrtF01_redblack.png"
+    "name": "Women's 'Sanguine Harvest' Pants"
   },
   "60435": {
     "groupID": 1089,
-    "name": "60435_Male_topMiddle_TshirtM01_Types_TshirtM01_BR_CH.png"
+    "name": "Men's 'Sanguine Harvest' T-Shirt"
   },
   "60436": {
     "groupID": 1089,
-    "name": "60436_Female_TopMiddle_TshirtF01_Types_TshirtF01_BR_CH.png"
+    "name": "Women's 'Sanguine Harvest' T-Shirt"
   },
   "60437": {
     "groupID": 186,
@@ -112659,15 +112659,15 @@
   },
   "60448": {
     "groupID": 303,
-    "name": "Basic Rogue Swarm Cerebral Accelerator"
+    "name": "Expired Basic Rogue Swarm Cerebral Accelerator"
   },
   "60449": {
     "groupID": 303,
-    "name": "Potent Rogue Swarm Cerebral Accelerator"
+    "name": "Expired Potent Rogue Swarm Cerebral Accelerator"
   },
   "60450": {
     "groupID": 303,
-    "name": "Extended Rogue Swarm Cerebral Accelerator"
+    "name": "Expired Extended Rogue Swarm Cerebral Accelerator"
   },
   "60454": {
     "groupID": 314,
@@ -112691,103 +112691,103 @@
   },
   "60459": {
     "groupID": 4142,
-    "name": "Rogue Drone Survey Data"
+    "name": "Rogue Drone Infestation Data"
   },
   "60460": {
     "groupID": 1964,
-    "name": "Light Drone Speed Mutaplasmid"
+    "name": "Exigent Light Drone Navigation Mutaplasmid"
   },
   "60461": {
     "groupID": 1964,
-    "name": "Light Drone Damage Mutaplasmid"
+    "name": "Exigent Light Drone Firepower Mutaplasmid"
   },
   "60462": {
     "groupID": 1964,
-    "name": "Light Drone Tank Mutaplasmid"
+    "name": "Exigent Light Drone Durability Mutaplasmid"
   },
   "60463": {
     "groupID": 1964,
-    "name": "Heavy Drone Speed Mutaplasmid"
+    "name": "Exigent Heavy Drone Navigation Mutaplasmid"
   },
   "60464": {
     "groupID": 1964,
-    "name": "Heavy Drone Damage Mutaplasmid"
+    "name": "Exigent Heavy Drone Firepower Mutaplasmid"
   },
   "60465": {
     "groupID": 1964,
-    "name": "Heavy Drone Tank Mutaplasmid"
+    "name": "Exigent Heavy Drone Durability Mutaplasmid"
   },
   "60466": {
     "groupID": 1964,
-    "name": "Heavy Drone Range Mutaplasmid"
+    "name": "Exigent Heavy Drone Projection Mutaplasmid"
   },
   "60467": {
     "groupID": 1964,
-    "name": "Sentry Drone Speed Mutaplasmid"
+    "name": "Exigent Sentry Drone Precision Mutaplasmid"
   },
   "60468": {
     "groupID": 1964,
-    "name": "Sentry Drone Damage Mutaplasmid"
+    "name": "Exigent Sentry Drone Firepower Mutaplasmid"
   },
   "60469": {
     "groupID": 1964,
-    "name": "Sentry Drone Tank Mutaplasmid"
+    "name": "Exigent Sentry Drone Durability Mutaplasmid"
   },
   "60470": {
     "groupID": 1964,
-    "name": "Sentry Drone Range Mutaplasmid"
+    "name": "Exigent Sentry Drone Projection Mutaplasmid"
   },
   "60471": {
     "groupID": 1964,
-    "name": "Light Drone Range Mutaplasmid"
+    "name": "Exigent Light Drone Projection Mutaplasmid"
   },
   "60472": {
     "groupID": 1964,
-    "name": "Medium Drone Speed Mutaplasmid"
+    "name": "Exigent Medium Drone Navigation Mutaplasmid"
   },
   "60473": {
     "groupID": 1964,
-    "name": "Medium Drone Damage Mutaplasmid"
+    "name": "Exigent Medium Drone Firepower Mutaplasmid"
   },
   "60474": {
     "groupID": 1964,
-    "name": "Medium Drone Tank Mutaplasmid"
+    "name": "Exigent Medium Drone Durability Mutaplasmid"
   },
   "60475": {
     "groupID": 1964,
-    "name": "Medium Drone Range Mutaplasmid"
+    "name": "Exigent Medium Drone Projection Mutaplasmid"
   },
   "60476": {
     "groupID": 1964,
-    "name": "Drone Damage Amplifier Mutaplasmid"
+    "name": "Radical Drone Damage Amplifier Mutaplasmid"
   },
   "60477": {
     "groupID": 1964,
-    "name": "Fighter Support Unit Mutaplasmid"
+    "name": "Radical Fighter Support Unit Mutaplasmid"
   },
   "60478": {
     "groupID": 100,
-    "name": "Light Modified Rogue Drone"
+    "name": "Light Mutated Drone"
   },
   "60479": {
     "groupID": 100,
-    "name": "Medium Modified Rogue Drone"
+    "name": "Medium Mutated Drone"
   },
   "60480": {
     "groupID": 100,
-    "name": "Heavy Modified Rogue Drone"
+    "name": "Heavy Mutated Drone"
   },
   "60481": {
     "groupID": 100,
-    "name": "Sentry Modified Rogue Drone"
+    "name": "Sentry Mutated Drone"
   },
   "60482": {
     "groupID": 645,
-    "name": "Modified Drone Damage Amplifier"
+    "name": "Mutated Drone Damage Amplifier"
   },
   "60483": {
     "groupID": 407,
-    "name": "Modified Fighter Support Unit"
+    "name": "Mutated Fighter Support Unit"
   },
   "60484": {
     "groupID": 1975,
@@ -112831,11 +112831,11 @@
   },
   "60505": {
     "groupID": 4037,
-    "name": "Infested Ogre"
+    "name": "Infesting Corrupted Drone"
   },
   "60506": {
     "groupID": 4037,
-    "name": "Infested Dominix"
+    "name": "Infesting Corruptor Sigma"
   },
   "60508": {
     "groupID": 319,
@@ -112843,19 +112843,19 @@
   },
   "60514": {
     "groupID": 4141,
-    "name": "Concord Rogue Analysis Beacon Blueprint"
+    "name": "CONCORD Rogue Analysis Beacon Blueprint"
   },
   "60515": {
     "groupID": 273,
-    "name": "Rogue Drone Specialization"
+    "name": "Mutated Drone Specialization"
   },
   "60517": {
     "groupID": 4037,
-    "name": "Infested Thanatos"
+    "name": "Infesting Subvertor Gamma"
   },
   "60518": {
     "groupID": 4037,
-    "name": "Infested Firbolg"
+    "name": "Infesting Subverted Fighter"
   },
   "60553": {
     "groupID": 226,
@@ -112875,7 +112875,7 @@
   },
   "60580": {
     "groupID": 4037,
-    "name": "Infested Typhoon"
+    "name": "Infesting Destructor Zeta"
   },
   "60581": {
     "groupID": 226,
@@ -112940,5 +112940,213 @@
   "60597": {
     "groupID": 1971,
     "name": "Abyss Demo Effect Beacon (Do not translate)"
+  },
+  "60598": {
+    "groupID": 4050,
+    "name": "AT XVII Frigate FFA Proving Filament"
+  },
+  "60599": {
+    "groupID": 4050,
+    "name": "AT XVII 1v1 Battlecruisers Proving Filament"
+  },
+  "60600": {
+    "groupID": 4050,
+    "name": "Event 42 Proving Filament"
+  },
+  "60601": {
+    "groupID": 4050,
+    "name": "Event 43 Proving Filament"
+  },
+  "60602": {
+    "groupID": 4050,
+    "name": "Event 44 Proving Filament"
+  },
+  "60603": {
+    "groupID": 4050,
+    "name": "Event 45 Proving Filament"
+  },
+  "60604": {
+    "groupID": 4050,
+    "name": "Event 46 Proving Filament"
+  },
+  "60605": {
+    "groupID": 4050,
+    "name": "Event 47 Proving Filament"
+  },
+  "60606": {
+    "groupID": 4050,
+    "name": "Event 48 Proving Filament"
+  },
+  "60607": {
+    "groupID": 4050,
+    "name": "Event 49 Proving Filament"
+  },
+  "60609": {
+    "groupID": 1975,
+    "name": "uw_sentry01_enviroment_asset"
+  },
+  "60610": {
+    "groupID": 1975,
+    "name": "uw_sentry02_enviroment_asset"
+  },
+  "60620": {
+    "groupID": 1975,
+    "name": "tg_sentry01_enviroment_asset"
+  },
+  "60621": {
+    "groupID": 1975,
+    "name": "tgt01_active_enviroment_asset"
+  },
+  "60622": {
+    "groupID": 1975,
+    "name": "udh02_enviroment_asset"
+  },
+  "60681": {
+    "groupID": 474,
+    "name": "Tetrimon Base Shortcut Keypass"
+  },
+  "60682": {
+    "groupID": 474,
+    "name": "Crimson Gauntlet Shortcut Keypass"
+  },
+  "60683": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster I"
+  },
+  "60684": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster II"
+  },
+  "60685": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster III"
+  },
+  "60686": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster II"
+  },
+  "60687": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster III"
+  },
+  "60688": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster I"
+  },
+  "60689": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster II"
+  },
+  "60690": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster III"
+  },
+  "60691": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster I"
+  },
+  "60692": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster II"
+  },
+  "60693": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster III"
+  },
+  "60694": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster I"
+  },
+  "60695": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster II"
+  },
+  "60696": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster III"
+  },
+  "60697": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster I"
+  },
+  "60698": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster II"
+  },
+  "60699": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster III"
+  },
+  "60700": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster I"
+  },
+  "60701": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster II"
+  },
+  "60702": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster III"
+  },
+  "60703": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster I"
+  },
+  "60704": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster III"
+  },
+  "60705": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster I"
+  },
+  "60706": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster II"
+  },
+  "60707": {
+    "groupID": 1664,
+    "name": "Tetrimon Heretic"
+  },
+  "60708": {
+    "groupID": 1664,
+    "name": "Harvest Cleric"
+  },
+  "60709": {
+    "groupID": 1568,
+    "name": "Harvest Exsanguinator"
+  },
+  "60710": {
+    "groupID": 306,
+    "name": "Crimson Harvest Network Node"
+  },
+  "60711": {
+    "groupID": 306,
+    "name": "Crimson Harvest Network Hub"
+  },
+  "60712": {
+    "groupID": 306,
+    "name": "Tetrimon Network Node"
+  },
+  "60713": {
+    "groupID": 306,
+    "name": "Tetrimon Network Hub"
+  },
+  "60714": {
+    "groupID": 303,
+    "name": "Basic 'Radiance' Cerebral Accelerator"
+  },
+  "60715": {
+    "groupID": 303,
+    "name": "Potent 'Radiance' Cerebral Accelerator"
+  },
+  "60716": {
+    "groupID": 303,
+    "name": "Extended 'Radiance' Cerebral Accelerator"
+  },
+  "60717": {
+    "groupID": 1971,
+    "name": "Proving CH2021 Bonus (Do not translate)"
   }
 }
