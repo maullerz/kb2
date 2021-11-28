@@ -3,9 +3,11 @@ import { Provider, useSelector } from 'react-redux'
 import { ConnectedRouter } from 'connected-react-router'
 import { Switch, Route } from 'react-router-dom'
 import { ThemeProvider, StylesProvider } from '@material-ui/core/styles'
-import { MuiPickersUtilsProvider } from '@material-ui/pickers'
+// import { MuiPickersUtilsProvider } from '@material-ui/pickers'
+// import DateFnsUtils from '@date-io/date-fns'
+import LocalizationProvider from '@mui/lab/LocalizationProvider'
+import AdapterDateFns from '@mui/lab/AdapterDateFns'
 import { CssBaseline } from '@material-ui/core'
-import DateFnsUtils from '@date-io/date-fns'
 import ReactTooltip from 'react-tooltip'
 
 import store from 'store'
@@ -43,7 +45,7 @@ const App = () => {
 
   return (
     <ThemeProvider theme={themeSettings}>
-      <MuiPickersUtilsProvider utils={DateFnsUtils}>
+      <LocalizationProvider dateAdapter={AdapterDateFns}>
         <CssBaseline />
 
         <Switch>
@@ -62,7 +64,7 @@ const App = () => {
           // delayShow={500}
         />
         {/* <ToastContainer /> */}
-      </MuiPickersUtilsProvider>
+      </LocalizationProvider>
     </ThemeProvider>
   )
 }

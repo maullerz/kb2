@@ -20,4 +20,7 @@ module.exports = {
   hooks: path.resolve(appDirectory, 'src/utils/hooks'),
   assets: path.resolve(appDirectory, 'src/assets'),
   styles: path.resolve(appDirectory, 'src/assets/styles'),
+
+  // Tell MUI to use Styled Components instead of Emotion
+  '@mui/styled-engine': '@mui/styled-engine-sc',
 }
