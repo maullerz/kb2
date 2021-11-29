@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import numeral from 'numeral'
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
-import ExpandLessIcon from '@material-ui/icons/ExpandLess'
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
+import ExpandLessIcon from '@mui/icons-material/ExpandLess'
 import ReactTooltip from 'react-tooltip'
 
 import { getTypeName, getGroupName } from 'utils/SdeUtils'

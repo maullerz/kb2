@@ -177,10 +177,6 @@ module.exports = {
       fileName: 'assets.json',
       filter: fileDescr => fileDescr.isChunk,
     }),
-    new webpack.NormalModuleReplacementPlugin(
-      /popper.js/,
-      path.resolve(__dirname, '../node_modules/popper.js/dist/esm/popper.js'),
-    ),
     new HtmlWebpackPlugin({
       inject: true,
       template: path.resolve(publicDir, 'index-template.html'),

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { IconButton, FilledInput } from '@material-ui/core'
+import { IconButton, FilledInput } from '@mui/material'
 
 export const Root = styled.div`
   position: relative;

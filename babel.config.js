@@ -4,10 +4,11 @@ module.exports = function getConfig(api) {
   const presets = [
     [
       '@babel/preset-env',
-      {
-        useBuiltIns: 'usage',
-        corejs: 3,
-      }
+      // Cannot find module 'core-js/modules/web.dom-collections.iterator.js'
+      // {
+      //   useBuiltIns: 'usage',
+      //   corejs: 3,
+      // }
     ],
     '@babel/preset-react',
   ]

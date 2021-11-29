@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import SearchIcon from '@material-ui/icons/Search'
-import CloseIcon from '@material-ui/icons/Close'
+import SearchIcon from '@mui/icons-material/Search'
+import CloseIcon from '@mui/icons-material/Close'
 import debounce from 'lodash/debounce'
 import { useLocation } from 'react-router-dom'
 
@@ -95,7 +95,7 @@ const SearchInput = () => {
 
   async function fetchAutocomplete(text) {
     try {
-      const { data: result } = await KillmailService.getAutocomplete(text) || {}
+      const { data: result } = (await KillmailService.getAutocomplete(text)) || {}
       setMatchedResults(result)
     } catch (e) {
       console.error('fetchAutocomplete:', e)

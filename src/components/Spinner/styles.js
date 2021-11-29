@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import Backdrop from '@material-ui/core/Backdrop'
+import Backdrop from '@mui/material/Backdrop'
 
 export const SpinnerWrapper = styled.div`
   margin: 16px;

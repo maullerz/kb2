@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
-import TablePagination from '@material-ui/core/TablePagination'
-// import Pagination from '@material-ui/lab/Pagination'
-// import PaginationItem from '@material-ui/lab/PaginationItem'
+import TablePagination from '@mui/material/TablePagination'
+// import Pagination from '@mui/lab/Pagination'
+// import PaginationItem from '@mui/lab/PaginationItem'
 
 import * as DateUtils from 'utils/DateUtils'
 import * as SdeUtils from 'utils/SdeUtils'
@@ -143,7 +143,7 @@ const Table = props => {
         count={pagination.totalCount}
         page={pagination.page - 1}
         rowsPerPage={PAGE_SIZE}
-        onChangePage={onGoToPage}
+        onPageChange={onGoToPage}
         labelDisplayedRows={renderPaginationInfo}
         // TODO:
         // ActionsComponent={Pagination}

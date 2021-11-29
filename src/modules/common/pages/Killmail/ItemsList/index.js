@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useMediaQuery } from '@react-hook/media-query'
-import ExpandLessIcon from '@material-ui/icons/ExpandLess'
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
+import ExpandLessIcon from '@mui/icons-material/ExpandLess'
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'

@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react'
-import IconButton from '@material-ui/core/IconButton'
-import { Menu as MenuIcon } from '@material-ui/icons'
+import IconButton from '@mui/material/IconButton'
+import { Menu as MenuIcon } from '@mui/icons-material'
 // import { Link } from 'react-router-dom'
 
 import history from 'services/routerHistory'
@@ -49,7 +49,13 @@ const AppMenu = () => {
 
   return (
     <div>
-      <IconButton edge='start' color='inherit' aria-label='app-menu' aria-haspopup='true' onClick={handleClick}>
+      <IconButton
+        edge='start'
+        color='inherit'
+        aria-label='app-menu'
+        aria-haspopup='true'
+        onClick={handleClick}
+        size='large'>
         <MenuIcon />
       </IconButton>
       <StyledMenu
@@ -60,7 +66,6 @@ const AppMenu = () => {
         anchorEl={anchorEl}
         anchorOrigin={menuAnchorOrigin}
         transformOrigin={menuTransformOrigin}
-        getContentAnchorEl={null}
       >
         <StyledMenuItem disabled>
           Filter Presets:

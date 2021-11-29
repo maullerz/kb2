@@ -1,6 +1,6 @@
 import React from 'react'
-// import ArrowDropUpIcon from '@material-ui/icons/ArrowDropUp'
-// import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown'
+// import ArrowDropUpIcon from '@mui/icons-material/ArrowDropUp'
+// import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown'
 
 import ArrowUp from './ArrowUp'
 import ArrowDown from './ArrowDown'

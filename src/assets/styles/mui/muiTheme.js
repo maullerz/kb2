@@ -1,4 +1,4 @@
-import { createMuiTheme } from '@material-ui/core/styles'
+import { createTheme, adaptV4Theme } from '@mui/material/styles'
 
 // TODO: Second "light" theme
 // https://material-ui.com/customization/theming/
@@ -7,11 +7,11 @@ import { createMuiTheme } from '@material-ui/core/styles'
 export const getMuiTheme = theme => {
   const isDark = theme === 'dark'
 
-  return createMuiTheme({
+  return createTheme(adaptV4Theme({
     dark: isDark,
     light: !isDark,
     palette: {
-      // type: theme, // 'dark' / 'light'
+      // mode: theme, // 'dark' / 'light'
       type: 'dark',
 
       // primary: {
@@ -70,5 +70,5 @@ export const getMuiTheme = theme => {
         },
       },
     },
-  })
+  }))
 }
