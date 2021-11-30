@@ -320,7 +320,9 @@ export const getFitSlotKey = flag => {
 
 // we ignore flagID and flagGroups here
 const addItemToDict = (result, item) => {
-  const { type } = item
+  const { type: origType, singleton } = item
+
+  const type = singleton ? `${origType}-copy` : origType
   if (item.sumDropped === null || item.sumDestroyed === null) {
     console.log('==========================================')
     console.log(JSON.stringify(item, null, 2))
@@ -344,18 +346,21 @@ const addItemToDict = (result, item) => {
   } else {
     // !Warning its [may be] possible to have same type but not the same singlton value
     result.rawDict[type] = {
-      type,
+      type: origType,
+      singleton,
       dropped: item.dropped,
       destroyed: item.destroyed,
       sumDropped: item.sumDropped,
       sumDestroyed: item.sumDestroyed,
-      singleton: item.singleton,
     }
   }
+  // if (origType === 57451) {
+  //   console.log('result.rawDict[type]:', result.rawDict[type])
+  // }
 }
 
-const getItemPrice = (typeID, prices) => {
-  if (!prices[typeID]) {
+const getItemPrice = (typeID, prices, singleton) => {
+  if (singleton || !prices[typeID]) {
     return 1 // BPC-singleton and something unknown
   }
 
@@ -394,7 +399,7 @@ export const parseKillmailItems = kmData => {
       throw new Error(`WTF flag not found: ${flagID}`)
     }
 
-    const itemPrice = getItemPrice(type, prices)
+    const itemPrice = getItemPrice(type, prices, singleton)
     const sumDropped = itemPrice * dropped
     const sumDestroyed = itemPrice * destroyed
     result.dropped += sumDropped
@@ -474,7 +479,7 @@ export const parseKillmailItems = kmData => {
       const [flagID, type, dropped, destroyed, singleton] = item
 
       // add each item cost to total
-      const itemPrice = getItemPrice(type, prices)
+      const itemPrice = getItemPrice(type, prices, singleton)
       const sumDropped = itemPrice * dropped
       const sumDestroyed = itemPrice * destroyed
       result.dropped += sumDropped
@@ -590,7 +595,7 @@ export const parseKillmailItems = kmData => {
   Object.values(result.flagGroups).forEach(group => {
     const totalItemsSum = group.items.reduce((total, item) => {
       const { type, destroyed, dropped, singleton } = item
-      const itemPrice = singleton ? 1 : getItemPrice(type, prices)
+      const itemPrice = getItemPrice(type, prices, singleton)
       const costDestroyed = destroyed * itemPrice
       const costDropped = dropped * itemPrice
       return total + costDestroyed + costDropped

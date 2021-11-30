@@ -129,7 +129,7 @@ const ItemsList = ({ kmData }) => {
       // const count = isDestroyed ? sumDestroyed : sumDropped
       return (
         <ListItem
-          key={`${type}-${isDestroyed}`}
+          key={`${type}-${isDestroyed}-${!!singleton}`}
           isMobile={isMobile}
           type={type}
           count={count}
