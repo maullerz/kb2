@@ -116,10 +116,10 @@ const config = {
 }
 
 if (process.env.NODE_ENV === 'development') {
-  config.rules['no-unused-vars'] = 1
-  config.rules['no-undef'] = 1
-  config.rules['react/jsx-no-undef'] = 1
-  config.rules['no-unreachable'] = 1
+  config.rules['no-unused-vars'] = 0
+  config.rules['no-undef'] = 0
+  config.rules['react/jsx-no-undef'] = 0
+  config.rules['no-unreachable'] = 0
   config.rules['no-console'] = 0
 }
 

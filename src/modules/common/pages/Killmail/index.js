@@ -28,10 +28,6 @@ import {
 // None & Structure service slot 1/2/...
 // http://localhost:3000/kill/89911203
 
-// Singlton 2
-// http://localhost:3000/kill/87158884
-// https://zkillboard.com/kill/87158884/
-
 // Orca with ships
 // http://localhost:3000/kill/91842087/
 // with giant conts

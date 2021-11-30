@@ -315,12 +315,17 @@ export const getFitSlotKey = flag => {
 // -----------------------------------
 // { type, dropped, destroyed, singleton, sumDropped, sumDestroyed }
 
+// singleton: 1
+// http://localhost:4001/kill/97030057
 // singleton: 2
 // http://localhost:3000/kill/91944946
 
 // we ignore flagID and flagGroups here
 const addItemToDict = (result, item) => {
   const { type: origType, singleton } = item
+  // if (origType === 11489) {
+  //   console.json('item:', item)
+  // }
 
   const type = singleton ? `${origType}-copy` : origType
   if (item.sumDropped === null || item.sumDestroyed === null) {
@@ -452,21 +457,23 @@ export const parseKillmailItems = kmData => {
     }
     // add container cost to total
     const contPrice = getItemPrice(cont.type, prices)
+    const contDestroyed = Number(isDestroyed)
+    const contDropped = Number(!isDestroyed)
+    result.destroyed += contPrice * contDestroyed
+    result.dropped += contPrice * contDropped
+    container.sumDestroyed = contPrice * contDestroyed
+    container.sumDropped = contPrice * contDropped
     if (isDestroyed) {
-      result.destroyed += contPrice * 1
-      container.sumDestroyed = contPrice * 1
       container.totalSum = container.sumDestroyed
     } else {
-      result.dropped += contPrice * 1
-      container.sumDropped = contPrice * 1
       container.totalSum = container.sumDropped
     }
     // add container to Dict
-    addItemToDict(result, { ...container, dropped: Number(!isDestroyed), destroyed: Number(isDestroyed) })
+    addItemToDict(result, { ...container, dropped: contDropped, destroyed: contDestroyed })
 
     // Add empty Groups for each Flag of Containers
-    if (!result.flagGroups[cont.flag]) {
-      result.flagGroups[cont.flag] = {
+    if (!result.flagGroups[flagName]) {
+      result.flagGroups[flagName] = {
         id: cont.flag,
         key: flagName, // ? const flagGroup = slotKey || flag.flagText
         name: flagName,
