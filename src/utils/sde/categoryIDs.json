@@ -183,6 +183,10 @@
     "name": "Expert Systems",
     "published": true
   },
+  "2107": {
+    "name": "Mining",
+    "published": false
+  },
   "350001": {
     "name": "Infantry",
     "published": false

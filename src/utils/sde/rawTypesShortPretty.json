@@ -18989,7 +18989,7 @@
   },
   "12189": {
     "groupID": 1218,
-    "name": "Mercoxit Processing"
+    "name": "Mercoxit Ore Processing"
   },
   "12190": {
     "groupID": 1218,
@@ -33705,11 +33705,11 @@
   },
   "18054": {
     "groupID": 663,
-    "name": "Mercoxit Mining Crystal I"
+    "name": "Mercoxit Asteroid Mining Crystal Type A I"
   },
   "18055": {
     "groupID": 727,
-    "name": "Mercoxit Mining Crystal I Blueprint"
+    "name": "Mercoxit Asteroid Mining Crystal Type A I Blueprint"
   },
   "18056": {
     "groupID": 482,
@@ -34005,11 +34005,11 @@
   },
   "18608": {
     "groupID": 663,
-    "name": "Mercoxit Mining Crystal II"
+    "name": "Mercoxit Asteroid Mining Crystal Type A II"
   },
   "18609": {
     "groupID": 727,
-    "name": "Mercoxit Mining Crystal II Blueprint"
+    "name": "Mercoxit Asteroid Mining Crystal Type A II Blueprint"
   },
   "18610": {
     "groupID": 482,
@@ -52089,11 +52089,11 @@
   },
   "25266": {
     "groupID": 737,
-    "name": "Gas Cloud Harvester I"
+    "name": "Gas Cloud Scoop I"
   },
   "25267": {
     "groupID": 134,
-    "name": "Gas Cloud Harvester I Blueprint"
+    "name": "Gas Cloud Scoop I Blueprint"
   },
   "25268": {
     "groupID": 711,
@@ -52877,19 +52877,19 @@
   },
   "25540": {
     "groupID": 737,
-    "name": "'Crop' Gas Cloud Harvester"
+    "name": "'Crop' Gas Cloud Scoop "
   },
   "25541": {
     "groupID": 134,
-    "name": "'Crop' Gas Cloud Harvester Blueprint"
+    "name": "'Crop' Gas Cloud Scoop Blueprint"
   },
   "25542": {
     "groupID": 737,
-    "name": "'Plow' Gas Cloud Harvester"
+    "name": "'Plow' Gas Cloud Scoop "
   },
   "25543": {
     "groupID": 134,
-    "name": "'Plow' Gas Cloud Harvester Blueprint"
+    "name": "'Plow' Gas Cloud Scoop Blueprint"
   },
   "25544": {
     "groupID": 1218,
@@ -53657,11 +53657,11 @@
   },
   "25812": {
     "groupID": 737,
-    "name": "Gas Cloud Harvester II"
+    "name": "Gas Cloud Scoop II"
   },
   "25813": {
     "groupID": 134,
-    "name": "Gas Cloud Harvester II Blueprint"
+    "name": "Gas Cloud Scoop II Blueprint"
   },
   "25814": {
     "groupID": 674,
@@ -62433,15 +62433,15 @@
   },
   "28583": {
     "groupID": 515,
-    "name": "Industrial Core I"
+    "name": "Capital Industrial Core I"
   },
   "28584": {
     "groupID": 516,
-    "name": "Industrial Core I Blueprint"
+    "name": "Capital Industrial Core I Blueprint"
   },
   "28585": {
     "groupID": 1218,
-    "name": "Industrial Reconfiguration"
+    "name": "Capital Industrial Reconfiguration"
   },
   "28603": {
     "groupID": 186,
@@ -62989,11 +62989,11 @@
   },
   "28788": {
     "groupID": 737,
-    "name": "Syndicate Gas Cloud Harvester"
+    "name": "Syndicate Gas Cloud Scoop "
   },
   "28789": {
     "groupID": 134,
-    "name": "Syndicate Gas Cloud Harvester Blueprint"
+    "name": "Syndicate Gas Cloud Scoop Blueprint"
   },
   "28790": {
     "groupID": 300,
@@ -88493,11 +88493,11 @@
   },
   "42890": {
     "groupID": 515,
-    "name": "Industrial Core II"
+    "name": "Capital Industrial Core II"
   },
   "42891": {
     "groupID": 516,
-    "name": "Industrial Core II Blueprint"
+    "name": "Capital Industrial Core II Blueprint"
   },
   "42901": {
     "groupID": 227,
@@ -92213,51 +92213,51 @@
   },
   "46350": {
     "groupID": 727,
-    "name": "Ubiquitous Moon Ore Mining Crystal I Blueprint"
+    "name": "Ubiquitous Moon Mining Crystal Type A I Blueprint"
   },
   "46351": {
     "groupID": 727,
-    "name": "Ubiquitous Moon Ore Mining Crystal II Blueprint"
+    "name": "Ubiquitous Moon Mining Crystal Type A II Blueprint"
   },
   "46352": {
     "groupID": 727,
-    "name": "Common Moon Ore Mining Crystal I Blueprint"
+    "name": "Common Moon Mining Crystal Type A I Blueprint"
   },
   "46353": {
     "groupID": 727,
-    "name": "Common Moon Ore Mining Crystal II Blueprint"
+    "name": "Common Moon Mining Crystal Type A II Blueprint"
   },
   "46355": {
     "groupID": 482,
-    "name": "Ubiquitous Moon Ore Mining Crystal I"
+    "name": "Ubiquitous Moon Mining Crystal Type A I"
   },
   "46356": {
     "groupID": 482,
-    "name": "Ubiquitous Moon Ore Mining Crystal II"
+    "name": "Ubiquitous Moon Mining Crystal Type A II"
   },
   "46357": {
     "groupID": 727,
-    "name": "Uncommon Moon Ore Mining Crystal I Blueprint"
+    "name": "Uncommon Moon Mining Crystal Type A I Blueprint"
   },
   "46358": {
     "groupID": 727,
-    "name": "Uncommon Moon Ore Mining Crystal II Blueprint"
+    "name": "Uncommon Moon Mining Crystal Type A II Blueprint"
   },
   "46359": {
     "groupID": 727,
-    "name": "Rare Moon Ore Mining Crystal I Blueprint"
+    "name": "Rare Moon Mining Crystal Type A I Blueprint"
   },
   "46360": {
     "groupID": 727,
-    "name": "Rare Moon Ore Mining Crystal II Blueprint"
+    "name": "Rare Moon Mining Crystal Type A II Blueprint"
   },
   "46361": {
     "groupID": 727,
-    "name": "Exceptional Moon Ore Mining Crystal I Blueprint"
+    "name": "Exceptional Moon Mining Crystal Type A I Blueprint"
   },
   "46362": {
     "groupID": 727,
-    "name": "Exceptional Moon Ore Mining Crystal II Blueprint"
+    "name": "Exceptional Moon Mining Crystal Type A II Blueprint"
   },
   "46363": {
     "groupID": 1924,
@@ -92269,35 +92269,35 @@
   },
   "46365": {
     "groupID": 482,
-    "name": "Common Moon Ore Mining Crystal I"
+    "name": "Common Moon Mining Crystal Type A I"
   },
   "46366": {
     "groupID": 482,
-    "name": "Common Moon Ore Mining Crystal II"
+    "name": "Common Moon Mining Crystal Type A II"
   },
   "46367": {
     "groupID": 482,
-    "name": "Uncommon Moon Ore Mining Crystal I"
+    "name": "Uncommon Moon Mining Crystal Type A I"
   },
   "46368": {
     "groupID": 482,
-    "name": "Uncommon Moon Ore Mining Crystal II"
+    "name": "Uncommon Moon Mining Crystal Type A II"
   },
   "46369": {
     "groupID": 482,
-    "name": "Rare Moon Ore Mining Crystal I"
+    "name": "Rare Moon Mining Crystal Type A I"
   },
   "46370": {
     "groupID": 482,
-    "name": "Rare Moon Ore Mining Crystal II"
+    "name": "Rare Moon Mining Crystal Type A II"
   },
   "46371": {
     "groupID": 482,
-    "name": "Exceptional Moon Ore Mining Crystal I"
+    "name": "Exceptional Moon Mining Crystal Type A I"
   },
   "46372": {
     "groupID": 482,
-    "name": "Exceptional Moon Ore Mining Crystal II"
+    "name": "Exceptional Moon Mining Crystal Type A II"
   },
   "46375": {
     "groupID": 1739,
@@ -103049,11 +103049,11 @@
   },
   "54363": {
     "groupID": 1088,
-    "name": "54363_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Red.png"
+    "name": "Women's Rubedo Richesse Jacket"
   },
   "54364": {
     "groupID": 1088,
-    "name": "54364_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_White_Tie.png"
+    "name": "Women's Albedo Affluence Jacket"
   },
   "54365": {
     "groupID": 1090,
@@ -103073,11 +103073,11 @@
   },
   "54369": {
     "groupID": 1090,
-    "name": "54369_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Red.png"
+    "name": "Women's Rubedo Richesse Pants"
   },
   "54370": {
     "groupID": 1090,
-    "name": "54370_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_White.png"
+    "name": "Women's Albedo Affluence Pants"
   },
   "54371": {
     "groupID": 1090,
@@ -103097,11 +103097,11 @@
   },
   "54375": {
     "groupID": 1090,
-    "name": "54375_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Red.png"
+    "name": "Men's Rubedo Richesse Pants"
   },
   "54376": {
     "groupID": 1090,
-    "name": "54376_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_White.png"
+    "name": "Men's Albedo Affluence Pants"
   },
   "54377": {
     "groupID": 1088,
@@ -103121,11 +103121,11 @@
   },
   "54381": {
     "groupID": 1088,
-    "name": "54381_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Red.png"
+    "name": "Men's Rubedo Richesse Jacket"
   },
   "54382": {
     "groupID": 1088,
-    "name": "54382_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_White_Tie.png"
+    "name": "Men's Albedo Affluence Jacket"
   },
   "54383": {
     "groupID": 1091,
@@ -108392,7 +108392,7 @@
   },
   "57169": {
     "groupID": 1194,
-    "name": "DNCR-05H and PRNCR-10H Highsec Ice Storm Filaments Crate"
+    "name": "Expired DNCR-05H and PRNCR-10H Highsec Ice Storm Filaments Crate"
   },
   "57170": {
     "groupID": 1194,
@@ -109835,7 +109835,7 @@
   },
   "57761": {
     "groupID": 383,
-    "name": "AEGIS Security GunStar"
+    "name": "AEGIS Security Stasis GunStar"
   },
   "57762": {
     "groupID": 226,
@@ -110661,6 +110661,10 @@
     "groupID": 1088,
     "name": "Women's Republic Commander's Dress Jacket"
   },
+  "58945": {
+    "groupID": 515,
+    "name": "Large Industrial Core I"
+  },
   "58946": {
     "groupID": 1090,
     "name": "Women's State Commander's Dress Pants"
@@ -110676,6 +110680,10 @@
   "58949": {
     "groupID": 1090,
     "name": "Women's Republic Commander's Dress Pants"
+  },
+  "58950": {
+    "groupID": 515,
+    "name": "Large Industrial Core II"
   },
   "58951": {
     "groupID": 1090,
@@ -110696,6 +110704,10 @@
   "58955": {
     "groupID": 4118,
     "name": "Interdiction Nullifier I Blueprint"
+  },
+  "58956": {
+    "groupID": 1218,
+    "name": "Industrial Reconfiguration"
   },
   "58966": {
     "groupID": 4117,
@@ -110720,6 +110732,14 @@
   "58975": {
     "groupID": 4118,
     "name": "Interdiction Nullifier II Blueprint"
+  },
+  "59171": {
+    "groupID": 516,
+    "name": "Large Industrial Core I Blueprint"
+  },
+  "59172": {
+    "groupID": 516,
+    "name": "Large Industrial Core II Blueprint"
   },
   "59174": {
     "groupID": 1803,
@@ -112369,6 +112389,154 @@
     "groupID": 303,
     "name": "Advanced Weapons Upgrade Skill Accelerator"
   },
+  "60276": {
+    "groupID": 482,
+    "name": "Simple Asteroid Mining Crystal Type A I"
+  },
+  "60279": {
+    "groupID": 482,
+    "name": "Simple Asteroid Mining Crystal Type B I"
+  },
+  "60280": {
+    "groupID": 482,
+    "name": "Simple Asteroid Mining Crystal Type C I"
+  },
+  "60281": {
+    "groupID": 482,
+    "name": "Simple Asteroid Mining Crystal Type A II"
+  },
+  "60283": {
+    "groupID": 482,
+    "name": "Simple Asteroid Mining Crystal Type B II"
+  },
+  "60284": {
+    "groupID": 482,
+    "name": "Simple Asteroid Mining Crystal Type C II"
+  },
+  "60285": {
+    "groupID": 482,
+    "name": "Coherent Asteroid Mining Crystal Type A I"
+  },
+  "60286": {
+    "groupID": 482,
+    "name": "Coherent Asteroid Mining Crystal Type B I"
+  },
+  "60287": {
+    "groupID": 482,
+    "name": "Coherent Asteroid Mining Crystal Type C I"
+  },
+  "60288": {
+    "groupID": 482,
+    "name": "Coherent Asteroid Mining Crystal Type A II"
+  },
+  "60289": {
+    "groupID": 482,
+    "name": "Coherent Asteroid Mining Crystal Type B II"
+  },
+  "60290": {
+    "groupID": 482,
+    "name": "Coherent Asteroid Mining Crystal Type C II"
+  },
+  "60291": {
+    "groupID": 482,
+    "name": "Variegated Asteroid Mining Crystal Type A I"
+  },
+  "60292": {
+    "groupID": 482,
+    "name": "Variegated Asteroid Mining Crystal Type B I"
+  },
+  "60293": {
+    "groupID": 482,
+    "name": "Variegated Asteroid Mining Crystal Type C I"
+  },
+  "60294": {
+    "groupID": 482,
+    "name": "Variegated Asteroid Mining Crystal Type A II"
+  },
+  "60295": {
+    "groupID": 482,
+    "name": "Variegated Asteroid Mining Crystal Type B II"
+  },
+  "60296": {
+    "groupID": 482,
+    "name": "Variegated Asteroid Mining Crystal Type C II"
+  },
+  "60297": {
+    "groupID": 482,
+    "name": "Complex Asteroid Mining Crystal Type A I"
+  },
+  "60298": {
+    "groupID": 482,
+    "name": "Complex Asteroid Mining Crystal Type B I"
+  },
+  "60299": {
+    "groupID": 482,
+    "name": "Complex Asteroid Mining Crystal Type C I"
+  },
+  "60300": {
+    "groupID": 482,
+    "name": "Complex Asteroid Mining Crystal Type A II"
+  },
+  "60301": {
+    "groupID": 482,
+    "name": "Complex Asteroid Mining Crystal Type B II"
+  },
+  "60302": {
+    "groupID": 482,
+    "name": "Complex Asteroid Mining Crystal Type C II"
+  },
+  "60303": {
+    "groupID": 482,
+    "name": "Abyssal Asteroid Mining Crystal Type A I"
+  },
+  "60304": {
+    "groupID": 482,
+    "name": "Abyssal Asteroid Mining Crystal Type B I"
+  },
+  "60305": {
+    "groupID": 482,
+    "name": "Abyssal Asteroid Mining Crystal Type C I"
+  },
+  "60306": {
+    "groupID": 482,
+    "name": "Abyssal Asteroid Mining Crystal Type A II"
+  },
+  "60307": {
+    "groupID": 482,
+    "name": "Abyssal Asteroid Mining Crystal Type B II"
+  },
+  "60308": {
+    "groupID": 482,
+    "name": "Abyssal Asteroid Mining Crystal Type C II"
+  },
+  "60309": {
+    "groupID": 663,
+    "name": "Mercoxit Asteroid Mining Crystal Type B I"
+  },
+  "60310": {
+    "groupID": 663,
+    "name": "Mercoxit Asteroid Mining Crystal Type C I"
+  },
+  "60311": {
+    "groupID": 663,
+    "name": "Mercoxit Asteroid Mining Crystal Type B II"
+  },
+  "60312": {
+    "groupID": 663,
+    "name": "Mercoxit Asteroid Mining Crystal Type C II"
+  },
+  "60313": {
+    "groupID": 4138,
+    "name": "Gas Cloud Harvester I"
+  },
+  "60314": {
+    "groupID": 4138,
+    "name": "Gas Cloud Harvester II"
+  },
+  "60315": {
+    "groupID": 4138,
+    "name": "Ore Gas Cloud Harvester "
+  },
   "60316": {
     "groupID": 4037,
     "name": "Infesting Destructor Theta"
@@ -112387,31 +112555,31 @@
   },
   "60321": {
     "groupID": 1814,
-    "name": "AEGIS Security Marshal"
+    "name": "AEGIS Security Cataphract"
   },
   "60322": {
     "groupID": 1814,
-    "name": "AEGIS Security Marshal"
+    "name": "AEGIS Security Carabinier"
   },
   "60323": {
     "groupID": 1813,
-    "name": "AEGIS Security Enforcer"
+    "name": "AEGIS Security Demilancer"
   },
   "60324": {
     "groupID": 1813,
-    "name": "AEGIS Security Enforcer"
+    "name": "AEGIS Security Picador"
   },
   "60325": {
     "groupID": 1813,
-    "name": "AEGIS Security Enforcer"
+    "name": "AEGIS Security Gendarme"
   },
   "60326": {
     "groupID": 1803,
-    "name": "AEGIS Security Pacifier"
+    "name": "AEGIS Security Lancer"
   },
   "60327": {
     "groupID": 1803,
-    "name": "AEGIS Security Pacifier"
+    "name": "AEGIS Security Hobelar"
   },
   "60328": {
     "groupID": 4055,
@@ -112449,6 +112617,154 @@
     "groupID": 1975,
     "name": "Non-Interactable Minmatar Junction  (Do not translate)"
   },
+  "60338": {
+    "groupID": 4139,
+    "name": "Gas Cloud Harvester I Blueprint"
+  },
+  "60339": {
+    "groupID": 4139,
+    "name": "Gas Cloud Harvester II Blueprint"
+  },
+  "60340": {
+    "groupID": 4139,
+    "name": "ORE Gas Cloud Harvester Blueprint"
+  },
+  "60341": {
+    "groupID": 727,
+    "name": "Simple Asteroid Mining Crystal Type A I Blueprint"
+  },
+  "60342": {
+    "groupID": 727,
+    "name": "Simple Asteroid Mining Crystal Type A II Blueprint"
+  },
+  "60343": {
+    "groupID": 727,
+    "name": "Coherent Asteroid Mining Crystal Type A I Blueprint"
+  },
+  "60344": {
+    "groupID": 727,
+    "name": "Coherent Asteroid Mining Crystal Type A II Blueprint"
+  },
+  "60345": {
+    "groupID": 727,
+    "name": "Variegated Asteroid Mining Crystal Type A I Blueprint"
+  },
+  "60346": {
+    "groupID": 727,
+    "name": "Variegated Asteroid Mining Crystal Type A II Blueprint"
+  },
+  "60347": {
+    "groupID": 727,
+    "name": "Complex Asteroid Mining Crystal Type A I Blueprint"
+  },
+  "60348": {
+    "groupID": 727,
+    "name": "Complex Asteroid Mining Crystal Type A II Blueprint"
+  },
+  "60349": {
+    "groupID": 727,
+    "name": "Abyssal Asteroid Mining Crystal Type A I Blueprint"
+  },
+  "60350": {
+    "groupID": 727,
+    "name": "Abyssal Asteroid Mining Crystal Type A II Blueprint"
+  },
+  "60351": {
+    "groupID": 727,
+    "name": "Simple Asteroid Mining Crystal Type B II Blueprint"
+  },
+  "60352": {
+    "groupID": 727,
+    "name": "Simple Asteroid Mining Crystal Type C II Blueprint"
+  },
+  "60353": {
+    "groupID": 727,
+    "name": "Coherent Asteroid Mining Crystal Type B II Blueprint"
+  },
+  "60354": {
+    "groupID": 727,
+    "name": "Coherent Asteroid Mining Crystal Type C II Blueprint"
+  },
+  "60355": {
+    "groupID": 727,
+    "name": "Variegated Asteroid Mining Crystal Type B II Blueprint"
+  },
+  "60356": {
+    "groupID": 727,
+    "name": "Variegated Asteroid Mining Crystal Type C II Blueprint"
+  },
+  "60357": {
+    "groupID": 727,
+    "name": "Complex Asteroid Mining Crystal Type B II Blueprint"
+  },
+  "60358": {
+    "groupID": 727,
+    "name": "Complex Asteroid Mining Crystal Type C II Blueprint"
+  },
+  "60359": {
+    "groupID": 727,
+    "name": "Abyssal Asteroid Mining Crystal Type B II Blueprint"
+  },
+  "60360": {
+    "groupID": 727,
+    "name": "Abyssal Asteroid Mining Crystal Type C II Blueprint"
+  },
+  "60361": {
+    "groupID": 727,
+    "name": "Mercoxit Asteroid Mining Crystal Type B II Blueprint"
+  },
+  "60362": {
+    "groupID": 727,
+    "name": "Mercoxit Asteroid Mining Crystal Type C II Blueprint"
+  },
+  "60363": {
+    "groupID": 727,
+    "name": "Simple Asteroid Mining Crystal Type B I Blueprint"
+  },
+  "60364": {
+    "groupID": 727,
+    "name": "Simple Asteroid Mining Crystal Type C I Blueprint"
+  },
+  "60365": {
+    "groupID": 727,
+    "name": "Coherent Asteroid Mining Crystal Type B I Blueprint"
+  },
+  "60366": {
+    "groupID": 727,
+    "name": "Coherent Asteroid Mining Crystal Type C I Blueprint"
+  },
+  "60367": {
+    "groupID": 727,
+    "name": "Variegated Asteroid Mining Crystal Type B I Blueprint"
+  },
+  "60368": {
+    "groupID": 727,
+    "name": "Variegated Asteroid Mining Crystal Type C I Blueprint"
+  },
+  "60369": {
+    "groupID": 727,
+    "name": "Complex Asteroid Mining Crystal Type B I Blueprint"
+  },
+  "60370": {
+    "groupID": 727,
+    "name": "Complex Asteroid Mining Crystal Type C I Blueprint"
+  },
+  "60371": {
+    "groupID": 727,
+    "name": "Abyssal Asteroid Mining Crystal Type B I Blueprint"
+  },
+  "60372": {
+    "groupID": 727,
+    "name": "Abyssal Asteroid Mining Crystal Type C I Blueprint"
+  },
+  "60373": {
+    "groupID": 727,
+    "name": "Mercoxit Asteroid Mining Crystal Type B I Blueprint"
+  },
+  "60374": {
+    "groupID": 727,
+    "name": "Mercoxit Asteroid Mining Crystal Type C I Blueprint"
+  },
   "60375": {
     "groupID": 227,
     "name": "ABS (Do not translate) "
@@ -112457,25 +112773,45 @@
     "groupID": 1452,
     "name": "Infiltrator II"
   },
+  "60377": {
+    "groupID": 1218,
+    "name": "Simple Ore Processing"
+  },
+  "60378": {
+    "groupID": 1218,
+    "name": "Coherent Ore Processing"
+  },
+  "60379": {
+    "groupID": 1218,
+    "name": "Variegated Ore Processing"
+  },
+  "60380": {
+    "groupID": 1218,
+    "name": "Complex Ore Processing"
+  },
+  "60381": {
+    "groupID": 1218,
+    "name": "Abyssal Ore Processing"
+  },
   "60382": {
     "groupID": 4037,
     "name": "Infesting Obstructor Xi"
   },
   "60389": {
     "groupID": 306,
-    "name": "EDENCOM construction dock"
+    "name": "AEGIS No. 1 Capital Construction Forge"
   },
   "60390": {
     "groupID": 306,
-    "name": "EDENCOM construction dock"
+    "name": "AEGIS No. 2 Capital Construction Forge"
   },
   "60391": {
     "groupID": 306,
-    "name": "EDENCOM construction dock"
+    "name": "AEGIS No. 3 Capital Construction Forge"
   },
   "60392": {
     "groupID": 306,
-    "name": "EDENCOM construction dock"
+    "name": "AEGIS No. 4 Capital Construction Forge"
   },
   "60393": {
     "groupID": 1975,
@@ -112547,7 +112883,7 @@
   },
   "60410": {
     "groupID": 306,
-    "name": "Gate Control System"
+    "name": "AEGIS Gate Control Hub"
   },
   "60418": {
     "groupID": 383,
@@ -112563,39 +112899,39 @@
   },
   "60422": {
     "groupID": 303,
-    "name": "AIR Astro-Acquisition Booster I"
+    "name": "Expired AIR Astro-Acquisition Booster I"
   },
   "60423": {
     "groupID": 303,
-    "name": "AIR Astro-Acquisition Booster II"
+    "name": "Expired AIR Astro-Acquisition Booster II"
   },
   "60424": {
     "groupID": 303,
-    "name": "AIR Astro-Acquisition Booster III"
+    "name": "Expired AIR Astro-Acquisition Booster III"
   },
   "60425": {
     "groupID": 303,
-    "name": "AIR Astro-Pinpointing Booster I"
+    "name": "Expired AIR Astro-Pinpointing Booster I"
   },
   "60426": {
     "groupID": 303,
-    "name": "AIR Astro-Pinpointing Booster II"
+    "name": "Expired AIR Astro-Pinpointing Booster II"
   },
   "60427": {
     "groupID": 303,
-    "name": "AIR Astro-Pinpointing Booster III"
+    "name": "Expired AIR Astro-Pinpointing Booster III"
   },
   "60428": {
     "groupID": 303,
-    "name": "AIR Astro-Rangefinding Booster I"
+    "name": "Expired AIR Astro-Rangefinding Booster I"
   },
   "60429": {
     "groupID": 303,
-    "name": "AIR Astro-Rangefinding Booster II"
+    "name": "Expired AIR Astro-Rangefinding Booster II"
   },
   "60430": {
     "groupID": 303,
-    "name": "AIR Astro-Rangefinding Booster III"
+    "name": "Expired AIR Astro-Rangefinding Booster III"
   },
   "60432": {
     "groupID": 1090,
@@ -112619,7 +112955,7 @@
   },
   "60438": {
     "groupID": 306,
-    "name": "EDENCOM Secure Shield Facility"
+    "name": "AEGIS Logistics Center Shield Projector"
   },
   "60439": {
     "groupID": 310,
@@ -112839,7 +113175,7 @@
   },
   "60508": {
     "groupID": 319,
-    "name": "EDENCOM power generator"
+    "name": "AEGIS Logistics Center Power Generator"
   },
   "60514": {
     "groupID": 4141,
@@ -112864,6 +113200,22 @@
   "60554": {
     "groupID": 1975,
     "name": "EDENCOM Stockpile Non-Interactable (Do not translate)"
+  },
+  "60559": {
+    "groupID": 4094,
+    "name": "Cosmetic Asteroid 1"
+  },
+  "60560": {
+    "groupID": 4094,
+    "name": "Cosmetic Asteroid 2"
+  },
+  "60561": {
+    "groupID": 4094,
+    "name": "Cosmetic Asteroid 3"
+  },
+  "60562": {
+    "groupID": 4094,
+    "name": "Cosmetic Asteroid 4"
   },
   "60575": {
     "groupID": 303,
@@ -112951,23 +113303,23 @@
   },
   "60600": {
     "groupID": 4050,
-    "name": "Event 42 Proving Filament"
+    "name": "Prophecy FFA Proving Filament"
   },
   "60601": {
     "groupID": 4050,
-    "name": "Event 43 Proving Filament"
+    "name": "Yoiul 2v2 Assault Frigates Proving Filament"
   },
   "60602": {
     "groupID": 4050,
-    "name": "Event 44 Proving Filament"
+    "name": "Yoiul 1v1 Navy Frigates Proving Filament"
   },
   "60603": {
     "groupID": 4050,
-    "name": "Event 45 Proving Filament"
+    "name": "Yoiul T1 Cruiser FFA Proving Filament"
   },
   "60604": {
     "groupID": 4050,
-    "name": "Event 46 Proving Filament"
+    "name": "Yoiul 1v1 Battleships Proving Filament"
   },
   "60605": {
     "groupID": 4050,
@@ -113001,6 +113353,22 @@
     "groupID": 1975,
     "name": "udh02_enviroment_asset"
   },
+  "60639": {
+    "groupID": 1083,
+    "name": "Men's Radioactives Reclamation Goggles"
+  },
+  "60645": {
+    "groupID": 1083,
+    "name": "Women's Radioactives Reclamation Goggles"
+  },
+  "60647": {
+    "groupID": 1088,
+    "name": "Men's Radioactives Reclamation Suit"
+  },
+  "60655": {
+    "groupID": 1088,
+    "name": "Women's Radioactives Reclamation Suit"
+  },
   "60681": {
     "groupID": 474,
     "name": "Tetrimon Base Shortcut Keypass"
@@ -113011,99 +113379,99 @@
   },
   "60683": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster I"
+    "name": "Expired Harvest Nosferatu Booster I"
   },
   "60684": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster II"
+    "name": "Expired Harvest Nosferatu Booster II"
   },
   "60685": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster III"
+    "name": "Expired Harvest Nosferatu Booster III"
   },
   "60686": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster II"
+    "name": "Expired Tetrimon Capacitor Booster II"
   },
   "60687": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster III"
+    "name": "Expired Tetrimon Resistance Booster III"
   },
   "60688": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster I"
+    "name": "Expired Tetrimon Precision Booster I"
   },
   "60689": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster II"
+    "name": "Expired Tetrimon Precision Booster II"
   },
   "60690": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster III"
+    "name": "Expired Tetrimon Precision Booster III"
   },
   "60691": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster I"
+    "name": "Expired Tetrimon Anti-Drain Booster I"
   },
   "60692": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster II"
+    "name": "Expired Tetrimon Anti-Drain Booster II"
   },
   "60693": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster III"
+    "name": "Expired Tetrimon Anti-Drain Booster III"
   },
   "60694": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster I"
+    "name": "Expired Harvest Webifier Booster I"
   },
   "60695": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster II"
+    "name": "Expired Harvest Webifier Booster II"
   },
   "60696": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster III"
+    "name": "Expired Harvest Webifier Booster III"
   },
   "60697": {
     "groupID": 303,
-    "name": "Harvest Damage Booster I"
+    "name": "Expired Harvest Damage Booster I"
   },
   "60698": {
     "groupID": 303,
-    "name": "Harvest Damage Booster II"
+    "name": "Expired Harvest Damage Booster II"
   },
   "60699": {
     "groupID": 303,
-    "name": "Harvest Damage Booster III"
+    "name": "Expired Harvest Damage Booster III"
   },
   "60700": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster I"
+    "name": "Expired Harvest Anti-Disruptor Booster I"
   },
   "60701": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster II"
+    "name": "Expired Harvest Anti-Disruptor Booster II"
   },
   "60702": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster III"
+    "name": "Expired Harvest Anti-Disruptor Booster III"
   },
   "60703": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster I"
+    "name": "Expired Tetrimon Capacitor Booster I"
   },
   "60704": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster III"
+    "name": "Expired Tetrimon Capacitor Booster III"
   },
   "60705": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster I"
+    "name": "Expired Tetrimon Resistance Booster I"
   },
   "60706": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster II"
+    "name": "Expired Tetrimon Resistance Booster II"
   },
   "60707": {
     "groupID": 1664,
@@ -113135,18 +113503,402 @@
   },
   "60714": {
     "groupID": 303,
-    "name": "Basic 'Radiance' Cerebral Accelerator"
+    "name": "Expired Basic 'Radiance' Cerebral Accelerator"
   },
   "60715": {
     "groupID": 303,
-    "name": "Potent 'Radiance' Cerebral Accelerator"
+    "name": "Expired Potent 'Radiance' Cerebral Accelerator"
   },
   "60716": {
     "groupID": 303,
-    "name": "Extended 'Radiance' Cerebral Accelerator"
+    "name": "Expired Extended 'Radiance' Cerebral Accelerator"
   },
   "60717": {
     "groupID": 1971,
     "name": "Proving CH2021 Bonus (Do not translate)"
+  },
+  "60724": {
+    "groupID": 1814,
+    "name": "AEGIS Fireteam Ribauldequin"
+  },
+  "60725": {
+    "groupID": 1813,
+    "name": "AEGIS Fireteam Culverin"
+  },
+  "60726": {
+    "groupID": 1803,
+    "name": "AEGIS Response Arquebus"
+  },
+  "60730": {
+    "groupID": 474,
+    "name": "AEGIS Coded Security Key SCCF-FTS"
+  },
+  "60731": {
+    "groupID": 319,
+    "name": "AEGIS Capital Forging Tools Storage"
+  },
+  "60732": {
+    "groupID": 1896,
+    "name": "AEGIS Secure Transfer Barge"
+  },
+  "60750": {
+    "groupID": 314,
+    "name": "AEGIS Security Patrol Reports"
+  },
+  "60751": {
+    "groupID": 314,
+    "name": "AEGIS Personnel File Backups"
+  },
+  "60752": {
+    "groupID": 314,
+    "name": "AEGIS Fortification Schematics"
+  },
+  "60753": {
+    "groupID": 314,
+    "name": "AEGIS Covert Operations Reports"
+  },
+  "60764": {
+    "groupID": 894,
+    "name": "Laelaps"
+  },
+  "60765": {
+    "groupID": 893,
+    "name": "Raiju"
+  },
+  "60766": {
+    "groupID": 100,
+    "name": "Aralez"
+  },
+  "60767": {
+    "groupID": 106,
+    "name": "Laelaps Blueprint"
+  },
+  "60768": {
+    "groupID": 105,
+    "name": "Raiju Blueprint"
+  },
+  "60769": {
+    "groupID": 176,
+    "name": "Aralez Blueprint"
+  },
+  "60802": {
+    "groupID": 1971,
+    "name": "Proving Turret Damage Bonus (Do not translate)"
+  },
+  "60805": {
+    "groupID": 1971,
+    "name": "Proving Overload and Turret and Missile Bonus (Do not translate)"
+  },
+  "60859": {
+    "groupID": 4100,
+    "name": "17th Alliance Tournament: HYDRA RELOADED"
+  },
+  "60905": {
+    "groupID": 500,
+    "name": "Yoiul Spiral Firework"
+  },
+  "60942": {
+    "groupID": 1880,
+    "name": "Starwight Rakshasa"
+  },
+  "60943": {
+    "groupID": 1880,
+    "name": "Moonwight Rakshasa"
+  },
+  "61083": {
+    "groupID": 303,
+    "name": "Basic 'Brainfreeze' Cerebral Accelerator"
+  },
+  "61084": {
+    "groupID": 303,
+    "name": "Extended 'Brainfreeze' Cerebral Accelerator"
+  },
+  "61085": {
+    "groupID": 303,
+    "name": "Potent 'Brainfreeze' Cerebral Accelerator"
+  },
+  "61086": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster I"
+  },
+  "61087": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster II"
+  },
+  "61090": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster III"
+  },
+  "61091": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster I"
+  },
+  "61093": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster II"
+  },
+  "61096": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster III"
+  },
+  "61097": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster I"
+  },
+  "61099": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster II"
+  },
+  "61101": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster III"
+  },
+  "61103": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster I"
+  },
+  "61105": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster II"
+  },
+  "61107": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster III"
+  },
+  "61110": {
+    "groupID": 303,
+    "name": "Wightstorm  Vitarka Booster I"
+  },
+  "61112": {
+    "groupID": 303,
+    "name": "Wightstorm  Vitarka Booster II"
+  },
+  "61114": {
+    "groupID": 303,
+    "name": "Wightstorm  Vitarka Booster III"
+  },
+  "61116": {
+    "groupID": 303,
+    "name": "Wightstorm  Manasikara Booster I"
+  },
+  "61118": {
+    "groupID": 303,
+    "name": "Wightstorm  Manasikara Booster II"
+  },
+  "61119": {
+    "groupID": 303,
+    "name": "Wightstorm  Manasikara Booster III"
+  },
+  "61129": {
+    "groupID": 1194,
+    "name": "Ice Storm Filaments Crate"
+  },
+  "61130": {
+    "groupID": 4041,
+    "name": "DSHR-01H Highsec Ice Storm Filament"
+  },
+  "61131": {
+    "groupID": 4041,
+    "name": "DNCR-05H Highsec Ice Storm Filament"
+  },
+  "61132": {
+    "groupID": 4041,
+    "name": "PRNCR-10H Highsec Ice Storm Filament"
+  },
+  "61133": {
+    "groupID": 4041,
+    "name": "VXN-01N Nullsec Ice Storm Filament"
+  },
+  "61134": {
+    "groupID": 4041,
+    "name": "CMT-05N Nullsec Ice Storm Filament"
+  },
+  "61135": {
+    "groupID": 4041,
+    "name": "CPD-10N Nullsec Ice Storm Filament"
+  },
+  "61136": {
+    "groupID": 4041,
+    "name": "DNNR-01L Lowsec Ice Storm Filament"
+  },
+  "61137": {
+    "groupID": 4041,
+    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+  },
+  "61138": {
+    "groupID": 4041,
+    "name": "RDLF-10L Lowsec Ice Storm Filament"
+  },
+  "61197": {
+    "groupID": 482,
+    "name": "Ubiquitous Moon Mining Crystal Type B I"
+  },
+  "61198": {
+    "groupID": 482,
+    "name": "Ubiquitous Moon Mining Crystal Type C I"
+  },
+  "61199": {
+    "groupID": 482,
+    "name": "Ubiquitous Moon Mining Crystal Type B II"
+  },
+  "61200": {
+    "groupID": 482,
+    "name": "Ubiquitous Moon Mining Crystal Type C II"
+  },
+  "61201": {
+    "groupID": 482,
+    "name": "Common Moon Mining Crystal Type B I"
+  },
+  "61202": {
+    "groupID": 482,
+    "name": "Common Moon Mining Crystal Type C I"
+  },
+  "61203": {
+    "groupID": 482,
+    "name": "Common Moon Mining Crystal Type B II"
+  },
+  "61204": {
+    "groupID": 482,
+    "name": "Common Moon Mining Crystal Type C II"
+  },
+  "61205": {
+    "groupID": 482,
+    "name": "Uncommon Moon Mining Crystal Type B I"
+  },
+  "61206": {
+    "groupID": 482,
+    "name": "Uncommon Moon Mining Crystal Type C I"
+  },
+  "61207": {
+    "groupID": 482,
+    "name": "Uncommon Moon Mining Crystal Type B II"
+  },
+  "61208": {
+    "groupID": 482,
+    "name": "Uncommon Moon Mining Crystal Type C II"
+  },
+  "61209": {
+    "groupID": 482,
+    "name": "Rare Moon Mining Crystal Type B I"
+  },
+  "61210": {
+    "groupID": 482,
+    "name": "Rare Moon Mining Crystal Type C I"
+  },
+  "61211": {
+    "groupID": 482,
+    "name": "Rare Moon Mining Crystal Type B II"
+  },
+  "61212": {
+    "groupID": 482,
+    "name": "Rare Moon Mining Crystal Type C II"
+  },
+  "61213": {
+    "groupID": 482,
+    "name": "Exceptional Moon Mining Crystal Type B I"
+  },
+  "61214": {
+    "groupID": 482,
+    "name": "Exceptional Moon Mining Crystal Type C I"
+  },
+  "61215": {
+    "groupID": 482,
+    "name": "Exceptional Moon Mining Crystal Type B II"
+  },
+  "61216": {
+    "groupID": 482,
+    "name": "Exceptional Moon Mining Crystal Type C II"
+  },
+  "61217": {
+    "groupID": 727,
+    "name": "Ubiquitous Moon Mining Crystal Type B I Blueprint"
+  },
+  "61218": {
+    "groupID": 727,
+    "name": "Ubiquitous Moon Mining Crystal Type C I Blueprint"
+  },
+  "61219": {
+    "groupID": 727,
+    "name": "Ubiquitous Moon Mining Crystal Type B II Blueprint"
+  },
+  "61220": {
+    "groupID": 727,
+    "name": "Ubiquitous Moon Mining Crystal Type C II Blueprint"
+  },
+  "61221": {
+    "groupID": 727,
+    "name": "Common Moon Mining Crystal Type B I Blueprint"
+  },
+  "61222": {
+    "groupID": 727,
+    "name": "Common Moon Mining Crystal Type C I Blueprint"
+  },
+  "61223": {
+    "groupID": 727,
+    "name": "Common Moon Mining Crystal Type B II Blueprint"
+  },
+  "61224": {
+    "groupID": 727,
+    "name": "Common Moon Mining Crystal Type C II Blueprint"
+  },
+  "61225": {
+    "groupID": 727,
+    "name": "Uncommon Moon Mining Crystal Type B I Blueprint"
+  },
+  "61226": {
+    "groupID": 727,
+    "name": "Uncommon Moon Mining Crystal Type C I Blueprint"
+  },
+  "61227": {
+    "groupID": 727,
+    "name": "Uncommon Moon Mining Crystal Type B II Blueprint"
+  },
+  "61228": {
+    "groupID": 727,
+    "name": "Uncommon Moon Mining Crystal Type C II Blueprint"
+  },
+  "61229": {
+    "groupID": 727,
+    "name": "Rare Moon Mining Crystal Type B I Blueprint"
+  },
+  "61230": {
+    "groupID": 727,
+    "name": "Rare Moon Mining Crystal Type C I Blueprint"
+  },
+  "61231": {
+    "groupID": 727,
+    "name": "Rare Moon Mining Crystal Type B II Blueprint"
+  },
+  "61232": {
+    "groupID": 727,
+    "name": "Rare Moon Mining Crystal Type C II Blueprint"
+  },
+  "61233": {
+    "groupID": 727,
+    "name": "Exceptional Moon Mining Crystal Type B I Blueprint"
+  },
+  "61234": {
+    "groupID": 727,
+    "name": "Exceptional Moon Mining Crystal Type C I Blueprint"
+  },
+  "61235": {
+    "groupID": 727,
+    "name": "Exceptional Moon Mining Crystal Type B II Blueprint"
+  },
+  "61236": {
+    "groupID": 727,
+    "name": "Exceptional Moon Mining Crystal Type C II Blueprint"
+  },
+  "61292": {
+    "groupID": 1880,
+    "name": "Darkwight Rakshasa"
+  },
+  "61396": {
+    "groupID": 1975,
+    "name": "Sansha Remote Logistics Station"
+  },
+  "61579": {
+    "groupID": 1971,
+    "name": "Proving Heat Damage and Afterburner Bonus (Do not translate)"
   }
 }

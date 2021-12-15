@@ -23737,7 +23737,7 @@
   [
     12189,
     1218,
-    "Mercoxit Processing"
+    "Mercoxit Ore Processing"
   ],
   [
     12190,
@@ -42132,12 +42132,12 @@
   [
     18054,
     663,
-    "Mercoxit Mining Crystal I"
+    "Mercoxit Asteroid Mining Crystal Type A I"
   ],
   [
     18055,
     727,
-    "Mercoxit Mining Crystal I Blueprint"
+    "Mercoxit Asteroid Mining Crystal Type A I Blueprint"
   ],
   [
     18056,
@@ -42507,12 +42507,12 @@
   [
     18608,
     663,
-    "Mercoxit Mining Crystal II"
+    "Mercoxit Asteroid Mining Crystal Type A II"
   ],
   [
     18609,
     727,
-    "Mercoxit Mining Crystal II Blueprint"
+    "Mercoxit Asteroid Mining Crystal Type A II Blueprint"
   ],
   [
     18610,
@@ -65112,12 +65112,12 @@
   [
     25266,
     737,
-    "Gas Cloud Harvester I"
+    "Gas Cloud Scoop I"
   ],
   [
     25267,
     134,
-    "Gas Cloud Harvester I Blueprint"
+    "Gas Cloud Scoop I Blueprint"
   ],
   [
     25268,
@@ -66097,22 +66097,22 @@
   [
     25540,
     737,
-    "'Crop' Gas Cloud Harvester"
+    "'Crop' Gas Cloud Scoop "
   ],
   [
     25541,
     134,
-    "'Crop' Gas Cloud Harvester Blueprint"
+    "'Crop' Gas Cloud Scoop Blueprint"
   ],
   [
     25542,
     737,
-    "'Plow' Gas Cloud Harvester"
+    "'Plow' Gas Cloud Scoop "
   ],
   [
     25543,
     134,
-    "'Plow' Gas Cloud Harvester Blueprint"
+    "'Plow' Gas Cloud Scoop Blueprint"
   ],
   [
     25544,
@@ -67072,12 +67072,12 @@
   [
     25812,
     737,
-    "Gas Cloud Harvester II"
+    "Gas Cloud Scoop II"
   ],
   [
     25813,
     134,
-    "Gas Cloud Harvester II Blueprint"
+    "Gas Cloud Scoop II Blueprint"
   ],
   [
     25814,
@@ -78042,17 +78042,17 @@
   [
     28583,
     515,
-    "Industrial Core I"
+    "Capital Industrial Core I"
   ],
   [
     28584,
     516,
-    "Industrial Core I Blueprint"
+    "Capital Industrial Core I Blueprint"
   ],
   [
     28585,
     1218,
-    "Industrial Reconfiguration"
+    "Capital Industrial Reconfiguration"
   ],
   [
     28603,
@@ -78737,12 +78737,12 @@
   [
     28788,
     737,
-    "Syndicate Gas Cloud Harvester"
+    "Syndicate Gas Cloud Scoop "
   ],
   [
     28789,
     134,
-    "Syndicate Gas Cloud Harvester Blueprint"
+    "Syndicate Gas Cloud Scoop Blueprint"
   ],
   [
     28790,
@@ -110617,12 +110617,12 @@
   [
     42890,
     515,
-    "Industrial Core II"
+    "Capital Industrial Core II"
   ],
   [
     42891,
     516,
-    "Industrial Core II Blueprint"
+    "Capital Industrial Core II Blueprint"
   ],
   [
     42901,
@@ -115267,62 +115267,62 @@
   [
     46350,
     727,
-    "Ubiquitous Moon Ore Mining Crystal I Blueprint"
+    "Ubiquitous Moon Mining Crystal Type A I Blueprint"
   ],
   [
     46351,
     727,
-    "Ubiquitous Moon Ore Mining Crystal II Blueprint"
+    "Ubiquitous Moon Mining Crystal Type A II Blueprint"
   ],
   [
     46352,
     727,
-    "Common Moon Ore Mining Crystal I Blueprint"
+    "Common Moon Mining Crystal Type A I Blueprint"
   ],
   [
     46353,
     727,
-    "Common Moon Ore Mining Crystal II Blueprint"
+    "Common Moon Mining Crystal Type A II Blueprint"
   ],
   [
     46355,
     482,
-    "Ubiquitous Moon Ore Mining Crystal I"
+    "Ubiquitous Moon Mining Crystal Type A I"
   ],
   [
     46356,
     482,
-    "Ubiquitous Moon Ore Mining Crystal II"
+    "Ubiquitous Moon Mining Crystal Type A II"
   ],
   [
     46357,
     727,
-    "Uncommon Moon Ore Mining Crystal I Blueprint"
+    "Uncommon Moon Mining Crystal Type A I Blueprint"
   ],
   [
     46358,
     727,
-    "Uncommon Moon Ore Mining Crystal II Blueprint"
+    "Uncommon Moon Mining Crystal Type A II Blueprint"
   ],
   [
     46359,
     727,
-    "Rare Moon Ore Mining Crystal I Blueprint"
+    "Rare Moon Mining Crystal Type A I Blueprint"
   ],
   [
     46360,
     727,
-    "Rare Moon Ore Mining Crystal II Blueprint"
+    "Rare Moon Mining Crystal Type A II Blueprint"
   ],
   [
     46361,
     727,
-    "Exceptional Moon Ore Mining Crystal I Blueprint"
+    "Exceptional Moon Mining Crystal Type A I Blueprint"
   ],
   [
     46362,
     727,
-    "Exceptional Moon Ore Mining Crystal II Blueprint"
+    "Exceptional Moon Mining Crystal Type A II Blueprint"
   ],
   [
     46363,
@@ -115337,42 +115337,42 @@
   [
     46365,
     482,
-    "Common Moon Ore Mining Crystal I"
+    "Common Moon Mining Crystal Type A I"
   ],
   [
     46366,
     482,
-    "Common Moon Ore Mining Crystal II"
+    "Common Moon Mining Crystal Type A II"
   ],
   [
     46367,
     482,
-    "Uncommon Moon Ore Mining Crystal I"
+    "Uncommon Moon Mining Crystal Type A I"
   ],
   [
     46368,
     482,
-    "Uncommon Moon Ore Mining Crystal II"
+    "Uncommon Moon Mining Crystal Type A II"
   ],
   [
     46369,
     482,
-    "Rare Moon Ore Mining Crystal I"
+    "Rare Moon Mining Crystal Type A I"
   ],
   [
     46370,
     482,
-    "Rare Moon Ore Mining Crystal II"
+    "Rare Moon Mining Crystal Type A II"
   ],
   [
     46371,
     482,
-    "Exceptional Moon Ore Mining Crystal I"
+    "Exceptional Moon Mining Crystal Type A I"
   ],
   [
     46372,
     482,
-    "Exceptional Moon Ore Mining Crystal II"
+    "Exceptional Moon Mining Crystal Type A II"
   ],
   [
     46375,
@@ -128812,12 +128812,12 @@
   [
     54363,
     1088,
-    "54363_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Red.png"
+    "Women's Rubedo Richesse Jacket"
   ],
   [
     54364,
     1088,
-    "54364_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_White_Tie.png"
+    "Women's Albedo Affluence Jacket"
   ],
   [
     54365,
@@ -128842,12 +128842,12 @@
   [
     54369,
     1090,
-    "54369_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Red.png"
+    "Women's Rubedo Richesse Pants"
   ],
   [
     54370,
     1090,
-    "54370_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_White.png"
+    "Women's Albedo Affluence Pants"
   ],
   [
     54371,
@@ -128872,12 +128872,12 @@
   [
     54375,
     1090,
-    "54375_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Red.png"
+    "Men's Rubedo Richesse Pants"
   ],
   [
     54376,
     1090,
-    "54376_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_White.png"
+    "Men's Albedo Affluence Pants"
   ],
   [
     54377,
@@ -128902,12 +128902,12 @@
   [
     54381,
     1088,
-    "54381_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Red.png"
+    "Men's Rubedo Richesse Jacket"
   ],
   [
     54382,
     1088,
-    "54382_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_White_Tie.png"
+    "Men's Albedo Affluence Jacket"
   ],
   [
     54383,
@@ -135492,7 +135492,7 @@
   [
     57169,
     1194,
-    "DNCR-05H and PRNCR-10H Highsec Ice Storm Filaments Crate"
+    "Expired DNCR-05H and PRNCR-10H Highsec Ice Storm Filaments Crate"
   ],
   [
     57170,
@@ -137302,7 +137302,7 @@
   [
     57761,
     383,
-    "AEGIS Security GunStar"
+    "AEGIS Security Stasis GunStar"
   ],
   [
     57762,
@@ -138335,6 +138335,11 @@
     "Women's Republic Commander's Dress Jacket"
   ],
   [
+    58945,
+    515,
+    "Large Industrial Core I"
+  ],
+  [
     58946,
     1090,
     "Women's State Commander's Dress Pants"
@@ -138353,6 +138358,11 @@
     58949,
     1090,
     "Women's Republic Commander's Dress Pants"
+  ],
+  [
+    58950,
+    515,
+    "Large Industrial Core II"
   ],
   [
     58951,
@@ -138378,6 +138388,11 @@
     58955,
     4118,
     "Interdiction Nullifier I Blueprint"
+  ],
+  [
+    58956,
+    1218,
+    "Industrial Reconfiguration"
   ],
   [
     58966,
@@ -138408,6 +138423,16 @@
     58975,
     4118,
     "Interdiction Nullifier II Blueprint"
+  ],
+  [
+    59171,
+    516,
+    "Large Industrial Core I Blueprint"
+  ],
+  [
+    59172,
+    516,
+    "Large Industrial Core II Blueprint"
   ],
   [
     59174,
@@ -140470,6 +140495,191 @@
     "Advanced Weapons Upgrade Skill Accelerator"
   ],
   [
+    60276,
+    482,
+    "Simple Asteroid Mining Crystal Type A I"
+  ],
+  [
+    60279,
+    482,
+    "Simple Asteroid Mining Crystal Type B I"
+  ],
+  [
+    60280,
+    482,
+    "Simple Asteroid Mining Crystal Type C I"
+  ],
+  [
+    60281,
+    482,
+    "Simple Asteroid Mining Crystal Type A II"
+  ],
+  [
+    60283,
+    482,
+    "Simple Asteroid Mining Crystal Type B II"
+  ],
+  [
+    60284,
+    482,
+    "Simple Asteroid Mining Crystal Type C II"
+  ],
+  [
+    60285,
+    482,
+    "Coherent Asteroid Mining Crystal Type A I"
+  ],
+  [
+    60286,
+    482,
+    "Coherent Asteroid Mining Crystal Type B I"
+  ],
+  [
+    60287,
+    482,
+    "Coherent Asteroid Mining Crystal Type C I"
+  ],
+  [
+    60288,
+    482,
+    "Coherent Asteroid Mining Crystal Type A II"
+  ],
+  [
+    60289,
+    482,
+    "Coherent Asteroid Mining Crystal Type B II"
+  ],
+  [
+    60290,
+    482,
+    "Coherent Asteroid Mining Crystal Type C II"
+  ],
+  [
+    60291,
+    482,
+    "Variegated Asteroid Mining Crystal Type A I"
+  ],
+  [
+    60292,
+    482,
+    "Variegated Asteroid Mining Crystal Type B I"
+  ],
+  [
+    60293,
+    482,
+    "Variegated Asteroid Mining Crystal Type C I"
+  ],
+  [
+    60294,
+    482,
+    "Variegated Asteroid Mining Crystal Type A II"
+  ],
+  [
+    60295,
+    482,
+    "Variegated Asteroid Mining Crystal Type B II"
+  ],
+  [
+    60296,
+    482,
+    "Variegated Asteroid Mining Crystal Type C II"
+  ],
+  [
+    60297,
+    482,
+    "Complex Asteroid Mining Crystal Type A I"
+  ],
+  [
+    60298,
+    482,
+    "Complex Asteroid Mining Crystal Type B I"
+  ],
+  [
+    60299,
+    482,
+    "Complex Asteroid Mining Crystal Type C I"
+  ],
+  [
+    60300,
+    482,
+    "Complex Asteroid Mining Crystal Type A II"
+  ],
+  [
+    60301,
+    482,
+    "Complex Asteroid Mining Crystal Type B II"
+  ],
+  [
+    60302,
+    482,
+    "Complex Asteroid Mining Crystal Type C II"
+  ],
+  [
+    60303,
+    482,
+    "Abyssal Asteroid Mining Crystal Type A I"
+  ],
+  [
+    60304,
+    482,
+    "Abyssal Asteroid Mining Crystal Type B I"
+  ],
+  [
+    60305,
+    482,
+    "Abyssal Asteroid Mining Crystal Type C I"
+  ],
+  [
+    60306,
+    482,
+    "Abyssal Asteroid Mining Crystal Type A II"
+  ],
+  [
+    60307,
+    482,
+    "Abyssal Asteroid Mining Crystal Type B II"
+  ],
+  [
+    60308,
+    482,
+    "Abyssal Asteroid Mining Crystal Type C II"
+  ],
+  [
+    60309,
+    663,
+    "Mercoxit Asteroid Mining Crystal Type B I"
+  ],
+  [
+    60310,
+    663,
+    "Mercoxit Asteroid Mining Crystal Type C I"
+  ],
+  [
+    60311,
+    663,
+    "Mercoxit Asteroid Mining Crystal Type B II"
+  ],
+  [
+    60312,
+    663,
+    "Mercoxit Asteroid Mining Crystal Type C II"
+  ],
+  [
+    60313,
+    4138,
+    "Gas Cloud Harvester I"
+  ],
+  [
+    60314,
+    4138,
+    "Gas Cloud Harvester II"
+  ],
+  [
+    60315,
+    4138,
+    "Ore Gas Cloud Harvester "
+  ],
+  [
     60316,
     4037,
     "Infesting Destructor Theta"
@@ -140492,37 +140702,37 @@
   [
     60321,
     1814,
-    "AEGIS Security Marshal"
+    "AEGIS Security Cataphract"
   ],
   [
     60322,
     1814,
-    "AEGIS Security Marshal"
+    "AEGIS Security Carabinier"
   ],
   [
     60323,
     1813,
-    "AEGIS Security Enforcer"
+    "AEGIS Security Demilancer"
   ],
   [
     60324,
     1813,
-    "AEGIS Security Enforcer"
+    "AEGIS Security Picador"
   ],
   [
     60325,
     1813,
-    "AEGIS Security Enforcer"
+    "AEGIS Security Gendarme"
   ],
   [
     60326,
     1803,
-    "AEGIS Security Pacifier"
+    "AEGIS Security Lancer"
   ],
   [
     60327,
     1803,
-    "AEGIS Security Pacifier"
+    "AEGIS Security Hobelar"
   ],
   [
     60328,
@@ -140570,6 +140780,191 @@
     "Non-Interactable Minmatar Junction  (Do not translate)"
   ],
   [
+    60338,
+    4139,
+    "Gas Cloud Harvester I Blueprint"
+  ],
+  [
+    60339,
+    4139,
+    "Gas Cloud Harvester II Blueprint"
+  ],
+  [
+    60340,
+    4139,
+    "ORE Gas Cloud Harvester Blueprint"
+  ],
+  [
+    60341,
+    727,
+    "Simple Asteroid Mining Crystal Type A I Blueprint"
+  ],
+  [
+    60342,
+    727,
+    "Simple Asteroid Mining Crystal Type A II Blueprint"
+  ],
+  [
+    60343,
+    727,
+    "Coherent Asteroid Mining Crystal Type A I Blueprint"
+  ],
+  [
+    60344,
+    727,
+    "Coherent Asteroid Mining Crystal Type A II Blueprint"
+  ],
+  [
+    60345,
+    727,
+    "Variegated Asteroid Mining Crystal Type A I Blueprint"
+  ],
+  [
+    60346,
+    727,
+    "Variegated Asteroid Mining Crystal Type A II Blueprint"
+  ],
+  [
+    60347,
+    727,
+    "Complex Asteroid Mining Crystal Type A I Blueprint"
+  ],
+  [
+    60348,
+    727,
+    "Complex Asteroid Mining Crystal Type A II Blueprint"
+  ],
+  [
+    60349,
+    727,
+    "Abyssal Asteroid Mining Crystal Type A I Blueprint"
+  ],
+  [
+    60350,
+    727,
+    "Abyssal Asteroid Mining Crystal Type A II Blueprint"
+  ],
+  [
+    60351,
+    727,
+    "Simple Asteroid Mining Crystal Type B II Blueprint"
+  ],
+  [
+    60352,
+    727,
+    "Simple Asteroid Mining Crystal Type C II Blueprint"
+  ],
+  [
+    60353,
+    727,
+    "Coherent Asteroid Mining Crystal Type B II Blueprint"
+  ],
+  [
+    60354,
+    727,
+    "Coherent Asteroid Mining Crystal Type C II Blueprint"
+  ],
+  [
+    60355,
+    727,
+    "Variegated Asteroid Mining Crystal Type B II Blueprint"
+  ],
+  [
+    60356,
+    727,
+    "Variegated Asteroid Mining Crystal Type C II Blueprint"
+  ],
+  [
+    60357,
+    727,
+    "Complex Asteroid Mining Crystal Type B II Blueprint"
+  ],
+  [
+    60358,
+    727,
+    "Complex Asteroid Mining Crystal Type C II Blueprint"
+  ],
+  [
+    60359,
+    727,
+    "Abyssal Asteroid Mining Crystal Type B II Blueprint"
+  ],
+  [
+    60360,
+    727,
+    "Abyssal Asteroid Mining Crystal Type C II Blueprint"
+  ],
+  [
+    60361,
+    727,
+    "Mercoxit Asteroid Mining Crystal Type B II Blueprint"
+  ],
+  [
+    60362,
+    727,
+    "Mercoxit Asteroid Mining Crystal Type C II Blueprint"
+  ],
+  [
+    60363,
+    727,
+    "Simple Asteroid Mining Crystal Type B I Blueprint"
+  ],
+  [
+    60364,
+    727,
+    "Simple Asteroid Mining Crystal Type C I Blueprint"
+  ],
+  [
+    60365,
+    727,
+    "Coherent Asteroid Mining Crystal Type B I Blueprint"
+  ],
+  [
+    60366,
+    727,
+    "Coherent Asteroid Mining Crystal Type C I Blueprint"
+  ],
+  [
+    60367,
+    727,
+    "Variegated Asteroid Mining Crystal Type B I Blueprint"
+  ],
+  [
+    60368,
+    727,
+    "Variegated Asteroid Mining Crystal Type C I Blueprint"
+  ],
+  [
+    60369,
+    727,
+    "Complex Asteroid Mining Crystal Type B I Blueprint"
+  ],
+  [
+    60370,
+    727,
+    "Complex Asteroid Mining Crystal Type C I Blueprint"
+  ],
+  [
+    60371,
+    727,
+    "Abyssal Asteroid Mining Crystal Type B I Blueprint"
+  ],
+  [
+    60372,
+    727,
+    "Abyssal Asteroid Mining Crystal Type C I Blueprint"
+  ],
+  [
+    60373,
+    727,
+    "Mercoxit Asteroid Mining Crystal Type B I Blueprint"
+  ],
+  [
+    60374,
+    727,
+    "Mercoxit Asteroid Mining Crystal Type C I Blueprint"
+  ],
+  [
     60375,
     227,
     "ABS (Do not translate) "
@@ -140580,6 +140975,31 @@
     "Infiltrator II"
   ],
   [
+    60377,
+    1218,
+    "Simple Ore Processing"
+  ],
+  [
+    60378,
+    1218,
+    "Coherent Ore Processing"
+  ],
+  [
+    60379,
+    1218,
+    "Variegated Ore Processing"
+  ],
+  [
+    60380,
+    1218,
+    "Complex Ore Processing"
+  ],
+  [
+    60381,
+    1218,
+    "Abyssal Ore Processing"
+  ],
+  [
     60382,
     4037,
     "Infesting Obstructor Xi"
@@ -140587,22 +141007,22 @@
   [
     60389,
     306,
-    "EDENCOM construction dock"
+    "AEGIS No. 1 Capital Construction Forge"
   ],
   [
     60390,
     306,
-    "EDENCOM construction dock"
+    "AEGIS No. 2 Capital Construction Forge"
   ],
   [
     60391,
     306,
-    "EDENCOM construction dock"
+    "AEGIS No. 3 Capital Construction Forge"
   ],
   [
     60392,
     306,
-    "EDENCOM construction dock"
+    "AEGIS No. 4 Capital Construction Forge"
   ],
   [
     60393,
@@ -140692,7 +141112,7 @@
   [
     60410,
     306,
-    "Gate Control System"
+    "AEGIS Gate Control Hub"
   ],
   [
     60418,
@@ -140712,47 +141132,47 @@
   [
     60422,
     303,
-    "AIR Astro-Acquisition Booster I"
+    "Expired AIR Astro-Acquisition Booster I"
   ],
   [
     60423,
     303,
-    "AIR Astro-Acquisition Booster II"
+    "Expired AIR Astro-Acquisition Booster II"
   ],
   [
     60424,
     303,
-    "AIR Astro-Acquisition Booster III"
+    "Expired AIR Astro-Acquisition Booster III"
   ],
   [
     60425,
     303,
-    "AIR Astro-Pinpointing Booster I"
+    "Expired AIR Astro-Pinpointing Booster I"
   ],
   [
     60426,
     303,
-    "AIR Astro-Pinpointing Booster II"
+    "Expired AIR Astro-Pinpointing Booster II"
   ],
   [
     60427,
     303,
-    "AIR Astro-Pinpointing Booster III"
+    "Expired AIR Astro-Pinpointing Booster III"
   ],
   [
     60428,
     303,
-    "AIR Astro-Rangefinding Booster I"
+    "Expired AIR Astro-Rangefinding Booster I"
   ],
   [
     60429,
     303,
-    "AIR Astro-Rangefinding Booster II"
+    "Expired AIR Astro-Rangefinding Booster II"
   ],
   [
     60430,
     303,
-    "AIR Astro-Rangefinding Booster III"
+    "Expired AIR Astro-Rangefinding Booster III"
   ],
   [
     60432,
@@ -140782,7 +141202,7 @@
   [
     60438,
     306,
-    "EDENCOM Secure Shield Facility"
+    "AEGIS Logistics Center Shield Projector"
   ],
   [
     60439,
@@ -141057,7 +141477,7 @@
   [
     60508,
     319,
-    "EDENCOM power generator"
+    "AEGIS Logistics Center Power Generator"
   ],
   [
     60514,
@@ -141088,6 +141508,26 @@
     60554,
     1975,
     "EDENCOM Stockpile Non-Interactable (Do not translate)"
+  ],
+  [
+    60559,
+    4094,
+    "Cosmetic Asteroid 1"
+  ],
+  [
+    60560,
+    4094,
+    "Cosmetic Asteroid 2"
+  ],
+  [
+    60561,
+    4094,
+    "Cosmetic Asteroid 3"
+  ],
+  [
+    60562,
+    4094,
+    "Cosmetic Asteroid 4"
   ],
   [
     60575,
@@ -141197,27 +141637,27 @@
   [
     60600,
     4050,
-    "Event 42 Proving Filament"
+    "Prophecy FFA Proving Filament"
   ],
   [
     60601,
     4050,
-    "Event 43 Proving Filament"
+    "Yoiul 2v2 Assault Frigates Proving Filament"
   ],
   [
     60602,
     4050,
-    "Event 44 Proving Filament"
+    "Yoiul 1v1 Navy Frigates Proving Filament"
   ],
   [
     60603,
     4050,
-    "Event 45 Proving Filament"
+    "Yoiul T1 Cruiser FFA Proving Filament"
   ],
   [
     60604,
     4050,
-    "Event 46 Proving Filament"
+    "Yoiul 1v1 Battleships Proving Filament"
   ],
   [
     60605,
@@ -141260,6 +141700,26 @@
     "udh02_enviroment_asset"
   ],
   [
+    60639,
+    1083,
+    "Men's Radioactives Reclamation Goggles"
+  ],
+  [
+    60645,
+    1083,
+    "Women's Radioactives Reclamation Goggles"
+  ],
+  [
+    60647,
+    1088,
+    "Men's Radioactives Reclamation Suit"
+  ],
+  [
+    60655,
+    1088,
+    "Women's Radioactives Reclamation Suit"
+  ],
+  [
     60681,
     474,
     "Tetrimon Base Shortcut Keypass"
@@ -141272,122 +141732,122 @@
   [
     60683,
     303,
-    "Harvest Nosferatu Booster I"
+    "Expired Harvest Nosferatu Booster I"
   ],
   [
     60684,
     303,
-    "Harvest Nosferatu Booster II"
+    "Expired Harvest Nosferatu Booster II"
   ],
   [
     60685,
     303,
-    "Harvest Nosferatu Booster III"
+    "Expired Harvest Nosferatu Booster III"
   ],
   [
     60686,
     303,
-    "Tetrimon Capacitor Booster II"
+    "Expired Tetrimon Capacitor Booster II"
   ],
   [
     60687,
     303,
-    "Tetrimon Resistance Booster III"
+    "Expired Tetrimon Resistance Booster III"
   ],
   [
     60688,
     303,
-    "Tetrimon Precision Booster I"
+    "Expired Tetrimon Precision Booster I"
   ],
   [
     60689,
     303,
-    "Tetrimon Precision Booster II"
+    "Expired Tetrimon Precision Booster II"
   ],
   [
     60690,
     303,
-    "Tetrimon Precision Booster III"
+    "Expired Tetrimon Precision Booster III"
   ],
   [
     60691,
     303,
-    "Tetrimon Anti-Drain Booster I"
+    "Expired Tetrimon Anti-Drain Booster I"
   ],
   [
     60692,
     303,
-    "Tetrimon Anti-Drain Booster II"
+    "Expired Tetrimon Anti-Drain Booster II"
   ],
   [
     60693,
     303,
-    "Tetrimon Anti-Drain Booster III"
+    "Expired Tetrimon Anti-Drain Booster III"
   ],
   [
     60694,
     303,
-    "Harvest Webifier Booster I"
+    "Expired Harvest Webifier Booster I"
   ],
   [
     60695,
     303,
-    "Harvest Webifier Booster II"
+    "Expired Harvest Webifier Booster II"
   ],
   [
     60696,
     303,
-    "Harvest Webifier Booster III"
+    "Expired Harvest Webifier Booster III"
   ],
   [
     60697,
     303,
-    "Harvest Damage Booster I"
+    "Expired Harvest Damage Booster I"
   ],
   [
     60698,
     303,
-    "Harvest Damage Booster II"
+    "Expired Harvest Damage Booster II"
   ],
   [
     60699,
     303,
-    "Harvest Damage Booster III"
+    "Expired Harvest Damage Booster III"
   ],
   [
     60700,
     303,
-    "Harvest Anti-Disruptor Booster I"
+    "Expired Harvest Anti-Disruptor Booster I"
   ],
   [
     60701,
     303,
-    "Harvest Anti-Disruptor Booster II"
+    "Expired Harvest Anti-Disruptor Booster II"
   ],
   [
     60702,
     303,
-    "Harvest Anti-Disruptor Booster III"
+    "Expired Harvest Anti-Disruptor Booster III"
   ],
   [
     60703,
     303,
-    "Tetrimon Capacitor Booster I"
+    "Expired Tetrimon Capacitor Booster I"
   ],
   [
     60704,
     303,
-    "Tetrimon Capacitor Booster III"
+    "Expired Tetrimon Capacitor Booster III"
   ],
   [
     60705,
     303,
-    "Tetrimon Resistance Booster I"
+    "Expired Tetrimon Resistance Booster I"
   ],
   [
     60706,
     303,
-    "Tetrimon Resistance Booster II"
+    "Expired Tetrimon Resistance Booster II"
   ],
   [
     60707,
@@ -141427,21 +141887,501 @@
   [
     60714,
     303,
-    "Basic 'Radiance' Cerebral Accelerator"
+    "Expired Basic 'Radiance' Cerebral Accelerator"
   ],
   [
     60715,
     303,
-    "Potent 'Radiance' Cerebral Accelerator"
+    "Expired Potent 'Radiance' Cerebral Accelerator"
   ],
   [
     60716,
     303,
-    "Extended 'Radiance' Cerebral Accelerator"
+    "Expired Extended 'Radiance' Cerebral Accelerator"
   ],
   [
     60717,
     1971,
     "Proving CH2021 Bonus (Do not translate)"
+  ],
+  [
+    60724,
+    1814,
+    "AEGIS Fireteam Ribauldequin"
+  ],
+  [
+    60725,
+    1813,
+    "AEGIS Fireteam Culverin"
+  ],
+  [
+    60726,
+    1803,
+    "AEGIS Response Arquebus"
+  ],
+  [
+    60730,
+    474,
+    "AEGIS Coded Security Key SCCF-FTS"
+  ],
+  [
+    60731,
+    319,
+    "AEGIS Capital Forging Tools Storage"
+  ],
+  [
+    60732,
+    1896,
+    "AEGIS Secure Transfer Barge"
+  ],
+  [
+    60750,
+    314,
+    "AEGIS Security Patrol Reports"
+  ],
+  [
+    60751,
+    314,
+    "AEGIS Personnel File Backups"
+  ],
+  [
+    60752,
+    314,
+    "AEGIS Fortification Schematics"
+  ],
+  [
+    60753,
+    314,
+    "AEGIS Covert Operations Reports"
+  ],
+  [
+    60764,
+    894,
+    "Laelaps"
+  ],
+  [
+    60765,
+    893,
+    "Raiju"
+  ],
+  [
+    60766,
+    100,
+    "Aralez"
+  ],
+  [
+    60767,
+    106,
+    "Laelaps Blueprint"
+  ],
+  [
+    60768,
+    105,
+    "Raiju Blueprint"
+  ],
+  [
+    60769,
+    176,
+    "Aralez Blueprint"
+  ],
+  [
+    60802,
+    1971,
+    "Proving Turret Damage Bonus (Do not translate)"
+  ],
+  [
+    60805,
+    1971,
+    "Proving Overload and Turret and Missile Bonus (Do not translate)"
+  ],
+  [
+    60859,
+    4100,
+    "17th Alliance Tournament: HYDRA RELOADED"
+  ],
+  [
+    60905,
+    500,
+    "Yoiul Spiral Firework"
+  ],
+  [
+    60942,
+    1880,
+    "Starwight Rakshasa"
+  ],
+  [
+    60943,
+    1880,
+    "Moonwight Rakshasa"
+  ],
+  [
+    61083,
+    303,
+    "Basic 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    61084,
+    303,
+    "Extended 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    61085,
+    303,
+    "Potent 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    61086,
+    303,
+    "Wightstorm Sunyata Booster I"
+  ],
+  [
+    61087,
+    303,
+    "Wightstorm Sunyata Booster II"
+  ],
+  [
+    61090,
+    303,
+    "Wightstorm Sunyata Booster III"
+  ],
+  [
+    61091,
+    303,
+    "Wightstorm Nirvana Booster I"
+  ],
+  [
+    61093,
+    303,
+    "Wightstorm Nirvana Booster II"
+  ],
+  [
+    61096,
+    303,
+    "Wightstorm Nirvana Booster III"
+  ],
+  [
+    61097,
+    303,
+    "Wightstorm Rapture Booster I"
+  ],
+  [
+    61099,
+    303,
+    "Wightstorm Rapture Booster II"
+  ],
+  [
+    61101,
+    303,
+    "Wightstorm Rapture Booster III"
+  ],
+  [
+    61103,
+    303,
+    "Wightstorm Cetana Booster I"
+  ],
+  [
+    61105,
+    303,
+    "Wightstorm Cetana Booster II"
+  ],
+  [
+    61107,
+    303,
+    "Wightstorm Cetana Booster III"
+  ],
+  [
+    61110,
+    303,
+    "Wightstorm  Vitarka Booster I"
+  ],
+  [
+    61112,
+    303,
+    "Wightstorm  Vitarka Booster II"
+  ],
+  [
+    61114,
+    303,
+    "Wightstorm  Vitarka Booster III"
+  ],
+  [
+    61116,
+    303,
+    "Wightstorm  Manasikara Booster I"
+  ],
+  [
+    61118,
+    303,
+    "Wightstorm  Manasikara Booster II"
+  ],
+  [
+    61119,
+    303,
+    "Wightstorm  Manasikara Booster III"
+  ],
+  [
+    61129,
+    1194,
+    "Ice Storm Filaments Crate"
+  ],
+  [
+    61130,
+    4041,
+    "DSHR-01H Highsec Ice Storm Filament"
+  ],
+  [
+    61131,
+    4041,
+    "DNCR-05H Highsec Ice Storm Filament"
+  ],
+  [
+    61132,
+    4041,
+    "PRNCR-10H Highsec Ice Storm Filament"
+  ],
+  [
+    61133,
+    4041,
+    "VXN-01N Nullsec Ice Storm Filament"
+  ],
+  [
+    61134,
+    4041,
+    "CMT-05N Nullsec Ice Storm Filament"
+  ],
+  [
+    61135,
+    4041,
+    "CPD-10N Nullsec Ice Storm Filament"
+  ],
+  [
+    61136,
+    4041,
+    "DNNR-01L Lowsec Ice Storm Filament"
+  ],
+  [
+    61137,
+    4041,
+    "BLTZN-05L Lowsec Ice Storm Filament"
+  ],
+  [
+    61138,
+    4041,
+    "RDLF-10L Lowsec Ice Storm Filament"
+  ],
+  [
+    61197,
+    482,
+    "Ubiquitous Moon Mining Crystal Type B I"
+  ],
+  [
+    61198,
+    482,
+    "Ubiquitous Moon Mining Crystal Type C I"
+  ],
+  [
+    61199,
+    482,
+    "Ubiquitous Moon Mining Crystal Type B II"
+  ],
+  [
+    61200,
+    482,
+    "Ubiquitous Moon Mining Crystal Type C II"
+  ],
+  [
+    61201,
+    482,
+    "Common Moon Mining Crystal Type B I"
+  ],
+  [
+    61202,
+    482,
+    "Common Moon Mining Crystal Type C I"
+  ],
+  [
+    61203,
+    482,
+    "Common Moon Mining Crystal Type B II"
+  ],
+  [
+    61204,
+    482,
+    "Common Moon Mining Crystal Type C II"
+  ],
+  [
+    61205,
+    482,
+    "Uncommon Moon Mining Crystal Type B I"
+  ],
+  [
+    61206,
+    482,
+    "Uncommon Moon Mining Crystal Type C I"
+  ],
+  [
+    61207,
+    482,
+    "Uncommon Moon Mining Crystal Type B II"
+  ],
+  [
+    61208,
+    482,
+    "Uncommon Moon Mining Crystal Type C II"
+  ],
+  [
+    61209,
+    482,
+    "Rare Moon Mining Crystal Type B I"
+  ],
+  [
+    61210,
+    482,
+    "Rare Moon Mining Crystal Type C I"
+  ],
+  [
+    61211,
+    482,
+    "Rare Moon Mining Crystal Type B II"
+  ],
+  [
+    61212,
+    482,
+    "Rare Moon Mining Crystal Type C II"
+  ],
+  [
+    61213,
+    482,
+    "Exceptional Moon Mining Crystal Type B I"
+  ],
+  [
+    61214,
+    482,
+    "Exceptional Moon Mining Crystal Type C I"
+  ],
+  [
+    61215,
+    482,
+    "Exceptional Moon Mining Crystal Type B II"
+  ],
+  [
+    61216,
+    482,
+    "Exceptional Moon Mining Crystal Type C II"
+  ],
+  [
+    61217,
+    727,
+    "Ubiquitous Moon Mining Crystal Type B I Blueprint"
+  ],
+  [
+    61218,
+    727,
+    "Ubiquitous Moon Mining Crystal Type C I Blueprint"
+  ],
+  [
+    61219,
+    727,
+    "Ubiquitous Moon Mining Crystal Type B II Blueprint"
+  ],
+  [
+    61220,
+    727,
+    "Ubiquitous Moon Mining Crystal Type C II Blueprint"
+  ],
+  [
+    61221,
+    727,
+    "Common Moon Mining Crystal Type B I Blueprint"
+  ],
+  [
+    61222,
+    727,
+    "Common Moon Mining Crystal Type C I Blueprint"
+  ],
+  [
+    61223,
+    727,
+    "Common Moon Mining Crystal Type B II Blueprint"
+  ],
+  [
+    61224,
+    727,
+    "Common Moon Mining Crystal Type C II Blueprint"
+  ],
+  [
+    61225,
+    727,
+    "Uncommon Moon Mining Crystal Type B I Blueprint"
+  ],
+  [
+    61226,
+    727,
+    "Uncommon Moon Mining Crystal Type C I Blueprint"
+  ],
+  [
+    61227,
+    727,
+    "Uncommon Moon Mining Crystal Type B II Blueprint"
+  ],
+  [
+    61228,
+    727,
+    "Uncommon Moon Mining Crystal Type C II Blueprint"
+  ],
+  [
+    61229,
+    727,
+    "Rare Moon Mining Crystal Type B I Blueprint"
+  ],
+  [
+    61230,
+    727,
+    "Rare Moon Mining Crystal Type C I Blueprint"
+  ],
+  [
+    61231,
+    727,
+    "Rare Moon Mining Crystal Type B II Blueprint"
+  ],
+  [
+    61232,
+    727,
+    "Rare Moon Mining Crystal Type C II Blueprint"
+  ],
+  [
+    61233,
+    727,
+    "Exceptional Moon Mining Crystal Type B I Blueprint"
+  ],
+  [
+    61234,
+    727,
+    "Exceptional Moon Mining Crystal Type C I Blueprint"
+  ],
+  [
+    61235,
+    727,
+    "Exceptional Moon Mining Crystal Type B II Blueprint"
+  ],
+  [
+    61236,
+    727,
+    "Exceptional Moon Mining Crystal Type C II Blueprint"
+  ],
+  [
+    61292,
+    1880,
+    "Darkwight Rakshasa"
+  ],
+  [
+    61396,
+    1975,
+    "Sansha Remote Logistics Station"
+  ],
+  [
+    61579,
+    1971,
+    "Proving Heat Damage and Afterburner Bonus (Do not translate)"
   ]
 ]

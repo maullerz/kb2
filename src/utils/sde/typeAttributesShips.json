@@ -224,7 +224,7 @@
   },
   "21": {
     "attributeID": 21,
-    "categoryID": 7,
+    "categoryID": 17,
     "dataType": 5,
     "defaultValue": 0,
     "description": "tbd instance param",
@@ -1064,7 +1064,7 @@
   },
   "153": {
     "attributeID": 153,
-    "categoryID": 9,
+    "categoryID": 17,
     "dataType": 5,
     "defaultValue": 0,
     "description": "The power cost to warp per one kg per AU (floats do not have the resolution for meters).",
@@ -1282,7 +1282,7 @@
   },
   "207": {
     "attributeID": 207,
-    "categoryID": 7,
+    "categoryID": 51,
     "dataType": 5,
     "defaultValue": 1,
     "description": "The factor by which the amount mined by a mining laser is scaled.",
@@ -1682,20 +1682,6 @@
     },
     "unitID": 113
   },
-  "264": {
-    "attributeID": 264,
-    "categoryID": 9,
-    "chargeRechargeTimeID": 479,
-    "dataType": 6,
-    "defaultValue": 0,
-    "description": "DO NOT MESS WITH. Helper attribute for entities, stands in for the shield charge.\r\nThe amount of starting shield capacity of the NPC.",
-    "highIsGood": true,
-    "iconID": 0,
-    "maxAttributeID": 263,
-    "name": "shieldCharge",
-    "published": false,
-    "stackable": true
-  },
   "265": {
     "attributeID": 265,
     "categoryID": 3,
@@ -1972,6 +1958,27 @@
     "highIsGood": true,
     "name": "requiredSkill3Level",
     "published": false,
+    "stackable": true
+  },
+  "280": {
+    "attributeID": 280,
+    "categoryID": 7,
+    "dataType": 4,
+    "defaultValue": 0,
+    "description": "Level of skill",
+    "displayNameID": {
+      "de": "Level",
+      "en": "Level",
+      "fr": "Niveau",
+      "ja": "レベル",
+      "ko": "레벨",
+      "ru": "Уровень",
+      "zh": "等级"
+    },
+    "highIsGood": true,
+    "iconID": 33,
+    "name": "skillLevel",
+    "published": true,
     "stackable": true
   },
   "283": {
@@ -2952,7 +2959,7 @@
   },
   "600": {
     "attributeID": 600,
-    "categoryID": 7,
+    "categoryID": 17,
     "dataType": 5,
     "defaultValue": 3,
     "description": "",
@@ -2966,7 +2973,6 @@
       "zh": "跃迁速度倍增系数"
     },
     "highIsGood": true,
-    "iconID": 0,
     "name": "warpSpeedMultiplier",
     "published": true,
     "stackable": false,
@@ -5011,7 +5017,7 @@
   },
   "1034": {
     "attributeID": 1034,
-    "categoryID": 7,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 30000,
     "description": "",
@@ -5025,7 +5031,6 @@
       "zh": "隐身再入延迟"
     },
     "highIsGood": true,
-    "iconID": 0,
     "name": "covertOpsAndReconOpsCloakModuleDelay",
     "published": true,
     "stackable": false,
@@ -5264,24 +5269,22 @@
   },
   "1178": {
     "attributeID": 1178,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatCapacityHi",
     "published": false,
     "stackable": true
   },
   "1179": {
     "attributeID": 1179,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatDissipationRateHi",
     "published": false,
     "stackable": true
@@ -5330,48 +5333,44 @@
   },
   "1196": {
     "attributeID": 1196,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatDissipationRateMed",
     "published": false,
     "stackable": true
   },
   "1198": {
     "attributeID": 1198,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatDissipationRateLow",
     "published": false,
     "stackable": true
   },
   "1199": {
     "attributeID": 1199,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatCapacityMed",
     "published": false,
     "stackable": true
   },
   "1200": {
     "attributeID": 1200,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatCapacityLow",
     "published": false,
     "stackable": true
@@ -5488,12 +5487,11 @@
   },
   "1224": {
     "attributeID": 1224,
-    "categoryID": 9,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 1,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatGenerationMultiplier",
     "published": false,
     "stackable": true
@@ -5679,12 +5677,11 @@
   },
   "1253": {
     "attributeID": 1253,
-    "categoryID": 7,
+    "categoryID": 17,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "jumpHarmonics",
     "published": false,
     "stackable": true
@@ -5715,7 +5712,7 @@
   },
   "1259": {
     "attributeID": 1259,
-    "categoryID": 7,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 1,
     "description": "",
@@ -5729,31 +5726,28 @@
       "zh": "热量发散"
     },
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatAttenuationHi",
     "published": false,
     "stackable": true
   },
   "1261": {
     "attributeID": 1261,
-    "categoryID": 7,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 1,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatAttenuationMed",
     "published": false,
     "stackable": true
   },
   "1262": {
     "attributeID": 1262,
-    "categoryID": 7,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 1,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "heatAttenuationLow",
     "published": false,
     "stackable": true
@@ -5872,7 +5866,7 @@
   },
   "1281": {
     "attributeID": 1281,
-    "categoryID": 7,
+    "categoryID": 17,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Just for the UI to display the ship warp speed.",
@@ -6809,7 +6803,7 @@
   },
   "1541": {
     "attributeID": 1541,
-    "categoryID": 7,
+    "categoryID": 17,
     "dataType": 4,
     "defaultValue": 0,
     "description": "",
@@ -6891,47 +6885,47 @@
   },
   "1556": {
     "attributeID": 1556,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
-    "description": "Capacity of ore-only hold",
+    "description": "Capacity of general mining hold",
     "displayNameID": {
-      "de": "Erzfassungsvermögen",
-      "en": "Ore Hold Capacity",
-      "fr": "Capacité de la soute à minerai",
-      "ja": "鉱石の収容容量",
-      "ko": "광물 저장고 적재량",
+      "de": "Bergbaufassungsvermögen",
+      "en": "Mining Hold Capacity",
+      "fr": "Capacité de la soute d'extraction",
+      "ja": "採掘ホールド容量",
+      "ko": "채굴 저장고 적재량",
       "ru": "Объём отсека для руды",
       "zh": "矿石舱容量"
     },
     "highIsGood": true,
     "iconID": 71,
-    "name": "specialOreHoldCapacity",
+    "name": "generalMiningHoldCapacity",
     "published": true,
     "stackable": true,
     "tooltipDescriptionID": {
-      "de": "Das maximale Volumen, das im Erzfrachtraum gelagert werden kann",
-      "en": "The total volume that can be stored in the ore hold",
-      "fr": "Volume total pouvant être transporté dans la soute à minerai.",
-      "ja": "鉱石ホールドに積載できる総量です",
-      "ko": "광물 저장고에 보관할 수 있는 최대 용량입니다.",
+      "de": "Das maximale Volumen, das im Bergbaufrachtraum gelagert werden kann",
+      "en": "The total volume that can be stored in the mining hold",
+      "fr": "Volume total pouvant être stocké dans la soute d'extraction",
+      "ja": "採掘ホールドに積載できる総量",
+      "ko": "채굴 저장고에 보관할 수 있는 최대 용량",
       "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для руды",
       "zh": "矿石舱能装载的总体积"
     },
     "tooltipTitleID": {
-      "de": "Erzfassungsvermögen",
-      "en": "Ore Hold Capacity",
-      "fr": "Capacité de la soute à minerai",
-      "ja": "鉱石ホールド容量",
-      "ko": "광물 저장고 적재량",
-      "ru": "Вместимость отсека для руды",
+      "de": "Bergbaufassungsvermögen",
+      "en": "Mining Hold Capacity",
+      "fr": "Capacité de la soute d'extraction",
+      "ja": "採掘ホールド容量",
+      "ko": "채굴 저장고 적재량",
+      "ru": "Объём отсека для руды",
       "zh": "矿石舱容量"
     },
     "unitID": 9
   },
   "1557": {
     "attributeID": 1557,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of gas-only hold",
@@ -6949,11 +6943,17 @@
     "name": "specialGasHoldCapacity",
     "published": true,
     "stackable": true,
+    "tooltipDescriptionID": {
+      "en": "The total volume that can be stored in the gas hold"
+    },
+    "tooltipTitleID": {
+      "en": "Gas Hold Capacity"
+    },
     "unitID": 9
   },
   "1558": {
     "attributeID": 1558,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of mineral-only hold",
@@ -6993,7 +6993,7 @@
   },
   "1559": {
     "attributeID": 1559,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of special salvage-only hold",
@@ -7015,7 +7015,7 @@
   },
   "1560": {
     "attributeID": 1560,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of ship-only hold",
@@ -7037,7 +7037,7 @@
   },
   "1561": {
     "attributeID": 1561,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of frigate/destroyer hold",
@@ -7059,7 +7059,7 @@
   },
   "1562": {
     "attributeID": 1562,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of cruiser/battlecruiser ship hold",
@@ -7081,7 +7081,7 @@
   },
   "1563": {
     "attributeID": 1563,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of battleship hold",
@@ -7103,7 +7103,7 @@
   },
   "1564": {
     "attributeID": 1564,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of industrial ship hold",
@@ -7125,7 +7125,7 @@
   },
   "1573": {
     "attributeID": 1573,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "special ammo hold capacity",
@@ -7349,7 +7349,7 @@
   },
   "1646": {
     "attributeID": 1646,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of CC-only hold",
@@ -7389,7 +7389,7 @@
   },
   "1653": {
     "attributeID": 1653,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of Planetary Commodities hold",
@@ -7588,7 +7588,7 @@
   },
   "1804": {
     "attributeID": 1804,
-    "categoryID": 4,
+    "categoryID": 40,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Capacity of Quafe hold",
@@ -7790,23 +7790,12 @@
   },
   "1842": {
     "attributeID": 1842,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "ORE Mining frigate bonus 1",
     "highIsGood": true,
-    "name": "shipBonusOREfrig1",
-    "published": false,
-    "stackable": true
-  },
-  "1843": {
-    "attributeID": 1843,
-    "categoryID": 9,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "ORE Mining frigate bonus 2",
-    "highIsGood": true,
-    "name": "shipBonusOREfrig2",
+    "name": "miningFrigatesBonusOreMiningYield",
     "published": false,
     "stackable": true
   },
@@ -8174,28 +8163,6 @@
     "stackable": true,
     "unitID": 105
   },
-  "1942": {
-    "attributeID": 1942,
-    "categoryID": 9,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "eliteBonusExpedition1",
-    "published": false,
-    "stackable": true
-  },
-  "1943": {
-    "attributeID": 1943,
-    "categoryID": 9,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "eliteBonusExpedition2",
-    "published": false,
-    "stackable": true
-  },
   "1945": {
     "attributeID": 1945,
     "categoryID": 5,
@@ -8230,7 +8197,7 @@
   },
   "1949": {
     "attributeID": 1949,
-    "categoryID": 7,
+    "categoryID": 52,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -8745,6 +8712,7 @@
   },
   "2064": {
     "attributeID": 2064,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "role bonus for command destroyers",
@@ -11721,27 +11689,6 @@
     "stackable": true,
     "unitID": 1
   },
-  "2458": {
-    "attributeID": 2458,
-    "categoryID": 7,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "displayNameID": {
-      "de": "Bergbauzyklus-Zeitmodifikator",
-      "en": "Mining Cycle Time Modifier",
-      "fr": "Modificateur de temps du cycle d'extraction minière",
-      "ja": "採掘サイクル時間乗数",
-      "ko": "채굴 사이클 시간 보정치",
-      "ru": "Влияние на время цикла буровых модулей",
-      "zh": "采矿循环周期调节值"
-    },
-    "highIsGood": false,
-    "name": "miningDurationRoleBonus",
-    "published": true,
-    "stackable": true,
-    "unitID": 105
-  },
   "2460": {
     "attributeID": 2460,
     "categoryID": 9,
@@ -11828,18 +11775,6 @@
     "stackable": true,
     "unitID": 105
   },
-  "2475": {
-    "attributeID": 2475,
-    "categoryID": 9,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "shipBonusICS4",
-    "published": false,
-    "stackable": true,
-    "unitID": 105
-  },
   "2574": {
     "attributeID": 2574,
     "categoryID": 37,
@@ -11885,21 +11820,9 @@
     "stackable": true,
     "unitID": 105
   },
-  "2579": {
-    "attributeID": 2579,
-    "categoryID": 9,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "roleBonusDroneIceHarvestingSpeed",
-    "published": false,
-    "stackable": true,
-    "unitID": 105
-  },
   "2580": {
     "attributeID": 2580,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -11908,17 +11831,6 @@
     "published": false,
     "stackable": true,
     "unitID": 105
-  },
-  "2582": {
-    "attributeID": 2582,
-    "categoryID": 7,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "shipBonusORECapital5",
-    "published": false,
-    "stackable": true
   },
   "2600": {
     "attributeID": 2600,
@@ -13522,6 +13434,54 @@
       "zh": "导管跳跃乘客数量"
     }
   },
+  "3136": {
+    "attributeID": 3136,
+    "categoryID": 40,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Capacity of ice-only hold",
+    "displayNameID": {
+      "de": "Eisfassungsvermögen",
+      "en": "Ice Hold Capacity",
+      "fr": "Capacité de la soute à glace",
+      "ja": "アイスホールド容量",
+      "ko": "아이스 저장고 적재량",
+      "ru": "Объём отсека для льда"
+    },
+    "highIsGood": true,
+    "iconID": 71,
+    "name": "specialIceHoldCapacity",
+    "published": true,
+    "stackable": true,
+    "tooltipDescriptionID": {
+      "de": "Das maximale Volumen, das im Eisfrachtraum gelagert werden kann",
+      "en": "The total volume that can be stored in the ice hold",
+      "fr": "Volume total pouvant être stocké dans la soute à glace",
+      "ja": "アイスホールドに積載できる総量",
+      "ko": "아이스 저장고에 보관할 수 있는 최대 용량",
+      "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для льда"
+    },
+    "tooltipTitleID": {
+      "de": "Eisfassungsvermögen",
+      "en": "Ice Hold Capacity",
+      "fr": "Capacité de la soute à glace",
+      "ja": "アイスホールド容量",
+      "ko": "아이스 저장고 적재량",
+      "ru": "Объём отсека для льда"
+    },
+    "unitID": 9
+  },
+  "3157": {
+    "attributeID": 3157,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "gallenteIndustrialBonusIceHoldCapacity",
+    "published": false,
+    "stackable": true,
+    "unitID": 105
+  },
   "3164": {
     "attributeID": 3164,
     "categoryID": 19,
@@ -13556,5 +13516,450 @@
       "ko": "Drop Chance Overwrite",
       "ru": "Изменение шанса выпадения добычи"
     }
+  },
+  "3167": {
+    "attributeID": 3167,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "expeditionFrigateBonusIceHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3177": {
+    "attributeID": 3177,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipRoleBonusOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3178": {
+    "attributeID": 3178,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipRoleBonusIceHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3179": {
+    "attributeID": 3179,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipRoleBonusLightDroneDamage",
+    "published": false,
+    "stackable": true
+  },
+  "3180": {
+    "attributeID": 3180,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipRoleBonusMediumDroneDamage",
+    "published": false,
+    "stackable": true
+  },
+  "3181": {
+    "attributeID": 3181,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "miningBargeBonusOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3182": {
+    "attributeID": 3182,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "miningBargeBonusIceHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3183": {
+    "attributeID": 3183,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "miningBargeBonusGasHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3184": {
+    "attributeID": 3184,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "miningBargeBonusOreMiningRange",
+    "published": false,
+    "stackable": true
+  },
+  "3185": {
+    "attributeID": 3185,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "miningBargeBonusIceHarvestingRange",
+    "published": false,
+    "stackable": true
+  },
+  "3187": {
+    "attributeID": 3187,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "miningBargeBonusGeneralMiningHoldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3188": {
+    "attributeID": 3188,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "miningBargeBonusShieldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3190": {
+    "attributeID": 3190,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "expeditionFrigateBonusSignatureRadius",
+    "published": false,
+    "stackable": true
+  },
+  "3191": {
+    "attributeID": 3191,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "expeditionFrigateBonusOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3192": {
+    "attributeID": 3192,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "expeditionFrigateBonusShieldResistance",
+    "published": false,
+    "stackable": true
+  },
+  "3193": {
+    "attributeID": 3193,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "exhumersBonusOreMiningDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3194": {
+    "attributeID": 3194,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "exhumersBonusIceHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3197": {
+    "attributeID": 3197,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "exhumersBonusOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3198": {
+    "attributeID": 3198,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "exhumersBonusGeneralMiningHoldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3199": {
+    "attributeID": 3199,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "exhumersBonusShieldResistance",
+    "published": false,
+    "stackable": true
+  },
+  "3203": {
+    "attributeID": 3203,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusDroneDamage",
+    "published": false,
+    "stackable": true
+  },
+  "3204": {
+    "attributeID": 3204,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusFuelConsuptionCompactIndustrialCore",
+    "published": false,
+    "stackable": true
+  },
+  "3205": {
+    "attributeID": 3205,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusMiningForemanBurstRange",
+    "published": false,
+    "stackable": true
+  },
+  "3210": {
+    "attributeID": 3210,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "minmatarIndustrialBonusGasHoldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3211": {
+    "attributeID": 3211,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusShipCargoCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3212": {
+    "attributeID": 3212,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusGeneralMiningHoldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3221": {
+    "attributeID": 3221,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusDroneOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3222": {
+    "attributeID": 3222,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "industrialCommandBonusDroneIceHarvestingCycleTime",
+    "published": false,
+    "stackable": true
+  },
+  "3223": {
+    "attributeID": 3223,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "capitalIndustrialShipBonusDroneOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3224": {
+    "attributeID": 3224,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "capitalIndustrialShipBonusDroneIceCycleTime",
+    "published": false,
+    "stackable": true
+  },
+  "3225": {
+    "attributeID": 3225,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipRoleBonusGasHarvesterDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3226": {
+    "attributeID": 3226,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "exhumersBonusGasHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3227": {
+    "attributeID": 3227,
+    "categoryID": 40,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Capacity of asteroid-only hold",
+    "displayNameID": {
+      "de": "Asteroidenfassungsvermögen",
+      "en": "Asteroid Hold Capacity",
+      "fr": "Capacité de la soute à astéroïdes",
+      "ja": "アステロイドホールド容量",
+      "ko": "소행성 저장고 적재량",
+      "ru": "Объём отсека для астероидов"
+    },
+    "highIsGood": true,
+    "iconID": 71,
+    "name": "specialAsteroidHoldCapacity",
+    "published": true,
+    "stackable": true,
+    "tooltipDescriptionID": {
+      "de": "Das maximale Volumen, das im Asteroidenfrachtraum gelagert werden kann",
+      "en": "The total volume that can be stored in the Asteroid Hold",
+      "fr": "Volume total pouvant être stocké dans la soute à astéroïdes",
+      "ja": "アステロイドホールドに積載できる総量",
+      "ko": "소행성 저장고에 보관할 수 있는 최대 용량",
+      "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для астероидов"
+    },
+    "tooltipTitleID": {
+      "de": "Asteroidenfassungsvermögen",
+      "en": "Asteroid Hold Capacity",
+      "fr": "Capacité de la soute à astéroïdes",
+      "ja": "アステロイドホールド容量",
+      "ko": "소행성 저장고 적재량",
+      "ru": "Объём отсека для астероидов"
+    },
+    "unitID": 9
+  },
+  "3228": {
+    "attributeID": 3228,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipRoleBonusStripMinerActivationCost",
+    "published": false,
+    "stackable": true
+  },
+  "3229": {
+    "attributeID": 3229,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipRoleBonusIceHarvesterActivationCost",
+    "published": false,
+    "stackable": true
+  },
+  "3230": {
+    "attributeID": 3230,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipRoleBonusOreMiningDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3231": {
+    "attributeID": 3231,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipRoleBonusGeneralMiningHoldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3233": {
+    "attributeID": 3233,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "capitalIndustrialShipBonusDroneHitPoints",
+    "published": false,
+    "stackable": true
+  },
+  "3235": {
+    "attributeID": 3235,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "industrialCommandBonusDroneHitPoints",
+    "published": false,
+    "stackable": true
+  },
+  "3237": {
+    "attributeID": 3237,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "miningFrigateBonusGasCloudHarvestingDuration",
+    "published": false,
+    "stackable": true
+  },
+  "3239": {
+    "attributeID": 3239,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipRoleBonusGasHarvestingYield",
+    "published": false,
+    "stackable": true
+  },
+  "3240": {
+    "attributeID": 3240,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "miningFrigateBonusIceHarvestingDuration",
+    "published": false,
+    "stackable": true
   }
 }
