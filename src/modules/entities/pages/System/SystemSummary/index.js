@@ -8,6 +8,8 @@ import SummaryLayout from 'layouts/SummaryLayout'
 import { Row, Label } from './styles'
 
 const QUALITY = 256
+const BASE = 'https://images.evetech.net'
+// const BASE = 'https://img.evetools.org/sdeimages'
 
 const noWrap = { whiteSpace: 'nowrap' }
 
@@ -15,11 +17,11 @@ const getImgUrl = (sunTypeID, systemID) => {
   if (!sunTypeID) {
     if (systemID >= 32000000) {
       // Unstable Abyssal Depths icon
-      return `https://img.evetools.org/sdeimages/types/47465/icon?size=${QUALITY}`
+      return `${BASE}/types/47465/icon?size=${QUALITY}`
     }
     return ''
   }
-  return `https://img.evetools.org/sdeimages/types/${sunTypeID}/render?size=${QUALITY}`
+  return `${BASE}/types/${sunTypeID}/render?size=${QUALITY}`
 }
 
 const SystemSummary = ({ stats }) => {
