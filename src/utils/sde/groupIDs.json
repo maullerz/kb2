@@ -10115,7 +10115,7 @@
     "anchored": false,
     "categoryID": 8,
     "fittableNonSingleton": true,
-    "name": "Structure Guided Bomb",
+    "name": "Guided Bomb",
     "published": true,
     "useBasePrice": false
   },
@@ -12842,7 +12842,7 @@
     "anchored": true,
     "categoryID": 2,
     "fittableNonSingleton": false,
-    "name": "Abyssal Trace",
+    "name": "Filament Trace",
     "published": false,
     "useBasePrice": false
   },
@@ -13592,7 +13592,7 @@
     "fittableNonSingleton": false,
     "name": "Gas Harvester Blueprint",
     "published": true,
-    "useBasePrice": false
+    "useBasePrice": true
   },
   "4141": {
     "anchorable": false,
@@ -13609,6 +13609,24 @@
     "categoryID": 17,
     "fittableNonSingleton": false,
     "name": "Rogue Drone Analysis Data",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4145": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Warp Matrix Filaments",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4165": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Peculiar Materials",
     "published": true,
     "useBasePrice": true
   },

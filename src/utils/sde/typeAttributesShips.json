@@ -6092,7 +6092,7 @@
   },
   "1356": {
     "attributeID": 1356,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -6104,7 +6104,7 @@
   },
   "1357": {
     "attributeID": 1357,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -6116,7 +6116,7 @@
   },
   "1358": {
     "attributeID": 1358,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -6128,7 +6128,7 @@
   },
   "1359": {
     "attributeID": 1359,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -6944,10 +6944,20 @@
     "published": true,
     "stackable": true,
     "tooltipDescriptionID": {
-      "en": "The total volume that can be stored in the gas hold"
+      "de": "Das maximale Volumen, das im Gasfrachtraum gelagert werden kann",
+      "en": "The total volume that can be stored in the gas hold",
+      "fr": "Volume total pouvant être stocké dans la soute à gaz",
+      "ja": "ガスホールドに積載できる総量",
+      "ko": "가스 저장고에 보관할 수 있는 최대 용량",
+      "ru": "Максимальный объём, допустимый к размещению в газовом отсеке"
     },
     "tooltipTitleID": {
-      "en": "Gas Hold Capacity"
+      "de": "Gasfassungsvermögen",
+      "en": "Gas Hold Capacity",
+      "fr": "Capacité de la soute à gaz",
+      "ja": "ガスホールド容量",
+      "ko": "가스 저장고 적재량",
+      "ru": "Объём газового отсека"
     },
     "unitID": 9
   },
@@ -7581,10 +7591,14 @@
     "dataType": 5,
     "defaultValue": 0,
     "description": "reduction in MicroWarp Drive signature",
-    "highIsGood": true,
+    "displayNameID": {
+      "en": "MWD sig penalty and cap need bonus"
+    },
+    "highIsGood": false,
     "name": "MWDSignatureRadiusBonus",
     "published": false,
-    "stackable": true
+    "stackable": true,
+    "unitID": 105
   },
   "1804": {
     "attributeID": 1804,
@@ -8780,12 +8794,12 @@
   },
   "2102": {
     "attributeID": 2102,
-    "categoryID": 7,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "name": "velocityPenaltyReduction",
+    "name": "ignoreCloakVelocityPenalty",
     "published": true,
     "stackable": true
   },
@@ -11798,24 +11812,12 @@
   },
   "2577": {
     "attributeID": 2577,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
     "name": "shipBonusICS5",
-    "published": false,
-    "stackable": true,
-    "unitID": 105
-  },
-  "2578": {
-    "attributeID": 2578,
-    "categoryID": 9,
-    "dataType": 5,
-    "defaultValue": 0,
-    "description": "",
-    "highIsGood": true,
-    "name": "roleBonusDroneMiningYield",
     "published": false,
     "stackable": true,
     "unitID": 105
@@ -13553,7 +13555,7 @@
     "dataType": 5,
     "defaultValue": 0,
     "highIsGood": true,
-    "name": "shipRoleBonusLightDroneDamage",
+    "name": "shipRoleBonusDroneDamage",
     "published": false,
     "stackable": true
   },
@@ -13563,7 +13565,7 @@
     "dataType": 5,
     "defaultValue": 0,
     "highIsGood": true,
-    "name": "shipRoleBonusMediumDroneDamage",
+    "name": "shipRoleBonusDroneHitPoints",
     "published": false,
     "stackable": true
   },
@@ -13903,16 +13905,6 @@
     "published": false,
     "stackable": true
   },
-  "3231": {
-    "attributeID": 3231,
-    "categoryID": 37,
-    "dataType": 5,
-    "defaultValue": 0,
-    "highIsGood": true,
-    "name": "shipRoleBonusGeneralMiningHoldCapacity",
-    "published": false,
-    "stackable": true
-  },
   "3233": {
     "attributeID": 3233,
     "categoryID": 37,
@@ -13955,11 +13947,42 @@
   },
   "3240": {
     "attributeID": 3240,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "highIsGood": false,
     "name": "miningFrigateBonusIceHarvestingDuration",
     "published": false,
     "stackable": true
+  },
+  "3241": {
+    "attributeID": 3241,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "gallenteIndustrialBonusMiningHoldCapacity",
+    "published": false,
+    "stackable": true
+  },
+  "3242": {
+    "attributeID": 3242,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipRoleBonusDroneOreMiningYield",
+    "published": false,
+    "stackable": true
+  },
+  "3250": {
+    "attributeID": 3250,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "eliteBonusHeavyInterdictors3",
+    "highIsGood": false,
+    "name": "eliteBonusHeavyInterdictors3",
+    "published": false,
+    "stackable": false
   }
 }

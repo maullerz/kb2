@@ -94321,7 +94321,7 @@
   },
   "47451": {
     "groupID": 1882,
-    "name": "Background planet Moon"
+    "name": "Background Moon 01"
   },
   "47452": {
     "groupID": 1882,
@@ -94337,7 +94337,7 @@
   },
   "47455": {
     "groupID": 1882,
-    "name": "Background planet Gas"
+    "name": "Planet Gas Background 01"
   },
   "47456": {
     "groupID": 1882,
@@ -103033,19 +103033,19 @@
   },
   "54359": {
     "groupID": 1088,
-    "name": "54359_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Black.png"
+    "name": "Women's Obsidian Opulence Jacket"
   },
   "54360": {
     "groupID": 1088,
-    "name": "54360_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Blue_Tie.png"
+    "name": "Women's Azure Abundance Jacket"
   },
   "54361": {
     "groupID": 1088,
-    "name": "54361_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_BrownStripes.png"
+    "name": "Women's Tawny Treasure Jacket"
   },
   "54362": {
     "groupID": 1088,
-    "name": "54362_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_GrayDark_Tie.png"
+    "name": "Women's Silver Supremacy Jacket"
   },
   "54363": {
     "groupID": 1088,
@@ -103057,67 +103057,67 @@
   },
   "54365": {
     "groupID": 1090,
-    "name": "54365_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Black.png"
+    "name": "Women's Obsidian Opulence Pants"
   },
   "54366": {
     "groupID": 1090,
-    "name": "54366_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Blue.png"
+    "name": "Women's Azure Abundance Pants"
   },
   "54367": {
     "groupID": 1090,
-    "name": "54367_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_BrownStripes.png"
+    "name": "Women's Tawny Treasure Pants"
   },
   "54368": {
     "groupID": 1090,
-    "name": "54368_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_GrayDark.png"
+    "name": "Women's Silver Supremacy Pants"
   },
   "54369": {
-    "groupID": 1090,
+    "groupID": 1088,
     "name": "Women's Rubedo Richesse Pants"
   },
   "54370": {
-    "groupID": 1090,
+    "groupID": 1088,
     "name": "Women's Albedo Affluence Pants"
   },
   "54371": {
     "groupID": 1090,
-    "name": "54371_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Black.png"
+    "name": "Men's Obsidian Opulence Pants"
   },
   "54372": {
     "groupID": 1090,
-    "name": "54372_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Blue.png"
+    "name": "Men's Azure Abundance Pants"
   },
   "54373": {
     "groupID": 1090,
-    "name": "54373_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_BrownStripes.png"
+    "name": "Men's Tawny Treasure Pants"
   },
   "54374": {
     "groupID": 1090,
-    "name": "54374_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_GrayDark.png"
+    "name": "Men's Silver Supremacy Pants"
   },
   "54375": {
-    "groupID": 1090,
+    "groupID": 1088,
     "name": "Men's Rubedo Richesse Pants"
   },
   "54376": {
-    "groupID": 1090,
+    "groupID": 1088,
     "name": "Men's Albedo Affluence Pants"
   },
   "54377": {
     "groupID": 1088,
-    "name": "54377_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Black.png"
+    "name": "Men's Obsidian Opulence Jacket"
   },
   "54378": {
     "groupID": 1088,
-    "name": "54378_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Blue_Tie.png"
+    "name": "Men's Azure Abundance Jacket"
   },
   "54379": {
     "groupID": 1088,
-    "name": "54379_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_BrownStripes.png"
+    "name": "Men's Tawny Treasure Jacket"
   },
   "54380": {
     "groupID": 1088,
-    "name": "54380_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_GreyDark_Tie.png"
+    "name": "Men's Silver Supremacy Jacket"
   },
   "54381": {
     "groupID": 1088,
@@ -108925,11 +108925,11 @@
     "groupID": 185
   },
   "57335": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Gala Coordination Databank"
   },
   "57336": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Gala Coordination Com Tower"
   },
   "57367": {
@@ -108958,7 +108958,7 @@
   },
   "57374": {
     "groupID": 4050,
-    "name": "1v1 Battleships Proving Filament"
+    "name": "Expired 1v1 Battleships Proving Filament"
   },
   "57397": {
     "groupID": 185
@@ -112535,7 +112535,7 @@
   },
   "60315": {
     "groupID": 4138,
-    "name": "Ore Gas Cloud Harvester "
+    "name": "ORE Gas Cloud Harvester"
   },
   "60316": {
     "groupID": 4037,
@@ -113323,15 +113323,19 @@
   },
   "60605": {
     "groupID": 4050,
-    "name": "Event 47 Proving Filament"
+    "name": "Exploration Frigate FFA Proving Filament"
   },
   "60606": {
     "groupID": 4050,
-    "name": "Event 48 Proving Filament"
+    "name": "2v2 T1 Cruiser Proving Filament"
   },
   "60607": {
     "groupID": 4050,
-    "name": "Event 49 Proving Filament"
+    "name": "Gala 1v1 Destroyers Proving Filament"
+  },
+  "60608": {
+    "groupID": 366,
+    "name": "Normal Space Return Conduit"
   },
   "60609": {
     "groupID": 1975,
@@ -113352,6 +113356,46 @@
   "60622": {
     "groupID": 1975,
     "name": "udh02_enviroment_asset"
+  },
+  "60623": {
+    "groupID": 1882,
+    "name": "Planet Barren Background 01"
+  },
+  "60624": {
+    "groupID": 1882,
+    "name": "Planet Barren Background 02"
+  },
+  "60625": {
+    "groupID": 1882,
+    "name": "Planet Barren Background 03"
+  },
+  "60626": {
+    "groupID": 1882,
+    "name": "Planet Gas Background 02"
+  },
+  "60627": {
+    "groupID": 1882,
+    "name": "Planet Ice Background 01"
+  },
+  "60628": {
+    "groupID": 1882,
+    "name": "Background Moon 02"
+  },
+  "60629": {
+    "groupID": 1882,
+    "name": "Background Moon 03"
+  },
+  "60630": {
+    "groupID": 1882,
+    "name": "Surface Rings Background 01"
+  },
+  "60631": {
+    "groupID": 1975,
+    "name": "Barren Planet Surface 01"
+  },
+  "60633": {
+    "groupID": 4145,
+    "name": "Expired Curious Warp Matrix Filament"
   },
   "60639": {
     "groupID": 1083,
@@ -113541,6 +113585,50 @@
     "groupID": 1896,
     "name": "AEGIS Secure Transfer Barge"
   },
+  "60735": {
+    "groupID": 1975,
+    "name": "dalf1_t1_wreck_env_asset"
+  },
+  "60736": {
+    "groupID": 1975,
+    "name": "dalf2_t1_wreck_env_asset"
+  },
+  "60737": {
+    "groupID": 1975,
+    "name": "dalf3_t1_wreck_env_asset"
+  },
+  "60738": {
+    "groupID": 1975,
+    "name": "dalc1_t1_wreck_env_asset"
+  },
+  "60739": {
+    "groupID": 1975,
+    "name": "dalc2_t1_wreck_env_asset"
+  },
+  "60740": {
+    "groupID": 1975,
+    "name": "dalb1_t1_wreck_env_asset"
+  },
+  "60741": {
+    "groupID": 1975,
+    "name": "dals1_wreck_env_asset"
+  },
+  "60742": {
+    "groupID": 1975,
+    "name": "dals2_wreck_env_asset"
+  },
+  "60743": {
+    "groupID": 1975,
+    "name": "dalde_01_env_asset"
+  },
+  "60744": {
+    "groupID": 1975,
+    "name": "daldr1_t1_env_asset"
+  },
+  "60745": {
+    "groupID": 1975,
+    "name": "tardis1_t1_env_asset"
+  },
   "60750": {
     "groupID": 314,
     "name": "AEGIS Security Patrol Reports"
@@ -113581,6 +113669,10 @@
     "groupID": 176,
     "name": "Aralez Blueprint"
   },
+  "60770": {
+    "groupID": 1991,
+    "name": "Warp Matrix Conduit Trace"
+  },
   "60802": {
     "groupID": 1971,
     "name": "Proving Turret Damage Bonus (Do not translate)"
@@ -113589,6 +113681,34 @@
     "groupID": 1971,
     "name": "Proving Overload and Turret and Missile Bonus (Do not translate)"
   },
+  "60850": {
+    "groupID": 306,
+    "name": "Small Peculiar Debris Fragment"
+  },
+  "60851": {
+    "groupID": 306,
+    "name": "Medium Peculiar Debris Fragment"
+  },
+  "60852": {
+    "groupID": 306,
+    "name": "Large Peculiar Debris Fragment"
+  },
+  "60853": {
+    "groupID": 306,
+    "name": "Small Peculiar Ruin"
+  },
+  "60854": {
+    "groupID": 306,
+    "name": "Medium Peculiar Ruin"
+  },
+  "60855": {
+    "groupID": 306,
+    "name": "Large Peculiar Ruin"
+  },
+  "60856": {
+    "groupID": 1975,
+    "name": "Cosmic Strings"
+  },
   "60859": {
     "groupID": 4100,
     "name": "17th Alliance Tournament: HYDRA RELOADED"
@@ -113596,6 +113716,10 @@
   "60905": {
     "groupID": 500,
     "name": "Yoiul Spiral Firework"
+  },
+  "60939": {
+    "groupID": 500,
+    "name": "Paradoxical Nebula Firework"
   },
   "60942": {
     "groupID": 1880,
@@ -113607,87 +113731,87 @@
   },
   "61083": {
     "groupID": 303,
-    "name": "Basic 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Basic 'Brainfreeze' Cerebral Accelerator"
   },
   "61084": {
     "groupID": 303,
-    "name": "Extended 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Extended 'Brainfreeze' Cerebral Accelerator"
   },
   "61085": {
     "groupID": 303,
-    "name": "Potent 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Potent 'Brainfreeze' Cerebral Accelerator"
   },
   "61086": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster I"
+    "name": "Expired Wightstorm Sunyata Booster I"
   },
   "61087": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster II"
+    "name": "Expired Wightstorm Sunyata Booster II"
   },
   "61090": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster III"
+    "name": "Expired Wightstorm Sunyata Booster III"
   },
   "61091": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster I"
+    "name": "Expired Wightstorm Nirvana Booster I"
   },
   "61093": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster II"
+    "name": "Expired Wightstorm Nirvana Booster II"
   },
   "61096": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster III"
+    "name": "Expired Wightstorm Nirvana Booster III"
   },
   "61097": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster I"
+    "name": "Expired Wightstorm Rapture Booster I"
   },
   "61099": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster II"
+    "name": "Expired Wightstorm Rapture Booster II"
   },
   "61101": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster III"
+    "name": "Expired Wightstorm Rapture Booster III"
   },
   "61103": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster I"
+    "name": "Expired Wightstorm Cetana Booster I"
   },
   "61105": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster II"
+    "name": "Expired Wightstorm Cetana Booster II"
   },
   "61107": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster III"
+    "name": "Expired Wightstorm Cetana Booster III"
   },
   "61110": {
     "groupID": 303,
-    "name": "Wightstorm  Vitarka Booster I"
+    "name": "Expired Wightstorm Vitarka Booster I"
   },
   "61112": {
     "groupID": 303,
-    "name": "Wightstorm  Vitarka Booster II"
+    "name": "Expired Wightstorm Vitarka Booster II"
   },
   "61114": {
     "groupID": 303,
-    "name": "Wightstorm  Vitarka Booster III"
+    "name": "Expired Wightstorm Vitarka Booster III"
   },
   "61116": {
     "groupID": 303,
-    "name": "Wightstorm  Manasikara Booster I"
+    "name": "Expired Wightstorm Manasikara Booster I"
   },
   "61118": {
     "groupID": 303,
-    "name": "Wightstorm  Manasikara Booster II"
+    "name": "Expired Wightstorm Manasikara Booster II"
   },
   "61119": {
     "groupID": 303,
-    "name": "Wightstorm  Manasikara Booster III"
+    "name": "Expired Wightstorm Manasikara Booster III"
   },
   "61129": {
     "groupID": 1194,
@@ -113728,6 +113852,22 @@
   "61138": {
     "groupID": 4041,
     "name": "RDLF-10L Lowsec Ice Storm Filament"
+  },
+  "61180": {
+    "groupID": 1975,
+    "name": "Flare Background Blue 01"
+  },
+  "61181": {
+    "groupID": 1975,
+    "name": "Flare Background Orange 01"
+  },
+  "61195": {
+    "groupID": 1975,
+    "name": "ENV_BinaryBlue_01a"
+  },
+  "61196": {
+    "groupID": 1975,
+    "name": "ENV_BinaryRed_01a"
   },
   "61197": {
     "groupID": 482,
@@ -113893,12 +114033,816 @@
     "groupID": 1880,
     "name": "Darkwight Rakshasa"
   },
+  "61305": {
+    "groupID": 1971,
+    "name": "Unknown Space Boundary "
+  },
   "61396": {
     "groupID": 1975,
     "name": "Sansha Remote Logistics Station"
   },
+  "61532": {
+    "groupID": 1089,
+    "name": "Women's Interstellar Convergence T-Shirt"
+  },
+  "61533": {
+    "groupID": 1089,
+    "name": "Men's Interstellar Convergence T-Shirt"
+  },
+  "61535": {
+    "groupID": 1088,
+    "name": "Women's Paradoxical Scarf"
+  },
+  "61536": {
+    "groupID": 1088,
+    "name": "Men's Paradoxical Scarf"
+  },
+  "61554": {
+    "groupID": 1105,
+    "name": "A_32b"
+  },
+  "61555": {
+    "groupID": 1105,
+    "name": "A_31b"
+  },
+  "61562": {
+    "groupID": 1975,
+    "name": "dalde_02_env_asset"
+  },
+  "61563": {
+    "groupID": 1975,
+    "name": "dalde_03_env_asset"
+  },
+  "61564": {
+    "groupID": 1975,
+    "name": "dalde_04_env_asset"
+  },
+  "61565": {
+    "groupID": 1975,
+    "name": "dalde_05_env_asset"
+  },
+  "61569": {
+    "groupID": 1975,
+    "name": "dalde_06_env_asset"
+  },
+  "61570": {
+    "groupID": 1975,
+    "name": "dalde_07_env_asset"
+  },
+  "61571": {
+    "groupID": 1975,
+    "name": "dalde_08_env_asset"
+  },
   "61579": {
     "groupID": 1971,
     "name": "Proving Heat Damage and Afterburner Bonus (Do not translate)"
+  },
+  "61654": {
+    "groupID": 4145,
+    "name": "Expired Precarious Warp Matrix Filament"
+  },
+  "61655": {
+    "groupID": 4145,
+    "name": "Expired Hazardous Warp Matrix Filament"
+  },
+  "61656": {
+    "groupID": 4145,
+    "name": "Expired Enigmatic Warp Matrix Filament"
+  },
+  "61657": {
+    "groupID": 1567,
+    "name": "Biomechanoid Combat Unit"
+  },
+  "61658": {
+    "groupID": 306,
+    "name": "Huge Peculiar Ruin"
+  },
+  "61659": {
+    "groupID": 306,
+    "name": "Massive Peculiar Ruin"
+  },
+  "61660": {
+    "groupID": 1666,
+    "name": "Critically Damaged Biomechanoid Saucer"
+  },
+  "61661": {
+    "groupID": 227,
+    "name": "Biomechanoid Spawner 1"
+  },
+  "61662": {
+    "groupID": 1975,
+    "name": "Non-interactable Spatial Rift B"
+  },
+  "61663": {
+    "groupID": 1975,
+    "name": "Non-interactable Spatial Rift C"
+  },
+  "61664": {
+    "groupID": 1975,
+    "name": "Non-interactable Spatial Rift D"
+  },
+  "61665": {
+    "groupID": 1975,
+    "name": "Non-interactable Spatial Rift E"
+  },
+  "61666": {
+    "groupID": 53,
+    "name": "Pew"
+  },
+  "61667": {
+    "groupID": 1975,
+    "name": "Non-interactable Warp Matrix Rift"
+  },
+  "61841": {
+    "groupID": 1929,
+    "name": "Convergent Accelerant Nexus"
+  },
+  "61842": {
+    "groupID": 1929,
+    "name": "Convergent Decelerant Nexus"
+  },
+  "61848": {
+    "groupID": 1088,
+    "name": "Women's Proper Dapper Outfit"
+  },
+  "61879": {
+    "groupID": 1975,
+    "name": "Non Interactable Violent Wormhole (do not translate)"
+  },
+  "61923": {
+    "groupID": 1975,
+    "name": "Non Interactable Sharded Rock (Do not translate)"
+  },
+  "61925": {
+    "groupID": 1975,
+    "name": "Non Interactable Small Rock (Do not translate)"
+  },
+  "61930": {
+    "groupID": 383,
+    "name": "Displaced Erratic Sentry Turret"
+  },
+  "61931": {
+    "groupID": 1666,
+    "name": "Heavily Damaged Biomechanoid Saucer"
+  },
+  "61932": {
+    "groupID": 1666,
+    "name": "Damaged Biomechanoid Saucer"
+  },
+  "61933": {
+    "groupID": 1666,
+    "name": "Impaired Biomechanoid Saucer"
+  },
+  "61949": {
+    "groupID": 1088,
+    "name": "Men's Proper Dapper Outfit"
+  },
+  "61964": {
+    "groupID": 227,
+    "name": "Biomechanoid Spawner 2"
+  },
+  "61965": {
+    "groupID": 227,
+    "name": "Biomechanoid Spawner 3"
+  },
+  "61966": {
+    "groupID": 227,
+    "name": "Biomechanoid Spawner 4"
+  },
+  "61967": {
+    "groupID": 227,
+    "name": "Saucer Spawner 1"
+  },
+  "61968": {
+    "groupID": 227,
+    "name": "Saucer Spawner 2"
+  },
+  "61969": {
+    "groupID": 227,
+    "name": "Saucer Spawner 3"
+  },
+  "61970": {
+    "groupID": 227,
+    "name": "Saucer Spawner 4"
+  },
+  "61980": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition Booster I"
+  },
+  "61981": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition Booster II"
+  },
+  "61982": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition Booster III"
+  },
+  "61983": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing Booster I"
+  },
+  "61984": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing Booster II"
+  },
+  "61985": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing Booster III"
+  },
+  "61986": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding Booster I"
+  },
+  "61987": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding Booster II"
+  },
+  "61988": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding Booster III"
+  },
+  "61989": {
+    "groupID": 303,
+    "name": "AIR Relic Range Booster I"
+  },
+  "61990": {
+    "groupID": 303,
+    "name": "AIR Relic Range Booster II"
+  },
+  "61991": {
+    "groupID": 303,
+    "name": "AIR Relic Range Booster III"
+  },
+  "61992": {
+    "groupID": 303,
+    "name": "AIR Relic Coherence Booster I"
+  },
+  "61993": {
+    "groupID": 303,
+    "name": "AIR Relic Coherence Booster II"
+  },
+  "61994": {
+    "groupID": 303,
+    "name": "AIR Relic Coherence Booster III"
+  },
+  "61995": {
+    "groupID": 303,
+    "name": "AIR Relic Strength Booster I"
+  },
+  "61996": {
+    "groupID": 303,
+    "name": "AIR Relic Strength Booster II"
+  },
+  "61997": {
+    "groupID": 303,
+    "name": "AIR Relic Strength Booster III"
+  },
+  "61998": {
+    "groupID": 303,
+    "name": "AIR Signature Booster I"
+  },
+  "61999": {
+    "groupID": 303,
+    "name": "AIR Signature Booster II"
+  },
+  "62000": {
+    "groupID": 303,
+    "name": "AIR Signature Booster III"
+  },
+  "62001": {
+    "groupID": 303,
+    "name": "AIR Agility Booster I"
+  },
+  "62002": {
+    "groupID": 303,
+    "name": "AIR Agility Booster II"
+  },
+  "62003": {
+    "groupID": 303,
+    "name": "AIR Agility Booster III"
+  },
+  "62004": {
+    "groupID": 303,
+    "name": "AIR Repairer Booster I"
+  },
+  "62005": {
+    "groupID": 303,
+    "name": "AIR Repairer Booster II"
+  },
+  "62006": {
+    "groupID": 303,
+    "name": "AIR Repairer Booster III"
+  },
+  "62028": {
+    "groupID": 1194,
+    "name": "Interstellar Convergence Booster Crate"
+  },
+  "62029": {
+    "groupID": 1194,
+    "name": "Paradoxical Nebula Firework Crate"
+  },
+  "62030": {
+    "groupID": 1548,
+    "name": "Biomechanoid Guided Neutralizer Bomb"
+  },
+  "62031": {
+    "groupID": 4165,
+    "name": "Peculiar Data Collection"
+  },
+  "62032": {
+    "groupID": 4165,
+    "name": "Time Crystal Oscillator"
+  },
+  "62033": {
+    "groupID": 4165,
+    "name": "Strange Matter Component X-13"
+  },
+  "62034": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Y-73"
+  },
+  "62035": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Z-113"
+  },
+  "62036": {
+    "groupID": 4165,
+    "name": "Strange Matter Component X-17"
+  },
+  "62037": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Y-79"
+  },
+  "62038": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Z-149"
+  },
+  "62039": {
+    "groupID": 4165,
+    "name": "Strange Matter Component X-31"
+  },
+  "62040": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Y-97"
+  },
+  "62041": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Z-157"
+  },
+  "62042": {
+    "groupID": 4165,
+    "name": "Strange Matter Component X-37"
+  },
+  "62043": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Y-107"
+  },
+  "62044": {
+    "groupID": 4165,
+    "name": "Strange Matter Component Z-167"
+  },
+  "62045": {
+    "groupID": 4165,
+    "name": "Strange Matter Component X-71"
+  },
+  "62046": {
+    "groupID": 1194,
+    "name": "Scale Model of a Blue Box"
+  },
+  "62047": {
+    "groupID": 1194,
+    "name": "Inactive Sonic Multitool"
+  },
+  "62048": {
+    "groupID": 1194,
+    "name": "Bag of Gelatinized Confectionary "
+  },
+  "62049": {
+    "groupID": 1194,
+    "name": "Chronologically Curious Blue Diary"
+  },
+  "62050": {
+    "groupID": 1194,
+    "name": "Fragment Inscribed with Odd Circular Text"
+  },
+  "62051": {
+    "groupID": 1194,
+    "name": "Snow Globe with Peculiar Architecture"
+  },
+  "62052": {
+    "groupID": 1194,
+    "name": "Extendable plunger tool"
+  },
+  "62053": {
+    "groupID": 1194,
+    "name": "Biomechanical Armor Fragment"
+  },
+  "62054": {
+    "groupID": 1194,
+    "name": "Neutron Flow Polarity Reverser"
+  },
+  "62055": {
+    "groupID": 4145,
+    "name": "Expired Mysterious Warp Matrix Filament"
+  },
+  "62056": {
+    "groupID": 4145,
+    "name": "Expired Dangerous Warp Matrix Filament"
+  },
+  "62057": {
+    "groupID": 4145,
+    "name": "Expired Perilous Warp Matrix Filament"
+  },
+  "62058": {
+    "groupID": 4052,
+    "name": "Expired Curious Warp Matrix Filament Blueprint"
+  },
+  "62059": {
+    "groupID": 4052,
+    "name": "Expired Enigmatic Warp Matrix Filament Blueprint"
+  },
+  "62060": {
+    "groupID": 4052,
+    "name": "Expired Mysterious Warp Matrix Filament Blueprint"
+  },
+  "62061": {
+    "groupID": 4052,
+    "name": "Expired Precarious Warp Matrix Filament Blueprint"
+  },
+  "62062": {
+    "groupID": 4052,
+    "name": "Expired Hazardous Warp Matrix Filament Blueprint"
+  },
+  "62063": {
+    "groupID": 4052,
+    "name": "Expired Dangerous Warp Matrix Filament Blueprint"
+  },
+  "62064": {
+    "groupID": 4052,
+    "name": "Expired Perilous Warp Matrix Filament Blueprint"
+  },
+  "62235": {
+    "groupID": 303,
+    "name": "Basic 'Convergent' Cerebral Accelerator"
+  },
+  "62236": {
+    "groupID": 303,
+    "name": "Extended 'Convergent' Cerebral Accelerator"
+  },
+  "62237": {
+    "groupID": 303,
+    "name": "Potent 'Convergent' Cerebral Accelerator"
+  },
+  "62250": {
+    "groupID": 1814,
+    "name": "♦ Infested Abaddon"
+  },
+  "62251": {
+    "groupID": 1814,
+    "name": "♦ Infested Dominix"
+  },
+  "62252": {
+    "groupID": 1814,
+    "name": "♦ Infested Raven"
+  },
+  "62253": {
+    "groupID": 1814,
+    "name": "♦ Infested Typhoon"
+  },
+  "62255": {
+    "groupID": 186,
+    "name": "Biomechanoid Saucer Wreck"
+  },
+  "62273": {
+    "groupID": 4050,
+    "name": "1v1 Battleships Proving Filament"
+  },
+  "62274": {
+    "groupID": 4050,
+    "name": "Event 51 Proving Filament"
+  },
+  "62275": {
+    "groupID": 4050,
+    "name": "Event 52 Proving Filament"
+  },
+  "62276": {
+    "groupID": 4050,
+    "name": "Event 53 Proving Filament"
+  },
+  "62277": {
+    "groupID": 4050,
+    "name": "Event 54 Proving Filament"
+  },
+  "62278": {
+    "groupID": 4050,
+    "name": "Event 55 Proving Filament"
+  },
+  "62279": {
+    "groupID": 4050,
+    "name": "Event 56 Proving Filament"
+  },
+  "62342": {
+    "groupID": 1971,
+    "name": "Proving Overload and Turret Bonus (Do not translate)"
+  },
+  "62395": {
+    "groupID": 1971,
+    "name": "Proving Gala 2022 Bonus (Do not translate)"
+  },
+  "62439": {
+    "groupID": 1975,
+    "name": "ud3_enviroment_asset"
+  },
+  "62440": {
+    "groupID": 1975,
+    "name": "ud2_enviroment_asset"
+  },
+  "62441": {
+    "groupID": 1975,
+    "name": "ud1_enviroment_asset"
+  },
+  "62442": {
+    "groupID": 1975,
+    "name": "ud4_enviroment_asset"
+  },
+  "62443": {
+    "groupID": 1975,
+    "name": "refm1_t1_wreck_enviroment_asset"
+  },
+  "62444": {
+    "groupID": 1975,
+    "name": "corpse_m1_enviroment_asset"
+  },
+  "62445": {
+    "groupID": 1975,
+    "name": "ust_t1_enviroment_asset"
+  },
+  "62446": {
+    "groupID": 226,
+    "name": "Abandoned Serpentis Booster Laboratory"
+  },
+  "62448": {
+    "groupID": 4145,
+    "name": "QA Void Filament"
+  },
+  "62450": {
+    "groupID": 1218,
+    "name": "Shipboard Compression Technology"
+  },
+  "62451": {
+    "groupID": 1218,
+    "name": "Capital Shipboard Compression Technology"
+  },
+  "62452": {
+    "groupID": 1218,
+    "name": "Gas Decompression Efficiency"
+  },
+  "62453": {
+    "groupID": 258,
+    "name": "Fleet Compression Logistics"
+  },
+  "62595": {
+    "groupID": 303,
+    "name": "Basic 'Bonding' Cerebral Accelerator"
+  },
+  "62596": {
+    "groupID": 303,
+    "name": "Potent 'Bonding' Cerebral Accelerator"
+  },
+  "62597": {
+    "groupID": 303,
+    "name": "Extended 'Bonding' Cerebral Accelerator"
+  },
+  "62598": {
+    "groupID": 303,
+    "name": "Guardian 'Chokmah' Booster I"
+  },
+  "62599": {
+    "groupID": 303,
+    "name": "Guardian 'Chokmah' Booster II"
+  },
+  "62600": {
+    "groupID": 303,
+    "name": "Guardian 'Chokmah' Booster III"
+  },
+  "62601": {
+    "groupID": 303,
+    "name": "Guardian 'Keter' Booster I"
+  },
+  "62602": {
+    "groupID": 303,
+    "name": "Guardian 'Keter' Booster II"
+  },
+  "62603": {
+    "groupID": 303,
+    "name": "Guardian 'Keter' Booster III"
+  },
+  "62604": {
+    "groupID": 303,
+    "name": "Guardian 'Yesod' Booster I"
+  },
+  "62605": {
+    "groupID": 303,
+    "name": "Guardian 'Yesod' Booster II"
+  },
+  "62606": {
+    "groupID": 303,
+    "name": "Guardian 'Yesod' Booster III"
+  },
+  "62607": {
+    "groupID": 303,
+    "name": "Guardian 'Netzach' Booster I"
+  },
+  "62608": {
+    "groupID": 303,
+    "name": "Guardian 'Netzach' Booster II"
+  },
+  "62609": {
+    "groupID": 303,
+    "name": "Guardian 'Netzach' Booster III"
+  },
+  "62610": {
+    "groupID": 303,
+    "name": "Guardian 'Tiferet' Booster I"
+  },
+  "62611": {
+    "groupID": 303,
+    "name": "Guardian 'Tiferet' Booster II"
+  },
+  "62612": {
+    "groupID": 303,
+    "name": "Guardian 'Tiferet' Booster III"
+  },
+  "62613": {
+    "groupID": 303,
+    "name": "Guardian 'Binah' Booster I"
+  },
+  "62614": {
+    "groupID": 303,
+    "name": "Guardian 'Binah' Booster II"
+  },
+  "62615": {
+    "groupID": 303,
+    "name": "Guardian 'Binah' Booster III"
+  },
+  "62616": {
+    "groupID": 303,
+    "name": "Guardian 'Gevurah' Booster I"
+  },
+  "62617": {
+    "groupID": 303,
+    "name": "Guardian 'Gevurah' Booster II"
+  },
+  "62618": {
+    "groupID": 303,
+    "name": "Guardian 'Gevurah' Booster III"
+  },
+  "62619": {
+    "groupID": 303,
+    "name": "Guardian 'Hod' Booster I"
+  },
+  "62620": {
+    "groupID": 303,
+    "name": "Guardian 'Hod' Booster II"
+  },
+  "62621": {
+    "groupID": 303,
+    "name": "Guardian 'Hod' Booster III"
+  },
+  "62650": {
+    "groupID": 1194,
+    "name": "Gala Party Supplies Crate"
+  },
+  "62651": {
+    "groupID": 1194,
+    "name": "Guardian's Gala Booster Crate"
+  },
+  "62709": {
+    "groupID": 314,
+    "name": "ORE Research Data Fragment"
+  },
+  "62710": {
+    "groupID": 283,
+    "name": "Kidnapped ORE Researcher"
+  },
+  "62711": {
+    "groupID": 226,
+    "name": "ORE Technologies Applied Research Center"
+  },
+  "62712": {
+    "groupID": 226,
+    "name": "Motain's Modified Quantum Flux Generator"
+  },
+  "62726": {
+    "groupID": 1665,
+    "name": "Mordu's Markguard"
+  },
+  "62728": {
+    "groupID": 1667,
+    "name": "Mordu's Warmark"
+  },
+  "62729": {
+    "groupID": 227,
+    "name": "Mordu ORE Guard Spawner"
+  },
+  "62740": {
+    "groupID": 1975,
+    "name": "Non-Interactable Angel Control Tower"
+  },
+  "62741": {
+    "groupID": 1975,
+    "name": "Non-Interactable Serpentis Control Tower"
+  },
+  "62742": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gala Bunker"
+  },
+  "62743": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gala Junction"
+  },
+  "62744": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gala Lookout"
+  },
+  "62745": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gala Barricade"
+  },
+  "62746": {
+    "groupID": 1975,
+    "name": "Non-interactable Rorqual"
+  },
+  "62747": {
+    "groupID": 1975,
+    "name": "Non-interactable Bowhead"
+  },
+  "62748": {
+    "groupID": 1975,
+    "name": "gs7_environment_asset"
+  },
+  "62749": {
+    "groupID": 1975,
+    "name": "Non-interactable Gala Elevator"
+  },
+  "62751": {
+    "groupID": 1975,
+    "name": "Non-interactable Landing Pad"
+  },
+  "62752": {
+    "groupID": 1975,
+    "name": "Non-interactable Procurer"
+  },
+  "62753": {
+    "groupID": 1975,
+    "name": "Non-interactable Retriever"
+  },
+  "62754": {
+    "groupID": 1975,
+    "name": "Non-interactable Covetor"
+  },
+  "62755": {
+    "groupID": 1975,
+    "name": "Non-interactable Procurer 2"
+  },
+  "62756": {
+    "groupID": 1975,
+    "name": "Non-interactable Retriever 2"
+  },
+  "62757": {
+    "groupID": 1975,
+    "name": "Non-interactable Covetor 2"
+  },
+  "62758": {
+    "groupID": 1975,
+    "name": "Non-interactable Skiff"
+  },
+  "62759": {
+    "groupID": 1975,
+    "name": "Non-interactable Mackinaw"
+  },
+  "62760": {
+    "groupID": 1975,
+    "name": "Non-interactable Hulk"
+  },
+  "62761": {
+    "groupID": 1975,
+    "name": "Non-interactable Skiff 2"
+  },
+  "62762": {
+    "groupID": 1975,
+    "name": "Non-interactable Mackinaw 2"
+  },
+  "62763": {
+    "groupID": 1975,
+    "name": "Non-interactable Hulk 2"
+  },
+  "62764": {
+    "groupID": 1975,
+    "name": "Non-interactable Orca"
+  },
+  "62765": {
+    "groupID": 1975,
+    "name": "Non-interactable Porpoise"
   }
 }

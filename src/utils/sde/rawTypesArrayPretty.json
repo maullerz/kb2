@@ -117902,7 +117902,7 @@
   [
     47451,
     1882,
-    "Background planet Moon"
+    "Background Moon 01"
   ],
   [
     47452,
@@ -117922,7 +117922,7 @@
   [
     47455,
     1882,
-    "Background planet Gas"
+    "Planet Gas Background 01"
   ],
   [
     47456,
@@ -128792,22 +128792,22 @@
   [
     54359,
     1088,
-    "54359_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Black.png"
+    "Women's Obsidian Opulence Jacket"
   ],
   [
     54360,
     1088,
-    "54360_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_Blue_Tie.png"
+    "Women's Azure Abundance Jacket"
   ],
   [
     54361,
     1088,
-    "54361_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_BrownStripes.png"
+    "Women's Tawny Treasure Jacket"
   ],
   [
     54362,
     1088,
-    "54362_Female_Outer_JacketCorpBusinessF01_Types_JacketCorpBusinessF01_GrayDark_Tie.png"
+    "Women's Silver Supremacy Jacket"
   ],
   [
     54363,
@@ -128822,82 +128822,82 @@
   [
     54365,
     1090,
-    "54365_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Black.png"
+    "Women's Obsidian Opulence Pants"
   ],
   [
     54366,
     1090,
-    "54366_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_Blue.png"
+    "Women's Azure Abundance Pants"
   ],
   [
     54367,
     1090,
-    "54367_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_BrownStripes.png"
+    "Women's Tawny Treasure Pants"
   ],
   [
     54368,
     1090,
-    "54368_Female_bottomOuter_PantsCorpBusinessF01_Types_PantsCorpBusinessF01_GrayDark.png"
+    "Women's Silver Supremacy Pants"
   ],
   [
     54369,
-    1090,
+    1088,
     "Women's Rubedo Richesse Pants"
   ],
   [
     54370,
-    1090,
+    1088,
     "Women's Albedo Affluence Pants"
   ],
   [
     54371,
     1090,
-    "54371_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Black.png"
+    "Men's Obsidian Opulence Pants"
   ],
   [
     54372,
     1090,
-    "54372_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_Blue.png"
+    "Men's Azure Abundance Pants"
   ],
   [
     54373,
     1090,
-    "54373_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_BrownStripes.png"
+    "Men's Tawny Treasure Pants"
   ],
   [
     54374,
     1090,
-    "54374_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_GrayDark.png"
+    "Men's Silver Supremacy Pants"
   ],
   [
     54375,
-    1090,
+    1088,
     "Men's Rubedo Richesse Pants"
   ],
   [
     54376,
-    1090,
+    1088,
     "Men's Albedo Affluence Pants"
   ],
   [
     54377,
     1088,
-    "54377_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Black.png"
+    "Men's Obsidian Opulence Jacket"
   ],
   [
     54378,
     1088,
-    "54378_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_Blue_Tie.png"
+    "Men's Azure Abundance Jacket"
   ],
   [
     54379,
     1088,
-    "54379_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_BrownStripes.png"
+    "Men's Tawny Treasure Jacket"
   ],
   [
     54380,
     1088,
-    "54380_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_GreyDark_Tie.png"
+    "Men's Silver Supremacy Jacket"
   ],
   [
     54381,
@@ -136161,12 +136161,12 @@
   ],
   [
     57335,
-    1207,
+    306,
     "Gala Coordination Databank"
   ],
   [
     57336,
-    1207,
+    306,
     "Gala Coordination Com Tower"
   ],
   [
@@ -136202,7 +136202,7 @@
   [
     57374,
     4050,
-    "1v1 Battleships Proving Filament"
+    "Expired 1v1 Battleships Proving Filament"
   ],
   [
     57397,
@@ -140677,7 +140677,7 @@
   [
     60315,
     4138,
-    "Ore Gas Cloud Harvester "
+    "ORE Gas Cloud Harvester"
   ],
   [
     60316,
@@ -141662,17 +141662,22 @@
   [
     60605,
     4050,
-    "Event 47 Proving Filament"
+    "Exploration Frigate FFA Proving Filament"
   ],
   [
     60606,
     4050,
-    "Event 48 Proving Filament"
+    "2v2 T1 Cruiser Proving Filament"
   ],
   [
     60607,
     4050,
-    "Event 49 Proving Filament"
+    "Gala 1v1 Destroyers Proving Filament"
+  ],
+  [
+    60608,
+    366,
+    "Normal Space Return Conduit"
   ],
   [
     60609,
@@ -141698,6 +141703,56 @@
     60622,
     1975,
     "udh02_enviroment_asset"
+  ],
+  [
+    60623,
+    1882,
+    "Planet Barren Background 01"
+  ],
+  [
+    60624,
+    1882,
+    "Planet Barren Background 02"
+  ],
+  [
+    60625,
+    1882,
+    "Planet Barren Background 03"
+  ],
+  [
+    60626,
+    1882,
+    "Planet Gas Background 02"
+  ],
+  [
+    60627,
+    1882,
+    "Planet Ice Background 01"
+  ],
+  [
+    60628,
+    1882,
+    "Background Moon 02"
+  ],
+  [
+    60629,
+    1882,
+    "Background Moon 03"
+  ],
+  [
+    60630,
+    1882,
+    "Surface Rings Background 01"
+  ],
+  [
+    60631,
+    1975,
+    "Barren Planet Surface 01"
+  ],
+  [
+    60633,
+    4145,
+    "Expired Curious Warp Matrix Filament"
   ],
   [
     60639,
@@ -141935,6 +141990,61 @@
     "AEGIS Secure Transfer Barge"
   ],
   [
+    60735,
+    1975,
+    "dalf1_t1_wreck_env_asset"
+  ],
+  [
+    60736,
+    1975,
+    "dalf2_t1_wreck_env_asset"
+  ],
+  [
+    60737,
+    1975,
+    "dalf3_t1_wreck_env_asset"
+  ],
+  [
+    60738,
+    1975,
+    "dalc1_t1_wreck_env_asset"
+  ],
+  [
+    60739,
+    1975,
+    "dalc2_t1_wreck_env_asset"
+  ],
+  [
+    60740,
+    1975,
+    "dalb1_t1_wreck_env_asset"
+  ],
+  [
+    60741,
+    1975,
+    "dals1_wreck_env_asset"
+  ],
+  [
+    60742,
+    1975,
+    "dals2_wreck_env_asset"
+  ],
+  [
+    60743,
+    1975,
+    "dalde_01_env_asset"
+  ],
+  [
+    60744,
+    1975,
+    "daldr1_t1_env_asset"
+  ],
+  [
+    60745,
+    1975,
+    "tardis1_t1_env_asset"
+  ],
+  [
     60750,
     314,
     "AEGIS Security Patrol Reports"
@@ -141985,6 +142095,11 @@
     "Aralez Blueprint"
   ],
   [
+    60770,
+    1991,
+    "Warp Matrix Conduit Trace"
+  ],
+  [
     60802,
     1971,
     "Proving Turret Damage Bonus (Do not translate)"
@@ -141995,6 +142110,41 @@
     "Proving Overload and Turret and Missile Bonus (Do not translate)"
   ],
   [
+    60850,
+    306,
+    "Small Peculiar Debris Fragment"
+  ],
+  [
+    60851,
+    306,
+    "Medium Peculiar Debris Fragment"
+  ],
+  [
+    60852,
+    306,
+    "Large Peculiar Debris Fragment"
+  ],
+  [
+    60853,
+    306,
+    "Small Peculiar Ruin"
+  ],
+  [
+    60854,
+    306,
+    "Medium Peculiar Ruin"
+  ],
+  [
+    60855,
+    306,
+    "Large Peculiar Ruin"
+  ],
+  [
+    60856,
+    1975,
+    "Cosmic Strings"
+  ],
+  [
     60859,
     4100,
     "17th Alliance Tournament: HYDRA RELOADED"
@@ -142003,6 +142153,11 @@
     60905,
     500,
     "Yoiul Spiral Firework"
+  ],
+  [
+    60939,
+    500,
+    "Paradoxical Nebula Firework"
   ],
   [
     60942,
@@ -142017,107 +142172,107 @@
   [
     61083,
     303,
-    "Basic 'Brainfreeze' Cerebral Accelerator"
+    "Expired Basic 'Brainfreeze' Cerebral Accelerator"
   ],
   [
     61084,
     303,
-    "Extended 'Brainfreeze' Cerebral Accelerator"
+    "Expired Extended 'Brainfreeze' Cerebral Accelerator"
   ],
   [
     61085,
     303,
-    "Potent 'Brainfreeze' Cerebral Accelerator"
+    "Expired Potent 'Brainfreeze' Cerebral Accelerator"
   ],
   [
     61086,
     303,
-    "Wightstorm Sunyata Booster I"
+    "Expired Wightstorm Sunyata Booster I"
   ],
   [
     61087,
     303,
-    "Wightstorm Sunyata Booster II"
+    "Expired Wightstorm Sunyata Booster II"
   ],
   [
     61090,
     303,
-    "Wightstorm Sunyata Booster III"
+    "Expired Wightstorm Sunyata Booster III"
   ],
   [
     61091,
     303,
-    "Wightstorm Nirvana Booster I"
+    "Expired Wightstorm Nirvana Booster I"
   ],
   [
     61093,
     303,
-    "Wightstorm Nirvana Booster II"
+    "Expired Wightstorm Nirvana Booster II"
   ],
   [
     61096,
     303,
-    "Wightstorm Nirvana Booster III"
+    "Expired Wightstorm Nirvana Booster III"
   ],
   [
     61097,
     303,
-    "Wightstorm Rapture Booster I"
+    "Expired Wightstorm Rapture Booster I"
   ],
   [
     61099,
     303,
-    "Wightstorm Rapture Booster II"
+    "Expired Wightstorm Rapture Booster II"
   ],
   [
     61101,
     303,
-    "Wightstorm Rapture Booster III"
+    "Expired Wightstorm Rapture Booster III"
   ],
   [
     61103,
     303,
-    "Wightstorm Cetana Booster I"
+    "Expired Wightstorm Cetana Booster I"
   ],
   [
     61105,
     303,
-    "Wightstorm Cetana Booster II"
+    "Expired Wightstorm Cetana Booster II"
   ],
   [
     61107,
     303,
-    "Wightstorm Cetana Booster III"
+    "Expired Wightstorm Cetana Booster III"
   ],
   [
     61110,
     303,
-    "Wightstorm  Vitarka Booster I"
+    "Expired Wightstorm Vitarka Booster I"
   ],
   [
     61112,
     303,
-    "Wightstorm  Vitarka Booster II"
+    "Expired Wightstorm Vitarka Booster II"
   ],
   [
     61114,
     303,
-    "Wightstorm  Vitarka Booster III"
+    "Expired Wightstorm Vitarka Booster III"
   ],
   [
     61116,
     303,
-    "Wightstorm  Manasikara Booster I"
+    "Expired Wightstorm Manasikara Booster I"
   ],
   [
     61118,
     303,
-    "Wightstorm  Manasikara Booster II"
+    "Expired Wightstorm Manasikara Booster II"
   ],
   [
     61119,
     303,
-    "Wightstorm  Manasikara Booster III"
+    "Expired Wightstorm Manasikara Booster III"
   ],
   [
     61129,
@@ -142168,6 +142323,26 @@
     61138,
     4041,
     "RDLF-10L Lowsec Ice Storm Filament"
+  ],
+  [
+    61180,
+    1975,
+    "Flare Background Blue 01"
+  ],
+  [
+    61181,
+    1975,
+    "Flare Background Orange 01"
+  ],
+  [
+    61195,
+    1975,
+    "ENV_BinaryBlue_01a"
+  ],
+  [
+    61196,
+    1975,
+    "ENV_BinaryRed_01a"
   ],
   [
     61197,
@@ -142375,13 +142550,1018 @@
     "Darkwight Rakshasa"
   ],
   [
+    61305,
+    1971,
+    "Unknown Space Boundary "
+  ],
+  [
     61396,
     1975,
     "Sansha Remote Logistics Station"
   ],
   [
+    61532,
+    1089,
+    "Women's Interstellar Convergence T-Shirt"
+  ],
+  [
+    61533,
+    1089,
+    "Men's Interstellar Convergence T-Shirt"
+  ],
+  [
+    61535,
+    1088,
+    "Women's Paradoxical Scarf"
+  ],
+  [
+    61536,
+    1088,
+    "Men's Paradoxical Scarf"
+  ],
+  [
+    61554,
+    1105,
+    "A_32b"
+  ],
+  [
+    61555,
+    1105,
+    "A_31b"
+  ],
+  [
+    61562,
+    1975,
+    "dalde_02_env_asset"
+  ],
+  [
+    61563,
+    1975,
+    "dalde_03_env_asset"
+  ],
+  [
+    61564,
+    1975,
+    "dalde_04_env_asset"
+  ],
+  [
+    61565,
+    1975,
+    "dalde_05_env_asset"
+  ],
+  [
+    61569,
+    1975,
+    "dalde_06_env_asset"
+  ],
+  [
+    61570,
+    1975,
+    "dalde_07_env_asset"
+  ],
+  [
+    61571,
+    1975,
+    "dalde_08_env_asset"
+  ],
+  [
     61579,
     1971,
     "Proving Heat Damage and Afterburner Bonus (Do not translate)"
+  ],
+  [
+    61654,
+    4145,
+    "Expired Precarious Warp Matrix Filament"
+  ],
+  [
+    61655,
+    4145,
+    "Expired Hazardous Warp Matrix Filament"
+  ],
+  [
+    61656,
+    4145,
+    "Expired Enigmatic Warp Matrix Filament"
+  ],
+  [
+    61657,
+    1567,
+    "Biomechanoid Combat Unit"
+  ],
+  [
+    61658,
+    306,
+    "Huge Peculiar Ruin"
+  ],
+  [
+    61659,
+    306,
+    "Massive Peculiar Ruin"
+  ],
+  [
+    61660,
+    1666,
+    "Critically Damaged Biomechanoid Saucer"
+  ],
+  [
+    61661,
+    227,
+    "Biomechanoid Spawner 1"
+  ],
+  [
+    61662,
+    1975,
+    "Non-interactable Spatial Rift B"
+  ],
+  [
+    61663,
+    1975,
+    "Non-interactable Spatial Rift C"
+  ],
+  [
+    61664,
+    1975,
+    "Non-interactable Spatial Rift D"
+  ],
+  [
+    61665,
+    1975,
+    "Non-interactable Spatial Rift E"
+  ],
+  [
+    61666,
+    53,
+    "Pew"
+  ],
+  [
+    61667,
+    1975,
+    "Non-interactable Warp Matrix Rift"
+  ],
+  [
+    61841,
+    1929,
+    "Convergent Accelerant Nexus"
+  ],
+  [
+    61842,
+    1929,
+    "Convergent Decelerant Nexus"
+  ],
+  [
+    61848,
+    1088,
+    "Women's Proper Dapper Outfit"
+  ],
+  [
+    61879,
+    1975,
+    "Non Interactable Violent Wormhole (do not translate)"
+  ],
+  [
+    61923,
+    1975,
+    "Non Interactable Sharded Rock (Do not translate)"
+  ],
+  [
+    61925,
+    1975,
+    "Non Interactable Small Rock (Do not translate)"
+  ],
+  [
+    61930,
+    383,
+    "Displaced Erratic Sentry Turret"
+  ],
+  [
+    61931,
+    1666,
+    "Heavily Damaged Biomechanoid Saucer"
+  ],
+  [
+    61932,
+    1666,
+    "Damaged Biomechanoid Saucer"
+  ],
+  [
+    61933,
+    1666,
+    "Impaired Biomechanoid Saucer"
+  ],
+  [
+    61949,
+    1088,
+    "Men's Proper Dapper Outfit"
+  ],
+  [
+    61964,
+    227,
+    "Biomechanoid Spawner 2"
+  ],
+  [
+    61965,
+    227,
+    "Biomechanoid Spawner 3"
+  ],
+  [
+    61966,
+    227,
+    "Biomechanoid Spawner 4"
+  ],
+  [
+    61967,
+    227,
+    "Saucer Spawner 1"
+  ],
+  [
+    61968,
+    227,
+    "Saucer Spawner 2"
+  ],
+  [
+    61969,
+    227,
+    "Saucer Spawner 3"
+  ],
+  [
+    61970,
+    227,
+    "Saucer Spawner 4"
+  ],
+  [
+    61980,
+    303,
+    "AIR Astro-Acquisition Booster I"
+  ],
+  [
+    61981,
+    303,
+    "AIR Astro-Acquisition Booster II"
+  ],
+  [
+    61982,
+    303,
+    "AIR Astro-Acquisition Booster III"
+  ],
+  [
+    61983,
+    303,
+    "AIR Astro-Pinpointing Booster I"
+  ],
+  [
+    61984,
+    303,
+    "AIR Astro-Pinpointing Booster II"
+  ],
+  [
+    61985,
+    303,
+    "AIR Astro-Pinpointing Booster III"
+  ],
+  [
+    61986,
+    303,
+    "AIR Astro-Rangefinding Booster I"
+  ],
+  [
+    61987,
+    303,
+    "AIR Astro-Rangefinding Booster II"
+  ],
+  [
+    61988,
+    303,
+    "AIR Astro-Rangefinding Booster III"
+  ],
+  [
+    61989,
+    303,
+    "AIR Relic Range Booster I"
+  ],
+  [
+    61990,
+    303,
+    "AIR Relic Range Booster II"
+  ],
+  [
+    61991,
+    303,
+    "AIR Relic Range Booster III"
+  ],
+  [
+    61992,
+    303,
+    "AIR Relic Coherence Booster I"
+  ],
+  [
+    61993,
+    303,
+    "AIR Relic Coherence Booster II"
+  ],
+  [
+    61994,
+    303,
+    "AIR Relic Coherence Booster III"
+  ],
+  [
+    61995,
+    303,
+    "AIR Relic Strength Booster I"
+  ],
+  [
+    61996,
+    303,
+    "AIR Relic Strength Booster II"
+  ],
+  [
+    61997,
+    303,
+    "AIR Relic Strength Booster III"
+  ],
+  [
+    61998,
+    303,
+    "AIR Signature Booster I"
+  ],
+  [
+    61999,
+    303,
+    "AIR Signature Booster II"
+  ],
+  [
+    62000,
+    303,
+    "AIR Signature Booster III"
+  ],
+  [
+    62001,
+    303,
+    "AIR Agility Booster I"
+  ],
+  [
+    62002,
+    303,
+    "AIR Agility Booster II"
+  ],
+  [
+    62003,
+    303,
+    "AIR Agility Booster III"
+  ],
+  [
+    62004,
+    303,
+    "AIR Repairer Booster I"
+  ],
+  [
+    62005,
+    303,
+    "AIR Repairer Booster II"
+  ],
+  [
+    62006,
+    303,
+    "AIR Repairer Booster III"
+  ],
+  [
+    62028,
+    1194,
+    "Interstellar Convergence Booster Crate"
+  ],
+  [
+    62029,
+    1194,
+    "Paradoxical Nebula Firework Crate"
+  ],
+  [
+    62030,
+    1548,
+    "Biomechanoid Guided Neutralizer Bomb"
+  ],
+  [
+    62031,
+    4165,
+    "Peculiar Data Collection"
+  ],
+  [
+    62032,
+    4165,
+    "Time Crystal Oscillator"
+  ],
+  [
+    62033,
+    4165,
+    "Strange Matter Component X-13"
+  ],
+  [
+    62034,
+    4165,
+    "Strange Matter Component Y-73"
+  ],
+  [
+    62035,
+    4165,
+    "Strange Matter Component Z-113"
+  ],
+  [
+    62036,
+    4165,
+    "Strange Matter Component X-17"
+  ],
+  [
+    62037,
+    4165,
+    "Strange Matter Component Y-79"
+  ],
+  [
+    62038,
+    4165,
+    "Strange Matter Component Z-149"
+  ],
+  [
+    62039,
+    4165,
+    "Strange Matter Component X-31"
+  ],
+  [
+    62040,
+    4165,
+    "Strange Matter Component Y-97"
+  ],
+  [
+    62041,
+    4165,
+    "Strange Matter Component Z-157"
+  ],
+  [
+    62042,
+    4165,
+    "Strange Matter Component X-37"
+  ],
+  [
+    62043,
+    4165,
+    "Strange Matter Component Y-107"
+  ],
+  [
+    62044,
+    4165,
+    "Strange Matter Component Z-167"
+  ],
+  [
+    62045,
+    4165,
+    "Strange Matter Component X-71"
+  ],
+  [
+    62046,
+    1194,
+    "Scale Model of a Blue Box"
+  ],
+  [
+    62047,
+    1194,
+    "Inactive Sonic Multitool"
+  ],
+  [
+    62048,
+    1194,
+    "Bag of Gelatinized Confectionary "
+  ],
+  [
+    62049,
+    1194,
+    "Chronologically Curious Blue Diary"
+  ],
+  [
+    62050,
+    1194,
+    "Fragment Inscribed with Odd Circular Text"
+  ],
+  [
+    62051,
+    1194,
+    "Snow Globe with Peculiar Architecture"
+  ],
+  [
+    62052,
+    1194,
+    "Extendable plunger tool"
+  ],
+  [
+    62053,
+    1194,
+    "Biomechanical Armor Fragment"
+  ],
+  [
+    62054,
+    1194,
+    "Neutron Flow Polarity Reverser"
+  ],
+  [
+    62055,
+    4145,
+    "Expired Mysterious Warp Matrix Filament"
+  ],
+  [
+    62056,
+    4145,
+    "Expired Dangerous Warp Matrix Filament"
+  ],
+  [
+    62057,
+    4145,
+    "Expired Perilous Warp Matrix Filament"
+  ],
+  [
+    62058,
+    4052,
+    "Expired Curious Warp Matrix Filament Blueprint"
+  ],
+  [
+    62059,
+    4052,
+    "Expired Enigmatic Warp Matrix Filament Blueprint"
+  ],
+  [
+    62060,
+    4052,
+    "Expired Mysterious Warp Matrix Filament Blueprint"
+  ],
+  [
+    62061,
+    4052,
+    "Expired Precarious Warp Matrix Filament Blueprint"
+  ],
+  [
+    62062,
+    4052,
+    "Expired Hazardous Warp Matrix Filament Blueprint"
+  ],
+  [
+    62063,
+    4052,
+    "Expired Dangerous Warp Matrix Filament Blueprint"
+  ],
+  [
+    62064,
+    4052,
+    "Expired Perilous Warp Matrix Filament Blueprint"
+  ],
+  [
+    62235,
+    303,
+    "Basic 'Convergent' Cerebral Accelerator"
+  ],
+  [
+    62236,
+    303,
+    "Extended 'Convergent' Cerebral Accelerator"
+  ],
+  [
+    62237,
+    303,
+    "Potent 'Convergent' Cerebral Accelerator"
+  ],
+  [
+    62250,
+    1814,
+    "♦ Infested Abaddon"
+  ],
+  [
+    62251,
+    1814,
+    "♦ Infested Dominix"
+  ],
+  [
+    62252,
+    1814,
+    "♦ Infested Raven"
+  ],
+  [
+    62253,
+    1814,
+    "♦ Infested Typhoon"
+  ],
+  [
+    62255,
+    186,
+    "Biomechanoid Saucer Wreck"
+  ],
+  [
+    62273,
+    4050,
+    "1v1 Battleships Proving Filament"
+  ],
+  [
+    62274,
+    4050,
+    "Event 51 Proving Filament"
+  ],
+  [
+    62275,
+    4050,
+    "Event 52 Proving Filament"
+  ],
+  [
+    62276,
+    4050,
+    "Event 53 Proving Filament"
+  ],
+  [
+    62277,
+    4050,
+    "Event 54 Proving Filament"
+  ],
+  [
+    62278,
+    4050,
+    "Event 55 Proving Filament"
+  ],
+  [
+    62279,
+    4050,
+    "Event 56 Proving Filament"
+  ],
+  [
+    62342,
+    1971,
+    "Proving Overload and Turret Bonus (Do not translate)"
+  ],
+  [
+    62395,
+    1971,
+    "Proving Gala 2022 Bonus (Do not translate)"
+  ],
+  [
+    62439,
+    1975,
+    "ud3_enviroment_asset"
+  ],
+  [
+    62440,
+    1975,
+    "ud2_enviroment_asset"
+  ],
+  [
+    62441,
+    1975,
+    "ud1_enviroment_asset"
+  ],
+  [
+    62442,
+    1975,
+    "ud4_enviroment_asset"
+  ],
+  [
+    62443,
+    1975,
+    "refm1_t1_wreck_enviroment_asset"
+  ],
+  [
+    62444,
+    1975,
+    "corpse_m1_enviroment_asset"
+  ],
+  [
+    62445,
+    1975,
+    "ust_t1_enviroment_asset"
+  ],
+  [
+    62446,
+    226,
+    "Abandoned Serpentis Booster Laboratory"
+  ],
+  [
+    62448,
+    4145,
+    "QA Void Filament"
+  ],
+  [
+    62450,
+    1218,
+    "Shipboard Compression Technology"
+  ],
+  [
+    62451,
+    1218,
+    "Capital Shipboard Compression Technology"
+  ],
+  [
+    62452,
+    1218,
+    "Gas Decompression Efficiency"
+  ],
+  [
+    62453,
+    258,
+    "Fleet Compression Logistics"
+  ],
+  [
+    62595,
+    303,
+    "Basic 'Bonding' Cerebral Accelerator"
+  ],
+  [
+    62596,
+    303,
+    "Potent 'Bonding' Cerebral Accelerator"
+  ],
+  [
+    62597,
+    303,
+    "Extended 'Bonding' Cerebral Accelerator"
+  ],
+  [
+    62598,
+    303,
+    "Guardian 'Chokmah' Booster I"
+  ],
+  [
+    62599,
+    303,
+    "Guardian 'Chokmah' Booster II"
+  ],
+  [
+    62600,
+    303,
+    "Guardian 'Chokmah' Booster III"
+  ],
+  [
+    62601,
+    303,
+    "Guardian 'Keter' Booster I"
+  ],
+  [
+    62602,
+    303,
+    "Guardian 'Keter' Booster II"
+  ],
+  [
+    62603,
+    303,
+    "Guardian 'Keter' Booster III"
+  ],
+  [
+    62604,
+    303,
+    "Guardian 'Yesod' Booster I"
+  ],
+  [
+    62605,
+    303,
+    "Guardian 'Yesod' Booster II"
+  ],
+  [
+    62606,
+    303,
+    "Guardian 'Yesod' Booster III"
+  ],
+  [
+    62607,
+    303,
+    "Guardian 'Netzach' Booster I"
+  ],
+  [
+    62608,
+    303,
+    "Guardian 'Netzach' Booster II"
+  ],
+  [
+    62609,
+    303,
+    "Guardian 'Netzach' Booster III"
+  ],
+  [
+    62610,
+    303,
+    "Guardian 'Tiferet' Booster I"
+  ],
+  [
+    62611,
+    303,
+    "Guardian 'Tiferet' Booster II"
+  ],
+  [
+    62612,
+    303,
+    "Guardian 'Tiferet' Booster III"
+  ],
+  [
+    62613,
+    303,
+    "Guardian 'Binah' Booster I"
+  ],
+  [
+    62614,
+    303,
+    "Guardian 'Binah' Booster II"
+  ],
+  [
+    62615,
+    303,
+    "Guardian 'Binah' Booster III"
+  ],
+  [
+    62616,
+    303,
+    "Guardian 'Gevurah' Booster I"
+  ],
+  [
+    62617,
+    303,
+    "Guardian 'Gevurah' Booster II"
+  ],
+  [
+    62618,
+    303,
+    "Guardian 'Gevurah' Booster III"
+  ],
+  [
+    62619,
+    303,
+    "Guardian 'Hod' Booster I"
+  ],
+  [
+    62620,
+    303,
+    "Guardian 'Hod' Booster II"
+  ],
+  [
+    62621,
+    303,
+    "Guardian 'Hod' Booster III"
+  ],
+  [
+    62650,
+    1194,
+    "Gala Party Supplies Crate"
+  ],
+  [
+    62651,
+    1194,
+    "Guardian's Gala Booster Crate"
+  ],
+  [
+    62709,
+    314,
+    "ORE Research Data Fragment"
+  ],
+  [
+    62710,
+    283,
+    "Kidnapped ORE Researcher"
+  ],
+  [
+    62711,
+    226,
+    "ORE Technologies Applied Research Center"
+  ],
+  [
+    62712,
+    226,
+    "Motain's Modified Quantum Flux Generator"
+  ],
+  [
+    62726,
+    1665,
+    "Mordu's Markguard"
+  ],
+  [
+    62728,
+    1667,
+    "Mordu's Warmark"
+  ],
+  [
+    62729,
+    227,
+    "Mordu ORE Guard Spawner"
+  ],
+  [
+    62740,
+    1975,
+    "Non-Interactable Angel Control Tower"
+  ],
+  [
+    62741,
+    1975,
+    "Non-Interactable Serpentis Control Tower"
+  ],
+  [
+    62742,
+    1975,
+    "Non-Interactable Gala Bunker"
+  ],
+  [
+    62743,
+    1975,
+    "Non-Interactable Gala Junction"
+  ],
+  [
+    62744,
+    1975,
+    "Non-Interactable Gala Lookout"
+  ],
+  [
+    62745,
+    1975,
+    "Non-Interactable Gala Barricade"
+  ],
+  [
+    62746,
+    1975,
+    "Non-interactable Rorqual"
+  ],
+  [
+    62747,
+    1975,
+    "Non-interactable Bowhead"
+  ],
+  [
+    62748,
+    1975,
+    "gs7_environment_asset"
+  ],
+  [
+    62749,
+    1975,
+    "Non-interactable Gala Elevator"
+  ],
+  [
+    62751,
+    1975,
+    "Non-interactable Landing Pad"
+  ],
+  [
+    62752,
+    1975,
+    "Non-interactable Procurer"
+  ],
+  [
+    62753,
+    1975,
+    "Non-interactable Retriever"
+  ],
+  [
+    62754,
+    1975,
+    "Non-interactable Covetor"
+  ],
+  [
+    62755,
+    1975,
+    "Non-interactable Procurer 2"
+  ],
+  [
+    62756,
+    1975,
+    "Non-interactable Retriever 2"
+  ],
+  [
+    62757,
+    1975,
+    "Non-interactable Covetor 2"
+  ],
+  [
+    62758,
+    1975,
+    "Non-interactable Skiff"
+  ],
+  [
+    62759,
+    1975,
+    "Non-interactable Mackinaw"
+  ],
+  [
+    62760,
+    1975,
+    "Non-interactable Hulk"
+  ],
+  [
+    62761,
+    1975,
+    "Non-interactable Skiff 2"
+  ],
+  [
+    62762,
+    1975,
+    "Non-interactable Mackinaw 2"
+  ],
+  [
+    62763,
+    1975,
+    "Non-interactable Hulk 2"
+  ],
+  [
+    62764,
+    1975,
+    "Non-interactable Orca"
+  ],
+  [
+    62765,
+    1975,
+    "Non-interactable Porpoise"
   ]
 ]
