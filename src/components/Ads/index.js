@@ -31,7 +31,7 @@ function getSlot(type) {
 }
 
 const Ads = ({ type }) => {
-  return null
+  return <div style={{ height: 10 }} />
 
   // const slot = getSlot(type)
   // if (!slot) {

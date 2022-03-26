@@ -61617,7 +61617,7 @@
   },
   "28367": {
     "groupID": 450,
-    "name": "Compressed Arkonor"
+    "name": "Batch Compressed Arkonor"
   },
   "28368": {
     "groupID": 888,
@@ -61677,7 +61677,7 @@
   },
   "28385": {
     "groupID": 450,
-    "name": "Compressed Crimson Arkonor"
+    "name": "Batch Compressed Crimson Arkonor"
   },
   "28386": {
     "groupID": 888,
@@ -61685,187 +61685,187 @@
   },
   "28387": {
     "groupID": 450,
-    "name": "Compressed Prime Arkonor"
+    "name": "Batch Compressed Prime Arkonor"
   },
   "28388": {
     "groupID": 451,
-    "name": "Compressed Bistot"
+    "name": "Batch Compressed Bistot"
   },
   "28389": {
     "groupID": 451,
-    "name": "Compressed Monoclinic Bistot"
+    "name": "Batch Compressed Monoclinic Bistot"
   },
   "28390": {
     "groupID": 451,
-    "name": "Compressed Triclinic Bistot"
+    "name": "Batch Compressed Triclinic Bistot"
   },
   "28391": {
     "groupID": 452,
-    "name": "Compressed Crokite"
+    "name": "Batch Compressed Crokite"
   },
   "28392": {
     "groupID": 452,
-    "name": "Compressed Crystalline Crokite"
+    "name": "Batch Compressed Crystalline Crokite"
   },
   "28393": {
     "groupID": 452,
-    "name": "Compressed Sharp Crokite"
+    "name": "Batch Compressed Sharp Crokite"
   },
   "28394": {
     "groupID": 453,
-    "name": "Compressed Dark Ochre"
+    "name": "Batch Compressed Dark Ochre"
   },
   "28395": {
     "groupID": 453,
-    "name": "Compressed Obsidian Ochre"
+    "name": "Batch Compressed Obsidian Ochre"
   },
   "28396": {
     "groupID": 453,
-    "name": "Compressed Onyx Ochre"
+    "name": "Batch Compressed Onyx Ochre"
   },
   "28397": {
     "groupID": 467,
-    "name": "Compressed Gneiss"
+    "name": "Batch Compressed Gneiss"
   },
   "28398": {
     "groupID": 467,
-    "name": "Compressed Iridescent Gneiss"
+    "name": "Batch Compressed Iridescent Gneiss"
   },
   "28399": {
     "groupID": 467,
-    "name": "Compressed Prismatic Gneiss"
+    "name": "Batch Compressed Prismatic Gneiss"
   },
   "28400": {
     "groupID": 454,
-    "name": "Compressed Glazed Hedbergite"
+    "name": "Batch Compressed Glazed Hedbergite"
   },
   "28401": {
     "groupID": 454,
-    "name": "Compressed Hedbergite"
+    "name": "Batch Compressed Hedbergite"
   },
   "28402": {
     "groupID": 454,
-    "name": "Compressed Vitric Hedbergite"
+    "name": "Batch Compressed Vitric Hedbergite"
   },
   "28403": {
     "groupID": 455,
-    "name": "Compressed Hemorphite"
+    "name": "Batch Compressed Hemorphite"
   },
   "28404": {
     "groupID": 455,
-    "name": "Compressed Radiant Hemorphite"
+    "name": "Batch Compressed Radiant Hemorphite"
   },
   "28405": {
     "groupID": 455,
-    "name": "Compressed Vivid Hemorphite"
+    "name": "Batch Compressed Vivid Hemorphite"
   },
   "28406": {
     "groupID": 456,
-    "name": "Compressed Jaspet"
+    "name": "Batch Compressed Jaspet"
   },
   "28407": {
     "groupID": 456,
-    "name": "Compressed Pristine Jaspet"
+    "name": "Batch Compressed Pristine Jaspet"
   },
   "28408": {
     "groupID": 456,
-    "name": "Compressed Pure Jaspet"
+    "name": "Batch Compressed Pure Jaspet"
   },
   "28409": {
     "groupID": 457,
-    "name": "Compressed Fiery Kernite"
+    "name": "Batch Compressed Fiery Kernite"
   },
   "28410": {
     "groupID": 457,
-    "name": "Compressed Kernite"
+    "name": "Batch Compressed Kernite"
   },
   "28411": {
     "groupID": 457,
-    "name": "Compressed Luminous Kernite"
+    "name": "Batch Compressed Luminous Kernite"
   },
   "28412": {
     "groupID": 468,
-    "name": "Compressed Magma Mercoxit"
+    "name": "Batch Compressed Magma Mercoxit"
   },
   "28413": {
     "groupID": 468,
-    "name": "Compressed Mercoxit"
+    "name": "Batch Compressed Mercoxit"
   },
   "28414": {
     "groupID": 468,
-    "name": "Compressed Vitreous Mercoxit"
+    "name": "Batch Compressed Vitreous Mercoxit"
   },
   "28415": {
     "groupID": 469,
-    "name": "Compressed Golden Omber"
+    "name": "Batch Compressed Golden Omber"
   },
   "28416": {
     "groupID": 469,
-    "name": "Compressed Omber"
+    "name": "Batch Compressed Omber"
   },
   "28417": {
     "groupID": 469,
-    "name": "Compressed Silvery Omber"
+    "name": "Batch Compressed Silvery Omber"
   },
   "28418": {
     "groupID": 461,
-    "name": "Compressed Bright Spodumain"
+    "name": "Batch Compressed Bright Spodumain"
   },
   "28419": {
     "groupID": 461,
-    "name": "Compressed Gleaming Spodumain"
+    "name": "Batch Compressed Gleaming Spodumain"
   },
   "28420": {
     "groupID": 461,
-    "name": "Compressed Spodumain"
+    "name": "Batch Compressed Spodumain"
   },
   "28421": {
     "groupID": 458,
-    "name": "Compressed Azure Plagioclase"
+    "name": "Batch Compressed Azure Plagioclase"
   },
   "28422": {
     "groupID": 458,
-    "name": "Compressed Plagioclase"
+    "name": "Batch Compressed Plagioclase"
   },
   "28423": {
     "groupID": 458,
-    "name": "Compressed Rich Plagioclase"
+    "name": "Batch Compressed Rich Plagioclase"
   },
   "28424": {
     "groupID": 459,
-    "name": "Compressed Pyroxeres"
+    "name": "Batch Compressed Pyroxeres"
   },
   "28425": {
     "groupID": 459,
-    "name": "Compressed Solid Pyroxeres"
+    "name": "Batch Compressed Solid Pyroxeres"
   },
   "28426": {
     "groupID": 459,
-    "name": "Compressed Viscous Pyroxeres"
+    "name": "Batch Compressed Viscous Pyroxeres"
   },
   "28427": {
     "groupID": 460,
-    "name": "Compressed Condensed Scordite"
+    "name": "Batch Compressed Condensed Scordite"
   },
   "28428": {
     "groupID": 460,
-    "name": "Compressed Massive Scordite"
+    "name": "Batch Compressed Massive Scordite"
   },
   "28429": {
     "groupID": 460,
-    "name": "Compressed Scordite"
+    "name": "Batch Compressed Scordite"
   },
   "28430": {
     "groupID": 462,
-    "name": "Compressed Concentrated Veldspar"
+    "name": "Batch Compressed Concentrated Veldspar"
   },
   "28431": {
     "groupID": 462,
-    "name": "Compressed Dense Veldspar"
+    "name": "Batch Compressed Dense Veldspar"
   },
   "28432": {
     "groupID": 462,
-    "name": "Compressed Veldspar"
+    "name": "Batch Compressed Veldspar"
   },
   "28433": {
     "groupID": 465,
@@ -92953,63 +92953,63 @@
   },
   "46691": {
     "groupID": 450,
-    "name": "Compressed Flawless Arkonor"
+    "name": "Batch Compressed Flawless Arkonor"
   },
   "46692": {
     "groupID": 451,
-    "name": "Compressed Cubic Bistot"
+    "name": "Batch Compressed Cubic Bistot"
   },
   "46693": {
     "groupID": 452,
-    "name": "Compressed Pellucid Crokite"
+    "name": "Batch Compressed Pellucid Crokite"
   },
   "46694": {
     "groupID": 453,
-    "name": "Compressed Jet Ochre"
+    "name": "Batch Compressed Jet Ochre"
   },
   "46695": {
     "groupID": 467,
-    "name": "Compressed Brilliant Gneiss"
+    "name": "Batch Compressed Brilliant Gneiss"
   },
   "46696": {
     "groupID": 454,
-    "name": "Compressed Lustrous Hedbergite"
+    "name": "Batch Compressed Lustrous Hedbergite"
   },
   "46697": {
     "groupID": 455,
-    "name": "Compressed Scintillating Hemorphite"
+    "name": "Batch Compressed Scintillating Hemorphite"
   },
   "46698": {
     "groupID": 456,
-    "name": "Compressed Immaculate Jaspet"
+    "name": "Batch Compressed Immaculate Jaspet"
   },
   "46699": {
     "groupID": 457,
-    "name": "Compressed Resplendant Kernite"
+    "name": "Batch Compressed Resplendant Kernite"
   },
   "46700": {
     "groupID": 469,
-    "name": "Compressed Platinoid Omber"
+    "name": "Batch Compressed Platinoid Omber"
   },
   "46701": {
     "groupID": 458,
-    "name": "Compressed Sparkling Plagioclase"
+    "name": "Batch Compressed Sparkling Plagioclase"
   },
   "46702": {
     "groupID": 459,
-    "name": "Compressed Opulent Pyroxeres"
+    "name": "Batch Compressed Opulent Pyroxeres"
   },
   "46703": {
     "groupID": 460,
-    "name": "Compressed Glossy Scordite"
+    "name": "Batch Compressed Glossy Scordite"
   },
   "46704": {
     "groupID": 461,
-    "name": "Compressed Dazzling Spodumain"
+    "name": "Batch Compressed Dazzling Spodumain"
   },
   "46705": {
     "groupID": 462,
-    "name": "Compressed Stable Veldspar"
+    "name": "Batch Compressed Stable Veldspar"
   },
   "46756": {
     "groupID": 1194,
@@ -107868,7 +107868,8 @@
     "name": "Sansha Overseer Frostwight"
   },
   "56947": {
-    "groupID": 227
+    "groupID": 227,
+    "name": "Invisible Locator Beacon"
   },
   "56948": {
     "groupID": 4055,
@@ -108563,7 +108564,8 @@
     "name": "Serenity Rookie DLI Day 4 Crate"
   },
   "57225": {
-    "groupID": 1975
+    "groupID": 1975,
+    "name": "Proving Grounds Winter Dungeon Environment"
   },
   "57226": {
     "groupID": 303,
@@ -108922,7 +108924,8 @@
     "name": "Spring Festival SKIN Box"
   },
   "57332": {
-    "groupID": 185
+    "groupID": 185,
+    "name": "Serenity Only Chinese Spring Festival Event NPC Lv1"
   },
   "57335": {
     "groupID": 306,
@@ -108961,13 +108964,16 @@
     "name": "Expired 1v1 Battleships Proving Filament"
   },
   "57397": {
-    "groupID": 185
+    "groupID": 185,
+    "name": "Serenity Only Chinese Spring Festival Event NPC Lv2"
   },
   "57398": {
-    "groupID": 185
+    "groupID": 185,
+    "name": "Serenity Only Chinese Spring Festival Event NPC Lv3"
   },
   "57399": {
-    "groupID": 185
+    "groupID": 185,
+    "name": "Serenity Only Chinese Spring Festival Event NPC Lv4"
   },
   "57422": {
     "groupID": 280,
@@ -113673,9 +113679,57 @@
     "groupID": 1991,
     "name": "Warp Matrix Conduit Trace"
   },
+  "60771": {
+    "groupID": 4161,
+    "name": "Nephrite"
+  },
+  "60772": {
+    "groupID": 306,
+    "name": "Wrecked Dramiel"
+  },
+  "60783": {
+    "groupID": 4106,
+    "name": "Elias Peltonnen"
+  },
+  "60784": {
+    "groupID": 526,
+    "name": "Dramiel Black Box"
+  },
+  "60796": {
+    "groupID": 4128,
+    "name": "[AIR] Venture"
+  },
+  "60797": {
+    "groupID": 4128,
+    "name": "[AIR] Covetor"
+  },
+  "60798": {
+    "groupID": 4128,
+    "name": "[AIR] Procurer"
+  },
+  "60799": {
+    "groupID": 4128,
+    "name": "[AIR] Retriever"
+  },
+  "60800": {
+    "groupID": 4128,
+    "name": "[AIR] Hauler"
+  },
+  "60801": {
+    "groupID": 4128,
+    "name": "[AIR] Hauler II"
+  },
   "60802": {
     "groupID": 1971,
     "name": "Proving Turret Damage Bonus (Do not translate)"
+  },
+  "60803": {
+    "groupID": 1975,
+    "name": "[AIR] Non-Interactable Athanor"
+  },
+  "60804": {
+    "groupID": 1975,
+    "name": "Large Shattered Unobtanium Asteroid"
   },
   "60805": {
     "groupID": 1971,
@@ -114227,111 +114281,111 @@
   },
   "61980": {
     "groupID": 303,
-    "name": "AIR Astro-Acquisition Booster I"
+    "name": "Expired AIR Astro-Acquisition Booster I"
   },
   "61981": {
     "groupID": 303,
-    "name": "AIR Astro-Acquisition Booster II"
+    "name": "Expired AIR Astro-Acquisition Booster II"
   },
   "61982": {
     "groupID": 303,
-    "name": "AIR Astro-Acquisition Booster III"
+    "name": "Expired AIR Astro-Acquisition Booster III"
   },
   "61983": {
     "groupID": 303,
-    "name": "AIR Astro-Pinpointing Booster I"
+    "name": "Expired AIR Astro-Pinpointing Booster I"
   },
   "61984": {
     "groupID": 303,
-    "name": "AIR Astro-Pinpointing Booster II"
+    "name": "Expired AIR Astro-Pinpointing Booster II"
   },
   "61985": {
     "groupID": 303,
-    "name": "AIR Astro-Pinpointing Booster III"
+    "name": "Expired AIR Astro-Pinpointing Booster III"
   },
   "61986": {
     "groupID": 303,
-    "name": "AIR Astro-Rangefinding Booster I"
+    "name": "Expired AIR Astro-Rangefinding Booster I"
   },
   "61987": {
     "groupID": 303,
-    "name": "AIR Astro-Rangefinding Booster II"
+    "name": "Expired AIR Astro-Rangefinding Booster II"
   },
   "61988": {
     "groupID": 303,
-    "name": "AIR Astro-Rangefinding Booster III"
+    "name": "Expired AIR Astro-Rangefinding Booster III"
   },
   "61989": {
     "groupID": 303,
-    "name": "AIR Relic Range Booster I"
+    "name": "Expired AIR Relic Range Booster I"
   },
   "61990": {
     "groupID": 303,
-    "name": "AIR Relic Range Booster II"
+    "name": "Expired AIR Relic Range Booster II"
   },
   "61991": {
     "groupID": 303,
-    "name": "AIR Relic Range Booster III"
+    "name": "Expired AIR Relic Range Booster III"
   },
   "61992": {
     "groupID": 303,
-    "name": "AIR Relic Coherence Booster I"
+    "name": "Expired AIR Relic Coherence Booster I"
   },
   "61993": {
     "groupID": 303,
-    "name": "AIR Relic Coherence Booster II"
+    "name": "Expired AIR Relic Coherence Booster II"
   },
   "61994": {
     "groupID": 303,
-    "name": "AIR Relic Coherence Booster III"
+    "name": "Expired AIR Relic Coherence Booster III"
   },
   "61995": {
     "groupID": 303,
-    "name": "AIR Relic Strength Booster I"
+    "name": "Expired AIR Relic Strength Booster I"
   },
   "61996": {
     "groupID": 303,
-    "name": "AIR Relic Strength Booster II"
+    "name": "Expired AIR Relic Strength Booster II"
   },
   "61997": {
     "groupID": 303,
-    "name": "AIR Relic Strength Booster III"
+    "name": "Expired AIR Relic Strength Booster III"
   },
   "61998": {
     "groupID": 303,
-    "name": "AIR Signature Booster I"
+    "name": "Expired AIR Signature Booster I"
   },
   "61999": {
     "groupID": 303,
-    "name": "AIR Signature Booster II"
+    "name": "Expired AIR Signature Booster II"
   },
   "62000": {
     "groupID": 303,
-    "name": "AIR Signature Booster III"
+    "name": "Expired AIR Signature Booster III"
   },
   "62001": {
     "groupID": 303,
-    "name": "AIR Agility Booster I"
+    "name": "Expired AIR Agility Booster I"
   },
   "62002": {
     "groupID": 303,
-    "name": "AIR Agility Booster II"
+    "name": "Expired AIR Agility Booster II"
   },
   "62003": {
     "groupID": 303,
-    "name": "AIR Agility Booster III"
+    "name": "Expired AIR Agility Booster III"
   },
   "62004": {
     "groupID": 303,
-    "name": "AIR Repairer Booster I"
+    "name": "Expired AIR Repairer Booster I"
   },
   "62005": {
     "groupID": 303,
-    "name": "AIR Repairer Booster II"
+    "name": "Expired AIR Repairer Booster II"
   },
   "62006": {
     "groupID": 303,
-    "name": "AIR Repairer Booster III"
+    "name": "Expired AIR Repairer Booster III"
   },
   "62028": {
     "groupID": 1194,
@@ -114483,15 +114537,15 @@
   },
   "62235": {
     "groupID": 303,
-    "name": "Basic 'Convergent' Cerebral Accelerator"
+    "name": "Expired Basic 'Convergent' Cerebral Accelerator"
   },
   "62236": {
     "groupID": 303,
-    "name": "Extended 'Convergent' Cerebral Accelerator"
+    "name": "Expired Extended 'Convergent' Cerebral Accelerator"
   },
   "62237": {
     "groupID": 303,
-    "name": "Potent 'Convergent' Cerebral Accelerator"
+    "name": "Expired Potent 'Convergent' Cerebral Accelerator"
   },
   "62250": {
     "groupID": 1814,
@@ -114519,11 +114573,11 @@
   },
   "62274": {
     "groupID": 4050,
-    "name": "Event 51 Proving Filament"
+    "name": "Venture FFA Proving Filament"
   },
   "62275": {
     "groupID": 4050,
-    "name": "Event 52 Proving Filament"
+    "name": "2v2 T1 Frigates Proving Flament"
   },
   "62276": {
     "groupID": 4050,
@@ -114545,9 +114599,117 @@
     "groupID": 1971,
     "name": "Proving Overload and Turret Bonus (Do not translate)"
   },
+  "62377": {
+    "groupID": 4168,
+    "name": "Compressed Amber Mykoserocin"
+  },
+  "62379": {
+    "groupID": 4168,
+    "name": "Compressed Azure Mykoserocin"
+  },
+  "62380": {
+    "groupID": 4168,
+    "name": "Compressed Celadon Mykoserocin"
+  },
+  "62381": {
+    "groupID": 4168,
+    "name": "Compressed Golden Mykoserocin"
+  },
+  "62382": {
+    "groupID": 4168,
+    "name": "Compressed Lime Mykoserocin"
+  },
+  "62383": {
+    "groupID": 4168,
+    "name": "Compressed Malachite Mykoserocin"
+  },
+  "62384": {
+    "groupID": 4168,
+    "name": "Compressed Vermillion Mykoserocin"
+  },
+  "62385": {
+    "groupID": 4168,
+    "name": "Compressed Viridian Mykoserocin"
+  },
+  "62386": {
+    "groupID": 4168,
+    "name": "Compressed Azure Cytoserocin"
+  },
+  "62387": {
+    "groupID": 4168,
+    "name": "Compressed Celadon Cytoserocin"
+  },
+  "62388": {
+    "groupID": 4168,
+    "name": "Compressed Chartreuse Cytoserocin"
+  },
+  "62389": {
+    "groupID": 4168,
+    "name": "Compressed Gamboge Cytoserocin "
+  },
+  "62390": {
+    "groupID": 4168,
+    "name": "Compressed Golden Cytoserocin"
+  },
+  "62391": {
+    "groupID": 4168,
+    "name": "Compressed Lime Cytoserocin"
+  },
+  "62392": {
+    "groupID": 4168,
+    "name": "Compressed Malachite Cytoserocin"
+  },
+  "62393": {
+    "groupID": 4168,
+    "name": "Compressed Vermillion Cytoserocin"
+  },
+  "62394": {
+    "groupID": 4168,
+    "name": "Compressed Viridian Cytoserocin "
+  },
   "62395": {
     "groupID": 1971,
     "name": "Proving Gala 2022 Bonus (Do not translate)"
+  },
+  "62396": {
+    "groupID": 4168,
+    "name": "Compressed Amber Cytoserocin"
+  },
+  "62397": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C60 "
+  },
+  "62398": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C70 "
+  },
+  "62399": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C50 "
+  },
+  "62400": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C84"
+  },
+  "62402": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C28"
+  },
+  "62403": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C72"
+  },
+  "62404": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C32 "
+  },
+  "62405": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C540 "
+  },
+  "62406": {
+    "groupID": 4168,
+    "name": "Compressed Fullerite-C320"
   },
   "62439": {
     "groupID": 1975,
@@ -114581,6 +114743,10 @@
     "groupID": 226,
     "name": "Abandoned Serpentis Booster Laboratory"
   },
+  "62447": {
+    "groupID": 4055,
+    "name": "[AIR] Mining Debuff"
+  },
   "62448": {
     "groupID": 4145,
     "name": "QA Void Filament"
@@ -114600,6 +114766,554 @@
   "62453": {
     "groupID": 258,
     "name": "Fleet Compression Logistics"
+  },
+  "62454": {
+    "groupID": 1884,
+    "name": "Compressed Bitumens"
+  },
+  "62455": {
+    "groupID": 1884,
+    "name": "Compressed Brimful Bitumens"
+  },
+  "62456": {
+    "groupID": 1884,
+    "name": "Compressed Glistening Bitumens "
+  },
+  "62457": {
+    "groupID": 1884,
+    "name": "Compressed Coesite "
+  },
+  "62458": {
+    "groupID": 1884,
+    "name": "Compressed Brimful Coesite "
+  },
+  "62459": {
+    "groupID": 1884,
+    "name": "Compressed Glistening Coesite "
+  },
+  "62460": {
+    "groupID": 1884,
+    "name": "Compressed Sylvite "
+  },
+  "62461": {
+    "groupID": 1884,
+    "name": "Compressed Brimful Sylvite "
+  },
+  "62463": {
+    "groupID": 1884,
+    "name": "Compressed Zeolites "
+  },
+  "62464": {
+    "groupID": 1884,
+    "name": "Compressed Brimful Zeolites "
+  },
+  "62466": {
+    "groupID": 1884,
+    "name": "Compressed Glistening Sylvite"
+  },
+  "62467": {
+    "groupID": 1884,
+    "name": "Compressed Glistening Zeolites "
+  },
+  "62468": {
+    "groupID": 1920,
+    "name": "Compressed Scheelite "
+  },
+  "62469": {
+    "groupID": 1920,
+    "name": "Compressed Copious Scheelite "
+  },
+  "62470": {
+    "groupID": 1920,
+    "name": "Compressed Twinkling Scheelite "
+  },
+  "62471": {
+    "groupID": 1920,
+    "name": "Compressed Euxenite "
+  },
+  "62472": {
+    "groupID": 1920,
+    "name": "Compressed Copious Euxenite"
+  },
+  "62473": {
+    "groupID": 1920,
+    "name": "Compressed Twinkling Euxenite "
+  },
+  "62474": {
+    "groupID": 1920,
+    "name": "Compressed Cobaltite "
+  },
+  "62475": {
+    "groupID": 1920,
+    "name": "Compressed Copious Cobaltite "
+  },
+  "62476": {
+    "groupID": 1920,
+    "name": "Compressed Twinkling Cobaltite"
+  },
+  "62477": {
+    "groupID": 1920,
+    "name": "Compressed Titanite "
+  },
+  "62478": {
+    "groupID": 1920,
+    "name": "Compressed Copious Titanite"
+  },
+  "62479": {
+    "groupID": 1920,
+    "name": "Compressed Twinkling Titanite "
+  },
+  "62480": {
+    "groupID": 1921,
+    "name": "Compressed Chromite"
+  },
+  "62481": {
+    "groupID": 1921,
+    "name": "Compressed Lavish Chromite"
+  },
+  "62482": {
+    "groupID": 1921,
+    "name": "Compressed Shimmering Chromite "
+  },
+  "62483": {
+    "groupID": 1921,
+    "name": "Compressed Otavite "
+  },
+  "62484": {
+    "groupID": 1921,
+    "name": "Compressed Lavish Otavite "
+  },
+  "62485": {
+    "groupID": 1921,
+    "name": "Compressed Shimmering Otavite"
+  },
+  "62486": {
+    "groupID": 1921,
+    "name": "Compressed Sperrylite "
+  },
+  "62487": {
+    "groupID": 1921,
+    "name": "Compressed Lavish Sperrylite "
+  },
+  "62488": {
+    "groupID": 1921,
+    "name": "Compressed Shimmering Sperrylite "
+  },
+  "62489": {
+    "groupID": 1921,
+    "name": "Compressed Vanadinite"
+  },
+  "62490": {
+    "groupID": 1921,
+    "name": "Compressed Lavish Vanadinite"
+  },
+  "62491": {
+    "groupID": 1921,
+    "name": "Compressed Shimmering Vanadinite "
+  },
+  "62492": {
+    "groupID": 1922,
+    "name": "Compressed Carnotite "
+  },
+  "62493": {
+    "groupID": 1922,
+    "name": "Compressed Replete Carnotite "
+  },
+  "62494": {
+    "groupID": 1922,
+    "name": "Compressed Glowing Carnotite"
+  },
+  "62495": {
+    "groupID": 1922,
+    "name": "Compressed Cinnabar "
+  },
+  "62496": {
+    "groupID": 1922,
+    "name": "Compressed Replete Cinnabar "
+  },
+  "62497": {
+    "groupID": 1922,
+    "name": "Compressed Glowing Cinnabar "
+  },
+  "62498": {
+    "groupID": 1922,
+    "name": "Compressed Pollucite "
+  },
+  "62499": {
+    "groupID": 1922,
+    "name": "Compressed Replete Pollucite "
+  },
+  "62500": {
+    "groupID": 1922,
+    "name": "Compressed Glowing Pollucite "
+  },
+  "62501": {
+    "groupID": 1922,
+    "name": "Compressed Zircon "
+  },
+  "62502": {
+    "groupID": 1922,
+    "name": "Compressed Replete Zircon "
+  },
+  "62503": {
+    "groupID": 1922,
+    "name": "Compressed Glowing Zircon "
+  },
+  "62504": {
+    "groupID": 1923,
+    "name": "Compressed Loparite "
+  },
+  "62505": {
+    "groupID": 1923,
+    "name": "Compressed Bountiful Loparite "
+  },
+  "62506": {
+    "groupID": 1923,
+    "name": "Compressed Shining Loparite "
+  },
+  "62507": {
+    "groupID": 1923,
+    "name": "Compressed Monazite "
+  },
+  "62508": {
+    "groupID": 1923,
+    "name": "Compressed Bountiful Monazite "
+  },
+  "62509": {
+    "groupID": 1923,
+    "name": "Compressed Shining Monazite "
+  },
+  "62510": {
+    "groupID": 1923,
+    "name": "Compressed Xenotime "
+  },
+  "62511": {
+    "groupID": 1923,
+    "name": "Compressed Bountiful Xenotime"
+  },
+  "62512": {
+    "groupID": 1923,
+    "name": "Compressed Shining Xenotime "
+  },
+  "62513": {
+    "groupID": 1923,
+    "name": "Compressed Ytterbite "
+  },
+  "62514": {
+    "groupID": 1923,
+    "name": "Compressed Bountiful Ytterbite "
+  },
+  "62515": {
+    "groupID": 1923,
+    "name": "Compressed Shining Ytterbite"
+  },
+  "62516": {
+    "groupID": 462,
+    "name": "Compressed Veldspar"
+  },
+  "62517": {
+    "groupID": 462,
+    "name": "Compressed Concentrated Veldspar "
+  },
+  "62518": {
+    "groupID": 462,
+    "name": "Compressed Dense Veldspar "
+  },
+  "62519": {
+    "groupID": 462,
+    "name": "Compressed Stable Veldspar "
+  },
+  "62520": {
+    "groupID": 460,
+    "name": "Compressed Scordite"
+  },
+  "62521": {
+    "groupID": 460,
+    "name": "Compressed Condensed Scordite "
+  },
+  "62522": {
+    "groupID": 460,
+    "name": "Compressed Massive Scordite"
+  },
+  "62523": {
+    "groupID": 460,
+    "name": "Compressed Glossy Scordite "
+  },
+  "62524": {
+    "groupID": 459,
+    "name": "Compressed Pyroxeres "
+  },
+  "62525": {
+    "groupID": 459,
+    "name": "Compressed Solid Pyroxeres"
+  },
+  "62526": {
+    "groupID": 459,
+    "name": "Compressed Viscous Pyroxeres "
+  },
+  "62527": {
+    "groupID": 459,
+    "name": "Compressed Opulent Pyroxeres "
+  },
+  "62528": {
+    "groupID": 458,
+    "name": "Compressed Plagioclase "
+  },
+  "62529": {
+    "groupID": 458,
+    "name": "Compressed Azure Plagioclase "
+  },
+  "62530": {
+    "groupID": 458,
+    "name": "Compressed Rich Plagioclase "
+  },
+  "62531": {
+    "groupID": 458,
+    "name": "Compressed Sparkling Plagioclase "
+  },
+  "62532": {
+    "groupID": 469,
+    "name": "Compressed Omber "
+  },
+  "62533": {
+    "groupID": 469,
+    "name": "Compressed Silvery Omber "
+  },
+  "62534": {
+    "groupID": 469,
+    "name": "Compressed Golden Omber "
+  },
+  "62535": {
+    "groupID": 469,
+    "name": "Compressed Platinoid Omber "
+  },
+  "62536": {
+    "groupID": 457,
+    "name": "Compressed Kernite "
+  },
+  "62537": {
+    "groupID": 457,
+    "name": "Compressed Luminous Kernite "
+  },
+  "62538": {
+    "groupID": 457,
+    "name": "Compressed Fiery Kernite "
+  },
+  "62539": {
+    "groupID": 457,
+    "name": "Compressed Resplendant Kernite "
+  },
+  "62540": {
+    "groupID": 456,
+    "name": "Compressed Jaspet"
+  },
+  "62541": {
+    "groupID": 456,
+    "name": "Compressed Pure Jaspet"
+  },
+  "62542": {
+    "groupID": 456,
+    "name": "Compressed Pristine Jaspet "
+  },
+  "62543": {
+    "groupID": 456,
+    "name": "Compressed Immaculate Jaspet "
+  },
+  "62544": {
+    "groupID": 455,
+    "name": "Compressed Hemorphite"
+  },
+  "62545": {
+    "groupID": 455,
+    "name": "Compressed Vivid Hemorphite "
+  },
+  "62546": {
+    "groupID": 455,
+    "name": "Compressed Radiant Hemorphite "
+  },
+  "62547": {
+    "groupID": 455,
+    "name": "Compressed Scintillating Hemorphite "
+  },
+  "62548": {
+    "groupID": 454,
+    "name": "Compressed Hedbergite "
+  },
+  "62549": {
+    "groupID": 454,
+    "name": "Compressed Vitric Hedbergite "
+  },
+  "62550": {
+    "groupID": 454,
+    "name": "Compressed Glazed Hedbergite"
+  },
+  "62551": {
+    "groupID": 454,
+    "name": "Compressed Lustrous Hedbergite "
+  },
+  "62552": {
+    "groupID": 467,
+    "name": "Compressed Gneiss"
+  },
+  "62553": {
+    "groupID": 467,
+    "name": "Compressed Iridescent Gneiss "
+  },
+  "62554": {
+    "groupID": 467,
+    "name": "Compressed Prismatic Gneiss"
+  },
+  "62555": {
+    "groupID": 467,
+    "name": "Compressed Brilliant Gneiss "
+  },
+  "62556": {
+    "groupID": 453,
+    "name": "Compressed Dark Ochre "
+  },
+  "62557": {
+    "groupID": 453,
+    "name": "Compressed Onyx Ochre "
+  },
+  "62558": {
+    "groupID": 453,
+    "name": "Compressed Obsidian Ochre "
+  },
+  "62559": {
+    "groupID": 453,
+    "name": "Compressed Jet Ochre"
+  },
+  "62560": {
+    "groupID": 452,
+    "name": "Compressed Crokite"
+  },
+  "62561": {
+    "groupID": 452,
+    "name": "Compressed Sharp Crokite"
+  },
+  "62562": {
+    "groupID": 452,
+    "name": "Compressed Crystalline Crokite "
+  },
+  "62563": {
+    "groupID": 452,
+    "name": "Compressed Pellucid Crokite "
+  },
+  "62564": {
+    "groupID": 451,
+    "name": "Compressed Bistot "
+  },
+  "62565": {
+    "groupID": 451,
+    "name": "Compressed Triclinic Bistot "
+  },
+  "62566": {
+    "groupID": 451,
+    "name": "Compressed Monoclinic Bistot "
+  },
+  "62567": {
+    "groupID": 451,
+    "name": "Compressed Cubic Bistot "
+  },
+  "62568": {
+    "groupID": 450,
+    "name": "Compressed Arkonor "
+  },
+  "62569": {
+    "groupID": 450,
+    "name": "Compressed Crimson Arkonor "
+  },
+  "62570": {
+    "groupID": 450,
+    "name": "Compressed Prime Arkonor"
+  },
+  "62571": {
+    "groupID": 450,
+    "name": "Compressed Flawless Arkonor"
+  },
+  "62572": {
+    "groupID": 461,
+    "name": "Compressed Spodumain"
+  },
+  "62573": {
+    "groupID": 461,
+    "name": "Compressed Bright Spodumain "
+  },
+  "62574": {
+    "groupID": 461,
+    "name": "Compressed Gleaming Spodumain "
+  },
+  "62575": {
+    "groupID": 461,
+    "name": "Compressed Dazzling Spodumain "
+  },
+  "62576": {
+    "groupID": 4031,
+    "name": "Compressed Bezdnacine "
+  },
+  "62577": {
+    "groupID": 4031,
+    "name": "Compressed Abyssal Bezdnacine "
+  },
+  "62578": {
+    "groupID": 4031,
+    "name": "Compressed Hadal Bezdnacine"
+  },
+  "62579": {
+    "groupID": 4030,
+    "name": "Compressed Rakovene "
+  },
+  "62580": {
+    "groupID": 4030,
+    "name": "Compressed Abyssal Rakovene "
+  },
+  "62581": {
+    "groupID": 4030,
+    "name": "Compressed Hadal Rakovene "
+  },
+  "62582": {
+    "groupID": 4029,
+    "name": "Compressed Talassonite "
+  },
+  "62583": {
+    "groupID": 4029,
+    "name": "Compressed Abyssal Talassonite"
+  },
+  "62584": {
+    "groupID": 4029,
+    "name": "Compressed Hadal Talassonite "
+  },
+  "62586": {
+    "groupID": 468,
+    "name": "Compressed Mercoxit "
+  },
+  "62587": {
+    "groupID": 468,
+    "name": "Compressed Magma Mercoxit "
+  },
+  "62588": {
+    "groupID": 468,
+    "name": "Compressed Vitreous Mercoxit "
+  },
+  "62589": {
+    "groupID": 4174,
+    "name": "QA Compressor "
+  },
+  "62590": {
+    "groupID": 515,
+    "name": "Medium Industrial Core I"
+  },
+  "62591": {
+    "groupID": 515,
+    "name": "Medium Industrial Core II "
+  },
+  "62592": {
+    "groupID": 516,
+    "name": "Medium Industrial Core I Blueprint"
+  },
+  "62593": {
+    "groupID": 516,
+    "name": "Medium Industrial Core II Blueprint"
   },
   "62595": {
     "groupID": 303,
@@ -114709,6 +115423,54 @@
     "groupID": 303,
     "name": "Guardian 'Hod' Booster III"
   },
+  "62622": {
+    "groupID": 4174,
+    "name": "Medium Asteroid Ore Compressor I"
+  },
+  "62624": {
+    "groupID": 4174,
+    "name": "Medium Gas Compressor I"
+  },
+  "62625": {
+    "groupID": 4174,
+    "name": "Large Asteroid Ore Compressor I"
+  },
+  "62626": {
+    "groupID": 4174,
+    "name": "Large Gas Compressor I"
+  },
+  "62628": {
+    "groupID": 4174,
+    "name": "Large Ice Compressor I"
+  },
+  "62630": {
+    "groupID": 4174,
+    "name": "Large Mercoxit Compressor I"
+  },
+  "62631": {
+    "groupID": 4174,
+    "name": "Large Moon Ore Compressor I"
+  },
+  "62632": {
+    "groupID": 4174,
+    "name": "Capital Asteroid Ore Compressor I"
+  },
+  "62633": {
+    "groupID": 4174,
+    "name": "Capital Ice Compressor I"
+  },
+  "62634": {
+    "groupID": 4174,
+    "name": "Capital Gas Compressor I"
+  },
+  "62635": {
+    "groupID": 4174,
+    "name": "Capital Mercoxit Compressor I"
+  },
+  "62636": {
+    "groupID": 4174,
+    "name": "Capital Moon Ore Compressor I"
+  },
   "62650": {
     "groupID": 1194,
     "name": "Gala Party Supplies Crate"
@@ -114716,6 +115478,54 @@
   "62651": {
     "groupID": 1194,
     "name": "Guardian's Gala Booster Crate"
+  },
+  "62652": {
+    "groupID": 4175,
+    "name": "Medium Asteroid Ore Compressor I Blueprint"
+  },
+  "62669": {
+    "groupID": 4175,
+    "name": "Large Asteroid Ore Compressor I Blueprint"
+  },
+  "62670": {
+    "groupID": 4175,
+    "name": "Capital Asteroid Ore Compressor I Blueprint"
+  },
+  "62671": {
+    "groupID": 4175,
+    "name": "Large Ice Compressor I Blueprint"
+  },
+  "62672": {
+    "groupID": 4175,
+    "name": "Capital Ice Compressor I Blueprint"
+  },
+  "62673": {
+    "groupID": 4175,
+    "name": "Medium Gas Compressor I Blueprint"
+  },
+  "62674": {
+    "groupID": 4175,
+    "name": "Large Gas Compressor I Blueprint"
+  },
+  "62675": {
+    "groupID": 4175,
+    "name": "Capital Gas Compressor I Blueprint"
+  },
+  "62676": {
+    "groupID": 4175,
+    "name": "Large Mercoxit Compressor I Blueprint"
+  },
+  "62677": {
+    "groupID": 4175,
+    "name": "Capital Mercoxit Compressor I Blueprint"
+  },
+  "62678": {
+    "groupID": 4175,
+    "name": "Large Moon Ore Compressor I Blueprint"
+  },
+  "62679": {
+    "groupID": 4175,
+    "name": "Capital Moon Ore Compressor I Blueprint"
   },
   "62709": {
     "groupID": 314,
@@ -114744,6 +115554,14 @@
   "62729": {
     "groupID": 227,
     "name": "Mordu ORE Guard Spawner"
+  },
+  "62732": {
+    "groupID": 4128,
+    "name": "[AIR] Hauler III"
+  },
+  "62738": {
+    "groupID": 4128,
+    "name": "[AIR] Hauler IV"
   },
   "62740": {
     "groupID": 1975,
@@ -114784,6 +115602,10 @@
   "62749": {
     "groupID": 1975,
     "name": "Non-interactable Gala Elevator"
+  },
+  "62750": {
+    "groupID": 1088,
+    "name": "Men's AIR Claim Surveyor Suit"
   },
   "62751": {
     "groupID": 1975,
@@ -114844,5 +115666,33 @@
   "62765": {
     "groupID": 1975,
     "name": "Non-interactable Porpoise"
+  },
+  "63051": {
+    "groupID": 1088,
+    "name": "Men's 'Semiotique Superluminal' Jacket"
+  },
+  "63052": {
+    "groupID": 1088,
+    "name": "Women's 'Semiotique Superluminal' Jacket"
+  },
+  "63054": {
+    "groupID": 1090,
+    "name": "Men's 'Semiotique Superluminal' Pants"
+  },
+  "63055": {
+    "groupID": 1090,
+    "name": "Women's 'Semiotique Superluminal' Pants"
+  },
+  "63056": {
+    "groupID": 1088,
+    "name": "Women's AIR Claim Surveyor Suit"
+  },
+  "63058": {
+    "groupID": 1083,
+    "name": "Men's 'Semiotique Superluminal' Shades "
+  },
+  "63061": {
+    "groupID": 1083,
+    "name": "Women's 'Semiotique Superluminal' Shades "
   }
 }

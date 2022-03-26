@@ -12663,6 +12663,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
+    "name": "Abyssal Modules",
     "published": false,
     "useBasePrice": false
   },
@@ -13060,12 +13061,12 @@
   },
   "2022": {
     "anchorable": false,
-    "anchored": false,
+    "anchored": true,
     "categoryID": 25,
     "fittableNonSingleton": false,
     "name": "Temporal Resources",
     "published": false,
-    "useBasePrice": false
+    "useBasePrice": true
   },
   "2023": {
     "anchorable": false,
@@ -13621,6 +13622,15 @@
     "published": true,
     "useBasePrice": true
   },
+  "4161": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "name": "AIR Ore Asteroid Resources",
+    "published": false,
+    "useBasePrice": true
+  },
   "4165": {
     "anchorable": false,
     "anchored": false,
@@ -13629,6 +13639,35 @@
     "name": "Peculiar Materials",
     "published": true,
     "useBasePrice": true
+  },
+  "4168": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "iconID": 25169,
+    "name": "Compressed Gas",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4174": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 7,
+    "fittableNonSingleton": false,
+    "iconID": 25152,
+    "name": "Compressors",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4175": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Compressors Blueprints",
+    "published": true,
+    "useBasePrice": false
   },
   "350858": {
     "anchorable": false,

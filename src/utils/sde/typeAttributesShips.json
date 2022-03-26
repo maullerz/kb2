@@ -3049,6 +3049,7 @@
       "ru": "Метауровень",
       "zh": "衍生等级"
     },
+    "displayWhenZero": true,
     "highIsGood": true,
     "name": "metaLevelOld",
     "published": true,
@@ -7592,7 +7593,12 @@
     "defaultValue": 0,
     "description": "reduction in MicroWarp Drive signature",
     "displayNameID": {
-      "en": "MWD sig penalty and cap need bonus"
+      "de": "Bonus auf Signaturradiusabzug und Energiespeicherverbrauch von Mikrowarpantrieben",
+      "en": "MWD sig penalty and cap need bonus",
+      "fr": "Bonus de pénalité de signature et de besoins énergétiques du PMW",
+      "ja": "MWDのシグネチャペナルティとキャパシタ消費軽減ボーナス",
+      "ko": "MWD 시그니처 페널티 및 캐패시터 사용량 보너스",
+      "ru": "Уменьшение потребления накопителя и влияния микроварп-ускорителя на радиус сигнатуры"
     },
     "highIsGood": false,
     "name": "MWDSignatureRadiusBonus",
@@ -12498,7 +12504,7 @@
   },
   "2722": {
     "attributeID": 2722,
-    "categoryID": 4,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -13965,16 +13971,6 @@
     "published": false,
     "stackable": true
   },
-  "3242": {
-    "attributeID": 3242,
-    "categoryID": 37,
-    "dataType": 5,
-    "defaultValue": 0,
-    "highIsGood": true,
-    "name": "shipRoleBonusDroneOreMiningYield",
-    "published": false,
-    "stackable": true
-  },
   "3250": {
     "attributeID": 3250,
     "dataType": 5,
@@ -13984,5 +13980,46 @@
     "name": "eliteBonusHeavyInterdictors3",
     "published": false,
     "stackable": false
+  },
+  "3261": {
+    "attributeID": 3261,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "structureGasDecompressionEfficiencyBonus",
+    "published": false,
+    "stackable": true,
+    "unitID": 127
+  },
+  "3266": {
+    "attributeID": 3266,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "battleshipPlateHPBonus",
+    "published": false,
+    "stackable": true
+  },
+  "3267": {
+    "attributeID": 3267,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "battleshipExtenderHPBonus",
+    "published": false,
+    "stackable": true
+  },
+  "3268": {
+    "attributeID": 3268,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "battleshipBulkheadHPModifierBonus",
+    "published": false,
+    "stackable": true
   }
 }
