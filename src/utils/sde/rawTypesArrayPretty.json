@@ -7872,7 +7872,7 @@
   [
     2878,
     927,
-    "Federation Industrial Vessel"
+    "Federation Hauler"
   ],
   [
     2879,
@@ -7897,17 +7897,17 @@
   [
     2883,
     927,
-    "State Industrial Vessel"
+    "State Hauler"
   ],
   [
     2884,
     927,
-    "Republic Industrial Vessel"
+    "Republic Hauler"
   ],
   [
     2885,
     927,
-    "Imperial Industrial Vessel"
+    "Imperial Hauler"
   ],
   [
     2886,
@@ -9312,7 +9312,7 @@
   [
     3184,
     257,
-    "ORE Industrial"
+    "ORE Hauler"
   ],
   [
     3185,
@@ -10062,22 +10062,22 @@
   [
     3340,
     257,
-    "Gallente Industrial"
+    "Gallente Hauler"
   ],
   [
     3341,
     257,
-    "Minmatar Industrial"
+    "Minmatar Hauler"
   ],
   [
     3342,
     257,
-    "Caldari Industrial"
+    "Caldari Hauler"
   ],
   [
     3343,
     257,
-    "Amarr Industrial"
+    "Amarr Hauler"
   ],
   [
     3344,
@@ -11277,7 +11277,7 @@
   [
     3595,
     226,
-    "Caldari Badger Industrial Ship"
+    "Caldari Badger Hauler"
   ],
   [
     3596,
@@ -11302,7 +11302,7 @@
   [
     3600,
     226,
-    "Caldari Tayra Industrial Ship"
+    "Caldari Tayra Hauler"
   ],
   [
     3601,
@@ -11547,7 +11547,7 @@
   [
     3652,
     226,
-    "Amarr Bestower Industrial Ship"
+    "Amarr Bestower Hauler"
   ],
   [
     3653,
@@ -11572,7 +11572,7 @@
   [
     3657,
     226,
-    "Amarr Sigil Industrial Ship"
+    "Amarr Sigil Hauler"
   ],
   [
     3658,
@@ -11847,7 +11847,7 @@
   [
     3718,
     226,
-    "Gallente Iteron Mark I Industrial Ship"
+    "Gallente Iteron Mark I Hauler"
   ],
   [
     3719,
@@ -11857,7 +11857,7 @@
   [
     3720,
     226,
-    "Gallente Iteron Mark II Industrial Ship"
+    "Gallente Iteron Mark II Hauler"
   ],
   [
     3721,
@@ -11867,7 +11867,7 @@
   [
     3722,
     226,
-    "Gallente Iteron Mark III Industrial Ship"
+    "Gallente Iteron Mark III Hauler"
   ],
   [
     3723,
@@ -11877,7 +11877,7 @@
   [
     3724,
     226,
-    "Gallente Iteron Mark IV Industrial Ship"
+    "Gallente Iteron Mark IV Hauler"
   ],
   [
     3725,
@@ -11887,7 +11887,7 @@
   [
     3726,
     226,
-    "Gallente Iteron Mark V Industrial Ship"
+    "Gallente Iteron Mark V Hauler"
   ],
   [
     3727,
@@ -12197,17 +12197,17 @@
   [
     3788,
     226,
-    "Minmatar Hoarder Industrial Ship"
+    "Minmatar Hoarder Hauler"
   ],
   [
     3789,
     226,
-    "Minmatar Mammoth Industrial Ship"
+    "Minmatar Mammoth Hauler"
   ],
   [
     3790,
     226,
-    "Minmatar Wreathe Industrial Ship"
+    "Minmatar Wreathe Hauler"
   ],
   [
     3791,
@@ -20377,7 +20377,7 @@
   [
     11075,
     257,
-    "Jove Industrial"
+    "Jove Hauler"
   ],
   [
     11076,
@@ -69892,7 +69892,7 @@
   [
     26481,
     186,
-    "Amarr Elite Industrial Wreck"
+    "Amarr Elite Hauler Wreck"
   ],
   [
     26482,
@@ -69912,7 +69912,7 @@
   [
     26485,
     186,
-    "Amarr Industrial Wreck"
+    "Amarr Hauler Wreck"
   ],
   [
     26486,
@@ -69997,7 +69997,7 @@
   [
     26503,
     186,
-    "Caldari Elite Industrial Wreck"
+    "Caldari Elite Hauler Wreck"
   ],
   [
     26504,
@@ -70017,7 +70017,7 @@
   [
     26507,
     186,
-    "Caldari Industrial Wreck"
+    "Caldari Hauler Wreck"
   ],
   [
     26508,
@@ -70102,7 +70102,7 @@
   [
     26525,
     186,
-    "Gallente Elite Industrial Wreck"
+    "Gallente Elite Hauler Wreck"
   ],
   [
     26526,
@@ -70122,7 +70122,7 @@
   [
     26529,
     186,
-    "Gallente Industrial Wreck"
+    "Gallente Hauler Wreck"
   ],
   [
     26530,
@@ -70207,7 +70207,7 @@
   [
     26547,
     186,
-    "Minmatar Elite Industrial Wreck"
+    "Minmatar Elite Hauler Wreck"
   ],
   [
     26548,
@@ -70227,7 +70227,7 @@
   [
     26551,
     186,
-    "Minmatar Industrial Wreck"
+    "Minmatar Hauler Wreck"
   ],
   [
     26552,
@@ -70897,7 +70897,7 @@
   [
     26743,
     226,
-    "Amarr Prorator Industrial"
+    "Amarr Prorator Hauler"
   ],
   [
     26744,
@@ -70912,7 +70912,7 @@
   [
     26746,
     226,
-    "Caldari Crane Industrial"
+    "Caldari Crane Hauler"
   ],
   [
     26747,
@@ -71152,7 +71152,7 @@
   [
     26794,
     226,
-    "Gallente Viator Industrial"
+    "Gallente Viator Hauler"
   ],
   [
     26795,
@@ -80227,22 +80227,22 @@
   [
     29144,
     927,
-    "Federation Industrial"
+    "Federation Hauler"
   ],
   [
     29145,
     927,
-    "Imperial Industrial"
+    "Imperial Hauler"
   ],
   [
     29146,
     927,
-    "Republic Industrial"
+    "Republic Hauler"
   ],
   [
     29147,
     927,
-    "State Industrial"
+    "State Hauler"
   ],
   [
     29148,
@@ -81027,7 +81027,7 @@
   [
     29365,
     186,
-    "Mission Faction Industrials Wreck"
+    "Mission Faction Hauler Wreck"
   ],
   [
     29382,
@@ -86427,7 +86427,7 @@
   [
     30898,
     226,
-    "Minmatar Wreathe industrial"
+    "Minmatar Wreathe Hauler"
   ],
   [
     30899,
@@ -91817,7 +91817,7 @@
   [
     32135,
     226,
-    "Gallente Occator Industrial"
+    "Gallente Occator Hauler"
   ],
   [
     32136,
@@ -128742,7 +128742,7 @@
   [
     54339,
     227,
-    "Hunt YC112 Boss Spawner"
+    "Hunt YC112 Mini Boss Spawner"
   ],
   [
     54340,
@@ -129372,7 +129372,7 @@
   [
     54587,
     303,
-    "Limited Synth Blue Pill Booster Mk I"
+    "Limited Synth Blue Pill Booster"
   ],
   [
     54588,
@@ -129397,7 +129397,7 @@
   [
     54592,
     303,
-    "Limited Synth Exile Booster Mk I"
+    "Limited Synth Exile Booster"
   ],
   [
     54593,
@@ -129422,7 +129422,7 @@
   [
     54597,
     303,
-    "Limited Synth Mindflood Booster Mk I"
+    "Limited Synth Mindflood Booster"
   ],
   [
     54598,
@@ -129447,7 +129447,7 @@
   [
     54602,
     303,
-    "Limited Synth X-Instinct Booster Mk I"
+    "Limited Synth X-Instinct Booster"
   ],
   [
     54603,
@@ -129472,7 +129472,7 @@
   [
     54607,
     303,
-    "Limited Synth Drop Booster Mk I"
+    "Limited Synth Drop Booster"
   ],
   [
     54610,
@@ -129497,7 +129497,7 @@
   [
     54614,
     303,
-    "Limited Synth Frentix Booster Mk I"
+    "Limited Synth Frentix Booster"
   ],
   [
     54615,
@@ -129522,7 +129522,7 @@
   [
     54619,
     303,
-    "Limited Synth Sooth Sayer Booster Mk I"
+    "Limited Synth Sooth Sayer Booster"
   ],
   [
     54620,
@@ -129547,7 +129547,7 @@
   [
     54624,
     303,
-    "Limited Synth Crash Booster Mk I"
+    "Limited Synth Crash Booster"
   ],
   [
     54625,
@@ -137372,7 +137372,7 @@
   [
     57782,
     474,
-    "Hunt YC123 Acceleration Gate Key"
+    "Expired Guristas Acceleration Gate Key"
   ],
   [
     57788,
@@ -143222,12 +143222,12 @@
   [
     62275,
     4050,
-    "2v2 T1 Frigates Proving Flament"
+    "2v2 T1 Frigates Proving Filament"
   ],
   [
     62276,
     4050,
-    "Event 53 Proving Filament"
+    "Cruiser Chaos FFA Proving Filament"
   ],
   [
     62277,
@@ -144147,137 +144147,137 @@
   [
     62595,
     303,
-    "Basic 'Bonding' Cerebral Accelerator"
+    "Expired Basic 'Bonding' Cerebral Accelerator"
   ],
   [
     62596,
     303,
-    "Potent 'Bonding' Cerebral Accelerator"
+    "Expired Potent 'Bonding' Cerebral Accelerator"
   ],
   [
     62597,
     303,
-    "Extended 'Bonding' Cerebral Accelerator"
+    "Expired Extended 'Bonding' Cerebral Accelerator"
   ],
   [
     62598,
     303,
-    "Guardian 'Chokmah' Booster I"
+    "Expired Guardian 'Chokmah' Booster I"
   ],
   [
     62599,
     303,
-    "Guardian 'Chokmah' Booster II"
+    "Expired Guardian 'Chokmah' Booster II"
   ],
   [
     62600,
     303,
-    "Guardian 'Chokmah' Booster III"
+    "Expired Guardian 'Chokmah' Booster III"
   ],
   [
     62601,
     303,
-    "Guardian 'Keter' Booster I"
+    "Expired Guardian 'Keter' Booster I"
   ],
   [
     62602,
     303,
-    "Guardian 'Keter' Booster II"
+    "Expired Guardian 'Keter' Booster II"
   ],
   [
     62603,
     303,
-    "Guardian 'Keter' Booster III"
+    "Expired Guardian 'Keter' Booster III"
   ],
   [
     62604,
     303,
-    "Guardian 'Yesod' Booster I"
+    "Expired Guardian 'Yesod' Booster I"
   ],
   [
     62605,
     303,
-    "Guardian 'Yesod' Booster II"
+    "Expired Guardian 'Yesod' Booster II"
   ],
   [
     62606,
     303,
-    "Guardian 'Yesod' Booster III"
+    "Expired Guardian 'Yesod' Booster III"
   ],
   [
     62607,
     303,
-    "Guardian 'Netzach' Booster I"
+    "Expired Guardian 'Netzach' Booster I"
   ],
   [
     62608,
     303,
-    "Guardian 'Netzach' Booster II"
+    "Expired Guardian 'Netzach' Booster II"
   ],
   [
     62609,
     303,
-    "Guardian 'Netzach' Booster III"
+    "Expired Guardian 'Netzach' Booster III"
   ],
   [
     62610,
     303,
-    "Guardian 'Tiferet' Booster I"
+    "Expired Guardian 'Tiferet' Booster I"
   ],
   [
     62611,
     303,
-    "Guardian 'Tiferet' Booster II"
+    "Expired Guardian 'Tiferet' Booster II"
   ],
   [
     62612,
     303,
-    "Guardian 'Tiferet' Booster III"
+    "Expired Guardian 'Tiferet' Booster III"
   ],
   [
     62613,
     303,
-    "Guardian 'Binah' Booster I"
+    "Expired Guardian 'Binah' Booster I"
   ],
   [
     62614,
     303,
-    "Guardian 'Binah' Booster II"
+    "Expired Guardian 'Binah' Booster II"
   ],
   [
     62615,
     303,
-    "Guardian 'Binah' Booster III"
+    "Expired Guardian 'Binah' Booster III"
   ],
   [
     62616,
     303,
-    "Guardian 'Gevurah' Booster I"
+    "Expired Guardian 'Gevurah' Booster I"
   ],
   [
     62617,
     303,
-    "Guardian 'Gevurah' Booster II"
+    "Expired Guardian 'Gevurah' Booster II"
   ],
   [
     62618,
     303,
-    "Guardian 'Gevurah' Booster III"
+    "Expired Guardian 'Gevurah' Booster III"
   ],
   [
     62619,
     303,
-    "Guardian 'Hod' Booster I"
+    "Expired Guardian 'Hod' Booster I"
   ],
   [
     62620,
     303,
-    "Guardian 'Hod' Booster II"
+    "Expired Guardian 'Hod' Booster II"
   ],
   [
     62621,
     303,
-    "Guardian 'Hod' Booster III"
+    "Expired Guardian 'Hod' Booster III"
   ],
   [
     62622,
@@ -144618,5 +144618,1105 @@
     63061,
     1083,
     "Women's 'Semiotique Superluminal' Shades "
+  ],
+  [
+    63088,
+    1975,
+    "Guristas Outpost"
+  ],
+  [
+    63089,
+    1975,
+    "Captured Caldari Workshop"
+  ],
+  [
+    63097,
+    1194,
+    "Retriever Bundle"
+  ],
+  [
+    63098,
+    227,
+    "Main Spawner"
+  ],
+  [
+    63099,
+    227,
+    "Hunt JEC Spawner"
+  ],
+  [
+    63101,
+    227,
+    "Secondary Spawner"
+  ],
+  [
+    63102,
+    1975,
+    "Tower Sentry Guristas"
+  ],
+  [
+    63103,
+    1975,
+    "Forified Guristas Wall"
+  ],
+  [
+    63104,
+    1975,
+    "Fortified Guristas Junction"
+  ],
+  [
+    63105,
+    1975,
+    "Guristas Control Center"
+  ],
+  [
+    63106,
+    1975,
+    "Rattlesnake Hull"
+  ],
+  [
+    63107,
+    1975,
+    "Gila Hull"
+  ],
+  [
+    63108,
+    226,
+    "Reptile Pit Control Tower"
+  ],
+  [
+    63112,
+    1088,
+    "Men's Ace of Podhunters Jacket"
+  ],
+  [
+    63113,
+    1091,
+    "Men's Ace of Podhunters Boots"
+  ],
+  [
+    63114,
+    1090,
+    "Men's Ace of Podhunters Pants"
+  ],
+  [
+    63115,
+    1088,
+    "Women's Ace of Podhunters Jacket"
+  ],
+  [
+    63123,
+    1091,
+    "Women's Ace of Podhunters Boots"
+  ],
+  [
+    63124,
+    1090,
+    "Women's Ace of Podhunters Pants"
+  ],
+  [
+    63125,
+    1971,
+    "Proving Venture Bonus (Do not translate)"
+  ],
+  [
+    63135,
+    4057,
+    "63135_Male_Accessories_Masks_Mask_Cyberpunk_M01_Types_Mask_Cyberpunk_M01.png"
+  ],
+  [
+    63138,
+    4057,
+    "63138_Female_Accessories_Masks_Mask_Cyberpunk_F01_Types_Mask_Cyberpunk_F01.png"
+  ],
+  [
+    63140,
+    4184,
+    "Industrial Jump Portal Generator I"
+  ],
+  [
+    63145,
+    4098,
+    "Frigate Frenzy Expert System"
+  ],
+  [
+    63151,
+    1971,
+    "Proving Frigate Frenzy Bonus (Do not translate)"
+  ],
+  [
+    63152,
+    1929,
+    "Mystery Nexus"
+  ],
+  [
+    63153,
+    1929,
+    "Mystery Nexus"
+  ],
+  [
+    63154,
+    1880,
+    "♦ Forgemaster Caiman"
+  ],
+  [
+    63156,
+    4053,
+    "Mysterious Golden Capsule"
+  ],
+  [
+    63157,
+    4053,
+    "Hijacked Red Capsule"
+  ],
+  [
+    63158,
+    4053,
+    "Hijacked Pink Capsule"
+  ],
+  [
+    63159,
+    4053,
+    "Hijacked White Capsule"
+  ],
+  [
+    63160,
+    4053,
+    "Hijacked Teal Capsule"
+  ],
+  [
+    63161,
+    4053,
+    "Hijacked Orange Capsule"
+  ],
+  [
+    63162,
+    4053,
+    "Hijacked Green Capsule"
+  ],
+  [
+    63163,
+    4053,
+    "Hijacked Golden Capsule"
+  ],
+  [
+    63164,
+    516,
+    "Industrial Jump Portal Generator I Blueprint"
+  ],
+  [
+    63165,
+    500,
+    "CapsuleerDay22Firework (Do not translate)"
+  ],
+  [
+    63166,
+    306,
+    "Hunt Communications Tower"
+  ],
+  [
+    63167,
+    306,
+    "Hunt Mainframe"
+  ],
+  [
+    63168,
+    306,
+    "Huntmaster Communications Tower "
+  ],
+  [
+    63169,
+    306,
+    "Huntmaster Mainframe"
+  ],
+  [
+    63188,
+    1301,
+    "Multiple Pilot Training"
+  ],
+  [
+    63190,
+    1971,
+    "Proving April 1st Chaos Bonus A (Do not translate)"
+  ],
+  [
+    63191,
+    1971,
+    "Proving April 1st Chaos Bonus B (Do not translate)"
+  ],
+  [
+    63192,
+    1971,
+    "Proving April 1st Chaos Bonus C (Do not translate)"
+  ],
+  [
+    63193,
+    1971,
+    "Proving April 1st Chaos Bonus D (Do not translate)"
+  ],
+  [
+    63195,
+    4186,
+    "Standup Flak Round I"
+  ],
+  [
+    63196,
+    4188,
+    "Standup Flak Round Blueprint"
+  ],
+  [
+    63246,
+    1088,
+    "Men's Capsuleer Day XIX Hoodie"
+  ],
+  [
+    63253,
+    1088,
+    "Men's Capsuleer Elite XIX Hoodie"
+  ],
+  [
+    63257,
+    1088,
+    "Women's Capsuleer Day XIX Hoodie"
+  ],
+  [
+    63260,
+    1088,
+    "Women's Capsuleer Elite XIX Hoodie"
+  ],
+  [
+    63273,
+    314,
+    "Omega EGDLI3 Boosters Tier 1"
+  ],
+  [
+    63274,
+    314,
+    "Omega EGDLI3 Boosters Tier 2"
+  ],
+  [
+    63275,
+    314,
+    "Omega EGDLI3 Boosters Tier 3"
+  ],
+  [
+    63276,
+    314,
+    "Omega EGDLI3 Boosters Tier 4"
+  ],
+  [
+    63277,
+    314,
+    "Omega EGDLI3 Skins Tier 1"
+  ],
+  [
+    63278,
+    314,
+    "Omega EGDLI3 Skins Tier 2"
+  ],
+  [
+    63279,
+    314,
+    "Omega EGDLI3 Skins Tier 3"
+  ],
+  [
+    63280,
+    314,
+    "Omega EGDLI3 Skins Tier 4"
+  ],
+  [
+    63281,
+    314,
+    "Omega EGDLI3 Skillpoints Tier 1"
+  ],
+  [
+    63282,
+    314,
+    "Omega EGDLI3 Skillpoints Tier 2"
+  ],
+  [
+    63283,
+    314,
+    "Omega EGDLI3 Skillpoints Tier 3"
+  ],
+  [
+    63284,
+    314,
+    "Omega EGDLI3 Skillpoints Tier 4"
+  ],
+  [
+    63285,
+    314,
+    "Omega EGDLI3 Filaments Tier 1"
+  ],
+  [
+    63286,
+    314,
+    "Omega EGDLI3 Filaments Tier 2"
+  ],
+  [
+    63287,
+    314,
+    "Omega EGDLI3 Filaments Tier 3"
+  ],
+  [
+    63288,
+    314,
+    "Alpha EGDLI3 Boosters Tier 1"
+  ],
+  [
+    63289,
+    314,
+    "Alpha EGDLI3 Boosters Tier 2"
+  ],
+  [
+    63290,
+    314,
+    "Alpha EGDLI3 Boosters Tier 3"
+  ],
+  [
+    63291,
+    314,
+    "Alpha EGDLI3 Boosters Tier 4"
+  ],
+  [
+    63292,
+    314,
+    "Alpha EGDLI3 Skins Tier 1"
+  ],
+  [
+    63293,
+    314,
+    "Alpha EGDLI3 Skins Tier 2"
+  ],
+  [
+    63294,
+    314,
+    "Alpha EGDLI3 Skins Tier 3"
+  ],
+  [
+    63295,
+    314,
+    "Alpha EGDLI3 Skins Tier 4"
+  ],
+  [
+    63296,
+    314,
+    "Alpha EGDLI3 Skillpoints Tier 1"
+  ],
+  [
+    63297,
+    314,
+    "Alpha EGDLI3 Skillpoints Tier 2"
+  ],
+  [
+    63298,
+    314,
+    "Alpha EGDLI3 Skillpoints Tier 3"
+  ],
+  [
+    63299,
+    314,
+    "Alpha EGDLI3 Skillpoints Tier 4"
+  ],
+  [
+    63300,
+    314,
+    "Alpha EGDLI3 Filaments Tier 1"
+  ],
+  [
+    63301,
+    314,
+    "Alpha EGDLI3 Filaments Tier 2"
+  ],
+  [
+    63302,
+    314,
+    "Alpha EGDLI3 Filaments Tier 3"
+  ],
+  [
+    63303,
+    526,
+    "4,000 Skill Points"
+  ],
+  [
+    63304,
+    526,
+    "4,500 Skill Points"
+  ],
+  [
+    63305,
+    526,
+    "5,500 Skill Points"
+  ],
+  [
+    63306,
+    526,
+    "6,000 Skill Points"
+  ],
+  [
+    63307,
+    526,
+    "6,500 Skill Points"
+  ],
+  [
+    63308,
+    526,
+    "7,000 Skill Points"
+  ],
+  [
+    63309,
+    526,
+    "8,000 Skill Points"
+  ],
+  [
+    63310,
+    526,
+    "9,000 Skill Points"
+  ],
+  [
+    63311,
+    526,
+    "11,000 Skill Points"
+  ],
+  [
+    63312,
+    526,
+    "12,000 Skill Points"
+  ],
+  [
+    63313,
+    526,
+    "13,000 Skill Points"
+  ],
+  [
+    63314,
+    526,
+    "14,000 Skill Points"
+  ],
+  [
+    63315,
+    526,
+    "15,000 Skill Points"
+  ],
+  [
+    63316,
+    526,
+    "16,000 Skill Points"
+  ],
+  [
+    63317,
+    526,
+    "17,000 Skill Points"
+  ],
+  [
+    63318,
+    526,
+    "18,000 Skill Points"
+  ],
+  [
+    63319,
+    526,
+    "21,000 Skill Points"
+  ],
+  [
+    63320,
+    526,
+    "22,000 Skill Points"
+  ],
+  [
+    63321,
+    526,
+    "23,000 Skill Points"
+  ],
+  [
+    63322,
+    526,
+    "24,000 Skill Points"
+  ],
+  [
+    63323,
+    526,
+    "27,000 Skill Points"
+  ],
+  [
+    63324,
+    526,
+    "28,000 Skill Points"
+  ],
+  [
+    63325,
+    526,
+    "29,000 Skill Points"
+  ],
+  [
+    63326,
+    526,
+    "31,000 Skill Points"
+  ],
+  [
+    63327,
+    526,
+    "32,000 Skill Points"
+  ],
+  [
+    63328,
+    526,
+    "33,000 Skill Points"
+  ],
+  [
+    63329,
+    526,
+    "34,000 Skill Points"
+  ],
+  [
+    63330,
+    526,
+    "35,000 Skill Points"
+  ],
+  [
+    63331,
+    526,
+    "42,000 Skill Points"
+  ],
+  [
+    63332,
+    526,
+    "43,000 Skill Points"
+  ],
+  [
+    63333,
+    526,
+    "44,000 Skill Points"
+  ],
+  [
+    63334,
+    526,
+    "45,000 Skill Points"
+  ],
+  [
+    63335,
+    526,
+    "46,000 Skill Points"
+  ],
+  [
+    63336,
+    526,
+    "47,000 Skill Points"
+  ],
+  [
+    63337,
+    526,
+    "48,000 Skill Points"
+  ],
+  [
+    63338,
+    526,
+    "49,000 Skill Points"
+  ],
+  [
+    63339,
+    526,
+    "51,000 Skill Points"
+  ],
+  [
+    63340,
+    526,
+    "52,000 Skill Points"
+  ],
+  [
+    63596,
+    303,
+    "Halcyon R-1 Booster"
+  ],
+  [
+    63597,
+    303,
+    "Halcyon R-2 Booster"
+  ],
+  [
+    63598,
+    303,
+    "Halcyon R-3 Booster"
+  ],
+  [
+    63599,
+    303,
+    "Halcyon R-4 Booster"
+  ],
+  [
+    63600,
+    303,
+    "Halcyon R-5 Booster"
+  ],
+  [
+    63601,
+    303,
+    "Halcyon B-1 Booster"
+  ],
+  [
+    63602,
+    303,
+    "Halcyon B-2 Booster"
+  ],
+  [
+    63603,
+    303,
+    "Halcyon B-3 Booster"
+  ],
+  [
+    63604,
+    303,
+    "Halcyon B-4 Booster"
+  ],
+  [
+    63605,
+    303,
+    "Halcyon B-5 Booster"
+  ],
+  [
+    63606,
+    303,
+    "Halcyon G-1 Booster"
+  ],
+  [
+    63607,
+    303,
+    "Halcyon G-2 Booster"
+  ],
+  [
+    63608,
+    303,
+    "Halcyon G-3 Booster"
+  ],
+  [
+    63609,
+    303,
+    "Halcyon G-4 Booster"
+  ],
+  [
+    63610,
+    303,
+    "Halcyon G-5 Booster"
+  ],
+  [
+    63611,
+    303,
+    "Halcyon Y-1 Booster"
+  ],
+  [
+    63612,
+    303,
+    "Halcyon Y-2 Booster"
+  ],
+  [
+    63613,
+    303,
+    "Halcyon Y-3 Booster"
+  ],
+  [
+    63614,
+    303,
+    "Halcyon Y-4 Booster"
+  ],
+  [
+    63615,
+    303,
+    "Halcyon Y-5 Booster"
+  ],
+  [
+    63623,
+    526,
+    "19,000 Skill Points"
+  ],
+  [
+    63624,
+    526,
+    "20,000 Skill Points"
+  ],
+  [
+    63625,
+    227,
+    "Hunt YC112 Boss Spawner"
+  ],
+  [
+    63626,
+    227,
+    "Huntmaster YC112 Mini Boss Spawner"
+  ],
+  [
+    63627,
+    1664,
+    "Hunt Jackdaw"
+  ],
+  [
+    63628,
+    1664,
+    "Hunt Jackdaw"
+  ],
+  [
+    63629,
+    1664,
+    "Huntmaster Jackdaw"
+  ],
+  [
+    63630,
+    1664,
+    "Huntmaster Jackdaw"
+  ],
+  [
+    63631,
+    383,
+    "Hunt Stasis Webifier Tower"
+  ],
+  [
+    63632,
+    474,
+    "Hunt YC124 Acceleration Gate Key"
+  ],
+  [
+    63633,
+    303,
+    "Basic 'Guri Kikhivaa' Cerebral Accelerator"
+  ],
+  [
+    63634,
+    303,
+    "Potent 'Guri Kikhivaa' Cerebral Accelerator"
+  ],
+  [
+    63635,
+    303,
+    "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+  ],
+  [
+    63636,
+    314,
+    "Testing EGDLI3 Skins Limited Selection"
+  ],
+  [
+    63645,
+    303,
+    "Hunt Probing Booster I"
+  ],
+  [
+    63646,
+    303,
+    "Hunt Probing Booster II"
+  ],
+  [
+    63647,
+    303,
+    "Hunt Probing Booster III"
+  ],
+  [
+    63648,
+    303,
+    "Hunt Probing Booster IV"
+  ],
+  [
+    63649,
+    303,
+    "Hunt Pursuit Booster I"
+  ],
+  [
+    63650,
+    303,
+    "Hunt Pursuit Booster II"
+  ],
+  [
+    63651,
+    303,
+    "Hunt Pursuit Booster III"
+  ],
+  [
+    63652,
+    303,
+    "Hunt Pursuit Booster IV"
+  ],
+  [
+    63653,
+    303,
+    "Hunt Rapid Repair Booster I"
+  ],
+  [
+    63654,
+    303,
+    "Hunt Rapid Repair Booster II"
+  ],
+  [
+    63655,
+    303,
+    "Hunt Rapid Repair Booster III"
+  ],
+  [
+    63656,
+    303,
+    "Hunt Rapid Repair Booster IV"
+  ],
+  [
+    63657,
+    303,
+    "Hunt Resistance Booster I"
+  ],
+  [
+    63658,
+    303,
+    "Hunt Resistance Booster II"
+  ],
+  [
+    63659,
+    303,
+    "Hunt Resistance Booster III"
+  ],
+  [
+    63660,
+    303,
+    "Hunt Resistance Booster IV"
+  ],
+  [
+    63661,
+    303,
+    "Hunt Drone Precision Booster I"
+  ],
+  [
+    63662,
+    303,
+    "Hunt Drone Precision Booster II"
+  ],
+  [
+    63663,
+    303,
+    "Hunt Drone Precision Booster III"
+  ],
+  [
+    63664,
+    303,
+    "Hunt Drone Precision Booster IV"
+  ],
+  [
+    63665,
+    303,
+    "Hunt Missile Velocity Booster I"
+  ],
+  [
+    63666,
+    303,
+    "Hunt Missile Velocity Booster II"
+  ],
+  [
+    63667,
+    303,
+    "Hunt Missile Velocity Booster III"
+  ],
+  [
+    63668,
+    303,
+    "Hunt Missile Velocity Booster IV"
+  ],
+  [
+    63669,
+    303,
+    "Hunt Drone Damage Booster I"
+  ],
+  [
+    63670,
+    303,
+    "Hunt Drone Damage Booster II"
+  ],
+  [
+    63671,
+    303,
+    "Hunt Drone Damage Booster III"
+  ],
+  [
+    63672,
+    303,
+    "Hunt Drone Damage Booster IV"
+  ],
+  [
+    63673,
+    303,
+    "Hunt Missile Damage Booster I"
+  ],
+  [
+    63674,
+    303,
+    "Hunt Missile Damage Booster II"
+  ],
+  [
+    63675,
+    303,
+    "Hunt Missile Damage Booster III"
+  ],
+  [
+    63676,
+    303,
+    "Hunt Missile Damage Booster IV"
+  ],
+  [
+    63677,
+    1194,
+    "Hunt Booster Crate"
+  ],
+  [
+    63678,
+    383,
+    "Hunt Energy Neutralizer Tower"
+  ],
+  [
+    63679,
+    383,
+    "Hunt EM Missile Battery"
+  ],
+  [
+    63680,
+    383,
+    "Hunt Thermal Missile Battery"
+  ],
+  [
+    63681,
+    383,
+    "Hunt Kinetic Missile Battery"
+  ],
+  [
+    63682,
+    383,
+    "Hunt Explosive Missile Battery"
+  ],
+  [
+    63698,
+    526,
+    "Guristas Infiltrator Clone Corpse"
+  ],
+  [
+    63699,
+    314,
+    "Classified Caldari Databank"
+  ],
+  [
+    63704,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-001"
+  ],
+  [
+    63705,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-004"
+  ],
+  [
+    63706,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-005"
+  ],
+  [
+    63707,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-006"
+  ],
+  [
+    63708,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-007"
+  ],
+  [
+    63709,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-008"
+  ],
+  [
+    63710,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-009"
+  ],
+  [
+    63711,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-010"
+  ],
+  [
+    63712,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-002"
+  ],
+  [
+    63713,
+    314,
+    "Capsule Subsystem Holostorage EH-CN-J44-003"
+  ],
+  [
+    63714,
+    4050,
+    "Event 57 Proving Filament"
+  ],
+  [
+    63715,
+    4050,
+    "Event 58 Proving Filament"
+  ],
+  [
+    63716,
+    4050,
+    "Event 59 Proving Filament"
+  ],
+  [
+    63717,
+    4050,
+    "Event 60 Proving Filament"
+  ],
+  [
+    63718,
+    4050,
+    "Event 61 Proving Filament"
+  ],
+  [
+    63719,
+    4050,
+    "Event 62 Proving Filament"
+  ],
+  [
+    63720,
+    4050,
+    "Event 63 Proving Filament"
+  ],
+  [
+    63721,
+    4050,
+    "Event 64 Proving Filament"
+  ],
+  [
+    63722,
+    4050,
+    "Event 65 Proving Filament"
+  ],
+  [
+    63723,
+    4050,
+    "Event 66 Proving Filament"
+  ],
+  [
+    63724,
+    4050,
+    "Event 67 Proving Filament"
+  ],
+  [
+    63725,
+    4050,
+    "Event 68 Proving Filament"
+  ],
+  [
+    63726,
+    4050,
+    "Event 69 Proving Filament"
+  ],
+  [
+    63727,
+    4050,
+    "Event 70 Proving Filament"
+  ],
+  [
+    63728,
+    4050,
+    "Event 71 Proving Filament"
   ]
 ]

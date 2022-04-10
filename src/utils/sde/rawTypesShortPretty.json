@@ -6297,7 +6297,7 @@
   },
   "2878": {
     "groupID": 927,
-    "name": "Federation Industrial Vessel"
+    "name": "Federation Hauler"
   },
   "2879": {
     "groupID": 875,
@@ -6317,15 +6317,15 @@
   },
   "2883": {
     "groupID": 927,
-    "name": "State Industrial Vessel"
+    "name": "State Hauler"
   },
   "2884": {
     "groupID": 927,
-    "name": "Republic Industrial Vessel"
+    "name": "Republic Hauler"
   },
   "2885": {
     "groupID": 927,
-    "name": "Imperial Industrial Vessel"
+    "name": "Imperial Hauler"
   },
   "2886": {
     "groupID": 306,
@@ -7449,7 +7449,7 @@
   },
   "3184": {
     "groupID": 257,
-    "name": "ORE Industrial"
+    "name": "ORE Hauler"
   },
   "3185": {
     "groupID": 742,
@@ -8049,19 +8049,19 @@
   },
   "3340": {
     "groupID": 257,
-    "name": "Gallente Industrial"
+    "name": "Gallente Hauler"
   },
   "3341": {
     "groupID": 257,
-    "name": "Minmatar Industrial"
+    "name": "Minmatar Hauler"
   },
   "3342": {
     "groupID": 257,
-    "name": "Caldari Industrial"
+    "name": "Caldari Hauler"
   },
   "3343": {
     "groupID": 257,
-    "name": "Amarr Industrial"
+    "name": "Amarr Hauler"
   },
   "3344": {
     "groupID": 257,
@@ -9021,7 +9021,7 @@
   },
   "3595": {
     "groupID": 226,
-    "name": "Caldari Badger Industrial Ship"
+    "name": "Caldari Badger Hauler"
   },
   "3596": {
     "groupID": 41,
@@ -9041,7 +9041,7 @@
   },
   "3600": {
     "groupID": 226,
-    "name": "Caldari Tayra Industrial Ship"
+    "name": "Caldari Tayra Hauler"
   },
   "3601": {
     "groupID": 226,
@@ -9237,7 +9237,7 @@
   },
   "3652": {
     "groupID": 226,
-    "name": "Amarr Bestower Industrial Ship"
+    "name": "Amarr Bestower Hauler"
   },
   "3653": {
     "groupID": 63,
@@ -9257,7 +9257,7 @@
   },
   "3657": {
     "groupID": 226,
-    "name": "Amarr Sigil Industrial Ship"
+    "name": "Amarr Sigil Hauler"
   },
   "3658": {
     "groupID": 226,
@@ -9477,7 +9477,7 @@
   },
   "3718": {
     "groupID": 226,
-    "name": "Gallente Iteron Mark I Industrial Ship"
+    "name": "Gallente Iteron Mark I Hauler"
   },
   "3719": {
     "groupID": 283,
@@ -9485,7 +9485,7 @@
   },
   "3720": {
     "groupID": 226,
-    "name": "Gallente Iteron Mark II Industrial Ship"
+    "name": "Gallente Iteron Mark II Hauler"
   },
   "3721": {
     "groupID": 283,
@@ -9493,7 +9493,7 @@
   },
   "3722": {
     "groupID": 226,
-    "name": "Gallente Iteron Mark III Industrial Ship"
+    "name": "Gallente Iteron Mark III Hauler"
   },
   "3723": {
     "groupID": 283,
@@ -9501,7 +9501,7 @@
   },
   "3724": {
     "groupID": 226,
-    "name": "Gallente Iteron Mark IV Industrial Ship"
+    "name": "Gallente Iteron Mark IV Hauler"
   },
   "3725": {
     "groupID": 1034,
@@ -9509,7 +9509,7 @@
   },
   "3726": {
     "groupID": 226,
-    "name": "Gallente Iteron Mark V Industrial Ship"
+    "name": "Gallente Iteron Mark V Hauler"
   },
   "3727": {
     "groupID": 282,
@@ -9757,15 +9757,15 @@
   },
   "3788": {
     "groupID": 226,
-    "name": "Minmatar Hoarder Industrial Ship"
+    "name": "Minmatar Hoarder Hauler"
   },
   "3789": {
     "groupID": 226,
-    "name": "Minmatar Mammoth Industrial Ship"
+    "name": "Minmatar Mammoth Hauler"
   },
   "3790": {
     "groupID": 226,
-    "name": "Minmatar Wreathe Industrial Ship"
+    "name": "Minmatar Wreathe Hauler"
   },
   "3791": {
     "groupID": 226,
@@ -16301,7 +16301,7 @@
   },
   "11075": {
     "groupID": 257,
-    "name": "Jove Industrial"
+    "name": "Jove Hauler"
   },
   "11076": {
     "groupID": 319,
@@ -55913,7 +55913,7 @@
   },
   "26481": {
     "groupID": 186,
-    "name": "Amarr Elite Industrial Wreck"
+    "name": "Amarr Elite Hauler Wreck"
   },
   "26482": {
     "groupID": 186,
@@ -55929,7 +55929,7 @@
   },
   "26485": {
     "groupID": 186,
-    "name": "Amarr Industrial Wreck"
+    "name": "Amarr Hauler Wreck"
   },
   "26486": {
     "groupID": 186,
@@ -55997,7 +55997,7 @@
   },
   "26503": {
     "groupID": 186,
-    "name": "Caldari Elite Industrial Wreck"
+    "name": "Caldari Elite Hauler Wreck"
   },
   "26504": {
     "groupID": 186,
@@ -56013,7 +56013,7 @@
   },
   "26507": {
     "groupID": 186,
-    "name": "Caldari Industrial Wreck"
+    "name": "Caldari Hauler Wreck"
   },
   "26508": {
     "groupID": 186,
@@ -56081,7 +56081,7 @@
   },
   "26525": {
     "groupID": 186,
-    "name": "Gallente Elite Industrial Wreck"
+    "name": "Gallente Elite Hauler Wreck"
   },
   "26526": {
     "groupID": 186,
@@ -56097,7 +56097,7 @@
   },
   "26529": {
     "groupID": 186,
-    "name": "Gallente Industrial Wreck"
+    "name": "Gallente Hauler Wreck"
   },
   "26530": {
     "groupID": 186,
@@ -56165,7 +56165,7 @@
   },
   "26547": {
     "groupID": 186,
-    "name": "Minmatar Elite Industrial Wreck"
+    "name": "Minmatar Elite Hauler Wreck"
   },
   "26548": {
     "groupID": 186,
@@ -56181,7 +56181,7 @@
   },
   "26551": {
     "groupID": 186,
-    "name": "Minmatar Industrial Wreck"
+    "name": "Minmatar Hauler Wreck"
   },
   "26552": {
     "groupID": 186,
@@ -56717,7 +56717,7 @@
   },
   "26743": {
     "groupID": 226,
-    "name": "Amarr Prorator Industrial"
+    "name": "Amarr Prorator Hauler"
   },
   "26744": {
     "groupID": 533,
@@ -56729,7 +56729,7 @@
   },
   "26746": {
     "groupID": 226,
-    "name": "Caldari Crane Industrial"
+    "name": "Caldari Crane Hauler"
   },
   "26747": {
     "groupID": 383,
@@ -56921,7 +56921,7 @@
   },
   "26794": {
     "groupID": 226,
-    "name": "Gallente Viator Industrial"
+    "name": "Gallente Viator Hauler"
   },
   "26795": {
     "groupID": 533,
@@ -64181,19 +64181,19 @@
   },
   "29144": {
     "groupID": 927,
-    "name": "Federation Industrial"
+    "name": "Federation Hauler"
   },
   "29145": {
     "groupID": 927,
-    "name": "Imperial Industrial"
+    "name": "Imperial Hauler"
   },
   "29146": {
     "groupID": 927,
-    "name": "Republic Industrial"
+    "name": "Republic Hauler"
   },
   "29147": {
     "groupID": 927,
-    "name": "State Industrial"
+    "name": "State Hauler"
   },
   "29148": {
     "groupID": 14,
@@ -64821,7 +64821,7 @@
   },
   "29365": {
     "groupID": 186,
-    "name": "Mission Faction Industrials Wreck"
+    "name": "Mission Faction Hauler Wreck"
   },
   "29382": {
     "groupID": 226,
@@ -69141,7 +69141,7 @@
   },
   "30898": {
     "groupID": 226,
-    "name": "Minmatar Wreathe industrial"
+    "name": "Minmatar Wreathe Hauler"
   },
   "30899": {
     "groupID": 952,
@@ -73453,7 +73453,7 @@
   },
   "32135": {
     "groupID": 226,
-    "name": "Gallente Occator Industrial"
+    "name": "Gallente Occator Hauler"
   },
   "32136": {
     "groupID": 226,
@@ -102993,7 +102993,7 @@
   },
   "54339": {
     "groupID": 227,
-    "name": "Hunt YC112 Boss Spawner"
+    "name": "Hunt YC112 Mini Boss Spawner"
   },
   "54340": {
     "groupID": 227,
@@ -103497,7 +103497,7 @@
   },
   "54587": {
     "groupID": 303,
-    "name": "Limited Synth Blue Pill Booster Mk I"
+    "name": "Limited Synth Blue Pill Booster"
   },
   "54588": {
     "groupID": 303,
@@ -103517,7 +103517,7 @@
   },
   "54592": {
     "groupID": 303,
-    "name": "Limited Synth Exile Booster Mk I"
+    "name": "Limited Synth Exile Booster"
   },
   "54593": {
     "groupID": 303,
@@ -103537,7 +103537,7 @@
   },
   "54597": {
     "groupID": 303,
-    "name": "Limited Synth Mindflood Booster Mk I"
+    "name": "Limited Synth Mindflood Booster"
   },
   "54598": {
     "groupID": 303,
@@ -103557,7 +103557,7 @@
   },
   "54602": {
     "groupID": 303,
-    "name": "Limited Synth X-Instinct Booster Mk I"
+    "name": "Limited Synth X-Instinct Booster"
   },
   "54603": {
     "groupID": 303,
@@ -103577,7 +103577,7 @@
   },
   "54607": {
     "groupID": 303,
-    "name": "Limited Synth Drop Booster Mk I"
+    "name": "Limited Synth Drop Booster"
   },
   "54610": {
     "groupID": 303,
@@ -103597,7 +103597,7 @@
   },
   "54614": {
     "groupID": 303,
-    "name": "Limited Synth Frentix Booster Mk I"
+    "name": "Limited Synth Frentix Booster"
   },
   "54615": {
     "groupID": 303,
@@ -103617,7 +103617,7 @@
   },
   "54619": {
     "groupID": 303,
-    "name": "Limited Synth Sooth Sayer Booster Mk I"
+    "name": "Limited Synth Sooth Sayer Booster"
   },
   "54620": {
     "groupID": 303,
@@ -103637,7 +103637,7 @@
   },
   "54624": {
     "groupID": 303,
-    "name": "Limited Synth Crash Booster Mk I"
+    "name": "Limited Synth Crash Booster"
   },
   "54625": {
     "groupID": 303,
@@ -109897,7 +109897,7 @@
   },
   "57782": {
     "groupID": 474,
-    "name": "Hunt YC123 Acceleration Gate Key"
+    "name": "Expired Guristas Acceleration Gate Key"
   },
   "57788": {
     "groupID": 4106,
@@ -114577,11 +114577,11 @@
   },
   "62275": {
     "groupID": 4050,
-    "name": "2v2 T1 Frigates Proving Flament"
+    "name": "2v2 T1 Frigates Proving Filament"
   },
   "62276": {
     "groupID": 4050,
-    "name": "Event 53 Proving Filament"
+    "name": "Cruiser Chaos FFA Proving Filament"
   },
   "62277": {
     "groupID": 4050,
@@ -115317,111 +115317,111 @@
   },
   "62595": {
     "groupID": 303,
-    "name": "Basic 'Bonding' Cerebral Accelerator"
+    "name": "Expired Basic 'Bonding' Cerebral Accelerator"
   },
   "62596": {
     "groupID": 303,
-    "name": "Potent 'Bonding' Cerebral Accelerator"
+    "name": "Expired Potent 'Bonding' Cerebral Accelerator"
   },
   "62597": {
     "groupID": 303,
-    "name": "Extended 'Bonding' Cerebral Accelerator"
+    "name": "Expired Extended 'Bonding' Cerebral Accelerator"
   },
   "62598": {
     "groupID": 303,
-    "name": "Guardian 'Chokmah' Booster I"
+    "name": "Expired Guardian 'Chokmah' Booster I"
   },
   "62599": {
     "groupID": 303,
-    "name": "Guardian 'Chokmah' Booster II"
+    "name": "Expired Guardian 'Chokmah' Booster II"
   },
   "62600": {
     "groupID": 303,
-    "name": "Guardian 'Chokmah' Booster III"
+    "name": "Expired Guardian 'Chokmah' Booster III"
   },
   "62601": {
     "groupID": 303,
-    "name": "Guardian 'Keter' Booster I"
+    "name": "Expired Guardian 'Keter' Booster I"
   },
   "62602": {
     "groupID": 303,
-    "name": "Guardian 'Keter' Booster II"
+    "name": "Expired Guardian 'Keter' Booster II"
   },
   "62603": {
     "groupID": 303,
-    "name": "Guardian 'Keter' Booster III"
+    "name": "Expired Guardian 'Keter' Booster III"
   },
   "62604": {
     "groupID": 303,
-    "name": "Guardian 'Yesod' Booster I"
+    "name": "Expired Guardian 'Yesod' Booster I"
   },
   "62605": {
     "groupID": 303,
-    "name": "Guardian 'Yesod' Booster II"
+    "name": "Expired Guardian 'Yesod' Booster II"
   },
   "62606": {
     "groupID": 303,
-    "name": "Guardian 'Yesod' Booster III"
+    "name": "Expired Guardian 'Yesod' Booster III"
   },
   "62607": {
     "groupID": 303,
-    "name": "Guardian 'Netzach' Booster I"
+    "name": "Expired Guardian 'Netzach' Booster I"
   },
   "62608": {
     "groupID": 303,
-    "name": "Guardian 'Netzach' Booster II"
+    "name": "Expired Guardian 'Netzach' Booster II"
   },
   "62609": {
     "groupID": 303,
-    "name": "Guardian 'Netzach' Booster III"
+    "name": "Expired Guardian 'Netzach' Booster III"
   },
   "62610": {
     "groupID": 303,
-    "name": "Guardian 'Tiferet' Booster I"
+    "name": "Expired Guardian 'Tiferet' Booster I"
   },
   "62611": {
     "groupID": 303,
-    "name": "Guardian 'Tiferet' Booster II"
+    "name": "Expired Guardian 'Tiferet' Booster II"
   },
   "62612": {
     "groupID": 303,
-    "name": "Guardian 'Tiferet' Booster III"
+    "name": "Expired Guardian 'Tiferet' Booster III"
   },
   "62613": {
     "groupID": 303,
-    "name": "Guardian 'Binah' Booster I"
+    "name": "Expired Guardian 'Binah' Booster I"
   },
   "62614": {
     "groupID": 303,
-    "name": "Guardian 'Binah' Booster II"
+    "name": "Expired Guardian 'Binah' Booster II"
   },
   "62615": {
     "groupID": 303,
-    "name": "Guardian 'Binah' Booster III"
+    "name": "Expired Guardian 'Binah' Booster III"
   },
   "62616": {
     "groupID": 303,
-    "name": "Guardian 'Gevurah' Booster I"
+    "name": "Expired Guardian 'Gevurah' Booster I"
   },
   "62617": {
     "groupID": 303,
-    "name": "Guardian 'Gevurah' Booster II"
+    "name": "Expired Guardian 'Gevurah' Booster II"
   },
   "62618": {
     "groupID": 303,
-    "name": "Guardian 'Gevurah' Booster III"
+    "name": "Expired Guardian 'Gevurah' Booster III"
   },
   "62619": {
     "groupID": 303,
-    "name": "Guardian 'Hod' Booster I"
+    "name": "Expired Guardian 'Hod' Booster I"
   },
   "62620": {
     "groupID": 303,
-    "name": "Guardian 'Hod' Booster II"
+    "name": "Expired Guardian 'Hod' Booster II"
   },
   "62621": {
     "groupID": 303,
-    "name": "Guardian 'Hod' Booster III"
+    "name": "Expired Guardian 'Hod' Booster III"
   },
   "62622": {
     "groupID": 4174,
@@ -115694,5 +115694,885 @@
   "63061": {
     "groupID": 1083,
     "name": "Women's 'Semiotique Superluminal' Shades "
+  },
+  "63088": {
+    "groupID": 1975,
+    "name": "Guristas Outpost"
+  },
+  "63089": {
+    "groupID": 1975,
+    "name": "Captured Caldari Workshop"
+  },
+  "63097": {
+    "groupID": 1194,
+    "name": "Retriever Bundle"
+  },
+  "63098": {
+    "groupID": 227,
+    "name": "Main Spawner"
+  },
+  "63099": {
+    "groupID": 227,
+    "name": "Hunt JEC Spawner"
+  },
+  "63101": {
+    "groupID": 227,
+    "name": "Secondary Spawner"
+  },
+  "63102": {
+    "groupID": 1975,
+    "name": "Tower Sentry Guristas"
+  },
+  "63103": {
+    "groupID": 1975,
+    "name": "Forified Guristas Wall"
+  },
+  "63104": {
+    "groupID": 1975,
+    "name": "Fortified Guristas Junction"
+  },
+  "63105": {
+    "groupID": 1975,
+    "name": "Guristas Control Center"
+  },
+  "63106": {
+    "groupID": 1975,
+    "name": "Rattlesnake Hull"
+  },
+  "63107": {
+    "groupID": 1975,
+    "name": "Gila Hull"
+  },
+  "63108": {
+    "groupID": 226,
+    "name": "Reptile Pit Control Tower"
+  },
+  "63112": {
+    "groupID": 1088,
+    "name": "Men's Ace of Podhunters Jacket"
+  },
+  "63113": {
+    "groupID": 1091,
+    "name": "Men's Ace of Podhunters Boots"
+  },
+  "63114": {
+    "groupID": 1090,
+    "name": "Men's Ace of Podhunters Pants"
+  },
+  "63115": {
+    "groupID": 1088,
+    "name": "Women's Ace of Podhunters Jacket"
+  },
+  "63123": {
+    "groupID": 1091,
+    "name": "Women's Ace of Podhunters Boots"
+  },
+  "63124": {
+    "groupID": 1090,
+    "name": "Women's Ace of Podhunters Pants"
+  },
+  "63125": {
+    "groupID": 1971,
+    "name": "Proving Venture Bonus (Do not translate)"
+  },
+  "63135": {
+    "groupID": 4057,
+    "name": "63135_Male_Accessories_Masks_Mask_Cyberpunk_M01_Types_Mask_Cyberpunk_M01.png"
+  },
+  "63138": {
+    "groupID": 4057,
+    "name": "63138_Female_Accessories_Masks_Mask_Cyberpunk_F01_Types_Mask_Cyberpunk_F01.png"
+  },
+  "63140": {
+    "groupID": 4184,
+    "name": "Industrial Jump Portal Generator I"
+  },
+  "63145": {
+    "groupID": 4098,
+    "name": "Frigate Frenzy Expert System"
+  },
+  "63151": {
+    "groupID": 1971,
+    "name": "Proving Frigate Frenzy Bonus (Do not translate)"
+  },
+  "63152": {
+    "groupID": 1929,
+    "name": "Mystery Nexus"
+  },
+  "63153": {
+    "groupID": 1929,
+    "name": "Mystery Nexus"
+  },
+  "63154": {
+    "groupID": 1880,
+    "name": "♦ Forgemaster Caiman"
+  },
+  "63156": {
+    "groupID": 4053,
+    "name": "Mysterious Golden Capsule"
+  },
+  "63157": {
+    "groupID": 4053,
+    "name": "Hijacked Red Capsule"
+  },
+  "63158": {
+    "groupID": 4053,
+    "name": "Hijacked Pink Capsule"
+  },
+  "63159": {
+    "groupID": 4053,
+    "name": "Hijacked White Capsule"
+  },
+  "63160": {
+    "groupID": 4053,
+    "name": "Hijacked Teal Capsule"
+  },
+  "63161": {
+    "groupID": 4053,
+    "name": "Hijacked Orange Capsule"
+  },
+  "63162": {
+    "groupID": 4053,
+    "name": "Hijacked Green Capsule"
+  },
+  "63163": {
+    "groupID": 4053,
+    "name": "Hijacked Golden Capsule"
+  },
+  "63164": {
+    "groupID": 516,
+    "name": "Industrial Jump Portal Generator I Blueprint"
+  },
+  "63165": {
+    "groupID": 500,
+    "name": "CapsuleerDay22Firework (Do not translate)"
+  },
+  "63166": {
+    "groupID": 306,
+    "name": "Hunt Communications Tower"
+  },
+  "63167": {
+    "groupID": 306,
+    "name": "Hunt Mainframe"
+  },
+  "63168": {
+    "groupID": 306,
+    "name": "Huntmaster Communications Tower "
+  },
+  "63169": {
+    "groupID": 306,
+    "name": "Huntmaster Mainframe"
+  },
+  "63188": {
+    "groupID": 1301,
+    "name": "Multiple Pilot Training"
+  },
+  "63190": {
+    "groupID": 1971,
+    "name": "Proving April 1st Chaos Bonus A (Do not translate)"
+  },
+  "63191": {
+    "groupID": 1971,
+    "name": "Proving April 1st Chaos Bonus B (Do not translate)"
+  },
+  "63192": {
+    "groupID": 1971,
+    "name": "Proving April 1st Chaos Bonus C (Do not translate)"
+  },
+  "63193": {
+    "groupID": 1971,
+    "name": "Proving April 1st Chaos Bonus D (Do not translate)"
+  },
+  "63195": {
+    "groupID": 4186,
+    "name": "Standup Flak Round I"
+  },
+  "63196": {
+    "groupID": 4188,
+    "name": "Standup Flak Round Blueprint"
+  },
+  "63246": {
+    "groupID": 1088,
+    "name": "Men's Capsuleer Day XIX Hoodie"
+  },
+  "63253": {
+    "groupID": 1088,
+    "name": "Men's Capsuleer Elite XIX Hoodie"
+  },
+  "63257": {
+    "groupID": 1088,
+    "name": "Women's Capsuleer Day XIX Hoodie"
+  },
+  "63260": {
+    "groupID": 1088,
+    "name": "Women's Capsuleer Elite XIX Hoodie"
+  },
+  "63273": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Boosters Tier 1"
+  },
+  "63274": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Boosters Tier 2"
+  },
+  "63275": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Boosters Tier 3"
+  },
+  "63276": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Boosters Tier 4"
+  },
+  "63277": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skins Tier 1"
+  },
+  "63278": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skins Tier 2"
+  },
+  "63279": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skins Tier 3"
+  },
+  "63280": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skins Tier 4"
+  },
+  "63281": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skillpoints Tier 1"
+  },
+  "63282": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skillpoints Tier 2"
+  },
+  "63283": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skillpoints Tier 3"
+  },
+  "63284": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Skillpoints Tier 4"
+  },
+  "63285": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Filaments Tier 1"
+  },
+  "63286": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Filaments Tier 2"
+  },
+  "63287": {
+    "groupID": 314,
+    "name": "Omega EGDLI3 Filaments Tier 3"
+  },
+  "63288": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Boosters Tier 1"
+  },
+  "63289": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Boosters Tier 2"
+  },
+  "63290": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Boosters Tier 3"
+  },
+  "63291": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Boosters Tier 4"
+  },
+  "63292": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skins Tier 1"
+  },
+  "63293": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skins Tier 2"
+  },
+  "63294": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skins Tier 3"
+  },
+  "63295": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skins Tier 4"
+  },
+  "63296": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skillpoints Tier 1"
+  },
+  "63297": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skillpoints Tier 2"
+  },
+  "63298": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skillpoints Tier 3"
+  },
+  "63299": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Skillpoints Tier 4"
+  },
+  "63300": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Filaments Tier 1"
+  },
+  "63301": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Filaments Tier 2"
+  },
+  "63302": {
+    "groupID": 314,
+    "name": "Alpha EGDLI3 Filaments Tier 3"
+  },
+  "63303": {
+    "groupID": 526,
+    "name": "4,000 Skill Points"
+  },
+  "63304": {
+    "groupID": 526,
+    "name": "4,500 Skill Points"
+  },
+  "63305": {
+    "groupID": 526,
+    "name": "5,500 Skill Points"
+  },
+  "63306": {
+    "groupID": 526,
+    "name": "6,000 Skill Points"
+  },
+  "63307": {
+    "groupID": 526,
+    "name": "6,500 Skill Points"
+  },
+  "63308": {
+    "groupID": 526,
+    "name": "7,000 Skill Points"
+  },
+  "63309": {
+    "groupID": 526,
+    "name": "8,000 Skill Points"
+  },
+  "63310": {
+    "groupID": 526,
+    "name": "9,000 Skill Points"
+  },
+  "63311": {
+    "groupID": 526,
+    "name": "11,000 Skill Points"
+  },
+  "63312": {
+    "groupID": 526,
+    "name": "12,000 Skill Points"
+  },
+  "63313": {
+    "groupID": 526,
+    "name": "13,000 Skill Points"
+  },
+  "63314": {
+    "groupID": 526,
+    "name": "14,000 Skill Points"
+  },
+  "63315": {
+    "groupID": 526,
+    "name": "15,000 Skill Points"
+  },
+  "63316": {
+    "groupID": 526,
+    "name": "16,000 Skill Points"
+  },
+  "63317": {
+    "groupID": 526,
+    "name": "17,000 Skill Points"
+  },
+  "63318": {
+    "groupID": 526,
+    "name": "18,000 Skill Points"
+  },
+  "63319": {
+    "groupID": 526,
+    "name": "21,000 Skill Points"
+  },
+  "63320": {
+    "groupID": 526,
+    "name": "22,000 Skill Points"
+  },
+  "63321": {
+    "groupID": 526,
+    "name": "23,000 Skill Points"
+  },
+  "63322": {
+    "groupID": 526,
+    "name": "24,000 Skill Points"
+  },
+  "63323": {
+    "groupID": 526,
+    "name": "27,000 Skill Points"
+  },
+  "63324": {
+    "groupID": 526,
+    "name": "28,000 Skill Points"
+  },
+  "63325": {
+    "groupID": 526,
+    "name": "29,000 Skill Points"
+  },
+  "63326": {
+    "groupID": 526,
+    "name": "31,000 Skill Points"
+  },
+  "63327": {
+    "groupID": 526,
+    "name": "32,000 Skill Points"
+  },
+  "63328": {
+    "groupID": 526,
+    "name": "33,000 Skill Points"
+  },
+  "63329": {
+    "groupID": 526,
+    "name": "34,000 Skill Points"
+  },
+  "63330": {
+    "groupID": 526,
+    "name": "35,000 Skill Points"
+  },
+  "63331": {
+    "groupID": 526,
+    "name": "42,000 Skill Points"
+  },
+  "63332": {
+    "groupID": 526,
+    "name": "43,000 Skill Points"
+  },
+  "63333": {
+    "groupID": 526,
+    "name": "44,000 Skill Points"
+  },
+  "63334": {
+    "groupID": 526,
+    "name": "45,000 Skill Points"
+  },
+  "63335": {
+    "groupID": 526,
+    "name": "46,000 Skill Points"
+  },
+  "63336": {
+    "groupID": 526,
+    "name": "47,000 Skill Points"
+  },
+  "63337": {
+    "groupID": 526,
+    "name": "48,000 Skill Points"
+  },
+  "63338": {
+    "groupID": 526,
+    "name": "49,000 Skill Points"
+  },
+  "63339": {
+    "groupID": 526,
+    "name": "51,000 Skill Points"
+  },
+  "63340": {
+    "groupID": 526,
+    "name": "52,000 Skill Points"
+  },
+  "63596": {
+    "groupID": 303,
+    "name": "Halcyon R-1 Booster"
+  },
+  "63597": {
+    "groupID": 303,
+    "name": "Halcyon R-2 Booster"
+  },
+  "63598": {
+    "groupID": 303,
+    "name": "Halcyon R-3 Booster"
+  },
+  "63599": {
+    "groupID": 303,
+    "name": "Halcyon R-4 Booster"
+  },
+  "63600": {
+    "groupID": 303,
+    "name": "Halcyon R-5 Booster"
+  },
+  "63601": {
+    "groupID": 303,
+    "name": "Halcyon B-1 Booster"
+  },
+  "63602": {
+    "groupID": 303,
+    "name": "Halcyon B-2 Booster"
+  },
+  "63603": {
+    "groupID": 303,
+    "name": "Halcyon B-3 Booster"
+  },
+  "63604": {
+    "groupID": 303,
+    "name": "Halcyon B-4 Booster"
+  },
+  "63605": {
+    "groupID": 303,
+    "name": "Halcyon B-5 Booster"
+  },
+  "63606": {
+    "groupID": 303,
+    "name": "Halcyon G-1 Booster"
+  },
+  "63607": {
+    "groupID": 303,
+    "name": "Halcyon G-2 Booster"
+  },
+  "63608": {
+    "groupID": 303,
+    "name": "Halcyon G-3 Booster"
+  },
+  "63609": {
+    "groupID": 303,
+    "name": "Halcyon G-4 Booster"
+  },
+  "63610": {
+    "groupID": 303,
+    "name": "Halcyon G-5 Booster"
+  },
+  "63611": {
+    "groupID": 303,
+    "name": "Halcyon Y-1 Booster"
+  },
+  "63612": {
+    "groupID": 303,
+    "name": "Halcyon Y-2 Booster"
+  },
+  "63613": {
+    "groupID": 303,
+    "name": "Halcyon Y-3 Booster"
+  },
+  "63614": {
+    "groupID": 303,
+    "name": "Halcyon Y-4 Booster"
+  },
+  "63615": {
+    "groupID": 303,
+    "name": "Halcyon Y-5 Booster"
+  },
+  "63623": {
+    "groupID": 526,
+    "name": "19,000 Skill Points"
+  },
+  "63624": {
+    "groupID": 526,
+    "name": "20,000 Skill Points"
+  },
+  "63625": {
+    "groupID": 227,
+    "name": "Hunt YC112 Boss Spawner"
+  },
+  "63626": {
+    "groupID": 227,
+    "name": "Huntmaster YC112 Mini Boss Spawner"
+  },
+  "63627": {
+    "groupID": 1664,
+    "name": "Hunt Jackdaw"
+  },
+  "63628": {
+    "groupID": 1664,
+    "name": "Hunt Jackdaw"
+  },
+  "63629": {
+    "groupID": 1664,
+    "name": "Huntmaster Jackdaw"
+  },
+  "63630": {
+    "groupID": 1664,
+    "name": "Huntmaster Jackdaw"
+  },
+  "63631": {
+    "groupID": 383,
+    "name": "Hunt Stasis Webifier Tower"
+  },
+  "63632": {
+    "groupID": 474,
+    "name": "Hunt YC124 Acceleration Gate Key"
+  },
+  "63633": {
+    "groupID": 303,
+    "name": "Basic 'Guri Kikhivaa' Cerebral Accelerator"
+  },
+  "63634": {
+    "groupID": 303,
+    "name": "Potent 'Guri Kikhivaa' Cerebral Accelerator"
+  },
+  "63635": {
+    "groupID": 303,
+    "name": "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+  },
+  "63636": {
+    "groupID": 314,
+    "name": "Testing EGDLI3 Skins Limited Selection"
+  },
+  "63645": {
+    "groupID": 303,
+    "name": "Hunt Probing Booster I"
+  },
+  "63646": {
+    "groupID": 303,
+    "name": "Hunt Probing Booster II"
+  },
+  "63647": {
+    "groupID": 303,
+    "name": "Hunt Probing Booster III"
+  },
+  "63648": {
+    "groupID": 303,
+    "name": "Hunt Probing Booster IV"
+  },
+  "63649": {
+    "groupID": 303,
+    "name": "Hunt Pursuit Booster I"
+  },
+  "63650": {
+    "groupID": 303,
+    "name": "Hunt Pursuit Booster II"
+  },
+  "63651": {
+    "groupID": 303,
+    "name": "Hunt Pursuit Booster III"
+  },
+  "63652": {
+    "groupID": 303,
+    "name": "Hunt Pursuit Booster IV"
+  },
+  "63653": {
+    "groupID": 303,
+    "name": "Hunt Rapid Repair Booster I"
+  },
+  "63654": {
+    "groupID": 303,
+    "name": "Hunt Rapid Repair Booster II"
+  },
+  "63655": {
+    "groupID": 303,
+    "name": "Hunt Rapid Repair Booster III"
+  },
+  "63656": {
+    "groupID": 303,
+    "name": "Hunt Rapid Repair Booster IV"
+  },
+  "63657": {
+    "groupID": 303,
+    "name": "Hunt Resistance Booster I"
+  },
+  "63658": {
+    "groupID": 303,
+    "name": "Hunt Resistance Booster II"
+  },
+  "63659": {
+    "groupID": 303,
+    "name": "Hunt Resistance Booster III"
+  },
+  "63660": {
+    "groupID": 303,
+    "name": "Hunt Resistance Booster IV"
+  },
+  "63661": {
+    "groupID": 303,
+    "name": "Hunt Drone Precision Booster I"
+  },
+  "63662": {
+    "groupID": 303,
+    "name": "Hunt Drone Precision Booster II"
+  },
+  "63663": {
+    "groupID": 303,
+    "name": "Hunt Drone Precision Booster III"
+  },
+  "63664": {
+    "groupID": 303,
+    "name": "Hunt Drone Precision Booster IV"
+  },
+  "63665": {
+    "groupID": 303,
+    "name": "Hunt Missile Velocity Booster I"
+  },
+  "63666": {
+    "groupID": 303,
+    "name": "Hunt Missile Velocity Booster II"
+  },
+  "63667": {
+    "groupID": 303,
+    "name": "Hunt Missile Velocity Booster III"
+  },
+  "63668": {
+    "groupID": 303,
+    "name": "Hunt Missile Velocity Booster IV"
+  },
+  "63669": {
+    "groupID": 303,
+    "name": "Hunt Drone Damage Booster I"
+  },
+  "63670": {
+    "groupID": 303,
+    "name": "Hunt Drone Damage Booster II"
+  },
+  "63671": {
+    "groupID": 303,
+    "name": "Hunt Drone Damage Booster III"
+  },
+  "63672": {
+    "groupID": 303,
+    "name": "Hunt Drone Damage Booster IV"
+  },
+  "63673": {
+    "groupID": 303,
+    "name": "Hunt Missile Damage Booster I"
+  },
+  "63674": {
+    "groupID": 303,
+    "name": "Hunt Missile Damage Booster II"
+  },
+  "63675": {
+    "groupID": 303,
+    "name": "Hunt Missile Damage Booster III"
+  },
+  "63676": {
+    "groupID": 303,
+    "name": "Hunt Missile Damage Booster IV"
+  },
+  "63677": {
+    "groupID": 1194,
+    "name": "Hunt Booster Crate"
+  },
+  "63678": {
+    "groupID": 383,
+    "name": "Hunt Energy Neutralizer Tower"
+  },
+  "63679": {
+    "groupID": 383,
+    "name": "Hunt EM Missile Battery"
+  },
+  "63680": {
+    "groupID": 383,
+    "name": "Hunt Thermal Missile Battery"
+  },
+  "63681": {
+    "groupID": 383,
+    "name": "Hunt Kinetic Missile Battery"
+  },
+  "63682": {
+    "groupID": 383,
+    "name": "Hunt Explosive Missile Battery"
+  },
+  "63698": {
+    "groupID": 526,
+    "name": "Guristas Infiltrator Clone Corpse"
+  },
+  "63699": {
+    "groupID": 314,
+    "name": "Classified Caldari Databank"
+  },
+  "63704": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-001"
+  },
+  "63705": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-004"
+  },
+  "63706": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-005"
+  },
+  "63707": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-006"
+  },
+  "63708": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-007"
+  },
+  "63709": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-008"
+  },
+  "63710": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-009"
+  },
+  "63711": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-010"
+  },
+  "63712": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-002"
+  },
+  "63713": {
+    "groupID": 314,
+    "name": "Capsule Subsystem Holostorage EH-CN-J44-003"
+  },
+  "63714": {
+    "groupID": 4050,
+    "name": "Event 57 Proving Filament"
+  },
+  "63715": {
+    "groupID": 4050,
+    "name": "Event 58 Proving Filament"
+  },
+  "63716": {
+    "groupID": 4050,
+    "name": "Event 59 Proving Filament"
+  },
+  "63717": {
+    "groupID": 4050,
+    "name": "Event 60 Proving Filament"
+  },
+  "63718": {
+    "groupID": 4050,
+    "name": "Event 61 Proving Filament"
+  },
+  "63719": {
+    "groupID": 4050,
+    "name": "Event 62 Proving Filament"
+  },
+  "63720": {
+    "groupID": 4050,
+    "name": "Event 63 Proving Filament"
+  },
+  "63721": {
+    "groupID": 4050,
+    "name": "Event 64 Proving Filament"
+  },
+  "63722": {
+    "groupID": 4050,
+    "name": "Event 65 Proving Filament"
+  },
+  "63723": {
+    "groupID": 4050,
+    "name": "Event 66 Proving Filament"
+  },
+  "63724": {
+    "groupID": 4050,
+    "name": "Event 67 Proving Filament"
+  },
+  "63725": {
+    "groupID": 4050,
+    "name": "Event 68 Proving Filament"
+  },
+  "63726": {
+    "groupID": 4050,
+    "name": "Event 69 Proving Filament"
+  },
+  "63727": {
+    "groupID": 4050,
+    "name": "Event 70 Proving Filament"
+  },
+  "63728": {
+    "groupID": 4050,
+    "name": "Event 71 Proving Filament"
   }
 }

@@ -14021,5 +14021,75 @@
     "name": "battleshipBulkheadHPModifierBonus",
     "published": false,
     "stackable": true
+  },
+  "3317": {
+    "attributeID": 3317,
+    "dataType": 13,
+    "defaultValue": 0,
+    "description": "Pointer to type-list that describes which beacons a ship's jump drive can connect to",
+    "highIsGood": false,
+    "name": "jumpDriveTargetBeaconTypelistID",
+    "published": false,
+    "stackable": false
+  },
+  "3320": {
+    "attributeID": 3320,
+    "dataType": 0,
+    "defaultValue": 0,
+    "description": "Set this attribute on a ship to declare that the ship is an eligible passenger to travel through a BlackOps Jump Portal",
+    "highIsGood": true,
+    "name": "isBlackOpsJumpPortalPassenger",
+    "published": false,
+    "stackable": false
+  },
+  "3322": {
+    "attributeID": 3322,
+    "dataType": 0,
+    "defaultValue": 0,
+    "description": "Set this attribute on a ship to declare that the ship is an eligible passenger to be carried through a BlackOps Jump Conduit",
+    "highIsGood": true,
+    "name": "isBlackOpsJumpConduitPassenger",
+    "published": false,
+    "stackable": false
+  },
+  "3324": {
+    "attributeID": 3324,
+    "dataType": 0,
+    "defaultValue": 0,
+    "description": "Set this attribute on a ship to declare that the ship is an eligible passenger to be carried through an Industrial Jump Conduit.",
+    "highIsGood": true,
+    "name": "isIndustrialJumpConduitPassenger",
+    "published": false,
+    "stackable": false
+  },
+  "3325": {
+    "attributeID": 3325,
+    "dataType": 0,
+    "defaultValue": 0,
+    "description": "Set this attribute on a ship to declare that the ship is an eligible passenger to travel through an Industrial Jump Portal",
+    "highIsGood": true,
+    "name": "isIndustrialJumpPortalPassenger",
+    "published": false,
+    "stackable": false
+  },
+  "3326": {
+    "attributeID": 3326,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "capitalIndustrialCommandBonusDroneDamage",
+    "published": false,
+    "stackable": true
+  },
+  "3328": {
+    "attributeID": 3328,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "subsystemBonusMassAddition",
+    "published": false,
+    "stackable": true
   }
 }

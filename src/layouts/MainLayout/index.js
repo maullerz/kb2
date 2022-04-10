@@ -2,12 +2,10 @@ import React from 'react'
 import cx from 'classnames'
 import { Link } from 'react-router-dom'
 import { useMediaQuery } from '@react-hook/media-query'
-import { AppBar, Toolbar, Typography, Container, Fab, Zoom, useScrollTrigger } from '@mui/material'
+import { AppBar, Toolbar, Typography, Container, Box, Fab, Zoom, useScrollTrigger } from '@mui/material'
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp'
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline'
 import { useTheme } from '@mui/material/styles'
-
-import makeStyles from '@mui/styles/makeStyles'
 
 import Footer from 'modules/common/components/Footer'
 import SearchInput from 'components/SearchInput'
@@ -15,39 +13,41 @@ import SearchInput from 'components/SearchInput'
 import AppMenu from './AppMenu'
 import { Main, Content, LinkButton } from './styles'
 
-const useStyles = makeStyles(theme => ({
-  root: {
-    position: 'fixed',
-    bottom: theme.spacing(2),
-    right: theme.spacing(2),
-  },
-}))
+const scrollBtnStyle = { position: 'fixed', bottom: 16, right: 16 }
 
 function ScrollTop(props) {
-  const { children } = props
-  const classes = useStyles()
+  const { children, window } = props
   // Note that you normally won't need to set the window ref as useScrollTrigger
   // will default to window.
   // This is only being set here because the demo is in an iframe.
   const trigger = useScrollTrigger({
-    // target: window ? window() : undefined,
+    target: window ? window() : undefined,
     disableHysteresis: true,
     threshold: 100,
   })
 
   const handleClick = event => {
-    const anchor = (event.target.ownerDocument || document).querySelector('#back-to-top-anchor')
+    const anchor = (event.target.ownerDocument || document).querySelector(
+      '#back-to-top-anchor',
+    )
 
     if (anchor) {
-      anchor.scrollIntoView({ behavior: 'smooth', block: 'center' })
+      anchor.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+      })
     }
   }
 
   return (
     <Zoom in={trigger}>
-      <div onClick={handleClick} role='presentation' className={classes.root}>
+      <Box
+        onClick={handleClick}
+        role='presentation'
+        sx={scrollBtnStyle}
+      >
         {children}
-      </div>
+      </Box>
     </Zoom>
   )
 }

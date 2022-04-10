@@ -247,7 +247,7 @@
     "anchored": false,
     "categoryID": 6,
     "fittableNonSingleton": false,
-    "name": "Industrial",
+    "name": "Hauler",
     "published": true,
     "useBasePrice": false
   },
@@ -799,7 +799,7 @@
     "anchored": false,
     "categoryID": 9,
     "fittableNonSingleton": false,
-    "name": "Industrial Blueprint",
+    "name": "Hauler Blueprint",
     "published": true,
     "useBasePrice": true
   },
@@ -3633,7 +3633,7 @@
     "categoryID": 9,
     "fittableNonSingleton": false,
     "iconID": 0,
-    "name": "Elite Industrial Blueprint",
+    "name": "Elite Hauler Blueprint",
     "published": true,
     "useBasePrice": false
   },
@@ -7400,7 +7400,7 @@
     "anchored": false,
     "categoryID": 11,
     "fittableNonSingleton": false,
-    "name": "Mission Faction Industrials",
+    "name": "Mission Faction Haulers",
     "published": false,
     "useBasePrice": false
   },
@@ -13667,7 +13667,36 @@
     "fittableNonSingleton": false,
     "name": "Compressors Blueprints",
     "published": true,
+    "useBasePrice": true
+  },
+  "4184": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 7,
+    "fittableNonSingleton": false,
+    "iconID": 0,
+    "name": "Industrial Jump Portal Generator",
+    "published": true,
     "useBasePrice": false
+  },
+  "4186": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 8,
+    "fittableNonSingleton": true,
+    "iconID": 1304,
+    "name": "Structure Area Denial Ammunition",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4188": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Structure Area Denial Ammo Blueprint",
+    "published": true,
+    "useBasePrice": true
   },
   "350858": {
     "anchorable": false,
