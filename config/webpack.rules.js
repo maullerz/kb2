@@ -3,7 +3,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const eslintFormatter = require('react-dev-utils/eslintFormatter')
+// const eslintFormatter = require('react-dev-utils/eslintFormatter')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 const rootDirectory = fs.realpathSync(process.cwd())
@@ -88,24 +88,24 @@ const getModuleRules = mode => {
     ],
   }
 
-  if (isDev) {
-    result.rules.unshift({
-      test: /\.(js|jsx)$/,
-      enforce: 'pre',
-      include: clientDir,
-      use: [
-        {
-          loader: 'eslint-loader',
-          options: {
-            fix: true,
-            formatter: eslintFormatter,
-            eslintPath: 'eslint',
-            configFile: path.resolve(rootDirectory, 'config/.eslintrc.js'),
-          },
-        },
-      ],
-    })
-  }
+  // if (isDev) {
+  //   result.rules.unshift({
+  //     test: /\.(js|jsx)$/,
+  //     enforce: 'pre',
+  //     include: clientDir,
+  //     use: [
+  //       {
+  //         loader: 'eslint-loader',
+  //         options: {
+  //           fix: true,
+  //           formatter: eslintFormatter,
+  //           eslintPath: 'eslint',
+  //           configFile: path.resolve(rootDirectory, 'config/.eslintrc.js'),
+  //         },
+  //       },
+  //     ],
+  //   })
+  // }
 
   return result
 }

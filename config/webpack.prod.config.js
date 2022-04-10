@@ -79,18 +79,23 @@ module.exports = {
     //   chunks: 'all',
     //   // chunks: 'async',
     //   cacheGroups: {
-    //     defaultVendors: {
-    //       // test: /[\\/]node_modules[\\/]/,
-    //       // reuseExistingChunk: true,
-    //       priority: -10,
-    //       test: /[\\/]node_modules[\\/]/,
-    //       // name: 'vendors',
+    //     // defaultVendors: {
+    //     //   // test: /[\\/]node_modules[\\/]/,
+    //     //   // reuseExistingChunk: true,
+    //     //   priority: -10,
+    //     //   test: /[\\/]node_modules[\\/]/,
+    //     //   name: 'vendors',
+    //     // },
+    //     vendor: {
+    //       test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+    //       name: 'vendor',
+    //       chunks: 'all',
     //     },
-    //     default: {
-    //       minChunks: 2,
-    //       priority: -20,
-    //       reuseExistingChunk: true,
-    //     },
+    //     // default: {
+    //     //   minChunks: 2,
+    //     //   priority: -20,
+    //     //   reuseExistingChunk: true,
+    //     // },
     //   },
     // },
 
@@ -98,26 +103,30 @@ module.exports = {
     // currently doesnt work on Webpack 5
     // splitChunks: { chunks: 'all' },
 
-    // runtimeChunk: 'single',
-    // splitChunks: {
-    //   cacheGroups: {
-    //     uilib: {
-    //       test: /[\\/]node_modules[\\/](@material-ui|date-fns|@date-io)[\\/]/,
-    //       name: 'mui',
-    //       chunks: 'all',
-    //     },
-    //     vendor: {
-    //       test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-    //       name: 'react',
-    //       chunks: 'all',
-    //     },
-    //     commons: {
-    //       test: /[\\/]node_modules[\\/]/,
-    //       name: 'vendors',
-    //       chunks: 'all',
-    //     },
-    //   },
-    // },
+    runtimeChunk: 'single',
+    splitChunks: {
+      cacheGroups: {
+        data: {
+          test: /\.json$/,
+          filename: '[name].js',
+        },
+        uilib: {
+          test: /[\\/]node_modules[\\/](@mui|date-fns|@date-io)[\\/]/,
+          name: 'mui',
+          chunks: 'all',
+        },
+        vendor: {
+          test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+          name: 'react',
+          chunks: 'all',
+        },
+        commons: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all',
+        },
+      },
+    },
     // minimizer: [
     //   new TerserPlugin({
     //     extractComments: false,

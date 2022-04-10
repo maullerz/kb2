@@ -5,6 +5,8 @@ const path = require('path')
 const webpack = require('webpack')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin')
+const ESLintPlugin = require('eslint-webpack-plugin')
+const eslintFormatter = require('react-dev-utils/eslintFormatter')
 
 const rootDirectory = fs.realpathSync(process.cwd())
 const outputDir = path.resolve(rootDirectory, 'dist')
@@ -92,6 +94,12 @@ module.exports = {
         APP_ENV: JSON.stringify(process.env.APP_ENV || 'development'),
         NODE_ENV: JSON.stringify(process.env.NODE_ENV || 'development'),
       },
+    }),
+    new ESLintPlugin({
+      fix: true,
+      formatter: eslintFormatter,
+      eslintPath: 'eslint',
+      overrideConfigFile: path.resolve(rootDirectory, 'config/.eslintrc.js'),
     }),
   ],
 
