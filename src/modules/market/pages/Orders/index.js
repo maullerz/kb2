@@ -27,7 +27,7 @@ const params = {
 
 const CCP_REDIRECT_URL = `${url}?${qs.stringify(params, { encode: false })}`
 
-function Orders() {
+const Orders = () => {
   const formRef = React.useRef(null)
   const [accessToken, setAccessToken] = React.useState(null)
 

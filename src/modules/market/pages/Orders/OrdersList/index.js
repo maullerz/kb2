@@ -10,7 +10,9 @@ import { Spinner } from 'components'
 import { Root } from './styles'
 
 function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms))
+  return new Promise(resolve => {
+    setTimeout(resolve, ms)
+  })
 }
 /*
 

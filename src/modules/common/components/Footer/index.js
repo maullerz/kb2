@@ -7,7 +7,7 @@ import { Root, LegalContainer, Links, PartnerLogo } from './styles'
 const isDev = process.env.NODE_ENV === 'development'
 // const isDev = false
 
-function Footer() {
+const Footer = () => {
   return (
     <Root>
       <PartnerLogo>

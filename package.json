@@ -12,10 +12,11 @@
     "lint:fix": "eslint -c config/.eslintrc.js --fix --ext js src"
   },
   "engines": {
-    "node": "12.x",
-    "npm": "7.x"
+    "node": "14.x",
+    "npm": "8.x"
   },
   "dependencies": {
+    "@babel/eslint-parser": "7.17.0",
     "@mui/icons-material": "5.6.0",
     "@mui/lab": "5.0.0-alpha.57",
     "@mui/material": "5.6.0",
@@ -56,7 +57,6 @@
     "@babel/preset-react": "7.16.7",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.5",
     "autoprefixer": "10.4.4",
-    "babel-eslint": "10.1.0",
     "babel-loader": "8.2.4",
     "babel-plugin-date-fns": "2.0.0",
     "babel-plugin-import": "1.13.3",
@@ -68,8 +68,8 @@
     "copy-webpack-plugin": "10.2.4",
     "css-loader": "6.7.1",
     "cssnano": "5.1.7",
-    "eslint": "7.27.0",
-    "eslint-config-airbnb": "18.2.1",
+    "eslint": "8.13.0",
+    "eslint-config-airbnb": "19.0.4",
     "eslint-import-resolver-webpack": "0.13.2",
     "eslint-loader": "4.0.2",
     "eslint-plugin-import": "2.26.0",

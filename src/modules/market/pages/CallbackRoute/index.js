@@ -7,7 +7,7 @@ import * as SsoService from 'modules/market/api/SsoService'
 
 import { Root } from './styles'
 
-function CallbackRoute() {
+const CallbackRoute = () => {
   // const formRef = React.useRef(null)
   const history = useHistory()
   const { search } = useLocation()

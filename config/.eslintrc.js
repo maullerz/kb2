@@ -2,7 +2,7 @@ const path = require('path') // eslint-disable-line import/no-extraneous-depende
 
 const config = {
   extends: 'airbnb',
-  parser: 'babel-eslint',
+  parser: '@babel/eslint-parser',
   parserOptions: {
     sourceType: 'module',
     allowImportExportEverywhere: true,
@@ -112,6 +112,8 @@ const config = {
     'no-undef': 'warn',
 
     'react/jsx-no-bind': 'off',
+
+    'react/function-component-definition': [2, { "namedComponents": "arrow-function" }],
   },
 }
 

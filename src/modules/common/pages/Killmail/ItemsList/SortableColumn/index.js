@@ -7,7 +7,7 @@ import ArrowDown from './ArrowDown'
 import ArrowDouble from './ArrowDouble'
 import { Column, Title } from './styles'
 
-function SortableColumn({ as, field, title, sortBy, onClick }) {
+const SortableColumn = ({ as, field, title, sortBy, onClick }) => {
   const RootComponent = as || Column
   const isTypeField = field === 'type'
 

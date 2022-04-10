@@ -1,3 +1,4 @@
+/* eslint import/no-import-module-exports: off */
 import thunk from 'redux-thunk'
 import { createStore, applyMiddleware, compose } from 'redux'
 import { routerMiddleware } from 'connected-react-router'

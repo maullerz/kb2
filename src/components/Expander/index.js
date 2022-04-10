@@ -13,7 +13,7 @@ const saveStoredValue = (storageKey, value) => {
   localStorage.setItem(storageKey, Boolean(value))
 }
 
-function Expander({ title, storageKey, onChange, backgroundColor, marginBottom, lineColor }) {
+const Expander = ({ title, storageKey, onChange, backgroundColor, marginBottom, lineColor }) => {
   const [collapsed, setCollapsed] = useState(storageKey ? getStoredValue(storageKey) : false)
 
   function handleToggleCollapsed() {

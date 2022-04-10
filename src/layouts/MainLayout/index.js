@@ -15,7 +15,7 @@ import { Main, Content, LinkButton } from './styles'
 
 const scrollBtnStyle = { position: 'fixed', bottom: 16, right: 16 }
 
-function ScrollTop(props) {
+const ScrollTop = props => {
   const { children, window } = props
   // Note that you normally won't need to set the window ref as useScrollTrigger
   // will default to window.

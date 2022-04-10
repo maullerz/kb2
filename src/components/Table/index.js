@@ -179,35 +179,33 @@ const Table = props => {
   }
 
   return (
-    <>
-      <TableRoot>
-        {!isDesktop &&
-          <TopPaginationWrapper isDesktop={isDesktop}>
-            {renderPagination()}
-          </TopPaginationWrapper>
+    <TableRoot>
+      {!isDesktop &&
+      <TopPaginationWrapper isDesktop={isDesktop}>
+        {renderPagination()}
+      </TopPaginationWrapper>
         }
-        <Head isDesktop={isDesktop}>
-          {isDesktop &&
-            <TopPaginationWrapper isDesktop={isDesktop}>
-              {renderPagination()}
-            </TopPaginationWrapper>
+      <Head isDesktop={isDesktop}>
+        {isDesktop &&
+        <TopPaginationWrapper isDesktop={isDesktop}>
+          {renderPagination()}
+        </TopPaginationWrapper>
           }
-          {columns.map(column => (
-            <TableHeadCell
-              key={column.key}
-              column={column}
-              sortBy={sortBy}
-              onSortBy={onSortBy}
-              noSort={column.noSort}
+        {columns.map(column => (
+          <TableHeadCell
+            key={column.key}
+            column={column}
+            sortBy={sortBy}
+            onSortBy={onSortBy}
+            noSort={column.noSort}
             />
-          ))}
-        </Head>
-        {isLoading && items.length === 0
-          ? <Spinner />
-          : renderBody()
+        ))}
+      </Head>
+      {isLoading && items.length === 0
+        ? <Spinner />
+        : renderBody()
       }
-      </TableRoot>
-    </>
+    </TableRoot>
   )
 }
 

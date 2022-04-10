@@ -22,7 +22,7 @@ import { Root, InvolvedCountText } from './styles'
 //   return false
 // }
 
-function InvolvedCountBadge({ km }) {
+const InvolvedCountBadge = ({ km }) => {
   const { atts, zkb } = km
   const isNPC = zkb.npc || !atts.blow || !atts.blow.ship
   const isSolo = zkb.solo

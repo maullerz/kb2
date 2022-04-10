@@ -13,15 +13,17 @@ const renderAmmoImg = (type, [x, y]) => (
 
 const emptyStyle = { opacity: 0.5 }
 
-const Slot = ({ svg, type, typeCoord, ammo, ammoCoord }) => (
-  <g style={type ? undefined : emptyStyle}>
-    <g className='module'>
-      {svg}
-      {type && renderImg(type, typeCoord)}
+const Slot = ({ svg, type, typeCoord, ammo, ammoCoord }) => {
+  return (
+    <g style={type ? undefined : emptyStyle}>
+      <g className='module'>
+        {svg}
+        {type && renderImg(type, typeCoord)}
+      </g>
+      {ammo && renderAmmoImg(ammo, ammoCoord)}
     </g>
-    {ammo && renderAmmoImg(ammo, ammoCoord)}
-  </g>
-)
+  )
+}
 
 const TYPE_COORDS = [
   [122.697, 292.082],

@@ -26,7 +26,7 @@ const initialState = {
   ...savedSettings,
 }
 
-export default (state = initialState, action) => {
+export default (state = initialState, action = {}) => {
   const { payload } = action
 
   switch (action.type) {
