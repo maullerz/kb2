@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react'
 import IconButton from '@mui/material/IconButton'
-import { Menu as MenuIcon } from '@mui/icons-material'
+import MenuIcon from '@mui/icons-material/Menu'
 // import { Link } from 'react-router-dom'
 
 import history from 'services/routerHistory'

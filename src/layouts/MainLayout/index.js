@@ -3,7 +3,7 @@ import cx from 'classnames'
 import { Link } from 'react-router-dom'
 import { useMediaQuery } from '@react-hook/media-query'
 import { AppBar, Toolbar, Typography, Container, Fab, Zoom, useScrollTrigger } from '@mui/material'
-import { KeyboardArrowUp as KeyboardArrowUpIcon } from '@mui/icons-material'
+import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp'
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline'
 import { useTheme } from '@mui/material/styles'
 
