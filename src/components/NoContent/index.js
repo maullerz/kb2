@@ -1,12 +1,19 @@
 import React from 'react'
 
+import Spinner from 'components/Spinner'
+
 import { Root, Title, Descr } from './styles'
 
-const NoContent = ({ title, descr, className }) => {
+const NoContent = ({ title, descr, className, isLoading }) => {
   return (
     <Root className={className}>
-      <Title>{title}</Title>
-      <Descr>{descr}</Descr>
+      {isLoading && <Spinner />}
+      {!isLoading &&
+        <>
+          <Title>{title}</Title>
+          <Descr>{descr}</Descr>
+        </>
+      }
     </Root>
   )
 }

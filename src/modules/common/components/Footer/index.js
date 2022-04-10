@@ -12,7 +12,7 @@ const Footer = () => {
     <Root>
       <PartnerLogo>
         <Href link='https://www.eveonline.com/partners'>
-          <img src='/img/eve-partner.png' alt='eve online partner' width='1440' height='201' />
+          <img src='/img/eve-partner.png' alt='eve online partner' width='320' height='44' />
         </Href>
       </PartnerLogo>
       <LegalContainer>

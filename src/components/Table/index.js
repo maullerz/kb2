@@ -7,6 +7,7 @@ import TablePagination from '@mui/material/TablePagination'
 import * as DateUtils from 'utils/DateUtils'
 import * as SdeUtils from 'utils/SdeUtils'
 import Spinner from 'components/Spinner'
+import NoContent from 'components/NoContent'
 
 import TableHeadCell from './TableHeadCell'
 import { TableRoot, TopPaginationWrapper, Head, Body, Row, Cell, DayRow } from './styles'
@@ -181,16 +182,16 @@ const Table = props => {
   return (
     <TableRoot>
       {!isDesktop &&
-      <TopPaginationWrapper isDesktop={isDesktop}>
-        {renderPagination()}
-      </TopPaginationWrapper>
-        }
-      <Head isDesktop={isDesktop}>
-        {isDesktop &&
         <TopPaginationWrapper isDesktop={isDesktop}>
           {renderPagination()}
         </TopPaginationWrapper>
-          }
+      }
+      <Head isDesktop={isDesktop}>
+        {isDesktop &&
+          <TopPaginationWrapper isDesktop={isDesktop}>
+            {renderPagination()}
+          </TopPaginationWrapper>
+        }
         {columns.map(column => (
           <TableHeadCell
             key={column.key}
@@ -202,7 +203,7 @@ const Table = props => {
         ))}
       </Head>
       {isLoading && items.length === 0
-        ? <Spinner />
+        ? <NoContent isLoading />
         : renderBody()
       }
     </TableRoot>
