@@ -50,7 +50,7 @@ module.exports = {
     filename: '[name].[contenthash].js',
     chunkFilename: '[name].[contenthash].js',
     // https://github.com/webpack/webpack/issues/11660
-    chunkLoading: false,
+    // chunkLoading: false,
     wasmLoading: false,
   },
 
@@ -69,30 +69,33 @@ module.exports = {
   optimization: {
     minimize: true,
     emitOnErrors: true,
-    moduleIds: 'deterministic',
-    chunkIds: 'deterministic',
-    sideEffects: false,
+    // moduleIds: 'deterministic',
+    // chunkIds: 'deterministic',
+    // moduleIds: 'hashed',
+    // chunkIds: 'named',
+    // sideEffects: false,
 
-    // runtimeChunk: 'single',
-    // splitChunks: {
-    //   cacheGroups: {
-    //     uilib: {
-    //       test: /[\\/]node_modules[\\/](@mui|date-fns|@date-io)[\\/]/,
-    //       name: 'mui',
-    //       chunks: 'all',
-    //     },
-    //     vendor: {
-    //       test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-    //       name: 'react',
-    //       chunks: 'all',
-    //     },
-    //     commons: {
-    //       test: /[\\/]node_modules[\\/]/,
-    //       name: 'vendors',
-    //       chunks: 'all',
-    //     },
-    //   },
-    // },
+    runtimeChunk: 'single',
+    splitChunks: {
+      cacheGroups: {
+        uilib: {
+          test: /[\\/]node_modules[\\/](@mui|date-fns|@date-io)[\\/]/,
+          name: 'mui',
+          chunks: 'all',
+        },
+        react: {
+          test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+          name: 'react',
+          chunks: 'all',
+        },
+        defaultVendors: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          reuseExistingChunk: true,
+          chunks: 'all',
+        },
+      },
+    },
     // minimizer: [
     //   new TerserPlugin({
     //     extractComments: false,
@@ -158,6 +161,7 @@ module.exports = {
       template: path.resolve(publicDir, 'index-template.html'),
       filename: 'index.html',
       minify: false,
+      // scriptLoading: 'blocking',
     }),
     new MiniCssExtractPlugin({
       filename: '[name].[contenthash].css',

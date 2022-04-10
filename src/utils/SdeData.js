@@ -2,12 +2,11 @@
 /* eslint global-require: off */
 import axios from 'axios'
 
-// // TODO: move that to API ?
-// const typesChunk = () => import('./sde/rawTypesArray.json')
 let types = null // require('./sde/rawTypesShort.json')
-// let groups = null // require('./sde/groupIDs.json')
-// let cats = null // require('./sde/categoryIDs.json')
 let shipAttributes = null // require('./sde/typeDogmaParsedShips.json') // const attributes = req..('./sde/typeAttributesShips.json')
+let groups = null // require('./sde/groupIDs.json')
+let skinsTypes = null // require('./sde/skinsTypesIds.json')
+// let cats = null // require('./sde/categoryIDs.json')
 // let flags = null // require('./sde/flags.json')
 // // let typesArr = null
 
@@ -30,7 +29,6 @@ function castTypesArrayToObj(typesArray) {
 // }
 
 function loadData() {
-  // return Promise.resolve()
   if (types) {
     if (process.env.NODE_ENV === 'development') {
       console.warn('already loaded!')
@@ -44,8 +42,6 @@ function loadData() {
     console.log('============================================')
   }
 
-  // // const m1 = import('./sde/rawTypesShort.json')
-  // //   .then(module => { types = module.default })
   // const m1 = import('./sde/rawTypesArray.json')
   //   .then(module => { types = castTypesArrayToObj(module.default) })
 
@@ -59,26 +55,22 @@ function loadData() {
     shipAttributes = res.data
   })
 
-  // // const m2 = import('./sde/groupIDs.json')
-  // const m2 = import('./sde/groupsShort.json')
-  //   .then(module => { groups = module.default })
+  const m3 = axios.get('/data/groupsShort.json').then(res => {
+    console.log('groupsShort loaded.')
+    groups = res.data
+  })
 
-  // const m3 = import('./sde/categoryIDs.json')
-  //   .then(module => { cats = module.default })
+  const m4 = axios.get('/data/skinsTypesIds.json').then(res => {
+    console.log('skinsTypesIds loaded.')
+    skinsTypes = res.data
+  })
 
-  // const m4 = import('./sde/typeDogmaParsedShips.json')
-  //   .then(module => { shipAttributes = module.default })
-
-  // const m5 = import('./sde/flags.json')
-  //   .then(module => { flags = module.default })
-
-  // return Promise.all([m1, m2, m3, m4, m5])
-  return Promise.all([m1, m2])
+  return Promise.all([m1, m2, m3, m4])
 }
 
 // const types = castTypesArrayToObj(require('./sde/rawTypesArray.json'))
 // const shipAttributes = require('./sde/typeDogmaParsedShips.json')
-const groups = require('./sde/groupsShort.json')
+// const groups = require('./sde/groupsShort.json')
 const cats = require('./sde/categoryIDs.json')
 const flags = require('./sde/flags.json')
 
@@ -89,4 +81,5 @@ export {
   cats,
   shipAttributes,
   flags,
+  skinsTypes,
 }
