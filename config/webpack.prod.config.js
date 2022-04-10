@@ -71,62 +71,28 @@ module.exports = {
     emitOnErrors: true,
     moduleIds: 'deterministic',
     chunkIds: 'deterministic',
-    // runtimeChunk: 'single',
     sideEffects: false,
 
+    // runtimeChunk: 'single',
     // splitChunks: {
-    //   // include all types of chunks
-    //   chunks: 'all',
-    //   // chunks: 'async',
     //   cacheGroups: {
-    //     // defaultVendors: {
-    //     //   // test: /[\\/]node_modules[\\/]/,
-    //     //   // reuseExistingChunk: true,
-    //     //   priority: -10,
-    //     //   test: /[\\/]node_modules[\\/]/,
-    //     //   name: 'vendors',
-    //     // },
-    //     vendor: {
-    //       test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-    //       name: 'vendor',
+    //     uilib: {
+    //       test: /[\\/]node_modules[\\/](@mui|date-fns|@date-io)[\\/]/,
+    //       name: 'mui',
     //       chunks: 'all',
     //     },
-    //     // default: {
-    //     //   minChunks: 2,
-    //     //   priority: -20,
-    //     //   reuseExistingChunk: true,
-    //     // },
+    //     vendor: {
+    //       test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
+    //       name: 'react',
+    //       chunks: 'all',
+    //     },
+    //     commons: {
+    //       test: /[\\/]node_modules[\\/]/,
+    //       name: 'vendors',
+    //       chunks: 'all',
+    //     },
     //   },
     // },
-
-    // TODO: Splitting Chunks
-    // currently doesnt work on Webpack 5
-    // splitChunks: { chunks: 'all' },
-
-    runtimeChunk: 'single',
-    splitChunks: {
-      cacheGroups: {
-        data: {
-          test: /\.json$/,
-          filename: '[name].js',
-        },
-        uilib: {
-          test: /[\\/]node_modules[\\/](@mui|date-fns|@date-io)[\\/]/,
-          name: 'mui',
-          chunks: 'all',
-        },
-        vendor: {
-          test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
-          name: 'react',
-          chunks: 'all',
-        },
-        commons: {
-          test: /[\\/]node_modules[\\/]/,
-          name: 'vendors',
-          chunks: 'all',
-        },
-      },
-    },
     // minimizer: [
     //   new TerserPlugin({
     //     extractComments: false,
