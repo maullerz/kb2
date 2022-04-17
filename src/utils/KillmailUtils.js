@@ -4,13 +4,15 @@ import { getGroupID, getCategoryID, getFitSlotKey, isAmmo, isShip } from 'utils/
 const IMG_QUALITY = 64
 const CHAR_QUALITY = 256
 const RENDER_QUALITY = 256
-const SELFHOST = 'https://images.evetech.net/types'
-// const SELFHOST = 'https://img.evetools.org/sdeimages/types'
+// const SELFHOST = 'https://images.evetech.net/types'
+const SELFHOST = 'https://img.evetools.org/sdeimages/types'
 
-const TYPES_BASE = 'https://images.evetech.net/types'
-const CHARS_BASE = 'https://images.evetech.net/characters'
-const CORPS_BASE = 'https://images.evetech.net/corporations'
-const ALLYS_BASE = 'https://images.evetech.net/alliances'
+// const BASE = 'https://images.evetech.net'
+const BASE = 'https://img.evetools.org/sdeimages'
+const TYPES_BASE = `${BASE}/types`
+const CHARS_BASE = `${BASE}/characters`
+const CORPS_BASE = `${BASE}/corporations`
+const ALLYS_BASE = `${BASE}/alliances`
 // const imgUrl = `https://img.evetools.org/sdeimages/types/${typeID}/icon?size=${quality}`
 
 const NO_TYPE_ICONS = [

@@ -8,8 +8,8 @@ import SummaryLayout from 'layouts/SummaryLayout'
 import { Row, Label } from './styles'
 
 const QUALITY = 256
-const BASE = 'https://images.evetech.net'
-// const BASE = 'https://img.evetools.org/sdeimages'
+// const BASE = 'https://images.evetech.net'
+const BASE = 'https://img.evetools.org/sdeimages'
 
 const noWrap = { whiteSpace: 'nowrap' }
 
