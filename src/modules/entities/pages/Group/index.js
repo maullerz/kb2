@@ -2,11 +2,12 @@ import React, { Fragment, useState, useEffect } from 'react'
 import { useParams, Redirect } from 'react-router-dom'
 import ReactTooltip from 'react-tooltip'
 
-// import KillmailService from 'api/KillmailService'
+import KillmailService from 'api/KillmailService'
 import * as SdeUtils from 'utils/SdeUtils'
 import PageLayout from 'layouts/PageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 import SummaryNavigation from 'modules/entities/components/SummaryNavigation'
+import TopStats from 'modules/entities/components/TopStats'
 import Ads from 'components/Ads'
 
 import GroupSummary from './GroupSummary'
@@ -16,6 +17,7 @@ const Group = () => {
   const { killsType } = useParams()
   const isLosses = killsType === 'losses'
   const isKills = killsType === 'kills'
+  const [info, setInfo] = useState(null)
   const [stats, setStats] = useState(null)
 
   if (!groupID) {
@@ -34,7 +36,9 @@ const Group = () => {
         data.types = [{ id: '47465', name: 'Unstable Abyssal Depths' }]
       }
 
-      setStats(data)
+      setInfo(data)
+      const { data: monthly } = await KillmailService.getStatsMonthly({ groupID })
+      setStats(monthly)
       ReactTooltip.rebuild()
     } catch (e) {
       console.error('getGroupStats:', e.message || e)
@@ -43,6 +47,7 @@ const Group = () => {
 
   useEffect(() => {
     if (groupID) {
+      setInfo(null)
       setStats(null)
       getGroupStats()
     }
@@ -58,12 +63,24 @@ const Group = () => {
         <Ads type='group' />
       </Fragment>
       <Fragment key='head'>
-        <GroupSummary stats={stats} />
+        <GroupSummary stats={info} />
         <SummaryNavigation root={`/group/${groupID}`} />
       </Fragment>
       <Fragment key='content'>
         <KillmailsTable groupID={groupID} isLosses={isLosses} isKills={isKills} />
       </Fragment>
+      {stats &&
+        <Fragment key='stats'>
+          {Object.keys(stats).map(key => (
+            <TopStats
+              forShip
+              key={key}
+              type={key}
+              data={stats[key]}
+            />
+          ))}
+        </Fragment>
+      }
     </PageLayout>
   )
 }
