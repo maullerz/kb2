@@ -42,9 +42,6 @@ function loadData() {
     console.log('============================================')
   }
 
-  // const m1 = import('./sde/rawTypesArray.json')
-  //   .then(module => { types = castTypesArrayToObj(module.default) })
-
   const m1 = axios.get('/data/rawTypesArray.json').then(res => {
     console.log('rawTypesArray loaded.')
     types = castTypesArrayToObj(res.data)
@@ -73,6 +70,7 @@ function loadData() {
 // const groups = require('./sde/groupsShort.json')
 const cats = require('./sde/categoryIDs.json')
 const flags = require('./sde/flags.json')
+const shipGroups = require('./sde/shipGroups.json')
 
 export {
   loadData,
@@ -82,4 +80,5 @@ export {
   shipAttributes,
   flags,
   skinsTypes,
+  shipGroups,
 }

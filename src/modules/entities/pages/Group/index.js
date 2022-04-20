@@ -25,7 +25,8 @@ const Group = () => {
   async function getGroupStats() {
     try {
       // const { data } = await KillmailService.getStats({ groupID })
-      const data = SdeUtils.getGroupInfo(groupID)
+      const data = SdeUtils.getShipGroupInfo(groupID)
+      // console.json('group data:', data)
 
       // Abyssal Hazards
       if (groupID === 1971) {

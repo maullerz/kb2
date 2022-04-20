@@ -5,6 +5,7 @@ import {
   shipAttributes,
   flags,
   skinsTypes,
+  shipGroups,
 } from './SdeData'
 
 // TODO: fetch from esi.evetech.net
@@ -86,6 +87,8 @@ export const getTypeName = typeID => {
 }
 
 export const getGroupTypes = groupID => {
+  // Attention - Unpublished Types exists here
+  // Ship Groups - use getShipGroupInfo
   const typeIds = Object.keys(types).filter(typeID => {
     const type = types[typeID]
     return type.groupID === Number(groupID)
@@ -107,6 +110,31 @@ export const getGroupInfo = groupID => {
     name: groupInfo.name,
     categoryID: groupInfo.cat,
     types: getGroupTypes(groupID),
+  }
+}
+
+export const getShipGroupTypes = groupID => {
+  const shipTypes = shipGroups[groupID]?.types
+  if (!shipTypes) {
+    console.error('getShipGroupTypes: not found groupID:', groupID)
+    return false
+  }
+  return shipTypes.map(([id, name]) => ({
+    id,
+    name,
+  }))
+}
+
+export const getShipGroupInfo = groupID => {
+  const groupInfo = groups[groupID]
+  if (!groupInfo) {
+    console.error('getShipGroupInfo: not found groupID:', groupID)
+    return false
+  }
+  return {
+    id: groupID,
+    name: groupInfo.name,
+    types: getShipGroupTypes(groupID),
   }
 }
 
