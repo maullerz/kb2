@@ -37,6 +37,10 @@ export const Item = styled.div`
   :hover {
     background-color: var(--tableHeaderBackground);
   }
+
+  ${p => p.isLost && `
+    background-color: #480000;
+  `}
 `
 
 export const Row = styled.div`

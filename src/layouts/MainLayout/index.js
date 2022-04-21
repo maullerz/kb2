@@ -63,7 +63,7 @@ const MainLayout = props => {
     <Main className={cx(theme.light && 'light-theme')}>
 
       <AppBar position='static' style={darkStyle}>
-        <Container maxWidth='lg' disableGutters>
+        <Container maxWidth='xl' disableGutters>
 
           <Toolbar variant='dense' id='back-to-top-anchor'>
             <AppMenu />
@@ -86,7 +86,7 @@ const MainLayout = props => {
         </Container>
       </AppBar>
 
-      <Container maxWidth='lg' disableGutters>
+      <Container maxWidth='xl' disableGutters>
 
         <Container maxWidth='xl' disableGutters>
           <Content>
@@ -96,7 +96,7 @@ const MainLayout = props => {
 
       </Container>
 
-      <Container maxWidth='lg' disableGutters>
+      <Container maxWidth='xl' disableGutters>
         <Footer />
       </Container>
 

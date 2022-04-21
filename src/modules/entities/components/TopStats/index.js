@@ -65,6 +65,21 @@ const TopStats = ({ type, data }) => { // , forShip
         </Link>
       )
     }
+    if (type === 'lost') {
+      return (
+        <Link to={`/ship/${id}`} key={id}>
+          <Item isLost>
+            <Row>
+              <ItemIcon id={id} mini />
+              <Name>
+                {SdeUtils.getTypeName(id)}
+              </Name>
+            </Row>
+            <Total>{total}</Total>
+          </Item>
+        </Link>
+      )
+    }
     // <ItemIcon id={id} link mini border={false} />
     // &nbsp;&nbsp;
     if (type === 'systems') {

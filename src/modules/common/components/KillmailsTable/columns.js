@@ -263,7 +263,8 @@ const getColumn = (key, width, minWidth) => {
 export const columns = [
   getColumn('timeAndSum', '56px'),
   getColumn('shipIcon', '50px'),
-  getColumn('system', '130px'),
+  // getColumn('system', '130px'),
+  getColumn('system', '18%', '130px'),
   getColumn('victimAllyIcon', '50px'),
   getColumn('victimCell', '32%'),
   getColumn('attAllyIcon', '50px'),
