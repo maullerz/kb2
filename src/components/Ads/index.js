@@ -64,6 +64,8 @@ const Ads = ({ type }) => {
         className='adsbygoogle'
         data-ad-client='ca-pub-3299420347078208'
         data-ad-slot={slot}
+        data-ad-format='auto'
+        data-full-width-responsive='true'
       />
     </Container>
   )
