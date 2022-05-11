@@ -1232,14 +1232,24 @@
   },
   "188": {
     "attributeID": 188,
-    "categoryID": 9,
+    "categoryID": 36,
     "dataType": 5,
     "defaultValue": 0,
     "description": "Chance of being able to resist a cargo scan.",
+    "displayNameID": {
+      "de": "Widerstand gegen Fracht-Scans",
+      "en": "Cargo Scan Resistance",
+      "fr": "Résistance au scan de la cargaison",
+      "ja": "カーゴスキャンレジスタンス",
+      "ko": "화물 스캔 저항",
+      "ru": "Экранирование грузового отсека"
+    },
     "highIsGood": true,
+    "iconID": 106,
     "name": "cargoScanResistance",
-    "published": false,
-    "stackable": true
+    "published": true,
+    "stackable": true,
+    "unitID": 127
   },
   "192": {
     "attributeID": 192,
@@ -14091,5 +14101,47 @@
     "name": "subsystemBonusMassAddition",
     "published": false,
     "stackable": true
+  },
+  "3354": {
+    "attributeID": 3354,
+    "categoryID": 2,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayNameID": {
+      "en": "DPS threshold to pause shield repair"
+    },
+    "highIsGood": true,
+    "name": "pauseShieldRepairDpsThreshold",
+    "published": true,
+    "stackable": true,
+    "unitID": 113
+  },
+  "3355": {
+    "attributeID": 3355,
+    "categoryID": 3,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayNameID": {
+      "en": "DPS threshold to pause armor repair"
+    },
+    "highIsGood": true,
+    "name": "pauseArmorRepairDpsThreshold",
+    "published": true,
+    "stackable": true,
+    "unitID": 113
+  },
+  "3356": {
+    "attributeID": 3356,
+    "categoryID": 4,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayNameID": {
+      "en": "DPS threshold to pause hull repair"
+    },
+    "highIsGood": true,
+    "name": "pauseHullRepairDpsThreshold",
+    "published": true,
+    "stackable": true,
+    "unitID": 113
   }
 }

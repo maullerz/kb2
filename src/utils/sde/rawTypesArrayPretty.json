@@ -138187,7 +138187,7 @@
   [
     58853,
     303,
-    "Expired Basic Capsuleer Day Cerebral Accelerator"
+    "Basic Capsuleer Day Cerebral Accelerator"
   ],
   [
     58854,
@@ -143232,17 +143232,17 @@
   [
     62277,
     4050,
-    "Event 54 Proving Filament"
+    "Hunt 1v1 Assault Frigates Proving Filament"
   ],
   [
     62278,
     4050,
-    "Event 55 Proving Filament"
+    "1v1 Strategic Cruisers Proving Filament"
   ],
   [
     62279,
     4050,
-    "Event 56 Proving Filament"
+    "Capsuleer Day 2v2 Navy Frigates Proving Filament"
   ],
   [
     62342,
@@ -144807,7 +144807,7 @@
   [
     63165,
     500,
-    "CapsuleerDay22Firework (Do not translate)"
+    "Capsuleer Starburst Firework"
   ],
   [
     63166,
@@ -145647,7 +145647,7 @@
   [
     63714,
     4050,
-    "Event 57 Proving Filament"
+    "Capsuleer Day Sunesis FFA Proving Filament"
   ],
   [
     63715,
@@ -145718,5 +145718,580 @@
     63728,
     4050,
     "Event 71 Proving Filament"
+  ],
+  [
+    63747,
+    1088,
+    "Men's Kimotoro Eskeitan Commander's Jacket"
+  ],
+  [
+    63748,
+    1090,
+    "Men's Kimotoro Eskeitan Commander's Pants"
+  ],
+  [
+    63749,
+    1088,
+    "Women's Kimotoro Eskeitan Commander's Jacket"
+  ],
+  [
+    63750,
+    1090,
+    "Women's Kimotoro Eskeitan Commander's Pants"
+  ],
+  [
+    63788,
+    1929,
+    "Proving Bonus Nexus"
+  ],
+  [
+    63789,
+    1088,
+    "63789_Male_outer_JacketMFBR01_Types_JacketMFBR01_Race.png"
+  ],
+  [
+    63790,
+    1088,
+    "63790_Female_Outer_JacketFBR01_Types_JacketFBR01_race.png"
+  ],
+  [
+    63849,
+    303,
+    "Basic Capsuleer Day Glamourex Booster"
+  ],
+  [
+    63850,
+    303,
+    "Extended Capsuleer Day Glamourex Booster"
+  ],
+  [
+    63851,
+    303,
+    "Potent Capsuleer Day Glamourex Booster"
+  ],
+  [
+    63852,
+    303,
+    "Basic Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    63853,
+    303,
+    "Extended Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    63854,
+    303,
+    "Potent Capsuleer Day Cerebral Accelerator"
+  ],
+  [
+    63871,
+    306,
+    "Smuggler Dead Drop"
+  ],
+  [
+    63872,
+    306,
+    "Smuggler Stash"
+  ],
+  [
+    63873,
+    1975,
+    "ddd01_t1_environmentasset"
+  ],
+  [
+    63875,
+    1975,
+    "Non-Interactable Prowler"
+  ],
+  [
+    63876,
+    1207,
+    "CONCORD Prohibited Item Storage"
+  ],
+  [
+    63877,
+    1207,
+    "CONCORD Contraband Containment Container"
+  ],
+  [
+    63878,
+    303,
+    "Smuggler Low Observability Booster I"
+  ],
+  [
+    63879,
+    303,
+    "Smuggler Low Observability Booster II"
+  ],
+  [
+    63880,
+    303,
+    "Smuggler Low Observability Booster III"
+  ],
+  [
+    63881,
+    303,
+    "Smuggler Low Observability Booster IV"
+  ],
+  [
+    63882,
+    303,
+    "DED Scan Booster I"
+  ],
+  [
+    63883,
+    303,
+    "DED Scan Booster II"
+  ],
+  [
+    63884,
+    303,
+    "DED Scan Booster III"
+  ],
+  [
+    63885,
+    303,
+    "DED Scan Booster IV"
+  ],
+  [
+    63886,
+    303,
+    "Smuggler Shield Booster I"
+  ],
+  [
+    63887,
+    303,
+    "Smuggler Shield Booster II"
+  ],
+  [
+    63888,
+    303,
+    "Smuggler Shield Booster III"
+  ],
+  [
+    63889,
+    303,
+    "Smuggler Shield Booster IV"
+  ],
+  [
+    63890,
+    303,
+    "DED Armor Booster I"
+  ],
+  [
+    63891,
+    303,
+    "DED Armor Booster II"
+  ],
+  [
+    63892,
+    303,
+    "DED Armor Booster III"
+  ],
+  [
+    63893,
+    303,
+    "DED Armor Booster IV"
+  ],
+  [
+    63894,
+    303,
+    "Smuggler Blockade Running Booster I"
+  ],
+  [
+    63895,
+    303,
+    "Smuggler Blockade Running Booster II"
+  ],
+  [
+    63896,
+    303,
+    "Smuggler Blockade Running Booster III"
+  ],
+  [
+    63897,
+    303,
+    "Smuggler Blockade Running Booster IV"
+  ],
+  [
+    63898,
+    303,
+    "DED Apprehension Booster I"
+  ],
+  [
+    63899,
+    303,
+    "DED Apprehension Booster II"
+  ],
+  [
+    63900,
+    303,
+    "DED Apprehension Booster III"
+  ],
+  [
+    63901,
+    303,
+    "DED Apprehension Booster IV"
+  ],
+  [
+    63902,
+    303,
+    "Smuggler Bay Loading Booster I"
+  ],
+  [
+    63903,
+    303,
+    "Smuggler Bay Loading Booster II"
+  ],
+  [
+    63904,
+    303,
+    "Smuggler Bay Loading Booster III"
+  ],
+  [
+    63905,
+    303,
+    "Smuggler Bay Loading Booster IV"
+  ],
+  [
+    63906,
+    303,
+    "DED Turret Booster I"
+  ],
+  [
+    63907,
+    303,
+    "DED Turret Booster II"
+  ],
+  [
+    63908,
+    303,
+    "DED Turret Booster III"
+  ],
+  [
+    63909,
+    303,
+    "DED Turret Booster IV"
+  ],
+  [
+    63910,
+    306,
+    "CONCORD Prohibited Item Storage"
+  ],
+  [
+    63911,
+    306,
+    "CONCORD Contraband Storage"
+  ],
+  [
+    63938,
+    1929,
+    "Capsuleer Day Buff Nexus"
+  ],
+  [
+    63939,
+    1929,
+    "Capsuleer Day Debuff Nexus"
+  ],
+  [
+    63944,
+    227,
+    "CD 19 SM H Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    63945,
+    227,
+    "CD 19 SM H Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    63966,
+    1975,
+    "Fortified Starbase Hangar (DO NO TRANSLATE)"
+  ],
+  [
+    63967,
+    1975,
+    "Pirate Stargate Station (DO NOT TRANSLATE)"
+  ],
+  [
+    63977,
+    1975,
+    "Cyno Beacon Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    63978,
+    227,
+    "CD 19 Concord H Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    63979,
+    227,
+    "CD 19  Concord H Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    63980,
+    1975,
+    "Ship Maintenance Array Wreck ( DO NOT TRANSLATE)"
+  ],
+  [
+    63981,
+    1975,
+    "cs5_wreck_environment_asset ( DO NOT TRANSLATE)"
+  ],
+  [
+    63982,
+    227,
+    "CD 19 Smuggler Easy Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    63983,
+    227,
+    "CD 19 Smuggler Easy Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    63984,
+    1975,
+    "Smugglers Research Outpost (DO NOT TRANSLATE)"
+  ],
+  [
+    63985,
+    15,
+    "Smuggler Service Outpost (DO NOT TRANSLATE)"
+  ],
+  [
+    63986,
+    1975,
+    "Smuggler Service Outpost Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    63987,
+    1975,
+    "Smuggler Research Outpost Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    63988,
+    1975,
+    "Smugglehaus (DO NOT TRANSLATE)"
+  ],
+  [
+    63989,
+    1975,
+    "Smugglehaus Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    64002,
+    1568,
+    "SARO Pacifier"
+  ],
+  [
+    64003,
+    1568,
+    "SARO Skybreaker"
+  ],
+  [
+    64004,
+    1568,
+    "SARO Nemesis"
+  ],
+  [
+    64005,
+    1664,
+    "SARO Confessor"
+  ],
+  [
+    64006,
+    1665,
+    "SARO Enforcer"
+  ],
+  [
+    64007,
+    1665,
+    "SARO Stormbringer"
+  ],
+  [
+    64008,
+    1665,
+    "SARO Curse"
+  ],
+  [
+    64009,
+    1665,
+    "SARO Phobos"
+  ],
+  [
+    64010,
+    1666,
+    "SARO Talos"
+  ],
+  [
+    64011,
+    1568,
+    "Smuggler Raptor"
+  ],
+  [
+    64012,
+    1568,
+    "Smuggler Hyena"
+  ],
+  [
+    64013,
+    1568,
+    "Smuggler Manticore"
+  ],
+  [
+    64014,
+    1664,
+    "Smuggler Draugur"
+  ],
+  [
+    64015,
+    1665,
+    "Smuggler Basilisk"
+  ],
+  [
+    64016,
+    1665,
+    "Smuggler Cerberus"
+  ],
+  [
+    64017,
+    1665,
+    "Smuggler Rapier"
+  ],
+  [
+    64018,
+    1665,
+    "Smuggler Ikitursa"
+  ],
+  [
+    64019,
+    1666,
+    "Smuggler Tornado"
+  ],
+  [
+    64020,
+    1667,
+    "SARO Captain"
+  ],
+  [
+    64021,
+    1667,
+    "SARO Captain"
+  ],
+  [
+    64022,
+    1667,
+    "SARO Commander"
+  ],
+  [
+    64023,
+    1667,
+    "SARO Commander"
+  ],
+  [
+    64024,
+    1667,
+    "Smuggler Underboss"
+  ],
+  [
+    64025,
+    1667,
+    "Smuggler Underboss"
+  ],
+  [
+    64026,
+    1667,
+    "Smuggler Ringleader"
+  ],
+  [
+    64027,
+    1667,
+    "Smuggler Ringleader"
+  ],
+  [
+    64028,
+    1194,
+    "Capsuleer Day XIX Fireworks Gift Box"
+  ],
+  [
+    64029,
+    310,
+    "Smuggler Hideout"
+  ],
+  [
+    64030,
+    310,
+    "Smuggler Stargate"
+  ],
+  [
+    64031,
+    310,
+    "Confiscated Smuggler Hideout"
+  ],
+  [
+    64032,
+    310,
+    "Confiscated Smuggler Stargate"
+  ],
+  [
+    64033,
+    314,
+    "Smuggler Lockbox"
+  ],
+  [
+    64034,
+    31,
+    "Boobook"
+  ],
+  [
+    64035,
+    111,
+    "Boobook Blueprint"
+  ],
+  [
+    64036,
+    1194,
+    "Capsuleer Day DED Booster Crate"
+  ],
+  [
+    64037,
+    1194,
+    "Capsuleer Day Smuggler Booster Crate"
+  ],
+  [
+    64038,
+    1975,
+    "Dormitory (DO NOT TRANSLATE)"
+  ],
+  [
+    64078,
+    1975,
+    "uaf01_t1_environment_asset"
+  ],
+  [
+    64091,
+    227,
+    "CD 19 Concord Easy Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    64092,
+    227,
+    "CD 19 Concord Easy Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    64101,
+    227,
+    "CD 19 Smuggler Supplemental Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    64102,
+    227,
+    "CD 19 Concord Supplemental Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    64191,
+    1971,
+    "Proving Capsuleer Day 2022 Bonus (Do not translate)"
   ]
 ]

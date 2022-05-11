@@ -110549,7 +110549,7 @@
   },
   "58853": {
     "groupID": 303,
-    "name": "Expired Basic Capsuleer Day Cerebral Accelerator"
+    "name": "Basic Capsuleer Day Cerebral Accelerator"
   },
   "58854": {
     "groupID": 303,
@@ -114585,15 +114585,15 @@
   },
   "62277": {
     "groupID": 4050,
-    "name": "Event 54 Proving Filament"
+    "name": "Hunt 1v1 Assault Frigates Proving Filament"
   },
   "62278": {
     "groupID": 4050,
-    "name": "Event 55 Proving Filament"
+    "name": "1v1 Strategic Cruisers Proving Filament"
   },
   "62279": {
     "groupID": 4050,
-    "name": "Event 56 Proving Filament"
+    "name": "Capsuleer Day 2v2 Navy Frigates Proving Filament"
   },
   "62342": {
     "groupID": 1971,
@@ -115845,7 +115845,7 @@
   },
   "63165": {
     "groupID": 500,
-    "name": "CapsuleerDay22Firework (Do not translate)"
+    "name": "Capsuleer Starburst Firework"
   },
   "63166": {
     "groupID": 306,
@@ -116517,7 +116517,7 @@
   },
   "63714": {
     "groupID": 4050,
-    "name": "Event 57 Proving Filament"
+    "name": "Capsuleer Day Sunesis FFA Proving Filament"
   },
   "63715": {
     "groupID": 4050,
@@ -116574,5 +116574,465 @@
   "63728": {
     "groupID": 4050,
     "name": "Event 71 Proving Filament"
+  },
+  "63747": {
+    "groupID": 1088,
+    "name": "Men's Kimotoro Eskeitan Commander's Jacket"
+  },
+  "63748": {
+    "groupID": 1090,
+    "name": "Men's Kimotoro Eskeitan Commander's Pants"
+  },
+  "63749": {
+    "groupID": 1088,
+    "name": "Women's Kimotoro Eskeitan Commander's Jacket"
+  },
+  "63750": {
+    "groupID": 1090,
+    "name": "Women's Kimotoro Eskeitan Commander's Pants"
+  },
+  "63788": {
+    "groupID": 1929,
+    "name": "Proving Bonus Nexus"
+  },
+  "63789": {
+    "groupID": 1088,
+    "name": "63789_Male_outer_JacketMFBR01_Types_JacketMFBR01_Race.png"
+  },
+  "63790": {
+    "groupID": 1088,
+    "name": "63790_Female_Outer_JacketFBR01_Types_JacketFBR01_race.png"
+  },
+  "63849": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day Glamourex Booster"
+  },
+  "63850": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day Glamourex Booster"
+  },
+  "63851": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day Glamourex Booster"
+  },
+  "63852": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day Cerebral Accelerator"
+  },
+  "63853": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day Cerebral Accelerator"
+  },
+  "63854": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day Cerebral Accelerator"
+  },
+  "63871": {
+    "groupID": 306,
+    "name": "Smuggler Dead Drop"
+  },
+  "63872": {
+    "groupID": 306,
+    "name": "Smuggler Stash"
+  },
+  "63873": {
+    "groupID": 1975,
+    "name": "ddd01_t1_environmentasset"
+  },
+  "63875": {
+    "groupID": 1975,
+    "name": "Non-Interactable Prowler"
+  },
+  "63876": {
+    "groupID": 1207,
+    "name": "CONCORD Prohibited Item Storage"
+  },
+  "63877": {
+    "groupID": 1207,
+    "name": "CONCORD Contraband Containment Container"
+  },
+  "63878": {
+    "groupID": 303,
+    "name": "Smuggler Low Observability Booster I"
+  },
+  "63879": {
+    "groupID": 303,
+    "name": "Smuggler Low Observability Booster II"
+  },
+  "63880": {
+    "groupID": 303,
+    "name": "Smuggler Low Observability Booster III"
+  },
+  "63881": {
+    "groupID": 303,
+    "name": "Smuggler Low Observability Booster IV"
+  },
+  "63882": {
+    "groupID": 303,
+    "name": "DED Scan Booster I"
+  },
+  "63883": {
+    "groupID": 303,
+    "name": "DED Scan Booster II"
+  },
+  "63884": {
+    "groupID": 303,
+    "name": "DED Scan Booster III"
+  },
+  "63885": {
+    "groupID": 303,
+    "name": "DED Scan Booster IV"
+  },
+  "63886": {
+    "groupID": 303,
+    "name": "Smuggler Shield Booster I"
+  },
+  "63887": {
+    "groupID": 303,
+    "name": "Smuggler Shield Booster II"
+  },
+  "63888": {
+    "groupID": 303,
+    "name": "Smuggler Shield Booster III"
+  },
+  "63889": {
+    "groupID": 303,
+    "name": "Smuggler Shield Booster IV"
+  },
+  "63890": {
+    "groupID": 303,
+    "name": "DED Armor Booster I"
+  },
+  "63891": {
+    "groupID": 303,
+    "name": "DED Armor Booster II"
+  },
+  "63892": {
+    "groupID": 303,
+    "name": "DED Armor Booster III"
+  },
+  "63893": {
+    "groupID": 303,
+    "name": "DED Armor Booster IV"
+  },
+  "63894": {
+    "groupID": 303,
+    "name": "Smuggler Blockade Running Booster I"
+  },
+  "63895": {
+    "groupID": 303,
+    "name": "Smuggler Blockade Running Booster II"
+  },
+  "63896": {
+    "groupID": 303,
+    "name": "Smuggler Blockade Running Booster III"
+  },
+  "63897": {
+    "groupID": 303,
+    "name": "Smuggler Blockade Running Booster IV"
+  },
+  "63898": {
+    "groupID": 303,
+    "name": "DED Apprehension Booster I"
+  },
+  "63899": {
+    "groupID": 303,
+    "name": "DED Apprehension Booster II"
+  },
+  "63900": {
+    "groupID": 303,
+    "name": "DED Apprehension Booster III"
+  },
+  "63901": {
+    "groupID": 303,
+    "name": "DED Apprehension Booster IV"
+  },
+  "63902": {
+    "groupID": 303,
+    "name": "Smuggler Bay Loading Booster I"
+  },
+  "63903": {
+    "groupID": 303,
+    "name": "Smuggler Bay Loading Booster II"
+  },
+  "63904": {
+    "groupID": 303,
+    "name": "Smuggler Bay Loading Booster III"
+  },
+  "63905": {
+    "groupID": 303,
+    "name": "Smuggler Bay Loading Booster IV"
+  },
+  "63906": {
+    "groupID": 303,
+    "name": "DED Turret Booster I"
+  },
+  "63907": {
+    "groupID": 303,
+    "name": "DED Turret Booster II"
+  },
+  "63908": {
+    "groupID": 303,
+    "name": "DED Turret Booster III"
+  },
+  "63909": {
+    "groupID": 303,
+    "name": "DED Turret Booster IV"
+  },
+  "63910": {
+    "groupID": 306,
+    "name": "CONCORD Prohibited Item Storage"
+  },
+  "63911": {
+    "groupID": 306,
+    "name": "CONCORD Contraband Storage"
+  },
+  "63938": {
+    "groupID": 1929,
+    "name": "Capsuleer Day Buff Nexus"
+  },
+  "63939": {
+    "groupID": 1929,
+    "name": "Capsuleer Day Debuff Nexus"
+  },
+  "63944": {
+    "groupID": 227,
+    "name": "CD 19 SM H Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "63945": {
+    "groupID": 227,
+    "name": "CD 19 SM H Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "63966": {
+    "groupID": 1975,
+    "name": "Fortified Starbase Hangar (DO NO TRANSLATE)"
+  },
+  "63967": {
+    "groupID": 1975,
+    "name": "Pirate Stargate Station (DO NOT TRANSLATE)"
+  },
+  "63977": {
+    "groupID": 1975,
+    "name": "Cyno Beacon Wreck (DO NOT TRANSLATE)"
+  },
+  "63978": {
+    "groupID": 227,
+    "name": "CD 19 Concord H Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "63979": {
+    "groupID": 227,
+    "name": "CD 19  Concord H Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "63980": {
+    "groupID": 1975,
+    "name": "Ship Maintenance Array Wreck ( DO NOT TRANSLATE)"
+  },
+  "63981": {
+    "groupID": 1975,
+    "name": "cs5_wreck_environment_asset ( DO NOT TRANSLATE)"
+  },
+  "63982": {
+    "groupID": 227,
+    "name": "CD 19 Smuggler Easy Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "63983": {
+    "groupID": 227,
+    "name": "CD 19 Smuggler Easy Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "63984": {
+    "groupID": 1975,
+    "name": "Smugglers Research Outpost (DO NOT TRANSLATE)"
+  },
+  "63985": {
+    "groupID": 15,
+    "name": "Smuggler Service Outpost (DO NOT TRANSLATE)"
+  },
+  "63986": {
+    "groupID": 1975,
+    "name": "Smuggler Service Outpost Wreck (DO NOT TRANSLATE)"
+  },
+  "63987": {
+    "groupID": 1975,
+    "name": "Smuggler Research Outpost Wreck (DO NOT TRANSLATE)"
+  },
+  "63988": {
+    "groupID": 1975,
+    "name": "Smugglehaus (DO NOT TRANSLATE)"
+  },
+  "63989": {
+    "groupID": 1975,
+    "name": "Smugglehaus Wreck (DO NOT TRANSLATE)"
+  },
+  "64002": {
+    "groupID": 1568,
+    "name": "SARO Pacifier"
+  },
+  "64003": {
+    "groupID": 1568,
+    "name": "SARO Skybreaker"
+  },
+  "64004": {
+    "groupID": 1568,
+    "name": "SARO Nemesis"
+  },
+  "64005": {
+    "groupID": 1664,
+    "name": "SARO Confessor"
+  },
+  "64006": {
+    "groupID": 1665,
+    "name": "SARO Enforcer"
+  },
+  "64007": {
+    "groupID": 1665,
+    "name": "SARO Stormbringer"
+  },
+  "64008": {
+    "groupID": 1665,
+    "name": "SARO Curse"
+  },
+  "64009": {
+    "groupID": 1665,
+    "name": "SARO Phobos"
+  },
+  "64010": {
+    "groupID": 1666,
+    "name": "SARO Talos"
+  },
+  "64011": {
+    "groupID": 1568,
+    "name": "Smuggler Raptor"
+  },
+  "64012": {
+    "groupID": 1568,
+    "name": "Smuggler Hyena"
+  },
+  "64013": {
+    "groupID": 1568,
+    "name": "Smuggler Manticore"
+  },
+  "64014": {
+    "groupID": 1664,
+    "name": "Smuggler Draugur"
+  },
+  "64015": {
+    "groupID": 1665,
+    "name": "Smuggler Basilisk"
+  },
+  "64016": {
+    "groupID": 1665,
+    "name": "Smuggler Cerberus"
+  },
+  "64017": {
+    "groupID": 1665,
+    "name": "Smuggler Rapier"
+  },
+  "64018": {
+    "groupID": 1665,
+    "name": "Smuggler Ikitursa"
+  },
+  "64019": {
+    "groupID": 1666,
+    "name": "Smuggler Tornado"
+  },
+  "64020": {
+    "groupID": 1667,
+    "name": "SARO Captain"
+  },
+  "64021": {
+    "groupID": 1667,
+    "name": "SARO Captain"
+  },
+  "64022": {
+    "groupID": 1667,
+    "name": "SARO Commander"
+  },
+  "64023": {
+    "groupID": 1667,
+    "name": "SARO Commander"
+  },
+  "64024": {
+    "groupID": 1667,
+    "name": "Smuggler Underboss"
+  },
+  "64025": {
+    "groupID": 1667,
+    "name": "Smuggler Underboss"
+  },
+  "64026": {
+    "groupID": 1667,
+    "name": "Smuggler Ringleader"
+  },
+  "64027": {
+    "groupID": 1667,
+    "name": "Smuggler Ringleader"
+  },
+  "64028": {
+    "groupID": 1194,
+    "name": "Capsuleer Day XIX Fireworks Gift Box"
+  },
+  "64029": {
+    "groupID": 310,
+    "name": "Smuggler Hideout"
+  },
+  "64030": {
+    "groupID": 310,
+    "name": "Smuggler Stargate"
+  },
+  "64031": {
+    "groupID": 310,
+    "name": "Confiscated Smuggler Hideout"
+  },
+  "64032": {
+    "groupID": 310,
+    "name": "Confiscated Smuggler Stargate"
+  },
+  "64033": {
+    "groupID": 314,
+    "name": "Smuggler Lockbox"
+  },
+  "64034": {
+    "groupID": 31,
+    "name": "Boobook"
+  },
+  "64035": {
+    "groupID": 111,
+    "name": "Boobook Blueprint"
+  },
+  "64036": {
+    "groupID": 1194,
+    "name": "Capsuleer Day DED Booster Crate"
+  },
+  "64037": {
+    "groupID": 1194,
+    "name": "Capsuleer Day Smuggler Booster Crate"
+  },
+  "64038": {
+    "groupID": 1975,
+    "name": "Dormitory (DO NOT TRANSLATE)"
+  },
+  "64078": {
+    "groupID": 1975,
+    "name": "uaf01_t1_environment_asset"
+  },
+  "64091": {
+    "groupID": 227,
+    "name": "CD 19 Concord Easy Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "64092": {
+    "groupID": 227,
+    "name": "CD 19 Concord Easy Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "64101": {
+    "groupID": 227,
+    "name": "CD 19 Smuggler Supplemental Spawner (DO NOT TRANSLATE)"
+  },
+  "64102": {
+    "groupID": 227,
+    "name": "CD 19 Concord Supplemental Spawner (DO NOT TRANSLATE)"
+  },
+  "64191": {
+    "groupID": 1971,
+    "name": "Proving Capsuleer Day 2022 Bonus (Do not translate)"
   }
 }
