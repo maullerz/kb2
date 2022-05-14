@@ -71,6 +71,7 @@ function loadData() {
 const cats = require('./sde/categoryIDs.json')
 const flags = require('./sde/flags.json')
 const shipGroups = require('./sde/shipGroups.json')
+const implants = require('./sde/implantsShort.json')
 
 export {
   loadData,
@@ -81,4 +82,5 @@ export {
   flags,
   skinsTypes,
   shipGroups,
+  implants,
 }

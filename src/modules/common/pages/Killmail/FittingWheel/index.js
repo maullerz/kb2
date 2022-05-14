@@ -18,10 +18,13 @@ const FittingWheel = ({ kmData }) => {
   const { vict, fittingItems: items, viewed } = kmData
   const { ship } = vict
 
+  console.log('ship:', ship)
+  console.log('items:', items)
+
   const groupID = getGroupID(ship)
   const shipAttributes = groupID === 963
     ? getStrategicCruiserAttributes(ship, items.sub.map(({ type }) => type))
-    : getShipAttributes(ship)
+    : getShipAttributes(ship, groupID)
 
   const { lowSlots, medSlots, hiSlots, rigSlots } = shipAttributes
 
@@ -39,14 +42,14 @@ const FittingWheel = ({ kmData }) => {
         </g>
 
         {items &&
-        <>
-          <LowSlotsRack items={items.lowSlots} slotsCount={lowSlots} />
-          <MediumSlotsRack items={items.medSlots} slotsCount={medSlots} />
-          <HighSlotsRack items={items.highSlots} slotsCount={hiSlots} />
-          <RigRack slots={items.rig} slotsCount={rigSlots} />
-          <SubSystemsRack slots={items.sub} />
-        </>
-          }
+          <>
+            <LowSlotsRack items={items.lowSlots} slotsCount={lowSlots} />
+            <MediumSlotsRack items={items.medSlots} slotsCount={medSlots} />
+            <HighSlotsRack items={items.highSlots} slotsCount={hiSlots} />
+            <RigRack slots={items.rig} slotsCount={rigSlots} />
+            <SubSystemsRack slots={items.sub} />
+          </>
+        }
       </svg>
 
       <ZkbLinkCont>

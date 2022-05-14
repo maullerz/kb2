@@ -1,5 +1,6 @@
 /* eslint no-use-before-define: ["error", { "variables": false }] */
 import { getGroupID, getCategoryID, getFitSlotKey, isAmmo, isShip } from 'utils/SdeUtils'
+import { implants } from 'utils/SdeData'
 
 const IMG_QUALITY = 64
 const CHAR_QUALITY = 256
@@ -151,6 +152,16 @@ export const parseItems = km => {
   }
 
   itms.forEach(arrayValue => {
+    // If Implant - override its flag value to High or Med
+    if (arrayValue[0] === 89) {
+      const impSlot = implants[arrayValue[1]]
+      if (impSlot > 5) {
+        arrayValue[0] = 11 + impSlot - 6
+      } else {
+        arrayValue[0] = 27 + impSlot - 1
+      }
+    }
+
     const [flag, type, dropped, destroyed, singleton] = arrayValue
     // console.log('arrayValue:', arrayValue)
     const [slotKey] = getFitSlotKey(flag) || []

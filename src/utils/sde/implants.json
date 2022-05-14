@@ -1,0 +1,3418 @@
+{
+  "2082": {
+    "slot": 1,
+    "name": "Genolution Core Augmentation CA-1"
+  },
+  "2589": {
+    "slot": 4,
+    "name": "Genolution Core Augmentation CA-2"
+  },
+  "3077": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Shield Upgrades SU-602"
+  },
+  "3078": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Shield Upgrades SU-604"
+  },
+  "3079": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Shield Upgrades SU-606"
+  },
+  "3080": {
+    "slot": 7,
+    "name": "Zainou 'Gnome' Shield Management SM-702"
+  },
+  "3081": {
+    "slot": 7,
+    "name": "Zainou 'Gnome' Shield Management SM-704"
+  },
+  "3084": {
+    "slot": 7,
+    "name": "Zainou 'Gnome' Shield Management SM-706"
+  },
+  "3085": {
+    "slot": 8,
+    "name": "Zainou 'Gnome' Shield Emission Systems SE-802"
+  },
+  "3086": {
+    "slot": 8,
+    "name": "Zainou 'Gnome' Shield Emission Systems SE-804"
+  },
+  "3087": {
+    "slot": 8,
+    "name": "Zainou 'Gnome' Shield Emission Systems SE-806"
+  },
+  "3088": {
+    "slot": 9,
+    "name": "Zainou 'Gnome' Shield Operation SP-902"
+  },
+  "3089": {
+    "slot": 9,
+    "name": "Zainou 'Gnome' Shield Operation SP-904"
+  },
+  "3092": {
+    "slot": 9,
+    "name": "Zainou 'Gnome' Shield Operation SP-906"
+  },
+  "3093": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Rogue' Evasive Maneuvering EM-702"
+  },
+  "3094": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Rogue' Evasive Maneuvering EM-704"
+  },
+  "3095": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Rogue' Evasive Maneuvering EM-706"
+  },
+  "3096": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Navigation NN-602"
+  },
+  "3097": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Navigation NN-604"
+  },
+  "3100": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Navigation NN-606"
+  },
+  "3101": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Rogue' Fuel Conservation FC-802"
+  },
+  "3102": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Rogue' Fuel Conservation FC-804"
+  },
+  "3103": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Rogue' Fuel Conservation FC-806"
+  },
+  "3104": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Afterburner AB-604"
+  },
+  "3105": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Afterburner AB-608"
+  },
+  "3108": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Afterburner AB-612"
+  },
+  "3109": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Operation WD-604"
+  },
+  "3110": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Operation WD-608"
+  },
+  "3111": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Operation WD-612"
+  },
+  "3112": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Rogue' High Speed Maneuvering HS-902"
+  },
+  "3113": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Rogue' High Speed Maneuvering HS-904"
+  },
+  "3116": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Rogue' High Speed Maneuvering HS-906"
+  },
+  "3117": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Speed WS-608"
+  },
+  "3118": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Speed WS-613"
+  },
+  "3119": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Speed WS-618"
+  },
+  "3120": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Acceleration Control AC-602"
+  },
+  "3121": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Acceleration Control AC-604"
+  },
+  "3124": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Acceleration Control AC-606"
+  },
+  "3125": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Guided Missile Precision GP-802"
+  },
+  "3126": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Guided Missile Precision GP-804"
+  },
+  "3127": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Guided Missile Precision GP-806"
+  },
+  "3128": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Bombardment MB-702"
+  },
+  "3129": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Bombardment MB-704"
+  },
+  "3132": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Bombardment MB-706"
+  },
+  "3133": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Projection MP-702"
+  },
+  "3134": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Projection MP-704"
+  },
+  "3135": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Projection MP-706"
+  },
+  "3136": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Rapid Launch RL-1002"
+  },
+  "3137": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Rapid Launch RL-1004"
+  },
+  "3140": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Rapid Launch RL-1006"
+  },
+  "3141": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Target Navigation Prediction TN-902"
+  },
+  "3142": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Target Navigation Prediction TN-904"
+  },
+  "3143": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Target Navigation Prediction TN-906"
+  },
+  "3144": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Launcher CPU Efficiency LE-602"
+  },
+  "3145": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Launcher CPU Efficiency LE-604"
+  },
+  "3148": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Launcher CPU Efficiency LE-606"
+  },
+  "3149": {
+    "slot": 6,
+    "name": "Hardwiring - Zainou 'Sharpshooter' ZMX11"
+  },
+  "3150": {
+    "slot": 6,
+    "name": "Hardwiring - Zainou 'Sharpshooter' ZMX110"
+  },
+  "3151": {
+    "slot": 6,
+    "name": "Hardwiring - Zainou 'Sharpshooter' ZMX1100"
+  },
+  "3152": {
+    "slot": 8,
+    "name": "Zainou 'Snapshot' Defender Missiles DM-802"
+  },
+  "3153": {
+    "slot": 8,
+    "name": "Zainou 'Snapshot' Defender Missiles DM-804"
+  },
+  "3156": {
+    "slot": 8,
+    "name": "Zainou 'Snapshot' Defender Missiles DM-806"
+  },
+  "3157": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Assault Missiles AM-702"
+  },
+  "3158": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Assault Missiles AM-704"
+  },
+  "3159": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Assault Missiles AM-706"
+  },
+  "3160": {
+    "slot": 10,
+    "name": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1002"
+  },
+  "3161": {
+    "slot": 10,
+    "name": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1004"
+  },
+  "3164": {
+    "slot": 10,
+    "name": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1006"
+  },
+  "3165": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Missiles HM-702"
+  },
+  "3166": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Missiles HM-704"
+  },
+  "3167": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Missiles HM-706"
+  },
+  "3168": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Light Missiles LM-902"
+  },
+  "3169": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Light Missiles LM-904"
+  },
+  "3172": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Light Missiles LM-906"
+  },
+  "3173": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Rockets RD-902"
+  },
+  "3174": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Rockets RD-904"
+  },
+  "3175": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Rockets RD-906"
+  },
+  "3176": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Torpedoes TD-602"
+  },
+  "3177": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Torpedoes TD-604"
+  },
+  "3180": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Torpedoes TD-606"
+  },
+  "3181": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Cruise Missiles CM-602"
+  },
+  "3182": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Cruise Missiles CM-604"
+  },
+  "3183": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Cruise Missiles CM-606"
+  },
+  "3185": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-802"
+  },
+  "3188": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-804"
+  },
+  "3189": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-806"
+  },
+  "3190": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Gunslinger' Motion Prediction MR-702"
+  },
+  "3191": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Gunslinger' Motion Prediction MR-704"
+  },
+  "3192": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Gunslinger' Motion Prediction MR-706"
+  },
+  "3193": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Gunslinger' Surgical Strike SS-902"
+  },
+  "3194": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Gunslinger' Surgical Strike SS-904"
+  },
+  "3195": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Gunslinger' Surgical Strike SS-906"
+  },
+  "3196": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1002"
+  },
+  "3197": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1004"
+  },
+  "3198": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1006"
+  },
+  "3199": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-602"
+  },
+  "3200": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-604"
+  },
+  "3201": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-606"
+  },
+  "3202": {
+    "slot": 6,
+    "name": "Inherent Implants 'Lancer' Small Energy Turret SE-602"
+  },
+  "3203": {
+    "slot": 7,
+    "name": "Inherent Implants 'Lancer' Controlled Bursts CB-702"
+  },
+  "3204": {
+    "slot": 9,
+    "name": "Inherent Implants 'Lancer' Gunnery RF-902"
+  },
+  "3205": {
+    "slot": 10,
+    "name": "Inherent Implants 'Lancer' Large Energy Turret LE-1002"
+  },
+  "3206": {
+    "slot": 8,
+    "name": "Inherent Implants 'Lancer' Medium Energy Turret ME-802"
+  },
+  "3207": {
+    "slot": 6,
+    "name": "Inherent Implants 'Lancer' Small Energy Turret SE-604"
+  },
+  "3208": {
+    "slot": 7,
+    "name": "Inherent Implants 'Lancer' Controlled Bursts CB-704"
+  },
+  "3209": {
+    "slot": 9,
+    "name": "Inherent Implants 'Lancer' Gunnery RF-904"
+  },
+  "3210": {
+    "slot": 10,
+    "name": "Inherent Implants 'Lancer' Large Energy Turret LE-1004"
+  },
+  "3211": {
+    "slot": 8,
+    "name": "Inherent Implants 'Lancer' Medium Energy Turret ME-804"
+  },
+  "3212": {
+    "slot": 6,
+    "name": "Inherent Implants 'Lancer' Small Energy Turret SE-606"
+  },
+  "3213": {
+    "slot": 7,
+    "name": "Inherent Implants 'Lancer' Controlled Bursts CB-706"
+  },
+  "3214": {
+    "slot": 9,
+    "name": "Inherent Implants 'Lancer' Gunnery RF-906"
+  },
+  "3215": {
+    "slot": 10,
+    "name": "Inherent Implants 'Lancer' Large Energy Turret LE-1006"
+  },
+  "3216": {
+    "slot": 8,
+    "name": "Inherent Implants 'Lancer' Medium Energy Turret ME-806"
+  },
+  "3217": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Sharpshooter ST-902"
+  },
+  "3220": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Trajectory Analysis TA-704"
+  },
+  "3221": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Trajectory Analysis TA-706"
+  },
+  "3222": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Large Hybrid Turret LH-1002"
+  },
+  "3223": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Large Hybrid Turret LH-1004"
+  },
+  "3224": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Large Hybrid Turret LH-1006"
+  },
+  "3225": {
+    "slot": 6,
+    "name": "Zainou 'Deadeye' Small Hybrid Turret SH-602"
+  },
+  "3226": {
+    "slot": 6,
+    "name": "Zainou 'Deadeye' Small Hybrid Turret SH-604"
+  },
+  "3227": {
+    "slot": 6,
+    "name": "Zainou 'Deadeye' Small Hybrid Turret SH-606"
+  },
+  "3228": {
+    "slot": 10,
+    "name": "Zainou 'Gnome' Weapon Upgrades WU-1002"
+  },
+  "3229": {
+    "slot": 10,
+    "name": "Zainou 'Gnome' Weapon Upgrades WU-1004"
+  },
+  "3230": {
+    "slot": 10,
+    "name": "Zainou 'Gnome' Weapon Upgrades WU-1006"
+  },
+  "3231": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Medium Hybrid Turret MH-802"
+  },
+  "3232": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Medium Hybrid Turret MH-804"
+  },
+  "3233": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Medium Hybrid Turret MH-806"
+  },
+  "3234": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Sharpshooter ST-904"
+  },
+  "3235": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Sharpshooter ST-906"
+  },
+  "3236": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Trajectory Analysis TA-702"
+  },
+  "3237": {
+    "slot": 8,
+    "name": "Inherent Implants 'Squire' Capacitor Management EM-802"
+  },
+  "3238": {
+    "slot": 8,
+    "name": "Inherent Implants 'Squire' Capacitor Management EM-804"
+  },
+  "3239": {
+    "slot": 8,
+    "name": "Inherent Implants 'Squire' Capacitor Management EM-806"
+  },
+  "3240": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Capacitor Systems Operation EO-602"
+  },
+  "3241": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Capacitor Systems Operation EO-604"
+  },
+  "3246": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Capacitor Systems Operation EO-606"
+  },
+  "3247": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Capacitor Emission Systems ES-702"
+  },
+  "3248": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Capacitor Emission Systems ES-704"
+  },
+  "3249": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Capacitor Emission Systems ES-706"
+  },
+  "3250": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Pulse Weapons EP-702"
+  },
+  "3251": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Pulse Weapons EP-704"
+  },
+  "3252": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Pulse Weapons EP-706"
+  },
+  "3253": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Grid Upgrades EU-702"
+  },
+  "3254": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Grid Upgrades EU-704"
+  },
+  "3255": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Grid Upgrades EU-706"
+  },
+  "3256": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Power Grid Management EG-602"
+  },
+  "3257": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Power Grid Management EG-604"
+  },
+  "3258": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Power Grid Management EG-606"
+  },
+  "3262": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' Electronics Upgrades EU-602"
+  },
+  "3263": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' Electronics Upgrades EU-604"
+  },
+  "3264": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' Electronics Upgrades EU-606"
+  },
+  "3265": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' CPU Management EE-602"
+  },
+  "3266": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' CPU Management EE-604"
+  },
+  "3267": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' CPU Management EE-606"
+  },
+  "3268": {
+    "slot": 7,
+    "name": "Zainou 'Gypsy' Signature Analysis SA-702"
+  },
+  "3269": {
+    "slot": 7,
+    "name": "Zainou 'Gypsy' Signature Analysis SA-704"
+  },
+  "3270": {
+    "slot": 7,
+    "name": "Zainou 'Gypsy' Signature Analysis SA-706"
+  },
+  "3271": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Electronic Warfare EW-902"
+  },
+  "3272": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Electronic Warfare EW-904"
+  },
+  "3273": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Electronic Warfare EW-906"
+  },
+  "3274": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Long Range Targeting LT-802"
+  },
+  "3275": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Long Range Targeting LT-804"
+  },
+  "3276": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Long Range Targeting LT-806"
+  },
+  "3277": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Propulsion Jamming PJ-802"
+  },
+  "3278": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Propulsion Jamming PJ-804"
+  },
+  "3279": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Propulsion Jamming PJ-806"
+  },
+  "3280": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Sensor Linking SL-902"
+  },
+  "3281": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Sensor Linking SL-904"
+  },
+  "3282": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Sensor Linking SL-906"
+  },
+  "3283": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Weapon Disruption WD-902"
+  },
+  "3284": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Weapon Disruption WD-904"
+  },
+  "3287": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Weapon Disruption WD-906"
+  },
+  "3288": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Target Painting TG-902"
+  },
+  "3289": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Target Painting TG-904"
+  },
+  "3290": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Target Painting TG-906"
+  },
+  "3291": {
+    "slot": 6,
+    "name": "Inherent Implants 'Noble' Repair Systems RS-602"
+  },
+  "3292": {
+    "slot": 6,
+    "name": "Inherent Implants 'Noble' Repair Systems RS-604"
+  },
+  "3299": {
+    "slot": 6,
+    "name": "Inherent Implants 'Noble' Repair Systems RS-606"
+  },
+  "3414": {
+    "slot": 7,
+    "name": "Inherent Implants 'Noble' Remote Armor Repair Systems RA-702"
+  },
+  "3415": {
+    "slot": 7,
+    "name": "Inherent Implants 'Noble' Remote Armor Repair Systems RA-704"
+  },
+  "3470": {
+    "slot": 7,
+    "name": "Inherent Implants 'Noble' Remote Armor Repair Systems RA-706"
+  },
+  "3471": {
+    "slot": 8,
+    "name": "Inherent Implants 'Noble' Mechanic MC-802"
+  },
+  "3474": {
+    "slot": 8,
+    "name": "Inherent Implants 'Noble' Mechanic MC-804"
+  },
+  "3475": {
+    "slot": 8,
+    "name": "Inherent Implants 'Noble' Mechanic MC-806"
+  },
+  "3476": {
+    "slot": 9,
+    "name": "Inherent Implants 'Noble' Repair Proficiency RP-902"
+  },
+  "3477": {
+    "slot": 9,
+    "name": "Inherent Implants 'Noble' Repair Proficiency RP-904"
+  },
+  "3478": {
+    "slot": 9,
+    "name": "Inherent Implants 'Noble' Repair Proficiency RP-906"
+  },
+  "3479": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1002"
+  },
+  "3481": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1004"
+  },
+  "3482": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1006"
+  },
+  "9899": {
+    "slot": 1,
+    "name": "Ocular Filter - Basic"
+  },
+  "9941": {
+    "slot": 2,
+    "name": "Memory Augmentation - Basic"
+  },
+  "9942": {
+    "slot": 3,
+    "name": "Neural Boost - Basic"
+  },
+  "9943": {
+    "slot": 4,
+    "name": "Cybernetic Subprocessor - Basic"
+  },
+  "9956": {
+    "slot": 5,
+    "name": "Social Adaptation Chip - Basic"
+  },
+  "9957": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Gunslinger' Motion Prediction MR-703"
+  },
+  "10204": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Sharpshooter ST-903"
+  },
+  "10208": {
+    "slot": 2,
+    "name": "Memory Augmentation - Standard"
+  },
+  "10209": {
+    "slot": 2,
+    "name": "Memory Augmentation - Improved"
+  },
+  "10210": {
+    "slot": 2,
+    "name": "Memory Augmentation - Advanced"
+  },
+  "10211": {
+    "slot": 2,
+    "name": "Memory Augmentation - Elite"
+  },
+  "10212": {
+    "slot": 3,
+    "name": "Neural Boost - Standard"
+  },
+  "10213": {
+    "slot": 3,
+    "name": "Neural Boost - Improved"
+  },
+  "10214": {
+    "slot": 3,
+    "name": "Neural Boost - Advanced"
+  },
+  "10215": {
+    "slot": 3,
+    "name": "Neural Boost - Elite"
+  },
+  "10216": {
+    "slot": 1,
+    "name": "Ocular Filter - Standard"
+  },
+  "10217": {
+    "slot": 1,
+    "name": "Ocular Filter - Improved"
+  },
+  "10218": {
+    "slot": 1,
+    "name": "Ocular Filter - Advanced"
+  },
+  "10219": {
+    "slot": 1,
+    "name": "Ocular Filter - Elite"
+  },
+  "10221": {
+    "slot": 4,
+    "name": "Cybernetic Subprocessor - Standard"
+  },
+  "10222": {
+    "slot": 4,
+    "name": "Cybernetic Subprocessor - Improved"
+  },
+  "10223": {
+    "slot": 4,
+    "name": "Cybernetic Subprocessor - Advanced"
+  },
+  "10224": {
+    "slot": 4,
+    "name": "Cybernetic Subprocessor - Elite"
+  },
+  "10225": {
+    "slot": 5,
+    "name": "Social Adaptation Chip - Standard"
+  },
+  "10226": {
+    "slot": 5,
+    "name": "Social Adaptation Chip - Improved"
+  },
+  "10227": {
+    "slot": 5,
+    "name": "Social Adaptation Chip - Advanced"
+  },
+  "10228": {
+    "slot": 7,
+    "name": "Zainou 'Gnome' Shield Management SM-703"
+  },
+  "10244": {
+    "slot": 7,
+    "name": "Zainou 'Gypsy' Signature Analysis SA-703"
+  },
+  "13166": {
+    "slot": 9,
+    "name": "Inherent Implants 'Lancer' Gunnery RF-903"
+  },
+  "13209": {
+    "slot": 10,
+    "name": "Armored Command Mindlink"
+  },
+  "13216": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' CPU Management EE-603"
+  },
+  "13217": {
+    "slot": 10,
+    "name": "Inherent Implants 'Lancer' Large Energy Turret LE-1003"
+  },
+  "13218": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Large Hybrid Turret LH-1003"
+  },
+  "13219": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1003"
+  },
+  "13220": {
+    "slot": 8,
+    "name": "Inherent Implants 'Lancer' Medium Energy Turret ME-803"
+  },
+  "13221": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Medium Hybrid Turret MH-803"
+  },
+  "13222": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-803"
+  },
+  "13223": {
+    "slot": 6,
+    "name": "Inherent Implants 'Lancer' Small Energy Turret SE-603"
+  },
+  "13224": {
+    "slot": 6,
+    "name": "Zainou 'Deadeye' Small Hybrid Turret SH-603"
+  },
+  "13225": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-603"
+  },
+  "13226": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Cruise Missiles CM-603"
+  },
+  "13227": {
+    "slot": 8,
+    "name": "Zainou 'Snapshot' Defender Missiles DM-803"
+  },
+  "13228": {
+    "slot": 10,
+    "name": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1003"
+  },
+  "13229": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Missiles HM-703"
+  },
+  "13230": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Rockets RD-903"
+  },
+  "13231": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Torpedoes TD-603"
+  },
+  "13232": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Electronic Warfare EW-903"
+  },
+  "13233": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Long Range Targeting LT-803"
+  },
+  "13234": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Propulsion Jamming PJ-803"
+  },
+  "13235": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Sensor Linking SL-903"
+  },
+  "13236": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Weapon Disruption WD-903"
+  },
+  "13237": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Navigation NN-603"
+  },
+  "13238": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Rogue' Fuel Conservation FC-803"
+  },
+  "13239": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Afterburner AB-606"
+  },
+  "13240": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Rogue' Evasive Maneuvering EM-703"
+  },
+  "13241": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Operation WD-606"
+  },
+  "13242": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Speed WS-610"
+  },
+  "13243": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Rogue' High Speed Maneuvering HS-903"
+  },
+  "13244": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Gunslinger' Surgical Strike SS-903"
+  },
+  "13245": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Trajectory Analysis TA-703"
+  },
+  "13246": {
+    "slot": 7,
+    "name": "Inherent Implants 'Lancer' Controlled Bursts CB-703"
+  },
+  "13247": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Bombardment MB-703"
+  },
+  "13248": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Projection MP-703"
+  },
+  "13249": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Rapid Launch RL-1003"
+  },
+  "13250": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Target Navigation Prediction TN-903"
+  },
+  "13251": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Pulse Weapons EP-703"
+  },
+  "13252": {
+    "slot": 10,
+    "name": "Zainou 'Gnome' Weapon Upgrades WU-1003"
+  },
+  "13253": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Shield Upgrades SU-603"
+  },
+  "13254": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' Electronics Upgrades EU-603"
+  },
+  "13255": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Grid Upgrades EU-703"
+  },
+  "13256": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1003"
+  },
+  "13257": {
+    "slot": 8,
+    "name": "Inherent Implants 'Noble' Mechanic MC-803"
+  },
+  "13258": {
+    "slot": 6,
+    "name": "Inherent Implants 'Noble' Repair Systems RS-603"
+  },
+  "13259": {
+    "slot": 8,
+    "name": "Inherent Implants 'Squire' Capacitor Management EM-803"
+  },
+  "13260": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Capacitor Systems Operation EO-603"
+  },
+  "13261": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Power Grid Management EG-603"
+  },
+  "13262": {
+    "slot": 8,
+    "name": "Zainou 'Gnome' Shield Emission Systems SE-803"
+  },
+  "13263": {
+    "slot": 9,
+    "name": "Zainou 'Gnome' Shield Operation SP-903"
+  },
+  "13265": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Capacitor Emission Systems ES-703"
+  },
+  "13283": {
+    "slot": 1,
+    "name": "Limited Ocular Filter"
+  },
+  "13284": {
+    "slot": 2,
+    "name": "Limited Memory Augmentation"
+  },
+  "13285": {
+    "slot": 3,
+    "name": "Limited Neural Boost"
+  },
+  "13286": {
+    "slot": 5,
+    "name": "Limited Social Adaptation Chip"
+  },
+  "13287": {
+    "slot": 4,
+    "name": "Limited Cybernetic Subprocessor"
+  },
+  "14295": {
+    "slot": 1,
+    "name": "Limited Ocular Filter - Beta"
+  },
+  "14296": {
+    "slot": 3,
+    "name": "Limited Neural Boost - Beta"
+  },
+  "14297": {
+    "slot": 2,
+    "name": "Limited Memory Augmentation - Beta"
+  },
+  "14298": {
+    "slot": 4,
+    "name": "Limited Cybernetic Subprocessor - Beta"
+  },
+  "14299": {
+    "slot": 5,
+    "name": "Limited Social Adaptation Chip - Beta"
+  },
+  "16003": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Navigation NN-605"
+  },
+  "16004": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Rogue' Evasive Maneuvering EM-705"
+  },
+  "16005": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Rogue' Fuel Conservation FC-805"
+  },
+  "16006": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Rogue' High Speed Maneuvering HS-905"
+  },
+  "16008": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Acceleration Control AC-603"
+  },
+  "16009": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Acceleration Control AC-605"
+  },
+  "16245": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Shield Upgrades SU-605"
+  },
+  "16246": {
+    "slot": 7,
+    "name": "Zainou 'Gnome' Shield Management SM-705"
+  },
+  "16247": {
+    "slot": 8,
+    "name": "Zainou 'Gnome' Shield Emission Systems SE-805"
+  },
+  "16248": {
+    "slot": 9,
+    "name": "Zainou 'Gnome' Shield Operation SP-905"
+  },
+  "16249": {
+    "slot": 10,
+    "name": "Zainou 'Gnome' Weapon Upgrades WU-1005"
+  },
+  "17871": {
+    "slot": 7,
+    "name": "Inherent Implants 'Noble' Remote Armor Repair Systems RA-703"
+  },
+  "19500": {
+    "slot": 7,
+    "name": "Zor's Custom Navigation Link"
+  },
+  "19534": {
+    "slot": 1,
+    "name": "High-grade Talisman Alpha"
+  },
+  "19535": {
+    "slot": 2,
+    "name": "High-grade Talisman Beta"
+  },
+  "19536": {
+    "slot": 3,
+    "name": "High-grade Talisman Gamma"
+  },
+  "19537": {
+    "slot": 4,
+    "name": "High-grade Talisman Delta"
+  },
+  "19538": {
+    "slot": 5,
+    "name": "High-grade Talisman Epsilon"
+  },
+  "19539": {
+    "slot": 6,
+    "name": "High-grade Talisman Omega"
+  },
+  "19540": {
+    "slot": 1,
+    "name": "High-grade Snake Alpha"
+  },
+  "19547": {
+    "slot": 6,
+    "name": "Inherent Implants 'Noble' Repair Systems RS-605"
+  },
+  "19548": {
+    "slot": 7,
+    "name": "Inherent Implants 'Noble' Remote Armor Repair Systems RA-705"
+  },
+  "19549": {
+    "slot": 8,
+    "name": "Inherent Implants 'Noble' Mechanic MC-805"
+  },
+  "19550": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1005"
+  },
+  "19551": {
+    "slot": 2,
+    "name": "High-grade Snake Beta"
+  },
+  "19553": {
+    "slot": 3,
+    "name": "High-grade Snake Gamma"
+  },
+  "19554": {
+    "slot": 4,
+    "name": "High-grade Snake Delta"
+  },
+  "19555": {
+    "slot": 5,
+    "name": "High-grade Snake Epsilon"
+  },
+  "19556": {
+    "slot": 6,
+    "name": "High-grade Snake Omega"
+  },
+  "19684": {
+    "slot": 9,
+    "name": "Inherent Implants 'Noble' Repair Proficiency RP-903"
+  },
+  "19685": {
+    "slot": 9,
+    "name": "Inherent Implants 'Noble' Repair Proficiency RP-905"
+  },
+  "19686": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Gunslinger' Motion Prediction MR-705"
+  },
+  "19687": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Gunslinger' Surgical Strike SS-905"
+  },
+  "19688": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1005"
+  },
+  "19689": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-805"
+  },
+  "19690": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-605"
+  },
+  "19691": {
+    "slot": 6,
+    "name": "Inherent Implants 'Lancer' Small Energy Turret SE-605"
+  },
+  "19692": {
+    "slot": 7,
+    "name": "Inherent Implants 'Lancer' Controlled Bursts CB-705"
+  },
+  "19693": {
+    "slot": 9,
+    "name": "Inherent Implants 'Lancer' Gunnery RF-905"
+  },
+  "19694": {
+    "slot": 10,
+    "name": "Inherent Implants 'Lancer' Large Energy Turret LE-1005"
+  },
+  "19695": {
+    "slot": 8,
+    "name": "Inherent Implants 'Lancer' Medium Energy Turret ME-805"
+  },
+  "19696": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Sharpshooter ST-905"
+  },
+  "19697": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Trajectory Analysis TA-705"
+  },
+  "19698": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Large Hybrid Turret LH-1005"
+  },
+  "19699": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Medium Hybrid Turret MH-805"
+  },
+  "19700": {
+    "slot": 6,
+    "name": "Zainou 'Deadeye' Small Hybrid Turret SH-605"
+  },
+  "20121": {
+    "slot": 1,
+    "name": "High-grade Crystal Alpha"
+  },
+  "20157": {
+    "slot": 2,
+    "name": "High-grade Crystal Beta"
+  },
+  "20158": {
+    "slot": 3,
+    "name": "High-grade Crystal Gamma"
+  },
+  "20159": {
+    "slot": 4,
+    "name": "High-grade Crystal Delta"
+  },
+  "20160": {
+    "slot": 5,
+    "name": "High-grade Crystal Epsilon"
+  },
+  "20161": {
+    "slot": 6,
+    "name": "High-grade Crystal Omega"
+  },
+  "20358": {
+    "slot": 6,
+    "name": "Numon Family Heirloom"
+  },
+  "20371": {
+    "slot": 10,
+    "name": "Whelan Machorin's Ballistic Smartlink"
+  },
+  "20443": {
+    "slot": 7,
+    "name": "Ogdin's Eye Coordination Enhancer"
+  },
+  "20498": {
+    "slot": 1,
+    "name": "High-grade Halo Alpha"
+  },
+  "20499": {
+    "slot": 1,
+    "name": "High-grade Amulet Alpha"
+  },
+  "20500": {
+    "slot": 2,
+    "name": "High-grade Halo Beta"
+  },
+  "20501": {
+    "slot": 2,
+    "name": "High-grade Amulet Beta"
+  },
+  "20502": {
+    "slot": 4,
+    "name": "High-grade Halo Delta"
+  },
+  "20503": {
+    "slot": 4,
+    "name": "High-grade Amulet Delta"
+  },
+  "20504": {
+    "slot": 5,
+    "name": "High-grade Halo Epsilon"
+  },
+  "20505": {
+    "slot": 5,
+    "name": "High-grade Amulet Epsilon"
+  },
+  "20506": {
+    "slot": 3,
+    "name": "High-grade Halo Gamma"
+  },
+  "20507": {
+    "slot": 3,
+    "name": "High-grade Amulet Gamma"
+  },
+  "20508": {
+    "slot": 6,
+    "name": "High-grade Halo Omega"
+  },
+  "20509": {
+    "slot": 6,
+    "name": "High-grade Amulet Omega"
+  },
+  "20700": {
+    "slot": 7,
+    "name": "Michi's Excavation Augmentor"
+  },
+  "21606": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1008"
+  },
+  "21888": {
+    "slot": 10,
+    "name": "Shield Command Mindlink"
+  },
+  "21889": {
+    "slot": 10,
+    "name": "Information Command Mindlink"
+  },
+  "21890": {
+    "slot": 10,
+    "name": "Skirmish Command Mindlink"
+  },
+  "22107": {
+    "slot": 1,
+    "name": "Mid-grade Crystal Alpha"
+  },
+  "22108": {
+    "slot": 2,
+    "name": "Mid-grade Crystal Beta"
+  },
+  "22109": {
+    "slot": 4,
+    "name": "Mid-grade Crystal Delta"
+  },
+  "22110": {
+    "slot": 5,
+    "name": "Mid-grade Crystal Epsilon"
+  },
+  "22111": {
+    "slot": 3,
+    "name": "Mid-grade Crystal Gamma"
+  },
+  "22112": {
+    "slot": 6,
+    "name": "Mid-grade Crystal Omega"
+  },
+  "22113": {
+    "slot": 1,
+    "name": "Mid-grade Halo Alpha"
+  },
+  "22114": {
+    "slot": 2,
+    "name": "Mid-grade Halo Beta"
+  },
+  "22115": {
+    "slot": 4,
+    "name": "Mid-grade Halo Delta"
+  },
+  "22116": {
+    "slot": 5,
+    "name": "Mid-grade Halo Epsilon"
+  },
+  "22117": {
+    "slot": 3,
+    "name": "Mid-grade Halo Gamma"
+  },
+  "22118": {
+    "slot": 6,
+    "name": "Mid-grade Halo Omega"
+  },
+  "22119": {
+    "slot": 1,
+    "name": "Mid-grade Amulet Alpha"
+  },
+  "22120": {
+    "slot": 2,
+    "name": "Mid-grade Amulet Beta"
+  },
+  "22121": {
+    "slot": 4,
+    "name": "Mid-grade Amulet Delta"
+  },
+  "22122": {
+    "slot": 5,
+    "name": "Mid-grade Amulet Epsilon"
+  },
+  "22123": {
+    "slot": 3,
+    "name": "Mid-grade Amulet Gamma"
+  },
+  "22124": {
+    "slot": 6,
+    "name": "Mid-grade Amulet Omega"
+  },
+  "22125": {
+    "slot": 1,
+    "name": "Mid-grade Snake Alpha"
+  },
+  "22126": {
+    "slot": 2,
+    "name": "Mid-grade Snake Beta"
+  },
+  "22127": {
+    "slot": 4,
+    "name": "Mid-grade Snake Delta"
+  },
+  "22128": {
+    "slot": 5,
+    "name": "Mid-grade Snake Epsilon"
+  },
+  "22129": {
+    "slot": 3,
+    "name": "Mid-grade Snake Gamma"
+  },
+  "22130": {
+    "slot": 6,
+    "name": "Mid-grade Snake Omega"
+  },
+  "22131": {
+    "slot": 1,
+    "name": "Mid-grade Talisman Alpha"
+  },
+  "22133": {
+    "slot": 2,
+    "name": "Mid-grade Talisman Beta"
+  },
+  "22134": {
+    "slot": 4,
+    "name": "Mid-grade Talisman Delta"
+  },
+  "22135": {
+    "slot": 5,
+    "name": "Mid-grade Talisman Epsilon"
+  },
+  "22136": {
+    "slot": 3,
+    "name": "Mid-grade Talisman Gamma"
+  },
+  "22137": {
+    "slot": 6,
+    "name": "Mid-grade Talisman Omega"
+  },
+  "22534": {
+    "slot": 10,
+    "name": "Inherent Implants 'Highwall' Mining MX-1003"
+  },
+  "22535": {
+    "slot": 10,
+    "name": "Inherent Implants 'Highwall' Mining MX-1005"
+  },
+  "22559": {
+    "slot": 10,
+    "name": "Mining Foreman Mindlink"
+  },
+  "22570": {
+    "slot": 10,
+    "name": "Inherent Implants 'Yeti' Ice Harvesting IH-1003"
+  },
+  "22571": {
+    "slot": 10,
+    "name": "Inherent Implants 'Yeti' Ice Harvesting IH-1005"
+  },
+  "22715": {
+    "slot": 3,
+    "name": "Republic Special Ops Field Enhancer - Gamma"
+  },
+  "22760": {
+    "slot": 1,
+    "name": "Imperial Special Ops Field Enhancer - Standard"
+  },
+  "24632": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Guided Missile Precision GP-803"
+  },
+  "24636": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Bombardment MB-705"
+  },
+  "24637": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Projection MP-705"
+  },
+  "24638": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Rapid Launch RL-1005"
+  },
+  "24639": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Target Navigation Prediction TN-905"
+  },
+  "24640": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Guided Missile Precision GP-805"
+  },
+  "24641": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Launcher CPU Efficiency LE-603"
+  },
+  "24642": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Launcher CPU Efficiency LE-605"
+  },
+  "24663": {
+    "slot": 8,
+    "name": "Zor's Custom Navigation Hyper-Link"
+  },
+  "24669": {
+    "slot": 6,
+    "name": "Shaqil's Speed Enhancer"
+  },
+  "25545": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Alchemist' Neurotoxin Control NC-903"
+  },
+  "25546": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Alchemist' Neurotoxin Control NC-905"
+  },
+  "25547": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Alchemist' Neurotoxin Recovery NR-1003"
+  },
+  "25548": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Alchemist' Neurotoxin Recovery NR-1005"
+  },
+  "25867": {
+    "slot": 10,
+    "name": "Pashan's Turret Handling Mindlink"
+  },
+  "25868": {
+    "slot": 9,
+    "name": "Pashan's Turret Customization Mindlink"
+  },
+  "27070": {
+    "slot": 6,
+    "name": "Inherent Implants 'Noble' Repair Systems RS-601"
+  },
+  "27071": {
+    "slot": 7,
+    "name": "Inherent Implants 'Noble' Remote Armor Repair Systems RA-701"
+  },
+  "27072": {
+    "slot": 8,
+    "name": "Inherent Implants 'Noble' Mechanic MC-801"
+  },
+  "27073": {
+    "slot": 9,
+    "name": "Inherent Implants 'Noble' Repair Proficiency RP-901"
+  },
+  "27074": {
+    "slot": 10,
+    "name": "Inherent Implants 'Noble' Hull Upgrades HG-1001"
+  },
+  "27075": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Gunslinger' Motion Prediction MR-701"
+  },
+  "27076": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Sharpshooter ST-901"
+  },
+  "27077": {
+    "slot": 9,
+    "name": "Inherent Implants 'Lancer' Gunnery RF-901"
+  },
+  "27078": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Trajectory Analysis TA-701"
+  },
+  "27079": {
+    "slot": 7,
+    "name": "Inherent Implants 'Lancer' Controlled Bursts CB-701"
+  },
+  "27080": {
+    "slot": 10,
+    "name": "Zainou 'Gnome' Weapon Upgrades WU-1001"
+  },
+  "27081": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Gunslinger' Surgical Strike SS-901"
+  },
+  "27082": {
+    "slot": 6,
+    "name": "Inherent Implants 'Lancer' Small Energy Turret SE-601"
+  },
+  "27083": {
+    "slot": 6,
+    "name": "Zainou 'Deadeye' Small Hybrid Turret SH-601"
+  },
+  "27084": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-601"
+  },
+  "27085": {
+    "slot": 8,
+    "name": "Inherent Implants 'Lancer' Medium Energy Turret ME-801"
+  },
+  "27086": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Medium Hybrid Turret MH-801"
+  },
+  "27087": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-801"
+  },
+  "27088": {
+    "slot": 10,
+    "name": "Inherent Implants 'Lancer' Large Energy Turret LE-1001"
+  },
+  "27089": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Large Hybrid Turret LH-1001"
+  },
+  "27090": {
+    "slot": 10,
+    "name": "Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1001"
+  },
+  "27091": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Launcher CPU Efficiency LE-601"
+  },
+  "27092": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Bombardment MB-701"
+  },
+  "27093": {
+    "slot": 7,
+    "name": "Zainou 'Deadeye' Missile Projection MP-701"
+  },
+  "27094": {
+    "slot": 8,
+    "name": "Zainou 'Deadeye' Guided Missile Precision GP-801"
+  },
+  "27095": {
+    "slot": 9,
+    "name": "Zainou 'Deadeye' Target Navigation Prediction TN-901"
+  },
+  "27096": {
+    "slot": 10,
+    "name": "Zainou 'Deadeye' Rapid Launch RL-1001"
+  },
+  "27097": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Navigation NN-601"
+  },
+  "27098": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Rogue' Fuel Conservation FC-801"
+  },
+  "27099": {
+    "slot": 7,
+    "name": "Eifyr and Co. 'Rogue' Evasive Maneuvering EM-701"
+  },
+  "27100": {
+    "slot": 9,
+    "name": "Eifyr and Co. 'Rogue' High Speed Maneuvering HS-901"
+  },
+  "27101": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Acceleration Control AC-601"
+  },
+  "27102": {
+    "slot": 10,
+    "name": "Inherent Implants 'Highwall' Mining MX-1001"
+  },
+  "27103": {
+    "slot": 10,
+    "name": "Inherent Implants 'Yeti' Ice Harvesting IH-1001"
+  },
+  "27104": {
+    "slot": 6,
+    "name": "Zainou 'Gnome' Shield Upgrades SU-601"
+  },
+  "27105": {
+    "slot": 7,
+    "name": "Zainou 'Gnome' Shield Management SM-701"
+  },
+  "27106": {
+    "slot": 8,
+    "name": "Zainou 'Gnome' Shield Emission Systems SE-801"
+  },
+  "27107": {
+    "slot": 9,
+    "name": "Zainou 'Gnome' Shield Operation SP-901"
+  },
+  "27108": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Light Missiles LM-903"
+  },
+  "27109": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Assault Missiles AM-703"
+  },
+  "27110": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Afterburner AB-610"
+  },
+  "27111": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Afterburner AB-602"
+  },
+  "27112": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Operation WD-610"
+  },
+  "27113": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Operation WD-602"
+  },
+  "27114": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Speed WS-615"
+  },
+  "27115": {
+    "slot": 6,
+    "name": "Eifyr and Co. 'Rogue' Warp Drive Speed WS-605"
+  },
+  "27116": {
+    "slot": 8,
+    "name": "Inherent Implants 'Squire' Capacitor Management EM-805"
+  },
+  "27117": {
+    "slot": 8,
+    "name": "Inherent Implants 'Squire' Capacitor Management EM-801"
+  },
+  "27118": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Capacitor Systems Operation EO-605"
+  },
+  "27119": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Capacitor Systems Operation EO-601"
+  },
+  "27120": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Capacitor Emission Systems ES-701"
+  },
+  "27121": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Capacitor Emission Systems ES-705"
+  },
+  "27122": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Pulse Weapons EP-705"
+  },
+  "27123": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Pulse Weapons EP-701"
+  },
+  "27124": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Grid Upgrades EU-705"
+  },
+  "27125": {
+    "slot": 7,
+    "name": "Inherent Implants 'Squire' Energy Grid Upgrades EU-701"
+  },
+  "27126": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Power Grid Management EG-605"
+  },
+  "27127": {
+    "slot": 6,
+    "name": "Inherent Implants 'Squire' Power Grid Management EG-601"
+  },
+  "27128": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' Electronics Upgrades EU-605"
+  },
+  "27129": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' Electronics Upgrades EU-601"
+  },
+  "27130": {
+    "slot": 7,
+    "name": "Zainou 'Gypsy' Signature Analysis SA-705"
+  },
+  "27131": {
+    "slot": 7,
+    "name": "Zainou 'Gypsy' Signature Analysis SA-701"
+  },
+  "27142": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' CPU Management EE-605"
+  },
+  "27143": {
+    "slot": 6,
+    "name": "Zainou 'Gypsy' CPU Management EE-601"
+  },
+  "27147": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Alchemist' Biology BY-805"
+  },
+  "27148": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Alchemist' Biology BY-810"
+  },
+  "27149": {
+    "slot": 10,
+    "name": "Inherent Implants 'Highwall' Mining Upgrades MU-1003"
+  },
+  "27150": {
+    "slot": 10,
+    "name": "Inherent Implants 'Highwall' Mining Upgrades MU-1005"
+  },
+  "27151": {
+    "slot": 10,
+    "name": "Inherent Implants 'Highwall' Mining Upgrades MU-1001"
+  },
+  "27152": {
+    "slot": 6,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-1"
+  },
+  "27153": {
+    "slot": 7,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPB-1"
+  },
+  "27154": {
+    "slot": 8,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPC-1"
+  },
+  "27155": {
+    "slot": 9,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPD-1"
+  },
+  "27156": {
+    "slot": 10,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPE-1"
+  },
+  "27157": {
+    "slot": 6,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-0"
+  },
+  "27158": {
+    "slot": 6,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-2"
+  },
+  "27159": {
+    "slot": 7,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPB-2"
+  },
+  "27160": {
+    "slot": 7,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPB-0"
+  },
+  "27161": {
+    "slot": 8,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPC-2"
+  },
+  "27162": {
+    "slot": 8,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPC-0"
+  },
+  "27163": {
+    "slot": 9,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPD-2"
+  },
+  "27164": {
+    "slot": 9,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPD-0"
+  },
+  "27165": {
+    "slot": 10,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPE-2"
+  },
+  "27166": {
+    "slot": 10,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPE-0"
+  },
+  "27167": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Industry BX-802"
+  },
+  "27169": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Reprocessing RX-802"
+  },
+  "27170": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Industry BX-801"
+  },
+  "27171": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Industry BX-804"
+  },
+  "27174": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Reprocessing RX-804"
+  },
+  "27175": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Reprocessing RX-801"
+  },
+  "27176": {
+    "slot": 7,
+    "name": "Zainou 'Beancounter' Metallurgy MY-703"
+  },
+  "27177": {
+    "slot": 6,
+    "name": "Zainou 'Beancounter' Research RR-603"
+  },
+  "27178": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Science SC-803"
+  },
+  "27179": {
+    "slot": 6,
+    "name": "Zainou 'Beancounter' Research RR-605"
+  },
+  "27180": {
+    "slot": 6,
+    "name": "Zainou 'Beancounter' Research RR-601"
+  },
+  "27181": {
+    "slot": 7,
+    "name": "Zainou 'Beancounter' Metallurgy MY-705"
+  },
+  "27182": {
+    "slot": 7,
+    "name": "Zainou 'Beancounter' Metallurgy MY-701"
+  },
+  "27184": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Science SC-805"
+  },
+  "27185": {
+    "slot": 8,
+    "name": "Zainou 'Beancounter' Science SC-801"
+  },
+  "27186": {
+    "slot": 6,
+    "name": "Poteque 'Prospector' Astrometric Pinpointing AP-606"
+  },
+  "27187": {
+    "slot": 7,
+    "name": "Poteque 'Prospector' Astrometric Acquisition AQ-706"
+  },
+  "27188": {
+    "slot": 8,
+    "name": "Poteque 'Prospector' Astrometric Rangefinding AR-806"
+  },
+  "27190": {
+    "slot": 6,
+    "name": "Poteque 'Prospector' Astrometric Pinpointing AP-610"
+  },
+  "27191": {
+    "slot": 6,
+    "name": "Poteque 'Prospector' Astrometric Pinpointing AP-602"
+  },
+  "27192": {
+    "slot": 7,
+    "name": "Poteque 'Prospector' Astrometric Acquisition AQ-710"
+  },
+  "27193": {
+    "slot": 7,
+    "name": "Poteque 'Prospector' Astrometric Acquisition AQ-702"
+  },
+  "27194": {
+    "slot": 8,
+    "name": "Poteque 'Prospector' Astrometric Rangefinding AR-810"
+  },
+  "27195": {
+    "slot": 8,
+    "name": "Poteque 'Prospector' Astrometric Rangefinding AR-802"
+  },
+  "27196": {
+    "slot": 9,
+    "name": "Poteque 'Prospector' Archaeology AC-905"
+  },
+  "27197": {
+    "slot": 9,
+    "name": "Poteque 'Prospector' Hacking HC-905"
+  },
+  "27198": {
+    "slot": 9,
+    "name": "Poteque 'Prospector' Salvaging SV-905"
+  },
+  "27204": {
+    "slot": 6,
+    "name": "Hardwiring - Zainou 'Sharpshooter' ZMX100"
+  },
+  "27205": {
+    "slot": 6,
+    "name": "Hardwiring - Zainou 'Sharpshooter' ZMX1000"
+  },
+  "27206": {
+    "slot": 6,
+    "name": "Hardwiring - Zainou 'Sharpshooter' ZMX10"
+  },
+  "27223": {
+    "slot": 7,
+    "name": "Inherent Implants 'Sergeant' XE4"
+  },
+  "27224": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Target Painting TG-903"
+  },
+  "27225": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Electronic Warfare EW-905"
+  },
+  "27226": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Electronic Warfare EW-901"
+  },
+  "27227": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Long Range Targeting LT-805"
+  },
+  "27229": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Long Range Targeting LT-801"
+  },
+  "27230": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Propulsion Jamming PJ-805"
+  },
+  "27231": {
+    "slot": 8,
+    "name": "Zainou 'Gypsy' Propulsion Jamming PJ-801"
+  },
+  "27232": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Sensor Linking SL-905"
+  },
+  "27233": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Sensor Linking SL-901"
+  },
+  "27234": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Weapon Disruption WD-905"
+  },
+  "27235": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Weapon Disruption WD-901"
+  },
+  "27236": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Target Painting TG-905"
+  },
+  "27237": {
+    "slot": 9,
+    "name": "Zainou 'Gypsy' Target Painting TG-901"
+  },
+  "27238": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Alchemist' Gas Harvesting GH-803"
+  },
+  "27239": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Alchemist' Gas Harvesting GH-805"
+  },
+  "27240": {
+    "slot": 8,
+    "name": "Eifyr and Co. 'Alchemist' Gas Harvesting GH-801"
+  },
+  "27243": {
+    "slot": 8,
+    "name": "Zainou 'Snapshot' Defender Missiles DM-805"
+  },
+  "27244": {
+    "slot": 8,
+    "name": "Zainou 'Snapshot' Defender Missiles DM-801"
+  },
+  "27245": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Assault Missiles AM-705"
+  },
+  "27246": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Assault Missiles AM-701"
+  },
+  "27247": {
+    "slot": 10,
+    "name": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1005"
+  },
+  "27249": {
+    "slot": 10,
+    "name": "Zainou 'Snapshot' Auto-Targeting Explosion Radius FR-1001"
+  },
+  "27250": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Missiles HM-705"
+  },
+  "27251": {
+    "slot": 7,
+    "name": "Zainou 'Snapshot' Heavy Missiles HM-701"
+  },
+  "27252": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Light Missiles LM-905"
+  },
+  "27253": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Light Missiles LM-901"
+  },
+  "27254": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Rockets RD-905"
+  },
+  "27255": {
+    "slot": 9,
+    "name": "Zainou 'Snapshot' Rockets RD-901"
+  },
+  "27256": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Torpedoes TD-605"
+  },
+  "27257": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Torpedoes TD-601"
+  },
+  "27258": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Cruise Missiles CM-605"
+  },
+  "27259": {
+    "slot": 6,
+    "name": "Zainou 'Snapshot' Cruise Missiles CM-601"
+  },
+  "27260": {
+    "slot": 10,
+    "name": "Poteque 'Prospector' Environmental Analysis EY-1005"
+  },
+  "27264": {
+    "slot": 9,
+    "name": "Hardwiring - Zainou 'Beancounter' CI-1"
+  },
+  "27265": {
+    "slot": 9,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Draftsman' GI-1"
+  },
+  "27267": {
+    "slot": 9,
+    "name": "Hardwiring - Zainou 'Beancounter' CI-2"
+  },
+  "27268": {
+    "slot": 9,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Draftsman' GI-2"
+  },
+  "27269": {
+    "slot": 6,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPA-X"
+  },
+  "27270": {
+    "slot": 7,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPB-X"
+  },
+  "27271": {
+    "slot": 8,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPC-X"
+  },
+  "27272": {
+    "slot": 9,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPD-X"
+  },
+  "27273": {
+    "slot": 10,
+    "name": "Hardwiring - Poteque Pharmaceuticals 'Consul' PPE-X"
+  },
+  "28790": {
+    "slot": 1,
+    "name": "Mid-grade Centurion Alpha"
+  },
+  "28791": {
+    "slot": 2,
+    "name": "Mid-grade Centurion Beta"
+  },
+  "28792": {
+    "slot": 4,
+    "name": "Mid-grade Centurion Delta"
+  },
+  "28793": {
+    "slot": 5,
+    "name": "Mid-grade Centurion Epsilon"
+  },
+  "28794": {
+    "slot": 3,
+    "name": "Mid-grade Centurion Gamma"
+  },
+  "28795": {
+    "slot": 6,
+    "name": "Mid-grade Centurion Omega"
+  },
+  "28796": {
+    "slot": 1,
+    "name": "Mid-grade Nomad Alpha"
+  },
+  "28797": {
+    "slot": 2,
+    "name": "Mid-grade Nomad Beta"
+  },
+  "28798": {
+    "slot": 4,
+    "name": "Mid-grade Nomad Delta"
+  },
+  "28799": {
+    "slot": 5,
+    "name": "Mid-grade Nomad Epsilon"
+  },
+  "28800": {
+    "slot": 3,
+    "name": "Mid-grade Nomad Gamma"
+  },
+  "28801": {
+    "slot": 6,
+    "name": "Mid-grade Nomad Omega"
+  },
+  "28802": {
+    "slot": 1,
+    "name": "Mid-grade Harvest Alpha"
+  },
+  "28803": {
+    "slot": 2,
+    "name": "Mid-grade Harvest Beta"
+  },
+  "28804": {
+    "slot": 4,
+    "name": "Mid-grade Harvest Delta"
+  },
+  "28805": {
+    "slot": 5,
+    "name": "Mid-grade Harvest Epsilon"
+  },
+  "28806": {
+    "slot": 3,
+    "name": "Mid-grade Harvest Gamma"
+  },
+  "28807": {
+    "slot": 6,
+    "name": "Mid-grade Harvest Omega"
+  },
+  "28808": {
+    "slot": 1,
+    "name": "Mid-grade Virtue Alpha"
+  },
+  "28809": {
+    "slot": 2,
+    "name": "Mid-grade Virtue Beta"
+  },
+  "28810": {
+    "slot": 4,
+    "name": "Mid-grade Virtue Delta"
+  },
+  "28811": {
+    "slot": 5,
+    "name": "Mid-grade Virtue Epsilon"
+  },
+  "28812": {
+    "slot": 3,
+    "name": "Mid-grade Virtue Gamma"
+  },
+  "28813": {
+    "slot": 6,
+    "name": "Mid-grade Virtue Omega"
+  },
+  "28814": {
+    "slot": 1,
+    "name": "Mid-grade Edge Alpha"
+  },
+  "28815": {
+    "slot": 2,
+    "name": "Mid-grade Edge Beta"
+  },
+  "28816": {
+    "slot": 4,
+    "name": "Mid-grade Edge Delta"
+  },
+  "28817": {
+    "slot": 5,
+    "name": "Mid-grade Edge Epsilon"
+  },
+  "28818": {
+    "slot": 3,
+    "name": "Mid-grade Edge Gamma"
+  },
+  "28819": {
+    "slot": 6,
+    "name": "Mid-grade Edge Omega"
+  },
+  "31954": {
+    "slot": 1,
+    "name": "High-grade Grail Alpha"
+  },
+  "31955": {
+    "slot": 2,
+    "name": "High-grade Grail Beta"
+  },
+  "31956": {
+    "slot": 4,
+    "name": "High-grade Grail Delta"
+  },
+  "31957": {
+    "slot": 5,
+    "name": "High-grade Grail Epsilon"
+  },
+  "31958": {
+    "slot": 3,
+    "name": "High-grade Grail Gamma"
+  },
+  "31959": {
+    "slot": 6,
+    "name": "High-grade Grail Omega"
+  },
+  "31962": {
+    "slot": 1,
+    "name": "High-grade Talon Alpha"
+  },
+  "31963": {
+    "slot": 2,
+    "name": "High-grade Talon Beta"
+  },
+  "31964": {
+    "slot": 4,
+    "name": "High-grade Talon Delta"
+  },
+  "31965": {
+    "slot": 5,
+    "name": "High-grade Talon Epsilon"
+  },
+  "31966": {
+    "slot": 3,
+    "name": "High-grade Talon Gamma"
+  },
+  "31967": {
+    "slot": 6,
+    "name": "High-grade Talon Omega"
+  },
+  "31968": {
+    "slot": 1,
+    "name": "High-grade Spur Alpha"
+  },
+  "31969": {
+    "slot": 2,
+    "name": "High-grade Spur Beta"
+  },
+  "31970": {
+    "slot": 4,
+    "name": "High-grade Spur Delta"
+  },
+  "31971": {
+    "slot": 5,
+    "name": "High-grade Spur Epsilon"
+  },
+  "31972": {
+    "slot": 3,
+    "name": "High-grade Spur Gamma"
+  },
+  "31973": {
+    "slot": 6,
+    "name": "High-grade Spur Omega"
+  },
+  "31974": {
+    "slot": 1,
+    "name": "High-grade Jackal Alpha"
+  },
+  "31975": {
+    "slot": 2,
+    "name": "High-grade Jackal Beta"
+  },
+  "31976": {
+    "slot": 4,
+    "name": "High-grade Jackal Delta"
+  },
+  "31977": {
+    "slot": 5,
+    "name": "High-grade Jackal Epsilon"
+  },
+  "31978": {
+    "slot": 3,
+    "name": "High-grade Jackal Gamma"
+  },
+  "31979": {
+    "slot": 6,
+    "name": "High-grade Jackal Omega"
+  },
+  "32101": {
+    "slot": 1,
+    "name": "Low-grade Grail Alpha"
+  },
+  "32102": {
+    "slot": 2,
+    "name": "Low-grade Grail Beta"
+  },
+  "32103": {
+    "slot": 4,
+    "name": "Low-grade Grail Delta"
+  },
+  "32104": {
+    "slot": 5,
+    "name": "Low-grade Grail Epsilon"
+  },
+  "32105": {
+    "slot": 3,
+    "name": "Low-grade Grail Gamma"
+  },
+  "32107": {
+    "slot": 1,
+    "name": "Low-grade Spur Alpha"
+  },
+  "32108": {
+    "slot": 2,
+    "name": "Low-grade Spur Beta"
+  },
+  "32109": {
+    "slot": 4,
+    "name": "Low-grade Spur Delta"
+  },
+  "32110": {
+    "slot": 5,
+    "name": "Low-grade Spur Epsilon"
+  },
+  "32111": {
+    "slot": 3,
+    "name": "Low-grade Spur Gamma"
+  },
+  "32112": {
+    "slot": 1,
+    "name": "Low-grade Talon Alpha"
+  },
+  "32113": {
+    "slot": 2,
+    "name": "Low-grade Talon Beta"
+  },
+  "32114": {
+    "slot": 4,
+    "name": "Low-grade Talon Delta"
+  },
+  "32115": {
+    "slot": 5,
+    "name": "Low-grade Talon Epsilon"
+  },
+  "32116": {
+    "slot": 3,
+    "name": "Low-grade Talon Gamma"
+  },
+  "32117": {
+    "slot": 1,
+    "name": "Low-grade Jackal Alpha"
+  },
+  "32118": {
+    "slot": 2,
+    "name": "Low-grade Jackal Beta"
+  },
+  "32119": {
+    "slot": 4,
+    "name": "Low-grade Jackal Delta"
+  },
+  "32120": {
+    "slot": 5,
+    "name": "Low-grade Jackal Epsilon"
+  },
+  "32121": {
+    "slot": 3,
+    "name": "Low-grade Jackal Gamma"
+  },
+  "32122": {
+    "slot": 6,
+    "name": "Low-grade Grail Omega"
+  },
+  "32123": {
+    "slot": 6,
+    "name": "Low-grade Jackal Omega"
+  },
+  "32124": {
+    "slot": 6,
+    "name": "Low-grade Spur Omega"
+  },
+  "32125": {
+    "slot": 6,
+    "name": "Low-grade Talon Omega"
+  },
+  "32254": {
+    "slot": 10,
+    "name": "Imperial Navy Modified 'Noble' Implant"
+  },
+  "32255": {
+    "slot": 7,
+    "name": "Sansha Modified 'Gnome' Implant"
+  },
+  "33393": {
+    "slot": 3,
+    "name": "Genolution Core Augmentation CA-3"
+  },
+  "33394": {
+    "slot": 2,
+    "name": "Genolution Core Augmentation CA-4"
+  },
+  "33403": {
+    "slot": 10,
+    "name": "Imperial Navy Command Mindlink"
+  },
+  "33404": {
+    "slot": 10,
+    "name": "Federation Navy Command Mindlink"
+  },
+  "33405": {
+    "slot": 10,
+    "name": "Republic Fleet Command Mindlink"
+  },
+  "33406": {
+    "slot": 10,
+    "name": "Caldari Navy Command Mindlink"
+  },
+  "33516": {
+    "slot": 1,
+    "name": "High-grade Ascendancy Alpha"
+  },
+  "33525": {
+    "slot": 2,
+    "name": "High-grade Ascendancy Beta"
+  },
+  "33526": {
+    "slot": 4,
+    "name": "High-grade Ascendancy Delta"
+  },
+  "33527": {
+    "slot": 5,
+    "name": "High-grade Ascendancy Epsilon"
+  },
+  "33528": {
+    "slot": 3,
+    "name": "High-grade Ascendancy Gamma"
+  },
+  "33529": {
+    "slot": 6,
+    "name": "High-grade Ascendancy Omega"
+  },
+  "33555": {
+    "slot": 1,
+    "name": "Mid-grade Ascendancy Alpha"
+  },
+  "33557": {
+    "slot": 2,
+    "name": "Mid-grade Ascendancy Beta"
+  },
+  "33559": {
+    "slot": 4,
+    "name": "Mid-grade Ascendancy Delta"
+  },
+  "33561": {
+    "slot": 5,
+    "name": "Mid-grade Ascendancy Epsilon"
+  },
+  "33563": {
+    "slot": 3,
+    "name": "Mid-grade Ascendancy Gamma"
+  },
+  "33565": {
+    "slot": 6,
+    "name": "Mid-grade Ascendancy Omega"
+  },
+  "33807": {
+    "slot": 4,
+    "name": "Cybernetic 'Source' Subprocessor"
+  },
+  "33808": {
+    "slot": 3,
+    "name": "Neural 'Source' Boost"
+  },
+  "33917": {
+    "slot": 1,
+    "name": "Low-grade Centurion Alpha"
+  },
+  "33918": {
+    "slot": 2,
+    "name": "Low-grade Centurion Beta"
+  },
+  "33919": {
+    "slot": 4,
+    "name": "Low-grade Centurion Delta"
+  },
+  "33920": {
+    "slot": 5,
+    "name": "Low-grade Centurion Epsilon"
+  },
+  "33921": {
+    "slot": 3,
+    "name": "Low-grade Centurion Gamma"
+  },
+  "33922": {
+    "slot": 6,
+    "name": "Low-grade Centurion Omega"
+  },
+  "33923": {
+    "slot": 1,
+    "name": "Low-grade Crystal Alpha"
+  },
+  "33924": {
+    "slot": 2,
+    "name": "Low-grade Crystal Beta"
+  },
+  "33925": {
+    "slot": 4,
+    "name": "Low-grade Crystal Delta"
+  },
+  "33926": {
+    "slot": 5,
+    "name": "Low-grade Crystal Epsilon"
+  },
+  "33927": {
+    "slot": 3,
+    "name": "Low-grade Crystal Gamma"
+  },
+  "33928": {
+    "slot": 6,
+    "name": "Low-grade Crystal Omega"
+  },
+  "33929": {
+    "slot": 1,
+    "name": "Low-grade Edge Alpha"
+  },
+  "33930": {
+    "slot": 2,
+    "name": "Low-grade Edge Beta"
+  },
+  "33931": {
+    "slot": 4,
+    "name": "Low-grade Edge Delta"
+  },
+  "33932": {
+    "slot": 5,
+    "name": "Low-grade Edge Epsilon"
+  },
+  "33933": {
+    "slot": 3,
+    "name": "Low-grade Edge Gamma"
+  },
+  "33934": {
+    "slot": 6,
+    "name": "Low-grade Edge Omega"
+  },
+  "33935": {
+    "slot": 1,
+    "name": "Low-grade Halo Alpha"
+  },
+  "33936": {
+    "slot": 2,
+    "name": "Low-grade Halo Beta"
+  },
+  "33937": {
+    "slot": 4,
+    "name": "Low-grade Halo Delta"
+  },
+  "33938": {
+    "slot": 5,
+    "name": "Low-grade Halo Epsilon"
+  },
+  "33939": {
+    "slot": 3,
+    "name": "Low-grade Halo Gamma"
+  },
+  "33940": {
+    "slot": 6,
+    "name": "Low-grade Halo Omega"
+  },
+  "33941": {
+    "slot": 1,
+    "name": "Low-grade Harvest Alpha"
+  },
+  "33942": {
+    "slot": 2,
+    "name": "Low-grade Harvest Beta"
+  },
+  "33943": {
+    "slot": 4,
+    "name": "Low-grade Harvest Delta"
+  },
+  "33944": {
+    "slot": 5,
+    "name": "Low-grade Harvest Epsilon"
+  },
+  "33945": {
+    "slot": 3,
+    "name": "Low-grade Harvest Gamma"
+  },
+  "33946": {
+    "slot": 6,
+    "name": "Low-grade Harvest Omega"
+  },
+  "33947": {
+    "slot": 1,
+    "name": "Low-grade Nomad Alpha"
+  },
+  "33948": {
+    "slot": 2,
+    "name": "Low-grade Nomad Beta"
+  },
+  "33949": {
+    "slot": 4,
+    "name": "Low-grade Nomad Delta"
+  },
+  "33950": {
+    "slot": 5,
+    "name": "Low-grade Nomad Epsilon"
+  },
+  "33951": {
+    "slot": 3,
+    "name": "Low-grade Nomad Gamma"
+  },
+  "33952": {
+    "slot": 6,
+    "name": "Low-grade Nomad Omega"
+  },
+  "33953": {
+    "slot": 1,
+    "name": "Low-grade Amulet Alpha"
+  },
+  "33954": {
+    "slot": 2,
+    "name": "Low-grade Amulet Beta"
+  },
+  "33955": {
+    "slot": 4,
+    "name": "Low-grade Amulet Delta"
+  },
+  "33956": {
+    "slot": 5,
+    "name": "Low-grade Amulet Epsilon"
+  },
+  "33957": {
+    "slot": 3,
+    "name": "Low-grade Amulet Gamma"
+  },
+  "33958": {
+    "slot": 6,
+    "name": "Low-grade Amulet Omega"
+  },
+  "33959": {
+    "slot": 1,
+    "name": "Low-grade Snake Alpha"
+  },
+  "33960": {
+    "slot": 2,
+    "name": "Low-grade Snake Beta"
+  },
+  "33961": {
+    "slot": 4,
+    "name": "Low-grade Snake Delta"
+  },
+  "33962": {
+    "slot": 5,
+    "name": "Low-grade Snake Epsilon"
+  },
+  "33963": {
+    "slot": 3,
+    "name": "Low-grade Snake Gamma"
+  },
+  "33964": {
+    "slot": 6,
+    "name": "Low-grade Snake Omega"
+  },
+  "33965": {
+    "slot": 1,
+    "name": "Low-grade Talisman Alpha"
+  },
+  "33966": {
+    "slot": 2,
+    "name": "Low-grade Talisman Beta"
+  },
+  "33967": {
+    "slot": 4,
+    "name": "Low-grade Talisman Delta"
+  },
+  "33968": {
+    "slot": 5,
+    "name": "Low-grade Talisman Epsilon"
+  },
+  "33969": {
+    "slot": 3,
+    "name": "Low-grade Talisman Gamma"
+  },
+  "33970": {
+    "slot": 6,
+    "name": "Low-grade Talisman Omega"
+  },
+  "33971": {
+    "slot": 1,
+    "name": "Low-grade Virtue Alpha"
+  },
+  "33972": {
+    "slot": 2,
+    "name": "Low-grade Virtue Beta"
+  },
+  "33973": {
+    "slot": 4,
+    "name": "Low-grade Virtue Delta"
+  },
+  "33974": {
+    "slot": 5,
+    "name": "Low-grade Virtue Epsilon"
+  },
+  "33975": {
+    "slot": 3,
+    "name": "Low-grade Virtue Gamma"
+  },
+  "33976": {
+    "slot": 6,
+    "name": "Low-grade Virtue Omega"
+  },
+  "42145": {
+    "slot": 1,
+    "name": "Low-grade Asklepian Alpha"
+  },
+  "42146": {
+    "slot": 2,
+    "name": "Low-grade Asklepian Beta"
+  },
+  "42200": {
+    "slot": 4,
+    "name": "Low-grade Asklepian Delta"
+  },
+  "42201": {
+    "slot": 5,
+    "name": "Low-grade Asklepian Epsilon"
+  },
+  "42202": {
+    "slot": 3,
+    "name": "Low-grade Asklepian Gamma"
+  },
+  "42203": {
+    "slot": 6,
+    "name": "Low-grade Asklepian Omega"
+  },
+  "42204": {
+    "slot": 1,
+    "name": "Mid-grade Asklepian Alpha"
+  },
+  "42205": {
+    "slot": 2,
+    "name": "Mid-grade Asklepian Beta"
+  },
+  "42206": {
+    "slot": 3,
+    "name": "Mid-grade Asklepian Gamma"
+  },
+  "42207": {
+    "slot": 4,
+    "name": "Mid-grade Asklepian Delta"
+  },
+  "42208": {
+    "slot": 5,
+    "name": "Mid-grade Asklepian Epsilon"
+  },
+  "42209": {
+    "slot": 6,
+    "name": "Mid-grade Asklepian Omega"
+  },
+  "42210": {
+    "slot": 1,
+    "name": "High-grade Asklepian Alpha"
+  },
+  "42211": {
+    "slot": 2,
+    "name": "High-grade Asklepian Beta"
+  },
+  "42212": {
+    "slot": 3,
+    "name": "High-grade Asklepian Gamma"
+  },
+  "42213": {
+    "slot": 4,
+    "name": "High-grade Asklepian Delta"
+  },
+  "42214": {
+    "slot": 5,
+    "name": "High-grade Asklepian Epsilon"
+  },
+  "42215": {
+    "slot": 6,
+    "name": "High-grade Asklepian Omega"
+  },
+  "43775": {
+    "slot": 10,
+    "name": "ORE Mining Director Mindlink"
+  },
+  "47028": {
+    "slot": 9,
+    "name": "Neural Lace 'Blackglass' Net Intrusion 920-40"
+  },
+  "47261": {
+    "slot": 8,
+    "name": "Inquest 'Eros' Stasis Webifier MR-803"
+  },
+  "47262": {
+    "slot": 8,
+    "name": "Inquest 'Eros' Stasis Webifier MR-805"
+  },
+  "47263": {
+    "slot": 8,
+    "name": "Inquest 'Eros' Stasis Webifier MR-807"
+  },
+  "48148": {
+    "slot": 9,
+    "name": "CreoDron 'Yellowjacket' Drone Tuner D5-10T"
+  },
+  "48149": {
+    "slot": 9,
+    "name": "CreoDron 'Bumblebee' Drone Tuner T10-5D"
+  },
+  "48746": {
+    "slot": 7,
+    "name": "Overmind 'Goliath' Drone Tuner T25-10S"
+  },
+  "48747": {
+    "slot": 7,
+    "name": "Overmind 'Hawkmoth' Drone Tuner S10-25T"
+  },
+  "50053": {
+    "slot": 8,
+    "name": "Inquest 'Hedone' Entanglement Optimizer WS-802"
+  },
+  "50066": {
+    "slot": 8,
+    "name": "Inquest 'Hedone' Entanglement Optimizer WS-803"
+  },
+  "50067": {
+    "slot": 8,
+    "name": "Inquest 'Hedone' Entanglement Optimizer WS-804"
+  },
+  "52674": {
+    "slot": 1,
+    "name": "Low-grade Mimesis Alpha"
+  },
+  "52679": {
+    "slot": 2,
+    "name": "Low-grade Mimesis Beta"
+  },
+  "52680": {
+    "slot": 3,
+    "name": "Low-grade Mimesis Gamma"
+  },
+  "52681": {
+    "slot": 4,
+    "name": "Low-grade Mimesis Delta"
+  },
+  "52682": {
+    "slot": 5,
+    "name": "Low-grade Mimesis Epsilon"
+  },
+  "52683": {
+    "slot": 6,
+    "name": "Low-grade Mimesis Omega"
+  },
+  "52785": {
+    "slot": 1,
+    "name": "Mid-grade Mimesis Alpha"
+  },
+  "52786": {
+    "slot": 2,
+    "name": "Mid-grade Mimesis Beta"
+  },
+  "52787": {
+    "slot": 3,
+    "name": "Mid-grade Mimesis Gamma"
+  },
+  "52788": {
+    "slot": 4,
+    "name": "Mid-grade Mimesis Delta"
+  },
+  "52789": {
+    "slot": 5,
+    "name": "Mid-grade Mimesis Epsilon"
+  },
+  "52790": {
+    "slot": 6,
+    "name": "Mid-grade Mimesis Omega"
+  },
+  "52917": {
+    "slot": 1,
+    "name": "High-grade Mimesis Alpha"
+  },
+  "52918": {
+    "slot": 2,
+    "name": "High-grade Mimesis Beta"
+  },
+  "52919": {
+    "slot": 4,
+    "name": "High-grade Mimesis Delta"
+  },
+  "52920": {
+    "slot": 5,
+    "name": "High-grade Mimesis Epsilon"
+  },
+  "52921": {
+    "slot": 3,
+    "name": "High-grade Mimesis Gamma"
+  },
+  "52922": {
+    "slot": 6,
+    "name": "High-grade Mimesis Omega"
+  },
+  "53704": {
+    "slot": 1,
+    "name": "Mid-grade Nirvana Alpha"
+  },
+  "53705": {
+    "slot": 2,
+    "name": "Mid-grade Nirvana Beta"
+  },
+  "53706": {
+    "slot": 4,
+    "name": "Mid-grade Nirvana Delta"
+  },
+  "53707": {
+    "slot": 5,
+    "name": "Mid-grade Nirvana Epsilon"
+  },
+  "53708": {
+    "slot": 3,
+    "name": "Mid-grade Nirvana Gamma"
+  },
+  "53709": {
+    "slot": 6,
+    "name": "Mid-grade Nirvana Omega"
+  },
+  "53710": {
+    "slot": 1,
+    "name": "High-grade Nirvana Alpha"
+  },
+  "53711": {
+    "slot": 2,
+    "name": "High-grade Nirvana Beta"
+  },
+  "53712": {
+    "slot": 4,
+    "name": "High-grade Nirvana Delta"
+  },
+  "53713": {
+    "slot": 5,
+    "name": "High-grade Nirvana Epsilon"
+  },
+  "53714": {
+    "slot": 6,
+    "name": "High-grade Nirvana Omega"
+  },
+  "53715": {
+    "slot": 3,
+    "name": "High-grade Nirvana Gamma"
+  },
+  "53839": {
+    "slot": 6,
+    "name": "Low-grade Nirvana Omega"
+  },
+  "53853": {
+    "slot": 1,
+    "name": "Low-grade Nirvana Alpha"
+  },
+  "53854": {
+    "slot": 2,
+    "name": "Low-grade Nirvana Beta"
+  },
+  "53855": {
+    "slot": 3,
+    "name": "Low-grade Nirvana Gamma"
+  },
+  "53856": {
+    "slot": 4,
+    "name": "Low-grade Nirvana Delta"
+  },
+  "53857": {
+    "slot": 5,
+    "name": "Low-grade Nirvana Epsilon"
+  },
+  "53890": {
+    "slot": 1,
+    "name": "High-grade Savior Alpha"
+  },
+  "53891": {
+    "slot": 2,
+    "name": "High-grade Savior Beta"
+  },
+  "53892": {
+    "slot": 3,
+    "name": "High-grade Savior Gamma"
+  },
+  "53893": {
+    "slot": 4,
+    "name": "High-grade Savior Delta"
+  },
+  "53894": {
+    "slot": 5,
+    "name": "High-grade Savior Epsilon"
+  },
+  "53895": {
+    "slot": 6,
+    "name": "High-grade Savior Omega"
+  },
+  "53896": {
+    "slot": 1,
+    "name": "Mid-grade Savior Alpha"
+  },
+  "53897": {
+    "slot": 2,
+    "name": "Mid-grade Savior Beta"
+  },
+  "53898": {
+    "slot": 3,
+    "name": "Mid-grade Savior Gamma"
+  },
+  "53899": {
+    "slot": 4,
+    "name": "Mid-grade Savior Delta"
+  },
+  "53900": {
+    "slot": 5,
+    "name": "Mid-grade Savior Epsilon"
+  },
+  "53901": {
+    "slot": 6,
+    "name": "Mid-grade Savior Omega"
+  },
+  "53902": {
+    "slot": 1,
+    "name": "Low-grade Savior Alpha"
+  },
+  "53903": {
+    "slot": 2,
+    "name": "Low-grade Savior Beta"
+  },
+  "53904": {
+    "slot": 3,
+    "name": "Low-grade Savior Gamma"
+  },
+  "53905": {
+    "slot": 4,
+    "name": "Low-grade Savior Delta"
+  },
+  "53906": {
+    "slot": 5,
+    "name": "Low-grade Savior Epsilon"
+  },
+  "53907": {
+    "slot": 6,
+    "name": "Low-grade Savior Omega"
+  },
+  "54392": {
+    "slot": 1,
+    "name": "High-grade Hydra Alpha"
+  },
+  "54393": {
+    "slot": 2,
+    "name": "High-grade Hydra Beta"
+  },
+  "54394": {
+    "slot": 3,
+    "name": "High-grade Hydra Gamma"
+  },
+  "54395": {
+    "slot": 4,
+    "name": "High-grade Hydra Delta"
+  },
+  "54396": {
+    "slot": 5,
+    "name": "High-grade Hydra Epsilon"
+  },
+  "54397": {
+    "slot": 6,
+    "name": "High-grade Hydra Omega"
+  },
+  "54398": {
+    "slot": 1,
+    "name": "Mid-grade Hydra Alpha"
+  },
+  "54399": {
+    "slot": 2,
+    "name": "Mid-grade Hydra Beta"
+  },
+  "54400": {
+    "slot": 3,
+    "name": "Mid-grade Hydra Gamma"
+  },
+  "54401": {
+    "slot": 4,
+    "name": "Mid-grade Hydra Delta"
+  },
+  "54402": {
+    "slot": 5,
+    "name": "Mid-grade Hydra Epsilon"
+  },
+  "54403": {
+    "slot": 6,
+    "name": "Mid-grade Hydra Omega"
+  },
+  "54404": {
+    "slot": 1,
+    "name": "Low-grade Hydra Alpha"
+  },
+  "54405": {
+    "slot": 2,
+    "name": "Low-grade Hydra Beta"
+  },
+  "54406": {
+    "slot": 3,
+    "name": "Low-grade Hydra Gamma"
+  },
+  "54407": {
+    "slot": 4,
+    "name": "Low-grade Hydra Delta"
+  },
+  "54408": {
+    "slot": 5,
+    "name": "Low-grade Hydra Epsilon"
+  },
+  "54409": {
+    "slot": 6,
+    "name": "Low-grade Hydra Omega"
+  },
+  "54534": {
+    "slot": 7,
+    "name": "Black Market 'Valdimar' Drone Navigation DN-701"
+  },
+  "54535": {
+    "slot": 7,
+    "name": "Black Market 'Valdimar' Drone Navigation DN-703"
+  },
+  "54536": {
+    "slot": 7,
+    "name": "Black Market 'Valdimar' Drone Navigation DN-705"
+  },
+  "54537": {
+    "slot": 8,
+    "name": "Black Market 'Valdimar' Drone Sharpshooting DS-801"
+  },
+  "54538": {
+    "slot": 8,
+    "name": "Black Market 'Valdimar' Drone Sharpshooting DS-803"
+  },
+  "54539": {
+    "slot": 8,
+    "name": "Black Market 'Valdimar' Drone Sharpshooting DS-805"
+  },
+  "54540": {
+    "slot": 9,
+    "name": "Black Market 'Valdimar' Repair Drone Operation DR-901"
+  },
+  "54541": {
+    "slot": 9,
+    "name": "Black Market 'Valdimar' Repair Drone Operation DR-903"
+  },
+  "54542": {
+    "slot": 9,
+    "name": "Black Market 'Valdimar' Repair Drone Operation DR-905"
+  },
+  "54543": {
+    "slot": 10,
+    "name": "Black Market 'Valdimar' Drone Durability DD-1001"
+  },
+  "54544": {
+    "slot": 10,
+    "name": "Black Market 'Valdimar' Drone Durability DD-1003"
+  },
+  "54545": {
+    "slot": 10,
+    "name": "Black Market 'Valdimar' Drone Durability DD-1005"
+  },
+  "57110": {
+    "slot": 1,
+    "name": "Low-grade Rapture Alpha"
+  },
+  "57111": {
+    "slot": 2,
+    "name": "Low-grade Rapture Beta"
+  },
+  "57112": {
+    "slot": 3,
+    "name": "Low-grade Rapture Gamma"
+  },
+  "57113": {
+    "slot": 4,
+    "name": "Low-grade Rapture Delta"
+  },
+  "57114": {
+    "slot": 5,
+    "name": "Low-grade Rapture Epsilon"
+  },
+  "57116": {
+    "slot": 6,
+    "name": "Low-grade Rapture Omega"
+  },
+  "57117": {
+    "slot": 1,
+    "name": "Mid-grade Rapture Alpha"
+  },
+  "57118": {
+    "slot": 2,
+    "name": "Mid-grade Rapture Beta"
+  },
+  "57119": {
+    "slot": 3,
+    "name": "Mid-grade Rapture Gamma"
+  },
+  "57120": {
+    "slot": 4,
+    "name": "Mid-grade Rapture Delta"
+  },
+  "57121": {
+    "slot": 5,
+    "name": "Mid-grade Rapture Epsilon"
+  },
+  "57122": {
+    "slot": 6,
+    "name": "Mid-grade Rapture Omega"
+  },
+  "57123": {
+    "slot": 1,
+    "name": "High-grade Rapture Alpha"
+  },
+  "57124": {
+    "slot": 2,
+    "name": "High-grade Rapture Beta"
+  },
+  "57125": {
+    "slot": 3,
+    "name": "High-grade Rapture Gamma"
+  },
+  "57126": {
+    "slot": 4,
+    "name": "High-grade Rapture Delta"
+  },
+  "57127": {
+    "slot": 5,
+    "name": "High-grade Rapture Epsilon"
+  },
+  "57128": {
+    "slot": 6,
+    "name": "High-grade Rapture Omega"
+  }
+}

@@ -198,7 +198,15 @@ const ATTR_MED_SLOTS = 13
 const ATTR_HI_SLOTS = 14
 const ATTR_RIG_SLOTS = 1137
 
-export const getShipAttributes = shipTypeID => {
+export const getShipAttributes = (shipTypeID, groupID) => {
+  // Capsules
+  if (groupID === 29) {
+    return {
+      lowSlots: 5,
+      hiSlots: 5,
+    }
+  }
+
   // const groupID = getGroupID(shipTypeID)
   // TODO: no slots for Category - 18:Drone - Excavators
   const shipAttr = shipAttributes[shipTypeID]?.dogmaAttributes
@@ -274,6 +282,10 @@ export const getFlagByID = flagID => {
   if (!flag) {
     console.error('Not found flagID:', flagID)
     return null
+  }
+  if (flagID === 89) {
+    // flag.flagName = 'Implants'
+    flag.flagText = 'Implants'
   }
 
   return flag
