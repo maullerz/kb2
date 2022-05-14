@@ -4,7 +4,6 @@ const esiPath = 'https://esi.evetech.net/latest'
 const src = 'datasource=tranquility'
 
 class IndustryService extends BaseAPI {
-
   getSomething() {
     const esiUrl = `${esiPath}/...`
     return this.call({
@@ -12,7 +11,6 @@ class IndustryService extends BaseAPI {
       url: esiUrl,
     })
   }
-
 }
 
 export default new IndustryService()

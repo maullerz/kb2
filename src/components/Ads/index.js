@@ -1,5 +1,6 @@
 /* eslint no-unused-vars: off */
 import React, { useEffect } from 'react'
+import { useMediaQuery } from '@react-hook/media-query'
 
 import { Container } from './styles'
 
@@ -18,7 +19,7 @@ const SLOTS = {
   // region: '4013883850',
 }
 
-const responsiveStyle = { display: 'inline-block' }
+const inlineBlock = { display: 'inline-block' }
 
 function getSlot(type) {
   return SLOTS[type] || LIST_SLOT
@@ -32,8 +33,7 @@ function getSlot(type) {
 }
 
 const Ads = ({ type }) => {
-  // when Ads Off
-  // return <div style={{ height: 10 }} />
+  const isMobile = useMediaQuery('(max-width: 500px)')
 
   const slot = getSlot(type)
   if (!slot) {
@@ -50,8 +50,23 @@ const Ads = ({ type }) => {
     return (
       <Container>
         <ins
-          style={responsiveStyle}
+          style={inlineBlock}
           className='background'
+        />
+      </Container>
+    )
+  }
+
+  if (isMobile) {
+    return (
+      <Container>
+        <ins
+          style={inlineBlock}
+          className='adsbygoogle'
+          data-ad-client='ca-pub-3299420347078208'
+          data-ad-slot={slot}
+          data-ad-format='auto'
+          data-full-width-responsive='true'
         />
       </Container>
     )
@@ -60,12 +75,10 @@ const Ads = ({ type }) => {
   return (
     <Container>
       <ins
-        style={responsiveStyle}
+        style={inlineBlock}
         className='adsbygoogle'
         data-ad-client='ca-pub-3299420347078208'
         data-ad-slot={slot}
-        data-ad-format='auto'
-        data-full-width-responsive='true'
       />
     </Container>
   )
