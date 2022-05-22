@@ -1,8 +1,7 @@
 import React from 'react'
-import { format } from 'date-fns'
 import { Link } from 'react-router-dom'
 
-import { formatSumExt } from 'utils/FormatUtils'
+import * as FormatUtils from 'utils/FormatUtils'
 import * as SdeUtils from 'utils/SdeUtils'
 import OrgIcon from 'components/icons/OrgIcon'
 import ItemIcon from 'components/icons/ItemIcon'
@@ -102,17 +101,18 @@ function getVictimCell(km) {
 
 const columnsObject = {
   timeAndSum: {
-    title: 'Time', align: 'right', minWidth: '56px',
+    title: 'ET', align: 'right', minWidth: '56px',
     link: '/kill/{placeholder}', linkKey: '_id',
     render: km => {
-      const sum = formatSumExt(km.sumV)
+      const sum = FormatUtils.formatSumExt(km.sumV)
+      const eveTime = FormatUtils.timestampToUTC(km.time * 1000, false)
       return (
         <MultilineCell alignRight>
           {km.sumV >= BIL
             ? <Sum><b>{sum}</b></Sum>
             : <Sum>{sum}</Sum>
           }
-          <Time>{format(km.time * 1000, 'HH:mm')}</Time>
+          <Time>{eveTime}</Time>
         </MultilineCell>
       )
     },

@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { format } from 'date-fns'
 
 import * as SdeUtils from 'utils/SdeUtils'
 import * as FormatUtils from 'utils/FormatUtils'
@@ -15,7 +16,8 @@ const noWrap = { whiteSpace: 'nowrap' }
 
 const Summary = ({ kmData }) => {
   const { atts, vict, names, parsedItems, ...rest } = kmData
-  const [datetimeStr] = useState(`${FormatUtils.formatKmTime(rest.time)} ET`)
+  const [eveDatetime] = useState(`${FormatUtils.formatKmTime(rest.time)} ET`)
+  const [localDatetime] = useState(format(rest.time * 1000, 'yyyy-MM-dd HH:mm:ss'))
   // console.log('rest:', rest)
   // const shipName = `${SdeUtils.getTypeName(vict.ship)} (${SdeUtils.getGroupName(vict.ship)})`
   const sysDescr = rest.sys
@@ -101,20 +103,20 @@ const Summary = ({ kmData }) => {
       */}
 
       <Row>
-        <Label>Time:</Label>
-        <div>{datetimeStr}</div>
+        <Label>Eve Time:</Label>
+        <div>{eveDatetime}</div>
+      </Row>
+
+      <Row>
+        <Label>Local Time:</Label>
+        <div>{localDatetime}</div>
       </Row>
 
       <Row>
         <Label>Damage:</Label>
         <div>{FormatUtils.formatRaw(vict.dmg)}</div>
       </Row>
-      {/*
-      <Row>
-        <Label>Fitted:</Label>
-        <div>TODO:</div>
-      </Row>
-      */}
+
       <Row>
         <Label>Fitted:</Label>
         <div>

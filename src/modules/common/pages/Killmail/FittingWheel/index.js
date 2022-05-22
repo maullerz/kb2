@@ -18,9 +18,6 @@ const FittingWheel = ({ kmData }) => {
   const { vict, fittingItems: items, viewed } = kmData
   const { ship } = vict
 
-  console.log('ship:', ship)
-  console.log('items:', items)
-
   const groupID = getGroupID(ship)
   const shipAttributes = groupID === 963
     ? getStrategicCruiserAttributes(ship, items.sub.map(({ type }) => type))

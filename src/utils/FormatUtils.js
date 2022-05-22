@@ -127,9 +127,9 @@ export const timestampToLocal = timestamp => {
   return getLocalTime(date)
 }
 
-export const timestampToUTC = timestamp => {
+export const timestampToUTC = (timestamp, withSeconds = true) => {
   const date = new Date(timestamp)
-  return getUTCTime(date)
+  return getUTCTime(date, withSeconds)
 }
 
 // const KM_DATE_TIME_FORMAT = 'yyyy-MM-dd hh:mm:ss'

@@ -14,7 +14,6 @@ const renderAmmoImg = (type, [x, y]) => (
 const emptyStyle = { opacity: 0.5 }
 
 const Slot = ({ svg, type, typeCoord, ammo, ammoCoord }) => {
-  console.log('type:', type)
   return (
     <g style={type ? undefined : emptyStyle}>
       <g className='module'>
