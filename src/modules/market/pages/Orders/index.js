@@ -75,7 +75,7 @@ const Orders = () => {
           style={{ minHeight: 50 }}
         >
           <div>
-            we should show some InProgress indication here
+            should show some InProgress indication here
             because it is not instant, otherwise user will see weird empty form
           </div>
           {/* <Spinner isTransparent /> */}
