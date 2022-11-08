@@ -11,12 +11,16 @@ import TopStats from 'modules/entities/components/TopStats'
 import Ads from 'components/Ads'
 
 import GroupSummary from './GroupSummary'
+// import Chart from './Chart'
+
+// TODO: isChart
 
 const Group = () => {
   const groupID = Number(useParams().groupID)
   const { killsType } = useParams()
   const isLosses = killsType === 'losses'
   const isKills = killsType === 'kills'
+  // const isChart = killsType === 'chart'
   const [info, setInfo] = useState(null)
   const [stats, setStats] = useState(null)
 
@@ -67,6 +71,10 @@ const Group = () => {
         <SummaryNavigation root={`/group/${groupID}`} />
       </Fragment>
       <Fragment key='content'>
+        {/* {isChart
+          ? <Chart groupID={groupID} />
+          : <KillmailsTable groupID={groupID} isLosses={isLosses} isKills={isKills} />
+        } */}
         <KillmailsTable groupID={groupID} isLosses={isLosses} isKills={isKills} />
       </Fragment>
       {stats &&
