@@ -3117,7 +3117,7 @@
   [
     1351,
     769,
-    "Basic Reactor Control Unit"
+    "'Basic' Reactor Control Unit"
   ],
   [
     1353,
@@ -10647,7 +10647,7 @@
   [
     3469,
     285,
-    "Basic Co-Processor"
+    "'Basic' Co-Processor"
   ],
   [
     3470,
@@ -45191,7 +45191,7 @@
   ],
   [
     19713,
-    227,
+    1882,
     "Argon Gas Environment"
   ],
   [
@@ -45321,57 +45321,57 @@
   ],
   [
     19746,
-    227,
+    1882,
     "Dust Storm Environment"
   ],
   [
     19747,
-    227,
+    1882,
     "Lightning Storm Environment"
   ],
   [
     19748,
-    227,
+    1882,
     "Ethereal Environment"
   ],
   [
     19749,
-    227,
+    1882,
     "Celestial Environment"
   ],
   [
     19750,
-    227,
+    1882,
     "Infernal Environment"
   ],
   [
     19751,
-    227,
+    1882,
     "Icefield Environment"
   ],
   [
     19752,
-    227,
+    1882,
     "Krypton Gas Environment"
   ],
   [
     19753,
-    227,
+    1882,
     "Toxic Cloud Environment"
   ],
   [
     19754,
-    227,
+    1882,
     "Radon Gas Environment"
   ],
   [
     19755,
-    227,
+    1882,
     "Turbulent Storm Environment"
   ],
   [
     19756,
-    227,
+    1882,
     "Xenon Gas Environment"
   ],
   [
@@ -46717,7 +46717,7 @@
   [
     20387,
     517,
-    "Cosmos Badger Mark II"
+    "Cosmos Tayra"
   ],
   [
     20388,
@@ -47857,7 +47857,7 @@
   [
     20653,
     517,
-    "Sayto's Badger Mark II"
+    "Sayto's Tayra"
   ],
   [
     20654,
@@ -47877,7 +47877,7 @@
   [
     20657,
     517,
-    "Hochi's Badger Mark II"
+    "Hochi's Tayra"
   ],
   [
     20658,
@@ -48027,7 +48027,7 @@
   [
     20687,
     517,
-    "Raytio's Badger Mark II"
+    "Raytio's Tayra"
   ],
   [
     20688,
@@ -52122,7 +52122,7 @@
   [
     21843,
     517,
-    "Cosmos Iteron Mark III"
+    "Cosmos Epithal"
   ],
   [
     21844,
@@ -56392,7 +56392,7 @@
   [
     23088,
     517,
-    "Angetyn's Iteron Mark III"
+    "Angetyn's Epithal"
   ],
   [
     23089,
@@ -58782,7 +58782,7 @@
   [
     23620,
     517,
-    "Schabs Xalot's Iteron Mark III"
+    "Schabs Xalot's Epithal"
   ],
   [
     23621,
@@ -66097,7 +66097,7 @@
   [
     25540,
     737,
-    "'Crop' Gas Cloud Scoop "
+    "'Crop' Gas Cloud Scoop"
   ],
   [
     25541,
@@ -66107,7 +66107,7 @@
   [
     25542,
     737,
-    "'Plow' Gas Cloud Scoop "
+    "'Plow' Gas Cloud Scoop"
   ],
   [
     25543,
@@ -72796,7 +72796,7 @@
   ],
   [
     27278,
-    1207,
+    306,
     "Ancient Ship Structure"
   ],
   [
@@ -78737,7 +78737,7 @@
   [
     28788,
     737,
-    "Syndicate Gas Cloud Scoop "
+    "Syndicate Gas Cloud Scoop"
   ],
   [
     28789,
@@ -79096,42 +79096,42 @@
   ],
   [
     28871,
-    1207,
+    306,
     "Angel Narcotics Storage Facility"
   ],
   [
     28872,
-    1207,
+    306,
     "Angel Chemical Laboratory"
   ],
   [
     28873,
-    1207,
+    306,
     "Guristas Narcotics Storage Facility"
   ],
   [
     28874,
-    1207,
+    306,
     "Guristas Chemical Laboratory"
   ],
   [
     28875,
-    1207,
+    306,
     "Serpentis Narcotics Storage Facility"
   ],
   [
     28876,
-    1207,
+    306,
     "Serpentis Chemical Laboratory"
   ],
   [
     28877,
-    1207,
+    306,
     "Sansha Narcotics Storage Facility"
   ],
   [
     28878,
-    1207,
+    306,
     "Blood Raider Chemical Laboratory"
   ],
   [
@@ -84747,7 +84747,7 @@
   [
     30439,
     226,
-    "mobilestorage"
+    "Warehouse"
   ],
   [
     30440,
@@ -85036,7 +85036,7 @@
   ],
   [
     30519,
-    1207,
+    306,
     "Obsolete Sleeper Databank"
   ],
   [
@@ -85066,7 +85066,7 @@
   ],
   [
     30525,
-    1207,
+    306,
     "Sleeper Artifact"
   ],
   [
@@ -92481,7 +92481,7 @@
   ],
   [
     32367,
-    1207,
+    306,
     "Training Container - Relic"
   ],
   [
@@ -92491,7 +92491,7 @@
   ],
   [
     32369,
-    1207,
+    306,
     "Training Container - Data"
   ],
   [
@@ -95117,7 +95117,7 @@
   [
     33213,
     1194,
-    "A piece of Steve"
+    "A Piece of Steve"
   ],
   [
     33214,
@@ -104717,7 +104717,7 @@
   [
     37475,
     1600,
-    " Medium Tech I Large Ship Research II"
+    "Medium Tech I Large Ship Research II"
   ],
   [
     37479,
@@ -105302,7 +105302,7 @@
   [
     37881,
     1194,
-    "Grand Teigjon Casino Chip"
+    "Grand Tiegjon Casino Chip"
   ],
   [
     37882,
@@ -116505,16 +116505,6 @@
     "Yoiul Festival YC120 Coin (Gallente)"
   ],
   [
-    47066,
-    226,
-    "TestAsset_01"
-  ],
-  [
-    47067,
-    226,
-    "TestAsset_02"
-  ],
-  [
     47068,
     1331,
     "Standup Gravitational Transportation Field Oscillator"
@@ -116880,31 +116870,6 @@
     "♦ test_boss"
   ],
   [
-    47199,
-    226,
-    "TestAsset_03"
-  ],
-  [
-    47200,
-    226,
-    "TestAsset_04"
-  ],
-  [
-    47201,
-    226,
-    "TestAsset_05"
-  ],
-  [
-    47202,
-    226,
-    "TestAsset_06"
-  ],
-  [
-    47203,
-    226,
-    "TestAsset_07"
-  ],
-  [
     47204,
     1882,
     "TestBackground_01"
@@ -116913,16 +116878,6 @@
     47205,
     1882,
     "TestBackground_02"
-  ],
-  [
-    47206,
-    226,
-    "TestAsset_08"
-  ],
-  [
-    47207,
-    226,
-    "TestAsset_09"
   ],
   [
     47208,
@@ -127367,7 +127322,7 @@
   [
     54000,
     4034,
-    "Scout Imperial Navy Sentinel "
+    "Scout Imperial Navy Sentinel"
   ],
   [
     54001,
@@ -127387,7 +127342,7 @@
   [
     54004,
     4034,
-    "Scout Imperial Navy Zealot "
+    "Scout Imperial Navy Zealot"
   ],
   [
     54005,
@@ -127527,7 +127482,7 @@
   [
     54032,
     4034,
-    "Scout  State Navy Rook "
+    "Scout  State Navy Rook"
   ],
   [
     54033,
@@ -127682,7 +127637,7 @@
   [
     54063,
     4034,
-    "Elite Federal Navy Keres "
+    "Elite Federal Navy Keres"
   ],
   [
     54064,
@@ -128782,7 +128737,7 @@
   [
     54357,
     314,
-    "Skeleton EGDLI Loot Crate Tier 2 "
+    "Skeleton EGDLI Loot Crate Tier 2"
   ],
   [
     54358,
@@ -131401,22 +131356,22 @@
   ],
   [
     55811,
-    226,
+    1975,
     "Amarr Destroyer Dragoon"
   ],
   [
     55812,
-    226,
+    1975,
     "Amarr Tactical Destroyer Confessor"
   ],
   [
     55813,
-    226,
+    1975,
     "Amarr Strategic Cruiser Legion"
   ],
   [
     55814,
-    226,
+    1975,
     "Amarr Battlecruiser Oracle"
   ],
   [
@@ -131442,17 +131397,17 @@
   [
     55821,
     4050,
-    "2v2 Cruiser Brawl Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     55822,
     4050,
-    "FFA Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     55823,
     4050,
-    "3v3 Slicers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     55824,
@@ -131462,7 +131417,7 @@
   [
     55825,
     4050,
-    "2v2 Battlecruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     55826,
@@ -131637,7 +131592,7 @@
   [
     55907,
     314,
-    "EGDLI (2) BPC Tier 3 (Alpha) "
+    "EGDLI (2) BPC Tier 3 (Alpha)"
   ],
   [
     55908,
@@ -131657,7 +131612,7 @@
   [
     55911,
     314,
-    "EGDLI (2) Abyssal Tier 4 (Alpha) "
+    "EGDLI (2) Abyssal Tier 4 (Alpha)"
   ],
   [
     55912,
@@ -131967,12 +131922,12 @@
   [
     55982,
     4050,
-    "5v5 Corvette Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     55983,
     4050,
-    "2v2 Caldari Destroyer, Interceptor, and Navy Frigate Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56018,
@@ -132222,17 +132177,17 @@
   [
     56092,
     4050,
-    "FFA Cruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56093,
     4050,
-    "1v1 T1 Combat and Navy Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56094,
     4050,
-    "2v2 Cruiser Clash Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56095,
@@ -132802,7 +132757,7 @@
   [
     56233,
     4081,
-    "Disrupted Gate (Amarr Border)  "
+    "Disrupted Gate (Amarr Border)"
   ],
   [
     56234,
@@ -132827,32 +132782,32 @@
   [
     56238,
     4081,
-    "Disrupted Gate (Amarr System) "
+    "Disrupted Gate (Amarr System)"
   ],
   [
     56239,
     4081,
-    "Disrupted Gate (Amarr System) "
+    "Disrupted Gate (Amarr System)"
   ],
   [
     56240,
     4081,
-    "Disrupted Gate (Caldari Border) "
+    "Disrupted Gate (Caldari Border)"
   ],
   [
     56241,
     4081,
-    "Disrupted Gate (Caldari Border) "
+    "Disrupted Gate (Caldari Border)"
   ],
   [
     56242,
     4081,
-    "Disrupted Gate (Caldari Region) "
+    "Disrupted Gate (Caldari Region)"
   ],
   [
     56243,
     4081,
-    "Disrupted Gate (Caldari Region) "
+    "Disrupted Gate (Caldari Region)"
   ],
   [
     56244,
@@ -132867,32 +132822,32 @@
   [
     56246,
     4081,
-    "Disrupted Gate (Caldari Constellation) "
+    "Disrupted Gate (Caldari Constellation)"
   ],
   [
     56247,
     4081,
-    "Disrupted Gate (Caldari Constellation) "
+    "Disrupted Gate (Caldari Constellation)"
   ],
   [
     56248,
     4081,
-    "Disrupted Gate (Gallente Border)  "
+    "Disrupted Gate (Gallente Border)"
   ],
   [
     56249,
     4081,
-    "Disrupted Gate (Gallente Border)  "
+    "Disrupted Gate (Gallente Border)"
   ],
   [
     56250,
     4081,
-    "Disrupted Gate (Gallente Region) "
+    "Disrupted Gate (Gallente Region)"
   ],
   [
     56251,
     4081,
-    "Disrupted Gate (Gallente Region) "
+    "Disrupted Gate (Gallente Region)"
   ],
   [
     56252,
@@ -133372,47 +133327,47 @@
   [
     56353,
     4050,
-    "Crimson Harvest Frigate FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56354,
     4050,
-    "2v2 Tactical Destroyer Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56355,
     4050,
-    "1v1 T1 Cruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56356,
     4050,
-    "Yoiul 2v2v2v2 Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56357,
     4050,
-    "Yoiul 3v3 Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56358,
     4050,
-    "T1 Cruiser FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56359,
     4050,
-    "1v1 T1 Battlecruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56360,
     4050,
-    "Gala 2v2 Cruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56361,
     4050,
-    "T1 Frigate FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     56362,
@@ -135522,7 +135477,7 @@
   [
     57175,
     1975,
-    "Sansha Control Tower Winter "
+    "Sansha Control Tower Winter"
   ],
   [
     57176,
@@ -136172,37 +136127,37 @@
   [
     57367,
     4050,
-    "Grand Prix 1v1 Interceptors Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57368,
     4050,
-    "Assault Frigate FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57369,
     4050,
-    "Hunt 3v3 Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57370,
     4050,
-    "2v2 Navy Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57372,
     4050,
-    "Capsuleer Day 18 Cruiser Extravaganza Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57373,
     4050,
-    "2v2 Gnosis Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57374,
     4050,
-    "Expired 1v1 Battleships Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     57397,
@@ -136537,7 +136492,7 @@
   [
     57485,
     334,
-    "Genetic Mutation Inhibiter"
+    "Genetic Mutation Inhibitor"
   ],
   [
     57486,
@@ -136722,7 +136677,7 @@
   [
     57522,
     447,
-    "Genetic Mutation Inhibiter Blueprint"
+    "Genetic Mutation Inhibitor Blueprint"
   ],
   [
     57523,
@@ -137077,32 +137032,32 @@
   [
     57632,
     226,
-    "Federation Grand Prix Imya Waypoint"
+    "Federation Grand Prix Quafe HQ Waypoint"
   ],
   [
     57633,
     226,
-    "Federation Grand Prix Noranim Waypoint"
+    "Federation Grand Prix Niyabainen Waypoint"
   ],
   [
     57636,
     226,
-    "Federation Grand Prix Aurcel Waypoint"
+    "Federation Grand Prix Hurtoken Waypoint"
   ],
   [
     57637,
     226,
-    "Federation Grand Prix Otosela Waypoint"
+    "Federation Grand Prix Odatrik Waypoint"
   ],
   [
     57640,
     226,
-    "Federation Grand Prix Harroule Waypoint"
+    "Federation Grand Prix Nafomeh Waypoint"
   ],
   [
     57643,
     226,
-    "Federation Grand Prix Asakai Waypoint"
+    "Federation Grand Prix Turba Waypoint"
   ],
   [
     57684,
@@ -137772,7 +137727,7 @@
   [
     58748,
     1975,
-    "Fortified EoM Junction"
+    "Non-Interactable Amarr Junction (Do Not Translate)"
   ],
   [
     58749,
@@ -137947,7 +137902,7 @@
   [
     58797,
     1194,
-    " Capsuleer Day XVIII T-Shirt and Cap Crate"
+    "Capsuleer Day XVIII T-Shirt and Cap Crate"
   ],
   [
     58802,
@@ -138137,42 +138092,42 @@
   [
     58843,
     4050,
-    "2v2v2 Gallente Cruiser and AF Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58844,
     4050,
-    "2v2 Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58845,
     4050,
-    "Liberation Games Rifter FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58846,
     4050,
-    "Proving Conduit Throwback Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58847,
     4050,
-    "Foundation Day Omen FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58848,
     4050,
-    "1v1 Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58849,
     4050,
-    "Union Day 2v2 Caldari Battlecruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58850,
     4050,
-    "Corvette FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     58851,
@@ -138712,7 +138667,7 @@
   [
     59322,
     1194,
-    " Capsuleer Day XVIII Omega Booster Gift Box"
+    "Capsuleer Day XVIII Omega Booster Gift Box"
   ],
   [
     59358,
@@ -138772,7 +138727,7 @@
   [
     59369,
     4050,
-    "2v2 Interceptors Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     59370,
@@ -139337,27 +139292,27 @@
   [
     59704,
     226,
-    "Brutor Hurricane "
+    "Brutor Hurricane"
   ],
   [
     59705,
     226,
-    "Vherokior Hurricane "
+    "Vherokior Hurricane"
   ],
   [
     59706,
     226,
-    "Nefantar Hurricane "
+    "Nefantar Hurricane"
   ],
   [
     59707,
     226,
-    "Thukker Hurricane "
+    "Thukker Hurricane"
   ],
   [
     59708,
     226,
-    "Starkmanir Hurricane "
+    "Starkmanir Hurricane"
   ],
   [
     59709,
@@ -140072,27 +140027,27 @@
   [
     60076,
     4050,
-    "Totality Day 3v3 Kikimoras Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60077,
     4050,
-    "1v1 Battleships Redux Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60078,
     4050,
-    "Crimson Harvest Destroyer FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60079,
     4050,
-    "AT XVII 2v2 Cruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60080,
     4050,
-    "AT XVII 1v1 Tactical Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60089,
@@ -140697,7 +140652,7 @@
   [
     60319,
     4100,
-    "Inaugural Liberation Games: Thukker Tribe"
+    "Liberation Games Champions: Thukker Tribe"
   ],
   [
     60321,
@@ -140967,7 +140922,7 @@
   [
     60375,
     227,
-    "ABS (Do not translate) "
+    "ABS (Do not translate)"
   ],
   [
     60376,
@@ -141627,52 +141582,52 @@
   [
     60598,
     4050,
-    "AT XVII Frigate FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60599,
     4050,
-    "AT XVII 1v1 Battlecruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60600,
     4050,
-    "Prophecy FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60601,
     4050,
-    "Yoiul 2v2 Assault Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60602,
     4050,
-    "Yoiul 1v1 Navy Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60603,
     4050,
-    "Yoiul T1 Cruiser FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60604,
     4050,
-    "Yoiul 1v1 Battleships Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60605,
     4050,
-    "Exploration Frigate FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60606,
     4050,
-    "2v2 T1 Cruiser Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60607,
     4050,
-    "Gala 1v1 Destroyers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     60608,
@@ -141777,12 +141732,12 @@
   [
     60681,
     474,
-    "Tetrimon Base Shortcut Keypass"
+    "Expired Tetrimon Base Shortcut Keypass"
   ],
   [
     60682,
     474,
-    "Crimson Gauntlet Shortcut Keypass"
+    "Expired Crimson Gauntlet Shortcut Keypass"
   ],
   [
     60683,
@@ -142612,7 +142567,7 @@
   [
     61305,
     1971,
-    "Unknown Space Boundary "
+    "Unknown Space Boundary"
   ],
   [
     61396,
@@ -143212,37 +143167,37 @@
   [
     62273,
     4050,
-    "1v1 Battleships Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62274,
     4050,
-    "Venture FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62275,
     4050,
-    "2v2 T1 Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62276,
     4050,
-    "Cruiser Chaos FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62277,
     4050,
-    "Hunt 1v1 Assault Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62278,
     4050,
-    "1v1 Strategic Cruisers Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62279,
     4050,
-    "Capsuleer Day 2v2 Navy Frigates Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     62342,
@@ -143307,7 +143262,7 @@
   [
     62389,
     4168,
-    "Compressed Gamboge Cytoserocin "
+    "Compressed Gamboge Cytoserocin"
   ],
   [
     62390,
@@ -143332,7 +143287,7 @@
   [
     62394,
     4168,
-    "Compressed Viridian Cytoserocin "
+    "Compressed Viridian Cytoserocin"
   ],
   [
     62395,
@@ -143347,17 +143302,17 @@
   [
     62397,
     4168,
-    "Compressed Fullerite-C60 "
+    "Compressed Fullerite-C60"
   ],
   [
     62398,
     4168,
-    "Compressed Fullerite-C70 "
+    "Compressed Fullerite-C70"
   ],
   [
     62399,
     4168,
-    "Compressed Fullerite-C50 "
+    "Compressed Fullerite-C50"
   ],
   [
     62400,
@@ -143377,12 +143332,12 @@
   [
     62404,
     4168,
-    "Compressed Fullerite-C32 "
+    "Compressed Fullerite-C32"
   ],
   [
     62405,
     4168,
-    "Compressed Fullerite-C540 "
+    "Compressed Fullerite-C540"
   ],
   [
     62406,
@@ -143472,42 +143427,42 @@
   [
     62456,
     1884,
-    "Compressed Glistening Bitumens "
+    "Compressed Glistening Bitumens"
   ],
   [
     62457,
     1884,
-    "Compressed Coesite "
+    "Compressed Coesite"
   ],
   [
     62458,
     1884,
-    "Compressed Brimful Coesite "
+    "Compressed Brimful Coesite"
   ],
   [
     62459,
     1884,
-    "Compressed Glistening Coesite "
+    "Compressed Glistening Coesite"
   ],
   [
     62460,
     1884,
-    "Compressed Sylvite "
+    "Compressed Sylvite"
   ],
   [
     62461,
     1884,
-    "Compressed Brimful Sylvite "
+    "Compressed Brimful Sylvite"
   ],
   [
     62463,
     1884,
-    "Compressed Zeolites "
+    "Compressed Zeolites"
   ],
   [
     62464,
     1884,
-    "Compressed Brimful Zeolites "
+    "Compressed Brimful Zeolites"
   ],
   [
     62466,
@@ -143517,27 +143472,27 @@
   [
     62467,
     1884,
-    "Compressed Glistening Zeolites "
+    "Compressed Glistening Zeolites"
   ],
   [
     62468,
     1920,
-    "Compressed Scheelite "
+    "Compressed Scheelite"
   ],
   [
     62469,
     1920,
-    "Compressed Copious Scheelite "
+    "Compressed Copious Scheelite"
   ],
   [
     62470,
     1920,
-    "Compressed Twinkling Scheelite "
+    "Compressed Twinkling Scheelite"
   ],
   [
     62471,
     1920,
-    "Compressed Euxenite "
+    "Compressed Euxenite"
   ],
   [
     62472,
@@ -143547,17 +143502,17 @@
   [
     62473,
     1920,
-    "Compressed Twinkling Euxenite "
+    "Compressed Twinkling Euxenite"
   ],
   [
     62474,
     1920,
-    "Compressed Cobaltite "
+    "Compressed Cobaltite"
   ],
   [
     62475,
     1920,
-    "Compressed Copious Cobaltite "
+    "Compressed Copious Cobaltite"
   ],
   [
     62476,
@@ -143567,7 +143522,7 @@
   [
     62477,
     1920,
-    "Compressed Titanite "
+    "Compressed Titanite"
   ],
   [
     62478,
@@ -143577,7 +143532,7 @@
   [
     62479,
     1920,
-    "Compressed Twinkling Titanite "
+    "Compressed Twinkling Titanite"
   ],
   [
     62480,
@@ -143592,17 +143547,17 @@
   [
     62482,
     1921,
-    "Compressed Shimmering Chromite "
+    "Compressed Shimmering Chromite"
   ],
   [
     62483,
     1921,
-    "Compressed Otavite "
+    "Compressed Otavite"
   ],
   [
     62484,
     1921,
-    "Compressed Lavish Otavite "
+    "Compressed Lavish Otavite"
   ],
   [
     62485,
@@ -143612,17 +143567,17 @@
   [
     62486,
     1921,
-    "Compressed Sperrylite "
+    "Compressed Sperrylite"
   ],
   [
     62487,
     1921,
-    "Compressed Lavish Sperrylite "
+    "Compressed Lavish Sperrylite"
   ],
   [
     62488,
     1921,
-    "Compressed Shimmering Sperrylite "
+    "Compressed Shimmering Sperrylite"
   ],
   [
     62489,
@@ -143637,17 +143592,17 @@
   [
     62491,
     1921,
-    "Compressed Shimmering Vanadinite "
+    "Compressed Shimmering Vanadinite"
   ],
   [
     62492,
     1922,
-    "Compressed Carnotite "
+    "Compressed Carnotite"
   ],
   [
     62493,
     1922,
-    "Compressed Replete Carnotite "
+    "Compressed Replete Carnotite"
   ],
   [
     62494,
@@ -143657,82 +143612,82 @@
   [
     62495,
     1922,
-    "Compressed Cinnabar "
+    "Compressed Cinnabar"
   ],
   [
     62496,
     1922,
-    "Compressed Replete Cinnabar "
+    "Compressed Replete Cinnabar"
   ],
   [
     62497,
     1922,
-    "Compressed Glowing Cinnabar "
+    "Compressed Glowing Cinnabar"
   ],
   [
     62498,
     1922,
-    "Compressed Pollucite "
+    "Compressed Pollucite"
   ],
   [
     62499,
     1922,
-    "Compressed Replete Pollucite "
+    "Compressed Replete Pollucite"
   ],
   [
     62500,
     1922,
-    "Compressed Glowing Pollucite "
+    "Compressed Glowing Pollucite"
   ],
   [
     62501,
     1922,
-    "Compressed Zircon "
+    "Compressed Zircon"
   ],
   [
     62502,
     1922,
-    "Compressed Replete Zircon "
+    "Compressed Replete Zircon"
   ],
   [
     62503,
     1922,
-    "Compressed Glowing Zircon "
+    "Compressed Glowing Zircon"
   ],
   [
     62504,
     1923,
-    "Compressed Loparite "
+    "Compressed Loparite"
   ],
   [
     62505,
     1923,
-    "Compressed Bountiful Loparite "
+    "Compressed Bountiful Loparite"
   ],
   [
     62506,
     1923,
-    "Compressed Shining Loparite "
+    "Compressed Shining Loparite"
   ],
   [
     62507,
     1923,
-    "Compressed Monazite "
+    "Compressed Monazite"
   ],
   [
     62508,
     1923,
-    "Compressed Bountiful Monazite "
+    "Compressed Bountiful Monazite"
   ],
   [
     62509,
     1923,
-    "Compressed Shining Monazite "
+    "Compressed Shining Monazite"
   ],
   [
     62510,
     1923,
-    "Compressed Xenotime "
+    "Compressed Xenotime"
   ],
   [
     62511,
@@ -143742,17 +143697,17 @@
   [
     62512,
     1923,
-    "Compressed Shining Xenotime "
+    "Compressed Shining Xenotime"
   ],
   [
     62513,
     1923,
-    "Compressed Ytterbite "
+    "Compressed Ytterbite"
   ],
   [
     62514,
     1923,
-    "Compressed Bountiful Ytterbite "
+    "Compressed Bountiful Ytterbite"
   ],
   [
     62515,
@@ -143767,17 +143722,17 @@
   [
     62517,
     462,
-    "Compressed Concentrated Veldspar "
+    "Compressed Concentrated Veldspar"
   ],
   [
     62518,
     462,
-    "Compressed Dense Veldspar "
+    "Compressed Dense Veldspar"
   ],
   [
     62519,
     462,
-    "Compressed Stable Veldspar "
+    "Compressed Stable Veldspar"
   ],
   [
     62520,
@@ -143787,7 +143742,7 @@
   [
     62521,
     460,
-    "Compressed Condensed Scordite "
+    "Compressed Condensed Scordite"
   ],
   [
     62522,
@@ -143797,12 +143752,12 @@
   [
     62523,
     460,
-    "Compressed Glossy Scordite "
+    "Compressed Glossy Scordite"
   ],
   [
     62524,
     459,
-    "Compressed Pyroxeres "
+    "Compressed Pyroxeres"
   ],
   [
     62525,
@@ -143812,72 +143767,72 @@
   [
     62526,
     459,
-    "Compressed Viscous Pyroxeres "
+    "Compressed Viscous Pyroxeres"
   ],
   [
     62527,
     459,
-    "Compressed Opulent Pyroxeres "
+    "Compressed Opulent Pyroxeres"
   ],
   [
     62528,
     458,
-    "Compressed Plagioclase "
+    "Compressed Plagioclase"
   ],
   [
     62529,
     458,
-    "Compressed Azure Plagioclase "
+    "Compressed Azure Plagioclase"
   ],
   [
     62530,
     458,
-    "Compressed Rich Plagioclase "
+    "Compressed Rich Plagioclase"
   ],
   [
     62531,
     458,
-    "Compressed Sparkling Plagioclase "
+    "Compressed Sparkling Plagioclase"
   ],
   [
     62532,
     469,
-    "Compressed Omber "
+    "Compressed Omber"
   ],
   [
     62533,
     469,
-    "Compressed Silvery Omber "
+    "Compressed Silvery Omber"
   ],
   [
     62534,
     469,
-    "Compressed Golden Omber "
+    "Compressed Golden Omber"
   ],
   [
     62535,
     469,
-    "Compressed Platinoid Omber "
+    "Compressed Platinoid Omber"
   ],
   [
     62536,
     457,
-    "Compressed Kernite "
+    "Compressed Kernite"
   ],
   [
     62537,
     457,
-    "Compressed Luminous Kernite "
+    "Compressed Luminous Kernite"
   ],
   [
     62538,
     457,
-    "Compressed Fiery Kernite "
+    "Compressed Fiery Kernite"
   ],
   [
     62539,
     457,
-    "Compressed Resplendant Kernite "
+    "Compressed Resplendant Kernite"
   ],
   [
     62540,
@@ -143892,12 +143847,12 @@
   [
     62542,
     456,
-    "Compressed Pristine Jaspet "
+    "Compressed Pristine Jaspet"
   ],
   [
     62543,
     456,
-    "Compressed Immaculate Jaspet "
+    "Compressed Immaculate Jaspet"
   ],
   [
     62544,
@@ -143907,27 +143862,27 @@
   [
     62545,
     455,
-    "Compressed Vivid Hemorphite "
+    "Compressed Vivid Hemorphite"
   ],
   [
     62546,
     455,
-    "Compressed Radiant Hemorphite "
+    "Compressed Radiant Hemorphite"
   ],
   [
     62547,
     455,
-    "Compressed Scintillating Hemorphite "
+    "Compressed Scintillating Hemorphite"
   ],
   [
     62548,
     454,
-    "Compressed Hedbergite "
+    "Compressed Hedbergite"
   ],
   [
     62549,
     454,
-    "Compressed Vitric Hedbergite "
+    "Compressed Vitric Hedbergite"
   ],
   [
     62550,
@@ -143937,7 +143892,7 @@
   [
     62551,
     454,
-    "Compressed Lustrous Hedbergite "
+    "Compressed Lustrous Hedbergite"
   ],
   [
     62552,
@@ -143947,7 +143902,7 @@
   [
     62553,
     467,
-    "Compressed Iridescent Gneiss "
+    "Compressed Iridescent Gneiss"
   ],
   [
     62554,
@@ -143957,22 +143912,22 @@
   [
     62555,
     467,
-    "Compressed Brilliant Gneiss "
+    "Compressed Brilliant Gneiss"
   ],
   [
     62556,
     453,
-    "Compressed Dark Ochre "
+    "Compressed Dark Ochre"
   ],
   [
     62557,
     453,
-    "Compressed Onyx Ochre "
+    "Compressed Onyx Ochre"
   ],
   [
     62558,
     453,
-    "Compressed Obsidian Ochre "
+    "Compressed Obsidian Ochre"
   ],
   [
     62559,
@@ -143992,42 +143947,42 @@
   [
     62562,
     452,
-    "Compressed Crystalline Crokite "
+    "Compressed Crystalline Crokite"
   ],
   [
     62563,
     452,
-    "Compressed Pellucid Crokite "
+    "Compressed Pellucid Crokite"
   ],
   [
     62564,
     451,
-    "Compressed Bistot "
+    "Compressed Bistot"
   ],
   [
     62565,
     451,
-    "Compressed Triclinic Bistot "
+    "Compressed Triclinic Bistot"
   ],
   [
     62566,
     451,
-    "Compressed Monoclinic Bistot "
+    "Compressed Monoclinic Bistot"
   ],
   [
     62567,
     451,
-    "Compressed Cubic Bistot "
+    "Compressed Cubic Bistot"
   ],
   [
     62568,
     450,
-    "Compressed Arkonor "
+    "Compressed Arkonor"
   ],
   [
     62569,
     450,
-    "Compressed Crimson Arkonor "
+    "Compressed Crimson Arkonor"
   ],
   [
     62570,
@@ -144047,27 +144002,27 @@
   [
     62573,
     461,
-    "Compressed Bright Spodumain "
+    "Compressed Bright Spodumain"
   ],
   [
     62574,
     461,
-    "Compressed Gleaming Spodumain "
+    "Compressed Gleaming Spodumain"
   ],
   [
     62575,
     461,
-    "Compressed Dazzling Spodumain "
+    "Compressed Dazzling Spodumain"
   ],
   [
     62576,
     4031,
-    "Compressed Bezdnacine "
+    "Compressed Bezdnacine"
   ],
   [
     62577,
     4031,
-    "Compressed Abyssal Bezdnacine "
+    "Compressed Abyssal Bezdnacine"
   ],
   [
     62578,
@@ -144077,22 +144032,22 @@
   [
     62579,
     4030,
-    "Compressed Rakovene "
+    "Compressed Rakovene"
   ],
   [
     62580,
     4030,
-    "Compressed Abyssal Rakovene "
+    "Compressed Abyssal Rakovene"
   ],
   [
     62581,
     4030,
-    "Compressed Hadal Rakovene "
+    "Compressed Hadal Rakovene"
   ],
   [
     62582,
     4029,
-    "Compressed Talassonite "
+    "Compressed Talassonite"
   ],
   [
     62583,
@@ -144102,27 +144057,27 @@
   [
     62584,
     4029,
-    "Compressed Hadal Talassonite "
+    "Compressed Hadal Talassonite"
   ],
   [
     62586,
     468,
-    "Compressed Mercoxit "
+    "Compressed Mercoxit"
   ],
   [
     62587,
     468,
-    "Compressed Magma Mercoxit "
+    "Compressed Magma Mercoxit"
   ],
   [
     62588,
     468,
-    "Compressed Vitreous Mercoxit "
+    "Compressed Vitreous Mercoxit"
   ],
   [
     62589,
     4174,
-    "QA Compressor "
+    "QA Compressor"
   ],
   [
     62590,
@@ -144132,7 +144087,7 @@
   [
     62591,
     515,
-    "Medium Industrial Core II "
+    "Medium Industrial Core II"
   ],
   [
     62592,
@@ -144612,12 +144567,12 @@
   [
     63058,
     1083,
-    "Men's 'Semiotique Superluminal' Shades "
+    "Men's 'Semiotique Superluminal' Shades"
   ],
   [
     63061,
     1083,
-    "Women's 'Semiotique Superluminal' Shades "
+    "Women's 'Semiotique Superluminal' Shades"
   ],
   [
     63088,
@@ -144822,7 +144777,7 @@
   [
     63168,
     306,
-    "Huntmaster Communications Tower "
+    "Huntmaster Communications Tower"
   ],
   [
     63169,
@@ -145377,17 +145332,17 @@
   [
     63633,
     303,
-    "Basic 'Guri Kikhivaa' Cerebral Accelerator"
+    "Expired Basic 'Guri Kikhivaa' Cerebral Accelerator"
   ],
   [
     63634,
     303,
-    "Potent 'Guri Kikhivaa' Cerebral Accelerator"
+    "Expired Potent 'Guri Kikhivaa' Cerebral Accelerator"
   ],
   [
     63635,
     303,
-    "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+    "Expired Extended 'Guri Kikhivaa' Cerebral Accelerator"
   ],
   [
     63636,
@@ -145397,162 +145352,162 @@
   [
     63645,
     303,
-    "Hunt Probing Booster I"
+    "Expired Hunt Probing Booster I"
   ],
   [
     63646,
     303,
-    "Hunt Probing Booster II"
+    "Expired Hunt Probing Booster II"
   ],
   [
     63647,
     303,
-    "Hunt Probing Booster III"
+    "Expired Hunt Probing Booster III"
   ],
   [
     63648,
     303,
-    "Hunt Probing Booster IV"
+    "Expired Hunt Probing Booster IV"
   ],
   [
     63649,
     303,
-    "Hunt Pursuit Booster I"
+    "Expired Hunt Pursuit Booster I"
   ],
   [
     63650,
     303,
-    "Hunt Pursuit Booster II"
+    "Expired Hunt Pursuit Booster II"
   ],
   [
     63651,
     303,
-    "Hunt Pursuit Booster III"
+    "Expired Hunt Pursuit Booster III"
   ],
   [
     63652,
     303,
-    "Hunt Pursuit Booster IV"
+    "Expired Hunt Pursuit Booster IV"
   ],
   [
     63653,
     303,
-    "Hunt Rapid Repair Booster I"
+    "Expired Hunt Rapid Repair Booster I"
   ],
   [
     63654,
     303,
-    "Hunt Rapid Repair Booster II"
+    "Expired Hunt Rapid Repair Booster II"
   ],
   [
     63655,
     303,
-    "Hunt Rapid Repair Booster III"
+    "Expired Hunt Rapid Repair Booster III"
   ],
   [
     63656,
     303,
-    "Hunt Rapid Repair Booster IV"
+    "Expired Hunt Rapid Repair Booster IV"
   ],
   [
     63657,
     303,
-    "Hunt Resistance Booster I"
+    "Expired Hunt Resistance Booster I"
   ],
   [
     63658,
     303,
-    "Hunt Resistance Booster II"
+    "Expired Hunt Resistance Booster II"
   ],
   [
     63659,
     303,
-    "Hunt Resistance Booster III"
+    "Expired Hunt Resistance Booster III"
   ],
   [
     63660,
     303,
-    "Hunt Resistance Booster IV"
+    "Expired Hunt Resistance Booster IV"
   ],
   [
     63661,
     303,
-    "Hunt Drone Precision Booster I"
+    "Expired Hunt Drone Precision Booster I"
   ],
   [
     63662,
     303,
-    "Hunt Drone Precision Booster II"
+    "Expired Hunt Drone Precision Booster II"
   ],
   [
     63663,
     303,
-    "Hunt Drone Precision Booster III"
+    "Expired Hunt Drone Precision Booster III"
   ],
   [
     63664,
     303,
-    "Hunt Drone Precision Booster IV"
+    "Expired Hunt Drone Precision Booster IV"
   ],
   [
     63665,
     303,
-    "Hunt Missile Velocity Booster I"
+    "Expired Hunt Missile Velocity Booster I"
   ],
   [
     63666,
     303,
-    "Hunt Missile Velocity Booster II"
+    "Expired Hunt Missile Velocity Booster II"
   ],
   [
     63667,
     303,
-    "Hunt Missile Velocity Booster III"
+    "Expired Hunt Missile Velocity Booster III"
   ],
   [
     63668,
     303,
-    "Hunt Missile Velocity Booster IV"
+    "Expired Hunt Missile Velocity Booster IV"
   ],
   [
     63669,
     303,
-    "Hunt Drone Damage Booster I"
+    "Expired Hunt Drone Damage Booster I"
   ],
   [
     63670,
     303,
-    "Hunt Drone Damage Booster II"
+    "Expired Hunt Drone Damage Booster II"
   ],
   [
     63671,
     303,
-    "Hunt Drone Damage Booster III"
+    "Expired Hunt Drone Damage Booster III"
   ],
   [
     63672,
     303,
-    "Hunt Drone Damage Booster IV"
+    "Expired Hunt Drone Damage Booster IV"
   ],
   [
     63673,
     303,
-    "Hunt Missile Damage Booster I"
+    "Expired Hunt Missile Damage Booster I"
   ],
   [
     63674,
     303,
-    "Hunt Missile Damage Booster II"
+    "Expired Hunt Missile Damage Booster II"
   ],
   [
     63675,
     303,
-    "Hunt Missile Damage Booster III"
+    "Expired Hunt Missile Damage Booster III"
   ],
   [
     63676,
     303,
-    "Hunt Missile Damage Booster IV"
+    "Expired Hunt Missile Damage Booster IV"
   ],
   [
     63677,
@@ -145647,72 +145602,72 @@
   [
     63714,
     4050,
-    "Capsuleer Day Sunesis FFA Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63715,
     4050,
-    "Event 58 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63716,
     4050,
-    "Event 59 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63717,
     4050,
-    "Event 60 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63718,
     4050,
-    "Event 61 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63719,
     4050,
-    "Event 62 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63720,
     4050,
-    "Event 63 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63721,
     4050,
-    "Event 64 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63722,
     4050,
-    "Event 65 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63723,
     4050,
-    "Event 66 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63724,
     4050,
-    "Event 67 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63725,
     4050,
-    "Event 68 Proving Filament"
+    "Expired Proving Filament"
   ],
   [
     63726,
     4050,
-    "Event 69 Proving Filament"
+    "2v2 T1 Cruisers Proving Filament"
   ],
   [
     63727,
     4050,
-    "Event 70 Proving Filament"
+    "Totality Day 1v1 Kikimoras Proving Filament"
   ],
   [
     63728,
@@ -145740,6 +145695,96 @@
     "Women's Kimotoro Eskeitan Commander's Pants"
   ],
   [
+    63770,
+    1818,
+    "Explorer - Frigate Skill Crate"
+  ],
+  [
+    63771,
+    1818,
+    "Explorer - Frigate Crate"
+  ],
+  [
+    63772,
+    1818,
+    "Industrialist - Frigate Blueprint Crate"
+  ],
+  [
+    63773,
+    1818,
+    "Industrialist - Destroyer Blueprint Crate"
+  ],
+  [
+    63774,
+    1818,
+    "Industrialist - Cruiser Blueprint Crate"
+  ],
+  [
+    63775,
+    1818,
+    "Industrialist - Hauler Blueprint Crate"
+  ],
+  [
+    63776,
+    1818,
+    "Industrialist -  Hauler Skill Crate"
+  ],
+  [
+    63777,
+    1818,
+    "Industrialist - Light Combat Drones Crate"
+  ],
+  [
+    63778,
+    1818,
+    "Enforcer - Destroyer Skill Crate"
+  ],
+  [
+    63779,
+    1818,
+    "Enforcer - Frigate Skill Crate"
+  ],
+  [
+    63780,
+    1818,
+    "Enforcer - Frigate Crate"
+  ],
+  [
+    63781,
+    1818,
+    "Enforcer - Defense System Skill Crate"
+  ],
+  [
+    63782,
+    1818,
+    "Enforcer - Frigate Crate"
+  ],
+  [
+    63783,
+    1818,
+    "Soldier of Fortune - Frigate Skill Crate"
+  ],
+  [
+    63784,
+    1818,
+    "Soldier of Fortune - Combat Frigate Crate"
+  ],
+  [
+    63785,
+    1818,
+    "Soldier of Fortune - Support Frigate Crate"
+  ],
+  [
+    63786,
+    1818,
+    "Enforcer - Tranquil Abyssal Filaments Crate"
+  ],
+  [
+    63787,
+    1818,
+    "Enforcer - Calm Abyssal Filaments Crate"
+  ],
+  [
     63788,
     1929,
     "Proving Bonus Nexus"
@@ -145747,42 +145792,152 @@
   [
     63789,
     1088,
-    "63789_Male_outer_JacketMFBR01_Types_JacketMFBR01_Race.png"
+    "Men's Grand Prix Racing Jacket"
   ],
   [
     63790,
     1088,
-    "63790_Female_Outer_JacketFBR01_Types_JacketFBR01_race.png"
+    "Women's Grand Prix Racing Jacket"
+  ],
+  [
+    63807,
+    303,
+    "AIR Astro-Acquisition II Booster"
+  ],
+  [
+    63808,
+    303,
+    "AIR Astro-Rangefinding II Booster"
+  ],
+  [
+    63809,
+    303,
+    "AIR Astro-Pinpointing II Booster"
+  ],
+  [
+    63810,
+    303,
+    "AIR Agility Booster II"
+  ],
+  [
+    63811,
+    303,
+    "AIR Mining Range Booster I"
+  ],
+  [
+    63812,
+    303,
+    "AIR Mining Yield Booster III"
+  ],
+  [
+    63813,
+    303,
+    "AIR Mining Yield Booster I"
+  ],
+  [
+    63814,
+    303,
+    "AIR Mining Yield Booster II"
+  ],
+  [
+    63815,
+    303,
+    "AIR Mining Range Booster II"
+  ],
+  [
+    63816,
+    303,
+    "AIR Rapture Booster II"
+  ],
+  [
+    63817,
+    303,
+    "AIR Nirvana Booster II"
+  ],
+  [
+    63818,
+    303,
+    "AIR Overclocker Booster II"
+  ],
+  [
+    63819,
+    303,
+    "AIR Hardshell Booster II"
+  ],
+  [
+    63820,
+    303,
+    "AIR Pyrolancea Booster II"
+  ],
+  [
+    63821,
+    303,
+    "AIR Overclocker Booster III"
+  ],
+  [
+    63822,
+    303,
+    "AIR Repairer Booster III"
+  ],
+  [
+    63824,
+    526,
+    "75,000 Skill Points"
+  ],
+  [
+    63825,
+    526,
+    "125,000 Skill Points"
+  ],
+  [
+    63826,
+    4098,
+    "Free AIR Explorer Expert System"
+  ],
+  [
+    63827,
+    4098,
+    "Free AIR Industrialist Expert System"
+  ],
+  [
+    63828,
+    4098,
+    "Free AIR Enforcer Expert System"
+  ],
+  [
+    63829,
+    4098,
+    "Free AIR Soldier of Fortune Expert System"
   ],
   [
     63849,
     303,
-    "Basic Capsuleer Day Glamourex Booster"
+    "Expired Basic Capsuleer Day Glamourex Booster"
   ],
   [
     63850,
     303,
-    "Extended Capsuleer Day Glamourex Booster"
+    "Expired Extended Capsuleer Day Glamourex Booster"
   ],
   [
     63851,
     303,
-    "Potent Capsuleer Day Glamourex Booster"
+    "Expired Potent Capsuleer Day Glamourex Booster"
   ],
   [
     63852,
     303,
-    "Basic Capsuleer Day Cerebral Accelerator"
+    "Expired Basic Capsuleer Day Cerebral Accelerator"
   ],
   [
     63853,
     303,
-    "Extended Capsuleer Day Cerebral Accelerator"
+    "Expired Extended Capsuleer Day Cerebral Accelerator"
   ],
   [
     63854,
     303,
-    "Potent Capsuleer Day Cerebral Accelerator"
+    "Expired Potent Capsuleer Day Cerebral Accelerator"
   ],
   [
     63871,
@@ -145817,162 +145972,162 @@
   [
     63878,
     303,
-    "Smuggler Low Observability Booster I"
+    "Expired Smuggler Low Observability Booster I"
   ],
   [
     63879,
     303,
-    "Smuggler Low Observability Booster II"
+    "Expired Smuggler Low Observability Booster II"
   ],
   [
     63880,
     303,
-    "Smuggler Low Observability Booster III"
+    "Expired Smuggler Low Observability Booster III"
   ],
   [
     63881,
     303,
-    "Smuggler Low Observability Booster IV"
+    "Expired Smuggler Low Observability Booster IV"
   ],
   [
     63882,
     303,
-    "DED Scan Booster I"
+    "Expired DED Scan Booster I"
   ],
   [
     63883,
     303,
-    "DED Scan Booster II"
+    "Expired DED Scan Booster II"
   ],
   [
     63884,
     303,
-    "DED Scan Booster III"
+    "Expired DED Scan Booster III"
   ],
   [
     63885,
     303,
-    "DED Scan Booster IV"
+    "Expired DED Scan Booster IV"
   ],
   [
     63886,
     303,
-    "Smuggler Shield Booster I"
+    "Expired Smuggler Shield Booster I"
   ],
   [
     63887,
     303,
-    "Smuggler Shield Booster II"
+    "Expired Smuggler Shield Booster II"
   ],
   [
     63888,
     303,
-    "Smuggler Shield Booster III"
+    "Expired Smuggler Shield Booster III"
   ],
   [
     63889,
     303,
-    "Smuggler Shield Booster IV"
+    "Expired Smuggler Shield Booster IV"
   ],
   [
     63890,
     303,
-    "DED Armor Booster I"
+    "Expired DED Armor Booster I"
   ],
   [
     63891,
     303,
-    "DED Armor Booster II"
+    "Expired DED Armor Booster II"
   ],
   [
     63892,
     303,
-    "DED Armor Booster III"
+    "Expired DED Armor Booster III"
   ],
   [
     63893,
     303,
-    "DED Armor Booster IV"
+    "Expired DED Armor Booster IV"
   ],
   [
     63894,
     303,
-    "Smuggler Blockade Running Booster I"
+    "Expired Smuggler Blockade Running Booster I"
   ],
   [
     63895,
     303,
-    "Smuggler Blockade Running Booster II"
+    "Expired Smuggler Blockade Running Booster II"
   ],
   [
     63896,
     303,
-    "Smuggler Blockade Running Booster III"
+    "Expired Smuggler Blockade Running Booster III"
   ],
   [
     63897,
     303,
-    "Smuggler Blockade Running Booster IV"
+    "Expired Smuggler Blockade Running Booster IV"
   ],
   [
     63898,
     303,
-    "DED Apprehension Booster I"
+    "Expired DED Apprehension Booster I"
   ],
   [
     63899,
     303,
-    "DED Apprehension Booster II"
+    "Expired DED Apprehension Booster II"
   ],
   [
     63900,
     303,
-    "DED Apprehension Booster III"
+    "Expired DED Apprehension Booster III"
   ],
   [
     63901,
     303,
-    "DED Apprehension Booster IV"
+    "Expired DED Apprehension Booster IV"
   ],
   [
     63902,
     303,
-    "Smuggler Bay Loading Booster I"
+    "Expired Smuggler Bay Loading Booster I"
   ],
   [
     63903,
     303,
-    "Smuggler Bay Loading Booster II"
+    "Expired Smuggler Bay Loading Booster II"
   ],
   [
     63904,
     303,
-    "Smuggler Bay Loading Booster III"
+    "Expired Smuggler Bay Loading Booster III"
   ],
   [
     63905,
     303,
-    "Smuggler Bay Loading Booster IV"
+    "Expired Smuggler Bay Loading Booster IV"
   ],
   [
     63906,
     303,
-    "DED Turret Booster I"
+    "Expired DED Turret Booster I"
   ],
   [
     63907,
     303,
-    "DED Turret Booster II"
+    "Expired DED Turret Booster II"
   ],
   [
     63908,
     303,
-    "DED Turret Booster III"
+    "Expired DED Turret Booster III"
   ],
   [
     63909,
     303,
-    "DED Turret Booster IV"
+    "Expired DED Turret Booster IV"
   ],
   [
     63910,
@@ -146052,11 +146207,11 @@
   [
     63984,
     1975,
-    "Smugglers Research Outpost (DO NOT TRANSLATE)"
+    "Caldari Research Outpost (DO NOT TRANSLATE)"
   ],
   [
     63985,
-    15,
+    1975,
     "Smuggler Service Outpost (DO NOT TRANSLATE)"
   ],
   [
@@ -146072,12 +146227,12 @@
   [
     63988,
     1975,
-    "Smugglehaus (DO NOT TRANSLATE)"
+    "cm1_t1_environment_asset"
   ],
   [
     63989,
     1975,
-    "Smugglehaus Wreck (DO NOT TRANSLATE)"
+    "cm1_t1_wreck_environment_asset"
   ],
   [
     64002,
@@ -146265,9 +146420,264 @@
     "Dormitory (DO NOT TRANSLATE)"
   ],
   [
+    64039,
+    1975,
+    "Asteroid Set 2 Xlarge 1"
+  ],
+  [
+    64040,
+    1975,
+    "Asteroid Set 2 Xlarge 2"
+  ],
+  [
+    64041,
+    1975,
+    "Asteroid Set 2 Xlarge 3"
+  ],
+  [
+    64042,
+    1975,
+    "Asteroid Set 2 Xlarge 4"
+  ],
+  [
+    64043,
+    1975,
+    "Asteroid Set 2 Xlarge 5"
+  ],
+  [
+    64044,
+    1975,
+    "Asteroid Set 2 Large 1"
+  ],
+  [
+    64045,
+    1975,
+    "Asteroid Set 2 Large 2"
+  ],
+  [
+    64046,
+    1975,
+    "Asteroid Set 2 Large 3"
+  ],
+  [
+    64047,
+    1975,
+    "Asteroid Set 2 Large 4"
+  ],
+  [
+    64048,
+    1975,
+    "Asteroid Set 2 Large 5"
+  ],
+  [
+    64049,
+    1975,
+    "Asteroid Set 2 Medium 1"
+  ],
+  [
+    64050,
+    1975,
+    "Asteroid Set 2 Medium 2"
+  ],
+  [
+    64051,
+    1975,
+    "Asteroid Set 2 Medium 3"
+  ],
+  [
+    64052,
+    1975,
+    "Asteroid Set 2 Medium 4"
+  ],
+  [
+    64053,
+    1975,
+    "Asteroid Set 2 Medium 5"
+  ],
+  [
+    64054,
+    1975,
+    "Asteroid Set 2 Medium 6"
+  ],
+  [
+    64055,
+    1975,
+    "Asteroid Set 2 Medium 7"
+  ],
+  [
+    64056,
+    1975,
+    "Asteroid Set 2 Medium 8"
+  ],
+  [
+    64057,
+    1975,
+    "Asteroid Set 2 Small 1"
+  ],
+  [
+    64058,
+    1975,
+    "Asteroid Set 2 Small 2"
+  ],
+  [
+    64059,
+    1975,
+    "Asteroid Set 2 Small 3"
+  ],
+  [
+    64060,
+    1975,
+    "Asteroid Set 2 Small 4"
+  ],
+  [
+    64061,
+    1975,
+    "Asteroid Set 2 Small 5"
+  ],
+  [
+    64062,
+    1975,
+    "Asteroid Set 2 Small 6"
+  ],
+  [
+    64063,
+    1975,
+    "Asteroid Set 2 Xsmall 1"
+  ],
+  [
+    64064,
+    1975,
+    "Asteroid Set 2 Xsmall 2"
+  ],
+  [
+    64065,
+    1975,
+    "Asteroid Set 2 Xsmall 3"
+  ],
+  [
+    64066,
+    1975,
+    "Asteroid Set 2 Xsmall 4"
+  ],
+  [
+    64067,
+    1975,
+    "Asteroid Set 2 Xsmall 5"
+  ],
+  [
+    64068,
+    1975,
+    "Asteroid Set 2 Xsmall 6"
+  ],
+  [
+    64069,
+    1975,
+    "Asteroid Set 2 Xsmall 7"
+  ],
+  [
+    64070,
+    1975,
+    "Asteroid Set 2 Xsmall 8"
+  ],
+  [
+    64071,
+    1975,
+    "Asteroid Set 2 Xsmall 9"
+  ],
+  [
+    64072,
+    1975,
+    "Asteroid Set 2 Xsmall 10"
+  ],
+  [
+    64073,
+    1975,
+    "Asteroid Set 2 Xsmall 11"
+  ],
+  [
+    64074,
+    1975,
+    "Asteroid Set 2 Xsmall 12"
+  ],
+  [
+    64075,
+    1975,
+    "Asteroid Set 2 Xsmall 13"
+  ],
+  [
+    64076,
+    1975,
+    "Asteroid Set 2 Xsmall 14"
+  ],
+  [
+    64077,
+    1975,
+    "Asteroid Set 2 Xsmall 15"
+  ],
+  [
     64078,
     1975,
     "uaf01_t1_environment_asset"
+  ],
+  [
+    64079,
+    1975,
+    "Bloodraider Outpost non interactable"
+  ],
+  [
+    64080,
+    1975,
+    "Bloodraider Outpost Wreckage"
+  ],
+  [
+    64081,
+    1975,
+    "Bloodraider Outpost Wreckage Infested"
+  ],
+  [
+    64082,
+    1975,
+    "Serpentis Outpost non interactable"
+  ],
+  [
+    64083,
+    1975,
+    "Serpentis Outpost Wreckage"
+  ],
+  [
+    64084,
+    1975,
+    "Serpentis Outpost Wreckage Infested"
+  ],
+  [
+    64085,
+    1975,
+    "Angel Outpost non interactable"
+  ],
+  [
+    64086,
+    1975,
+    "Angel Outpost Wreckage"
+  ],
+  [
+    64087,
+    1975,
+    "Angel Outpost Wreckage Infested"
+  ],
+  [
+    64088,
+    1975,
+    "Guristas Outpost non interactable"
+  ],
+  [
+    64089,
+    1975,
+    "Guristas Outpost Wreckage"
+  ],
+  [
+    64090,
+    1975,
+    "Guristas Outpost Wreckage Infested"
   ],
   [
     64091,
@@ -146290,8 +146700,5158 @@
     "CD 19 Concord Supplemental Spawner (DO NOT TRANSLATE)"
   ],
   [
+    64104,
+    186,
+    "Bloodraider Structure Ruins"
+  ],
+  [
+    64105,
+    319,
+    "Bloodraider Hideout"
+  ],
+  [
+    64106,
+    1975,
+    "Bloodraider Hideout non interactable"
+  ],
+  [
+    64107,
+    1975,
+    "Bloodraider Hideout Wreckage"
+  ],
+  [
+    64108,
+    186,
+    "Serpentis Structure Ruins"
+  ],
+  [
+    64109,
+    319,
+    "Serpentis Hideout"
+  ],
+  [
+    64110,
+    1975,
+    "Serpentis Hideout non interactable"
+  ],
+  [
+    64111,
+    1975,
+    "Serpentis Hideout Wreckage"
+  ],
+  [
+    64112,
+    186,
+    "Angel Structure Ruins"
+  ],
+  [
+    64113,
+    319,
+    "Angel Hideout"
+  ],
+  [
+    64114,
+    1975,
+    "Angel Hideout Wreckage"
+  ],
+  [
+    64115,
+    1975,
+    "Angel Hideout non interactable"
+  ],
+  [
+    64116,
+    186,
+    "Guristas Structure Ruins"
+  ],
+  [
+    64117,
+    319,
+    "Guristas Hideout"
+  ],
+  [
+    64118,
+    1975,
+    "Guristas Hideout Wreckage"
+  ],
+  [
+    64119,
+    1975,
+    "Guristas Hideout non interactable"
+  ],
+  [
+    64120,
+    186,
+    "Bloodraider Warehouse Wreck"
+  ],
+  [
+    64121,
+    319,
+    "Bloodraider Warehouse"
+  ],
+  [
+    64122,
+    1975,
+    "Bloodraider Warehouse non interactable"
+  ],
+  [
+    64123,
+    1975,
+    "Bloodraider Warehouse Wreckage"
+  ],
+  [
+    64124,
+    186,
+    "Serpentis Warehouse Wreck"
+  ],
+  [
+    64125,
+    319,
+    "Serpentis Warehouse"
+  ],
+  [
+    64126,
+    1975,
+    "Serpentis Warehouse Wreckage"
+  ],
+  [
+    64127,
+    1975,
+    "Serpentis Warehouse non interactable"
+  ],
+  [
+    64128,
+    186,
+    "Angel Warehouse Wreck"
+  ],
+  [
+    64129,
+    319,
+    "Angel Warehouse"
+  ],
+  [
+    64130,
+    1975,
+    "Angel Warehouse Wreckage"
+  ],
+  [
+    64131,
+    1975,
+    "Angel Warehouse non interactable"
+  ],
+  [
+    64132,
+    186,
+    "Guristas Warehouse Wreck"
+  ],
+  [
+    64133,
+    319,
+    "Guristas Warehouse"
+  ],
+  [
+    64134,
+    1975,
+    "Guristas Warehouse Wreckage"
+  ],
+  [
+    64135,
+    1975,
+    "Guristas Warehouse non interactable"
+  ],
+  [
+    64136,
+    1975,
+    "Bloodraider Den non interactable"
+  ],
+  [
+    64137,
+    1975,
+    "Serpentis Den non interactable"
+  ],
+  [
+    64138,
+    1975,
+    "Angel Den non interactable"
+  ],
+  [
+    64139,
+    1975,
+    "Guristas Den non interactable"
+  ],
+  [
+    64140,
+    186,
+    "Bloodraider Tower Wreck"
+  ],
+  [
+    64141,
+    319,
+    "Bloodraider Tower"
+  ],
+  [
+    64142,
+    1975,
+    "Bloodraider Tower Wreckage"
+  ],
+  [
+    64143,
+    1975,
+    "Bloodraider Tower non interactable"
+  ],
+  [
+    64144,
+    186,
+    "Serpentis Tower Wreck"
+  ],
+  [
+    64145,
+    319,
+    "Serpentis Tower"
+  ],
+  [
+    64146,
+    1975,
+    "Serpentis Tower Wreckage"
+  ],
+  [
+    64147,
+    1975,
+    "Serpentis Tower non interactable"
+  ],
+  [
+    64148,
+    186,
+    "Angel Tower Wreck"
+  ],
+  [
+    64149,
+    319,
+    "Angel Tower"
+  ],
+  [
+    64150,
+    1975,
+    "Angel Tower Wreckage"
+  ],
+  [
+    64151,
+    1975,
+    "Angel Tower non interactable"
+  ],
+  [
+    64152,
+    186,
+    "Guristas Tower Wreck"
+  ],
+  [
+    64153,
+    319,
+    "Guristas Tower"
+  ],
+  [
+    64154,
+    1975,
+    "Guristas Tower Wreckage"
+  ],
+  [
+    64155,
+    1975,
+    "Guristas Tower non interactable"
+  ],
+  [
+    64156,
+    1975,
+    "La Fleur Inn tower"
+  ],
+  [
+    64157,
+    1975,
+    "Amarr Navy Force Auxiliary Wreckage"
+  ],
+  [
+    64158,
+    1975,
+    "Apocalypse Navy Issue Wreckage"
+  ],
+  [
+    64159,
+    1975,
+    "Armageddon Navy Issue Wreckage"
+  ],
+  [
+    64160,
+    1975,
+    "Gallente Navy Force Auxiliary Wreckage"
+  ],
+  [
+    64161,
+    1975,
+    "Dominix Navy Issue Wreckage"
+  ],
+  [
+    64162,
+    1975,
+    "Megathron Navy Issue Wreckage"
+  ],
+  [
+    64163,
+    1975,
+    "Minmatar Fleet Force Auxiliary Wreckage"
+  ],
+  [
+    64164,
+    1975,
+    "Typhoon Fleet Issue Wreckage"
+  ],
+  [
+    64165,
+    1975,
+    "Tempest Fleet Issue Wreckage"
+  ],
+  [
+    64166,
+    1975,
+    "Caldari Navy Force Auxiliary Wreckage"
+  ],
+  [
+    64167,
+    1975,
+    "Raven Navy Issue Wreckage"
+  ],
+  [
+    64168,
+    1975,
+    "Scorpion Navy Issue Wreckage"
+  ],
+  [
+    64169,
+    1975,
+    "Gallente Freighter Wreckage"
+  ],
+  [
+    64170,
+    1975,
+    "Caldari Freighter Wreckage"
+  ],
+  [
+    64171,
+    1975,
+    "Rorqual Wreckage"
+  ],
+  [
+    64172,
+    1975,
+    "Rorqual Wreckage Infested"
+  ],
+  [
+    64173,
+    1975,
+    "Bowhead Wreckage"
+  ],
+  [
+    64174,
+    1975,
+    "Bowhead Wreckage Infested"
+  ],
+  [
+    64175,
+    1975,
+    "Orca Wreckage"
+  ],
+  [
+    64176,
+    1975,
+    "Orca Wreckage Infested"
+  ],
+  [
+    64177,
+    1975,
+    "Asteroid Mining Post"
+  ],
+  [
+    64178,
+    1975,
+    "Concord Prison Barracks"
+  ],
+  [
+    64179,
+    1975,
+    "Concord Prison Perimeter"
+  ],
+  [
+    64180,
+    1975,
+    "Grand Hotel Suites"
+  ],
+  [
+    64181,
+    1975,
+    "Grand Hotel Casino"
+  ],
+  [
+    64182,
+    1975,
+    "Gas Refinery Station"
+  ],
+  [
+    64183,
+    186,
+    "Hotel Wreck"
+  ],
+  [
+    64184,
+    319,
+    "Hotel"
+  ],
+  [
+    64185,
+    1975,
+    "Smuggler Jumpgate"
+  ],
+  [
+    64186,
+    1975,
+    "Blood Raider Cathedral"
+  ],
+  [
+    64187,
+    1975,
+    "Blood Raider Fortress"
+  ],
+  [
+    64188,
+    227,
+    "Secondary Spawner"
+  ],
+  [
     64191,
     1971,
     "Proving Capsuleer Day 2022 Bonus (Do not translate)"
+  ],
+  [
+    64192,
+    1975,
+    "La Fleur Inn Radiation Cloud"
+  ],
+  [
+    64195,
+    1088,
+    "Women's 'Hyper' Racing Jacket"
+  ],
+  [
+    64196,
+    1088,
+    "Men's 'Hyper' Racing Jacket"
+  ],
+  [
+    64201,
+    1092,
+    "Men's Minmatar 'Rebellion' Cap"
+  ],
+  [
+    64202,
+    1092,
+    "Women's Minmatar 'Rebellion' Cap"
+  ],
+  [
+    64203,
+    1089,
+    "Women's Minmatar 'Rebellion' T-Shirt"
+  ],
+  [
+    64204,
+    1089,
+    "Men's Minmatar 'Rebellion' T-Shirt"
+  ],
+  [
+    64268,
+    1089,
+    "Men's Minmatar 'Freedom Fighter' T-Shirt"
+  ],
+  [
+    64269,
+    1089,
+    "Women's Minmatar 'Freedom Fighter' T-Shirt"
+  ],
+  [
+    64270,
+    1092,
+    "Men's Minmatar 'Freedom Fighter' Cap"
+  ],
+  [
+    64271,
+    1092,
+    "Women's Minmatar 'Freedom Fighter' Cap"
+  ],
+  [
+    64346,
+    1880,
+    "♦ Officer Chemosh"
+  ],
+  [
+    64353,
+    1975,
+    "Secure Generic Data Storage"
+  ],
+  [
+    64354,
+    1975,
+    "Secure Generic Data Storage Wreckage"
+  ],
+  [
+    64355,
+    1975,
+    "Secure Generic Data Vault"
+  ],
+  [
+    64356,
+    1975,
+    "Secure Generic Data Vault Wreckage"
+  ],
+  [
+    64357,
+    1975,
+    "Particle Cloud 01b"
+  ],
+  [
+    64358,
+    1975,
+    "Particle Cloud 01c"
+  ],
+  [
+    64359,
+    1975,
+    "Particle Cloud 01d"
+  ],
+  [
+    64360,
+    1975,
+    "Particle Cloud 01e"
+  ],
+  [
+    64361,
+    1975,
+    "Particle Cloud 01f"
+  ],
+  [
+    64362,
+    1975,
+    "Static Cloud 01a"
+  ],
+  [
+    64363,
+    1975,
+    "Static Cloud 01b"
+  ],
+  [
+    64364,
+    1975,
+    "Static Cloud 01c"
+  ],
+  [
+    64365,
+    1975,
+    "Static Cloud 01d"
+  ],
+  [
+    64366,
+    1975,
+    "Static Cloud 01e"
+  ],
+  [
+    64367,
+    1975,
+    "Particle Cloud 100k Flat 01a"
+  ],
+  [
+    64368,
+    1975,
+    "Particle Cloud 100k Flat 01b"
+  ],
+  [
+    64369,
+    1975,
+    "Particle Cloud 100k Sphere 01a"
+  ],
+  [
+    64370,
+    1975,
+    "Particle Cloud 100k Sphere 01b"
+  ],
+  [
+    64371,
+    1975,
+    "Particle Cloud Donut 01a"
+  ],
+  [
+    64372,
+    1975,
+    "Particle Cloud Donut 01b"
+  ],
+  [
+    64373,
+    303,
+    "Grand Prix Booster I"
+  ],
+  [
+    64374,
+    303,
+    "Grand Prix Booster II"
+  ],
+  [
+    64375,
+    303,
+    "Grand Prix Booster III"
+  ],
+  [
+    64376,
+    303,
+    "Grand Prix Booster IV"
+  ],
+  [
+    64377,
+    1088,
+    "Women's Amarr Devotional Robe"
+  ],
+  [
+    64378,
+    1088,
+    "Women's Amarr Courtly Robe"
+  ],
+  [
+    64379,
+    1088,
+    "Men's Amarr Devotional Robe"
+  ],
+  [
+    64380,
+    1088,
+    "Men's Amarr Courtly Robe"
+  ],
+  [
+    64404,
+    697,
+    "CONCORD Fleet Commander"
+  ],
+  [
+    64416,
+    1975,
+    "Colony Battleship Wreckage"
+  ],
+  [
+    64417,
+    1975,
+    "Angel Barrier ZX"
+  ],
+  [
+    64427,
+    1975,
+    "Particle Cloud Thunder Large 01c"
+  ],
+  [
+    64428,
+    1975,
+    "Swirling Cloud 01a"
+  ],
+  [
+    64429,
+    1975,
+    "Swirling Cloud 01b"
+  ],
+  [
+    64430,
+    1975,
+    "Shattered Arkonor Asteroid"
+  ],
+  [
+    64431,
+    1975,
+    "Shattered Gneiss Asteroid"
+  ],
+  [
+    64432,
+    1975,
+    "Shattered Kernite Asteroid"
+  ],
+  [
+    64433,
+    1975,
+    "Cloven Arkonor Asteroid"
+  ],
+  [
+    64434,
+    1975,
+    "Cloven Kernite Asteroid"
+  ],
+  [
+    64435,
+    1975,
+    "Barren Asteroid"
+  ],
+  [
+    64436,
+    1975,
+    "Non-interactable Vexor (do not translate)"
+  ],
+  [
+    64437,
+    1975,
+    "Non-interactable Atron (do not translate)"
+  ],
+  [
+    64438,
+    1975,
+    "Non-interactable Incursus (do not translate)"
+  ],
+  [
+    64439,
+    1975,
+    "Non-interactable Maulus (do not translate)"
+  ],
+  [
+    64440,
+    1975,
+    "Non-interactable Navitas (do not translate)"
+  ],
+  [
+    64441,
+    1975,
+    "Non-interactable Tristan (do not translate)"
+  ],
+  [
+    64442,
+    1975,
+    "Non-interactable Catalyst (do not translate)"
+  ],
+  [
+    64443,
+    1975,
+    "Non-interactable Celestis (do not translate)"
+  ],
+  [
+    64444,
+    1975,
+    "Non-interactable Exequror (do not translate)"
+  ],
+  [
+    64445,
+    1975,
+    "Non-interactable Thorax (do not translate)"
+  ],
+  [
+    64446,
+    1975,
+    "Non-interactable Brutix (do not translate)"
+  ],
+  [
+    64447,
+    1975,
+    "Non-interactable Myrmidon (do not translate)"
+  ],
+  [
+    64448,
+    1975,
+    "Non-interactable Dominix (do not translate)"
+  ],
+  [
+    64449,
+    1975,
+    "Non-interactable Hyperion (do not translate)"
+  ],
+  [
+    64450,
+    1975,
+    "Non-interactable Megathron (do not translate)"
+  ],
+  [
+    64451,
+    1975,
+    "Non-interactable Nyx (do not translate)"
+  ],
+  [
+    64452,
+    1975,
+    "Non-interactable Thanatos (do not translate)"
+  ],
+  [
+    64453,
+    1975,
+    "Non-interactable Moros (do not translate)"
+  ],
+  [
+    64455,
+    1975,
+    "Angel Lookout"
+  ],
+  [
+    64456,
+    1975,
+    "Angel Junction"
+  ],
+  [
+    64457,
+    1975,
+    "Angel Barrier X"
+  ],
+  [
+    64458,
+    1975,
+    "Angel Elevator"
+  ],
+  [
+    64459,
+    1975,
+    "Angel Missile Battery"
+  ],
+  [
+    64460,
+    1975,
+    "Guristas Lookout"
+  ],
+  [
+    64461,
+    1975,
+    "Guristas Junction"
+  ],
+  [
+    64462,
+    1975,
+    "Guristas Barrier X"
+  ],
+  [
+    64463,
+    1975,
+    "Guristas Elevator"
+  ],
+  [
+    64464,
+    1975,
+    "Guristas Missile Battery"
+  ],
+  [
+    64465,
+    1975,
+    "Bloodraider Lookout"
+  ],
+  [
+    64466,
+    1975,
+    "Bloodraider Junction"
+  ],
+  [
+    64467,
+    1975,
+    "Bloodraider Barrier X"
+  ],
+  [
+    64468,
+    1975,
+    "Bloodraider Elevator"
+  ],
+  [
+    64469,
+    1975,
+    "Bloodraider Missile Battery"
+  ],
+  [
+    64470,
+    1975,
+    "Serpentis Lookout"
+  ],
+  [
+    64471,
+    1975,
+    "Serpentis Junction"
+  ],
+  [
+    64472,
+    1975,
+    "Serpentis Barrier X"
+  ],
+  [
+    64473,
+    1975,
+    "Serpentis Elevator"
+  ],
+  [
+    64474,
+    1975,
+    "Serpentis Missile Battery"
+  ],
+  [
+    64475,
+    1975,
+    "Blue Holo Corner 01a"
+  ],
+  [
+    64476,
+    1975,
+    "Blue Holo Corner 02a"
+  ],
+  [
+    64477,
+    1975,
+    "Blue Holo Corner Curved 01a"
+  ],
+  [
+    64478,
+    1975,
+    "Blue Holo Detailed 01a"
+  ],
+  [
+    64479,
+    1975,
+    "Teal Holo Detailed 01a"
+  ],
+  [
+    64480,
+    1975,
+    "Yellow Holo Corner Curved 01a"
+  ],
+  [
+    64481,
+    1975,
+    "Yellow Holo Detailed 01a"
+  ],
+  [
+    64482,
+    1975,
+    "Yellow Holo Detailed 02a"
+  ],
+  [
+    64483,
+    1975,
+    "Yellow Holo Straight 01a"
+  ],
+  [
+    64484,
+    1975,
+    "Yellow Holo Straight 02a"
+  ],
+  [
+    64485,
+    1975,
+    "Yellow Holo Straight Long 02b"
+  ],
+  [
+    64486,
+    1975,
+    "Blue Holo Straight 02a"
+  ],
+  [
+    64487,
+    1975,
+    "Blue Holo Straight Long 02b"
+  ],
+  [
+    64488,
+    1975,
+    "Orange Holo Corner 01a"
+  ],
+  [
+    64489,
+    1975,
+    "Orange Holo Corner 02a"
+  ],
+  [
+    64490,
+    1975,
+    "Orange Holo Corner Curved 01a"
+  ],
+  [
+    64491,
+    1975,
+    "Orange Holo Detailed 01a"
+  ],
+  [
+    64492,
+    1975,
+    "Orange Holo Detailed 02a"
+  ],
+  [
+    64493,
+    1975,
+    "Orange Holo Straight 01a"
+  ],
+  [
+    64494,
+    1975,
+    "Orange Holo Straight 02a"
+  ],
+  [
+    64495,
+    1975,
+    "Orange Holo Straight Long 02b"
+  ],
+  [
+    64496,
+    1975,
+    "Red Holo Corner 02a"
+  ],
+  [
+    64497,
+    1975,
+    "Red Holo Corner Curved 01a"
+  ],
+  [
+    64498,
+    1975,
+    "Red Holo Detailed 01a"
+  ],
+  [
+    64499,
+    1975,
+    "Red Holo Detailed 02a"
+  ],
+  [
+    64500,
+    1975,
+    "Red Holo Straight 01a"
+  ],
+  [
+    64501,
+    1975,
+    "Red Holo Straight 02a"
+  ],
+  [
+    64502,
+    1975,
+    "Red Holo Straight Long 02b"
+  ],
+  [
+    64503,
+    1975,
+    "Teal Holo Corner 01a"
+  ],
+  [
+    64504,
+    1975,
+    "Teal Holo Corner 02a"
+  ],
+  [
+    64505,
+    1975,
+    "Teal Holo Corner Curved 01a"
+  ],
+  [
+    64506,
+    1975,
+    "Teal Holo Detailed 02a"
+  ],
+  [
+    64507,
+    1975,
+    "Teal Holo Straight 01a"
+  ],
+  [
+    64508,
+    1975,
+    "Teal Holo Straight 02a"
+  ],
+  [
+    64509,
+    1975,
+    "Teal Holo Straight Long 02b"
+  ],
+  [
+    64510,
+    1975,
+    "Yellow Holo Corner 01a"
+  ],
+  [
+    64511,
+    1975,
+    "Yellow Holo Corner 02a"
+  ],
+  [
+    64512,
+    1975,
+    "Blue Holo Detailed 02a"
+  ],
+  [
+    64513,
+    1975,
+    "Blue Holo Straight 01a"
+  ],
+  [
+    64514,
+    1975,
+    "Red Holo Corner 01a"
+  ],
+  [
+    64515,
+    319,
+    "Bloodraider Repair Hub"
+  ],
+  [
+    64516,
+    319,
+    "Serpentis Repair Hub"
+  ],
+  [
+    64517,
+    319,
+    "Angel Repair Hub"
+  ],
+  [
+    64518,
+    319,
+    "Guristas Repair Hub"
+  ],
+  [
+    64519,
+    1975,
+    "Dungeon 2024 traffic FX"
+  ],
+  [
+    64520,
+    1975,
+    "Smuggler Construction Dock 01"
+  ],
+  [
+    64521,
+    1975,
+    "Construction Dock 01 Gas Leak"
+  ],
+  [
+    64522,
+    319,
+    "Concord Prison Facility"
+  ],
+  [
+    64526,
+    1975,
+    "Non-interactable Billboard (do not translate)"
+  ],
+  [
+    64534,
+    1975,
+    "Non-interactable Ninazu (do not translate)"
+  ],
+  [
+    64535,
+    1975,
+    "Non-interactable Talos (do not translate)"
+  ],
+  [
+    64536,
+    310,
+    "CSM Election Voter Information Station"
+  ],
+  [
+    64543,
+    1975,
+    "Non-interactable Large Billboard (do not translate)"
+  ],
+  [
+    64545,
+    226,
+    "Battle of Ratillose Monument"
+  ],
+  [
+    64546,
+    1975,
+    "Gallente Commercial Station Ruins"
+  ],
+  [
+    64547,
+    1975,
+    "Non-Interactable Megathron Wreck (Do Not Translate)"
+  ],
+  [
+    64548,
+    1975,
+    "Non-Interactable Moros Wreck (Do Not Translate)"
+  ],
+  [
+    64549,
+    1975,
+    "Gallente Carrier Wreckage"
+  ],
+  [
+    64550,
+    1975,
+    "Spaceshuttle Shuttle Wreckage"
+  ],
+  [
+    64551,
+    1975,
+    "Wrecked Amarr Apocalypse Battleship"
+  ],
+  [
+    64558,
+    4090,
+    "Developer Subcapital Unlock ES"
+  ],
+  [
+    64567,
+    310,
+    "Battle of Ratillose Monument"
+  ],
+  [
+    64601,
+    1975,
+    "Blue Holo Prefab 01a"
+  ],
+  [
+    64602,
+    1975,
+    "ENV_Bloodraider_S1"
+  ],
+  [
+    64603,
+    1975,
+    "ENV_Bloodraider_S2"
+  ],
+  [
+    64604,
+    1975,
+    "ENV_Bloodraider_S3"
+  ],
+  [
+    64605,
+    1975,
+    "ENV_Serpentis_S1"
+  ],
+  [
+    64606,
+    1975,
+    "ENV_Serpentis_S2"
+  ],
+  [
+    64607,
+    1975,
+    "ENV_Serpentis_S3"
+  ],
+  [
+    64608,
+    1975,
+    "ENV_Guristas_S1"
+  ],
+  [
+    64609,
+    1975,
+    "ENV_Guristas_S2"
+  ],
+  [
+    64610,
+    1975,
+    "ENV_Guristas_S3"
+  ],
+  [
+    64611,
+    1975,
+    "ENV_Angel_S1"
+  ],
+  [
+    64612,
+    1975,
+    "ENV_Angel_S2"
+  ],
+  [
+    64613,
+    1975,
+    "ENV_Angel_S3"
+  ],
+  [
+    64614,
+    1975,
+    "ENV_Smuggler_S1_01a"
+  ],
+  [
+    64615,
+    1975,
+    "ENV_Smuggler_S2_01a"
+  ],
+  [
+    64616,
+    1975,
+    "ENV_Casino_01a"
+  ],
+  [
+    64617,
+    1975,
+    "ENV_GenericCombat_01a"
+  ],
+  [
+    64618,
+    1975,
+    "ENV_Amarr_01a"
+  ],
+  [
+    64619,
+    1975,
+    "ENV_Caldari_01a"
+  ],
+  [
+    64620,
+    1975,
+    "ENV_Gallente_01a"
+  ],
+  [
+    64621,
+    1975,
+    "ENV_Minmatar_01a"
+  ],
+  [
+    64622,
+    1975,
+    "ENV_DarkExploration_01a"
+  ],
+  [
+    64623,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64624,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64625,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64626,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64627,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64628,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64629,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64630,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64631,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64632,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64633,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64634,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64635,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64636,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64637,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64638,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64639,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64640,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64641,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64642,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64643,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64644,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64645,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64646,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64647,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64648,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64649,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64650,
+    1975,
+    "Placeholder DO NOT USE"
+  ],
+  [
+    64651,
+    1975,
+    "Blue Holo Prefab 02a"
+  ],
+  [
+    64652,
+    1975,
+    "Blue Holo Prefab 03a"
+  ],
+  [
+    64653,
+    1975,
+    "Orange Holo Prefab 04a"
+  ],
+  [
+    64654,
+    1975,
+    "Red Holo Prefab 1x4 01a"
+  ],
+  [
+    64655,
+    1975,
+    "Teal Holo Prefab 1x4 01b"
+  ],
+  [
+    64656,
+    1975,
+    "Yellow Holo Prefab 1x4 01b"
+  ],
+  [
+    64657,
+    1975,
+    "Yellow Holo Prefab 1x8 01a"
+  ],
+  [
+    64658,
+    1975,
+    "Yellow Holo Prefab 1x8 01b"
+  ],
+  [
+    64659,
+    1975,
+    "Yellow Holo Prefab 2x8 01a"
+  ],
+  [
+    64660,
+    1975,
+    "Yellow Holo Prefab 2x8 01b"
+  ],
+  [
+    64661,
+    1975,
+    "Blue Holo Prefab 04a"
+  ],
+  [
+    64662,
+    1975,
+    "Blue Holo Prefab 1x4 01a"
+  ],
+  [
+    64663,
+    1975,
+    "Blue Holo Prefab 1x4 01b"
+  ],
+  [
+    64664,
+    1975,
+    "Blue Holo Prefab 1x8 01a"
+  ],
+  [
+    64665,
+    1975,
+    "Blue Holo Prefab 1x8 01b"
+  ],
+  [
+    64666,
+    1975,
+    "Blue Holo Prefab 2x8 01a"
+  ],
+  [
+    64667,
+    1975,
+    "Blue Holo Prefab 2x8 01b"
+  ],
+  [
+    64668,
+    1975,
+    "Orange Holo Prefab 01a"
+  ],
+  [
+    64669,
+    1975,
+    "Orange Holo Prefab 02a"
+  ],
+  [
+    64670,
+    1975,
+    "Orange Holo Prefab 03a"
+  ],
+  [
+    64671,
+    1975,
+    "Orange Holo Prefab 1x4 01a"
+  ],
+  [
+    64672,
+    1975,
+    "Orange Holo Prefab 1x4 01b"
+  ],
+  [
+    64673,
+    1975,
+    "Orange Holo Prefab 1x8 01a"
+  ],
+  [
+    64674,
+    1975,
+    "Orange Holo Prefab 1x8 01b"
+  ],
+  [
+    64675,
+    1975,
+    "Orange Holo Prefab 2x8 01a"
+  ],
+  [
+    64676,
+    1975,
+    "Orange Holo Prefab 2x8 01b"
+  ],
+  [
+    64677,
+    1975,
+    "Red Holo Prefab 01a"
+  ],
+  [
+    64678,
+    1975,
+    "Red Holo Prefab 02a"
+  ],
+  [
+    64679,
+    1975,
+    "Red Holo Prefab 03a"
+  ],
+  [
+    64680,
+    1975,
+    "Red Holo Prefab 04a"
+  ],
+  [
+    64681,
+    1975,
+    "Red Holo Prefab 1x4 01b"
+  ],
+  [
+    64682,
+    1975,
+    "Red Holo Prefab 1x8 01a"
+  ],
+  [
+    64683,
+    1975,
+    "Red Holo Prefab 1x8 01b"
+  ],
+  [
+    64684,
+    1975,
+    "Red Holo Prefab 2x8 01a"
+  ],
+  [
+    64685,
+    1975,
+    "Red Holo Prefab 2x8 01b"
+  ],
+  [
+    64686,
+    1975,
+    "Teal Holo Prefab 01a"
+  ],
+  [
+    64687,
+    1975,
+    "Teal Holo Prefab 02a"
+  ],
+  [
+    64688,
+    1975,
+    "Teal Holo Prefab 03a"
+  ],
+  [
+    64689,
+    1975,
+    "Teal Holo Prefab 04a"
+  ],
+  [
+    64690,
+    1975,
+    "Teal Holo Prefab 1x4 01a"
+  ],
+  [
+    64691,
+    1975,
+    "Teal Holo Prefab 1x8 01a"
+  ],
+  [
+    64692,
+    1975,
+    "Teal Holo Prefab 1x8 01b"
+  ],
+  [
+    64693,
+    1975,
+    "Teal Holo Prefab 2x8 01a"
+  ],
+  [
+    64694,
+    1975,
+    "Teal Holo Prefab 2x8 01b"
+  ],
+  [
+    64695,
+    1975,
+    "Yellow Holo Prefab 01a"
+  ],
+  [
+    64696,
+    1975,
+    "Yellow Holo Prefab 02a"
+  ],
+  [
+    64697,
+    1975,
+    "Yellow Holo Prefab 03a"
+  ],
+  [
+    64698,
+    1975,
+    "Yellow Holo Prefab 04a"
+  ],
+  [
+    64699,
+    1975,
+    "Yellow Holo Prefab 1x4 01a"
+  ],
+  [
+    64700,
+    1975,
+    "Debris Explode and Go 01 Dungeon 5000m"
+  ],
+  [
+    64701,
+    1975,
+    "Debris Explode and Go 02 Dungeon 8000m"
+  ],
+  [
+    64702,
+    1975,
+    "Debris Explode and Go 02 Dungeon 10000m"
+  ],
+  [
+    64703,
+    1975,
+    "Debris Explode and Go 02 Dungeon 12000m"
+  ],
+  [
+    64704,
+    1975,
+    "Debris Explode and Go 01 Dungeon 8000m"
+  ],
+  [
+    64705,
+    1975,
+    "Debris Explode and Go 01 Dungeon 10000m"
+  ],
+  [
+    64706,
+    1975,
+    "Debris Explode and Go 04 Dungeon 5000m"
+  ],
+  [
+    64707,
+    1975,
+    "Debris Explode and Go 04 Dungeon 8000m"
+  ],
+  [
+    64708,
+    1975,
+    "Debris Explode and Go 04 Dungeon 10000m"
+  ],
+  [
+    64709,
+    1975,
+    "Debris Explode and Go 04 Dungeon 12000m"
+  ],
+  [
+    64710,
+    1975,
+    "Debris Explode and Go 05 Dungeon 1000m"
+  ],
+  [
+    64711,
+    1975,
+    "Debris Explode and Go 05 Dungeon 3000m"
+  ],
+  [
+    64712,
+    1975,
+    "Debris Explode and Go 05 Dungeon 5000m"
+  ],
+  [
+    64713,
+    1975,
+    "Debris Explode and Go 05 Dungeon 7000m"
+  ],
+  [
+    64714,
+    1975,
+    "Debris Explode and Go 01 Dungeon 12000m"
+  ],
+  [
+    64715,
+    1975,
+    "Debris Explode and Go 02 Dungeon 5000m"
+  ],
+  [
+    64716,
+    1975,
+    "ParticleCloud 30km 01a"
+  ],
+  [
+    64717,
+    1975,
+    "ParticleCloud 30km 03a"
+  ],
+  [
+    64718,
+    1975,
+    "ParticleCloud 30km 04a"
+  ],
+  [
+    64719,
+    1975,
+    "ParticleCloud 30km 04b"
+  ],
+  [
+    64720,
+    1975,
+    "ParticleCloud 30km 01b"
+  ],
+  [
+    64721,
+    1975,
+    "ParticleCloud 30km 02a"
+  ],
+  [
+    64724,
+    303,
+    "Basic Glamourex Booster"
+  ],
+  [
+    64725,
+    226,
+    "Federation Grand Prix Duvolle HQ Waypoint"
+  ],
+  [
+    64734,
+    226,
+    "Federation Grand Prix History Route: Intaki Prime"
+  ],
+  [
+    64735,
+    226,
+    "Federation Grand Prix History Route: Verge Vendor Colonies"
+  ],
+  [
+    64736,
+    226,
+    "Federation Grand Prix History Route: Chandeille"
+  ],
+  [
+    64737,
+    226,
+    "Federation Grand Prix History Route: Republic University"
+  ],
+  [
+    64738,
+    226,
+    "Federation Grand Prix History Route: Aidonis Elabon and CONCORD"
+  ],
+  [
+    64739,
+    226,
+    "Federation Grand Prix History Route: Treaty of Tierijev"
+  ],
+  [
+    64740,
+    226,
+    "Federation Grand Prix History Route: Federation Senate"
+  ],
+  [
+    64741,
+    226,
+    "Federation Grand Prix History Route: Federation Supreme Court"
+  ],
+  [
+    64742,
+    226,
+    "Federation Grand Prix History Route: Federation President"
+  ],
+  [
+    64743,
+    1975,
+    "Walkway Debris"
+  ],
+  [
+    64744,
+    1975,
+    "Unidentified Wreckage"
+  ],
+  [
+    64745,
+    1975,
+    "Abandoned Drill"
+  ],
+  [
+    64746,
+    1194,
+    "Federation Grand Prix Jacket Crate"
+  ],
+  [
+    64747,
+    226,
+    "Champions of the Federation Grand Prix YC124"
+  ],
+  [
+    64748,
+    1975,
+    "refs1_t1b_environment_asset"
+  ],
+  [
+    64802,
+    226,
+    "Amarr Navy Research Station"
+  ],
+  [
+    64820,
+    1975,
+    "Celestial Asteroid Coral 2"
+  ],
+  [
+    64821,
+    1975,
+    "Rock Formation 1"
+  ],
+  [
+    64822,
+    1975,
+    "Rock Formation 3"
+  ],
+  [
+    64823,
+    1975,
+    "Rock Formation 5"
+  ],
+  [
+    64824,
+    1975,
+    "XL Structure Billboard"
+  ],
+  [
+    64825,
+    1975,
+    "District Satellite"
+  ],
+  [
+    64849,
+    1975,
+    "Derelict Ship"
+  ],
+  [
+    64850,
+    1975,
+    "Ruined Neon Sign"
+  ],
+  [
+    64867,
+    1975,
+    "Small Lightning 01a"
+  ],
+  [
+    64868,
+    1975,
+    "Fortified Minmatar Lookout ( DO NOT TRANSLATE )"
+  ],
+  [
+    64869,
+    1975,
+    "Indestructible Minmatar Starbase (DO NOT TRANSLATE )"
+  ],
+  [
+    64870,
+    1975,
+    "Fortified Minmatar Barricade ( DO NOT TRANSLATE)"
+  ],
+  [
+    64876,
+    306,
+    "Angel Data Storage Device"
+  ],
+  [
+    64877,
+    306,
+    "Blood Raider Data Storage Device"
+  ],
+  [
+    64878,
+    306,
+    "Guristas Data Storage Device"
+  ],
+  [
+    64879,
+    306,
+    "Serpentis Data Storage Device"
+  ],
+  [
+    64880,
+    306,
+    "Data Storage Device"
+  ],
+  [
+    64881,
+    1975,
+    "Liberation Games Firework Sentry ( DO NOT TRANSLATE)"
+  ],
+  [
+    64882,
+    1975,
+    "Fortified Minmatar Barrier ( DO NOT TRANSLATE)"
+  ],
+  [
+    64883,
+    1975,
+    "Defunct Minmatar Encounter Surveillance System (DO NOT TRANSLATE)"
+  ],
+  [
+    64884,
+    1975,
+    "Minmatar Tactical Supply Station (DO NOT TRANSLATE)"
+  ],
+  [
+    64885,
+    1975,
+    "Starbase Major Assembly Array (DO NOT TRANSLATE)"
+  ],
+  [
+    64886,
+    1975,
+    "Fortified Minmatar Battery (DO NOT TRANSLATE)"
+  ],
+  [
+    64887,
+    226,
+    "Minmatar Border Security Outpost"
+  ],
+  [
+    64888,
+    1975,
+    "Fortified Minmatar Grandstand (DO NOT TRANSLATE)"
+  ],
+  [
+    64889,
+    1975,
+    "Minmatar Sentry Gun (DO NOT TRANSLATE)"
+  ],
+  [
+    64890,
+    1882,
+    "ENV_Icefield"
+  ],
+  [
+    64892,
+    310,
+    "Minmatar Border Security Outpost"
+  ],
+  [
+    64895,
+    1971,
+    "Proving Overload Bonus with Turret Falloff Bonus and Optimal Penalty (Do not translate)"
+  ],
+  [
+    64896,
+    1971,
+    "Large Proving Tachyon Cloud"
+  ],
+  [
+    64897,
+    1975,
+    "gs6_wreck_environment_asset"
+  ],
+  [
+    64898,
+    1975,
+    "gs5_wreck_environment_asset"
+  ],
+  [
+    64901,
+    303,
+    "Basic Cerebral Accelerator"
+  ],
+  [
+    64903,
+    1975,
+    "Non-Interactable Raven Wreck (Do Not Translate)"
+  ],
+  [
+    64904,
+    1975,
+    "Non-Interactable Scorpion Wreck (Do Not Translate)"
+  ],
+  [
+    64905,
+    1975,
+    "Non-Interactable Phoenix Wreck (Do Not Translate)"
+  ],
+  [
+    64906,
+    1975,
+    "Non-Interactable Chimera Wreck (Do Not Translate)"
+  ],
+  [
+    64949,
+    303,
+    "Expired Liberation Games Accuracy Booster II"
+  ],
+  [
+    64950,
+    303,
+    "Expired Liberation Games Accuracy Booster III"
+  ],
+  [
+    64951,
+    303,
+    "Expired Liberation Games Accuracy Booster IV"
+  ],
+  [
+    64952,
+    303,
+    "Expired Liberation Games Accuracy Booster I"
+  ],
+  [
+    64953,
+    303,
+    "Expired Liberation Games Damage Booster I"
+  ],
+  [
+    64954,
+    303,
+    "Expired Liberation Games Damage Booster II"
+  ],
+  [
+    64955,
+    303,
+    "Expired Liberation Games Damage Booster III"
+  ],
+  [
+    64956,
+    303,
+    "Expired Liberation Games Damage Booster IV"
+  ],
+  [
+    64957,
+    303,
+    "Expired Liberation Games EWar Booster II"
+  ],
+  [
+    64958,
+    303,
+    "Expired Liberation Games EWar Booster III"
+  ],
+  [
+    64959,
+    303,
+    "Expired Liberation Games EWar Booster IV"
+  ],
+  [
+    64960,
+    303,
+    "Expired Liberation Games EWar Booster I"
+  ],
+  [
+    64961,
+    303,
+    "Expired Liberation Games Range Booster I"
+  ],
+  [
+    64962,
+    303,
+    "Expired Liberation Games Range Booster II"
+  ],
+  [
+    64963,
+    303,
+    "Expired Liberation Games Range Booster III"
+  ],
+  [
+    64964,
+    303,
+    "Expired Liberation Games Range Booster IV"
+  ],
+  [
+    64965,
+    1975,
+    "Minmatar Vigil  Frigate"
+  ],
+  [
+    64966,
+    1975,
+    "Minmatar Slasher Frigate"
+  ],
+  [
+    64967,
+    1975,
+    "Minmatar Probe Frigate"
+  ],
+  [
+    64968,
+    1975,
+    "Minmatar Rifter Frigate"
+  ],
+  [
+    64969,
+    1975,
+    "Minmatar Breacher Frigate"
+  ],
+  [
+    64970,
+    1975,
+    "Minmatar Burst Frigate"
+  ],
+  [
+    64971,
+    1975,
+    "Minmatar Thrasher Destroyer"
+  ],
+  [
+    64972,
+    226,
+    "Minmatar Stabber Cruiser ( copy )"
+  ],
+  [
+    64973,
+    1975,
+    "Minmatar Stabber Cruiser"
+  ],
+  [
+    64974,
+    1975,
+    "Minmatar Rupture Cruiser"
+  ],
+  [
+    64975,
+    1975,
+    "Minmatar Bellicose Cruiser"
+  ],
+  [
+    64976,
+    1975,
+    "Minmatar Scythe Cruiser"
+  ],
+  [
+    64977,
+    1975,
+    "Minmatar Cyclone Battlecruiser"
+  ],
+  [
+    64978,
+    1975,
+    "Minmatar Hurricane Battlecruiser"
+  ],
+  [
+    64979,
+    1975,
+    "Minmatar Typhoon Battleship"
+  ],
+  [
+    64980,
+    1975,
+    "Minmatar Tempest Battleship"
+  ],
+  [
+    64981,
+    1975,
+    "Minmatar Naglfar Dreadnought"
+  ],
+  [
+    64982,
+    1975,
+    "Minmatar Lif Force Auxiliary"
+  ],
+  [
+    64983,
+    1975,
+    "Minmatar Hel Carrier"
+  ],
+  [
+    64984,
+    1975,
+    "Minmatar Battlecruiser Tornado"
+  ],
+  [
+    64985,
+    1975,
+    "Minmatar Strategic Cruiser Loki"
+  ],
+  [
+    64986,
+    1975,
+    "Minmatar Nidhoggur Carrier"
+  ],
+  [
+    64987,
+    1975,
+    "Minmatar Maelstrom Battleship"
+  ],
+  [
+    64988,
+    1975,
+    "Minmatar Destroyer Talwar"
+  ],
+  [
+    65020,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65021,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65022,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65023,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65024,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65025,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65026,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65027,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65028,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65029,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65030,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65031,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65032,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65033,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65034,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65035,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65036,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65037,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65038,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65039,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65040,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65041,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65042,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65043,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65044,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65045,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65046,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65047,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65048,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65049,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65050,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65051,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65052,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65053,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65054,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65055,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65056,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65057,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65058,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65059,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    65061,
+    226,
+    "Minmatar-Gallente Border Traffic Monitoring"
+  ],
+  [
+    65062,
+    303,
+    "Expired Basic 'Rebel' Cerebral Accelerator"
+  ],
+  [
+    65063,
+    303,
+    "Expired Extended 'Rebel' Cerebral Accelerator"
+  ],
+  [
+    65064,
+    303,
+    "Expired Potent 'Rebel' Cerebral Accelerator"
+  ],
+  [
+    65065,
+    4430,
+    "PirateInfestation_Magnet (Do not translate)"
+  ],
+  [
+    65079,
+    1929,
+    "Proving Bonus Nexus"
+  ],
+  [
+    65141,
+    4055,
+    "PirateInfestation_Magnet Spawner"
+  ],
+  [
+    65142,
+    310,
+    "Imperial Navy Security Cordon Outpost"
+  ],
+  [
+    65143,
+    1975,
+    "Non-Interactable Amarr Starbase Control Tower (Do not translate)"
+  ],
+  [
+    65144,
+    1975,
+    "Amarr Cathedral "
+  ],
+  [
+    65145,
+    1975,
+    "Fortified Amarr Chapel"
+  ],
+  [
+    65146,
+    1975,
+    "ao1_t1_enviroment_asset"
+  ],
+  [
+    65147,
+    1975,
+    "Amarr Statue Dome"
+  ],
+  [
+    65148,
+    1975,
+    "Remote Cloaking Array"
+  ],
+  [
+    65149,
+    1975,
+    "Amarr Apartments"
+  ],
+  [
+    65150,
+    1975,
+    "Preserved Amarr Outpost Platform"
+  ],
+  [
+    65151,
+    1975,
+    "BH Sentry Gun"
+  ],
+  [
+    65152,
+    1975,
+    "Fortified Amarr Elevator"
+  ],
+  [
+    65153,
+    1975,
+    "Fortified Amarr Lookout"
+  ],
+  [
+    70746,
+    227,
+    "Invisible Defender's Beacon (Placeholder DNT)"
+  ],
+  [
+    70747,
+    227,
+    "Invisible Attacker's Beacon (Placeholder DNT)"
+  ],
+  [
+    70749,
+    1975,
+    "Amarr Coercer Destroyer"
+  ],
+  [
+    70750,
+    1975,
+    "Amarr Arbitrator Cruiser"
+  ],
+  [
+    70751,
+    1975,
+    "Amarr Augoror Cruiser"
+  ],
+  [
+    70752,
+    1975,
+    "Amarr Omen Cruiser"
+  ],
+  [
+    70753,
+    1975,
+    "Amarr Harbinger Battlecruiser"
+  ],
+  [
+    70754,
+    1975,
+    "Amarr Prophecy Battlecruiser"
+  ],
+  [
+    70755,
+    1975,
+    "Amarr Abaddon Battleship"
+  ],
+  [
+    70756,
+    1975,
+    "Amarr Apocalypse Battleship"
+  ],
+  [
+    70757,
+    1975,
+    "Amarr Maller Cruiser"
+  ],
+  [
+    70758,
+    1975,
+    "Amarr Archon Carrier"
+  ],
+  [
+    70759,
+    1975,
+    "Amarr Armageddon Battleship"
+  ],
+  [
+    70760,
+    1975,
+    "Amarr Revelation Dreadnaught"
+  ],
+  [
+    70761,
+    1975,
+    "Amarr Apostle Force Auxiliary"
+  ],
+  [
+    70762,
+    1975,
+    "Amarr Aeon Carrier"
+  ],
+  [
+    70774,
+    310,
+    "Ammatar Fleet Security Cordon Outpost"
+  ],
+  [
+    70797,
+    1194,
+    "Amarr Foundation Day Robe Crate"
+  ],
+  [
+    70811,
+    1169,
+    "Imperial Frigate"
+  ],
+  [
+    70812,
+    1975,
+    "Caldari Chimera Carrier"
+  ],
+  [
+    70813,
+    1975,
+    "Caldari Wyvern Carrier"
+  ],
+  [
+    70814,
+    1975,
+    "Caldari Phoenix Dreadnought"
+  ],
+  [
+    70815,
+    1975,
+    "Caldari Blackbird Cruiser"
+  ],
+  [
+    70816,
+    1975,
+    "Caldari Caracal Cruiser"
+  ],
+  [
+    70817,
+    1975,
+    "Caldari Moa Cruiser"
+  ],
+  [
+    70818,
+    1975,
+    "Caldari Osprey Cruiser"
+  ],
+  [
+    70819,
+    1975,
+    "Caldari Drake Battlecruiser"
+  ],
+  [
+    70820,
+    1975,
+    "Caldari Ferox Battlecruiser"
+  ],
+  [
+    70821,
+    1975,
+    "Caldari Raven Battleship"
+  ],
+  [
+    70822,
+    1975,
+    "Caldari Rokh Battleship"
+  ],
+  [
+    70823,
+    1975,
+    "Caldari Scorpion Battleship"
+  ],
+  [
+    70824,
+    1975,
+    "Indestructible Radio Telescope"
+  ],
+  [
+    70825,
+    1975,
+    "Caldari Raven Battleship"
+  ],
+  [
+    70826,
+    1975,
+    "Commercial Billboard"
+  ],
+  [
+    70827,
+    1975,
+    "Caldari Minokawa Force Auxiliary"
+  ],
+  [
+    70828,
+    1975,
+    "Caldari Eagle Cruiser"
+  ],
+  [
+    70829,
+    1975,
+    "Caldari Vulture Battlecruiser"
+  ],
+  [
+    70830,
+    1975,
+    "Caldari Basilisk Cruiser"
+  ],
+  [
+    70831,
+    1975,
+    "Caldari Golem Battleship"
+  ],
+  [
+    70832,
+    1975,
+    "Caldari Cerberus Cruiser"
+  ],
+  [
+    70833,
+    1975,
+    "Caldari Widow Battleship"
+  ],
+  [
+    70834,
+    1975,
+    "Caldari Onyx Cruiser"
+  ],
+  [
+    70835,
+    1975,
+    "Caldari Nighthawk Battlecruiser"
+  ],
+  [
+    70838,
+    1088,
+    "Men's Caldari Navy Crew Jacket"
+  ],
+  [
+    70839,
+    1088,
+    "Men's Ishukone Crew Jacket"
+  ],
+  [
+    70840,
+    1088,
+    "Men's CBD Corporation Crew Jacket"
+  ],
+  [
+    70841,
+    1088,
+    "Men's Hyasyoda Crew Jacket"
+  ],
+  [
+    70842,
+    1088,
+    "Men's Kaalakiota Crew Jacket"
+  ],
+  [
+    70843,
+    1088,
+    "Men's Wiyrkomi Crew Jacket"
+  ],
+  [
+    70844,
+    1088,
+    "Men's Lai Dai Crew Jacket"
+  ],
+  [
+    70845,
+    1088,
+    "Men's Sukuuvestaa Crew Jacket"
+  ],
+  [
+    70846,
+    1088,
+    "Men's Nugoeihuvi Crew Jacket"
+  ],
+  [
+    70847,
+    1088,
+    "Women's Caldari Navy Crew Jacket"
+  ],
+  [
+    70848,
+    1088,
+    "Women's Ishukone Crew Jacket"
+  ],
+  [
+    70849,
+    1088,
+    "Women's CBD Corporation Crew Jacket"
+  ],
+  [
+    70850,
+    1088,
+    "Women's Hyasyoda Crew Jacket"
+  ],
+  [
+    70851,
+    1088,
+    "Women's Kaalakiota Crew Jacket"
+  ],
+  [
+    70852,
+    1088,
+    "Women's Wiyrkomi Crew Jacket"
+  ],
+  [
+    70853,
+    1088,
+    "Women's Lai Dai Crew Jacket"
+  ],
+  [
+    70854,
+    1088,
+    "Women's Sukuuvestaa Crew Jacket"
+  ],
+  [
+    70855,
+    1088,
+    "Women's Nugoeihuvi Crew Jacket"
+  ],
+  [
+    70877,
+    1175,
+    "Imperial Destroyer"
+  ],
+  [
+    70878,
+    1179,
+    "Imperial Cruiser"
+  ],
+  [
+    70879,
+    1183,
+    "Imperial Battlecruiser"
+  ],
+  [
+    70880,
+    4431,
+    "Imperial Battleship"
+  ],
+  [
+    70895,
+    226,
+    "EDENCOM Secure Relay Alpha"
+  ],
+  [
+    70896,
+    226,
+    "EDENCOM Secure Relay Beta"
+  ],
+  [
+    70897,
+    226,
+    "EDENCOM Secure Relay Gamma"
+  ],
+  [
+    70898,
+    1975,
+    "Caldari Charon Freighter"
+  ],
+  [
+    70899,
+    1975,
+    "Caldari Badger Hauler"
+  ],
+  [
+    70900,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70901,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70902,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70903,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70904,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70905,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70906,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70907,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70908,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70909,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70910,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70911,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70912,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70913,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70914,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70915,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70916,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70917,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70918,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70919,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70920,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70921,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70922,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70923,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70924,
+    314,
+    "Corrupted Trinary Fragment"
+  ],
+  [
+    70925,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70926,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70927,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70928,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70929,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70930,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70931,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70932,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70933,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70934,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70935,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70936,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70937,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70938,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70939,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70940,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70941,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70942,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70943,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70944,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70945,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70946,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70947,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70948,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70949,
+    314,
+    "EDENCOM Secure Buffer Data"
+  ],
+  [
+    70950,
+    1975,
+    "Guristas War Installation"
+  ],
+  [
+    70951,
+    310,
+    "Caldari Navy Defense Post"
+  ],
+  [
+    70952,
+    226,
+    "Caldari Navy Defense Station"
+  ],
+  [
+    70953,
+    1975,
+    "Non Interactable Caldari Navy Control Tower (Do Not Translate)"
+  ],
+  [
+    70971,
+    310,
+    "Caldari Navy Defense Redoubt"
+  ],
+  [
+    70996,
+    1975,
+    "Warning Sign"
+  ],
+  [
+    70997,
+    227,
+    "FW Amarr Empire Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    70998,
+    227,
+    "FW Caldari Empire Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    70999,
+    1975,
+    "Asteroid Secondary Colony"
+  ],
+  [
+    71000,
+    1975,
+    "Asteroid Colony Minor"
+  ],
+  [
+    71001,
+    1975,
+    "Asteroid Colony - Factory"
+  ],
+  [
+    71002,
+    1975,
+    "Asteroid Colony - Flat Hulk"
+  ],
+  [
+    71003,
+    226,
+    "Hollow Asteroid ( copy )"
+  ],
+  [
+    71004,
+    1975,
+    "Hollow Asteroid"
+  ],
+  [
+    71005,
+    1975,
+    "Caldari Plinth"
+  ],
+  [
+    71008,
+    227,
+    "FW Gallente Empire Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    71009,
+    227,
+    "FW Minmatar Empire Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    71010,
+    1975,
+    "Gallente Supercarrier Wreckage"
+  ],
+  [
+    71011,
+    1975,
+    "Gallente Elite Freighter Wreck"
+  ],
+  [
+    71012,
+    1975,
+    "Gallente Obelisk Freighter"
+  ],
+  [
+    71013,
+    306,
+    "Gallente Obelisk Hacking Challenge"
+  ],
+  [
+    71014,
+    306,
+    "Gallente Iteron V Hacking Challenge"
+  ],
+  [
+    71015,
+    306,
+    "Gallente Outpost Hacking Challenge"
+  ],
+  [
+    71016,
+    306,
+    "Elite Gallente Iteron V Hacking Challenge"
+  ],
+  [
+    71017,
+    306,
+    "Elite Gallente Obelisk Hacking Challenge"
+  ],
+  [
+    71018,
+    306,
+    "Elite Gallente Outpost Hacking Challenge"
+  ],
+  [
+    71055,
+    1975,
+    "Non-interactable Gallente Barricade (do not translate)"
+  ],
+  [
+    71056,
+    1975,
+    "Non-interactable Gallente Barrier (do not translate)"
+  ],
+  [
+    71057,
+    1975,
+    "Non-interactable Gallente Battery (do not translate)"
+  ],
+  [
+    71058,
+    1975,
+    "Non-interactable Gallente Bunker (do not translate)"
+  ],
+  [
+    71059,
+    1975,
+    "Non-interactable Gallente Elevator (do not translate)"
+  ],
+  [
+    71060,
+    1975,
+    "Non-interactable Gallente Fence (do not translate)"
+  ],
+  [
+    71061,
+    1975,
+    "Non-interactable Gallente Junction (do not translate)"
+  ],
+  [
+    71062,
+    1975,
+    "Non-interactable Gallente Lookout (do not translate)"
+  ],
+  [
+    71063,
+    1975,
+    "Non-interactable Gallente Wall (do not translate)"
+  ],
+  [
+    71079,
+    227,
+    "Union Day Infiltration Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    71084,
+    227,
+    "Union Day Infiltration Interdiction Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    71089,
+    227,
+    "Union Day Infiltration Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    71104,
+    1166,
+    "Republic Frigate"
+  ],
+  [
+    71105,
+    1178,
+    "Republic Destroyer"
+  ],
+  [
+    71106,
+    1182,
+    "Republic Cruiser"
+  ],
+  [
+    71107,
+    1186,
+    "Republic Battlecruiser"
+  ],
+  [
+    71108,
+    4434,
+    "Republic Battleship"
+  ],
+  [
+    71112,
+    186,
+    "Amarr Forward Operating Base Wreck"
+  ],
+  [
+    71113,
+    186,
+    "Caldari Forward Operating Base Wreck"
+  ],
+  [
+    71114,
+    186,
+    "Gallente Forward Operating Base Wreck"
+  ],
+  [
+    71115,
+    186,
+    "Minmatar Forward Operating Base Wreck"
+  ],
+  [
+    71116,
+    1924,
+    "Amarr Forward Operating Base"
+  ],
+  [
+    71117,
+    1924,
+    "Caldari Forward Operating Base"
+  ],
+  [
+    71118,
+    1924,
+    "Gallente Forward Operating Base"
+  ],
+  [
+    71119,
+    1924,
+    "Minmatar Forward Operating Base"
+  ],
+  [
+    71120,
+    226,
+    "Caldari Sentry"
+  ],
+  [
+    71240,
+    226,
+    "Construction Storage Unit"
+  ],
+  [
+    71449,
+    226,
+    "Gallente Federation Stargate Construction"
+  ],
+  [
+    71450,
+    226,
+    "Caldari State Stargate Construction"
+  ],
+  [
+    71456,
+    1929,
+    "Caldari Hacking Impediment Mine"
+  ],
+  [
+    71457,
+    1929,
+    "Caldari Hacking Accelerant Tower"
+  ],
+  [
+    71470,
+    1167,
+    "State Frigate"
+  ],
+  [
+    71471,
+    1176,
+    "State Destroyer"
+  ],
+  [
+    71472,
+    1180,
+    "State Cruiser"
+  ],
+  [
+    71473,
+    1184,
+    "State Battlecruiser"
+  ],
+  [
+    71474,
+    4432,
+    "State Battleship"
+  ],
+  [
+    71475,
+    1168,
+    "Federation Frigate"
+  ],
+  [
+    71476,
+    1177,
+    "Federation Destroyer"
+  ],
+  [
+    71477,
+    1181,
+    "Federation Cruiser"
+  ],
+  [
+    71478,
+    1185,
+    "Federation Battlecruiser"
+  ],
+  [
+    71479,
+    4433,
+    "Federation Battleship"
+  ],
+  [
+    71481,
+    226,
+    "Imperial Navy Security Cordon Outpost"
+  ],
+  [
+    71482,
+    226,
+    "Ammatar Fleet Security Cordon Outpost"
+  ],
+  [
+    71735,
+    303,
+    "Caldari Union Day Accuracy Booster IV"
+  ],
+  [
+    71736,
+    303,
+    "Caldari Union Day Accuracy Booster I"
+  ],
+  [
+    71737,
+    303,
+    "Caldari Union Day Accuracy Booster II"
+  ],
+  [
+    71738,
+    303,
+    "Caldari Union Day Accuracy Booster III"
+  ],
+  [
+    71739,
+    303,
+    "Caldari Union Day Damage Booster I"
+  ],
+  [
+    71740,
+    303,
+    "Caldari Union Day Damage Booster II"
+  ],
+  [
+    71741,
+    303,
+    "Caldari Union Day Damage Booster III"
+  ],
+  [
+    71742,
+    303,
+    "Caldari Union Day Damage Booster IV"
+  ],
+  [
+    71743,
+    303,
+    "Caldari Union Day Resistance Booster IV"
+  ],
+  [
+    71744,
+    303,
+    "Caldari Union Day Resistance Booster I"
+  ],
+  [
+    71745,
+    303,
+    "Caldari Union Day Resistance Booster II"
+  ],
+  [
+    71746,
+    303,
+    "Caldari Union Day Resistance Booster III"
+  ],
+  [
+    71747,
+    303,
+    "Caldari Union Day Range Booster I"
+  ],
+  [
+    71748,
+    303,
+    "Caldari Union Day Range Booster II"
+  ],
+  [
+    71749,
+    303,
+    "Caldari Union Day Range Booster III"
+  ],
+  [
+    71750,
+    303,
+    "Caldari Union Day Range Booster IV"
+  ],
+  [
+    71755,
+    500,
+    "Union of Eight Paths Firework"
+  ],
+  [
+    72070,
+    310,
+    "Federation Navy Security Checkpoint"
+  ],
+  [
+    72072,
+    310,
+    "Stellar Construction Site"
+  ],
+  [
+    72074,
+    1975,
+    "Construction Storage Unit"
+  ],
+  [
+    72075,
+    1975,
+    "Planetary Launch Container"
+  ],
+  [
+    72076,
+    1975,
+    "Builders Quarters"
+  ],
+  [
+    72083,
+    303,
+    "Basic 'Union Day' Cerebral Accelerator"
+  ],
+  [
+    72084,
+    303,
+    "Extended 'Union Day' Cerebral Accelerator"
+  ],
+  [
+    72085,
+    303,
+    "Potent 'Union Day' Cerebral Accelerator"
+  ],
+  [
+    72086,
+    226,
+    "Imperial Prototype Stellar Transmuter"
+  ],
+  [
+    72087,
+    1194,
+    "Union of Eight Paths Fireworks Crate"
+  ],
+  [
+    72091,
+    226,
+    "Federation Navy Security Station"
+  ],
+  [
+    72092,
+    1975,
+    "Non-interactable Outpost Factory (do not translate)"
+  ],
+  [
+    72093,
+    226,
+    "Federation Navy Security Station"
+  ],
+  [
+    72094,
+    1975,
+    "Gallente Control Tower (DO NOT TRANSLATE)"
+  ],
+  [
+    72095,
+    310,
+    "Federation Navy Security Command"
+  ],
+  [
+    72097,
+    226,
+    "Proximity Triggered Wave Spawner"
+  ],
+  [
+    72098,
+    383,
+    "Caldari Stasis Webifier Tower"
+  ],
+  [
+    72099,
+    227,
+    "Union Day Easy Drone Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72100,
+    227,
+    "Union Day Easy Drone Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72101,
+    227,
+    "Union Day Easy Drone Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72208,
+    1975,
+    "Asteroid Set 2 Xlarge 1 No Collision"
+  ],
+  [
+    72209,
+    1975,
+    "Asteroid Set 2 Xlarge 2 No Collision"
+  ],
+  [
+    72210,
+    1975,
+    "Asteroid Set 2 Xlarge 3 No Collision"
+  ],
+  [
+    72211,
+    1975,
+    "Asteroid Set 2 Xlarge 4 No Collision"
+  ],
+  [
+    72212,
+    1975,
+    "Asteroid Set 2 Xlarge 5 No Collision"
+  ],
+  [
+    72213,
+    1975,
+    "Asteroid Set 2 Large 1 No Collision"
+  ],
+  [
+    72214,
+    1975,
+    "Asteroid Set 2 Large 2 No Collision"
+  ],
+  [
+    72215,
+    1975,
+    "Asteroid Set 2 Large 3 No Collision"
+  ],
+  [
+    72216,
+    1975,
+    "Asteroid Set 2 Large 4 No Collision"
+  ],
+  [
+    72217,
+    1975,
+    "Asteroid Set 2 Large 5 No Collision"
+  ],
+  [
+    72238,
+    303,
+    "Basic 'Boost' Cerebral Accelerator "
+  ],
+  [
+    72239,
+    303,
+    "Standard 'Boost' Cerebral Accelerator"
+  ],
+  [
+    72240,
+    303,
+    "Advanced 'Boost' Cerebral Accelerator"
+  ],
+  [
+    72241,
+    303,
+    "Specialist 'Boost' Cerebral Accelerator"
+  ],
+  [
+    72242,
+    303,
+    "Expert 'Boost' Cerebral Accelerator"
+  ],
+  [
+    72258,
+    314,
+    "Union Day Reward Token"
+  ],
+  [
+    72259,
+    1194,
+    "Ishukone Jacket Crate"
+  ],
+  [
+    72260,
+    1194,
+    "CBD Corporation Jacket Crate"
+  ],
+  [
+    72261,
+    1194,
+    "Hyasyoda Jacket Crate"
+  ],
+  [
+    72262,
+    1194,
+    "Kaalakiota Jacket Crate"
+  ],
+  [
+    72263,
+    1194,
+    "Wiyrkomi Jacket Crate"
+  ],
+  [
+    72264,
+    1194,
+    "Lai Dai Jacket Crate"
+  ],
+  [
+    72265,
+    1194,
+    "Sukuuvestaa Jacket Crate"
+  ],
+  [
+    72266,
+    1194,
+    "Nugoeihuvi Jacket Crate"
+  ],
+  [
+    72268,
+    226,
+    "Malkalen Attack Memorial"
+  ],
+  [
+    72269,
+    310,
+    "Malkalen Attack Memorial"
+  ],
+  [
+    72270,
+    226,
+    "Grand Tiegjon Casino High-Rollers Platform"
+  ],
+  [
+    72271,
+    226,
+    "Grand Tiegjon Resort Mind Clash Training Facility"
+  ],
+  [
+    72272,
+    310,
+    "Grand Tiegjon Resort & Casino"
+  ],
+  [
+    72333,
+    226,
+    "JSL Partnership Co-ordination Bureau"
+  ],
+  [
+    72334,
+    226,
+    "Combine TNR Meeting Venue"
+  ],
+  [
+    72335,
+    226,
+    "PKN Interstellar Executive Retreat"
+  ],
+  [
+    72336,
+    310,
+    "JSL Partnership Co-ordination Bureau"
+  ],
+  [
+    72337,
+    310,
+    "Combine TNR Meeting Venue"
+  ],
+  [
+    72338,
+    310,
+    "PKN Interstellar Executive Retreat"
+  ],
+  [
+    72339,
+    4100,
+    "CBD Corporation Standard"
+  ],
+  [
+    72340,
+    4100,
+    "Hyasyoda Corporation Standard"
+  ],
+  [
+    72341,
+    4100,
+    "Ishukone Corporation Standard"
+  ],
+  [
+    72342,
+    4100,
+    "Kaalakiota Corporation Standard"
+  ],
+  [
+    72343,
+    4100,
+    "Lai Dai Corporation Standard"
+  ],
+  [
+    72344,
+    4100,
+    "Nugoeihuvi Corporation Standard"
+  ],
+  [
+    72345,
+    4100,
+    "Sukuuvestaa Corporation Standard"
+  ],
+  [
+    72346,
+    4100,
+    "Wiyrkomi Corporation Standard"
+  ],
+  [
+    72347,
+    1568,
+    "Rogue Drone Scavenger Sim"
+  ],
+  [
+    72348,
+    1568,
+    "Rogue Drone Forager Sim"
+  ],
+  [
+    72349,
+    1664,
+    "Rogue Drone Ripper Sim"
+  ],
+  [
+    72350,
+    1664,
+    "Rogue Drone Dismantler Sim"
+  ],
+  [
+    72351,
+    1665,
+    "Rogue Drone Commander Sim"
+  ],
+  [
+    72352,
+    1568,
+    "Guristas Imputor Sim"
+  ],
+  [
+    72353,
+    1568,
+    "Guristas Plunderer Sim"
+  ],
+  [
+    72354,
+    1568,
+    "Guristas Wrecker Sim"
+  ],
+  [
+    72355,
+    1664,
+    "Guristas Terrorist Sim"
+  ],
+  [
+    72356,
+    1664,
+    "Guristas Renegade Sim"
+  ],
+  [
+    72357,
+    1665,
+    "Guristas Commander Sim"
+  ],
+  [
+    72358,
+    1568,
+    "Federation Atron Sim"
+  ],
+  [
+    72359,
+    1568,
+    "Federation Comet Sim"
+  ],
+  [
+    72360,
+    1568,
+    "Federation Maulus Sim"
+  ],
+  [
+    72361,
+    1664,
+    "Federation Catalyst Sim"
+  ],
+  [
+    72362,
+    1665,
+    "Federation Commander Sim"
+  ],
+  [
+    72363,
+    1568,
+    "Tangling Damavik Sim"
+  ],
+  [
+    72364,
+    1568,
+    "Anchoring Damavik Sim"
+  ],
+  [
+    72365,
+    1568,
+    "Starving Damavik Sim"
+  ],
+  [
+    72366,
+    1568,
+    "Liminal Damavik Sim"
+  ],
+  [
+    72367,
+    1664,
+    "Liminal Kikimora Sim"
+  ],
+  [
+    72368,
+    1665,
+    "Triglavian Commander Sim"
+  ],
+  [
+    72369,
+    306,
+    "Stellar Observation Com Tower"
+  ],
+  [
+    72370,
+    227,
+    "Union Day Infiltration Elite Interdiction Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72371,
+    227,
+    "Union Day Infiltration Elite Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72372,
+    227,
+    "Union Day Infiltration Elite Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72373,
+    314,
+    "Encrypted Stellar Research Data"
+  ],
+  [
+    72381,
+    226,
+    "Imperial Prototype Stellar Transmuter"
+  ],
+  [
+    72382,
+    226,
+    "Imperial Prototype Stellar Transmuter"
+  ],
+  [
+    72383,
+    1975,
+    "Imperial Prototype Stellar Transmuter"
+  ],
+  [
+    72400,
+    1971,
+    "Proving Damage, HP, and Overheating Bonus (Do not translate)"
+  ],
+  [
+    72683,
+    1665,
+    "Rogue Drone Commander Sim"
+  ],
+  [
+    72684,
+    1665,
+    "Guristas Commander Sim"
+  ],
+  [
+    72685,
+    1665,
+    "Federation Commander Sim"
+  ],
+  [
+    72686,
+    1665,
+    "Triglavian Commander Sim"
+  ],
+  [
+    72687,
+    227,
+    "Union Day Easy Guristas Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72688,
+    227,
+    "Union Day Easy Guristas Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72689,
+    227,
+    "Union Day Easy Guristas Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72690,
+    227,
+    "Union Day Easy Gal Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72691,
+    227,
+    "Union Day Easy Gal Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72692,
+    227,
+    "Union Day Easy Gal Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72693,
+    227,
+    "Union Day Easy Trig Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72694,
+    227,
+    "Union Day Easy Trig Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72695,
+    227,
+    "Union Day Easy Trig Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72696,
+    227,
+    "Union Day Hard Drone Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72697,
+    227,
+    "Union Day Hard Drone Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72698,
+    227,
+    "Union Day Hard Drone Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72699,
+    227,
+    "Union Day Hard Guristas Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72700,
+    227,
+    "Union Day Hard Guristas Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72701,
+    227,
+    "Union Day Hard Guristas Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72702,
+    227,
+    "Union Day Hard Gal Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72703,
+    227,
+    "Union Day Hard Gal Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72704,
+    227,
+    "Union Day Hard Gal Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72705,
+    227,
+    "Union Day Hard Trig Wave 1 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72706,
+    227,
+    "Union Day Hard Trig Wave 2 Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72707,
+    227,
+    "Union Day Hard Trig Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    72752,
+    1975,
+    "ua01_t1_environment_asset"
+  ],
+  [
+    72753,
+    1975,
+    "cct1_t1a_environment_asset"
+  ],
+  [
+    72754,
+    1975,
+    "Home Guard Wyvern (Do Not Translate)"
+  ],
+  [
+    72755,
+    1975,
+    "cs4_ishukone_environment_asset"
+  ],
+  [
+    72756,
+    1975,
+    "cs4_hyasyoda_environment_asset"
+  ],
+  [
+    72757,
+    1975,
+    "cs4_wiyrkomi_environment_asset"
+  ],
+  [
+    72758,
+    1975,
+    "cs7_kaalakiota_environment_asset"
+  ],
+  [
+    72759,
+    1975,
+    "cs8_sukuuvestaa_environment_asset"
+  ],
+  [
+    72760,
+    1975,
+    "cs2_laidai_environment_asset"
+  ],
+  [
+    72761,
+    1975,
+    "cs2_noh_environment_asset"
+  ],
+  [
+    72762,
+    1975,
+    "cs2_cbd_environment_asset "
+  ],
+  [
+    72763,
+    1975,
+    "ubp01_environment_asset"
+  ],
+  [
+    72811,
+    419,
+    "Cyclone Fleet Issue"
+  ],
+  [
+    72812,
+    419,
+    "Ferox Navy Issue"
+  ],
+  [
+    72814,
+    186,
+    "Blood Force Auxiliary Wreck"
+  ],
+  [
+    72815,
+    1971,
+    "Union Day Frigate Weapon Bonuses (Do not translate)"
+  ],
+  [
+    72816,
+    186,
+    "Guristas Force Auxiliary Wreck"
+  ],
+  [
+    72817,
+    186,
+    "Serpentis Supercarrier Wreck"
+  ],
+  [
+    72818,
+    303,
+    "Harvest Nosferatu Booster I"
+  ],
+  [
+    72819,
+    303,
+    "Harvest Nosferatu Booster II "
+  ],
+  [
+    72820,
+    303,
+    "Harvest Nosferatu Booster III"
+  ],
+  [
+    72821,
+    303,
+    "Harvest Webifier Booster I"
+  ],
+  [
+    72822,
+    303,
+    "Harvest Webifier Booster II"
+  ],
+  [
+    72823,
+    303,
+    "Harvest Webifier Booster III"
+  ],
+  [
+    72828,
+    303,
+    "Harvest Nosferatu Booster IV"
+  ],
+  [
+    72829,
+    303,
+    "Harvest Webifier Booster IV"
+  ],
+  [
+    72830,
+    303,
+    "Harvest Damage Booster III"
+  ],
+  [
+    72831,
+    303,
+    "Harvest Damage Booster IV"
+  ],
+  [
+    72832,
+    303,
+    "Harvest Damage Booster I"
+  ],
+  [
+    72833,
+    303,
+    "Harvest Damage Booster II"
+  ],
+  [
+    72834,
+    303,
+    "Harvest Anti-Disruptor Booster I"
+  ],
+  [
+    72835,
+    303,
+    "Harvest Anti-Disruptor Booster II"
+  ],
+  [
+    72836,
+    303,
+    "Harvest Anti-Disruptor Booster III"
+  ],
+  [
+    72837,
+    303,
+    "Harvest Anti-Disruptor Booster IV"
+  ],
+  [
+    72839,
+    303,
+    "Tetrimon Resistance Booster IV"
+  ],
+  [
+    72840,
+    303,
+    "Tetrimon Resistance Booster I"
+  ],
+  [
+    72841,
+    303,
+    "Tetrimon Resistance Booster II"
+  ],
+  [
+    72842,
+    303,
+    "Tetrimon Resistance Booster III"
+  ],
+  [
+    72850,
+    319,
+    "Amarr Supply Depot"
+  ],
+  [
+    72851,
+    319,
+    "Minmatar Supply Depot"
+  ],
+  [
+    72852,
+    319,
+    "Caldari Supply Depot"
+  ],
+  [
+    72853,
+    319,
+    "Gallente Supply Depot"
+  ],
+  [
+    72854,
+    303,
+    "Tetrimon Capacitor Booster III"
+  ],
+  [
+    72855,
+    303,
+    "Tetrimon Capacitor Booster IV"
+  ],
+  [
+    72856,
+    303,
+    "Tetrimon Capacitor Booster I"
+  ],
+  [
+    72857,
+    303,
+    "Tetrimon Capacitor Booster II"
+  ],
+  [
+    72858,
+    303,
+    "Tetrimon Precision Booster I"
+  ],
+  [
+    72859,
+    303,
+    "Tetrimon Precision Booster II"
+  ],
+  [
+    72860,
+    303,
+    "Tetrimon Precision Booster III"
+  ],
+  [
+    72861,
+    303,
+    "Tetrimon Precision Booster IV"
+  ],
+  [
+    72862,
+    303,
+    "Tetrimon Anti-Drain Booster III"
+  ],
+  [
+    72863,
+    303,
+    "Tetrimon Anti-Drain Booster IV"
+  ],
+  [
+    72864,
+    303,
+    "Tetrimon Anti-Drain Booster I"
+  ],
+  [
+    72865,
+    303,
+    "Tetrimon Anti-Drain Booster II"
+  ],
+  [
+    72866,
+    303,
+    "Basic 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    72867,
+    303,
+    "Potent 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    72868,
+    303,
+    "Extended 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    72869,
+    419,
+    "Myrmidon Navy Issue"
+  ],
+  [
+    72872,
+    419,
+    "Prophecy Navy Issue"
+  ],
+  [
+    72873,
+    1975,
+    "Gallente Navy Harbor S01a"
+  ],
+  [
+    72874,
+    1975,
+    "Gallente Navy Harbor M01a"
+  ],
+  [
+    72875,
+    1975,
+    "Gallente Navy Harbor L01a"
+  ],
+  [
+    72876,
+    1975,
+    "Gallente Navy Harbor XL01a"
+  ],
+  [
+    72879,
+    538,
+    "QA Analyzer"
+  ],
+  [
+    72902,
+    1911,
+    "Dense Polycrase"
+  ],
+  [
+    72903,
+    25,
+    "Probe Fleet Issue"
+  ],
+  [
+    72904,
+    25,
+    "Heron Navy Issue"
+  ],
+  [
+    72907,
+    25,
+    "Magnate Navy Issue"
+  ],
+  [
+    72913,
+    25,
+    "Imicus Navy Issue"
+  ],
+  [
+    72917,
+    105,
+    "Probe Fleet Issue Blueprint"
+  ],
+  [
+    72918,
+    226,
+    "Caldari State Stargate Construction"
+  ],
+  [
+    72919,
+    105,
+    "Imicus Navy Issue Blueprint"
+  ],
+  [
+    72920,
+    105,
+    "Magnate Navy Issue Blueprint"
+  ],
+  [
+    72921,
+    226,
+    "State Ore Refinery"
+  ],
+  [
+    72922,
+    105,
+    "Heron Navy Issue Blueprint"
+  ],
+  [
+    72923,
+    489,
+    "Cyclone Fleet Issue Blueprint"
+  ],
+  [
+    72924,
+    489,
+    "Prophecy Navy Issue Blueprint"
+  ],
+  [
+    72925,
+    489,
+    "Myrmidon Navy Issue Blueprint"
+  ],
+  [
+    72926,
+    489,
+    "Ferox Navy Issue Blueprint"
+  ],
+  [
+    72928,
+    226,
+    "Gallente Federation Stargate Construction"
+  ],
+  [
+    72929,
+    1975,
+    "Serpentis Den non interactable ( copy )"
+  ],
+  [
+    72930,
+    226,
+    "Federation Ore Refinery"
+  ],
+  [
+    72935,
+    1911,
+    "Dense Moissanite"
+  ],
+  [
+    72941,
+    1975,
+    "Caldari Navy Modular Hub 01a"
+  ],
+  [
+    72942,
+    1975,
+    "Caldari Navy Modular Hub 01b"
+  ],
+  [
+    72943,
+    1975,
+    "Caldari Navy Modular Hub 01c"
+  ],
+  [
+    72944,
+    1975,
+    "Caldari Navy Modular Hub 01d"
+  ],
+  [
+    72952,
+    1975,
+    "Caldari Navy Harbor S01a"
+  ],
+  [
+    72953,
+    1975,
+    "Caldari Navy Harbor M01a"
+  ],
+  [
+    72954,
+    1975,
+    "Caldari Navy Harbor L01a"
+  ],
+  [
+    72955,
+    1975,
+    "Caldari Navy Harbor XL01a"
+  ],
+  [
+    72976,
+    4050,
+    "Event 72 Proving Filament "
+  ],
+  [
+    72977,
+    4050,
+    "Event 73 Proving Filament"
+  ],
+  [
+    72978,
+    4050,
+    "Event 74 Proving Filament "
+  ],
+  [
+    72979,
+    4050,
+    "Event 75 Proving Filament"
+  ],
+  [
+    72980,
+    4050,
+    "Event 76 Proving Filament"
+  ],
+  [
+    72981,
+    4050,
+    "Event 77 Proving Filament "
+  ],
+  [
+    72982,
+    4050,
+    "Event 78 Proving Filament"
+  ],
+  [
+    72983,
+    4050,
+    "Event 79 Proving Filament"
+  ],
+  [
+    72984,
+    4050,
+    "Event 80 Proving Filament"
+  ],
+  [
+    72985,
+    4050,
+    "Event 81 Proving Filament "
+  ],
+  [
+    72986,
+    4050,
+    "Event 82 Proving Filament"
+  ],
+  [
+    72987,
+    4050,
+    "Event 83 Proving Filament"
+  ],
+  [
+    72988,
+    4050,
+    "Event 84 Proving Filament"
+  ],
+  [
+    72989,
+    4050,
+    "Event 85 Proving Filament"
+  ],
+  [
+    72990,
+    4050,
+    "Event 86 Proving Filament"
+  ],
+  [
+    72991,
+    4050,
+    "Event 87 Proving Filament"
+  ],
+  [
+    72992,
+    4050,
+    "Event 88 Proving Filament "
+  ],
+  [
+    72993,
+    4050,
+    "Event 89 Proving Filament"
+  ],
+  [
+    72994,
+    4050,
+    "Event 90 Proving Filament"
+  ],
+  [
+    72995,
+    4050,
+    "Event 91 Proving Filament"
+  ],
+  [
+    72996,
+    4050,
+    "Event 92 Proving Filament"
+  ],
+  [
+    72997,
+    4050,
+    "Event 93 Proving Filament"
+  ],
+  [
+    72998,
+    4050,
+    "Event 94 Proving Filament"
+  ],
+  [
+    72999,
+    4050,
+    "Event 95 Proving Filament"
+  ],
+  [
+    73000,
+    4050,
+    "Event 96 Proving Filament"
+  ],
+  [
+    73001,
+    4050,
+    "Event 97 Proving Filament"
+  ],
+  [
+    73002,
+    4050,
+    "Event 98 Proving Filament"
+  ],
+  [
+    73003,
+    4050,
+    "Event 99 Proving Filament"
+  ],
+  [
+    73004,
+    4050,
+    "Event 100 Proving Filament"
+  ],
+  [
+    73012,
+    319,
+    "Amarr Supply Cache"
+  ],
+  [
+    73013,
+    319,
+    "Minmatar Supply Cache"
+  ],
+  [
+    73014,
+    319,
+    "Caldari Supply Cache"
+  ],
+  [
+    73015,
+    319,
+    "Gallente Supply Cache"
+  ],
+  [
+    73016,
+    1975,
+    "Small Military Beacon "
+  ],
+  [
+    73017,
+    1975,
+    "Transport Field Effect Subpylon"
+  ],
+  [
+    73018,
+    1975,
+    "Stasis Field Effect Subpylon"
+  ],
+  [
+    73036,
+    306,
+    "Captured Triglavian Relay Cache"
+  ],
+  [
+    73037,
+    306,
+    "Captured Triglavian Relay Cache"
+  ],
+  [
+    73038,
+    306,
+    "Captured Triglavian Relay Cache"
+  ],
+  [
+    73039,
+    227,
+    "Preex Gal Site Spawner"
+  ],
+  [
+    73040,
+    227,
+    "Preex Cal Site Spawner"
+  ],
+  [
+    73041,
+    314,
+    "Triglavian Encrypted Relay Data"
+  ],
+  [
+    73148,
+    1568,
+    "Merlin Relay Guard"
+  ],
+  [
+    73149,
+    1568,
+    "Condor Relay Guard"
+  ],
+  [
+    73150,
+    1568,
+    "Kestrel Relay Guard"
+  ],
+  [
+    73159,
+    1568,
+    "Tristan Relay Guard"
+  ],
+  [
+    73160,
+    1568,
+    "Atron Relay Guard"
+  ],
+  [
+    73161,
+    1568,
+    "Incursus Relay Guard"
+  ],
+  [
+    73221,
+    227,
+    "Amarr Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73222,
+    227,
+    "Minmatar Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73223,
+    227,
+    "Caldari Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73224,
+    227,
+    "Gallente Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73225,
+    4477,
+    "Amarr Propaganda Broadcast Structure"
+  ],
+  [
+    73226,
+    4477,
+    "Minmatar Propaganda Broadcast Structure"
+  ],
+  [
+    73227,
+    4477,
+    "Caldari Propaganda Broadcast Structure"
+  ],
+  [
+    73228,
+    4477,
+    "Gallente Propaganda Broadcast Structure"
+  ],
+  [
+    73248,
+    314,
+    "Caldari Loyalty Token"
+  ],
+  [
+    73249,
+    314,
+    "Gallente Loyalty Token"
+  ],
+  [
+    73250,
+    314,
+    "Amarr Loyalty Token"
+  ],
+  [
+    73251,
+    314,
+    "Minmatar Loyalty Token"
+  ],
+  [
+    73252,
+    306,
+    "Stellar Observation Mainframe"
+  ],
+  [
+    73253,
+    306,
+    "Stellar Observation Databank"
+  ],
+  [
+    73254,
+    226,
+    "Imperial Stellar Transmuter Research Laboratory"
+  ],
+  [
+    73255,
+    226,
+    "Republic Stellar Transmuter Research Laboratory"
+  ],
+  [
+    73256,
+    1568,
+    "Republic Fleet Firetail Guard"
+  ],
+  [
+    73257,
+    1568,
+    "Vigil Fleet Issue Guard"
+  ],
+  [
+    73258,
+    1568,
+    "Imperial Navy Slicer Guard"
+  ],
+  [
+    73259,
+    1568,
+    "Crucifier Navy Issue Guard"
+  ],
+  [
+    73260,
+    310,
+    "Imperial Stellar Observation Data Hub"
+  ],
+  [
+    73261,
+    310,
+    "Republic Stellar Observation Data Hub"
+  ],
+  [
+    73262,
+    310,
+    "State Strategic Polycrase Cluster"
+  ],
+  [
+    73263,
+    310,
+    "Federal Strategic Moissanite Cluster"
+  ],
+  [
+    73267,
+    226,
+    "State Relay Research Laboratory"
+  ],
+  [
+    73268,
+    226,
+    "Federation Relay Research Laboratory"
+  ],
+  [
+    73316,
+    1975,
+    "cs1_construction (Do not translate)"
+  ],
+  [
+    73317,
+    1975,
+    "gs1_construction (Do not translate)"
+  ],
+  [
+    73336,
+    310,
+    "Captured Triglavian Relay (Caldari)"
+  ],
+  [
+    73337,
+    310,
+    "Captured Triglavian Relay (Gallente)"
+  ],
+  [
+    73338,
+    310,
+    "Caldari Relay Research Center"
+  ],
+  [
+    73339,
+    310,
+    "Gallente Relay Research Center"
+  ],
+  [
+    73340,
+    1975,
+    "Imperial Prototype Stellar Transmuter (Egmar) DO NOT TRANSLATE"
+  ],
+  [
+    73341,
+    1975,
+    "Imperial Prototype Stellar Transmuter (Vard) DO NOT TRANSLATE"
+  ],
+  [
+    73342,
+    227,
+    "Preex Amarr S1 (Do not translate)"
+  ],
+  [
+    73343,
+    227,
+    "Preex Minmatar S1 (Do not translate)"
+  ],
+  [
+    73344,
+    227,
+    "Preex Amarr S2 (Do not translate)"
+  ],
+  [
+    73345,
+    227,
+    "Preex Minmatar S2 (Do not translate)"
+  ],
+  [
+    73374,
+    226,
+    "Elder War Monument ( copy )"
+  ],
+  [
+    73375,
+    1975,
+    "Amarr Plinth (DO NOT TRANSLATE)"
+  ],
+  [
+    73376,
+    1975,
+    "Minmatar Hub (DO NOT TRANSLATE)"
+  ],
+  [
+    73380,
+    1975,
+    "Station Caldari 2 (DO NOT TRANSLATE)"
+  ],
+  [
+    73389,
+    1975,
+    "Gallente Plinth (DO NOT TRANSLATE)"
+  ],
+  [
+    73390,
+    1975,
+    "Gallente Small Station (DO NOT TRANSLATE)"
+  ],
+  [
+    73391,
+    1975,
+    "Gallente Research Station (DO NOT TRANSLATE)"
+  ],
+  [
+    73395,
+    1090,
+    "73395_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_DarkTurquoise.png"
+  ],
+  [
+    73396,
+    1088,
+    "73396_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_DarkTurquoise.png"
+  ],
+  [
+    73408,
+    500,
+    "Halloween Terrors Firework"
+  ],
+  [
+    73409,
+    1194,
+    "Halloween Terrors Fireworks Crate"
+  ],
+  [
+    73431,
+    474,
+    "Crimson Gauntlet Shortcut Keypass "
+  ],
+  [
+    73432,
+    474,
+    "Tetrimon Base Shortcut Keypass "
+  ],
+  [
+    73440,
+    1975,
+    "Non-Interactable Gallente Station 6 (Do Not Translate)"
+  ],
+  [
+    73441,
+    1975,
+    "Non-Interactable Gallente Station 1 (Do Not Translate)"
+  ],
+  [
+    73442,
+    1975,
+    "Non-interactable Caldari Navy Station 4 (Do Not Translate)"
   ]
 ]

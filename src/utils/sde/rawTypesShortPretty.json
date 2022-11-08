@@ -2493,7 +2493,7 @@
   },
   "1351": {
     "groupID": 769,
-    "name": "Basic Reactor Control Unit"
+    "name": "'Basic' Reactor Control Unit"
   },
   "1353": {
     "groupID": 769,
@@ -8517,7 +8517,7 @@
   },
   "3469": {
     "groupID": 285,
-    "name": "Basic Co-Processor"
+    "name": "'Basic' Co-Processor"
   },
   "3470": {
     "groupID": 738,
@@ -36152,7 +36152,7 @@
     "name": "HumanFarm"
   },
   "19713": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Argon Gas Environment"
   },
   "19714": {
@@ -36256,47 +36256,47 @@
     "name": "Sigil Blueprint"
   },
   "19746": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Dust Storm Environment"
   },
   "19747": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Lightning Storm Environment"
   },
   "19748": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Ethereal Environment"
   },
   "19749": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Celestial Environment"
   },
   "19750": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Infernal Environment"
   },
   "19751": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Icefield Environment"
   },
   "19752": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Krypton Gas Environment"
   },
   "19753": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Toxic Cloud Environment"
   },
   "19754": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Radon Gas Environment"
   },
   "19755": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Turbulent Storm Environment"
   },
   "19756": {
-    "groupID": 227,
+    "groupID": 1882,
     "name": "Xenon Gas Environment"
   },
   "19757": {
@@ -37373,7 +37373,7 @@
   },
   "20387": {
     "groupID": 517,
-    "name": "Cosmos Badger Mark II"
+    "name": "Cosmos Tayra"
   },
   "20388": {
     "groupID": 517,
@@ -38285,7 +38285,7 @@
   },
   "20653": {
     "groupID": 517,
-    "name": "Sayto's Badger Mark II"
+    "name": "Sayto's Tayra"
   },
   "20654": {
     "groupID": 517,
@@ -38301,7 +38301,7 @@
   },
   "20657": {
     "groupID": 517,
-    "name": "Hochi's Badger Mark II"
+    "name": "Hochi's Tayra"
   },
   "20658": {
     "groupID": 517,
@@ -38421,7 +38421,7 @@
   },
   "20687": {
     "groupID": 517,
-    "name": "Raytio's Badger Mark II"
+    "name": "Raytio's Tayra"
   },
   "20688": {
     "groupID": 517,
@@ -41697,7 +41697,7 @@
   },
   "21843": {
     "groupID": 517,
-    "name": "Cosmos Iteron Mark III"
+    "name": "Cosmos Epithal"
   },
   "21844": {
     "groupID": 517,
@@ -45113,7 +45113,7 @@
   },
   "23088": {
     "groupID": 517,
-    "name": "Angetyn's Iteron Mark III"
+    "name": "Angetyn's Epithal"
   },
   "23089": {
     "groupID": 86,
@@ -47025,7 +47025,7 @@
   },
   "23620": {
     "groupID": 517,
-    "name": "Schabs Xalot's Iteron Mark III"
+    "name": "Schabs Xalot's Epithal"
   },
   "23621": {
     "groupID": 526,
@@ -52877,7 +52877,7 @@
   },
   "25540": {
     "groupID": 737,
-    "name": "'Crop' Gas Cloud Scoop "
+    "name": "'Crop' Gas Cloud Scoop"
   },
   "25541": {
     "groupID": 134,
@@ -52885,7 +52885,7 @@
   },
   "25542": {
     "groupID": 737,
-    "name": "'Plow' Gas Cloud Scoop "
+    "name": "'Plow' Gas Cloud Scoop"
   },
   "25543": {
     "groupID": 134,
@@ -58236,7 +58236,7 @@
     "name": "Data Storage Device"
   },
   "27278": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Ancient Ship Structure"
   },
   "27279": {
@@ -62989,7 +62989,7 @@
   },
   "28788": {
     "groupID": 737,
-    "name": "Syndicate Gas Cloud Scoop "
+    "name": "Syndicate Gas Cloud Scoop"
   },
   "28789": {
     "groupID": 134,
@@ -63276,35 +63276,35 @@
     "name": "AIMEDs"
   },
   "28871": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Angel Narcotics Storage Facility"
   },
   "28872": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Angel Chemical Laboratory"
   },
   "28873": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Guristas Narcotics Storage Facility"
   },
   "28874": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Guristas Chemical Laboratory"
   },
   "28875": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Serpentis Narcotics Storage Facility"
   },
   "28876": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Serpentis Chemical Laboratory"
   },
   "28877": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Sansha Narcotics Storage Facility"
   },
   "28878": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Blood Raider Chemical Laboratory"
   },
   "28879": {
@@ -67797,7 +67797,7 @@
   },
   "30439": {
     "groupID": 226,
-    "name": "mobilestorage"
+    "name": "Warehouse"
   },
   "30440": {
     "groupID": 226,
@@ -68028,7 +68028,7 @@
     "name": "Deformed Sleeper Databank"
   },
   "30519": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Obsolete Sleeper Databank"
   },
   "30520": {
@@ -68052,7 +68052,7 @@
     "name": "Abandoned Sleeper Artifact"
   },
   "30525": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Sleeper Artifact"
   },
   "30526": {
@@ -73984,7 +73984,7 @@
     "name": "Proof of Discovery: Data"
   },
   "32367": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Training Container - Relic"
   },
   "32368": {
@@ -73992,7 +73992,7 @@
     "name": "Training Container - Salvaging"
   },
   "32369": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Training Container - Data"
   },
   "32370": {
@@ -76093,7 +76093,7 @@
   },
   "33213": {
     "groupID": 1194,
-    "name": "A piece of Steve"
+    "name": "A Piece of Steve"
   },
   "33214": {
     "groupID": 1194,
@@ -83773,7 +83773,7 @@
   },
   "37475": {
     "groupID": 1600,
-    "name": " Medium Tech I Large Ship Research II"
+    "name": "Medium Tech I Large Ship Research II"
   },
   "37479": {
     "groupID": 1533,
@@ -84241,7 +84241,7 @@
   },
   "37881": {
     "groupID": 1194,
-    "name": "Grand Teigjon Casino Chip"
+    "name": "Grand Tiegjon Casino Chip"
   },
   "37882": {
     "groupID": 1194,
@@ -93203,14 +93203,6 @@
     "groupID": 1194,
     "name": "Yoiul Festival YC120 Coin (Gallente)"
   },
-  "47066": {
-    "groupID": 226,
-    "name": "TestAsset_01"
-  },
-  "47067": {
-    "groupID": 226,
-    "name": "TestAsset_02"
-  },
   "47068": {
     "groupID": 1331,
     "name": "Standup Gravitational Transportation Field Oscillator"
@@ -93503,26 +93495,6 @@
     "groupID": 1814,
     "name": "♦ test_boss"
   },
-  "47199": {
-    "groupID": 226,
-    "name": "TestAsset_03"
-  },
-  "47200": {
-    "groupID": 226,
-    "name": "TestAsset_04"
-  },
-  "47201": {
-    "groupID": 226,
-    "name": "TestAsset_05"
-  },
-  "47202": {
-    "groupID": 226,
-    "name": "TestAsset_06"
-  },
-  "47203": {
-    "groupID": 226,
-    "name": "TestAsset_07"
-  },
   "47204": {
     "groupID": 1882,
     "name": "TestBackground_01"
@@ -93530,14 +93502,6 @@
   "47205": {
     "groupID": 1882,
     "name": "TestBackground_02"
-  },
-  "47206": {
-    "groupID": 226,
-    "name": "TestAsset_08"
-  },
-  "47207": {
-    "groupID": 226,
-    "name": "TestAsset_09"
   },
   "47208": {
     "groupID": 1146,
@@ -101893,7 +101857,7 @@
   },
   "54000": {
     "groupID": 4034,
-    "name": "Scout Imperial Navy Sentinel "
+    "name": "Scout Imperial Navy Sentinel"
   },
   "54001": {
     "groupID": 4034,
@@ -101909,7 +101873,7 @@
   },
   "54004": {
     "groupID": 4034,
-    "name": "Scout Imperial Navy Zealot "
+    "name": "Scout Imperial Navy Zealot"
   },
   "54005": {
     "groupID": 4034,
@@ -102021,7 +101985,7 @@
   },
   "54032": {
     "groupID": 4034,
-    "name": "Scout  State Navy Rook "
+    "name": "Scout  State Navy Rook"
   },
   "54033": {
     "groupID": 4034,
@@ -102145,7 +102109,7 @@
   },
   "54063": {
     "groupID": 4034,
-    "name": "Elite Federal Navy Keres "
+    "name": "Elite Federal Navy Keres"
   },
   "54064": {
     "groupID": 4034,
@@ -103025,7 +102989,7 @@
   },
   "54357": {
     "groupID": 314,
-    "name": "Skeleton EGDLI Loot Crate Tier 2 "
+    "name": "Skeleton EGDLI Loot Crate Tier 2"
   },
   "54358": {
     "groupID": 314,
@@ -105120,19 +105084,19 @@
     "name": "Amarr Frigate Navy Issue Slicer"
   },
   "55811": {
-    "groupID": 226,
+    "groupID": 1975,
     "name": "Amarr Destroyer Dragoon"
   },
   "55812": {
-    "groupID": 226,
+    "groupID": 1975,
     "name": "Amarr Tactical Destroyer Confessor"
   },
   "55813": {
-    "groupID": 226,
+    "groupID": 1975,
     "name": "Amarr Strategic Cruiser Legion"
   },
   "55814": {
-    "groupID": 226,
+    "groupID": 1975,
     "name": "Amarr Battlecruiser Oracle"
   },
   "55815": {
@@ -105153,15 +105117,15 @@
   },
   "55821": {
     "groupID": 4050,
-    "name": "2v2 Cruiser Brawl Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "55822": {
     "groupID": 4050,
-    "name": "FFA Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "55823": {
     "groupID": 4050,
-    "name": "3v3 Slicers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "55824": {
     "groupID": 4050,
@@ -105169,7 +105133,7 @@
   },
   "55825": {
     "groupID": 4050,
-    "name": "2v2 Battlecruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "55826": {
     "groupID": 303,
@@ -105309,7 +105273,7 @@
   },
   "55907": {
     "groupID": 314,
-    "name": "EGDLI (2) BPC Tier 3 (Alpha) "
+    "name": "EGDLI (2) BPC Tier 3 (Alpha)"
   },
   "55908": {
     "groupID": 314,
@@ -105325,7 +105289,7 @@
   },
   "55911": {
     "groupID": 314,
-    "name": "EGDLI (2) Abyssal Tier 4 (Alpha) "
+    "name": "EGDLI (2) Abyssal Tier 4 (Alpha)"
   },
   "55912": {
     "groupID": 226,
@@ -105573,11 +105537,11 @@
   },
   "55982": {
     "groupID": 4050,
-    "name": "5v5 Corvette Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "55983": {
     "groupID": 4050,
-    "name": "2v2 Caldari Destroyer, Interceptor, and Navy Frigate Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56018": {
     "groupID": 7,
@@ -105777,15 +105741,15 @@
   },
   "56092": {
     "groupID": 4050,
-    "name": "FFA Cruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56093": {
     "groupID": 4050,
-    "name": "1v1 T1 Combat and Navy Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56094": {
     "groupID": 4050,
-    "name": "2v2 Cruiser Clash Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56095": {
     "groupID": 1194,
@@ -106241,7 +106205,7 @@
   },
   "56233": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Amarr Border)  "
+    "name": "Disrupted Gate (Amarr Border)"
   },
   "56234": {
     "groupID": 4081,
@@ -106261,27 +106225,27 @@
   },
   "56238": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Amarr System) "
+    "name": "Disrupted Gate (Amarr System)"
   },
   "56239": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Amarr System) "
+    "name": "Disrupted Gate (Amarr System)"
   },
   "56240": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Caldari Border) "
+    "name": "Disrupted Gate (Caldari Border)"
   },
   "56241": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Caldari Border) "
+    "name": "Disrupted Gate (Caldari Border)"
   },
   "56242": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Caldari Region) "
+    "name": "Disrupted Gate (Caldari Region)"
   },
   "56243": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Caldari Region) "
+    "name": "Disrupted Gate (Caldari Region)"
   },
   "56244": {
     "groupID": 4081,
@@ -106293,27 +106257,27 @@
   },
   "56246": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Caldari Constellation) "
+    "name": "Disrupted Gate (Caldari Constellation)"
   },
   "56247": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Caldari Constellation) "
+    "name": "Disrupted Gate (Caldari Constellation)"
   },
   "56248": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Gallente Border)  "
+    "name": "Disrupted Gate (Gallente Border)"
   },
   "56249": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Gallente Border)  "
+    "name": "Disrupted Gate (Gallente Border)"
   },
   "56250": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Gallente Region) "
+    "name": "Disrupted Gate (Gallente Region)"
   },
   "56251": {
     "groupID": 4081,
-    "name": "Disrupted Gate (Gallente Region) "
+    "name": "Disrupted Gate (Gallente Region)"
   },
   "56252": {
     "groupID": 4081,
@@ -106697,39 +106661,39 @@
   },
   "56353": {
     "groupID": 4050,
-    "name": "Crimson Harvest Frigate FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56354": {
     "groupID": 4050,
-    "name": "2v2 Tactical Destroyer Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56355": {
     "groupID": 4050,
-    "name": "1v1 T1 Cruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56356": {
     "groupID": 4050,
-    "name": "Yoiul 2v2v2v2 Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56357": {
     "groupID": 4050,
-    "name": "Yoiul 3v3 Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56358": {
     "groupID": 4050,
-    "name": "T1 Cruiser FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56359": {
     "groupID": 4050,
-    "name": "1v1 T1 Battlecruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56360": {
     "groupID": 4050,
-    "name": "Gala 2v2 Cruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56361": {
     "groupID": 4050,
-    "name": "T1 Frigate FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "56362": {
     "groupID": 340,
@@ -108417,7 +108381,7 @@
   },
   "57175": {
     "groupID": 1975,
-    "name": "Sansha Control Tower Winter "
+    "name": "Sansha Control Tower Winter"
   },
   "57176": {
     "groupID": 1975,
@@ -108937,31 +108901,31 @@
   },
   "57367": {
     "groupID": 4050,
-    "name": "Grand Prix 1v1 Interceptors Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57368": {
     "groupID": 4050,
-    "name": "Assault Frigate FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57369": {
     "groupID": 4050,
-    "name": "Hunt 3v3 Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57370": {
     "groupID": 4050,
-    "name": "2v2 Navy Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57372": {
     "groupID": 4050,
-    "name": "Capsuleer Day 18 Cruiser Extravaganza Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57373": {
     "groupID": 4050,
-    "name": "2v2 Gnosis Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57374": {
     "groupID": 4050,
-    "name": "Expired 1v1 Battleships Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "57397": {
     "groupID": 185,
@@ -109229,7 +109193,7 @@
   },
   "57485": {
     "groupID": 334,
-    "name": "Genetic Mutation Inhibiter"
+    "name": "Genetic Mutation Inhibitor"
   },
   "57486": {
     "groupID": 334,
@@ -109377,7 +109341,7 @@
   },
   "57522": {
     "groupID": 447,
-    "name": "Genetic Mutation Inhibiter Blueprint"
+    "name": "Genetic Mutation Inhibitor Blueprint"
   },
   "57523": {
     "groupID": 447,
@@ -109661,27 +109625,27 @@
   },
   "57632": {
     "groupID": 226,
-    "name": "Federation Grand Prix Imya Waypoint"
+    "name": "Federation Grand Prix Quafe HQ Waypoint"
   },
   "57633": {
     "groupID": 226,
-    "name": "Federation Grand Prix Noranim Waypoint"
+    "name": "Federation Grand Prix Niyabainen Waypoint"
   },
   "57636": {
     "groupID": 226,
-    "name": "Federation Grand Prix Aurcel Waypoint"
+    "name": "Federation Grand Prix Hurtoken Waypoint"
   },
   "57637": {
     "groupID": 226,
-    "name": "Federation Grand Prix Otosela Waypoint"
+    "name": "Federation Grand Prix Odatrik Waypoint"
   },
   "57640": {
     "groupID": 226,
-    "name": "Federation Grand Prix Harroule Waypoint"
+    "name": "Federation Grand Prix Nafomeh Waypoint"
   },
   "57643": {
     "groupID": 226,
-    "name": "Federation Grand Prix Asakai Waypoint"
+    "name": "Federation Grand Prix Turba Waypoint"
   },
   "57684": {
     "groupID": 1207,
@@ -110217,7 +110181,7 @@
   },
   "58748": {
     "groupID": 1975,
-    "name": "Fortified EoM Junction"
+    "name": "Non-Interactable Amarr Junction (Do Not Translate)"
   },
   "58749": {
     "groupID": 1975,
@@ -110357,7 +110321,7 @@
   },
   "58797": {
     "groupID": 1194,
-    "name": " Capsuleer Day XVIII T-Shirt and Cap Crate"
+    "name": "Capsuleer Day XVIII T-Shirt and Cap Crate"
   },
   "58802": {
     "groupID": 226,
@@ -110509,35 +110473,35 @@
   },
   "58843": {
     "groupID": 4050,
-    "name": "2v2v2 Gallente Cruiser and AF Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58844": {
     "groupID": 4050,
-    "name": "2v2 Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58845": {
     "groupID": 4050,
-    "name": "Liberation Games Rifter FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58846": {
     "groupID": 4050,
-    "name": "Proving Conduit Throwback Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58847": {
     "groupID": 4050,
-    "name": "Foundation Day Omen FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58848": {
     "groupID": 4050,
-    "name": "1v1 Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58849": {
     "groupID": 4050,
-    "name": "Union Day 2v2 Caldari Battlecruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58850": {
     "groupID": 4050,
-    "name": "Corvette FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "58851": {
     "groupID": 303,
@@ -110969,7 +110933,7 @@
   },
   "59322": {
     "groupID": 1194,
-    "name": " Capsuleer Day XVIII Omega Booster Gift Box"
+    "name": "Capsuleer Day XVIII Omega Booster Gift Box"
   },
   "59358": {
     "groupID": 226,
@@ -111017,7 +110981,7 @@
   },
   "59369": {
     "groupID": 4050,
-    "name": "2v2 Interceptors Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "59370": {
     "groupID": 1090,
@@ -111469,23 +111433,23 @@
   },
   "59704": {
     "groupID": 226,
-    "name": "Brutor Hurricane "
+    "name": "Brutor Hurricane"
   },
   "59705": {
     "groupID": 226,
-    "name": "Vherokior Hurricane "
+    "name": "Vherokior Hurricane"
   },
   "59706": {
     "groupID": 226,
-    "name": "Nefantar Hurricane "
+    "name": "Nefantar Hurricane"
   },
   "59707": {
     "groupID": 226,
-    "name": "Thukker Hurricane "
+    "name": "Thukker Hurricane"
   },
   "59708": {
     "groupID": 226,
-    "name": "Starkmanir Hurricane "
+    "name": "Starkmanir Hurricane"
   },
   "59709": {
     "groupID": 226,
@@ -112057,23 +112021,23 @@
   },
   "60076": {
     "groupID": 4050,
-    "name": "Totality Day 3v3 Kikimoras Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60077": {
     "groupID": 4050,
-    "name": "1v1 Battleships Redux Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60078": {
     "groupID": 4050,
-    "name": "Crimson Harvest Destroyer FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60079": {
     "groupID": 4050,
-    "name": "AT XVII 2v2 Cruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60080": {
     "groupID": 4050,
-    "name": "AT XVII 1v1 Tactical Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60089": {
     "groupID": 4098,
@@ -112557,7 +112521,7 @@
   },
   "60319": {
     "groupID": 4100,
-    "name": "Inaugural Liberation Games: Thukker Tribe"
+    "name": "Liberation Games Champions: Thukker Tribe"
   },
   "60321": {
     "groupID": 1814,
@@ -112773,7 +112737,7 @@
   },
   "60375": {
     "groupID": 227,
-    "name": "ABS (Do not translate) "
+    "name": "ABS (Do not translate)"
   },
   "60376": {
     "groupID": 1452,
@@ -113301,43 +113265,43 @@
   },
   "60598": {
     "groupID": 4050,
-    "name": "AT XVII Frigate FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60599": {
     "groupID": 4050,
-    "name": "AT XVII 1v1 Battlecruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60600": {
     "groupID": 4050,
-    "name": "Prophecy FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60601": {
     "groupID": 4050,
-    "name": "Yoiul 2v2 Assault Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60602": {
     "groupID": 4050,
-    "name": "Yoiul 1v1 Navy Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60603": {
     "groupID": 4050,
-    "name": "Yoiul T1 Cruiser FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60604": {
     "groupID": 4050,
-    "name": "Yoiul 1v1 Battleships Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60605": {
     "groupID": 4050,
-    "name": "Exploration Frigate FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60606": {
     "groupID": 4050,
-    "name": "2v2 T1 Cruiser Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60607": {
     "groupID": 4050,
-    "name": "Gala 1v1 Destroyers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "60608": {
     "groupID": 366,
@@ -113421,11 +113385,11 @@
   },
   "60681": {
     "groupID": 474,
-    "name": "Tetrimon Base Shortcut Keypass"
+    "name": "Expired Tetrimon Base Shortcut Keypass"
   },
   "60682": {
     "groupID": 474,
-    "name": "Crimson Gauntlet Shortcut Keypass"
+    "name": "Expired Crimson Gauntlet Shortcut Keypass"
   },
   "60683": {
     "groupID": 303,
@@ -114089,7 +114053,7 @@
   },
   "61305": {
     "groupID": 1971,
-    "name": "Unknown Space Boundary "
+    "name": "Unknown Space Boundary"
   },
   "61396": {
     "groupID": 1975,
@@ -114569,31 +114533,31 @@
   },
   "62273": {
     "groupID": 4050,
-    "name": "1v1 Battleships Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62274": {
     "groupID": 4050,
-    "name": "Venture FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62275": {
     "groupID": 4050,
-    "name": "2v2 T1 Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62276": {
     "groupID": 4050,
-    "name": "Cruiser Chaos FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62277": {
     "groupID": 4050,
-    "name": "Hunt 1v1 Assault Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62278": {
     "groupID": 4050,
-    "name": "1v1 Strategic Cruisers Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62279": {
     "groupID": 4050,
-    "name": "Capsuleer Day 2v2 Navy Frigates Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "62342": {
     "groupID": 1971,
@@ -114645,7 +114609,7 @@
   },
   "62389": {
     "groupID": 4168,
-    "name": "Compressed Gamboge Cytoserocin "
+    "name": "Compressed Gamboge Cytoserocin"
   },
   "62390": {
     "groupID": 4168,
@@ -114665,7 +114629,7 @@
   },
   "62394": {
     "groupID": 4168,
-    "name": "Compressed Viridian Cytoserocin "
+    "name": "Compressed Viridian Cytoserocin"
   },
   "62395": {
     "groupID": 1971,
@@ -114677,15 +114641,15 @@
   },
   "62397": {
     "groupID": 4168,
-    "name": "Compressed Fullerite-C60 "
+    "name": "Compressed Fullerite-C60"
   },
   "62398": {
     "groupID": 4168,
-    "name": "Compressed Fullerite-C70 "
+    "name": "Compressed Fullerite-C70"
   },
   "62399": {
     "groupID": 4168,
-    "name": "Compressed Fullerite-C50 "
+    "name": "Compressed Fullerite-C50"
   },
   "62400": {
     "groupID": 4168,
@@ -114701,11 +114665,11 @@
   },
   "62404": {
     "groupID": 4168,
-    "name": "Compressed Fullerite-C32 "
+    "name": "Compressed Fullerite-C32"
   },
   "62405": {
     "groupID": 4168,
-    "name": "Compressed Fullerite-C540 "
+    "name": "Compressed Fullerite-C540"
   },
   "62406": {
     "groupID": 4168,
@@ -114777,35 +114741,35 @@
   },
   "62456": {
     "groupID": 1884,
-    "name": "Compressed Glistening Bitumens "
+    "name": "Compressed Glistening Bitumens"
   },
   "62457": {
     "groupID": 1884,
-    "name": "Compressed Coesite "
+    "name": "Compressed Coesite"
   },
   "62458": {
     "groupID": 1884,
-    "name": "Compressed Brimful Coesite "
+    "name": "Compressed Brimful Coesite"
   },
   "62459": {
     "groupID": 1884,
-    "name": "Compressed Glistening Coesite "
+    "name": "Compressed Glistening Coesite"
   },
   "62460": {
     "groupID": 1884,
-    "name": "Compressed Sylvite "
+    "name": "Compressed Sylvite"
   },
   "62461": {
     "groupID": 1884,
-    "name": "Compressed Brimful Sylvite "
+    "name": "Compressed Brimful Sylvite"
   },
   "62463": {
     "groupID": 1884,
-    "name": "Compressed Zeolites "
+    "name": "Compressed Zeolites"
   },
   "62464": {
     "groupID": 1884,
-    "name": "Compressed Brimful Zeolites "
+    "name": "Compressed Brimful Zeolites"
   },
   "62466": {
     "groupID": 1884,
@@ -114813,23 +114777,23 @@
   },
   "62467": {
     "groupID": 1884,
-    "name": "Compressed Glistening Zeolites "
+    "name": "Compressed Glistening Zeolites"
   },
   "62468": {
     "groupID": 1920,
-    "name": "Compressed Scheelite "
+    "name": "Compressed Scheelite"
   },
   "62469": {
     "groupID": 1920,
-    "name": "Compressed Copious Scheelite "
+    "name": "Compressed Copious Scheelite"
   },
   "62470": {
     "groupID": 1920,
-    "name": "Compressed Twinkling Scheelite "
+    "name": "Compressed Twinkling Scheelite"
   },
   "62471": {
     "groupID": 1920,
-    "name": "Compressed Euxenite "
+    "name": "Compressed Euxenite"
   },
   "62472": {
     "groupID": 1920,
@@ -114837,15 +114801,15 @@
   },
   "62473": {
     "groupID": 1920,
-    "name": "Compressed Twinkling Euxenite "
+    "name": "Compressed Twinkling Euxenite"
   },
   "62474": {
     "groupID": 1920,
-    "name": "Compressed Cobaltite "
+    "name": "Compressed Cobaltite"
   },
   "62475": {
     "groupID": 1920,
-    "name": "Compressed Copious Cobaltite "
+    "name": "Compressed Copious Cobaltite"
   },
   "62476": {
     "groupID": 1920,
@@ -114853,7 +114817,7 @@
   },
   "62477": {
     "groupID": 1920,
-    "name": "Compressed Titanite "
+    "name": "Compressed Titanite"
   },
   "62478": {
     "groupID": 1920,
@@ -114861,7 +114825,7 @@
   },
   "62479": {
     "groupID": 1920,
-    "name": "Compressed Twinkling Titanite "
+    "name": "Compressed Twinkling Titanite"
   },
   "62480": {
     "groupID": 1921,
@@ -114873,15 +114837,15 @@
   },
   "62482": {
     "groupID": 1921,
-    "name": "Compressed Shimmering Chromite "
+    "name": "Compressed Shimmering Chromite"
   },
   "62483": {
     "groupID": 1921,
-    "name": "Compressed Otavite "
+    "name": "Compressed Otavite"
   },
   "62484": {
     "groupID": 1921,
-    "name": "Compressed Lavish Otavite "
+    "name": "Compressed Lavish Otavite"
   },
   "62485": {
     "groupID": 1921,
@@ -114889,15 +114853,15 @@
   },
   "62486": {
     "groupID": 1921,
-    "name": "Compressed Sperrylite "
+    "name": "Compressed Sperrylite"
   },
   "62487": {
     "groupID": 1921,
-    "name": "Compressed Lavish Sperrylite "
+    "name": "Compressed Lavish Sperrylite"
   },
   "62488": {
     "groupID": 1921,
-    "name": "Compressed Shimmering Sperrylite "
+    "name": "Compressed Shimmering Sperrylite"
   },
   "62489": {
     "groupID": 1921,
@@ -114909,15 +114873,15 @@
   },
   "62491": {
     "groupID": 1921,
-    "name": "Compressed Shimmering Vanadinite "
+    "name": "Compressed Shimmering Vanadinite"
   },
   "62492": {
     "groupID": 1922,
-    "name": "Compressed Carnotite "
+    "name": "Compressed Carnotite"
   },
   "62493": {
     "groupID": 1922,
-    "name": "Compressed Replete Carnotite "
+    "name": "Compressed Replete Carnotite"
   },
   "62494": {
     "groupID": 1922,
@@ -114925,67 +114889,67 @@
   },
   "62495": {
     "groupID": 1922,
-    "name": "Compressed Cinnabar "
+    "name": "Compressed Cinnabar"
   },
   "62496": {
     "groupID": 1922,
-    "name": "Compressed Replete Cinnabar "
+    "name": "Compressed Replete Cinnabar"
   },
   "62497": {
     "groupID": 1922,
-    "name": "Compressed Glowing Cinnabar "
+    "name": "Compressed Glowing Cinnabar"
   },
   "62498": {
     "groupID": 1922,
-    "name": "Compressed Pollucite "
+    "name": "Compressed Pollucite"
   },
   "62499": {
     "groupID": 1922,
-    "name": "Compressed Replete Pollucite "
+    "name": "Compressed Replete Pollucite"
   },
   "62500": {
     "groupID": 1922,
-    "name": "Compressed Glowing Pollucite "
+    "name": "Compressed Glowing Pollucite"
   },
   "62501": {
     "groupID": 1922,
-    "name": "Compressed Zircon "
+    "name": "Compressed Zircon"
   },
   "62502": {
     "groupID": 1922,
-    "name": "Compressed Replete Zircon "
+    "name": "Compressed Replete Zircon"
   },
   "62503": {
     "groupID": 1922,
-    "name": "Compressed Glowing Zircon "
+    "name": "Compressed Glowing Zircon"
   },
   "62504": {
     "groupID": 1923,
-    "name": "Compressed Loparite "
+    "name": "Compressed Loparite"
   },
   "62505": {
     "groupID": 1923,
-    "name": "Compressed Bountiful Loparite "
+    "name": "Compressed Bountiful Loparite"
   },
   "62506": {
     "groupID": 1923,
-    "name": "Compressed Shining Loparite "
+    "name": "Compressed Shining Loparite"
   },
   "62507": {
     "groupID": 1923,
-    "name": "Compressed Monazite "
+    "name": "Compressed Monazite"
   },
   "62508": {
     "groupID": 1923,
-    "name": "Compressed Bountiful Monazite "
+    "name": "Compressed Bountiful Monazite"
   },
   "62509": {
     "groupID": 1923,
-    "name": "Compressed Shining Monazite "
+    "name": "Compressed Shining Monazite"
   },
   "62510": {
     "groupID": 1923,
-    "name": "Compressed Xenotime "
+    "name": "Compressed Xenotime"
   },
   "62511": {
     "groupID": 1923,
@@ -114993,15 +114957,15 @@
   },
   "62512": {
     "groupID": 1923,
-    "name": "Compressed Shining Xenotime "
+    "name": "Compressed Shining Xenotime"
   },
   "62513": {
     "groupID": 1923,
-    "name": "Compressed Ytterbite "
+    "name": "Compressed Ytterbite"
   },
   "62514": {
     "groupID": 1923,
-    "name": "Compressed Bountiful Ytterbite "
+    "name": "Compressed Bountiful Ytterbite"
   },
   "62515": {
     "groupID": 1923,
@@ -115013,15 +114977,15 @@
   },
   "62517": {
     "groupID": 462,
-    "name": "Compressed Concentrated Veldspar "
+    "name": "Compressed Concentrated Veldspar"
   },
   "62518": {
     "groupID": 462,
-    "name": "Compressed Dense Veldspar "
+    "name": "Compressed Dense Veldspar"
   },
   "62519": {
     "groupID": 462,
-    "name": "Compressed Stable Veldspar "
+    "name": "Compressed Stable Veldspar"
   },
   "62520": {
     "groupID": 460,
@@ -115029,7 +114993,7 @@
   },
   "62521": {
     "groupID": 460,
-    "name": "Compressed Condensed Scordite "
+    "name": "Compressed Condensed Scordite"
   },
   "62522": {
     "groupID": 460,
@@ -115037,11 +115001,11 @@
   },
   "62523": {
     "groupID": 460,
-    "name": "Compressed Glossy Scordite "
+    "name": "Compressed Glossy Scordite"
   },
   "62524": {
     "groupID": 459,
-    "name": "Compressed Pyroxeres "
+    "name": "Compressed Pyroxeres"
   },
   "62525": {
     "groupID": 459,
@@ -115049,59 +115013,59 @@
   },
   "62526": {
     "groupID": 459,
-    "name": "Compressed Viscous Pyroxeres "
+    "name": "Compressed Viscous Pyroxeres"
   },
   "62527": {
     "groupID": 459,
-    "name": "Compressed Opulent Pyroxeres "
+    "name": "Compressed Opulent Pyroxeres"
   },
   "62528": {
     "groupID": 458,
-    "name": "Compressed Plagioclase "
+    "name": "Compressed Plagioclase"
   },
   "62529": {
     "groupID": 458,
-    "name": "Compressed Azure Plagioclase "
+    "name": "Compressed Azure Plagioclase"
   },
   "62530": {
     "groupID": 458,
-    "name": "Compressed Rich Plagioclase "
+    "name": "Compressed Rich Plagioclase"
   },
   "62531": {
     "groupID": 458,
-    "name": "Compressed Sparkling Plagioclase "
+    "name": "Compressed Sparkling Plagioclase"
   },
   "62532": {
     "groupID": 469,
-    "name": "Compressed Omber "
+    "name": "Compressed Omber"
   },
   "62533": {
     "groupID": 469,
-    "name": "Compressed Silvery Omber "
+    "name": "Compressed Silvery Omber"
   },
   "62534": {
     "groupID": 469,
-    "name": "Compressed Golden Omber "
+    "name": "Compressed Golden Omber"
   },
   "62535": {
     "groupID": 469,
-    "name": "Compressed Platinoid Omber "
+    "name": "Compressed Platinoid Omber"
   },
   "62536": {
     "groupID": 457,
-    "name": "Compressed Kernite "
+    "name": "Compressed Kernite"
   },
   "62537": {
     "groupID": 457,
-    "name": "Compressed Luminous Kernite "
+    "name": "Compressed Luminous Kernite"
   },
   "62538": {
     "groupID": 457,
-    "name": "Compressed Fiery Kernite "
+    "name": "Compressed Fiery Kernite"
   },
   "62539": {
     "groupID": 457,
-    "name": "Compressed Resplendant Kernite "
+    "name": "Compressed Resplendant Kernite"
   },
   "62540": {
     "groupID": 456,
@@ -115113,11 +115077,11 @@
   },
   "62542": {
     "groupID": 456,
-    "name": "Compressed Pristine Jaspet "
+    "name": "Compressed Pristine Jaspet"
   },
   "62543": {
     "groupID": 456,
-    "name": "Compressed Immaculate Jaspet "
+    "name": "Compressed Immaculate Jaspet"
   },
   "62544": {
     "groupID": 455,
@@ -115125,23 +115089,23 @@
   },
   "62545": {
     "groupID": 455,
-    "name": "Compressed Vivid Hemorphite "
+    "name": "Compressed Vivid Hemorphite"
   },
   "62546": {
     "groupID": 455,
-    "name": "Compressed Radiant Hemorphite "
+    "name": "Compressed Radiant Hemorphite"
   },
   "62547": {
     "groupID": 455,
-    "name": "Compressed Scintillating Hemorphite "
+    "name": "Compressed Scintillating Hemorphite"
   },
   "62548": {
     "groupID": 454,
-    "name": "Compressed Hedbergite "
+    "name": "Compressed Hedbergite"
   },
   "62549": {
     "groupID": 454,
-    "name": "Compressed Vitric Hedbergite "
+    "name": "Compressed Vitric Hedbergite"
   },
   "62550": {
     "groupID": 454,
@@ -115149,7 +115113,7 @@
   },
   "62551": {
     "groupID": 454,
-    "name": "Compressed Lustrous Hedbergite "
+    "name": "Compressed Lustrous Hedbergite"
   },
   "62552": {
     "groupID": 467,
@@ -115157,7 +115121,7 @@
   },
   "62553": {
     "groupID": 467,
-    "name": "Compressed Iridescent Gneiss "
+    "name": "Compressed Iridescent Gneiss"
   },
   "62554": {
     "groupID": 467,
@@ -115165,19 +115129,19 @@
   },
   "62555": {
     "groupID": 467,
-    "name": "Compressed Brilliant Gneiss "
+    "name": "Compressed Brilliant Gneiss"
   },
   "62556": {
     "groupID": 453,
-    "name": "Compressed Dark Ochre "
+    "name": "Compressed Dark Ochre"
   },
   "62557": {
     "groupID": 453,
-    "name": "Compressed Onyx Ochre "
+    "name": "Compressed Onyx Ochre"
   },
   "62558": {
     "groupID": 453,
-    "name": "Compressed Obsidian Ochre "
+    "name": "Compressed Obsidian Ochre"
   },
   "62559": {
     "groupID": 453,
@@ -115193,35 +115157,35 @@
   },
   "62562": {
     "groupID": 452,
-    "name": "Compressed Crystalline Crokite "
+    "name": "Compressed Crystalline Crokite"
   },
   "62563": {
     "groupID": 452,
-    "name": "Compressed Pellucid Crokite "
+    "name": "Compressed Pellucid Crokite"
   },
   "62564": {
     "groupID": 451,
-    "name": "Compressed Bistot "
+    "name": "Compressed Bistot"
   },
   "62565": {
     "groupID": 451,
-    "name": "Compressed Triclinic Bistot "
+    "name": "Compressed Triclinic Bistot"
   },
   "62566": {
     "groupID": 451,
-    "name": "Compressed Monoclinic Bistot "
+    "name": "Compressed Monoclinic Bistot"
   },
   "62567": {
     "groupID": 451,
-    "name": "Compressed Cubic Bistot "
+    "name": "Compressed Cubic Bistot"
   },
   "62568": {
     "groupID": 450,
-    "name": "Compressed Arkonor "
+    "name": "Compressed Arkonor"
   },
   "62569": {
     "groupID": 450,
-    "name": "Compressed Crimson Arkonor "
+    "name": "Compressed Crimson Arkonor"
   },
   "62570": {
     "groupID": 450,
@@ -115237,23 +115201,23 @@
   },
   "62573": {
     "groupID": 461,
-    "name": "Compressed Bright Spodumain "
+    "name": "Compressed Bright Spodumain"
   },
   "62574": {
     "groupID": 461,
-    "name": "Compressed Gleaming Spodumain "
+    "name": "Compressed Gleaming Spodumain"
   },
   "62575": {
     "groupID": 461,
-    "name": "Compressed Dazzling Spodumain "
+    "name": "Compressed Dazzling Spodumain"
   },
   "62576": {
     "groupID": 4031,
-    "name": "Compressed Bezdnacine "
+    "name": "Compressed Bezdnacine"
   },
   "62577": {
     "groupID": 4031,
-    "name": "Compressed Abyssal Bezdnacine "
+    "name": "Compressed Abyssal Bezdnacine"
   },
   "62578": {
     "groupID": 4031,
@@ -115261,19 +115225,19 @@
   },
   "62579": {
     "groupID": 4030,
-    "name": "Compressed Rakovene "
+    "name": "Compressed Rakovene"
   },
   "62580": {
     "groupID": 4030,
-    "name": "Compressed Abyssal Rakovene "
+    "name": "Compressed Abyssal Rakovene"
   },
   "62581": {
     "groupID": 4030,
-    "name": "Compressed Hadal Rakovene "
+    "name": "Compressed Hadal Rakovene"
   },
   "62582": {
     "groupID": 4029,
-    "name": "Compressed Talassonite "
+    "name": "Compressed Talassonite"
   },
   "62583": {
     "groupID": 4029,
@@ -115281,23 +115245,23 @@
   },
   "62584": {
     "groupID": 4029,
-    "name": "Compressed Hadal Talassonite "
+    "name": "Compressed Hadal Talassonite"
   },
   "62586": {
     "groupID": 468,
-    "name": "Compressed Mercoxit "
+    "name": "Compressed Mercoxit"
   },
   "62587": {
     "groupID": 468,
-    "name": "Compressed Magma Mercoxit "
+    "name": "Compressed Magma Mercoxit"
   },
   "62588": {
     "groupID": 468,
-    "name": "Compressed Vitreous Mercoxit "
+    "name": "Compressed Vitreous Mercoxit"
   },
   "62589": {
     "groupID": 4174,
-    "name": "QA Compressor "
+    "name": "QA Compressor"
   },
   "62590": {
     "groupID": 515,
@@ -115305,7 +115269,7 @@
   },
   "62591": {
     "groupID": 515,
-    "name": "Medium Industrial Core II "
+    "name": "Medium Industrial Core II"
   },
   "62592": {
     "groupID": 516,
@@ -115689,11 +115653,11 @@
   },
   "63058": {
     "groupID": 1083,
-    "name": "Men's 'Semiotique Superluminal' Shades "
+    "name": "Men's 'Semiotique Superluminal' Shades"
   },
   "63061": {
     "groupID": 1083,
-    "name": "Women's 'Semiotique Superluminal' Shades "
+    "name": "Women's 'Semiotique Superluminal' Shades"
   },
   "63088": {
     "groupID": 1975,
@@ -115857,7 +115821,7 @@
   },
   "63168": {
     "groupID": 306,
-    "name": "Huntmaster Communications Tower "
+    "name": "Huntmaster Communications Tower"
   },
   "63169": {
     "groupID": 306,
@@ -116301,15 +116265,15 @@
   },
   "63633": {
     "groupID": 303,
-    "name": "Basic 'Guri Kikhivaa' Cerebral Accelerator"
+    "name": "Expired Basic 'Guri Kikhivaa' Cerebral Accelerator"
   },
   "63634": {
     "groupID": 303,
-    "name": "Potent 'Guri Kikhivaa' Cerebral Accelerator"
+    "name": "Expired Potent 'Guri Kikhivaa' Cerebral Accelerator"
   },
   "63635": {
     "groupID": 303,
-    "name": "Extended 'Guri Kikhivaa' Cerebral Accelerator"
+    "name": "Expired Extended 'Guri Kikhivaa' Cerebral Accelerator"
   },
   "63636": {
     "groupID": 314,
@@ -116317,131 +116281,131 @@
   },
   "63645": {
     "groupID": 303,
-    "name": "Hunt Probing Booster I"
+    "name": "Expired Hunt Probing Booster I"
   },
   "63646": {
     "groupID": 303,
-    "name": "Hunt Probing Booster II"
+    "name": "Expired Hunt Probing Booster II"
   },
   "63647": {
     "groupID": 303,
-    "name": "Hunt Probing Booster III"
+    "name": "Expired Hunt Probing Booster III"
   },
   "63648": {
     "groupID": 303,
-    "name": "Hunt Probing Booster IV"
+    "name": "Expired Hunt Probing Booster IV"
   },
   "63649": {
     "groupID": 303,
-    "name": "Hunt Pursuit Booster I"
+    "name": "Expired Hunt Pursuit Booster I"
   },
   "63650": {
     "groupID": 303,
-    "name": "Hunt Pursuit Booster II"
+    "name": "Expired Hunt Pursuit Booster II"
   },
   "63651": {
     "groupID": 303,
-    "name": "Hunt Pursuit Booster III"
+    "name": "Expired Hunt Pursuit Booster III"
   },
   "63652": {
     "groupID": 303,
-    "name": "Hunt Pursuit Booster IV"
+    "name": "Expired Hunt Pursuit Booster IV"
   },
   "63653": {
     "groupID": 303,
-    "name": "Hunt Rapid Repair Booster I"
+    "name": "Expired Hunt Rapid Repair Booster I"
   },
   "63654": {
     "groupID": 303,
-    "name": "Hunt Rapid Repair Booster II"
+    "name": "Expired Hunt Rapid Repair Booster II"
   },
   "63655": {
     "groupID": 303,
-    "name": "Hunt Rapid Repair Booster III"
+    "name": "Expired Hunt Rapid Repair Booster III"
   },
   "63656": {
     "groupID": 303,
-    "name": "Hunt Rapid Repair Booster IV"
+    "name": "Expired Hunt Rapid Repair Booster IV"
   },
   "63657": {
     "groupID": 303,
-    "name": "Hunt Resistance Booster I"
+    "name": "Expired Hunt Resistance Booster I"
   },
   "63658": {
     "groupID": 303,
-    "name": "Hunt Resistance Booster II"
+    "name": "Expired Hunt Resistance Booster II"
   },
   "63659": {
     "groupID": 303,
-    "name": "Hunt Resistance Booster III"
+    "name": "Expired Hunt Resistance Booster III"
   },
   "63660": {
     "groupID": 303,
-    "name": "Hunt Resistance Booster IV"
+    "name": "Expired Hunt Resistance Booster IV"
   },
   "63661": {
     "groupID": 303,
-    "name": "Hunt Drone Precision Booster I"
+    "name": "Expired Hunt Drone Precision Booster I"
   },
   "63662": {
     "groupID": 303,
-    "name": "Hunt Drone Precision Booster II"
+    "name": "Expired Hunt Drone Precision Booster II"
   },
   "63663": {
     "groupID": 303,
-    "name": "Hunt Drone Precision Booster III"
+    "name": "Expired Hunt Drone Precision Booster III"
   },
   "63664": {
     "groupID": 303,
-    "name": "Hunt Drone Precision Booster IV"
+    "name": "Expired Hunt Drone Precision Booster IV"
   },
   "63665": {
     "groupID": 303,
-    "name": "Hunt Missile Velocity Booster I"
+    "name": "Expired Hunt Missile Velocity Booster I"
   },
   "63666": {
     "groupID": 303,
-    "name": "Hunt Missile Velocity Booster II"
+    "name": "Expired Hunt Missile Velocity Booster II"
   },
   "63667": {
     "groupID": 303,
-    "name": "Hunt Missile Velocity Booster III"
+    "name": "Expired Hunt Missile Velocity Booster III"
   },
   "63668": {
     "groupID": 303,
-    "name": "Hunt Missile Velocity Booster IV"
+    "name": "Expired Hunt Missile Velocity Booster IV"
   },
   "63669": {
     "groupID": 303,
-    "name": "Hunt Drone Damage Booster I"
+    "name": "Expired Hunt Drone Damage Booster I"
   },
   "63670": {
     "groupID": 303,
-    "name": "Hunt Drone Damage Booster II"
+    "name": "Expired Hunt Drone Damage Booster II"
   },
   "63671": {
     "groupID": 303,
-    "name": "Hunt Drone Damage Booster III"
+    "name": "Expired Hunt Drone Damage Booster III"
   },
   "63672": {
     "groupID": 303,
-    "name": "Hunt Drone Damage Booster IV"
+    "name": "Expired Hunt Drone Damage Booster IV"
   },
   "63673": {
     "groupID": 303,
-    "name": "Hunt Missile Damage Booster I"
+    "name": "Expired Hunt Missile Damage Booster I"
   },
   "63674": {
     "groupID": 303,
-    "name": "Hunt Missile Damage Booster II"
+    "name": "Expired Hunt Missile Damage Booster II"
   },
   "63675": {
     "groupID": 303,
-    "name": "Hunt Missile Damage Booster III"
+    "name": "Expired Hunt Missile Damage Booster III"
   },
   "63676": {
     "groupID": 303,
-    "name": "Hunt Missile Damage Booster IV"
+    "name": "Expired Hunt Missile Damage Booster IV"
   },
   "63677": {
     "groupID": 1194,
@@ -116517,59 +116481,59 @@
   },
   "63714": {
     "groupID": 4050,
-    "name": "Capsuleer Day Sunesis FFA Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63715": {
     "groupID": 4050,
-    "name": "Event 58 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63716": {
     "groupID": 4050,
-    "name": "Event 59 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63717": {
     "groupID": 4050,
-    "name": "Event 60 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63718": {
     "groupID": 4050,
-    "name": "Event 61 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63719": {
     "groupID": 4050,
-    "name": "Event 62 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63720": {
     "groupID": 4050,
-    "name": "Event 63 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63721": {
     "groupID": 4050,
-    "name": "Event 64 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63722": {
     "groupID": 4050,
-    "name": "Event 65 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63723": {
     "groupID": 4050,
-    "name": "Event 66 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63724": {
     "groupID": 4050,
-    "name": "Event 67 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63725": {
     "groupID": 4050,
-    "name": "Event 68 Proving Filament"
+    "name": "Expired Proving Filament"
   },
   "63726": {
     "groupID": 4050,
-    "name": "Event 69 Proving Filament"
+    "name": "2v2 T1 Cruisers Proving Filament"
   },
   "63727": {
     "groupID": 4050,
-    "name": "Event 70 Proving Filament"
+    "name": "Totality Day 1v1 Kikimoras Proving Filament"
   },
   "63728": {
     "groupID": 4050,
@@ -116591,41 +116555,201 @@
     "groupID": 1090,
     "name": "Women's Kimotoro Eskeitan Commander's Pants"
   },
+  "63770": {
+    "groupID": 1818,
+    "name": "Explorer - Frigate Skill Crate"
+  },
+  "63771": {
+    "groupID": 1818,
+    "name": "Explorer - Frigate Crate"
+  },
+  "63772": {
+    "groupID": 1818,
+    "name": "Industrialist - Frigate Blueprint Crate"
+  },
+  "63773": {
+    "groupID": 1818,
+    "name": "Industrialist - Destroyer Blueprint Crate"
+  },
+  "63774": {
+    "groupID": 1818,
+    "name": "Industrialist - Cruiser Blueprint Crate"
+  },
+  "63775": {
+    "groupID": 1818,
+    "name": "Industrialist - Hauler Blueprint Crate"
+  },
+  "63776": {
+    "groupID": 1818,
+    "name": "Industrialist -  Hauler Skill Crate"
+  },
+  "63777": {
+    "groupID": 1818,
+    "name": "Industrialist - Light Combat Drones Crate"
+  },
+  "63778": {
+    "groupID": 1818,
+    "name": "Enforcer - Destroyer Skill Crate"
+  },
+  "63779": {
+    "groupID": 1818,
+    "name": "Enforcer - Frigate Skill Crate"
+  },
+  "63780": {
+    "groupID": 1818,
+    "name": "Enforcer - Frigate Crate"
+  },
+  "63781": {
+    "groupID": 1818,
+    "name": "Enforcer - Defense System Skill Crate"
+  },
+  "63782": {
+    "groupID": 1818,
+    "name": "Enforcer - Frigate Crate"
+  },
+  "63783": {
+    "groupID": 1818,
+    "name": "Soldier of Fortune - Frigate Skill Crate"
+  },
+  "63784": {
+    "groupID": 1818,
+    "name": "Soldier of Fortune - Combat Frigate Crate"
+  },
+  "63785": {
+    "groupID": 1818,
+    "name": "Soldier of Fortune - Support Frigate Crate"
+  },
+  "63786": {
+    "groupID": 1818,
+    "name": "Enforcer - Tranquil Abyssal Filaments Crate"
+  },
+  "63787": {
+    "groupID": 1818,
+    "name": "Enforcer - Calm Abyssal Filaments Crate"
+  },
   "63788": {
     "groupID": 1929,
     "name": "Proving Bonus Nexus"
   },
   "63789": {
     "groupID": 1088,
-    "name": "63789_Male_outer_JacketMFBR01_Types_JacketMFBR01_Race.png"
+    "name": "Men's Grand Prix Racing Jacket"
   },
   "63790": {
     "groupID": 1088,
-    "name": "63790_Female_Outer_JacketFBR01_Types_JacketFBR01_race.png"
+    "name": "Women's Grand Prix Racing Jacket"
+  },
+  "63807": {
+    "groupID": 303,
+    "name": "AIR Astro-Acquisition II Booster"
+  },
+  "63808": {
+    "groupID": 303,
+    "name": "AIR Astro-Rangefinding II Booster"
+  },
+  "63809": {
+    "groupID": 303,
+    "name": "AIR Astro-Pinpointing II Booster"
+  },
+  "63810": {
+    "groupID": 303,
+    "name": "AIR Agility Booster II"
+  },
+  "63811": {
+    "groupID": 303,
+    "name": "AIR Mining Range Booster I"
+  },
+  "63812": {
+    "groupID": 303,
+    "name": "AIR Mining Yield Booster III"
+  },
+  "63813": {
+    "groupID": 303,
+    "name": "AIR Mining Yield Booster I"
+  },
+  "63814": {
+    "groupID": 303,
+    "name": "AIR Mining Yield Booster II"
+  },
+  "63815": {
+    "groupID": 303,
+    "name": "AIR Mining Range Booster II"
+  },
+  "63816": {
+    "groupID": 303,
+    "name": "AIR Rapture Booster II"
+  },
+  "63817": {
+    "groupID": 303,
+    "name": "AIR Nirvana Booster II"
+  },
+  "63818": {
+    "groupID": 303,
+    "name": "AIR Overclocker Booster II"
+  },
+  "63819": {
+    "groupID": 303,
+    "name": "AIR Hardshell Booster II"
+  },
+  "63820": {
+    "groupID": 303,
+    "name": "AIR Pyrolancea Booster II"
+  },
+  "63821": {
+    "groupID": 303,
+    "name": "AIR Overclocker Booster III"
+  },
+  "63822": {
+    "groupID": 303,
+    "name": "AIR Repairer Booster III"
+  },
+  "63824": {
+    "groupID": 526,
+    "name": "75,000 Skill Points"
+  },
+  "63825": {
+    "groupID": 526,
+    "name": "125,000 Skill Points"
+  },
+  "63826": {
+    "groupID": 4098,
+    "name": "Free AIR Explorer Expert System"
+  },
+  "63827": {
+    "groupID": 4098,
+    "name": "Free AIR Industrialist Expert System"
+  },
+  "63828": {
+    "groupID": 4098,
+    "name": "Free AIR Enforcer Expert System"
+  },
+  "63829": {
+    "groupID": 4098,
+    "name": "Free AIR Soldier of Fortune Expert System"
   },
   "63849": {
     "groupID": 303,
-    "name": "Basic Capsuleer Day Glamourex Booster"
+    "name": "Expired Basic Capsuleer Day Glamourex Booster"
   },
   "63850": {
     "groupID": 303,
-    "name": "Extended Capsuleer Day Glamourex Booster"
+    "name": "Expired Extended Capsuleer Day Glamourex Booster"
   },
   "63851": {
     "groupID": 303,
-    "name": "Potent Capsuleer Day Glamourex Booster"
+    "name": "Expired Potent Capsuleer Day Glamourex Booster"
   },
   "63852": {
     "groupID": 303,
-    "name": "Basic Capsuleer Day Cerebral Accelerator"
+    "name": "Expired Basic Capsuleer Day Cerebral Accelerator"
   },
   "63853": {
     "groupID": 303,
-    "name": "Extended Capsuleer Day Cerebral Accelerator"
+    "name": "Expired Extended Capsuleer Day Cerebral Accelerator"
   },
   "63854": {
     "groupID": 303,
-    "name": "Potent Capsuleer Day Cerebral Accelerator"
+    "name": "Expired Potent Capsuleer Day Cerebral Accelerator"
   },
   "63871": {
     "groupID": 306,
@@ -116653,131 +116777,131 @@
   },
   "63878": {
     "groupID": 303,
-    "name": "Smuggler Low Observability Booster I"
+    "name": "Expired Smuggler Low Observability Booster I"
   },
   "63879": {
     "groupID": 303,
-    "name": "Smuggler Low Observability Booster II"
+    "name": "Expired Smuggler Low Observability Booster II"
   },
   "63880": {
     "groupID": 303,
-    "name": "Smuggler Low Observability Booster III"
+    "name": "Expired Smuggler Low Observability Booster III"
   },
   "63881": {
     "groupID": 303,
-    "name": "Smuggler Low Observability Booster IV"
+    "name": "Expired Smuggler Low Observability Booster IV"
   },
   "63882": {
     "groupID": 303,
-    "name": "DED Scan Booster I"
+    "name": "Expired DED Scan Booster I"
   },
   "63883": {
     "groupID": 303,
-    "name": "DED Scan Booster II"
+    "name": "Expired DED Scan Booster II"
   },
   "63884": {
     "groupID": 303,
-    "name": "DED Scan Booster III"
+    "name": "Expired DED Scan Booster III"
   },
   "63885": {
     "groupID": 303,
-    "name": "DED Scan Booster IV"
+    "name": "Expired DED Scan Booster IV"
   },
   "63886": {
     "groupID": 303,
-    "name": "Smuggler Shield Booster I"
+    "name": "Expired Smuggler Shield Booster I"
   },
   "63887": {
     "groupID": 303,
-    "name": "Smuggler Shield Booster II"
+    "name": "Expired Smuggler Shield Booster II"
   },
   "63888": {
     "groupID": 303,
-    "name": "Smuggler Shield Booster III"
+    "name": "Expired Smuggler Shield Booster III"
   },
   "63889": {
     "groupID": 303,
-    "name": "Smuggler Shield Booster IV"
+    "name": "Expired Smuggler Shield Booster IV"
   },
   "63890": {
     "groupID": 303,
-    "name": "DED Armor Booster I"
+    "name": "Expired DED Armor Booster I"
   },
   "63891": {
     "groupID": 303,
-    "name": "DED Armor Booster II"
+    "name": "Expired DED Armor Booster II"
   },
   "63892": {
     "groupID": 303,
-    "name": "DED Armor Booster III"
+    "name": "Expired DED Armor Booster III"
   },
   "63893": {
     "groupID": 303,
-    "name": "DED Armor Booster IV"
+    "name": "Expired DED Armor Booster IV"
   },
   "63894": {
     "groupID": 303,
-    "name": "Smuggler Blockade Running Booster I"
+    "name": "Expired Smuggler Blockade Running Booster I"
   },
   "63895": {
     "groupID": 303,
-    "name": "Smuggler Blockade Running Booster II"
+    "name": "Expired Smuggler Blockade Running Booster II"
   },
   "63896": {
     "groupID": 303,
-    "name": "Smuggler Blockade Running Booster III"
+    "name": "Expired Smuggler Blockade Running Booster III"
   },
   "63897": {
     "groupID": 303,
-    "name": "Smuggler Blockade Running Booster IV"
+    "name": "Expired Smuggler Blockade Running Booster IV"
   },
   "63898": {
     "groupID": 303,
-    "name": "DED Apprehension Booster I"
+    "name": "Expired DED Apprehension Booster I"
   },
   "63899": {
     "groupID": 303,
-    "name": "DED Apprehension Booster II"
+    "name": "Expired DED Apprehension Booster II"
   },
   "63900": {
     "groupID": 303,
-    "name": "DED Apprehension Booster III"
+    "name": "Expired DED Apprehension Booster III"
   },
   "63901": {
     "groupID": 303,
-    "name": "DED Apprehension Booster IV"
+    "name": "Expired DED Apprehension Booster IV"
   },
   "63902": {
     "groupID": 303,
-    "name": "Smuggler Bay Loading Booster I"
+    "name": "Expired Smuggler Bay Loading Booster I"
   },
   "63903": {
     "groupID": 303,
-    "name": "Smuggler Bay Loading Booster II"
+    "name": "Expired Smuggler Bay Loading Booster II"
   },
   "63904": {
     "groupID": 303,
-    "name": "Smuggler Bay Loading Booster III"
+    "name": "Expired Smuggler Bay Loading Booster III"
   },
   "63905": {
     "groupID": 303,
-    "name": "Smuggler Bay Loading Booster IV"
+    "name": "Expired Smuggler Bay Loading Booster IV"
   },
   "63906": {
     "groupID": 303,
-    "name": "DED Turret Booster I"
+    "name": "Expired DED Turret Booster I"
   },
   "63907": {
     "groupID": 303,
-    "name": "DED Turret Booster II"
+    "name": "Expired DED Turret Booster II"
   },
   "63908": {
     "groupID": 303,
-    "name": "DED Turret Booster III"
+    "name": "Expired DED Turret Booster III"
   },
   "63909": {
     "groupID": 303,
-    "name": "DED Turret Booster IV"
+    "name": "Expired DED Turret Booster IV"
   },
   "63910": {
     "groupID": 306,
@@ -116841,10 +116965,10 @@
   },
   "63984": {
     "groupID": 1975,
-    "name": "Smugglers Research Outpost (DO NOT TRANSLATE)"
+    "name": "Caldari Research Outpost (DO NOT TRANSLATE)"
   },
   "63985": {
-    "groupID": 15,
+    "groupID": 1975,
     "name": "Smuggler Service Outpost (DO NOT TRANSLATE)"
   },
   "63986": {
@@ -116857,11 +116981,11 @@
   },
   "63988": {
     "groupID": 1975,
-    "name": "Smugglehaus (DO NOT TRANSLATE)"
+    "name": "cm1_t1_environment_asset"
   },
   "63989": {
     "groupID": 1975,
-    "name": "Smugglehaus Wreck (DO NOT TRANSLATE)"
+    "name": "cm1_t1_wreck_environment_asset"
   },
   "64002": {
     "groupID": 1568,
@@ -117011,9 +117135,213 @@
     "groupID": 1975,
     "name": "Dormitory (DO NOT TRANSLATE)"
   },
+  "64039": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 1"
+  },
+  "64040": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 2"
+  },
+  "64041": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 3"
+  },
+  "64042": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 4"
+  },
+  "64043": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 5"
+  },
+  "64044": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 1"
+  },
+  "64045": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 2"
+  },
+  "64046": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 3"
+  },
+  "64047": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 4"
+  },
+  "64048": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 5"
+  },
+  "64049": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 1"
+  },
+  "64050": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 2"
+  },
+  "64051": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 3"
+  },
+  "64052": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 4"
+  },
+  "64053": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 5"
+  },
+  "64054": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 6"
+  },
+  "64055": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 7"
+  },
+  "64056": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Medium 8"
+  },
+  "64057": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Small 1"
+  },
+  "64058": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Small 2"
+  },
+  "64059": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Small 3"
+  },
+  "64060": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Small 4"
+  },
+  "64061": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Small 5"
+  },
+  "64062": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Small 6"
+  },
+  "64063": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 1"
+  },
+  "64064": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 2"
+  },
+  "64065": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 3"
+  },
+  "64066": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 4"
+  },
+  "64067": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 5"
+  },
+  "64068": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 6"
+  },
+  "64069": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 7"
+  },
+  "64070": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 8"
+  },
+  "64071": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 9"
+  },
+  "64072": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 10"
+  },
+  "64073": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 11"
+  },
+  "64074": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 12"
+  },
+  "64075": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 13"
+  },
+  "64076": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 14"
+  },
+  "64077": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xsmall 15"
+  },
   "64078": {
     "groupID": 1975,
     "name": "uaf01_t1_environment_asset"
+  },
+  "64079": {
+    "groupID": 1975,
+    "name": "Bloodraider Outpost non interactable"
+  },
+  "64080": {
+    "groupID": 1975,
+    "name": "Bloodraider Outpost Wreckage"
+  },
+  "64081": {
+    "groupID": 1975,
+    "name": "Bloodraider Outpost Wreckage Infested"
+  },
+  "64082": {
+    "groupID": 1975,
+    "name": "Serpentis Outpost non interactable"
+  },
+  "64083": {
+    "groupID": 1975,
+    "name": "Serpentis Outpost Wreckage"
+  },
+  "64084": {
+    "groupID": 1975,
+    "name": "Serpentis Outpost Wreckage Infested"
+  },
+  "64085": {
+    "groupID": 1975,
+    "name": "Angel Outpost non interactable"
+  },
+  "64086": {
+    "groupID": 1975,
+    "name": "Angel Outpost Wreckage"
+  },
+  "64087": {
+    "groupID": 1975,
+    "name": "Angel Outpost Wreckage Infested"
+  },
+  "64088": {
+    "groupID": 1975,
+    "name": "Guristas Outpost non interactable"
+  },
+  "64089": {
+    "groupID": 1975,
+    "name": "Guristas Outpost Wreckage"
+  },
+  "64090": {
+    "groupID": 1975,
+    "name": "Guristas Outpost Wreckage Infested"
   },
   "64091": {
     "groupID": 227,
@@ -117031,8 +117359,4128 @@
     "groupID": 227,
     "name": "CD 19 Concord Supplemental Spawner (DO NOT TRANSLATE)"
   },
+  "64104": {
+    "groupID": 186,
+    "name": "Bloodraider Structure Ruins"
+  },
+  "64105": {
+    "groupID": 319,
+    "name": "Bloodraider Hideout"
+  },
+  "64106": {
+    "groupID": 1975,
+    "name": "Bloodraider Hideout non interactable"
+  },
+  "64107": {
+    "groupID": 1975,
+    "name": "Bloodraider Hideout Wreckage"
+  },
+  "64108": {
+    "groupID": 186,
+    "name": "Serpentis Structure Ruins"
+  },
+  "64109": {
+    "groupID": 319,
+    "name": "Serpentis Hideout"
+  },
+  "64110": {
+    "groupID": 1975,
+    "name": "Serpentis Hideout non interactable"
+  },
+  "64111": {
+    "groupID": 1975,
+    "name": "Serpentis Hideout Wreckage"
+  },
+  "64112": {
+    "groupID": 186,
+    "name": "Angel Structure Ruins"
+  },
+  "64113": {
+    "groupID": 319,
+    "name": "Angel Hideout"
+  },
+  "64114": {
+    "groupID": 1975,
+    "name": "Angel Hideout Wreckage"
+  },
+  "64115": {
+    "groupID": 1975,
+    "name": "Angel Hideout non interactable"
+  },
+  "64116": {
+    "groupID": 186,
+    "name": "Guristas Structure Ruins"
+  },
+  "64117": {
+    "groupID": 319,
+    "name": "Guristas Hideout"
+  },
+  "64118": {
+    "groupID": 1975,
+    "name": "Guristas Hideout Wreckage"
+  },
+  "64119": {
+    "groupID": 1975,
+    "name": "Guristas Hideout non interactable"
+  },
+  "64120": {
+    "groupID": 186,
+    "name": "Bloodraider Warehouse Wreck"
+  },
+  "64121": {
+    "groupID": 319,
+    "name": "Bloodraider Warehouse"
+  },
+  "64122": {
+    "groupID": 1975,
+    "name": "Bloodraider Warehouse non interactable"
+  },
+  "64123": {
+    "groupID": 1975,
+    "name": "Bloodraider Warehouse Wreckage"
+  },
+  "64124": {
+    "groupID": 186,
+    "name": "Serpentis Warehouse Wreck"
+  },
+  "64125": {
+    "groupID": 319,
+    "name": "Serpentis Warehouse"
+  },
+  "64126": {
+    "groupID": 1975,
+    "name": "Serpentis Warehouse Wreckage"
+  },
+  "64127": {
+    "groupID": 1975,
+    "name": "Serpentis Warehouse non interactable"
+  },
+  "64128": {
+    "groupID": 186,
+    "name": "Angel Warehouse Wreck"
+  },
+  "64129": {
+    "groupID": 319,
+    "name": "Angel Warehouse"
+  },
+  "64130": {
+    "groupID": 1975,
+    "name": "Angel Warehouse Wreckage"
+  },
+  "64131": {
+    "groupID": 1975,
+    "name": "Angel Warehouse non interactable"
+  },
+  "64132": {
+    "groupID": 186,
+    "name": "Guristas Warehouse Wreck"
+  },
+  "64133": {
+    "groupID": 319,
+    "name": "Guristas Warehouse"
+  },
+  "64134": {
+    "groupID": 1975,
+    "name": "Guristas Warehouse Wreckage"
+  },
+  "64135": {
+    "groupID": 1975,
+    "name": "Guristas Warehouse non interactable"
+  },
+  "64136": {
+    "groupID": 1975,
+    "name": "Bloodraider Den non interactable"
+  },
+  "64137": {
+    "groupID": 1975,
+    "name": "Serpentis Den non interactable"
+  },
+  "64138": {
+    "groupID": 1975,
+    "name": "Angel Den non interactable"
+  },
+  "64139": {
+    "groupID": 1975,
+    "name": "Guristas Den non interactable"
+  },
+  "64140": {
+    "groupID": 186,
+    "name": "Bloodraider Tower Wreck"
+  },
+  "64141": {
+    "groupID": 319,
+    "name": "Bloodraider Tower"
+  },
+  "64142": {
+    "groupID": 1975,
+    "name": "Bloodraider Tower Wreckage"
+  },
+  "64143": {
+    "groupID": 1975,
+    "name": "Bloodraider Tower non interactable"
+  },
+  "64144": {
+    "groupID": 186,
+    "name": "Serpentis Tower Wreck"
+  },
+  "64145": {
+    "groupID": 319,
+    "name": "Serpentis Tower"
+  },
+  "64146": {
+    "groupID": 1975,
+    "name": "Serpentis Tower Wreckage"
+  },
+  "64147": {
+    "groupID": 1975,
+    "name": "Serpentis Tower non interactable"
+  },
+  "64148": {
+    "groupID": 186,
+    "name": "Angel Tower Wreck"
+  },
+  "64149": {
+    "groupID": 319,
+    "name": "Angel Tower"
+  },
+  "64150": {
+    "groupID": 1975,
+    "name": "Angel Tower Wreckage"
+  },
+  "64151": {
+    "groupID": 1975,
+    "name": "Angel Tower non interactable"
+  },
+  "64152": {
+    "groupID": 186,
+    "name": "Guristas Tower Wreck"
+  },
+  "64153": {
+    "groupID": 319,
+    "name": "Guristas Tower"
+  },
+  "64154": {
+    "groupID": 1975,
+    "name": "Guristas Tower Wreckage"
+  },
+  "64155": {
+    "groupID": 1975,
+    "name": "Guristas Tower non interactable"
+  },
+  "64156": {
+    "groupID": 1975,
+    "name": "La Fleur Inn tower"
+  },
+  "64157": {
+    "groupID": 1975,
+    "name": "Amarr Navy Force Auxiliary Wreckage"
+  },
+  "64158": {
+    "groupID": 1975,
+    "name": "Apocalypse Navy Issue Wreckage"
+  },
+  "64159": {
+    "groupID": 1975,
+    "name": "Armageddon Navy Issue Wreckage"
+  },
+  "64160": {
+    "groupID": 1975,
+    "name": "Gallente Navy Force Auxiliary Wreckage"
+  },
+  "64161": {
+    "groupID": 1975,
+    "name": "Dominix Navy Issue Wreckage"
+  },
+  "64162": {
+    "groupID": 1975,
+    "name": "Megathron Navy Issue Wreckage"
+  },
+  "64163": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Force Auxiliary Wreckage"
+  },
+  "64164": {
+    "groupID": 1975,
+    "name": "Typhoon Fleet Issue Wreckage"
+  },
+  "64165": {
+    "groupID": 1975,
+    "name": "Tempest Fleet Issue Wreckage"
+  },
+  "64166": {
+    "groupID": 1975,
+    "name": "Caldari Navy Force Auxiliary Wreckage"
+  },
+  "64167": {
+    "groupID": 1975,
+    "name": "Raven Navy Issue Wreckage"
+  },
+  "64168": {
+    "groupID": 1975,
+    "name": "Scorpion Navy Issue Wreckage"
+  },
+  "64169": {
+    "groupID": 1975,
+    "name": "Gallente Freighter Wreckage"
+  },
+  "64170": {
+    "groupID": 1975,
+    "name": "Caldari Freighter Wreckage"
+  },
+  "64171": {
+    "groupID": 1975,
+    "name": "Rorqual Wreckage"
+  },
+  "64172": {
+    "groupID": 1975,
+    "name": "Rorqual Wreckage Infested"
+  },
+  "64173": {
+    "groupID": 1975,
+    "name": "Bowhead Wreckage"
+  },
+  "64174": {
+    "groupID": 1975,
+    "name": "Bowhead Wreckage Infested"
+  },
+  "64175": {
+    "groupID": 1975,
+    "name": "Orca Wreckage"
+  },
+  "64176": {
+    "groupID": 1975,
+    "name": "Orca Wreckage Infested"
+  },
+  "64177": {
+    "groupID": 1975,
+    "name": "Asteroid Mining Post"
+  },
+  "64178": {
+    "groupID": 1975,
+    "name": "Concord Prison Barracks"
+  },
+  "64179": {
+    "groupID": 1975,
+    "name": "Concord Prison Perimeter"
+  },
+  "64180": {
+    "groupID": 1975,
+    "name": "Grand Hotel Suites"
+  },
+  "64181": {
+    "groupID": 1975,
+    "name": "Grand Hotel Casino"
+  },
+  "64182": {
+    "groupID": 1975,
+    "name": "Gas Refinery Station"
+  },
+  "64183": {
+    "groupID": 186,
+    "name": "Hotel Wreck"
+  },
+  "64184": {
+    "groupID": 319,
+    "name": "Hotel"
+  },
+  "64185": {
+    "groupID": 1975,
+    "name": "Smuggler Jumpgate"
+  },
+  "64186": {
+    "groupID": 1975,
+    "name": "Blood Raider Cathedral"
+  },
+  "64187": {
+    "groupID": 1975,
+    "name": "Blood Raider Fortress"
+  },
+  "64188": {
+    "groupID": 227,
+    "name": "Secondary Spawner"
+  },
   "64191": {
     "groupID": 1971,
     "name": "Proving Capsuleer Day 2022 Bonus (Do not translate)"
+  },
+  "64192": {
+    "groupID": 1975,
+    "name": "La Fleur Inn Radiation Cloud"
+  },
+  "64195": {
+    "groupID": 1088,
+    "name": "Women's 'Hyper' Racing Jacket"
+  },
+  "64196": {
+    "groupID": 1088,
+    "name": "Men's 'Hyper' Racing Jacket"
+  },
+  "64201": {
+    "groupID": 1092,
+    "name": "Men's Minmatar 'Rebellion' Cap"
+  },
+  "64202": {
+    "groupID": 1092,
+    "name": "Women's Minmatar 'Rebellion' Cap"
+  },
+  "64203": {
+    "groupID": 1089,
+    "name": "Women's Minmatar 'Rebellion' T-Shirt"
+  },
+  "64204": {
+    "groupID": 1089,
+    "name": "Men's Minmatar 'Rebellion' T-Shirt"
+  },
+  "64268": {
+    "groupID": 1089,
+    "name": "Men's Minmatar 'Freedom Fighter' T-Shirt"
+  },
+  "64269": {
+    "groupID": 1089,
+    "name": "Women's Minmatar 'Freedom Fighter' T-Shirt"
+  },
+  "64270": {
+    "groupID": 1092,
+    "name": "Men's Minmatar 'Freedom Fighter' Cap"
+  },
+  "64271": {
+    "groupID": 1092,
+    "name": "Women's Minmatar 'Freedom Fighter' Cap"
+  },
+  "64346": {
+    "groupID": 1880,
+    "name": "♦ Officer Chemosh"
+  },
+  "64353": {
+    "groupID": 1975,
+    "name": "Secure Generic Data Storage"
+  },
+  "64354": {
+    "groupID": 1975,
+    "name": "Secure Generic Data Storage Wreckage"
+  },
+  "64355": {
+    "groupID": 1975,
+    "name": "Secure Generic Data Vault"
+  },
+  "64356": {
+    "groupID": 1975,
+    "name": "Secure Generic Data Vault Wreckage"
+  },
+  "64357": {
+    "groupID": 1975,
+    "name": "Particle Cloud 01b"
+  },
+  "64358": {
+    "groupID": 1975,
+    "name": "Particle Cloud 01c"
+  },
+  "64359": {
+    "groupID": 1975,
+    "name": "Particle Cloud 01d"
+  },
+  "64360": {
+    "groupID": 1975,
+    "name": "Particle Cloud 01e"
+  },
+  "64361": {
+    "groupID": 1975,
+    "name": "Particle Cloud 01f"
+  },
+  "64362": {
+    "groupID": 1975,
+    "name": "Static Cloud 01a"
+  },
+  "64363": {
+    "groupID": 1975,
+    "name": "Static Cloud 01b"
+  },
+  "64364": {
+    "groupID": 1975,
+    "name": "Static Cloud 01c"
+  },
+  "64365": {
+    "groupID": 1975,
+    "name": "Static Cloud 01d"
+  },
+  "64366": {
+    "groupID": 1975,
+    "name": "Static Cloud 01e"
+  },
+  "64367": {
+    "groupID": 1975,
+    "name": "Particle Cloud 100k Flat 01a"
+  },
+  "64368": {
+    "groupID": 1975,
+    "name": "Particle Cloud 100k Flat 01b"
+  },
+  "64369": {
+    "groupID": 1975,
+    "name": "Particle Cloud 100k Sphere 01a"
+  },
+  "64370": {
+    "groupID": 1975,
+    "name": "Particle Cloud 100k Sphere 01b"
+  },
+  "64371": {
+    "groupID": 1975,
+    "name": "Particle Cloud Donut 01a"
+  },
+  "64372": {
+    "groupID": 1975,
+    "name": "Particle Cloud Donut 01b"
+  },
+  "64373": {
+    "groupID": 303,
+    "name": "Grand Prix Booster I"
+  },
+  "64374": {
+    "groupID": 303,
+    "name": "Grand Prix Booster II"
+  },
+  "64375": {
+    "groupID": 303,
+    "name": "Grand Prix Booster III"
+  },
+  "64376": {
+    "groupID": 303,
+    "name": "Grand Prix Booster IV"
+  },
+  "64377": {
+    "groupID": 1088,
+    "name": "Women's Amarr Devotional Robe"
+  },
+  "64378": {
+    "groupID": 1088,
+    "name": "Women's Amarr Courtly Robe"
+  },
+  "64379": {
+    "groupID": 1088,
+    "name": "Men's Amarr Devotional Robe"
+  },
+  "64380": {
+    "groupID": 1088,
+    "name": "Men's Amarr Courtly Robe"
+  },
+  "64404": {
+    "groupID": 697,
+    "name": "CONCORD Fleet Commander"
+  },
+  "64416": {
+    "groupID": 1975,
+    "name": "Colony Battleship Wreckage"
+  },
+  "64417": {
+    "groupID": 1975,
+    "name": "Angel Barrier ZX"
+  },
+  "64427": {
+    "groupID": 1975,
+    "name": "Particle Cloud Thunder Large 01c"
+  },
+  "64428": {
+    "groupID": 1975,
+    "name": "Swirling Cloud 01a"
+  },
+  "64429": {
+    "groupID": 1975,
+    "name": "Swirling Cloud 01b"
+  },
+  "64430": {
+    "groupID": 1975,
+    "name": "Shattered Arkonor Asteroid"
+  },
+  "64431": {
+    "groupID": 1975,
+    "name": "Shattered Gneiss Asteroid"
+  },
+  "64432": {
+    "groupID": 1975,
+    "name": "Shattered Kernite Asteroid"
+  },
+  "64433": {
+    "groupID": 1975,
+    "name": "Cloven Arkonor Asteroid"
+  },
+  "64434": {
+    "groupID": 1975,
+    "name": "Cloven Kernite Asteroid"
+  },
+  "64435": {
+    "groupID": 1975,
+    "name": "Barren Asteroid"
+  },
+  "64436": {
+    "groupID": 1975,
+    "name": "Non-interactable Vexor (do not translate)"
+  },
+  "64437": {
+    "groupID": 1975,
+    "name": "Non-interactable Atron (do not translate)"
+  },
+  "64438": {
+    "groupID": 1975,
+    "name": "Non-interactable Incursus (do not translate)"
+  },
+  "64439": {
+    "groupID": 1975,
+    "name": "Non-interactable Maulus (do not translate)"
+  },
+  "64440": {
+    "groupID": 1975,
+    "name": "Non-interactable Navitas (do not translate)"
+  },
+  "64441": {
+    "groupID": 1975,
+    "name": "Non-interactable Tristan (do not translate)"
+  },
+  "64442": {
+    "groupID": 1975,
+    "name": "Non-interactable Catalyst (do not translate)"
+  },
+  "64443": {
+    "groupID": 1975,
+    "name": "Non-interactable Celestis (do not translate)"
+  },
+  "64444": {
+    "groupID": 1975,
+    "name": "Non-interactable Exequror (do not translate)"
+  },
+  "64445": {
+    "groupID": 1975,
+    "name": "Non-interactable Thorax (do not translate)"
+  },
+  "64446": {
+    "groupID": 1975,
+    "name": "Non-interactable Brutix (do not translate)"
+  },
+  "64447": {
+    "groupID": 1975,
+    "name": "Non-interactable Myrmidon (do not translate)"
+  },
+  "64448": {
+    "groupID": 1975,
+    "name": "Non-interactable Dominix (do not translate)"
+  },
+  "64449": {
+    "groupID": 1975,
+    "name": "Non-interactable Hyperion (do not translate)"
+  },
+  "64450": {
+    "groupID": 1975,
+    "name": "Non-interactable Megathron (do not translate)"
+  },
+  "64451": {
+    "groupID": 1975,
+    "name": "Non-interactable Nyx (do not translate)"
+  },
+  "64452": {
+    "groupID": 1975,
+    "name": "Non-interactable Thanatos (do not translate)"
+  },
+  "64453": {
+    "groupID": 1975,
+    "name": "Non-interactable Moros (do not translate)"
+  },
+  "64455": {
+    "groupID": 1975,
+    "name": "Angel Lookout"
+  },
+  "64456": {
+    "groupID": 1975,
+    "name": "Angel Junction"
+  },
+  "64457": {
+    "groupID": 1975,
+    "name": "Angel Barrier X"
+  },
+  "64458": {
+    "groupID": 1975,
+    "name": "Angel Elevator"
+  },
+  "64459": {
+    "groupID": 1975,
+    "name": "Angel Missile Battery"
+  },
+  "64460": {
+    "groupID": 1975,
+    "name": "Guristas Lookout"
+  },
+  "64461": {
+    "groupID": 1975,
+    "name": "Guristas Junction"
+  },
+  "64462": {
+    "groupID": 1975,
+    "name": "Guristas Barrier X"
+  },
+  "64463": {
+    "groupID": 1975,
+    "name": "Guristas Elevator"
+  },
+  "64464": {
+    "groupID": 1975,
+    "name": "Guristas Missile Battery"
+  },
+  "64465": {
+    "groupID": 1975,
+    "name": "Bloodraider Lookout"
+  },
+  "64466": {
+    "groupID": 1975,
+    "name": "Bloodraider Junction"
+  },
+  "64467": {
+    "groupID": 1975,
+    "name": "Bloodraider Barrier X"
+  },
+  "64468": {
+    "groupID": 1975,
+    "name": "Bloodraider Elevator"
+  },
+  "64469": {
+    "groupID": 1975,
+    "name": "Bloodraider Missile Battery"
+  },
+  "64470": {
+    "groupID": 1975,
+    "name": "Serpentis Lookout"
+  },
+  "64471": {
+    "groupID": 1975,
+    "name": "Serpentis Junction"
+  },
+  "64472": {
+    "groupID": 1975,
+    "name": "Serpentis Barrier X"
+  },
+  "64473": {
+    "groupID": 1975,
+    "name": "Serpentis Elevator"
+  },
+  "64474": {
+    "groupID": 1975,
+    "name": "Serpentis Missile Battery"
+  },
+  "64475": {
+    "groupID": 1975,
+    "name": "Blue Holo Corner 01a"
+  },
+  "64476": {
+    "groupID": 1975,
+    "name": "Blue Holo Corner 02a"
+  },
+  "64477": {
+    "groupID": 1975,
+    "name": "Blue Holo Corner Curved 01a"
+  },
+  "64478": {
+    "groupID": 1975,
+    "name": "Blue Holo Detailed 01a"
+  },
+  "64479": {
+    "groupID": 1975,
+    "name": "Teal Holo Detailed 01a"
+  },
+  "64480": {
+    "groupID": 1975,
+    "name": "Yellow Holo Corner Curved 01a"
+  },
+  "64481": {
+    "groupID": 1975,
+    "name": "Yellow Holo Detailed 01a"
+  },
+  "64482": {
+    "groupID": 1975,
+    "name": "Yellow Holo Detailed 02a"
+  },
+  "64483": {
+    "groupID": 1975,
+    "name": "Yellow Holo Straight 01a"
+  },
+  "64484": {
+    "groupID": 1975,
+    "name": "Yellow Holo Straight 02a"
+  },
+  "64485": {
+    "groupID": 1975,
+    "name": "Yellow Holo Straight Long 02b"
+  },
+  "64486": {
+    "groupID": 1975,
+    "name": "Blue Holo Straight 02a"
+  },
+  "64487": {
+    "groupID": 1975,
+    "name": "Blue Holo Straight Long 02b"
+  },
+  "64488": {
+    "groupID": 1975,
+    "name": "Orange Holo Corner 01a"
+  },
+  "64489": {
+    "groupID": 1975,
+    "name": "Orange Holo Corner 02a"
+  },
+  "64490": {
+    "groupID": 1975,
+    "name": "Orange Holo Corner Curved 01a"
+  },
+  "64491": {
+    "groupID": 1975,
+    "name": "Orange Holo Detailed 01a"
+  },
+  "64492": {
+    "groupID": 1975,
+    "name": "Orange Holo Detailed 02a"
+  },
+  "64493": {
+    "groupID": 1975,
+    "name": "Orange Holo Straight 01a"
+  },
+  "64494": {
+    "groupID": 1975,
+    "name": "Orange Holo Straight 02a"
+  },
+  "64495": {
+    "groupID": 1975,
+    "name": "Orange Holo Straight Long 02b"
+  },
+  "64496": {
+    "groupID": 1975,
+    "name": "Red Holo Corner 02a"
+  },
+  "64497": {
+    "groupID": 1975,
+    "name": "Red Holo Corner Curved 01a"
+  },
+  "64498": {
+    "groupID": 1975,
+    "name": "Red Holo Detailed 01a"
+  },
+  "64499": {
+    "groupID": 1975,
+    "name": "Red Holo Detailed 02a"
+  },
+  "64500": {
+    "groupID": 1975,
+    "name": "Red Holo Straight 01a"
+  },
+  "64501": {
+    "groupID": 1975,
+    "name": "Red Holo Straight 02a"
+  },
+  "64502": {
+    "groupID": 1975,
+    "name": "Red Holo Straight Long 02b"
+  },
+  "64503": {
+    "groupID": 1975,
+    "name": "Teal Holo Corner 01a"
+  },
+  "64504": {
+    "groupID": 1975,
+    "name": "Teal Holo Corner 02a"
+  },
+  "64505": {
+    "groupID": 1975,
+    "name": "Teal Holo Corner Curved 01a"
+  },
+  "64506": {
+    "groupID": 1975,
+    "name": "Teal Holo Detailed 02a"
+  },
+  "64507": {
+    "groupID": 1975,
+    "name": "Teal Holo Straight 01a"
+  },
+  "64508": {
+    "groupID": 1975,
+    "name": "Teal Holo Straight 02a"
+  },
+  "64509": {
+    "groupID": 1975,
+    "name": "Teal Holo Straight Long 02b"
+  },
+  "64510": {
+    "groupID": 1975,
+    "name": "Yellow Holo Corner 01a"
+  },
+  "64511": {
+    "groupID": 1975,
+    "name": "Yellow Holo Corner 02a"
+  },
+  "64512": {
+    "groupID": 1975,
+    "name": "Blue Holo Detailed 02a"
+  },
+  "64513": {
+    "groupID": 1975,
+    "name": "Blue Holo Straight 01a"
+  },
+  "64514": {
+    "groupID": 1975,
+    "name": "Red Holo Corner 01a"
+  },
+  "64515": {
+    "groupID": 319,
+    "name": "Bloodraider Repair Hub"
+  },
+  "64516": {
+    "groupID": 319,
+    "name": "Serpentis Repair Hub"
+  },
+  "64517": {
+    "groupID": 319,
+    "name": "Angel Repair Hub"
+  },
+  "64518": {
+    "groupID": 319,
+    "name": "Guristas Repair Hub"
+  },
+  "64519": {
+    "groupID": 1975,
+    "name": "Dungeon 2024 traffic FX"
+  },
+  "64520": {
+    "groupID": 1975,
+    "name": "Smuggler Construction Dock 01"
+  },
+  "64521": {
+    "groupID": 1975,
+    "name": "Construction Dock 01 Gas Leak"
+  },
+  "64522": {
+    "groupID": 319,
+    "name": "Concord Prison Facility"
+  },
+  "64526": {
+    "groupID": 1975,
+    "name": "Non-interactable Billboard (do not translate)"
+  },
+  "64534": {
+    "groupID": 1975,
+    "name": "Non-interactable Ninazu (do not translate)"
+  },
+  "64535": {
+    "groupID": 1975,
+    "name": "Non-interactable Talos (do not translate)"
+  },
+  "64536": {
+    "groupID": 310,
+    "name": "CSM Election Voter Information Station"
+  },
+  "64543": {
+    "groupID": 1975,
+    "name": "Non-interactable Large Billboard (do not translate)"
+  },
+  "64545": {
+    "groupID": 226,
+    "name": "Battle of Ratillose Monument"
+  },
+  "64546": {
+    "groupID": 1975,
+    "name": "Gallente Commercial Station Ruins"
+  },
+  "64547": {
+    "groupID": 1975,
+    "name": "Non-Interactable Megathron Wreck (Do Not Translate)"
+  },
+  "64548": {
+    "groupID": 1975,
+    "name": "Non-Interactable Moros Wreck (Do Not Translate)"
+  },
+  "64549": {
+    "groupID": 1975,
+    "name": "Gallente Carrier Wreckage"
+  },
+  "64550": {
+    "groupID": 1975,
+    "name": "Spaceshuttle Shuttle Wreckage"
+  },
+  "64551": {
+    "groupID": 1975,
+    "name": "Wrecked Amarr Apocalypse Battleship"
+  },
+  "64558": {
+    "groupID": 4090,
+    "name": "Developer Subcapital Unlock ES"
+  },
+  "64567": {
+    "groupID": 310,
+    "name": "Battle of Ratillose Monument"
+  },
+  "64601": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 01a"
+  },
+  "64602": {
+    "groupID": 1975,
+    "name": "ENV_Bloodraider_S1"
+  },
+  "64603": {
+    "groupID": 1975,
+    "name": "ENV_Bloodraider_S2"
+  },
+  "64604": {
+    "groupID": 1975,
+    "name": "ENV_Bloodraider_S3"
+  },
+  "64605": {
+    "groupID": 1975,
+    "name": "ENV_Serpentis_S1"
+  },
+  "64606": {
+    "groupID": 1975,
+    "name": "ENV_Serpentis_S2"
+  },
+  "64607": {
+    "groupID": 1975,
+    "name": "ENV_Serpentis_S3"
+  },
+  "64608": {
+    "groupID": 1975,
+    "name": "ENV_Guristas_S1"
+  },
+  "64609": {
+    "groupID": 1975,
+    "name": "ENV_Guristas_S2"
+  },
+  "64610": {
+    "groupID": 1975,
+    "name": "ENV_Guristas_S3"
+  },
+  "64611": {
+    "groupID": 1975,
+    "name": "ENV_Angel_S1"
+  },
+  "64612": {
+    "groupID": 1975,
+    "name": "ENV_Angel_S2"
+  },
+  "64613": {
+    "groupID": 1975,
+    "name": "ENV_Angel_S3"
+  },
+  "64614": {
+    "groupID": 1975,
+    "name": "ENV_Smuggler_S1_01a"
+  },
+  "64615": {
+    "groupID": 1975,
+    "name": "ENV_Smuggler_S2_01a"
+  },
+  "64616": {
+    "groupID": 1975,
+    "name": "ENV_Casino_01a"
+  },
+  "64617": {
+    "groupID": 1975,
+    "name": "ENV_GenericCombat_01a"
+  },
+  "64618": {
+    "groupID": 1975,
+    "name": "ENV_Amarr_01a"
+  },
+  "64619": {
+    "groupID": 1975,
+    "name": "ENV_Caldari_01a"
+  },
+  "64620": {
+    "groupID": 1975,
+    "name": "ENV_Gallente_01a"
+  },
+  "64621": {
+    "groupID": 1975,
+    "name": "ENV_Minmatar_01a"
+  },
+  "64622": {
+    "groupID": 1975,
+    "name": "ENV_DarkExploration_01a"
+  },
+  "64623": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64624": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64625": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64626": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64627": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64628": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64629": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64630": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64631": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64632": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64633": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64634": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64635": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64636": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64637": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64638": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64639": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64640": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64641": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64642": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64643": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64644": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64645": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64646": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64647": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64648": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64649": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64650": {
+    "groupID": 1975,
+    "name": "Placeholder DO NOT USE"
+  },
+  "64651": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 02a"
+  },
+  "64652": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 03a"
+  },
+  "64653": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 04a"
+  },
+  "64654": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 1x4 01a"
+  },
+  "64655": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 1x4 01b"
+  },
+  "64656": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 1x4 01b"
+  },
+  "64657": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 1x8 01a"
+  },
+  "64658": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 1x8 01b"
+  },
+  "64659": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 2x8 01a"
+  },
+  "64660": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 2x8 01b"
+  },
+  "64661": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 04a"
+  },
+  "64662": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 1x4 01a"
+  },
+  "64663": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 1x4 01b"
+  },
+  "64664": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 1x8 01a"
+  },
+  "64665": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 1x8 01b"
+  },
+  "64666": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 2x8 01a"
+  },
+  "64667": {
+    "groupID": 1975,
+    "name": "Blue Holo Prefab 2x8 01b"
+  },
+  "64668": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 01a"
+  },
+  "64669": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 02a"
+  },
+  "64670": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 03a"
+  },
+  "64671": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 1x4 01a"
+  },
+  "64672": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 1x4 01b"
+  },
+  "64673": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 1x8 01a"
+  },
+  "64674": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 1x8 01b"
+  },
+  "64675": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 2x8 01a"
+  },
+  "64676": {
+    "groupID": 1975,
+    "name": "Orange Holo Prefab 2x8 01b"
+  },
+  "64677": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 01a"
+  },
+  "64678": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 02a"
+  },
+  "64679": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 03a"
+  },
+  "64680": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 04a"
+  },
+  "64681": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 1x4 01b"
+  },
+  "64682": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 1x8 01a"
+  },
+  "64683": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 1x8 01b"
+  },
+  "64684": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 2x8 01a"
+  },
+  "64685": {
+    "groupID": 1975,
+    "name": "Red Holo Prefab 2x8 01b"
+  },
+  "64686": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 01a"
+  },
+  "64687": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 02a"
+  },
+  "64688": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 03a"
+  },
+  "64689": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 04a"
+  },
+  "64690": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 1x4 01a"
+  },
+  "64691": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 1x8 01a"
+  },
+  "64692": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 1x8 01b"
+  },
+  "64693": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 2x8 01a"
+  },
+  "64694": {
+    "groupID": 1975,
+    "name": "Teal Holo Prefab 2x8 01b"
+  },
+  "64695": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 01a"
+  },
+  "64696": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 02a"
+  },
+  "64697": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 03a"
+  },
+  "64698": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 04a"
+  },
+  "64699": {
+    "groupID": 1975,
+    "name": "Yellow Holo Prefab 1x4 01a"
+  },
+  "64700": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 01 Dungeon 5000m"
+  },
+  "64701": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 02 Dungeon 8000m"
+  },
+  "64702": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 02 Dungeon 10000m"
+  },
+  "64703": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 02 Dungeon 12000m"
+  },
+  "64704": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 01 Dungeon 8000m"
+  },
+  "64705": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 01 Dungeon 10000m"
+  },
+  "64706": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 04 Dungeon 5000m"
+  },
+  "64707": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 04 Dungeon 8000m"
+  },
+  "64708": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 04 Dungeon 10000m"
+  },
+  "64709": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 04 Dungeon 12000m"
+  },
+  "64710": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 05 Dungeon 1000m"
+  },
+  "64711": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 05 Dungeon 3000m"
+  },
+  "64712": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 05 Dungeon 5000m"
+  },
+  "64713": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 05 Dungeon 7000m"
+  },
+  "64714": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 01 Dungeon 12000m"
+  },
+  "64715": {
+    "groupID": 1975,
+    "name": "Debris Explode and Go 02 Dungeon 5000m"
+  },
+  "64716": {
+    "groupID": 1975,
+    "name": "ParticleCloud 30km 01a"
+  },
+  "64717": {
+    "groupID": 1975,
+    "name": "ParticleCloud 30km 03a"
+  },
+  "64718": {
+    "groupID": 1975,
+    "name": "ParticleCloud 30km 04a"
+  },
+  "64719": {
+    "groupID": 1975,
+    "name": "ParticleCloud 30km 04b"
+  },
+  "64720": {
+    "groupID": 1975,
+    "name": "ParticleCloud 30km 01b"
+  },
+  "64721": {
+    "groupID": 1975,
+    "name": "ParticleCloud 30km 02a"
+  },
+  "64724": {
+    "groupID": 303,
+    "name": "Basic Glamourex Booster"
+  },
+  "64725": {
+    "groupID": 226,
+    "name": "Federation Grand Prix Duvolle HQ Waypoint"
+  },
+  "64734": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Intaki Prime"
+  },
+  "64735": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Verge Vendor Colonies"
+  },
+  "64736": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Chandeille"
+  },
+  "64737": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Republic University"
+  },
+  "64738": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Aidonis Elabon and CONCORD"
+  },
+  "64739": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Treaty of Tierijev"
+  },
+  "64740": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Federation Senate"
+  },
+  "64741": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Federation Supreme Court"
+  },
+  "64742": {
+    "groupID": 226,
+    "name": "Federation Grand Prix History Route: Federation President"
+  },
+  "64743": {
+    "groupID": 1975,
+    "name": "Walkway Debris"
+  },
+  "64744": {
+    "groupID": 1975,
+    "name": "Unidentified Wreckage"
+  },
+  "64745": {
+    "groupID": 1975,
+    "name": "Abandoned Drill"
+  },
+  "64746": {
+    "groupID": 1194,
+    "name": "Federation Grand Prix Jacket Crate"
+  },
+  "64747": {
+    "groupID": 226,
+    "name": "Champions of the Federation Grand Prix YC124"
+  },
+  "64748": {
+    "groupID": 1975,
+    "name": "refs1_t1b_environment_asset"
+  },
+  "64802": {
+    "groupID": 226,
+    "name": "Amarr Navy Research Station"
+  },
+  "64820": {
+    "groupID": 1975,
+    "name": "Celestial Asteroid Coral 2"
+  },
+  "64821": {
+    "groupID": 1975,
+    "name": "Rock Formation 1"
+  },
+  "64822": {
+    "groupID": 1975,
+    "name": "Rock Formation 3"
+  },
+  "64823": {
+    "groupID": 1975,
+    "name": "Rock Formation 5"
+  },
+  "64824": {
+    "groupID": 1975,
+    "name": "XL Structure Billboard"
+  },
+  "64825": {
+    "groupID": 1975,
+    "name": "District Satellite"
+  },
+  "64849": {
+    "groupID": 1975,
+    "name": "Derelict Ship"
+  },
+  "64850": {
+    "groupID": 1975,
+    "name": "Ruined Neon Sign"
+  },
+  "64867": {
+    "groupID": 1975,
+    "name": "Small Lightning 01a"
+  },
+  "64868": {
+    "groupID": 1975,
+    "name": "Fortified Minmatar Lookout ( DO NOT TRANSLATE )"
+  },
+  "64869": {
+    "groupID": 1975,
+    "name": "Indestructible Minmatar Starbase (DO NOT TRANSLATE )"
+  },
+  "64870": {
+    "groupID": 1975,
+    "name": "Fortified Minmatar Barricade ( DO NOT TRANSLATE)"
+  },
+  "64876": {
+    "groupID": 306,
+    "name": "Angel Data Storage Device"
+  },
+  "64877": {
+    "groupID": 306,
+    "name": "Blood Raider Data Storage Device"
+  },
+  "64878": {
+    "groupID": 306,
+    "name": "Guristas Data Storage Device"
+  },
+  "64879": {
+    "groupID": 306,
+    "name": "Serpentis Data Storage Device"
+  },
+  "64880": {
+    "groupID": 306,
+    "name": "Data Storage Device"
+  },
+  "64881": {
+    "groupID": 1975,
+    "name": "Liberation Games Firework Sentry ( DO NOT TRANSLATE)"
+  },
+  "64882": {
+    "groupID": 1975,
+    "name": "Fortified Minmatar Barrier ( DO NOT TRANSLATE)"
+  },
+  "64883": {
+    "groupID": 1975,
+    "name": "Defunct Minmatar Encounter Surveillance System (DO NOT TRANSLATE)"
+  },
+  "64884": {
+    "groupID": 1975,
+    "name": "Minmatar Tactical Supply Station (DO NOT TRANSLATE)"
+  },
+  "64885": {
+    "groupID": 1975,
+    "name": "Starbase Major Assembly Array (DO NOT TRANSLATE)"
+  },
+  "64886": {
+    "groupID": 1975,
+    "name": "Fortified Minmatar Battery (DO NOT TRANSLATE)"
+  },
+  "64887": {
+    "groupID": 226,
+    "name": "Minmatar Border Security Outpost"
+  },
+  "64888": {
+    "groupID": 1975,
+    "name": "Fortified Minmatar Grandstand (DO NOT TRANSLATE)"
+  },
+  "64889": {
+    "groupID": 1975,
+    "name": "Minmatar Sentry Gun (DO NOT TRANSLATE)"
+  },
+  "64890": {
+    "groupID": 1882,
+    "name": "ENV_Icefield"
+  },
+  "64892": {
+    "groupID": 310,
+    "name": "Minmatar Border Security Outpost"
+  },
+  "64895": {
+    "groupID": 1971,
+    "name": "Proving Overload Bonus with Turret Falloff Bonus and Optimal Penalty (Do not translate)"
+  },
+  "64896": {
+    "groupID": 1971,
+    "name": "Large Proving Tachyon Cloud"
+  },
+  "64897": {
+    "groupID": 1975,
+    "name": "gs6_wreck_environment_asset"
+  },
+  "64898": {
+    "groupID": 1975,
+    "name": "gs5_wreck_environment_asset"
+  },
+  "64901": {
+    "groupID": 303,
+    "name": "Basic Cerebral Accelerator"
+  },
+  "64903": {
+    "groupID": 1975,
+    "name": "Non-Interactable Raven Wreck (Do Not Translate)"
+  },
+  "64904": {
+    "groupID": 1975,
+    "name": "Non-Interactable Scorpion Wreck (Do Not Translate)"
+  },
+  "64905": {
+    "groupID": 1975,
+    "name": "Non-Interactable Phoenix Wreck (Do Not Translate)"
+  },
+  "64906": {
+    "groupID": 1975,
+    "name": "Non-Interactable Chimera Wreck (Do Not Translate)"
+  },
+  "64949": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Accuracy Booster II"
+  },
+  "64950": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Accuracy Booster III"
+  },
+  "64951": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Accuracy Booster IV"
+  },
+  "64952": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Accuracy Booster I"
+  },
+  "64953": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Damage Booster I"
+  },
+  "64954": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Damage Booster II"
+  },
+  "64955": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Damage Booster III"
+  },
+  "64956": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Damage Booster IV"
+  },
+  "64957": {
+    "groupID": 303,
+    "name": "Expired Liberation Games EWar Booster II"
+  },
+  "64958": {
+    "groupID": 303,
+    "name": "Expired Liberation Games EWar Booster III"
+  },
+  "64959": {
+    "groupID": 303,
+    "name": "Expired Liberation Games EWar Booster IV"
+  },
+  "64960": {
+    "groupID": 303,
+    "name": "Expired Liberation Games EWar Booster I"
+  },
+  "64961": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Range Booster I"
+  },
+  "64962": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Range Booster II"
+  },
+  "64963": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Range Booster III"
+  },
+  "64964": {
+    "groupID": 303,
+    "name": "Expired Liberation Games Range Booster IV"
+  },
+  "64965": {
+    "groupID": 1975,
+    "name": "Minmatar Vigil  Frigate"
+  },
+  "64966": {
+    "groupID": 1975,
+    "name": "Minmatar Slasher Frigate"
+  },
+  "64967": {
+    "groupID": 1975,
+    "name": "Minmatar Probe Frigate"
+  },
+  "64968": {
+    "groupID": 1975,
+    "name": "Minmatar Rifter Frigate"
+  },
+  "64969": {
+    "groupID": 1975,
+    "name": "Minmatar Breacher Frigate"
+  },
+  "64970": {
+    "groupID": 1975,
+    "name": "Minmatar Burst Frigate"
+  },
+  "64971": {
+    "groupID": 1975,
+    "name": "Minmatar Thrasher Destroyer"
+  },
+  "64972": {
+    "groupID": 226,
+    "name": "Minmatar Stabber Cruiser ( copy )"
+  },
+  "64973": {
+    "groupID": 1975,
+    "name": "Minmatar Stabber Cruiser"
+  },
+  "64974": {
+    "groupID": 1975,
+    "name": "Minmatar Rupture Cruiser"
+  },
+  "64975": {
+    "groupID": 1975,
+    "name": "Minmatar Bellicose Cruiser"
+  },
+  "64976": {
+    "groupID": 1975,
+    "name": "Minmatar Scythe Cruiser"
+  },
+  "64977": {
+    "groupID": 1975,
+    "name": "Minmatar Cyclone Battlecruiser"
+  },
+  "64978": {
+    "groupID": 1975,
+    "name": "Minmatar Hurricane Battlecruiser"
+  },
+  "64979": {
+    "groupID": 1975,
+    "name": "Minmatar Typhoon Battleship"
+  },
+  "64980": {
+    "groupID": 1975,
+    "name": "Minmatar Tempest Battleship"
+  },
+  "64981": {
+    "groupID": 1975,
+    "name": "Minmatar Naglfar Dreadnought"
+  },
+  "64982": {
+    "groupID": 1975,
+    "name": "Minmatar Lif Force Auxiliary"
+  },
+  "64983": {
+    "groupID": 1975,
+    "name": "Minmatar Hel Carrier"
+  },
+  "64984": {
+    "groupID": 1975,
+    "name": "Minmatar Battlecruiser Tornado"
+  },
+  "64985": {
+    "groupID": 1975,
+    "name": "Minmatar Strategic Cruiser Loki"
+  },
+  "64986": {
+    "groupID": 1975,
+    "name": "Minmatar Nidhoggur Carrier"
+  },
+  "64987": {
+    "groupID": 1975,
+    "name": "Minmatar Maelstrom Battleship"
+  },
+  "64988": {
+    "groupID": 1975,
+    "name": "Minmatar Destroyer Talwar"
+  },
+  "65020": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65021": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65022": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65023": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65024": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65025": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65026": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65027": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65028": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65029": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65030": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65031": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65032": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65033": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65034": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65035": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65036": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65037": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65038": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65039": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65040": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65041": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65042": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65043": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65044": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65045": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65046": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65047": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65048": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65049": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65050": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65051": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65052": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65053": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65054": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65055": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65056": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65057": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65058": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65059": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "65061": {
+    "groupID": 226,
+    "name": "Minmatar-Gallente Border Traffic Monitoring"
+  },
+  "65062": {
+    "groupID": 303,
+    "name": "Expired Basic 'Rebel' Cerebral Accelerator"
+  },
+  "65063": {
+    "groupID": 303,
+    "name": "Expired Extended 'Rebel' Cerebral Accelerator"
+  },
+  "65064": {
+    "groupID": 303,
+    "name": "Expired Potent 'Rebel' Cerebral Accelerator"
+  },
+  "65065": {
+    "groupID": 4430,
+    "name": "PirateInfestation_Magnet (Do not translate)"
+  },
+  "65079": {
+    "groupID": 1929,
+    "name": "Proving Bonus Nexus"
+  },
+  "65141": {
+    "groupID": 4055,
+    "name": "PirateInfestation_Magnet Spawner"
+  },
+  "65142": {
+    "groupID": 310,
+    "name": "Imperial Navy Security Cordon Outpost"
+  },
+  "65143": {
+    "groupID": 1975,
+    "name": "Non-Interactable Amarr Starbase Control Tower (Do not translate)"
+  },
+  "65144": {
+    "groupID": 1975,
+    "name": "Amarr Cathedral "
+  },
+  "65145": {
+    "groupID": 1975,
+    "name": "Fortified Amarr Chapel"
+  },
+  "65146": {
+    "groupID": 1975,
+    "name": "ao1_t1_enviroment_asset"
+  },
+  "65147": {
+    "groupID": 1975,
+    "name": "Amarr Statue Dome"
+  },
+  "65148": {
+    "groupID": 1975,
+    "name": "Remote Cloaking Array"
+  },
+  "65149": {
+    "groupID": 1975,
+    "name": "Amarr Apartments"
+  },
+  "65150": {
+    "groupID": 1975,
+    "name": "Preserved Amarr Outpost Platform"
+  },
+  "65151": {
+    "groupID": 1975,
+    "name": "BH Sentry Gun"
+  },
+  "65152": {
+    "groupID": 1975,
+    "name": "Fortified Amarr Elevator"
+  },
+  "65153": {
+    "groupID": 1975,
+    "name": "Fortified Amarr Lookout"
+  },
+  "70746": {
+    "groupID": 227,
+    "name": "Invisible Defender's Beacon (Placeholder DNT)"
+  },
+  "70747": {
+    "groupID": 227,
+    "name": "Invisible Attacker's Beacon (Placeholder DNT)"
+  },
+  "70749": {
+    "groupID": 1975,
+    "name": "Amarr Coercer Destroyer"
+  },
+  "70750": {
+    "groupID": 1975,
+    "name": "Amarr Arbitrator Cruiser"
+  },
+  "70751": {
+    "groupID": 1975,
+    "name": "Amarr Augoror Cruiser"
+  },
+  "70752": {
+    "groupID": 1975,
+    "name": "Amarr Omen Cruiser"
+  },
+  "70753": {
+    "groupID": 1975,
+    "name": "Amarr Harbinger Battlecruiser"
+  },
+  "70754": {
+    "groupID": 1975,
+    "name": "Amarr Prophecy Battlecruiser"
+  },
+  "70755": {
+    "groupID": 1975,
+    "name": "Amarr Abaddon Battleship"
+  },
+  "70756": {
+    "groupID": 1975,
+    "name": "Amarr Apocalypse Battleship"
+  },
+  "70757": {
+    "groupID": 1975,
+    "name": "Amarr Maller Cruiser"
+  },
+  "70758": {
+    "groupID": 1975,
+    "name": "Amarr Archon Carrier"
+  },
+  "70759": {
+    "groupID": 1975,
+    "name": "Amarr Armageddon Battleship"
+  },
+  "70760": {
+    "groupID": 1975,
+    "name": "Amarr Revelation Dreadnaught"
+  },
+  "70761": {
+    "groupID": 1975,
+    "name": "Amarr Apostle Force Auxiliary"
+  },
+  "70762": {
+    "groupID": 1975,
+    "name": "Amarr Aeon Carrier"
+  },
+  "70774": {
+    "groupID": 310,
+    "name": "Ammatar Fleet Security Cordon Outpost"
+  },
+  "70797": {
+    "groupID": 1194,
+    "name": "Amarr Foundation Day Robe Crate"
+  },
+  "70811": {
+    "groupID": 1169,
+    "name": "Imperial Frigate"
+  },
+  "70812": {
+    "groupID": 1975,
+    "name": "Caldari Chimera Carrier"
+  },
+  "70813": {
+    "groupID": 1975,
+    "name": "Caldari Wyvern Carrier"
+  },
+  "70814": {
+    "groupID": 1975,
+    "name": "Caldari Phoenix Dreadnought"
+  },
+  "70815": {
+    "groupID": 1975,
+    "name": "Caldari Blackbird Cruiser"
+  },
+  "70816": {
+    "groupID": 1975,
+    "name": "Caldari Caracal Cruiser"
+  },
+  "70817": {
+    "groupID": 1975,
+    "name": "Caldari Moa Cruiser"
+  },
+  "70818": {
+    "groupID": 1975,
+    "name": "Caldari Osprey Cruiser"
+  },
+  "70819": {
+    "groupID": 1975,
+    "name": "Caldari Drake Battlecruiser"
+  },
+  "70820": {
+    "groupID": 1975,
+    "name": "Caldari Ferox Battlecruiser"
+  },
+  "70821": {
+    "groupID": 1975,
+    "name": "Caldari Raven Battleship"
+  },
+  "70822": {
+    "groupID": 1975,
+    "name": "Caldari Rokh Battleship"
+  },
+  "70823": {
+    "groupID": 1975,
+    "name": "Caldari Scorpion Battleship"
+  },
+  "70824": {
+    "groupID": 1975,
+    "name": "Indestructible Radio Telescope"
+  },
+  "70825": {
+    "groupID": 1975,
+    "name": "Caldari Raven Battleship"
+  },
+  "70826": {
+    "groupID": 1975,
+    "name": "Commercial Billboard"
+  },
+  "70827": {
+    "groupID": 1975,
+    "name": "Caldari Minokawa Force Auxiliary"
+  },
+  "70828": {
+    "groupID": 1975,
+    "name": "Caldari Eagle Cruiser"
+  },
+  "70829": {
+    "groupID": 1975,
+    "name": "Caldari Vulture Battlecruiser"
+  },
+  "70830": {
+    "groupID": 1975,
+    "name": "Caldari Basilisk Cruiser"
+  },
+  "70831": {
+    "groupID": 1975,
+    "name": "Caldari Golem Battleship"
+  },
+  "70832": {
+    "groupID": 1975,
+    "name": "Caldari Cerberus Cruiser"
+  },
+  "70833": {
+    "groupID": 1975,
+    "name": "Caldari Widow Battleship"
+  },
+  "70834": {
+    "groupID": 1975,
+    "name": "Caldari Onyx Cruiser"
+  },
+  "70835": {
+    "groupID": 1975,
+    "name": "Caldari Nighthawk Battlecruiser"
+  },
+  "70838": {
+    "groupID": 1088,
+    "name": "Men's Caldari Navy Crew Jacket"
+  },
+  "70839": {
+    "groupID": 1088,
+    "name": "Men's Ishukone Crew Jacket"
+  },
+  "70840": {
+    "groupID": 1088,
+    "name": "Men's CBD Corporation Crew Jacket"
+  },
+  "70841": {
+    "groupID": 1088,
+    "name": "Men's Hyasyoda Crew Jacket"
+  },
+  "70842": {
+    "groupID": 1088,
+    "name": "Men's Kaalakiota Crew Jacket"
+  },
+  "70843": {
+    "groupID": 1088,
+    "name": "Men's Wiyrkomi Crew Jacket"
+  },
+  "70844": {
+    "groupID": 1088,
+    "name": "Men's Lai Dai Crew Jacket"
+  },
+  "70845": {
+    "groupID": 1088,
+    "name": "Men's Sukuuvestaa Crew Jacket"
+  },
+  "70846": {
+    "groupID": 1088,
+    "name": "Men's Nugoeihuvi Crew Jacket"
+  },
+  "70847": {
+    "groupID": 1088,
+    "name": "Women's Caldari Navy Crew Jacket"
+  },
+  "70848": {
+    "groupID": 1088,
+    "name": "Women's Ishukone Crew Jacket"
+  },
+  "70849": {
+    "groupID": 1088,
+    "name": "Women's CBD Corporation Crew Jacket"
+  },
+  "70850": {
+    "groupID": 1088,
+    "name": "Women's Hyasyoda Crew Jacket"
+  },
+  "70851": {
+    "groupID": 1088,
+    "name": "Women's Kaalakiota Crew Jacket"
+  },
+  "70852": {
+    "groupID": 1088,
+    "name": "Women's Wiyrkomi Crew Jacket"
+  },
+  "70853": {
+    "groupID": 1088,
+    "name": "Women's Lai Dai Crew Jacket"
+  },
+  "70854": {
+    "groupID": 1088,
+    "name": "Women's Sukuuvestaa Crew Jacket"
+  },
+  "70855": {
+    "groupID": 1088,
+    "name": "Women's Nugoeihuvi Crew Jacket"
+  },
+  "70877": {
+    "groupID": 1175,
+    "name": "Imperial Destroyer"
+  },
+  "70878": {
+    "groupID": 1179,
+    "name": "Imperial Cruiser"
+  },
+  "70879": {
+    "groupID": 1183,
+    "name": "Imperial Battlecruiser"
+  },
+  "70880": {
+    "groupID": 4431,
+    "name": "Imperial Battleship"
+  },
+  "70895": {
+    "groupID": 226,
+    "name": "EDENCOM Secure Relay Alpha"
+  },
+  "70896": {
+    "groupID": 226,
+    "name": "EDENCOM Secure Relay Beta"
+  },
+  "70897": {
+    "groupID": 226,
+    "name": "EDENCOM Secure Relay Gamma"
+  },
+  "70898": {
+    "groupID": 1975,
+    "name": "Caldari Charon Freighter"
+  },
+  "70899": {
+    "groupID": 1975,
+    "name": "Caldari Badger Hauler"
+  },
+  "70900": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70901": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70902": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70903": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70904": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70905": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70906": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70907": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70908": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70909": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70910": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70911": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70912": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70913": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70914": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70915": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70916": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70917": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70918": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70919": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70920": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70921": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70922": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70923": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70924": {
+    "groupID": 314,
+    "name": "Corrupted Trinary Fragment"
+  },
+  "70925": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70926": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70927": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70928": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70929": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70930": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70931": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70932": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70933": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70934": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70935": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70936": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70937": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70938": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70939": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70940": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70941": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70942": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70943": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70944": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70945": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70946": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70947": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70948": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70949": {
+    "groupID": 314,
+    "name": "EDENCOM Secure Buffer Data"
+  },
+  "70950": {
+    "groupID": 1975,
+    "name": "Guristas War Installation"
+  },
+  "70951": {
+    "groupID": 310,
+    "name": "Caldari Navy Defense Post"
+  },
+  "70952": {
+    "groupID": 226,
+    "name": "Caldari Navy Defense Station"
+  },
+  "70953": {
+    "groupID": 1975,
+    "name": "Non Interactable Caldari Navy Control Tower (Do Not Translate)"
+  },
+  "70971": {
+    "groupID": 310,
+    "name": "Caldari Navy Defense Redoubt"
+  },
+  "70996": {
+    "groupID": 1975,
+    "name": "Warning Sign"
+  },
+  "70997": {
+    "groupID": 227,
+    "name": "FW Amarr Empire Spawner ( DO NOT TRANSLATE )"
+  },
+  "70998": {
+    "groupID": 227,
+    "name": "FW Caldari Empire Spawner ( DO NOT TRANSLATE )"
+  },
+  "70999": {
+    "groupID": 1975,
+    "name": "Asteroid Secondary Colony"
+  },
+  "71000": {
+    "groupID": 1975,
+    "name": "Asteroid Colony Minor"
+  },
+  "71001": {
+    "groupID": 1975,
+    "name": "Asteroid Colony - Factory"
+  },
+  "71002": {
+    "groupID": 1975,
+    "name": "Asteroid Colony - Flat Hulk"
+  },
+  "71003": {
+    "groupID": 226,
+    "name": "Hollow Asteroid ( copy )"
+  },
+  "71004": {
+    "groupID": 1975,
+    "name": "Hollow Asteroid"
+  },
+  "71005": {
+    "groupID": 1975,
+    "name": "Caldari Plinth"
+  },
+  "71008": {
+    "groupID": 227,
+    "name": "FW Gallente Empire Spawner ( DO NOT TRANSLATE )"
+  },
+  "71009": {
+    "groupID": 227,
+    "name": "FW Minmatar Empire Spawner ( DO NOT TRANSLATE )"
+  },
+  "71010": {
+    "groupID": 1975,
+    "name": "Gallente Supercarrier Wreckage"
+  },
+  "71011": {
+    "groupID": 1975,
+    "name": "Gallente Elite Freighter Wreck"
+  },
+  "71012": {
+    "groupID": 1975,
+    "name": "Gallente Obelisk Freighter"
+  },
+  "71013": {
+    "groupID": 306,
+    "name": "Gallente Obelisk Hacking Challenge"
+  },
+  "71014": {
+    "groupID": 306,
+    "name": "Gallente Iteron V Hacking Challenge"
+  },
+  "71015": {
+    "groupID": 306,
+    "name": "Gallente Outpost Hacking Challenge"
+  },
+  "71016": {
+    "groupID": 306,
+    "name": "Elite Gallente Iteron V Hacking Challenge"
+  },
+  "71017": {
+    "groupID": 306,
+    "name": "Elite Gallente Obelisk Hacking Challenge"
+  },
+  "71018": {
+    "groupID": 306,
+    "name": "Elite Gallente Outpost Hacking Challenge"
+  },
+  "71055": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Barricade (do not translate)"
+  },
+  "71056": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Barrier (do not translate)"
+  },
+  "71057": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Battery (do not translate)"
+  },
+  "71058": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Bunker (do not translate)"
+  },
+  "71059": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Elevator (do not translate)"
+  },
+  "71060": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Fence (do not translate)"
+  },
+  "71061": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Junction (do not translate)"
+  },
+  "71062": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Lookout (do not translate)"
+  },
+  "71063": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Wall (do not translate)"
+  },
+  "71079": {
+    "groupID": 227,
+    "name": "Union Day Infiltration Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "71084": {
+    "groupID": 227,
+    "name": "Union Day Infiltration Interdiction Spawner (DO NOT TRANSLATE)"
+  },
+  "71089": {
+    "groupID": 227,
+    "name": "Union Day Infiltration Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "71104": {
+    "groupID": 1166,
+    "name": "Republic Frigate"
+  },
+  "71105": {
+    "groupID": 1178,
+    "name": "Republic Destroyer"
+  },
+  "71106": {
+    "groupID": 1182,
+    "name": "Republic Cruiser"
+  },
+  "71107": {
+    "groupID": 1186,
+    "name": "Republic Battlecruiser"
+  },
+  "71108": {
+    "groupID": 4434,
+    "name": "Republic Battleship"
+  },
+  "71112": {
+    "groupID": 186,
+    "name": "Amarr Forward Operating Base Wreck"
+  },
+  "71113": {
+    "groupID": 186,
+    "name": "Caldari Forward Operating Base Wreck"
+  },
+  "71114": {
+    "groupID": 186,
+    "name": "Gallente Forward Operating Base Wreck"
+  },
+  "71115": {
+    "groupID": 186,
+    "name": "Minmatar Forward Operating Base Wreck"
+  },
+  "71116": {
+    "groupID": 1924,
+    "name": "Amarr Forward Operating Base"
+  },
+  "71117": {
+    "groupID": 1924,
+    "name": "Caldari Forward Operating Base"
+  },
+  "71118": {
+    "groupID": 1924,
+    "name": "Gallente Forward Operating Base"
+  },
+  "71119": {
+    "groupID": 1924,
+    "name": "Minmatar Forward Operating Base"
+  },
+  "71120": {
+    "groupID": 226,
+    "name": "Caldari Sentry"
+  },
+  "71240": {
+    "groupID": 226,
+    "name": "Construction Storage Unit"
+  },
+  "71449": {
+    "groupID": 226,
+    "name": "Gallente Federation Stargate Construction"
+  },
+  "71450": {
+    "groupID": 226,
+    "name": "Caldari State Stargate Construction"
+  },
+  "71456": {
+    "groupID": 1929,
+    "name": "Caldari Hacking Impediment Mine"
+  },
+  "71457": {
+    "groupID": 1929,
+    "name": "Caldari Hacking Accelerant Tower"
+  },
+  "71470": {
+    "groupID": 1167,
+    "name": "State Frigate"
+  },
+  "71471": {
+    "groupID": 1176,
+    "name": "State Destroyer"
+  },
+  "71472": {
+    "groupID": 1180,
+    "name": "State Cruiser"
+  },
+  "71473": {
+    "groupID": 1184,
+    "name": "State Battlecruiser"
+  },
+  "71474": {
+    "groupID": 4432,
+    "name": "State Battleship"
+  },
+  "71475": {
+    "groupID": 1168,
+    "name": "Federation Frigate"
+  },
+  "71476": {
+    "groupID": 1177,
+    "name": "Federation Destroyer"
+  },
+  "71477": {
+    "groupID": 1181,
+    "name": "Federation Cruiser"
+  },
+  "71478": {
+    "groupID": 1185,
+    "name": "Federation Battlecruiser"
+  },
+  "71479": {
+    "groupID": 4433,
+    "name": "Federation Battleship"
+  },
+  "71481": {
+    "groupID": 226,
+    "name": "Imperial Navy Security Cordon Outpost"
+  },
+  "71482": {
+    "groupID": 226,
+    "name": "Ammatar Fleet Security Cordon Outpost"
+  },
+  "71735": {
+    "groupID": 303,
+    "name": "Caldari Union Day Accuracy Booster IV"
+  },
+  "71736": {
+    "groupID": 303,
+    "name": "Caldari Union Day Accuracy Booster I"
+  },
+  "71737": {
+    "groupID": 303,
+    "name": "Caldari Union Day Accuracy Booster II"
+  },
+  "71738": {
+    "groupID": 303,
+    "name": "Caldari Union Day Accuracy Booster III"
+  },
+  "71739": {
+    "groupID": 303,
+    "name": "Caldari Union Day Damage Booster I"
+  },
+  "71740": {
+    "groupID": 303,
+    "name": "Caldari Union Day Damage Booster II"
+  },
+  "71741": {
+    "groupID": 303,
+    "name": "Caldari Union Day Damage Booster III"
+  },
+  "71742": {
+    "groupID": 303,
+    "name": "Caldari Union Day Damage Booster IV"
+  },
+  "71743": {
+    "groupID": 303,
+    "name": "Caldari Union Day Resistance Booster IV"
+  },
+  "71744": {
+    "groupID": 303,
+    "name": "Caldari Union Day Resistance Booster I"
+  },
+  "71745": {
+    "groupID": 303,
+    "name": "Caldari Union Day Resistance Booster II"
+  },
+  "71746": {
+    "groupID": 303,
+    "name": "Caldari Union Day Resistance Booster III"
+  },
+  "71747": {
+    "groupID": 303,
+    "name": "Caldari Union Day Range Booster I"
+  },
+  "71748": {
+    "groupID": 303,
+    "name": "Caldari Union Day Range Booster II"
+  },
+  "71749": {
+    "groupID": 303,
+    "name": "Caldari Union Day Range Booster III"
+  },
+  "71750": {
+    "groupID": 303,
+    "name": "Caldari Union Day Range Booster IV"
+  },
+  "71755": {
+    "groupID": 500,
+    "name": "Union of Eight Paths Firework"
+  },
+  "72070": {
+    "groupID": 310,
+    "name": "Federation Navy Security Checkpoint"
+  },
+  "72072": {
+    "groupID": 310,
+    "name": "Stellar Construction Site"
+  },
+  "72074": {
+    "groupID": 1975,
+    "name": "Construction Storage Unit"
+  },
+  "72075": {
+    "groupID": 1975,
+    "name": "Planetary Launch Container"
+  },
+  "72076": {
+    "groupID": 1975,
+    "name": "Builders Quarters"
+  },
+  "72083": {
+    "groupID": 303,
+    "name": "Basic 'Union Day' Cerebral Accelerator"
+  },
+  "72084": {
+    "groupID": 303,
+    "name": "Extended 'Union Day' Cerebral Accelerator"
+  },
+  "72085": {
+    "groupID": 303,
+    "name": "Potent 'Union Day' Cerebral Accelerator"
+  },
+  "72086": {
+    "groupID": 226,
+    "name": "Imperial Prototype Stellar Transmuter"
+  },
+  "72087": {
+    "groupID": 1194,
+    "name": "Union of Eight Paths Fireworks Crate"
+  },
+  "72091": {
+    "groupID": 226,
+    "name": "Federation Navy Security Station"
+  },
+  "72092": {
+    "groupID": 1975,
+    "name": "Non-interactable Outpost Factory (do not translate)"
+  },
+  "72093": {
+    "groupID": 226,
+    "name": "Federation Navy Security Station"
+  },
+  "72094": {
+    "groupID": 1975,
+    "name": "Gallente Control Tower (DO NOT TRANSLATE)"
+  },
+  "72095": {
+    "groupID": 310,
+    "name": "Federation Navy Security Command"
+  },
+  "72097": {
+    "groupID": 226,
+    "name": "Proximity Triggered Wave Spawner"
+  },
+  "72098": {
+    "groupID": 383,
+    "name": "Caldari Stasis Webifier Tower"
+  },
+  "72099": {
+    "groupID": 227,
+    "name": "Union Day Easy Drone Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72100": {
+    "groupID": 227,
+    "name": "Union Day Easy Drone Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72101": {
+    "groupID": 227,
+    "name": "Union Day Easy Drone Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72208": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 1 No Collision"
+  },
+  "72209": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 2 No Collision"
+  },
+  "72210": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 3 No Collision"
+  },
+  "72211": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 4 No Collision"
+  },
+  "72212": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Xlarge 5 No Collision"
+  },
+  "72213": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 1 No Collision"
+  },
+  "72214": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 2 No Collision"
+  },
+  "72215": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 3 No Collision"
+  },
+  "72216": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 4 No Collision"
+  },
+  "72217": {
+    "groupID": 1975,
+    "name": "Asteroid Set 2 Large 5 No Collision"
+  },
+  "72238": {
+    "groupID": 303,
+    "name": "Basic 'Boost' Cerebral Accelerator "
+  },
+  "72239": {
+    "groupID": 303,
+    "name": "Standard 'Boost' Cerebral Accelerator"
+  },
+  "72240": {
+    "groupID": 303,
+    "name": "Advanced 'Boost' Cerebral Accelerator"
+  },
+  "72241": {
+    "groupID": 303,
+    "name": "Specialist 'Boost' Cerebral Accelerator"
+  },
+  "72242": {
+    "groupID": 303,
+    "name": "Expert 'Boost' Cerebral Accelerator"
+  },
+  "72258": {
+    "groupID": 314,
+    "name": "Union Day Reward Token"
+  },
+  "72259": {
+    "groupID": 1194,
+    "name": "Ishukone Jacket Crate"
+  },
+  "72260": {
+    "groupID": 1194,
+    "name": "CBD Corporation Jacket Crate"
+  },
+  "72261": {
+    "groupID": 1194,
+    "name": "Hyasyoda Jacket Crate"
+  },
+  "72262": {
+    "groupID": 1194,
+    "name": "Kaalakiota Jacket Crate"
+  },
+  "72263": {
+    "groupID": 1194,
+    "name": "Wiyrkomi Jacket Crate"
+  },
+  "72264": {
+    "groupID": 1194,
+    "name": "Lai Dai Jacket Crate"
+  },
+  "72265": {
+    "groupID": 1194,
+    "name": "Sukuuvestaa Jacket Crate"
+  },
+  "72266": {
+    "groupID": 1194,
+    "name": "Nugoeihuvi Jacket Crate"
+  },
+  "72268": {
+    "groupID": 226,
+    "name": "Malkalen Attack Memorial"
+  },
+  "72269": {
+    "groupID": 310,
+    "name": "Malkalen Attack Memorial"
+  },
+  "72270": {
+    "groupID": 226,
+    "name": "Grand Tiegjon Casino High-Rollers Platform"
+  },
+  "72271": {
+    "groupID": 226,
+    "name": "Grand Tiegjon Resort Mind Clash Training Facility"
+  },
+  "72272": {
+    "groupID": 310,
+    "name": "Grand Tiegjon Resort & Casino"
+  },
+  "72333": {
+    "groupID": 226,
+    "name": "JSL Partnership Co-ordination Bureau"
+  },
+  "72334": {
+    "groupID": 226,
+    "name": "Combine TNR Meeting Venue"
+  },
+  "72335": {
+    "groupID": 226,
+    "name": "PKN Interstellar Executive Retreat"
+  },
+  "72336": {
+    "groupID": 310,
+    "name": "JSL Partnership Co-ordination Bureau"
+  },
+  "72337": {
+    "groupID": 310,
+    "name": "Combine TNR Meeting Venue"
+  },
+  "72338": {
+    "groupID": 310,
+    "name": "PKN Interstellar Executive Retreat"
+  },
+  "72339": {
+    "groupID": 4100,
+    "name": "CBD Corporation Standard"
+  },
+  "72340": {
+    "groupID": 4100,
+    "name": "Hyasyoda Corporation Standard"
+  },
+  "72341": {
+    "groupID": 4100,
+    "name": "Ishukone Corporation Standard"
+  },
+  "72342": {
+    "groupID": 4100,
+    "name": "Kaalakiota Corporation Standard"
+  },
+  "72343": {
+    "groupID": 4100,
+    "name": "Lai Dai Corporation Standard"
+  },
+  "72344": {
+    "groupID": 4100,
+    "name": "Nugoeihuvi Corporation Standard"
+  },
+  "72345": {
+    "groupID": 4100,
+    "name": "Sukuuvestaa Corporation Standard"
+  },
+  "72346": {
+    "groupID": 4100,
+    "name": "Wiyrkomi Corporation Standard"
+  },
+  "72347": {
+    "groupID": 1568,
+    "name": "Rogue Drone Scavenger Sim"
+  },
+  "72348": {
+    "groupID": 1568,
+    "name": "Rogue Drone Forager Sim"
+  },
+  "72349": {
+    "groupID": 1664,
+    "name": "Rogue Drone Ripper Sim"
+  },
+  "72350": {
+    "groupID": 1664,
+    "name": "Rogue Drone Dismantler Sim"
+  },
+  "72351": {
+    "groupID": 1665,
+    "name": "Rogue Drone Commander Sim"
+  },
+  "72352": {
+    "groupID": 1568,
+    "name": "Guristas Imputor Sim"
+  },
+  "72353": {
+    "groupID": 1568,
+    "name": "Guristas Plunderer Sim"
+  },
+  "72354": {
+    "groupID": 1568,
+    "name": "Guristas Wrecker Sim"
+  },
+  "72355": {
+    "groupID": 1664,
+    "name": "Guristas Terrorist Sim"
+  },
+  "72356": {
+    "groupID": 1664,
+    "name": "Guristas Renegade Sim"
+  },
+  "72357": {
+    "groupID": 1665,
+    "name": "Guristas Commander Sim"
+  },
+  "72358": {
+    "groupID": 1568,
+    "name": "Federation Atron Sim"
+  },
+  "72359": {
+    "groupID": 1568,
+    "name": "Federation Comet Sim"
+  },
+  "72360": {
+    "groupID": 1568,
+    "name": "Federation Maulus Sim"
+  },
+  "72361": {
+    "groupID": 1664,
+    "name": "Federation Catalyst Sim"
+  },
+  "72362": {
+    "groupID": 1665,
+    "name": "Federation Commander Sim"
+  },
+  "72363": {
+    "groupID": 1568,
+    "name": "Tangling Damavik Sim"
+  },
+  "72364": {
+    "groupID": 1568,
+    "name": "Anchoring Damavik Sim"
+  },
+  "72365": {
+    "groupID": 1568,
+    "name": "Starving Damavik Sim"
+  },
+  "72366": {
+    "groupID": 1568,
+    "name": "Liminal Damavik Sim"
+  },
+  "72367": {
+    "groupID": 1664,
+    "name": "Liminal Kikimora Sim"
+  },
+  "72368": {
+    "groupID": 1665,
+    "name": "Triglavian Commander Sim"
+  },
+  "72369": {
+    "groupID": 306,
+    "name": "Stellar Observation Com Tower"
+  },
+  "72370": {
+    "groupID": 227,
+    "name": "Union Day Infiltration Elite Interdiction Spawner (DO NOT TRANSLATE)"
+  },
+  "72371": {
+    "groupID": 227,
+    "name": "Union Day Infiltration Elite Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "72372": {
+    "groupID": 227,
+    "name": "Union Day Infiltration Elite Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72373": {
+    "groupID": 314,
+    "name": "Encrypted Stellar Research Data"
+  },
+  "72381": {
+    "groupID": 226,
+    "name": "Imperial Prototype Stellar Transmuter"
+  },
+  "72382": {
+    "groupID": 226,
+    "name": "Imperial Prototype Stellar Transmuter"
+  },
+  "72383": {
+    "groupID": 1975,
+    "name": "Imperial Prototype Stellar Transmuter"
+  },
+  "72400": {
+    "groupID": 1971,
+    "name": "Proving Damage, HP, and Overheating Bonus (Do not translate)"
+  },
+  "72683": {
+    "groupID": 1665,
+    "name": "Rogue Drone Commander Sim"
+  },
+  "72684": {
+    "groupID": 1665,
+    "name": "Guristas Commander Sim"
+  },
+  "72685": {
+    "groupID": 1665,
+    "name": "Federation Commander Sim"
+  },
+  "72686": {
+    "groupID": 1665,
+    "name": "Triglavian Commander Sim"
+  },
+  "72687": {
+    "groupID": 227,
+    "name": "Union Day Easy Guristas Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72688": {
+    "groupID": 227,
+    "name": "Union Day Easy Guristas Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72689": {
+    "groupID": 227,
+    "name": "Union Day Easy Guristas Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72690": {
+    "groupID": 227,
+    "name": "Union Day Easy Gal Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72691": {
+    "groupID": 227,
+    "name": "Union Day Easy Gal Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72692": {
+    "groupID": 227,
+    "name": "Union Day Easy Gal Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72693": {
+    "groupID": 227,
+    "name": "Union Day Easy Trig Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72694": {
+    "groupID": 227,
+    "name": "Union Day Easy Trig Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72695": {
+    "groupID": 227,
+    "name": "Union Day Easy Trig Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72696": {
+    "groupID": 227,
+    "name": "Union Day Hard Drone Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72697": {
+    "groupID": 227,
+    "name": "Union Day Hard Drone Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72698": {
+    "groupID": 227,
+    "name": "Union Day Hard Drone Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72699": {
+    "groupID": 227,
+    "name": "Union Day Hard Guristas Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72700": {
+    "groupID": 227,
+    "name": "Union Day Hard Guristas Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72701": {
+    "groupID": 227,
+    "name": "Union Day Hard Guristas Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72702": {
+    "groupID": 227,
+    "name": "Union Day Hard Gal Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72703": {
+    "groupID": 227,
+    "name": "Union Day Hard Gal Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72704": {
+    "groupID": 227,
+    "name": "Union Day Hard Gal Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72705": {
+    "groupID": 227,
+    "name": "Union Day Hard Trig Wave 1 Spawner (DO NOT TRANSLATE)"
+  },
+  "72706": {
+    "groupID": 227,
+    "name": "Union Day Hard Trig Wave 2 Spawner (DO NOT TRANSLATE)"
+  },
+  "72707": {
+    "groupID": 227,
+    "name": "Union Day Hard Trig Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "72752": {
+    "groupID": 1975,
+    "name": "ua01_t1_environment_asset"
+  },
+  "72753": {
+    "groupID": 1975,
+    "name": "cct1_t1a_environment_asset"
+  },
+  "72754": {
+    "groupID": 1975,
+    "name": "Home Guard Wyvern (Do Not Translate)"
+  },
+  "72755": {
+    "groupID": 1975,
+    "name": "cs4_ishukone_environment_asset"
+  },
+  "72756": {
+    "groupID": 1975,
+    "name": "cs4_hyasyoda_environment_asset"
+  },
+  "72757": {
+    "groupID": 1975,
+    "name": "cs4_wiyrkomi_environment_asset"
+  },
+  "72758": {
+    "groupID": 1975,
+    "name": "cs7_kaalakiota_environment_asset"
+  },
+  "72759": {
+    "groupID": 1975,
+    "name": "cs8_sukuuvestaa_environment_asset"
+  },
+  "72760": {
+    "groupID": 1975,
+    "name": "cs2_laidai_environment_asset"
+  },
+  "72761": {
+    "groupID": 1975,
+    "name": "cs2_noh_environment_asset"
+  },
+  "72762": {
+    "groupID": 1975,
+    "name": "cs2_cbd_environment_asset "
+  },
+  "72763": {
+    "groupID": 1975,
+    "name": "ubp01_environment_asset"
+  },
+  "72811": {
+    "groupID": 419,
+    "name": "Cyclone Fleet Issue"
+  },
+  "72812": {
+    "groupID": 419,
+    "name": "Ferox Navy Issue"
+  },
+  "72814": {
+    "groupID": 186,
+    "name": "Blood Force Auxiliary Wreck"
+  },
+  "72815": {
+    "groupID": 1971,
+    "name": "Union Day Frigate Weapon Bonuses (Do not translate)"
+  },
+  "72816": {
+    "groupID": 186,
+    "name": "Guristas Force Auxiliary Wreck"
+  },
+  "72817": {
+    "groupID": 186,
+    "name": "Serpentis Supercarrier Wreck"
+  },
+  "72818": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster I"
+  },
+  "72819": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster II "
+  },
+  "72820": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster III"
+  },
+  "72821": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster I"
+  },
+  "72822": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster II"
+  },
+  "72823": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster III"
+  },
+  "72828": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster IV"
+  },
+  "72829": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster IV"
+  },
+  "72830": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster III"
+  },
+  "72831": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster IV"
+  },
+  "72832": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster I"
+  },
+  "72833": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster II"
+  },
+  "72834": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster I"
+  },
+  "72835": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster II"
+  },
+  "72836": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster III"
+  },
+  "72837": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster IV"
+  },
+  "72839": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster IV"
+  },
+  "72840": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster I"
+  },
+  "72841": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster II"
+  },
+  "72842": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster III"
+  },
+  "72850": {
+    "groupID": 319,
+    "name": "Amarr Supply Depot"
+  },
+  "72851": {
+    "groupID": 319,
+    "name": "Minmatar Supply Depot"
+  },
+  "72852": {
+    "groupID": 319,
+    "name": "Caldari Supply Depot"
+  },
+  "72853": {
+    "groupID": 319,
+    "name": "Gallente Supply Depot"
+  },
+  "72854": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster III"
+  },
+  "72855": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster IV"
+  },
+  "72856": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster I"
+  },
+  "72857": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster II"
+  },
+  "72858": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster I"
+  },
+  "72859": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster II"
+  },
+  "72860": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster III"
+  },
+  "72861": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster IV"
+  },
+  "72862": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster III"
+  },
+  "72863": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster IV"
+  },
+  "72864": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster I"
+  },
+  "72865": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster II"
+  },
+  "72866": {
+    "groupID": 303,
+    "name": "Basic 'Radiance' Cerebral Accelerator"
+  },
+  "72867": {
+    "groupID": 303,
+    "name": "Potent 'Radiance' Cerebral Accelerator"
+  },
+  "72868": {
+    "groupID": 303,
+    "name": "Extended 'Radiance' Cerebral Accelerator"
+  },
+  "72869": {
+    "groupID": 419,
+    "name": "Myrmidon Navy Issue"
+  },
+  "72872": {
+    "groupID": 419,
+    "name": "Prophecy Navy Issue"
+  },
+  "72873": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor S01a"
+  },
+  "72874": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor M01a"
+  },
+  "72875": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor L01a"
+  },
+  "72876": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor XL01a"
+  },
+  "72879": {
+    "groupID": 538,
+    "name": "QA Analyzer"
+  },
+  "72902": {
+    "groupID": 1911,
+    "name": "Dense Polycrase"
+  },
+  "72903": {
+    "groupID": 25,
+    "name": "Probe Fleet Issue"
+  },
+  "72904": {
+    "groupID": 25,
+    "name": "Heron Navy Issue"
+  },
+  "72907": {
+    "groupID": 25,
+    "name": "Magnate Navy Issue"
+  },
+  "72913": {
+    "groupID": 25,
+    "name": "Imicus Navy Issue"
+  },
+  "72917": {
+    "groupID": 105,
+    "name": "Probe Fleet Issue Blueprint"
+  },
+  "72918": {
+    "groupID": 226,
+    "name": "Caldari State Stargate Construction"
+  },
+  "72919": {
+    "groupID": 105,
+    "name": "Imicus Navy Issue Blueprint"
+  },
+  "72920": {
+    "groupID": 105,
+    "name": "Magnate Navy Issue Blueprint"
+  },
+  "72921": {
+    "groupID": 226,
+    "name": "State Ore Refinery"
+  },
+  "72922": {
+    "groupID": 105,
+    "name": "Heron Navy Issue Blueprint"
+  },
+  "72923": {
+    "groupID": 489,
+    "name": "Cyclone Fleet Issue Blueprint"
+  },
+  "72924": {
+    "groupID": 489,
+    "name": "Prophecy Navy Issue Blueprint"
+  },
+  "72925": {
+    "groupID": 489,
+    "name": "Myrmidon Navy Issue Blueprint"
+  },
+  "72926": {
+    "groupID": 489,
+    "name": "Ferox Navy Issue Blueprint"
+  },
+  "72928": {
+    "groupID": 226,
+    "name": "Gallente Federation Stargate Construction"
+  },
+  "72929": {
+    "groupID": 1975,
+    "name": "Serpentis Den non interactable ( copy )"
+  },
+  "72930": {
+    "groupID": 226,
+    "name": "Federation Ore Refinery"
+  },
+  "72935": {
+    "groupID": 1911,
+    "name": "Dense Moissanite"
+  },
+  "72941": {
+    "groupID": 1975,
+    "name": "Caldari Navy Modular Hub 01a"
+  },
+  "72942": {
+    "groupID": 1975,
+    "name": "Caldari Navy Modular Hub 01b"
+  },
+  "72943": {
+    "groupID": 1975,
+    "name": "Caldari Navy Modular Hub 01c"
+  },
+  "72944": {
+    "groupID": 1975,
+    "name": "Caldari Navy Modular Hub 01d"
+  },
+  "72952": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor S01a"
+  },
+  "72953": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor M01a"
+  },
+  "72954": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor L01a"
+  },
+  "72955": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor XL01a"
+  },
+  "72976": {
+    "groupID": 4050,
+    "name": "Event 72 Proving Filament "
+  },
+  "72977": {
+    "groupID": 4050,
+    "name": "Event 73 Proving Filament"
+  },
+  "72978": {
+    "groupID": 4050,
+    "name": "Event 74 Proving Filament "
+  },
+  "72979": {
+    "groupID": 4050,
+    "name": "Event 75 Proving Filament"
+  },
+  "72980": {
+    "groupID": 4050,
+    "name": "Event 76 Proving Filament"
+  },
+  "72981": {
+    "groupID": 4050,
+    "name": "Event 77 Proving Filament "
+  },
+  "72982": {
+    "groupID": 4050,
+    "name": "Event 78 Proving Filament"
+  },
+  "72983": {
+    "groupID": 4050,
+    "name": "Event 79 Proving Filament"
+  },
+  "72984": {
+    "groupID": 4050,
+    "name": "Event 80 Proving Filament"
+  },
+  "72985": {
+    "groupID": 4050,
+    "name": "Event 81 Proving Filament "
+  },
+  "72986": {
+    "groupID": 4050,
+    "name": "Event 82 Proving Filament"
+  },
+  "72987": {
+    "groupID": 4050,
+    "name": "Event 83 Proving Filament"
+  },
+  "72988": {
+    "groupID": 4050,
+    "name": "Event 84 Proving Filament"
+  },
+  "72989": {
+    "groupID": 4050,
+    "name": "Event 85 Proving Filament"
+  },
+  "72990": {
+    "groupID": 4050,
+    "name": "Event 86 Proving Filament"
+  },
+  "72991": {
+    "groupID": 4050,
+    "name": "Event 87 Proving Filament"
+  },
+  "72992": {
+    "groupID": 4050,
+    "name": "Event 88 Proving Filament "
+  },
+  "72993": {
+    "groupID": 4050,
+    "name": "Event 89 Proving Filament"
+  },
+  "72994": {
+    "groupID": 4050,
+    "name": "Event 90 Proving Filament"
+  },
+  "72995": {
+    "groupID": 4050,
+    "name": "Event 91 Proving Filament"
+  },
+  "72996": {
+    "groupID": 4050,
+    "name": "Event 92 Proving Filament"
+  },
+  "72997": {
+    "groupID": 4050,
+    "name": "Event 93 Proving Filament"
+  },
+  "72998": {
+    "groupID": 4050,
+    "name": "Event 94 Proving Filament"
+  },
+  "72999": {
+    "groupID": 4050,
+    "name": "Event 95 Proving Filament"
+  },
+  "73000": {
+    "groupID": 4050,
+    "name": "Event 96 Proving Filament"
+  },
+  "73001": {
+    "groupID": 4050,
+    "name": "Event 97 Proving Filament"
+  },
+  "73002": {
+    "groupID": 4050,
+    "name": "Event 98 Proving Filament"
+  },
+  "73003": {
+    "groupID": 4050,
+    "name": "Event 99 Proving Filament"
+  },
+  "73004": {
+    "groupID": 4050,
+    "name": "Event 100 Proving Filament"
+  },
+  "73012": {
+    "groupID": 319,
+    "name": "Amarr Supply Cache"
+  },
+  "73013": {
+    "groupID": 319,
+    "name": "Minmatar Supply Cache"
+  },
+  "73014": {
+    "groupID": 319,
+    "name": "Caldari Supply Cache"
+  },
+  "73015": {
+    "groupID": 319,
+    "name": "Gallente Supply Cache"
+  },
+  "73016": {
+    "groupID": 1975,
+    "name": "Small Military Beacon "
+  },
+  "73017": {
+    "groupID": 1975,
+    "name": "Transport Field Effect Subpylon"
+  },
+  "73018": {
+    "groupID": 1975,
+    "name": "Stasis Field Effect Subpylon"
+  },
+  "73036": {
+    "groupID": 306,
+    "name": "Captured Triglavian Relay Cache"
+  },
+  "73037": {
+    "groupID": 306,
+    "name": "Captured Triglavian Relay Cache"
+  },
+  "73038": {
+    "groupID": 306,
+    "name": "Captured Triglavian Relay Cache"
+  },
+  "73039": {
+    "groupID": 227,
+    "name": "Preex Gal Site Spawner"
+  },
+  "73040": {
+    "groupID": 227,
+    "name": "Preex Cal Site Spawner"
+  },
+  "73041": {
+    "groupID": 314,
+    "name": "Triglavian Encrypted Relay Data"
+  },
+  "73148": {
+    "groupID": 1568,
+    "name": "Merlin Relay Guard"
+  },
+  "73149": {
+    "groupID": 1568,
+    "name": "Condor Relay Guard"
+  },
+  "73150": {
+    "groupID": 1568,
+    "name": "Kestrel Relay Guard"
+  },
+  "73159": {
+    "groupID": 1568,
+    "name": "Tristan Relay Guard"
+  },
+  "73160": {
+    "groupID": 1568,
+    "name": "Atron Relay Guard"
+  },
+  "73161": {
+    "groupID": 1568,
+    "name": "Incursus Relay Guard"
+  },
+  "73221": {
+    "groupID": 227,
+    "name": "Amarr Spawner (DO NOT TRANSLATE)"
+  },
+  "73222": {
+    "groupID": 227,
+    "name": "Minmatar Spawner (DO NOT TRANSLATE)"
+  },
+  "73223": {
+    "groupID": 227,
+    "name": "Caldari Spawner (DO NOT TRANSLATE)"
+  },
+  "73224": {
+    "groupID": 227,
+    "name": "Gallente Spawner (DO NOT TRANSLATE)"
+  },
+  "73225": {
+    "groupID": 4477,
+    "name": "Amarr Propaganda Broadcast Structure"
+  },
+  "73226": {
+    "groupID": 4477,
+    "name": "Minmatar Propaganda Broadcast Structure"
+  },
+  "73227": {
+    "groupID": 4477,
+    "name": "Caldari Propaganda Broadcast Structure"
+  },
+  "73228": {
+    "groupID": 4477,
+    "name": "Gallente Propaganda Broadcast Structure"
+  },
+  "73248": {
+    "groupID": 314,
+    "name": "Caldari Loyalty Token"
+  },
+  "73249": {
+    "groupID": 314,
+    "name": "Gallente Loyalty Token"
+  },
+  "73250": {
+    "groupID": 314,
+    "name": "Amarr Loyalty Token"
+  },
+  "73251": {
+    "groupID": 314,
+    "name": "Minmatar Loyalty Token"
+  },
+  "73252": {
+    "groupID": 306,
+    "name": "Stellar Observation Mainframe"
+  },
+  "73253": {
+    "groupID": 306,
+    "name": "Stellar Observation Databank"
+  },
+  "73254": {
+    "groupID": 226,
+    "name": "Imperial Stellar Transmuter Research Laboratory"
+  },
+  "73255": {
+    "groupID": 226,
+    "name": "Republic Stellar Transmuter Research Laboratory"
+  },
+  "73256": {
+    "groupID": 1568,
+    "name": "Republic Fleet Firetail Guard"
+  },
+  "73257": {
+    "groupID": 1568,
+    "name": "Vigil Fleet Issue Guard"
+  },
+  "73258": {
+    "groupID": 1568,
+    "name": "Imperial Navy Slicer Guard"
+  },
+  "73259": {
+    "groupID": 1568,
+    "name": "Crucifier Navy Issue Guard"
+  },
+  "73260": {
+    "groupID": 310,
+    "name": "Imperial Stellar Observation Data Hub"
+  },
+  "73261": {
+    "groupID": 310,
+    "name": "Republic Stellar Observation Data Hub"
+  },
+  "73262": {
+    "groupID": 310,
+    "name": "State Strategic Polycrase Cluster"
+  },
+  "73263": {
+    "groupID": 310,
+    "name": "Federal Strategic Moissanite Cluster"
+  },
+  "73267": {
+    "groupID": 226,
+    "name": "State Relay Research Laboratory"
+  },
+  "73268": {
+    "groupID": 226,
+    "name": "Federation Relay Research Laboratory"
+  },
+  "73316": {
+    "groupID": 1975,
+    "name": "cs1_construction (Do not translate)"
+  },
+  "73317": {
+    "groupID": 1975,
+    "name": "gs1_construction (Do not translate)"
+  },
+  "73336": {
+    "groupID": 310,
+    "name": "Captured Triglavian Relay (Caldari)"
+  },
+  "73337": {
+    "groupID": 310,
+    "name": "Captured Triglavian Relay (Gallente)"
+  },
+  "73338": {
+    "groupID": 310,
+    "name": "Caldari Relay Research Center"
+  },
+  "73339": {
+    "groupID": 310,
+    "name": "Gallente Relay Research Center"
+  },
+  "73340": {
+    "groupID": 1975,
+    "name": "Imperial Prototype Stellar Transmuter (Egmar) DO NOT TRANSLATE"
+  },
+  "73341": {
+    "groupID": 1975,
+    "name": "Imperial Prototype Stellar Transmuter (Vard) DO NOT TRANSLATE"
+  },
+  "73342": {
+    "groupID": 227,
+    "name": "Preex Amarr S1 (Do not translate)"
+  },
+  "73343": {
+    "groupID": 227,
+    "name": "Preex Minmatar S1 (Do not translate)"
+  },
+  "73344": {
+    "groupID": 227,
+    "name": "Preex Amarr S2 (Do not translate)"
+  },
+  "73345": {
+    "groupID": 227,
+    "name": "Preex Minmatar S2 (Do not translate)"
+  },
+  "73374": {
+    "groupID": 226,
+    "name": "Elder War Monument ( copy )"
+  },
+  "73375": {
+    "groupID": 1975,
+    "name": "Amarr Plinth (DO NOT TRANSLATE)"
+  },
+  "73376": {
+    "groupID": 1975,
+    "name": "Minmatar Hub (DO NOT TRANSLATE)"
+  },
+  "73380": {
+    "groupID": 1975,
+    "name": "Station Caldari 2 (DO NOT TRANSLATE)"
+  },
+  "73389": {
+    "groupID": 1975,
+    "name": "Gallente Plinth (DO NOT TRANSLATE)"
+  },
+  "73390": {
+    "groupID": 1975,
+    "name": "Gallente Small Station (DO NOT TRANSLATE)"
+  },
+  "73391": {
+    "groupID": 1975,
+    "name": "Gallente Research Station (DO NOT TRANSLATE)"
+  },
+  "73395": {
+    "groupID": 1090,
+    "name": "73395_Male_bottomOuter_PantsCorpBusinessM01_Types_PantsCorpBusinessM01_DarkTurquoise.png"
+  },
+  "73396": {
+    "groupID": 1088,
+    "name": "73396_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_DarkTurquoise.png"
+  },
+  "73408": {
+    "groupID": 500,
+    "name": "Halloween Terrors Firework"
+  },
+  "73409": {
+    "groupID": 1194,
+    "name": "Halloween Terrors Fireworks Crate"
+  },
+  "73431": {
+    "groupID": 474,
+    "name": "Crimson Gauntlet Shortcut Keypass "
+  },
+  "73432": {
+    "groupID": 474,
+    "name": "Tetrimon Base Shortcut Keypass "
+  },
+  "73440": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Station 6 (Do Not Translate)"
+  },
+  "73441": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Station 1 (Do Not Translate)"
+  },
+  "73442": {
+    "groupID": 1975,
+    "name": "Non-interactable Caldari Navy Station 4 (Do Not Translate)"
   }
 }

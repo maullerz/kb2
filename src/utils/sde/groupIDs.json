@@ -13698,6 +13698,60 @@
     "published": true,
     "useBasePrice": true
   },
+  "4430": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Belt",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4431": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "FW Amarr Empire Battleship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4432": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "FW Caldari State Battleship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4433": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "FW Gallente Federation Battleship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4434": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "FW Minmatar Republic Battleship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4477": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "Mobile Objective",
+    "published": true,
+    "useBasePrice": true
+  },
   "350858": {
     "anchorable": false,
     "anchored": false,

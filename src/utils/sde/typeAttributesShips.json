@@ -8,6 +8,7 @@
     "displayNameID": {
       "de": "Gegenstandsschaden",
       "en": "Item Damage",
+      "es": "Daño de objeto",
       "fr": "Objet endommagé",
       "ja": "アイテムダメージ",
       "ko": "아이템 손상도",
@@ -22,6 +23,7 @@
     "tooltipDescriptionID": {
       "de": "Modulschaden",
       "en": "Module Damage",
+      "es": "Daño del módulo",
       "fr": "Détérioration du module",
       "ja": "モジュールへのダメージ",
       "ko": "모듈 피해량",
@@ -31,6 +33,7 @@
     "tooltipTitleID": {
       "de": "Modulschaden",
       "en": "Module Damage",
+      "es": "Daño del módulo",
       "fr": "Détérioration du module",
       "ja": "モジュールへのダメージ",
       "ko": "모듈 피해량",
@@ -48,6 +51,7 @@
     "displayNameID": {
       "de": "HP der Struktur",
       "en": "Structure Hitpoints",
+      "es": "Vida estructura",
       "fr": "PV de la structure",
       "ja": "ストラクチャのヒットポイント",
       "ko": "내구도",
@@ -62,6 +66,7 @@
     "tooltipDescriptionID": {
       "de": "Die HP der Struktur regeneriert sich nicht von alleine, kann aber von Modulen oder Stationsdiensten repariert werden",
       "en": "Structure hitpoints do not regenerate naturally but can be repaired by modules or station services",
+      "es": "Los puntos de vida de la estructura no se regeneran automáticamente, sino mediante módulos o servicios de la estación.",
       "fr": "Les PV de la structure ne se régénèrent pas automatiquement, mais peuvent être réparés par des modules ou des stations.",
       "ja": "自動的には回復せず、モジュールやステーションサービスで修復されます",
       "ko": "내구도는 자동으로 재생되지 않으며 모듈이나 정거장 서비스를 이용해 수리할 수 있습니다.",
@@ -71,6 +76,7 @@
     "tooltipTitleID": {
       "de": "HP der Struktur",
       "en": "Structure Hitpoints",
+      "es": "Puntos de vida de la estructura",
       "fr": "PV de la structure",
       "ja": "ストラクチャのヒットポイント",
       "ko": "내구도",
@@ -88,6 +94,7 @@
     "displayNameID": {
       "de": "Stromnetzleistung",
       "en": "Powergrid Output",
+      "es": "Rendimiento sistema potencia",
       "fr": "Puissance du réseau d'alimentation",
       "ja": "パワーグリッド出力",
       "ko": "파워그리드",
@@ -110,6 +117,7 @@
     "displayNameID": {
       "de": "Low Slots",
       "en": "Low Slots",
+      "es": "Ranuras inferiores",
       "fr": "Emplacements basse puissance",
       "ja": "ローパワースロット",
       "ko": "로우 슬롯",
@@ -132,6 +140,7 @@
     "displayNameID": {
       "de": "Medium Slots",
       "en": "Medium Slots",
+      "es": "Ranuras medias",
       "fr": "Emplacements intermédiaires",
       "ja": "ミディアムスロット",
       "ko": "미디움 슬롯",
@@ -154,6 +163,7 @@
     "displayNameID": {
       "de": "High Slots",
       "en": "High Slots",
+      "es": "Ranuras superiores",
       "fr": "Emplacements haute puissance",
       "ja": "ハイパワースロット",
       "ko": "하이 슬롯",
@@ -176,6 +186,7 @@
     "displayNameID": {
       "de": "Energielast",
       "en": "Power Load",
+      "es": "Potencia de carga",
       "fr": "Facteur de charge",
       "ja": "パワー負荷",
       "ko": "전력 사용량",
@@ -209,6 +220,7 @@
     "displayNameID": {
       "de": "Höchstgeschwindigkeitsbonus",
       "en": "Maximum Velocity Bonus",
+      "es": "Bonificación de velocidad máxima",
       "fr": "Bonus de vitesse maximale",
       "ja": "最高速度ボーナス",
       "ko": "최대 속도 보너스",
@@ -242,6 +254,7 @@
     "displayNameID": {
       "de": "Stromnetzbedarf",
       "en": "Powergrid Usage",
+      "es": "Uso del sistema de potencia",
       "fr": "Utilisation du réseau d'alimentation",
       "ja": "パワーグリッドの使用量",
       "ko": "파워그리드 사용량",
@@ -264,6 +277,7 @@
     "displayNameID": {
       "de": "Maximalgeschwindigkeit",
       "en": "Maximum Velocity",
+      "es": "Velocidad máxima",
       "fr": "Vitesse maximale",
       "ja": "最高速度",
       "ko": "최대 속도",
@@ -279,6 +293,7 @@
     "tooltipDescriptionID": {
       "de": "Die maximale Geschwindigkeit, die dieses Schiff ohne Warpantrieb erreichen kann",
       "en": "The maximum velocity that can be achieved in subwarp flight",
+      "es": "La velocidad máxima en vuelos de subwarp.",
       "fr": "La vitesse maximale pouvant être atteinte en sous-warp.",
       "ja": "サブワープ航行時に到達できる最高速度です",
       "ko": "서브워프 비행시 낼 수 있는 최대 속도입니다.",
@@ -288,6 +303,7 @@
     "tooltipTitleID": {
       "de": "Maximale Geschwindigkeit",
       "en": "Maximum Velocity",
+      "es": "Velocidad máxima",
       "fr": "Vitesse maximale",
       "ja": "最高速度",
       "ko": "최대 속도",
@@ -305,6 +321,7 @@
     "displayNameID": {
       "de": "CPU-Leistung",
       "en": "CPU Output",
+      "es": "Rendimiento CPU",
       "fr": "Puissance CPU",
       "ja": "CPU 出力",
       "ko": "CPU",
@@ -327,6 +344,7 @@
     "displayNameID": {
       "de": "CPU-Auslastung",
       "en": "CPU Load",
+      "es": "Carga de la CPU",
       "fr": "Charge CPU",
       "ja": "CPU 負荷",
       "ko": "CPU 사용량",
@@ -349,6 +367,7 @@
     "displayNameID": {
       "de": "CPU-Auslastung",
       "en": "CPU usage",
+      "es": "Uso de la CPU",
       "fr": "Utilisation CPU",
       "ja": "CPUの使用量",
       "ko": "CPU 사용량",
@@ -371,6 +390,7 @@
     "displayNameID": {
       "de": "Feuerrate",
       "en": "Rate of fire",
+      "es": "Cadencia de tiro",
       "fr": "Cadence de tir",
       "ja": "発射間隔",
       "ko": "연사속도",
@@ -393,6 +413,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal Range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -415,6 +436,7 @@
     "displayNameID": {
       "de": "Wiederaufladezeit des Energiespeichers",
       "en": "Capacitor Recharge time",
+      "es": "Tiempo carga condensador",
       "fr": "Temps de recharge du capaciteur",
       "ja": "キャパシタリチャージ時間",
       "ko": "캐패시터 충전 시간",
@@ -429,6 +451,7 @@
     "tooltipDescriptionID": {
       "de": "Benötigte Zeit um den Energiespeicher wieder voll aufzuladen",
       "en": "Amount of time taken to fully recharge the capacitor",
+      "es": "Cantidad de tiempo necesaria para cargar por completo el condensador.",
       "fr": "Temps nécessaire à la recharge totale du capaciteur.",
       "ja": "キャパシタのフル充電にかかる時間です",
       "ko": "캐패시터를 전부 충전하기까지 걸리는 시간입니다.",
@@ -438,6 +461,7 @@
     "tooltipTitleID": {
       "de": "Wiederaufladezeit des Energiespeichers",
       "en": "Capacitor Recharge Time",
+      "es": "Tiempo de carga del condensador",
       "fr": "Temps de recharge du capaciteur",
       "ja": "キャパシタリチャージ時間",
       "ko": "캐패시터 충전 시간",
@@ -455,6 +479,7 @@
     "displayNameID": {
       "de": "Laderate je Zyklus",
       "en": "Charges Per Cycle",
+      "es": "Cargas por ciclo",
       "fr": "Charges par cycle",
       "ja": "サイクルあたりチャージ",
       "ko": "주기당 충전량",
@@ -488,6 +513,7 @@
     "displayNameID": {
       "de": "Schadensmodifikator",
       "en": "Damage Modifier",
+      "es": "Modificador de daño",
       "fr": "Modificateur de dommages",
       "ja": "ダメージ修正乗数",
       "ko": "피해량 보정치",
@@ -510,6 +536,7 @@
     "displayNameID": {
       "de": "Laufzeitbonus",
       "en": "Duration Bonus",
+      "es": "Bonificación de duración",
       "fr": "Bonus de durée",
       "ja": "起動時間ボーナス",
       "ko": "지속시간 보너스",
@@ -532,6 +559,7 @@
     "displayNameID": {
       "de": "Trägheitsmodifikator",
       "en": "Inertia Modifier",
+      "es": "Modificador de inercia",
       "fr": "Modificateur d'inertie",
       "ja": "慣性修正乗数",
       "ko": "관성 계수",
@@ -546,6 +574,7 @@
     "tooltipDescriptionID": {
       "de": "Bei abnehmenden Wert werden Beschleunigung und Wendegeschwindigkeit positiv beeinflusst",
       "en": "Affects acceleration and turning speed positively as the value decreases",
+      "es": "Afecta positivamente a la aceleración y a la velocidad de giro conforme se reduce el valor.",
       "fr": "Augmente l'accélération et la vitesse dans les virages lorsque cette valeur diminue.",
       "ja": "数値が減少すると加速・回転スピードに影響します",
       "ko": "수치가 낮을수록 가속도 및 방향 전환 속도가 증가합니다.",
@@ -555,6 +584,7 @@
     "tooltipTitleID": {
       "de": "Trägheitsmodifikator",
       "en": "Inertia Modifier",
+      "es": "Modificador de inercia",
       "fr": "Modificateur d'inertie",
       "ja": "慣性乗数",
       "ko": "관성 계수",
@@ -572,6 +602,7 @@
     "displayNameID": {
       "de": "Aktivierungszeit / -dauer",
       "en": "Activation time / duration",
+      "es": "Tiempo de activación/duración",
       "fr": "Délai / Durée d'activation",
       "ja": "起動（待機）時間",
       "ko": "활성화 시간 / 지속시간",
@@ -594,6 +625,7 @@
     "displayNameID": {
       "de": "Max. Zielaufschaltungsreichweite",
       "en": "Maximum Targeting Range",
+      "es": "Distancia-objetivo máxima",
       "fr": "Portée maximale du système de ciblage",
       "ja": "最大ターゲット範囲",
       "ko": "최대 타겟팅 거리",
@@ -609,6 +641,7 @@
     "tooltipDescriptionID": {
       "de": "Die maximale Reichweite, in der Ziele aufgeschaltet und erfasst gehalten werden können",
       "en": "The maximum range at which it is possible to acquire and hold target locks",
+      "es": "El alcance máximo en el que es posible adquirir y mantener objetivos fijados.",
       "fr": "La portée maximale à laquelle il est possible d'acquérir et de maintenir le verrouillage de cible.",
       "ja": "ターゲットを捕捉・ロックできる最大範囲です",
       "ko": "타겟을 확보하고 조준 완료할 수 있는 최대 거리입니다.",
@@ -618,6 +651,7 @@
     "tooltipTitleID": {
       "de": "Maximale Zielerfassungsreichweite",
       "en": "Maximum Targeting Range",
+      "es": "Distancia-objetivo máxima",
       "fr": "Portée maximale du système de ciblage",
       "ja": "最大ターゲット範囲",
       "ko": "최대 타겟팅 거리",
@@ -648,6 +682,7 @@
     "displayNameID": {
       "de": "Neutralisierungsmenge",
       "en": "Neutralization Amount",
+      "es": "Cantidad de neutralización",
       "fr": "Quantité de neutralisation",
       "ja": "無効化量",
       "ko": "뉴트럴라이저 수치",
@@ -670,6 +705,7 @@
     "displayNameID": {
       "de": "Neutralisierung - Optimale Reichweite",
       "en": "Neutralization Optimal Range",
+      "es": "Alcance óptimo de neutralización",
       "fr": "Portée optimale de neutralisation",
       "ja": "ニュートライザーの最適射程距離",
       "ko": "뉴트럴라이제이션 최적사거리",
@@ -692,6 +728,7 @@
     "displayNameID": {
       "de": "Montageplätze für Werfer",
       "en": "Launcher Hardpoints",
+      "es": "Puntos montaje lanzador",
       "fr": "Points de fixation pour lanceur",
       "ja": "ランチャーハードポイント",
       "ko": "런처 슬롯",
@@ -706,6 +743,7 @@
     "tooltipDescriptionID": {
       "de": "Diese Montageplätze schränken die Anzahl an ausrüstbaren Lenkwaffenwerfer-Modulen ein",
       "en": "These hardpoints limit the number of missile launcher modules that can be fitted",
+      "es": "Estos puntos de montaje limitan el número de módulos lanzamisiles que se pueden equipar.",
       "fr": "Ces points de fixation limitent le nombre de modules de lance-missiles pouvant être équipés.",
       "ja": "ミサイルランチャーモジュールの装備可能な数を示します",
       "ko": "미사일 런처를 장착할 수 있는 최대 개수입니다.",
@@ -715,6 +753,7 @@
     "tooltipTitleID": {
       "de": "Montageplätze für Werfer",
       "en": "Launcher Hardpoints",
+      "es": "Puntos de montaje de lanzador",
       "fr": "Points de fixation pour lanceur",
       "ja": "ランチャーハードポイント",
       "ko": "런처 슬롯",
@@ -732,6 +771,7 @@
     "displayNameID": {
       "de": "Montageplätze für Geschütztürme",
       "en": "Turret Hardpoints",
+      "es": "Puntos montaje torreta",
       "fr": "Points de fixation de tourelle",
       "ja": "タレットハードポイント",
       "ko": "터렛 슬롯",
@@ -746,6 +786,7 @@
     "tooltipDescriptionID": {
       "de": "Diese Montageplätze schränken die Anzahl an ausrüstbaren Waffen- und Bergbautürmen ein",
       "en": "These hardpoints limit the number of gunnery and mining turrets that can be fitted",
+      "es": "Estos puntos de montaje limitan el número de torretas artilleras y mineras que se pueden equipar.",
       "fr": "Ces points de fixation limitent le nombre de tourelles d'armement et d'extraction minière pouvant être équipées.",
       "ja": "ガンナリーおよび採掘タレットの装備可能な数を示します",
       "ko": "터렛 및 채굴 레이저를 장착할 수 있는 최대 개수입니다.",
@@ -755,6 +796,7 @@
     "tooltipTitleID": {
       "de": "Montageplätze für Geschütztürme",
       "en": "Turret Hardpoints",
+      "es": "Puntos de montaje de torreta",
       "fr": "Points de fixation de tourelle",
       "ja": "タレットハードポイント",
       "ko": "터렛 슬롯",
@@ -772,6 +814,7 @@
     "displayNameID": {
       "de": "Warpstörungsreichweite",
       "en": "Warp Disruption Range",
+      "es": "Alcance de disrupción de warp",
       "fr": "Portée de perturbation de warp",
       "ja": "ワープ妨害範囲",
       "ko": "워프 디스럽션 사거리",
@@ -794,6 +837,7 @@
     "displayNameID": {
       "de": "Warp-Störungsstatus",
       "en": "Warp Scramble Status",
+      "es": "Estado de distorsión de warp",
       "fr": "Statut de l'inhibition de warp",
       "ja": "ワープスクランブルステータス",
       "ko": "워프 스크램블 수치",
@@ -814,6 +858,7 @@
     "displayNameID": {
       "de": "Warp-Störungsstärke",
       "en": "Warp Scramble Strength",
+      "es": "Intensidad de distorsión de warp",
       "fr": "Force de l'inhibition de warp",
       "ja": "ワープスクランブル強度",
       "ko": "워프 스크램블 강도",
@@ -835,6 +880,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Struktur gegen Kinetikschaden",
       "en": "Structure Kinetic Damage Resistance",
+      "es": "Resistencia cinética estructuras",
       "fr": "Résistance de la structure aux dégâts cinétiques",
       "ja": "ストラクチャキネティックダメージレジスタンス",
       "ko": "선체 키네틱 저항력",
@@ -858,6 +904,7 @@
     "displayNameID": {
       "de": "Resistenz der Struktur gegen Thermalschaden",
       "en": "Structure Thermal Damage Resistance",
+      "es": "Resistencia térmica estructuras",
       "fr": "Résistance de la structure aux dégâts thermiques",
       "ja": "ストラクチャサーマルダメージレジスタンス",
       "ko": "선체 열 저항력",
@@ -881,6 +928,7 @@
     "displayNameID": {
       "de": "Resistenz der Struktur gegen Explosionsschaden",
       "en": "Structure Explosive Damage Resistance",
+      "es": "Resistencia explosiva estructuras",
       "fr": "Résistance de la structure aux dégâts explosifs",
       "ja": "ストラクチャエクスプローシブダメージレジスタンス",
       "ko": "선체 폭발 저항력",
@@ -904,6 +952,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Struktur gegen EM-Schaden",
       "en": "Structure EM Damage Resistance",
+      "es": "Resistencia electrom. estructuras",
       "fr": "Résistance de la structure aux dégâts électromagnétiques",
       "ja": "ストラクチャEMダメージレジスタンス",
       "ko": "선체 EM 저항력",
@@ -938,6 +987,7 @@
     "displayNameID": {
       "de": "Ladungsgröße",
       "en": "Charge size",
+      "es": "Tamaño de carga",
       "fr": "Taille de la charge",
       "ja": "チャージサイズ",
       "ko": "탄약 크기",
@@ -972,6 +1022,7 @@
     "displayNameID": {
       "de": "Bonus auf Thermalschadensresistenz",
       "en": "Thermal Damage Resistance Bonus",
+      "es": "Bonificación de resistencia a daños térmicos",
       "fr": "Bonus de résistance aux dégâts thermiques",
       "ja": "サーマルダメージレジスタンスボーナス",
       "ko": "열 저항력 보너스",
@@ -994,6 +1045,7 @@
     "displayNameID": {
       "de": "Bonus auf Kinetikschadensresistenz",
       "en": "Kinetic Damage Resistance Bonus",
+      "es": "Bonificación de resistencia a daños cinéticos",
       "fr": "Bonus de résistance aux dégâts cinétiques",
       "ja": "キネティックダメージレジスタンスボーナス",
       "ko": "키네틱 저항력 보너스",
@@ -1016,6 +1068,7 @@
     "displayNameID": {
       "de": "Bonus auf Explosionsschadensresistenz",
       "en": "Explosive Damage Resistance Bonus",
+      "es": "Bonificación de resistencia a daños explosivos",
       "fr": "Bonus de résistance aux dégâts explosifs",
       "ja": "エクスプローシブダメージレジスタンスボーナス",
       "ko": "폭발 저항력 보너스",
@@ -1038,6 +1091,7 @@
     "displayNameID": {
       "de": "Bonus auf EM-Schadensresistenz",
       "en": "EM Damage Resistance Bonus",
+      "es": "Bonificación de resistencia a daños electromagnéticos",
       "fr": "Bonus de résistance aux dégâts électromagnétiques",
       "ja": "EMダメージレジスタンスボーナス",
       "ko": "EM 저항력 보너스",
@@ -1082,6 +1136,7 @@
     "displayNameID": {
       "de": "Aktivierungsentfernung",
       "en": "Activation proximity",
+      "es": "Proximidad de activación",
       "fr": "Proximité d'activation",
       "ja": "動作可能距離範囲",
       "ko": "활성화 근접도",
@@ -1115,6 +1170,7 @@
     "displayNameID": {
       "de": "Präzisionsabfall",
       "en": "Accuracy falloff ",
+      "es": "Alcance efectivo de precisión ",
       "fr": "Distance de perte de précision ",
       "ja": " 精度低下",
       "ko": "명중률 유효사거리 ",
@@ -1137,6 +1193,7 @@
     "displayNameID": {
       "de": "Geschützturmnachführung",
       "en": "Turret Tracking",
+      "es": "Rastreo de torreta",
       "fr": "Suivi des tourelles",
       "ja": "タレット追跡",
       "ko": "터렛 트래킹",
@@ -1151,6 +1208,7 @@
     "tooltipDescriptionID": {
       "de": "Höhere Werte verbessern die Genauigkeiten gegenüber kleinen und schnellen Zielen",
       "en": "Higher values improve accuracy against small and fast targets",
+      "es": "Cuanto más alto sea el valor, mayor será la precisión contra objetivos pequeños y rápidos.",
       "fr": "Des valeurs plus élevées améliorent la précision contre les petites cibles plus rapides.",
       "ja": "この値が高いと小型で機動力の高いターゲットに対する精度が向上する",
       "ko": "값이 높을수록 작고 빠른 목표물을 더 잘 맞힙니다.",
@@ -1160,6 +1218,7 @@
     "tooltipTitleID": {
       "de": "Geschützturmnachführung",
       "en": "Turret Tracking",
+      "es": "Rastreo de torreta",
       "fr": "Suivi des tourelles",
       "ja": "タレット追跡",
       "ko": "터렛 트래킹",
@@ -1176,6 +1235,7 @@
     "displayNameID": {
       "de": "Primärer Skill benötigt",
       "en": "Primary Skill required",
+      "es": "Habilidad principal necesaria",
       "fr": "Compétence principale requise",
       "ja": "第一必須スキル",
       "ko": "1차 스킬 필요",
@@ -1197,6 +1257,7 @@
     "displayNameID": {
       "de": "Sekundärer Skill benötigt",
       "en": "Secondary Skill required",
+      "es": "Habilidad secundaria necesaria",
       "fr": "Compétence secondaire requise",
       "ja": "第二必須スキル",
       "ko": "2차 스킬 필요",
@@ -1218,6 +1279,7 @@
     "displayNameID": {
       "de": "Tertiärer Skill benötigt",
       "en": "Tertiary Skill required",
+      "es": "Habilidad terciaria necesaria",
       "fr": "Compétence tertiaire requise",
       "ja": "第三必須スキル",
       "ko": "3차 스킬 필요",
@@ -1260,6 +1322,7 @@
     "displayNameID": {
       "de": "Maximal erfassbare Ziele",
       "en": "Maximum Locked Targets",
+      "es": "Objetivos fijados máximos",
       "fr": "Cibles verrouillées maximum",
       "ja": "最大ターゲットロック数",
       "ko": "최대 타겟 수",
@@ -1274,6 +1337,7 @@
     "tooltipDescriptionID": {
       "de": "Die maximale Anzahl an Zielen, die gleichzeitig aufgeschaltet werden können",
       "en": "The maximum number of targets that can be locked simultaneously",
+      "es": "N.º máx. de objetivos que se pueden fijar a la vez",
       "fr": "Le nombre maximum de cibles pouvant être verrouillées simultanément.",
       "ja": "同時にロックできるターゲットの最大数です",
       "ko": "동시에 고정할 수 있는 최대 타겟 수입니다.",
@@ -1283,6 +1347,7 @@
     "tooltipTitleID": {
       "de": "Maximal erfassbare Ziele",
       "en": "Maximum Locked Targets",
+      "es": "Máximo de objetivos fijados",
       "fr": "Cibles verrouillées maximum",
       "ja": "最大ターゲットロック数",
       "ko": "최대 타겟 수",
@@ -1299,6 +1364,7 @@
     "displayNameID": {
       "de": "Bergbauertrag-Multiplikator",
       "en": "Mining Amount Multiplier",
+      "es": "Multiplicador de cantidad extraída",
       "fr": "Multiplicateur de minerai extrait",
       "ja": "採掘量乗数",
       "ko": "채굴 총량 배수",
@@ -1319,6 +1385,7 @@
     "displayNameID": {
       "de": "RADAR-Sensorstärke",
       "en": "RADAR Sensor Strength",
+      "es": "Intensidad sensor radar",
       "fr": "Puissance de détection radar",
       "ja": "電波センサー強度",
       "ko": "레이더 센서 강도",
@@ -1333,6 +1400,7 @@
     "tooltipDescriptionID": {
       "de": "Ein höherer Wert reduziert die Chance von ECM gestört zu werden und hilft der Erfassung von Sonden zu entgehen",
       "en": "Larger values reduce the chance of being jammed by ECM and assist in avoiding detection by probes",
+      "es": "Los valores altos reducen las posibilidades de perturbación por parte de las ECM y de detección por parte de las sondas.",
       "fr": "Les grandes valeurs réduisent les chances de brouillage par les CME et permettent d'éviter la détection par les sondes.",
       "ja": "数値が大きいほどECMに妨害されにくくなり、プローブに探知されにくくなります",
       "ko": "값이 클수록 ECM에 재밍될 확률이 감소하며 프로브의 탐지를 보다 잘 피할 수 있습니다.",
@@ -1342,6 +1410,7 @@
     "tooltipTitleID": {
       "de": "Radar-Sensorstärke",
       "en": "Radar Sensor Strength",
+      "es": "Intensidad del sensor del radar",
       "fr": "Puissance de détection du radar",
       "ja": "電波センサー強度",
       "ko": "레이더 센서 강도",
@@ -1359,6 +1428,7 @@
     "displayNameID": {
       "de": "Ladar-Sensorstärke",
       "en": "Ladar Sensor Strength",
+      "es": "Intensidad sensor lidar",
       "fr": "Puissance de détection ladar",
       "ja": "光学センサー強度",
       "ko": "라이다 센서 강도",
@@ -1373,6 +1443,7 @@
     "tooltipDescriptionID": {
       "de": "Ein höherer Wert reduziert die Chance von ECM gestört zu werden und hilft der Erfassung von Sonden zu entgehen",
       "en": "Larger values reduce the chance of being jammed by ECM and assist in avoiding detection by probes",
+      "es": "Los valores altos reducen las posibilidades de perturbación por parte de las ECM y de detección por parte de las sondas.",
       "fr": "Les grandes valeurs réduisent les chances de brouillage par les CME et permettent d'éviter la détection par les sondes.",
       "ja": "数値が大きいほどECMに妨害されにくくなり、プローブに探知されにくくなります",
       "ko": "값이 클수록 ECM에 재밍될 확률이 감소하며 프로브의 탐지를 보다 잘 피할 수 있습니다.",
@@ -1382,6 +1453,7 @@
     "tooltipTitleID": {
       "de": "LADAR-Sensorstärke",
       "en": "Ladar Sensor Strength",
+      "es": "Intensidad del sensor lidar",
       "fr": "Puissance de détection ladar",
       "ja": "光学センサー強度",
       "ko": "라이다 센서 강도",
@@ -1399,6 +1471,7 @@
     "displayNameID": {
       "de": "Magnetometrische Sensorstärke",
       "en": "Magnetometric Sensor Strength",
+      "es": "Intensidad sensor magnetométrico",
       "fr": "Puissance de détection magnétométrique",
       "ja": "磁気センサー強度",
       "ko": "자기장 센서 강도",
@@ -1413,6 +1486,7 @@
     "tooltipDescriptionID": {
       "de": "Ein höherer Wert reduziert die Chance von ECM gestört zu werden und hilft der Erfassung von Sonden zu entgehen",
       "en": "Larger values reduce the chance of being jammed by ECM and assist in avoiding detection by probes",
+      "es": "Los valores altos reducen las posibilidades de perturbación por parte de las ECM y de detección por parte de las sondas.",
       "fr": "Les grandes valeurs réduisent les chances de brouillage par les CME et permettent d'éviter la détection par les sondes.",
       "ja": "数値が大きいほどECMに妨害されにくくなり、プローブに探知されにくくなります",
       "ko": "값이 클수록 ECM에 재밍될 확률이 감소하며 프로브의 탐지를 보다 잘 피할 수 있습니다.",
@@ -1422,6 +1496,7 @@
     "tooltipTitleID": {
       "de": "Magnetometrische Sensorstärke",
       "en": "Magnetometric Sensor Strength",
+      "es": "Intensidad del sensor magnetométrico",
       "fr": "Puissance de détection magnétométrique",
       "ja": "磁気センサー強度",
       "ko": "자기장 센서 강도",
@@ -1439,6 +1514,7 @@
     "displayNameID": {
       "de": "Gravimetrische Sensorstärke",
       "en": "Gravimetric Sensor Strength",
+      "es": "Intensidad sensor gravimétrico",
       "fr": "Puissance de détection gravimétrique",
       "ja": "重力センサー強度",
       "ko": "중력장 센서 강도",
@@ -1453,6 +1529,7 @@
     "tooltipDescriptionID": {
       "de": "Ein höherer Wert reduziert die Chance von ECM gestört zu werden und hilft der Erfassung von Sonden zu entgehen",
       "en": "Larger values reduce the chance of being jammed by ECM and assist in avoiding detection by probes",
+      "es": "Los valores altos reducen las posibilidades de perturbación por parte de las ECM y de detección por parte de las sondas.",
       "fr": "Les grandes valeurs réduisent les chances de brouillage par les CME et permettent d'éviter la détection par les sondes.",
       "ja": "数値が大きいほどECMに妨害されにくくなり、プローブに探知されにくくなります",
       "ko": "값이 클수록 ECM에 재밍될 확률이 감소하며 프로브의 탐지를 보다 잘 피할 수 있습니다.",
@@ -1462,6 +1539,7 @@
     "tooltipTitleID": {
       "de": "Gravimetrische Sensorstärke",
       "en": "Gravimetric Sensor Strength",
+      "es": "Intensidad del sensor gravimétrico",
       "fr": "Puissance de détection gravimétrique",
       "ja": "重力センサー強度",
       "ko": "중력장 센서 강도",
@@ -1479,6 +1557,7 @@
     "displayNameID": {
       "de": "Raketenschaden-Bonus",
       "en": "Missile Damage Bonus",
+      "es": "Bonificación de daño de misiles",
       "fr": "Bonus de dégât des missiles",
       "ja": "ミサイルダメージボーナス",
       "ko": "미사일 피해 보너스",
@@ -1500,6 +1579,7 @@
     "displayNameID": {
       "de": "Energiespeicher-Verbrauchsmultiplikator",
       "en": "Capacitor Need Multiplier",
+      "es": "Mult. de necesidad del condensador",
       "fr": "Multiplicateur des besoins énergétiques du capaciteur",
       "ja": "キャパシタ消費乗数",
       "ko": "캐패시터 요구량 조정",
@@ -1533,6 +1613,7 @@
     "displayNameID": {
       "de": "Bonus für maximal aufgeschaltete Ziele",
       "en": "Maximum Locked Targets Bonus",
+      "es": "Bonificación de objetivos fijados máx.",
       "fr": "Bonus de cibles verrouillées maximum",
       "ja": "最大ターゲットロック数ボーナス",
       "ko": "최대 타겟 수 보너스",
@@ -1555,6 +1636,7 @@
     "displayNameID": {
       "de": "Gravimetrische ECM-Zielstörsenderstärke",
       "en": "Gravimetric ECM Jammer Strength",
+      "es": "Intensidad del perturbador ECM gravimétrico",
       "fr": "Puissance gravimétrique CME",
       "ja": "重力ECMジャマー強度",
       "ko": "중력장 ECM 재머 강도",
@@ -1576,6 +1658,7 @@
     "displayNameID": {
       "de": "Ladar-ECM-Zielstörsenderstärke",
       "en": "Ladar ECM Jammer Strength",
+      "es": "Intensidad del perturbador ECM lidar",
       "fr": "Puissance de détection ladar CME",
       "ja": "対光レーダーECMジャマーの強度",
       "ko": "라이다 ECM 재머 강도",
@@ -1597,6 +1680,7 @@
     "displayNameID": {
       "de": "Magnetometrische ECM-Zielstörsenderstärke",
       "en": "Magnetometric ECM Jammer Strength",
+      "es": "Intensidad del perturbador ECM magnetométrico",
       "fr": "Puissance magnétométrique CME",
       "ja": "磁気ECMジャマーの強度",
       "ko": "자기 ECM 재머 강도",
@@ -1618,6 +1702,7 @@
     "displayNameID": {
       "de": "RADAR-ECM-Zielstörsenderstärke",
       "en": "RADAR ECM Jammer Strength",
+      "es": "Intensidad del perturbador ECM del radar",
       "fr": "Puissance de détection radar CME",
       "ja": "対レーダーECMジャマーの強度",
       "ko": "레이더 ECM 재머 강도",
@@ -1661,6 +1746,7 @@
     "displayNameID": {
       "de": "Schildkapazität",
       "en": "Shield Capacity",
+      "es": "Capacidad del escudo",
       "fr": "Capacité du bouclier",
       "ja": "シールド容量",
       "ko": "실드량",
@@ -1675,6 +1761,7 @@
     "tooltipDescriptionID": {
       "de": "Die HP der Schilde laden sich mit der Zeit wieder auf und können durch den Einsatz von Modulen schneller regeneriert werden",
       "en": "Shield hitpoints recharge over time and can be recovered more quickly with the use of modules",
+      "es": "Los puntos de vida del escudo se recargan con el tiempo y se pueden recuperar más rápido utilizando módulos.",
       "fr": "Les PV du bouclier se rechargent avec le temps, un processus qui peut être encore amélioré grâce à l'utilisation de modules.",
       "ja": "時間経過で再充電し、モジュールを使用すればさらに素早く回復します",
       "ko": "실드 내구도는 시간이 지나면 충전되며 모듈을 사용하면 더 빨리 회복됩니다.",
@@ -1684,6 +1771,7 @@
     "tooltipTitleID": {
       "de": "Schildkapazität",
       "en": "Shield Capacity",
+      "es": "Capacidad escudo",
       "fr": "Capacité du bouclier",
       "ja": "シールド容量",
       "ko": "실드량",
@@ -1701,6 +1789,7 @@
     "displayNameID": {
       "de": "Panzerung-HP",
       "en": "Armor Hitpoints",
+      "es": "Vida blindaje",
       "fr": "PV du blindage",
       "ja": "アーマーヒットポイント",
       "ko": "장갑 내구도",
@@ -1715,6 +1804,7 @@
     "tooltipDescriptionID": {
       "de": "Die HP der Panzerung regeneriert sich nicht von alleine, kann aber von Modulen oder Stationsdiensten repariert werden",
       "en": "Armor hitpoints do not regenerate naturally but can be repaired by modules or station services",
+      "es": "Los puntos de vida del blindaje no se regeneran automáticamente, sino mediante módulos o servicios de la estación.",
       "fr": "Les PV du blindage ne se régénèrent pas automatiquement, mais peuvent être réparés par des modules ou des stations.",
       "ja": "自動的には回復せず、モジュールやステーションサービスで修復されます",
       "ko": "장갑 내구도는 자동으로 재생되지 않으며 모듈이나 정거장 서비스를 이용해 수리할 수 있습니다.",
@@ -1724,6 +1814,7 @@
     "tooltipTitleID": {
       "de": "HP der Panzerung",
       "en": "Armor Hitpoints",
+      "es": "Puntos de vida del blindaje",
       "fr": "PV du blindage",
       "ja": "アーマーヒットポイント",
       "ko": "장갑 내구도",
@@ -1741,6 +1832,7 @@
     "displayNameID": {
       "de": "Panzerungsschaden",
       "en": "Armor Damage",
+      "es": "Daño de blindaje",
       "fr": "Dégâts de blindage",
       "ja": "アーマーダメージ",
       "ko": "장갑 피해량",
@@ -1762,6 +1854,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Panzerung gegen EM-Schaden",
       "en": "Armor EM Damage Resistance",
+      "es": "Resistencia electrom. blindaje",
       "fr": "Résistance du blindage aux dégâts EM",
       "ja": "アーマーEMダメージレジスタンス",
       "ko": "장갑 EM 저항력",
@@ -1785,6 +1878,7 @@
     "displayNameID": {
       "de": "Panzerung-Explosivschadensresistenz",
       "en": "Armor Explosive Damage Resistance",
+      "es": "Resistencia explosiva blindaje",
       "fr": "Résistance du blindage aux dégâts explosifs",
       "ja": "アーマーエクスプローシブダメージレジスタンス",
       "ko": "장갑 폭발 저항력",
@@ -1808,6 +1902,7 @@
     "displayNameID": {
       "de": "Kinetikschadensresistenz der Panzerung",
       "en": "Armor Kinetic Damage Resistance",
+      "es": "Resistencia cinética blindaje",
       "fr": "Résistance du blindage aux dégâts cinétiques",
       "ja": "アーマーキネティックダメージレジスタンス",
       "ko": "장갑 키네틱 저항력",
@@ -1831,6 +1926,7 @@
     "displayNameID": {
       "de": "Thermalschadensresistenz der Panzerung",
       "en": "Armor Thermal Damage Resistance",
+      "es": "Resistencia térmica blindaje",
       "fr": "Résistance du blindage aux dégâts thermiques",
       "ja": "アーマーサーマルダメージレジスタンス",
       "ko": "장갑 열 저항력",
@@ -1854,6 +1950,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Schilde gegen EM-Schaden",
       "en": "Shield EM Damage Resistance",
+      "es": "Resistencia al daño electromagnético del escudo",
       "fr": "Résistance du bouclier aux dégâts EM",
       "ja": "シールドEMダメージレジスタンス",
       "ko": "실드 EM 저항력",
@@ -1877,6 +1974,7 @@
     "displayNameID": {
       "de": "Explosivschadensresistenz der Schilde",
       "en": "Shield Explosive Damage Resistance",
+      "es": "Resistencia explosiva escudo",
       "fr": "Résistance du bouclier aux dégâts explosifs",
       "ja": "シールドエクスプローシブダメージレジスタンス",
       "ko": "실드 폭발 저항력",
@@ -1900,6 +1998,7 @@
     "displayNameID": {
       "de": "Kinetikschadensresistenz der Schilde",
       "en": "Shield Kinetic Damage Resistance",
+      "es": "Resistencia al daño cinético del escudo",
       "fr": "Résistance du bouclier aux dégâts cinétiques",
       "ja": "シールドキネティックダメージレジスタンス",
       "ko": "실드 키네틱 저항력",
@@ -1923,6 +2022,7 @@
     "displayNameID": {
       "de": "Thermalschadensresistenz der Schilde",
       "en": "Shield Thermal Damage Resistance",
+      "es": "Resistencia al daño térmico del escudo",
       "fr": "Résistance du bouclier aux dégâts thermiques",
       "ja": "シールドサーマルダメージレジスタンス",
       "ko": "실드 열 저항력",
@@ -1979,6 +2079,7 @@
     "displayNameID": {
       "de": "Level",
       "en": "Level",
+      "es": "Nivel",
       "fr": "Niveau",
       "ja": "レベル",
       "ko": "레벨",
@@ -2000,6 +2101,7 @@
     "displayNameID": {
       "de": "Drohnenkapazität",
       "en": "Drone Capacity",
+      "es": "Capacidad drones",
       "fr": "Capacité du hangar à drones",
       "ja": "ドローン収容量",
       "ko": "드론 적재량",
@@ -2014,6 +2116,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Drohnenhangar transportiert werden kann",
       "en": "The maximum volume that can be carried in the drone bay",
+      "es": "El volumen máximo que puede transportarse en el muelle de drones.",
       "fr": "Volume maximum pouvant être transporté dans le hangar à drones.",
       "ja": "ドローンベイで運搬できる最大容量です",
       "ko": "드론 격납고의 총 적재량입니다.",
@@ -2023,6 +2126,7 @@
     "tooltipTitleID": {
       "de": "Drohnenkapazität",
       "en": "Drone Capacity",
+      "es": "Capacidad de los drones",
       "fr": "Capacité du hangar à drones",
       "ja": "ドローン容量",
       "ko": "드론 적재량",
@@ -2040,6 +2144,7 @@
     "displayNameID": {
       "de": "Maximaler Zielerfassungsreichweite-Bonus",
       "en": "Maximum Targeting Range Bonus",
+      "es": "Bonificación de distancia-objetivo máxima",
       "fr": "Bonus de portée maximale du système de ciblage",
       "ja": "最大ターゲット範囲ボーナス",
       "ko": "최대 타겟팅 거리 보너스",
@@ -2062,6 +2167,7 @@
     "displayNameID": {
       "de": "CPU-Bedarfsbonus",
       "en": "CPU Need Bonus",
+      "es": "Bonificación de necesidad de la CPU",
       "fr": "Bonus de charge CPU",
       "ja": "CPU使用量ボーナス",
       "ko": "CPU 요구량 보너스",
@@ -2084,6 +2190,7 @@
     "displayNameID": {
       "de": "Energieleistung-Bonus",
       "en": "Power Output Bonus",
+      "es": "Bonificación de potencia de salida",
       "fr": "Bonus de puissance énergétique",
       "ja": "パワーグリッドボーナス",
       "ko": "전력 출력 보너스",
@@ -2106,6 +2213,7 @@
     "displayNameID": {
       "de": "Reduktionsbonus",
       "en": "Falloff Bonus",
+      "es": "Bonificación de alcance efectivo",
       "fr": "Bonus de distance de perte",
       "ja": "精度低下ボーナス",
       "ko": "유효사거리 보너스",
@@ -2128,6 +2236,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite-Bonus",
       "en": "Optimal Range Bonus",
+      "es": "Bonificación de alcance óptimo",
       "fr": "Bonus de portée optimale",
       "ja": "最適射程距離ボーナス",
       "ko": "최적사거리 보너스",
@@ -2162,6 +2271,7 @@
     "displayNameID": {
       "de": "Tech-Level",
       "en": "Tech Level",
+      "es": "Nivel de tecnología",
       "fr": "Niveau technologique",
       "ja": "テックレベル",
       "ko": "테크 레벨",
@@ -2184,6 +2294,7 @@
     "displayNameID": {
       "de": "CPU Leistungsbonus",
       "en": "CPU Output Bonus",
+      "es": "Bonificación de rendimiento de la CPU",
       "fr": "Bonus de puissance du CPU",
       "ja": "CPU出力ボーナス",
       "ko": "CPU 출력 보너스",
@@ -2206,6 +2317,7 @@
     "displayNameID": {
       "de": "Max. aktive Kommando-Relais",
       "en": "Maximum Active Command Relays",
+      "es": "Máx. de relés de mando activos",
       "fr": "Relais de commandement actifs max.",
       "ja": "コマンドリレー最大稼働数",
       "ko": "최대 지휘통신소 수",
@@ -2228,6 +2340,7 @@
     "displayNameID": {
       "de": "Bonus für spezielle Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -2346,6 +2459,7 @@
     "displayNameID": {
       "de": "Schildladezeit",
       "en": "Shield recharge time",
+      "es": "Tiempo carga escudo",
       "fr": "Temps de recharge du bouclier",
       "ja": "シールドリチャージ時間",
       "ko": "실드 충전 시간",
@@ -2360,6 +2474,7 @@
     "tooltipDescriptionID": {
       "de": "Benötigte Zeit, um die Schilde wieder voll aufzuladen",
       "en": "Amount of time taken to fully recharge the shield",
+      "es": "Cantidad de tiempo necesaria para cargar por completo el escudo.",
       "fr": "Temps nécessaire à la recharge totale du bouclier.",
       "ja": "シールドのフル充電にかかる時間です",
       "ko": "실드를 전부 충전하기까지 걸리는 시간입니다.",
@@ -2369,6 +2484,7 @@
     "tooltipTitleID": {
       "de": "Schildladezeit",
       "en": "Shield Recharge Time",
+      "es": "Tiempo de carga del escudo",
       "fr": "Temps de recharge du bouclier",
       "ja": "シールドリチャージ時間",
       "ko": "실드 충전 시간",
@@ -2386,6 +2502,7 @@
     "displayNameID": {
       "de": "Energiespeichergröße",
       "en": "Capacitor Capacity",
+      "es": "Capacidad condensador",
       "fr": "Charge de capaciteur",
       "ja": "キャパシタ容量",
       "ko": "캐패시터 용량",
@@ -2400,6 +2517,7 @@
     "tooltipDescriptionID": {
       "de": "Die maximale Energie des Energiespeichers",
       "en": "The maximum energy stored in the capacitor",
+      "es": "La energía máxima almacenada en el condensador.",
       "fr": "La quantité d'énergie maximale stockée dans le capaciteur.",
       "ja": "キャパシタに貯められる最大エネルギー量です",
       "ko": "캐패시터 최대 용량입니다.",
@@ -2409,6 +2527,7 @@
     "tooltipTitleID": {
       "de": "Energiespeicherkapazität",
       "en": "Capacitor Capacity",
+      "es": "Capacidad del condensador",
       "fr": "Charge de capaciteur",
       "ja": "キャパシタ容量",
       "ko": "캐패시터 용량",
@@ -2605,6 +2724,7 @@
     "displayNameID": {
       "de": "Laufzeit",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "起動時間",
       "ko": "지속시간",
@@ -2627,6 +2747,7 @@
     "displayNameID": {
       "de": "Feuerrate",
       "en": "Rate of fire",
+      "es": "Cadencia de tiro",
       "fr": "Cadence de tir",
       "ja": "発射間隔",
       "ko": "연사속도",
@@ -2698,6 +2819,7 @@
     "displayNameID": {
       "de": "Signaturradius",
       "en": "Signature Radius",
+      "es": "Radio señal",
       "fr": "Rayon de signature",
       "ja": "シグネチャ半径",
       "ko": "시그니처 반경",
@@ -2712,6 +2834,7 @@
     "tooltipDescriptionID": {
       "de": "Ein geringerer Wert erhöht die benötigte Zeit, um dieses Ziel zu erfassen und hilft gegnerischer Feuerkraft und der Erfassung durch Sonden zu entgehen",
       "en": "Smaller values increase the time to lock onto this target, and assist it in evading enemy firepower or detection by probes",
+      "es": "Los valores más bajos aumentan el tiempo necesario para fijar este objetivo y ayudan a evitar la detección de sondas y la potencia de fuego enemiga.",
       "fr": "Les petites valeurs augmentent le temps nécessaire pour verrouiller cette cible, et permettent d'éviter la détection par les sondes et les vaisseaux ennemis.",
       "ja": "数値が小さいほどこの艦船をターゲットするのにかかる時間が長くなり、敵の火器やプローブにより探知されにくくなります",
       "ko": "수치가 낮을수록 타겟팅 소요시간이 증가하며 프로브 탐지 및 적 공격을 수월하게 회피할 수 있습니다.",
@@ -2721,6 +2844,7 @@
     "tooltipTitleID": {
       "de": "Signaturradius",
       "en": "Signature Radius",
+      "es": "Radio de la señal",
       "fr": "Rayon de signature",
       "ja": "シグネチャ半径",
       "ko": "시그니처 반경",
@@ -2738,6 +2862,7 @@
     "displayNameID": {
       "de": "Signaturradius-Modifikator",
       "en": "Signature Radius Modifier",
+      "es": "Modificador de radio de la señal",
       "fr": "Modificateur de rayon de signature",
       "ja": "シグネチャ半径乗数",
       "ko": "시그니처 반경 보정치",
@@ -2760,6 +2885,7 @@
     "displayNameID": {
       "de": "Verankerungsverzögerung",
       "en": "Anchoring Delay",
+      "es": "Demora de anclaje",
       "fr": "Délai d'ancrage",
       "ja": "係留遅延",
       "ko": "위치 고정 소모 시간",
@@ -2806,6 +2932,7 @@
     "displayNameID": {
       "de": "Scanauflösung",
       "en": "Scan Resolution",
+      "es": "Resolución escaneo",
       "fr": "Résolution du balayage",
       "ja": "スキャン分解能",
       "ko": "스캔 정밀도",
@@ -2820,6 +2947,7 @@
     "tooltipDescriptionID": {
       "de": "Ein höherer Wert erhöht die Geschwindigkeit der Zielerfassung",
       "en": "Larger values increase target locking speed",
+      "es": "Cuanto más alto sea el valor, más rápido se fijarán los objetivos.",
       "fr": "Les grandes valeurs augmentent la vitesse de verrouillage de la cible.",
       "ja": "数値が大きいほどターゲットロック速度が上がります",
       "ko": "값이 클수록 타겟 고정 속도가 빨라집니다.",
@@ -2829,6 +2957,7 @@
     "tooltipTitleID": {
       "de": "Scanauflösung",
       "en": "Scan Resolution",
+      "es": "Resolución de escaneo",
       "fr": "Résolution du balayage",
       "ja": "スキャン分解能",
       "ko": "스캔 정밀도",
@@ -2846,6 +2975,7 @@
     "displayNameID": {
       "de": "Scanauflösungsbonus",
       "en": "Scan Resolution Bonus",
+      "es": "Bonificación de resolución de escaneo",
       "fr": "Bonus de résolution du balayage",
       "ja": "スキャン分解能ボーナス",
       "ko": "스캔 정밀도 보너스",
@@ -2976,6 +3106,7 @@
     "displayNameID": {
       "de": "Warpgeschwindigkeitsmultiplikator",
       "en": "Warp Speed Multiplier",
+      "es": "Multiplicador de velocidad de warp",
       "fr": "Multiplicateur de vitesse de warp",
       "ja": "ワープ速度乗数",
       "ko": "워프 속도 배수",
@@ -2997,6 +3128,7 @@
     "displayNameID": {
       "de": "Benutzt mit (Ladungsgruppe)",
       "en": "Used with (Charge Group)",
+      "es": "Se usa con (grupo de carga)",
       "fr": "Utilisé avec (groupe de charge)",
       "ja": "(チャージグループ)使用タイプ",
       "ko": "(차지) 사용",
@@ -3019,6 +3151,7 @@
     "displayNameID": {
       "de": "Signaturauflösung",
       "en": "Signature Resolution",
+      "es": "Resolución de señal",
       "fr": "Résolution de la signature",
       "ja": "シグネチャ分解能",
       "ko": "탄착 범위",
@@ -3053,6 +3186,7 @@
     "displayNameID": {
       "de": "Meta-Level",
       "en": "Meta Level",
+      "es": "Metanivel",
       "fr": "Niveau méta",
       "ja": "メタレベル",
       "ko": "메타 레벨",
@@ -3075,6 +3209,7 @@
     "displayNameID": {
       "de": "Raketengeschwindigkeit-Bonus",
       "en": "Missile Velocity Bonus",
+      "es": "Bonificación de velocidad de misiles",
       "fr": "Bonus de vitesse des missiles",
       "ja": "ミサイル速度ボーナス",
       "ko": "미사일 속도 보너스",
@@ -3097,6 +3232,7 @@
     "displayNameID": {
       "de": "Raketenflugzeit-Bonus",
       "en": "Missile Flight Time Bonus",
+      "es": "Bonificación de tiempo de vuelo de misiles",
       "fr": "Bonus de temps de vol de missile",
       "ja": "ミサイル飛行時間ボーナス",
       "ko": "미사일 비행 시간 보너스",
@@ -3131,6 +3267,7 @@
     "displayNameID": {
       "de": "Max. Strukturdistanz",
       "en": "Maximum Structure Distance",
+      "es": "Distancia máxima de estructura",
       "fr": "Distance maximum de la structure",
       "ja": "最大建造物距離",
       "ko": "최대 구조물 거리",
@@ -3249,6 +3386,7 @@
     "displayNameID": {
       "de": "Entankerungsverzögerung",
       "en": "Unanchoring Delay",
+      "es": "Demora de desanclaje",
       "fr": "Délai de détachement",
       "ja": "係留解除遅延",
       "ko": "위치 고정 해제 시간",
@@ -3271,6 +3409,7 @@
     "displayNameID": {
       "de": "Einschaltverzögerung",
       "en": "Onlining Delay",
+      "es": "Demora de conexión",
       "fr": "Délai de mise en ligne",
       "ja": "オンライン化遅延",
       "ko": "온라인 준비 시간",
@@ -3317,6 +3456,7 @@
     "displayNameID": {
       "de": "Schildradius",
       "en": "Shield Radius",
+      "es": "Radio del escudo",
       "fr": "Rayon du bouclier",
       "ja": "シールド半径",
       "ko": "실드 반경",
@@ -3388,6 +3528,7 @@
     "displayNameID": {
       "de": "Mond-Verankerungsdistanz",
       "en": "Moon Anchor Distance",
+      "es": "Distancia de anclaje a luna",
       "fr": "Distance d'ancrage de lune",
       "ja": "衛星係留距離",
       "ko": "위성 정박 거리",
@@ -3410,6 +3551,7 @@
     "displayNameID": {
       "de": "Max. Bedienungsentfernung ",
       "en": "Maximum Operational Distance",
+      "es": "Distancia máxima de funcionamiento",
       "fr": "Distance opérationnelle maximale",
       "ja": "最大オペレーション範囲",
       "ko": "최대 작동 거리",
@@ -3432,6 +3574,7 @@
     "displayNameID": {
       "de": "Max. gleichzeitige Nutzer",
       "en": "Maximum Concurrent Operational Users",
+      "es": "Máximo de usuarios operativos simultáneos",
       "fr": "Nombre max d'utilisateurs opérationnels simultanés",
       "ja": "最大同時使用ユーザー数",
       "ko": "최대 동시 작동 유저 수",
@@ -3453,6 +3596,7 @@
     "displayNameID": {
       "de": "Raffinierertrag-Multiplikator",
       "en": "Refining Yield Multiplier",
+      "es": "Multiplicador de rendimiento de refinado",
       "fr": "Multiplicateur de rendement de raffinage",
       "ja": "精錬量乗数",
       "ko": "정제 처리 배수",
@@ -3475,6 +3619,7 @@
     "displayNameID": {
       "de": "Betriebsdauer",
       "en": "Operational Duration",
+      "es": "Duración operativa",
       "fr": "Durée opérationnelle",
       "ja": "オペレーション期間",
       "ko": "작동 지속시간",
@@ -3497,6 +3642,7 @@
     "displayNameID": {
       "de": "Starbase-Kontrollturm-Zeitraum",
       "en": "Starbase Control Tower Period",
+      "es": "Periodo de torre de control de la base estelar",
       "fr": "Période de tour de contrôle de base stellaire",
       "ja": "スターベースコントロールタワー周期",
       "ko": "스타베이스 관제타워 시간",
@@ -3657,24 +3803,22 @@
   },
   "748": {
     "attributeID": 748,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusMBC1",
     "published": false,
     "stackable": true
   },
   "749": {
     "attributeID": 749,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusMBC2",
     "published": false,
     "stackable": true
@@ -3791,6 +3935,7 @@
     "displayNameID": {
       "de": "Nachführungsgeschwindigkeit-Bonus",
       "en": "Tracking Speed Bonus",
+      "es": "Bonificación de velocidad de rastreo",
       "fr": "Bonus de vitesse de poursuite",
       "ja": "追跡速度ボーナス",
       "ko": "트래킹 속도 보너스",
@@ -3813,6 +3958,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite-Bonus",
       "en": "Optimal Range Bonus",
+      "es": "Bonificación de alcance óptimo",
       "fr": "Bonus de portée optimale",
       "ja": "最適射程距離ボーナス",
       "ko": "최적사거리 보너스",
@@ -3872,6 +4018,7 @@
     "displayNameID": {
       "de": "Zyklusdauerbonus",
       "en": "Cycle Time bonus",
+      "es": "Bonificación de tiempo de ciclo",
       "fr": "Bonus de temps de cycle",
       "ja": "サイクル時間ボーナス",
       "ko": "사이클 시간 보너스",
@@ -3894,6 +4041,7 @@
     "displayNameID": {
       "de": "Kristalle nehmen Schaden",
       "en": "Crystals Take Damage",
+      "es": "Los cristales reciben daño.",
       "fr": "Les cristaux subissent des dégâts",
       "ja": "クリスタル損耗",
       "ko": "크리스탈 피해량",
@@ -3916,6 +4064,7 @@
     "displayNameID": {
       "de": "Minimale Scan-Abweichung",
       "en": "Minimum Scan Deviation",
+      "es": "Desviación mínima del escaneo",
       "fr": "Déviation minimum du balayage",
       "ja": "最小スキャン誤差",
       "ko": "최소 스캔 오차",
@@ -3938,6 +4087,7 @@
     "displayNameID": {
       "de": "Max. Scan-Abweichung",
       "en": "Maximum Scan Deviation",
+      "es": "Desviación máxima del escaneo",
       "fr": "Déviation maximum du balayage",
       "ja": "最大スキャン誤差",
       "ko": "스캔 최대 오차",
@@ -3997,6 +4147,7 @@
     "displayNameID": {
       "de": "Theoretische max. Aufschaltreichweite",
       "en": "Theoretical Maximum Targeting Range",
+      "es": "Distancia-objetivo máxima teórica",
       "fr": "Portée théorique maximale du système de ciblage",
       "ja": "最大ターゲット範囲（理論値）",
       "ko": "이론상 최대 타겟팅 거리",
@@ -4151,6 +4302,7 @@
     "displayNameID": {
       "de": "Reaktionstyp 1",
       "en": "Reaction Type 1",
+      "es": "Reacción de tipo 1",
       "fr": "Type de réaction 1",
       "ja": "リアクションタイプ 1",
       "ko": "분자 반응식 유형 1",
@@ -4173,6 +4325,7 @@
     "displayNameID": {
       "de": "Reaktionstyp 2",
       "en": "Reaction Type 2",
+      "es": "Reacción de tipo 2",
       "fr": "Type de réaction 2",
       "ja": "リアクションタイプ 2",
       "ko": "분자 반응식 유형 2",
@@ -4219,6 +4372,7 @@
     "displayNameID": {
       "de": "Explosionsradius-Bonus",
       "en": "Explosion Radius Bonus",
+      "es": "Bonificación de radio de explosión",
       "fr": "Bonus de rayon d'explosion",
       "ja": "爆発半径ボーナス",
       "ko": "폭발 반경 보너스",
@@ -4241,6 +4395,7 @@
     "displayNameID": {
       "de": "Explosionsgeschwindigkeit-Bonus",
       "en": "Explosion Velocity Bonus",
+      "es": "Bonificación de velocidad de explosión",
       "fr": "Bonus de vitesse d'explosion",
       "ja": "爆発速度ボーナス",
       "ko": "폭발 속도 보너스",
@@ -4263,6 +4418,7 @@
     "displayNameID": {
       "de": "Eingebauter Sprungantrieb",
       "en": "Onboard Jump Drive",
+      "es": "Motor de salto integrado",
       "fr": "Propulseur hyperspatial embarqué",
       "ja": "オンボードジャンプドライブ",
       "ko": "함내탑재형 점프 드라이브",
@@ -4285,6 +4441,7 @@
     "displayNameID": {
       "de": "Treibstoffbedarf des Sprungantriebs",
       "en": "Jump Drive Fuel Need",
+      "es": "Necesidad de combustible para el motor de salto",
       "fr": "Type de carburant utilisé par le propulseur hyperspatial",
       "ja": "ジャンプドライブ必要燃料",
       "ko": "점프 드라이브 연료 요구량",
@@ -4299,6 +4456,7 @@
     "tooltipDescriptionID": {
       "de": "Die Treibstoffart die für den Sprungantrieb benötigt wird",
       "en": "The type of fuel required to use the jump drive",
+      "es": "Tipo de combustible necesario para usar el motor de salto.",
       "fr": "Type de carburant nécessaire pour utiliser le propulseur hyperspatial.",
       "ja": "ジャンプドライブを使用するのに必要な燃料タイプです",
       "ko": "점프 드라이브를 사용할 때 필요한 연료 종류입니다.",
@@ -4308,6 +4466,7 @@
     "tooltipTitleID": {
       "de": "Treibstoffbedarf des Sprungantriebs",
       "en": "Jump Drive Fuel Needed",
+      "es": "Combustible necesario para motor de salto",
       "fr": "Besoins en carburant du propulseur hyperspatial",
       "ja": "ジャンプドライブ必要燃料",
       "ko": "점프 드라이브 연료 필요",
@@ -4325,6 +4484,7 @@
     "displayNameID": {
       "de": "Max. Sprungreichweite",
       "en": "Maximum Jump Range",
+      "es": "Alcance máximo de salto",
       "fr": "Portée de saut maximum",
       "ja": "最大ジャンプ距離",
       "ko": "최대 점프 거리",
@@ -4339,6 +4499,7 @@
     "tooltipDescriptionID": {
       "de": "Die maximale Distanz in Lichtjahren, die mit dem Sprungantrieb zurückgelegt werden kann",
       "en": "Maximum distance in light years that can be travelled using the jump drive",
+      "es": "Distancia máx. en años luz que se puede viajar con el motor de salto.",
       "fr": "Distance maximale en années-lumière pouvant être parcourue en utilisant le propulseur hyperspatial.",
       "ja": "ジャンプドライブで航行できる最大距離を光年で表示します",
       "ko": "점프 드라이브를 사용하여 여행할 수 있는 광년 단위 최대 거리입니다.",
@@ -4348,6 +4509,7 @@
     "tooltipTitleID": {
       "de": "Maximale Sprungreichweite",
       "en": "Maximum Jump Range",
+      "es": "Alcance máximo de salto",
       "fr": "Distance hyperspatiale maximale",
       "ja": "最大ジャンプ距離",
       "ko": "최대 점프 거리",
@@ -4365,6 +4527,7 @@
     "displayNameID": {
       "de": "Verbrauchswert des Sprungantriebs",
       "en": "Jump Drive Consumption Amount",
+      "es": "Consumo de motor de salto",
       "fr": "Quantité consommée par le propulseur hyperspatial",
       "ja": "ジャンプドライブ消費量",
       "ko": "점프 드라이브 소모량",
@@ -4379,6 +4542,7 @@
     "tooltipDescriptionID": {
       "de": "Treibstoffverbrauch pro Lichtjahr, wenn der Sprungantrieb aktiviert ist",
       "en": "The amount of fuel consumed per light year when the jump drive is activated",
+      "es": "Consumo de combustible por año luz al activar el motor de salto.",
       "fr": "La quantité de carburant consommé par année-lumière lorsque le propulseur interstellaire est activé",
       "ja": "ジャンプドライブ起動時に消費される光年あたりの燃料量",
       "ko": "함선이 점프 드라이브를 작동할 때 1광년마다 소비하는 연료량입니다.",
@@ -4388,6 +4552,7 @@
     "tooltipTitleID": {
       "de": "Verbrauch des Sprungantriebs",
       "en": "Jump Drive Consumption Amount",
+      "es": "Consumo del motor de salto",
       "fr": "Quantité consommée par le propulseur interstellaire",
       "ja": "ジャンプドライブ消費量",
       "ko": "점프 드라이브 소모량",
@@ -4537,6 +4702,7 @@
     "displayNameID": {
       "de": "Energiespeicherbedarf des Sprungantriebs",
       "en": "Jump Drive Capacitor Need",
+      "es": "Necesidad del condensador para el motor de salto",
       "fr": "Besoins énergétiques du capaciteur pour le propulseur hyperspatial",
       "ja": "ジャンプドライブキャパシタ消費",
       "ko": "점프 드라이브 캐패시터 요구량",
@@ -4551,6 +4717,7 @@
     "tooltipDescriptionID": {
       "de": "Der Prozentanteil des Energiespeichers der verbraucht wird, wenn der Sprungantrieb aktiviert wird",
       "en": "The percentage of total capacitor consumed when the jump drive is activated",
+      "es": "El porcentaje del consumo total del condensador al activar el motor de salto.",
       "fr": "Pourcentage du capaciteur utilisé lorsque le propulseur hyperspatial est activé.",
       "ja": "ジャンプドライブ起動時に消費されるキャパシタ総量の割合です",
       "ko": "함선이 점프 드라이브를 작동할 때 소비하는 총 캐패시터 퍼센트입니다.",
@@ -4560,6 +4727,7 @@
     "tooltipTitleID": {
       "de": "Energiespeicherbedarf des Sprungantriebs",
       "en": "Jump Drive Capacitor Needed",
+      "es": "Condensador necesario para motor de salto",
       "fr": "Besoins énergétiques du capaciteur du propulseur hyperspatial",
       "ja": "ジャンプドライブキャパシタ消費",
       "ko": "점프 드라이브 캐패시터 필요",
@@ -4577,6 +4745,7 @@
     "displayNameID": {
       "de": "Zugriffsschwierigkeit",
       "en": "Access Difficulty",
+      "es": "Dificultad de acceso",
       "fr": "Difficulté d'accès",
       "ja": "アクセス難度",
       "ko": "잠금 해제 난이도",
@@ -4610,6 +4779,7 @@
     "displayNameID": {
       "de": "Kapazität des Schiffwartungshangars",
       "en": "Ship Maintenance Bay Capacity",
+      "es": "Capacidad de la plataforma de mantenimiento de naves",
       "fr": "Capacité de la plateforme de maintenance du vaisseau",
       "ja": "船舶修理場容量",
       "ko": "함선 정비 격납고 적재량",
@@ -4644,6 +4814,7 @@
     "displayNameID": {
       "de": "Kapazität des Flottenhangars",
       "en": "Fleet Hangar Capacity",
+      "es": "Capacidad del hangar de la flota",
       "fr": "Capacité de hangar de flotte",
       "ja": "フリートハンガー容量",
       "ko": "함대 격납고 적재량",
@@ -4726,6 +4897,7 @@
     "displayNameID": {
       "de": "Signaturradius-Bonus",
       "en": "Signature radius bonus",
+      "es": "Bonificación de radio de la señal",
       "fr": "Bonus de rayon de signature",
       "ja": "シグネチャ半径ボーナス",
       "ko": "시그니처 반경 보너스",
@@ -4748,6 +4920,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Struktur gegen EM-Schaden",
       "en": "Structure EM Damage Resistance",
+      "es": "Resistencia al daño electromagnético de estructura",
       "fr": "Résistance de la structure aux dégâts électromagnétiques",
       "ja": "ストラクチャEMダメージレジスタンス",
       "ko": "선체 EM 저항력",
@@ -4771,6 +4944,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Struktur gegen Explosionsschaden",
       "en": "Structure Explosive Damage Resistance",
+      "es": "Resistencia al daño explosivo de estructura",
       "fr": "Résistance de la structure aux dégâts explosifs",
       "ja": "ストラクチャエクスプローシブダメージレジスタンス",
       "ko": "선체 폭발 저항력",
@@ -4794,6 +4968,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Struktur gegen Kinetikschaden",
       "en": "Structure Kinetic Damage Resistance",
+      "es": "Resistencia al daño cinético de estructura",
       "fr": "Résistance de la structure aux dégâts cinétiques",
       "ja": "ストラクチャキネティックダメージレジスタンス",
       "ko": "선체 키네틱 저항력",
@@ -4817,6 +4992,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Struktur gegen Thermalschaden",
       "en": "Structure Thermal Damage Resistance",
+      "es": "Resistencia al daño térmico de estructura",
       "fr": "Résistance de la structure aux dégâts thermiques",
       "ja": "ストラクチャサーマルダメージレジスタンス",
       "ko": "선체 열 저항력",
@@ -4840,6 +5016,7 @@
     "displayNameID": {
       "de": "Maximale Anzahl der Sprungklone",
       "en": "Maximum Jump Clones",
+      "es": "Clones de salto máximos",
       "fr": "Nombre max. de clones hyperspatiaux",
       "ja": "最大ジャンプクローン数",
       "ko": "최대 점프 클론 수",
@@ -4934,6 +5111,7 @@
     "displayNameID": {
       "de": "Sprungportalaktivierungsgebühr",
       "en": "Jump portal activation cost",
+      "es": "Coste de activación del portal de salto",
       "fr": "Coût d'activation du portail hyperspatial",
       "ja": "ジャンプポータル起動コスト",
       "ko": "점프 포탈 활성화 비용",
@@ -4980,6 +5158,7 @@
     "displayNameID": {
       "de": "Kontrollturmgröße",
       "en": "Control Tower Size",
+      "es": "Tamaño de torre de control",
       "fr": "Taille de la tour de contrôle",
       "ja": "コントロールタワーサイズ",
       "ko": "관제타워 크기",
@@ -5002,6 +5181,7 @@
     "displayNameID": {
       "de": "Beschränkt auf max. Sicherheitsstatus von",
       "en": "Restricted To Security Level Of At Most",
+      "es": "Restringido a nivel de seguridad de como máximo",
       "fr": "Limité au niveau de sécurité le plus élevé",
       "ja": "セキュリティレベル上限設定",
       "ko": "최대 보안 수준으로 제한됨",
@@ -5035,6 +5215,7 @@
     "displayNameID": {
       "de": "Verzögerung bei Reaktivierung des Tarnmoduls",
       "en": "Cloak Reactivation Delay",
+      "es": "Demora de reactivación del camuflaje",
       "fr": "Délai de réactivation du camouflage",
       "ja": "クロークリアクティベーション遅延",
       "ko": "클로킹 재활성화 준비 시간",
@@ -5069,6 +5250,7 @@
     "displayNameID": {
       "de": "Maximale Traktorgeschwindigkeit",
       "en": "Maximum Tractor Velocity",
+      "es": "Velocidad máx. del tractor",
       "fr": "Vitesse de tractage maximale",
       "ja": "最高トラクター速度",
       "ko": "트랙터 최대 속도",
@@ -5091,6 +5273,7 @@
     "displayNameID": {
       "de": "Im imperialen Raum gesperrt",
       "en": "Banned in Empire Space",
+      "es": "Prohibido en el espacio imperial",
       "fr": "Interdit dans l'espace de l'empire",
       "ja": "帝国領域で使用禁止",
       "ko": "하이 시큐리티 사용 금지",
@@ -5113,6 +5296,7 @@
     "displayNameID": {
       "de": "Kalibrierung",
       "en": "Calibration",
+      "es": "Calibración",
       "fr": "Étalonnage",
       "ja": "キャリブレーション",
       "ko": "교정치",
@@ -5135,6 +5319,7 @@
     "displayNameID": {
       "de": "Modifikationsslots",
       "en": "Rig Slots",
+      "es": "Ranuras de complementos",
       "fr": "Emplacements d'optimisation",
       "ja": "リグスロット",
       "ko": "리그 슬롯",
@@ -5157,6 +5342,7 @@
     "displayNameID": {
       "de": "Modifikationsslots",
       "en": "Rig Slots",
+      "es": "Ranuras complementos",
       "fr": "Emplacements d'optimisation",
       "ja": "アップグレードハードポイント",
       "ko": "리그 슬롯",
@@ -5179,6 +5365,7 @@
     "displayNameID": {
       "de": "HP-Bonus für Panzerung",
       "en": "Armor Hitpoint Bonus",
+      "es": "Bonif. de puntos de vida del blindaje",
       "fr": "Bonus de PV du blindage",
       "ja": "アーマーHPボーナス",
       "ko": "장갑 내구도 보너스",
@@ -5201,6 +5388,7 @@
     "displayNameID": {
       "de": "Minimale Verankerungsentfernung vom Starbase-Schild",
       "en": "Minimum Anchoring Distance From Starbase Shield",
+      "es": "Distancia mín. de anclaje desde escudo de base estelar",
       "fr": "Distance minimum d'ancrage depuis le bouclier de la base stellaire",
       "ja": "スターベースシールドからの最小係留距離",
       "ko": "(스타베이스 실드 기준)위치 고정 최소 거리",
@@ -5223,6 +5411,7 @@
     "displayNameID": {
       "de": "Vom Spieler kontrollierbar",
       "en": "Player Controllable",
+      "es": "Controlable por el jugador",
       "fr": "Contrôlable par le joueur",
       "ja": "プレイヤー操作可",
       "ko": "조작가능 플레이어",
@@ -5245,6 +5434,7 @@
     "displayNameID": {
       "de": "Panzerungsreparaturmenge",
       "en": "Armor Repair Amount",
+      "es": "Cantidad de reparación del blindaje",
       "fr": "Niveau de réparation du blindage",
       "ja": "アーマーリペア量",
       "ko": "장갑 수리량",
@@ -5266,6 +5456,7 @@
     "displayNameID": {
       "de": "Schildreparaturmenge",
       "en": "Shield Repair Amount",
+      "es": "Cantidad de reparación del escudo",
       "fr": "Niveau de réparation du bouclier",
       "ja": "シールドリペア量",
       "ko": "실드 회복량",
@@ -5309,6 +5500,7 @@
     "displayNameID": {
       "de": "Benötigtes Souveränitätslevel",
       "en": "Required Sovereignty Level",
+      "es": "Nivel de soberanía necesario",
       "fr": "Niveau de souveraineté requis",
       "ja": "必須領有権レベル",
       "ko": "필요 소버린티 레벨",
@@ -5330,6 +5522,7 @@
     "displayNameID": {
       "de": "Maximale Ankermenge pro Sonnensystem",
       "en": "Maximum Anchoring Amount per Solar System",
+      "es": "Cantidad máxima de anclajes por sistema solar",
       "fr": "Ancrages maximum par système solaire",
       "ja": "ソーラーシステムごとの最大係留量",
       "ko": "항성계 당 최대 설치량",
@@ -5395,6 +5588,7 @@
     "displayNameID": {
       "de": "Maximale Kontrollreichweite",
       "en": "Maximum Control Distance",
+      "es": "Distancia de control máxima",
       "fr": "Distance de contrôle maximale",
       "ja": "最大コントロールレンジ",
       "ko": "최대 통제 거리",
@@ -5417,6 +5611,7 @@
     "displayNameID": {
       "de": "CPU-Bedarf-Bonus für Schildtransport",
       "en": "Shield Transport CPU Need Bonus",
+      "es": "Bonificación de necesidad de la CPU de transporte del escudo",
       "fr": "Bonus d'utilisation du CPU pour le transport de bouclier",
       "ja": "シールドトランスポートCPU消費ボーナス",
       "ko": "실드 전송기 CPU 요구량 보너스",
@@ -5439,6 +5634,7 @@
     "displayNameID": {
       "de": "Energiebedarf der Energieübertragungsanlage",
       "en": "Energy Transfer Array Power Need",
+      "es": "Requisitos de potencia de matriz de transferencia energética",
       "fr": "Consommation du module de transfert d'énergie",
       "ja": "エネルギートランスファーアレイ必要エネルギー量",
       "ko": "에너지 전송 시설 전력 요구량",
@@ -5461,6 +5657,7 @@
     "displayNameID": {
       "de": "Drohnenpanzerungsschadensmenge-Bonus",
       "en": "Drone Armor Damage Amount Bonus",
+      "es": "Bonificación de cantidad de daño del blindaje de dron",
       "fr": "Bonus de dégâts au blindage des drones",
       "ja": "ドローンアーマーダメージ量ボーナス",
       "ko": "드론 장갑 피해량 보너스",
@@ -5483,6 +5680,7 @@
     "displayNameID": {
       "de": "Bonus auf Schildtransportmenge von Drohnen",
       "en": "Drone Shield Transport Amount Bonus",
+      "es": "Bonificación de cantidad de transporte de escudo de drones",
       "fr": "Bonus de quantité de transport de boucliers de drone",
       "ja": "ドローンシールドトランスポート転送量ボーナス",
       "ko": "드론 실드 전송량 보너스",
@@ -5516,6 +5714,7 @@
     "displayNameID": {
       "de": "Strontium Bay",
       "en": "Strontium Bay",
+      "es": "Plataforma de estroncio",
       "fr": "Baie de strontium",
       "ja": "ストロンチウムベイ",
       "ko": "스트론튬 창고",
@@ -5673,6 +5872,7 @@
     "displayNameID": {
       "de": "Verwendet geheime Technologie",
       "en": "Uses Covert Cynosural Field Technology",
+      "es": "Usa tecnología encubierta de campo cinosural.",
       "fr": "Utilise une technologie furtive",
       "ja": "コバート技術を使用",
       "ko": "코버트 기술 사용",
@@ -5730,6 +5930,7 @@
     "displayNameID": {
       "de": "Hitzedämpfung",
       "en": "Heat Attenuation",
+      "es": "Atenuación del calor",
       "fr": "Atténuation de la chaleur",
       "ja": "熱減少",
       "ko": "열 감쇠",
@@ -5820,6 +6021,7 @@
     "displayNameID": {
       "de": "Drohnen-Bandbreite",
       "en": "Drone Bandwidth",
+      "es": "Ancho banda drones",
       "fr": "Bande passante drone",
       "ja": "ドローン帯域幅",
       "ko": "드론 대역폭",
@@ -5834,6 +6036,7 @@
     "tooltipDescriptionID": {
       "de": "Schränkt die Anzahl und Größe der Drohnen ein, gleichzeitig kontrolliert werden können",
       "en": "Limits the number and size of drones that can be controlled simultaneously",
+      "es": "Limita el número y el tamaño de los drones que se pueden controlar simultáneamente.",
       "fr": "Limite le nombre et la taille des drones pouvant être contrôlés simultanément.",
       "ja": "同時に制御できるドローンの数とサイズです",
       "ko": "동시에 조종할 수 있는 드론의 숫자와 크기가 제한됩니다.",
@@ -5843,6 +6046,7 @@
     "tooltipTitleID": {
       "de": "Drohnen-Bandbreite",
       "en": "Drone Bandwidth",
+      "es": "Ancho de banda de drones",
       "fr": "Bande passante drone",
       "ja": "ドローン帯域幅",
       "ko": "드론 대역폭",
@@ -5884,6 +6088,7 @@
     "displayNameID": {
       "de": "Warpgeschwindigkeit",
       "en": "Ship Warp Speed",
+      "es": "Velocidad warp ",
       "fr": "Vitesse de warp du vaisseau",
       "ja": "シップワープ速度",
       "ko": "함선 워프 속도",
@@ -5898,6 +6103,7 @@
     "tooltipDescriptionID": {
       "de": "Die Maximalgeschwindigkeit, die im Warp erreicht werden kann",
       "en": "The maximum speed that can be reached in warp",
+      "es": "La velocidad máxima que se puede alcanzar en warp.",
       "fr": "La vitesse maximale pouvant être atteinte en warp.",
       "ja": "ワープ時に到達できる最高速度です",
       "ko": "워프 시 최대 속도입니다.",
@@ -5907,6 +6113,7 @@
     "tooltipTitleID": {
       "de": "Warpgeschwindigkeit",
       "en": "Ship Warp Speed",
+      "es": "Velocidad de warp de la nave",
       "fr": "Vitesse de warp du vaisseau",
       "ja": "艦船ワープ速度",
       "ko": "함선 워프 속도",
@@ -5924,6 +6131,7 @@
     "displayNameID": {
       "de": "Quaternary-Skill benötigt",
       "en": "Quaternary Skill required",
+      "es": "Habilidad cuaternaria necesaria",
       "fr": "Compétence quaternaire requise",
       "ja": "第四必須スキル",
       "ko": "4차 스킬 필요",
@@ -5946,6 +6154,7 @@
     "displayNameID": {
       "de": "Benötigter Skill 5 Level",
       "en": "Level 5 required",
+      "es": "Nivel 5 necesario",
       "fr": "compNiv5Requise",
       "ja": "第五必須スキルレベル",
       "ko": "레벨 5 요구",
@@ -5979,6 +6188,7 @@
     "displayNameID": {
       "de": "Quinary-Skill benötigt",
       "en": "Quinary Skill required",
+      "es": "Habilidad quinaria necesaria",
       "fr": "Compétence quinaire requise",
       "ja": "第五必須スキル",
       "ko": "5차 스킬 필요",
@@ -6001,6 +6211,7 @@
     "displayNameID": {
       "de": "Verbrauchsquantitäts-Bonus",
       "en": "Consumption Quantity Bonus",
+      "es": "Bonificación de cantidad de consumo",
       "fr": "Bonus de quantité consommée",
       "ja": "消費量ボーナス",
       "ko": "소모량 보너스",
@@ -6047,6 +6258,7 @@
     "displayNameID": {
       "de": "Unbenutzte Klonbehälter",
       "en": "Unused Clone Vats",
+      "es": "Contenedores de clonación sin usar",
       "fr": "Cuves de clone non utilisées",
       "ja": "未使用のクローンバット",
       "ko": "미사용 점프 클론 격납고",
@@ -6068,6 +6280,7 @@
     "displayNameID": {
       "de": "Erlaubter Frachttyp",
       "en": "Allowed Cargo Type",
+      "es": "Tipo de carga permitido",
       "fr": "Type de marchandise autorisé",
       "ja": "使用できるカーゴタイプ",
       "ko": "허가된 화물 유형",
@@ -6089,6 +6302,7 @@
     "displayNameID": {
       "de": "Reichweitenbonus für Traktorstrahl",
       "en": "Tractor Beam Range Bonus",
+      "es": "Bonificación de alcance del rayo tractor",
       "fr": "Bonus de portée du rayon de tractage",
       "ja": "トラクタービーム範囲ボーナス",
       "ko": "트랙터 빔 사거리 보너스",
@@ -6180,6 +6394,7 @@
     "displayNameID": {
       "de": "Subsystem-Slots",
       "en": "Subsystem Slots",
+      "es": "Ranuras de subsistema",
       "fr": "Emplacements sous-système",
       "ja": "サブシステムスロット",
       "ko": "서브시스템 슬롯",
@@ -6200,6 +6415,7 @@
     "displayNameID": {
       "de": "Geschützturm-Montageplatz-Modifikator",
       "en": "Turret Hardpoint Modifier",
+      "es": "Modificador de punto de montaje de torreta",
       "fr": "Modificateur de point de fixation de tourelle",
       "ja": "タレットハードポイントモディファイヤー",
       "ko": "터렛 하드포인트 보정치",
@@ -6221,6 +6437,7 @@
     "displayNameID": {
       "de": "Werfer-Montageplatz-Modifikator",
       "en": "Launcher Hardpoint Modifier",
+      "es": "Modificador de punto de montaje de lanzador",
       "fr": "Modificateur de point de fixation pour lanceur",
       "ja": "ランチャーハードポイントモディファイヤー",
       "ko": "런처 하드포인트 보정치",
@@ -6242,6 +6459,7 @@
     "displayNameID": {
       "de": "High Slot-Modifikator",
       "en": "High Slot Modifier",
+      "es": "Modificador de ranura superior",
       "fr": "Modificateur d'emplacement supérieur",
       "ja": "ハイスロット乗数",
       "ko": "하이 슬롯 보정치",
@@ -6263,6 +6481,7 @@
     "displayNameID": {
       "de": "Medium Slot-Modifikator",
       "en": "Medium Slot Modifier",
+      "es": "Modificador de ranura media",
       "fr": "Modificateur d'emplacement intermédiaire",
       "ja": "ミディアムスロット乗数",
       "ko": "미드 슬롯 보정치",
@@ -6284,6 +6503,7 @@
     "displayNameID": {
       "de": "Low-Slot-Modifikator",
       "en": "Low Slot Modifier",
+      "es": "Modificador de ranura inferior",
       "fr": "Modificateur d'emplacement inférieur",
       "ja": "ロースロットモディファイヤー",
       "ko": "로우 슬롯 보정치",
@@ -6305,6 +6525,7 @@
     "displayNameID": {
       "de": "Auf Schiffstyp festgelegt",
       "en": "Restricted to Ship Type",
+      "es": "Restringido al tipo de nave",
       "fr": "Limité au type de vaisseau",
       "ja": "船の制限",
       "ko": "함선 유형으로 제한",
@@ -6503,6 +6724,7 @@
     "displayNameID": {
       "de": "Explosivresistenz der Schilde",
       "en": "Shield Explosive Resistance",
+      "es": "Resistencia explosiva del escudo",
       "fr": "Résistance explosive du bouclier",
       "ja": "シールドエクスプローシブレジスタンス",
       "ko": "실드 폭발 저항력",
@@ -6832,6 +7054,7 @@
     "displayNameID": {
       "de": "Rig-Größe",
       "en": "Rig Size",
+      "es": "Tamaño de complemento",
       "fr": "Taille d'amélioration",
       "ja": "リグサイズ",
       "ko": "리그 크기",
@@ -6853,6 +7076,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen des Hangars für Treibstoffe",
       "en": "Fuel Bay Capacity",
+      "es": "Capacidad del almacén de combustible",
       "fr": "Capacité de la cuve de carburant",
       "ja": "燃料ベイの容量",
       "ko": "연료실 적재량",
@@ -6867,6 +7091,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das vom Treibstoffhangar transportiert werden kann",
       "en": "The maximum volume that can be carried in the fuel bay",
+      "es": "El volumen máximo que puede transportarse en almacén de combustible.",
       "fr": "Volume maximum pouvant être transporté dans la cuve de carburant.",
       "ja": "燃料ベイに格納できる最大量",
       "ko": "연료실의 총 적재량입니다.",
@@ -6876,6 +7101,7 @@
     "tooltipTitleID": {
       "de": "Fassungsvermögen des Treibstoffhangars",
       "en": "Fuel Bay Capacity",
+      "es": "Capacidad del almacén de combustible",
       "fr": "Capacité du réservoir de carburant",
       "ja": "燃料ベイのキャパシティ",
       "ko": "연료실 적재량",
@@ -6903,6 +7129,7 @@
     "displayNameID": {
       "de": "Bergbaufassungsvermögen",
       "en": "Mining Hold Capacity",
+      "es": "Capacidad de la bodega de minería",
       "fr": "Capacité de la soute d'extraction",
       "ja": "採掘ホールド容量",
       "ko": "채굴 저장고 적재량",
@@ -6917,6 +7144,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Bergbaufrachtraum gelagert werden kann",
       "en": "The total volume that can be stored in the mining hold",
+      "es": "El volumen total que puede almacenarse en la bodega de minería.",
       "fr": "Volume total pouvant être stocké dans la soute d'extraction",
       "ja": "採掘ホールドに積載できる総量",
       "ko": "채굴 저장고에 보관할 수 있는 최대 용량",
@@ -6926,6 +7154,7 @@
     "tooltipTitleID": {
       "de": "Bergbaufassungsvermögen",
       "en": "Mining Hold Capacity",
+      "es": "Capacidad de la bodega de minería",
       "fr": "Capacité de la soute d'extraction",
       "ja": "採掘ホールド容量",
       "ko": "채굴 저장고 적재량",
@@ -6943,6 +7172,7 @@
     "displayNameID": {
       "de": "Gasfassungsvermögen",
       "en": "Gas Hold Capacity",
+      "es": "Capacidad de la bodega de gas",
       "fr": "Capacité de la soute à carburant",
       "ja": "ガスの収容容量",
       "ko": "가스 저장고 적재량",
@@ -6957,6 +7187,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Gasfrachtraum gelagert werden kann",
       "en": "The total volume that can be stored in the gas hold",
+      "es": "El volumen total que puede almacenarse en la bodega de gas.",
       "fr": "Volume total pouvant être stocké dans la soute à gaz",
       "ja": "ガスホールドに積載できる総量",
       "ko": "가스 저장고에 보관할 수 있는 최대 용량",
@@ -6965,6 +7196,7 @@
     "tooltipTitleID": {
       "de": "Gasfassungsvermögen",
       "en": "Gas Hold Capacity",
+      "es": "Capacidad de la bodega de gas",
       "fr": "Capacité de la soute à gaz",
       "ja": "ガスホールド容量",
       "ko": "가스 저장고 적재량",
@@ -6981,6 +7213,7 @@
     "displayNameID": {
       "de": "Mineralienfassungsvermögen",
       "en": "Mineral Hold Capacity",
+      "es": "Capacidad de la bodega de minerales",
       "fr": "Capacité de la soute à minéraux",
       "ja": "無機物の収容容量",
       "ko": "미네랄 저장고 적재량",
@@ -6995,6 +7228,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Mineralienfrachtraum gelagert werden kann",
       "en": "The total volume that can be stored in the mineral hold",
+      "es": "El volumen total que puede almacenarse en la bodega de minerales.",
       "fr": "Volume total pouvant être stocké dans la soute à minéraux.",
       "ja": "無機物ホールドに積載できる総量です",
       "ko": "미네랄 저장고에 보관할 수 있는 최대 용량입니다.",
@@ -7004,6 +7238,7 @@
     "tooltipTitleID": {
       "de": "Mineralienfassungsvermögen",
       "en": "Mineral Hold Capacity",
+      "es": "Capacidad de la bodega de minerales",
       "fr": "Capacité de la soute à minéraux",
       "ja": "無機物ホールド容量",
       "ko": "미네랄 저장고 적재량",
@@ -7021,6 +7256,7 @@
     "displayNameID": {
       "de": "Altmaterial-Fassungsvermögen",
       "en": "Salvage Hold Capacity",
+      "es": "Capacidad de la bodega de restos",
       "fr": "Capacité de la soute de récupération",
       "ja": "サルベージの収容容量",
       "ko": "인양품 저장고 적재량",
@@ -7043,6 +7279,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen des Schiffsfrachtraums",
       "en": "Ship Hold Capacity",
+      "es": "Capacidad de la bodega de la nave",
       "fr": "Capacité de la soute à vaisseaux",
       "ja": "船の収容容量",
       "ko": "함선 격납고 적재량",
@@ -7065,6 +7302,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen eines kleinen Schiffes",
       "en": "Small Ship Hold Capacity",
+      "es": "Capacidad de la bodega de una nave pequeña",
       "fr": "Capacité de soute petit vaisseau",
       "ja": "小型艦の収容容量",
       "ko": "소형 함선 격납고 적재량",
@@ -7087,6 +7325,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen des mittleren Schiffsfrachtraums",
       "en": "Medium Ship Hold Capacity",
+      "es": "Capacidad de la bodega de una nave mediana",
       "fr": "Capacité de soute vaisseau intermédiaire",
       "ja": "中型艦の収容容量",
       "ko": "중형 함선 격납고 적재량",
@@ -7109,6 +7348,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen des großen Schiffsfrachtraums",
       "en": "Large Ship Hold Capacity",
+      "es": "Capacidad de la bodega de una nave grande",
       "fr": "Capacité de soute grand vaisseau",
       "ja": "大型艦の収容容量",
       "ko": "대형 함선 격납고 적재량",
@@ -7131,6 +7371,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen des Frachtraums für Handelssschiffe",
       "en": "Industrial Ship Hold Capacity",
+      "es": "Capacidad de la bodega de una nave industrial",
       "fr": "Capacité de soute vaisseau industriel",
       "ja": "輸送艦の収容容量",
       "ko": "인더스트리얼 격납고 적재량",
@@ -7153,6 +7394,7 @@
     "displayNameID": {
       "de": "Munitionskapazität",
       "en": "Ammo Hold Capacity",
+      "es": "Capacidad del arsenal",
       "fr": "Capacité de la soute à munitions",
       "ja": "弾薬の収容容量",
       "ko": "탄약고 적재량",
@@ -7167,6 +7409,7 @@
     "tooltipDescriptionID": {
       "de": "Das Gesamtvolumen an Munition, das im Munitionsfrachtraum des Schiffs gelagert werden kann",
       "en": "The total volume of charges that can be stored in the ship's ammo hold",
+      "es": "El volumen total de cargas que pueden almacenarse en el arsenal de la nave.",
       "fr": "Volume total de munitions pouvant être transporté dans la soute à munitions du vaisseau.",
       "ja": "艦船の弾薬ホールドに積載できる弾薬の総量です",
       "ko": "탄약고의 총 적재량입니다.",
@@ -7176,6 +7419,7 @@
     "tooltipTitleID": {
       "de": "Munitionsfassungsvermögen",
       "en": "Ammo Hold Capacity",
+      "es": "Capacidad del arsenal",
       "fr": "Capacité de la soute à munitions",
       "ja": "弾薬ホールド容量",
       "ko": "탄약고 적재량",
@@ -7193,6 +7437,7 @@
     "displayNameID": {
       "de": "Bonus für spezielle Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -7214,6 +7459,7 @@
     "displayNameID": {
       "de": "Bonus für spezielle Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -7235,6 +7481,7 @@
     "displayNameID": {
       "de": "Bonus für spezielle Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -7256,6 +7503,7 @@
     "displayNameID": {
       "de": "Bonus für spezielle Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -7299,6 +7547,7 @@
     "displayNameID": {
       "de": "Infrastrukturupgrade erforderlich",
       "en": "Requires Infrastructure Upgrade",
+      "es": "Requiere mejorar la infraestructura",
       "fr": "Requiert une amélioration d'infrastructure.",
       "ja": "インフラストラクチャのアップグレードが必要",
       "ko": "인프라스트럭처 업그레이드 요구량",
@@ -7377,6 +7626,7 @@
     "displayNameID": {
       "de": "Frachtraumkapazität der Kommandozentrale",
       "en": "Command Center Hold Capacity",
+      "es": "Capacidad de la bodega del centro de mando",
       "fr": "Capacité de la soute du centre de commandement",
       "ja": "司令基地の収容容量",
       "ko": "통제센터 저장고 적재량",
@@ -7391,6 +7641,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Frachtraum der Kommandozentrale gelagert werden kann",
       "en": "The total volume that can be stored in the command center hold",
+      "es": "El volumen total que puede almacenarse en la bodega del centro de mando.",
       "fr": "Volume total pouvant être stocké dans le centre de commandement.",
       "ja": "司令基地ホールドに積載できる総量です",
       "ko": "통제센터 저장고에 보관할 수 있는 최대 용량입니다.",
@@ -7400,6 +7651,7 @@
     "tooltipTitleID": {
       "de": "Frachtraumkapazität der Kommandozentrale",
       "en": "Command Center Hold Capacity",
+      "es": "Capacidad de la bodega del centro de mando",
       "fr": "Capacité de la soute du centre de commandement",
       "ja": "司令基地ホールド容量",
       "ko": "통제센터 저장고 적재량",
@@ -7417,6 +7669,7 @@
     "displayNameID": {
       "de": "Planetarische Güter-Lagerkapazität",
       "en": "Planetary Commodities Hold Capacity",
+      "es": "Capacidad de bodega de mercancías planetarias",
       "fr": "Capacité de la soute de marchandises planétaires",
       "ja": "惑星商品の収容容量",
       "ko": "행성 생산품 창고 적재량",
@@ -7431,6 +7684,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Frachtraum für planetare Güter gelagert werden kann",
       "en": "The total volume that can be stored in the planetary commodities hold",
+      "es": "El volumen total que se puede almacenar en la bodega de mercancías planetarias.",
       "fr": "Volume total pouvant être stocké dans la soute de marchandises planétaires.",
       "ja": "惑星商品ホールドに積載できる総量です",
       "ko": "행성 생산품 창고에 저장할 수 있는 최대 용량입니다.",
@@ -7440,6 +7694,7 @@
     "tooltipTitleID": {
       "de": "Fassungsvermögen für planetare Güter",
       "en": "Planetary Commodities Hold Capacity",
+      "es": "Capacidad de la bodega de mercancías planetarias",
       "fr": "Capacité de la soute de marchandises planétaires",
       "ja": "惑星商品ホールド容量",
       "ko": "행성 생산품 창고 적재량",
@@ -7509,6 +7764,7 @@
     "displayNameID": {
       "de": "Kapazität des Spezialmaterialien-Hangars",
       "en": "Special material bay capacity",
+      "es": "Capacidad especial de la plataforma de materiales",
       "fr": "Capacité de la baie à matériel spécial",
       "ja": "特殊資源ベイの容量",
       "ko": "특수 자원 저장소 적재량",
@@ -7551,6 +7807,7 @@
     "displayNameID": {
       "de": "Capital Sized Vessel",
       "en": "Capital Sized Vessel",
+      "es": "Nave de tamaño capital",
       "fr": "Vaisseau de taille capitale",
       "ja": "母艦級艦船",
       "ko": "캐피탈 크기 함선",
@@ -7605,6 +7862,7 @@
     "displayNameID": {
       "de": "Bonus auf Signaturradiusabzug und Energiespeicherverbrauch von Mikrowarpantrieben",
       "en": "MWD sig penalty and cap need bonus",
+      "es": "Bonificación de necesidad del condensador y penalización de señal del MMC",
       "fr": "Bonus de pénalité de signature et de besoins énergétiques du PMW",
       "ja": "MWDのシグネチャペナルティとキャパシタ消費軽減ボーナス",
       "ko": "MWD 시그니처 페널티 및 캐패시터 사용량 보너스",
@@ -7625,6 +7883,7 @@
     "displayNameID": {
       "de": "Quafe-Fassungsvermögen",
       "en": "Quafe Hold Capacity",
+      "es": "Capacidad de bodega de Quafe",
       "fr": "Capacité de la soute à Quafe",
       "ja": "クァフェホールド容量",
       "ko": "퀘이프 저장고 적재량",
@@ -8043,6 +8302,7 @@
     "displayNameID": {
       "de": "Analysator-Virusstärkebonus",
       "en": "Analyzer Virus Strength Bonus",
+      "es": "Bonificación de analizador de intensidad del virus",
       "fr": "Bonus de puissance du virus d'analyseur",
       "ja": "アナライザーウイルス強度ボーナス",
       "ko": "분석기 바이러스 침투력 보너스",
@@ -8074,6 +8334,7 @@
     "displayNameID": {
       "de": "Reaktivierungsbonus",
       "en": "Reactivation Bonus",
+      "es": "Bonificación de reactivación",
       "fr": "Bonus de réactivation",
       "ja": "再起動ボーナス",
       "ko": "재활성화 보너스",
@@ -8118,6 +8379,7 @@
     "displayNameID": {
       "de": "Absaugmenge für Rohmaterialien",
       "en": "Raw Material Siphon Amount",
+      "es": "Cantidad de materia prima extraída con sifón",
       "fr": "Quantité de matière brute siphonnée",
       "ja": "未精製資源吸い出し量",
       "ko": "원자재 사이펀 양",
@@ -8139,6 +8401,7 @@
     "displayNameID": {
       "de": "Absaugmenge für veredelte Rohstoffe",
       "en": "Processed Material Siphon Amount",
+      "es": "Cantidad de materiales procesados extraídos con sifón",
       "fr": "Quantité de matériau raffiné siphonné",
       "ja": "1次加工品吸い出し量",
       "ko": "가공 자원 사이펀 양",
@@ -8160,6 +8423,7 @@
     "displayNameID": {
       "de": "Beim Stehlen zerstörte Menge",
       "en": "Amount Destroyed On Steal",
+      "es": "Cantidad destruida al robar",
       "fr": "Quantité détruite par vol",
       "ja": "吸い出し時減損量",
       "ko": "훔칠 때 파괴되는 양",
@@ -8181,6 +8445,7 @@
     "displayNameID": {
       "de": "Absaugmenge für Polymer-Materialien",
       "en": "Polymer Material Siphon Amount",
+      "es": "Cantidad de materiales poliméricos extraídos con sifón",
       "fr": "Quantité de siphon de matériau de polymère",
       "ja": "ポリマー素材吸出量",
       "ko": "중합체 자원 사이펀 양",
@@ -8214,6 +8479,7 @@
     "displayNameID": {
       "de": "Beschränkt auf min. Sicherheitsstatus von",
       "en": "Restricted To Security Level Of At Least",
+      "es": "Restringido a nivel de seguridad de al menos",
       "fr": "Limité au niveau de sécurité le plus faible",
       "ja": "少なくとも以下のセキュリティレベルに制限",
       "ko": "최소 보안 수준으로 제한됩니다.",
@@ -8234,6 +8500,7 @@
     "displayNameID": {
       "de": "Überhitzungsbonus",
       "en": "Overheat Bonus",
+      "es": "Bonificación de sobrecalentamiento",
       "fr": "Bonus de surchauffe",
       "ja": "オーバーヒートボーナス",
       "ko": "오버히트 보너스",
@@ -8267,6 +8534,7 @@
     "displayNameID": {
       "de": "Im Hochsicherheitsraum gesperrt",
       "en": "Banned in High Sec Space",
+      "es": "Prohibido en espacio de seguridad alta",
       "fr": "Banni en espace de haute sécurité",
       "ja": "ハイセク宙域では禁止",
       "ko": "하이 시큐리티 출입 금지 구역",
@@ -8288,6 +8556,7 @@
     "displayNameID": {
       "de": "Sprungerschöpfungsmultiplikator",
       "en": "Jump Fatigue Multiplier",
+      "es": "Multiplicador de fatiga de salto",
       "fr": "Multiplicateur de l'épuisement de saut",
       "ja": "ジャンプ疲労乗数",
       "ko": "점프 피로도 배수",
@@ -8321,6 +8590,7 @@
     "displayNameID": {
       "de": "Tor-Unterbrechungsstatus",
       "en": "Gate Scramble Status",
+      "es": "Estado de inhibición de portales",
       "fr": "Statut du brouillage de portail",
       "ja": "ゲートスクランブルステータス",
       "ko": "게이트 스크램블러 상태",
@@ -8361,6 +8631,7 @@
     "displayNameID": {
       "de": "Abklingzeit zwischen dem Moduswechsel",
       "en": "Cooldown between mode switching",
+      "es": "Espera entre cambios de modo",
       "fr": "Refroidissement entre deux modes",
       "ja": "モードを切り替える間の冷却",
       "ko": "모드 전환 대기시간",
@@ -8558,6 +8829,7 @@
     "displayNameID": {
       "de": "Maximaler Schildschaden (pro Sekunde)",
       "en": "Shield Damage Limit (per second)",
+      "es": "Límite de daño de escudo (por seg.)",
       "fr": "Limite aux dégâts du bouclier (par seconde)",
       "ja": "シールドダメージの上限（毎秒）",
       "ko": "초당 실드 피해 한계",
@@ -8579,6 +8851,7 @@
     "displayNameID": {
       "de": "Maximaler Panzerungsschaden (pro Sekunde)",
       "en": "Armor Damage Limit (per second)",
+      "es": "Límite de daño de blindaje (por seg.)",
       "fr": "Limite aux dégâts du blindage (par seconde)",
       "ja": "アーマーダメージの上限（毎秒）",
       "ko": "초당 장갑 피해 한계",
@@ -8600,6 +8873,7 @@
     "displayNameID": {
       "de": "Maximaler Strukturenschaden (pro Sekunde)",
       "en": "Structure Damage Limit (per second)",
+      "es": "Límite de daño de estructura (por seg.)",
       "fr": "Limite des dégâts de structure (par seconde)",
       "ja": "ストラクチャダメージの上限（毎秒）",
       "ko": "초당 구조물 피해 한계",
@@ -8624,7 +8898,7 @@
   },
   "2043": {
     "attributeID": 2043,
-    "categoryID": 7,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
@@ -8642,6 +8916,7 @@
     "displayNameID": {
       "de": "Präzisionsabfall-Effektivität",
       "en": "Effectiveness Falloff",
+      "es": "Alcance efectivo de eficacia",
       "fr": "Déperdition d'efficacité",
       "ja": "効力減少",
       "ko": "효과 유효사거리",
@@ -8664,6 +8939,7 @@
     "displayNameID": {
       "de": "Widerstand gegen Energiespeicherangriffe",
       "en": "Capacitor Warfare Resistance",
+      "es": "Resistencia guerra condensadores",
       "fr": "Résistance à la guerre de capaciteur",
       "ja": "キャパシタ戦闘レジスタンス",
       "ko": "캐패시터 저항",
@@ -8686,6 +8962,7 @@
     "displayNameID": {
       "de": "Jägerhangarkapazität",
       "en": "Fighter Hangar Capacity",
+      "es": "Capacidad del hangar de cazas",
       "fr": "Capacité du hangar de chasseur",
       "ja": "戦闘機ハンガー容量",
       "ko": "파이터 격납고 크기",
@@ -8708,6 +8985,7 @@
     "displayNameID": {
       "de": "Dienstmodul-Slots",
       "en": "Service Slots",
+      "es": "Ranuras de servicio",
       "fr": "Emplacements de service",
       "ja": "サービススロット",
       "ko": "서비스 슬롯",
@@ -8828,6 +9106,7 @@
     "displayNameID": {
       "de": "Widerstand gegen Sensorbeeinflussung",
       "en": "Sensor Warfare Resistance",
+      "es": "Resistencia a la guerra de sensores",
       "fr": "Résistance à la guerre de détecteur",
       "ja": "センサー戦闘レジスタンス",
       "ko": "센서전 저항",
@@ -8850,6 +9129,7 @@
     "displayNameID": {
       "de": "Widerstand gegen Waffenstörung",
       "en": "Weapon Disruption Resistance",
+      "es": "Resistencia disrupción armas",
       "fr": "Résistance de perturbation d'armement",
       "ja": "兵器妨害レジスタンス",
       "ko": "무기 교란 저항",
@@ -8872,6 +9152,7 @@
     "displayNameID": {
       "de": "Widerstand gegen Zielmarkierungen",
       "en": "Target Painter Resistance",
+      "es": "Resistencia a reveladores de objetivo",
       "fr": "Résistance de Marqueur de cible",
       "ja": "ターゲットぺインター・レジスタンス",
       "ko": "타겟 페인터 저항",
@@ -8894,6 +9175,7 @@
     "displayNameID": {
       "de": "Widerstand gegen Stasisnetze",
       "en": "Stasis Webifier Resistance",
+      "es": "Resistencia redes ralentizadoras",
       "fr": "Résistance de Générateur de stase",
       "ja": "ステイシスウェビファイヤー・レジスタンス",
       "ko": "스테이시스 웹 저항력",
@@ -8916,6 +9198,7 @@
     "displayNameID": {
       "de": "Fernlogistikimpedanz",
       "en": "Remote Logistics Impedance",
+      "es": "Impedancia logística remota",
       "fr": "Impédance logistique à distance",
       "ja": "リモート輸送インピーダンス",
       "ko": "원격 지원 임피던스",
@@ -8938,6 +9221,7 @@
     "displayNameID": {
       "de": "Widerstandsfähigkeit der Schilde gegen EM-Schaden",
       "en": "Shield EM Damage Resistance",
+      "es": "Resistencia electrom. escudo",
       "fr": "Résistance du bouclier aux dégâts EM",
       "ja": "シールド ― EMダメージレジスタンス",
       "ko": "실드 EM 저항력",
@@ -8960,6 +9244,7 @@
     "displayNameID": {
       "de": "Thermalschadensresistenz der Schilde",
       "en": "Shield Thermal Damage Resistance",
+      "es": "Resistencia térmica escudo",
       "fr": "Résistance du bouclier aux dégâts thermiques",
       "ja": "シールド ― サーマルダメージレジスタンス",
       "ko": "실드 열 저항력",
@@ -8982,6 +9267,7 @@
     "displayNameID": {
       "de": "Kinetikschadensresistenz der Schilde",
       "en": "Shield Kinetic Damage Resistance",
+      "es": "Resistencia cinética escudo",
       "fr": "Résistance du bouclier aux dégâts cinétiques",
       "ja": "シールド ― キネティックダメージレジスタンス",
       "ko": "실드 키네틱 저항력",
@@ -9004,6 +9290,7 @@
     "displayNameID": {
       "de": "Explosivschadensresistenz der Schilde",
       "en": "Shield Explosive Damage Resistance",
+      "es": "Resistencia al daño explosivo del escudo",
       "fr": "Résistance du bouclier aux dégâts explosifs",
       "ja": "シールド ― エクスプローシブダメージレジスタンス",
       "ko": "실드 폭발 저항력",
@@ -9026,6 +9313,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9048,6 +9336,7 @@
     "displayNameID": {
       "de": "Explosionsradius",
       "en": "Explosion Radius",
+      "es": "Radio de explosión",
       "fr": "Rayon d'explosion",
       "ja": "爆発半径",
       "ko": "폭발반경",
@@ -9070,6 +9359,7 @@
     "displayNameID": {
       "de": "Explosionsgeschwindigkeit",
       "en": "Explosion Velocity",
+      "es": "Velocidad de explosión",
       "fr": "Vitesse d'explosion",
       "ja": "爆発速度",
       "ko": "폭발속도",
@@ -9114,6 +9404,7 @@
     "displayNameID": {
       "de": "Schadensmultiplikator",
       "en": "Damage Multiplier",
+      "es": "Multiplicador de daño",
       "fr": "Multiplicateur de dégâts",
       "ja": "ダメージ乗数",
       "ko": "데미지 배수",
@@ -9136,6 +9427,7 @@
     "displayNameID": {
       "de": "EM-Schaden (pro Jäger)",
       "en": "EM Damage (Per Fighter)",
+      "es": "Daño electromagnético (por caza)",
       "fr": "Dégâts EM (par chasseur)",
       "ja": "EMダメージ（戦闘機ごと）",
       "ko": "EM 피해량 (파이터 당)",
@@ -9158,6 +9450,7 @@
     "displayNameID": {
       "de": "Thermalschaden (pro Jäger)",
       "en": "Thermal Damage (Per Fighter)",
+      "es": "Daño térmico (por caza)",
       "fr": "Dégâts thermiques (par chasseur)",
       "ja": "サーマルダメージ（戦闘機ごと）",
       "ko": "열 피해량 (파이터 당)",
@@ -9180,6 +9473,7 @@
     "displayNameID": {
       "de": "Kinetikschaden (pro Jäger)",
       "en": "Kinetic Damage (Per Fighter)",
+      "es": "Daño cinético (por caza)",
       "fr": "Dégâts cinétiques (par chasseur)",
       "ja": "キネティックダメージ（戦闘機ごと）",
       "ko": "키네틱 피해량 (파이터 당)",
@@ -9202,6 +9496,7 @@
     "displayNameID": {
       "de": "Explosionsschaden (pro Jäger)",
       "en": "Explosive Damage (Per Fighter)",
+      "es": "Daño explosivo (por caza)",
       "fr": "Dégâts explosifs (par chasseur)",
       "ja": "エクスプローシブダメージ（戦闘機ごと）",
       "ko": "폭발 피해량 (파이터 당)",
@@ -9224,6 +9519,7 @@
     "displayNameID": {
       "de": "Elektronische Fernunterstützungsimpedanz",
       "en": "Remote Electronic Assistance Impedance",
+      "es": "Impedancia de asistencia electrónica remota",
       "fr": "Impédance du soutient électronique à distance",
       "ja": "リモート電子アシスタンスのインピーダンス",
       "ko": "원격 전자 지원 임피던스",
@@ -9258,6 +9554,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal Range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -9280,6 +9577,7 @@
     "displayNameID": {
       "de": "Maximaler Geschwindigkeitsbonus",
       "en": "Maximum Velocity Bonus",
+      "es": "Bonificación de velocidad máxima",
       "fr": "Bonus de vitesse maximale",
       "ja": "最高速度ボーナス",
       "ko": "최대 속도 보너스",
@@ -9302,6 +9600,7 @@
     "displayNameID": {
       "de": "Maximaler Geschwindigkeitsbonus",
       "en": "Maximum Velocity Bonus",
+      "es": "Bonificación de velocidad máxima",
       "fr": "Bonus de vitesse maximale",
       "ja": "最高速度ボーナス",
       "ko": "최대 속도 보너스",
@@ -9324,6 +9623,7 @@
     "displayNameID": {
       "de": "Signaturradius-Bonus",
       "en": "Signature Radius Bonus",
+      "es": "Bonificación de radio de la señal",
       "fr": "Bonus de rayon de signature",
       "ja": "シグネチャ半径ボーナス",
       "ko": "시그니처 반경 보너스",
@@ -9346,6 +9646,7 @@
     "displayNameID": {
       "de": "Sprungreichweite",
       "en": "Jump Range",
+      "es": "Alcance de salto",
       "fr": "Portée de saut",
       "ja": "ジャンプ距離",
       "ko": "점프 거리",
@@ -9368,6 +9669,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9390,6 +9692,7 @@
     "displayNameID": {
       "de": "Signaturradius-Bonus",
       "en": "Signature Radius Bonus",
+      "es": "Bonificación de radio de la señal",
       "fr": "Bonus de rayon de signature",
       "ja": "シグネチャ半径ボーナス",
       "ko": "시그니처 반경 보너스",
@@ -9412,6 +9715,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9434,6 +9738,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9468,6 +9773,7 @@
     "displayNameID": {
       "de": "Feuerrate",
       "en": "Rate of fire",
+      "es": "Cadencia de tiro",
       "fr": "Cadence de tir",
       "ja": "射撃速度",
       "ko": "연사속도",
@@ -9490,6 +9796,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9512,6 +9819,7 @@
     "displayNameID": {
       "de": "Maximaler Geschwindigkeitsbonus (pro Jäger)",
       "en": "Maximum Velocity Bonus (Per Fighter)",
+      "es": "Bonificación de velocidad máx. (por caza)",
       "fr": "Bonus de vitesse maximale (par chasseur)",
       "ja": "最高速度ボーナス（戦闘機ごと）",
       "ko": "최대 속도 보너스 (파이터 당)",
@@ -9546,6 +9854,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal Range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -9568,6 +9877,7 @@
     "displayNameID": {
       "de": "Präzisionsabfall-Effektivität",
       "en": "Effectiveness Falloff",
+      "es": "Alcance efectivo de eficacia",
       "fr": "Déperdition d'efficacité",
       "ja": "効力減少",
       "ko": "효과 유효사거리",
@@ -9614,6 +9924,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9636,6 +9947,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal Range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -9658,6 +9970,7 @@
     "displayNameID": {
       "de": "Warpstörstärke (pro Jäger)",
       "en": "Warp Disruption Strength (Per Fighter)",
+      "es": "Fuerza de disrupción de warp (por caza)",
       "fr": "Puissance de perturbation de warp (par chasseur)",
       "ja": "ワープ妨害強度（戦闘機ごと）",
       "ko": "워프 디스럽션 강도 (파이터 당)",
@@ -9690,6 +10003,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9712,6 +10026,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal Range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -9734,6 +10049,7 @@
     "displayNameID": {
       "de": "Präzisionsabfall-Effektivität",
       "en": "Effectiveness Falloff",
+      "es": "Alcance efectivo de eficacia",
       "fr": "Déperdition d'efficacité",
       "ja": "効力減少",
       "ko": "효과 유효사거리",
@@ -9756,6 +10072,7 @@
     "displayNameID": {
       "de": "Menge an neutralisierter Energie (pro Jäger)",
       "en": "Energy Amount Neutralized (Per Fighter)",
+      "es": "Cantidad de energía neutralizada (por caza)",
       "fr": "Total de l'énergie neutralisée (par chasseur)",
       "ja": "無効になるエネルギー量（戦闘機ごと）",
       "ko": "뉴트럴라이즈된 에너지 총량 (파이터 당)",
@@ -9811,6 +10128,7 @@
     "displayNameID": {
       "de": "Staffelgröße",
       "en": "Squadron Size",
+      "es": "Tamaño del escuadrón",
       "fr": "Taille de l'escadron",
       "ja": "艦隊のサイズ",
       "ko": "편대 크기",
@@ -9831,6 +10149,7 @@
     "displayNameID": {
       "de": "Jägerstaffel-Startrohre",
       "en": "Fighter Squadron Launch Tubes",
+      "es": "Tubos de lanzamiento de escuadrones de cazas",
       "fr": "Tubes de lancement des escadrons de chasseurs",
       "ja": "戦闘機部隊離陸用トンネル",
       "ko": "파이터 편대 사출관",
@@ -9852,6 +10171,7 @@
     "displayNameID": {
       "de": "Limit für Leichte Jägerstaffeln",
       "en": "Light Fighter Squadron Limit",
+      "es": "Límite de escuadrones de cazas ligeros",
       "fr": "Limite d'escadrons de chasseurs légers",
       "ja": "軽量級戦闘機部隊の制限",
       "ko": "라이트 파이터 편대 한계",
@@ -9873,6 +10193,7 @@
     "displayNameID": {
       "de": "Limit für Unterstützungsjägerstaffeln",
       "en": "Support Fighter Squadron Limit",
+      "es": "Límite de escuadrones de cazas de apoyo",
       "fr": "Limite d'escadrons de chasseurs de soutien",
       "ja": "支援戦闘機部隊の制限",
       "ko": "서포트 파이터 편대 한계",
@@ -9894,6 +10215,7 @@
     "displayNameID": {
       "de": "Limit für Schwere Jägerstaffeln",
       "en": "Heavy Fighter Squadrons Limit",
+      "es": "Límite de escuadrones de cazas pesados",
       "fr": "Limite d'escadrons de chasseurs lourds",
       "ja": "重量級戦闘機部隊の制限",
       "ko": "헤비 파이터 편대 한계",
@@ -9915,6 +10237,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -9937,6 +10260,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal Range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -9959,6 +10283,7 @@
     "displayNameID": {
       "de": "Präzisionsabfall-Effektivität",
       "en": "Effectiveness Falloff",
+      "es": "Alcance efectivo de eficacia",
       "fr": "Déperdition d'efficacité",
       "ja": "効力減少",
       "ko": "효과 유효사거리",
@@ -9981,6 +10306,7 @@
     "displayNameID": {
       "de": "Orbitale Reichweite",
       "en": "Orbit Range",
+      "es": "Alcance orbital",
       "fr": "Portée en orbite",
       "ja": "旋回範囲",
       "ko": "선회 거리",
@@ -10003,6 +10329,7 @@
     "displayNameID": {
       "de": "Maximaler Geschwindigkeitsbonus",
       "en": "Maximum Velocity Bonus",
+      "es": "Bonificación de velocidad máxima",
       "fr": "Bonus de vitesse maximale",
       "ja": "最高速度ボーナス",
       "ko": "최대 속도 보너스",
@@ -10025,6 +10352,7 @@
     "displayNameID": {
       "de": "Signaturradius-Reduktion",
       "en": "Signature Radius Reduction",
+      "es": "Reducción de radio de la señal",
       "fr": "Réduction de rayon de signature",
       "ja": "シグネチャ半径縮小",
       "ko": "시그니처 반경 감소",
@@ -10047,6 +10375,7 @@
     "displayNameID": {
       "de": "Schadensmultiplikator",
       "en": "Damage Multiplier",
+      "es": "Multiplicador de daño",
       "fr": "Multiplicateur de dégâts",
       "ja": "ダメージ乗数",
       "ko": "데미지 배수",
@@ -10069,6 +10398,7 @@
     "displayNameID": {
       "de": "EM-Schaden (pro Jäger)",
       "en": "EM Damage (Per Fighter)",
+      "es": "Daño electromagnético (por caza)",
       "fr": "Dégâts EM (par chasseur)",
       "ja": "EMダメージ（戦闘機ごと）",
       "ko": "EM 피해량 (파이터 당)",
@@ -10091,6 +10421,7 @@
     "displayNameID": {
       "de": "Thermalschaden (pro Jäger)",
       "en": "Thermal Damage (Per Fighter)",
+      "es": "Daño térmico (por caza)",
       "fr": "Dégâts thermiques (par chasseur)",
       "ja": "サーマルダメージ（戦闘機ごと）",
       "ko": "열 피해량 (파이터 당)",
@@ -10113,6 +10444,7 @@
     "displayNameID": {
       "de": "Kinetikschaden (pro Jäger)",
       "en": "Kinetic Damage (Per Fighter)",
+      "es": "Daño cinético (por caza)",
       "fr": "Dégâts cinétiques (par chasseur)",
       "ja": "キネティックダメージ（戦闘機ごと）",
       "ko": "키네틱 피해량 (파이터 당)",
@@ -10135,6 +10467,7 @@
     "displayNameID": {
       "de": "Explosionsschaden (pro Jäger)",
       "en": "Explosive Damage (Per Fighter)",
+      "es": "Daño explosivo (por caza)",
       "fr": "Dégâts explosifs (par chasseur)",
       "ja": "エクスプローシブダメージ（戦闘機ごと）",
       "ko": "폭발 피해량 (파이터 당)",
@@ -10179,6 +10512,7 @@
     "displayNameID": {
       "de": "Feuerrate",
       "en": "Rate of fire",
+      "es": "Cadencia de tiro",
       "fr": "Cadence de tir",
       "ja": "射撃速度",
       "ko": "연사속도",
@@ -10201,6 +10535,7 @@
     "displayNameID": {
       "de": "Explosionsradius",
       "en": "Explosion Radius",
+      "es": "Radio de explosión",
       "fr": "Rayon d'explosion",
       "ja": "爆発半径",
       "ko": "폭발반경",
@@ -10223,6 +10558,7 @@
     "displayNameID": {
       "de": "Explosionsgeschwindigkeit",
       "en": "Explosion Velocity",
+      "es": "Velocidad de explosión",
       "fr": "Vitesse d'explosion",
       "ja": "爆発速度",
       "ko": "폭발속도",
@@ -10245,6 +10581,7 @@
     "displayNameID": {
       "de": "Optimale Reichweite",
       "en": "Optimal range",
+      "es": "Alcance óptimo",
       "fr": "Portée optimale",
       "ja": "最適射程距離",
       "ko": "최적사거리",
@@ -10267,6 +10604,7 @@
     "displayNameID": {
       "de": "Präzisionsreduktion",
       "en": "Accuracy Falloff",
+      "es": "Alcance efectivo de precisión",
       "fr": "Perte de précision",
       "ja": "精度低下",
       "ko": "명중률 유효사거리",
@@ -10289,6 +10627,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -10311,6 +10650,7 @@
     "displayNameID": {
       "de": "Reichweite",
       "en": "Range",
+      "es": "Alcance",
       "fr": "Portée",
       "ja": "範囲",
       "ko": "거리",
@@ -10333,6 +10673,7 @@
     "displayNameID": {
       "de": "Maximaler Geschwindigkeitsbonus (pro Jäger)",
       "en": "Maximum Velocity Bonus (Per Fighter)",
+      "es": "Bonificación de velocidad máxima (por caza)",
       "fr": "de bonus à la vitesse maximale (par chasseur)",
       "ja": "最高速度ボーナス（戦闘機ごと）",
       "ko": "최대 속도 보너스 (파이터 당)",
@@ -10379,6 +10720,7 @@
     "displayNameID": {
       "de": "Gravimetrische ECM-Störstärke (pro Jäger)",
       "en": "Gravimetric ECM Jammer Strength (Per Fighter)",
+      "es": "Intensidad del perturbador ECM gravimétrico (por caza)",
       "fr": "Puissance gravimétrique CME (par chasseur)",
       "ja": "重力ECMジャマー強度（戦闘機ごと）",
       "ko": "중력장 ECM 재머 강도 (파이터 당)",
@@ -10400,6 +10742,7 @@
     "displayNameID": {
       "de": "Ladar-ECM-Störstärke (pro Jäger)",
       "en": "Ladar ECM Jammer Strength (Per Fighter)",
+      "es": "Intensidad del perturbador ECM del lidar (por caza)",
       "fr": "Puissance de détection ladar CME (par chasseur)",
       "ja": "光学ECMジャマー強度（戦闘機ごと）",
       "ko": "라이다 ECM 재머 강도 (파이터 당)",
@@ -10421,6 +10764,7 @@
     "displayNameID": {
       "de": "Magnetometrische ECM-Störstärke (pro Jäger)",
       "en": "Magnetometric ECM Jammer Strength (Per Fighter)",
+      "es": "Intensidad del perturbador ECM magnetométrico (por caza)",
       "fr": "Puissance de détection magnétométrique CME (par chasseur)",
       "ja": "磁気ECMジャマー強度（戦闘機ごと）",
       "ko": "자기 ECM 재머 강도 (파이터 당)",
@@ -10442,6 +10786,7 @@
     "displayNameID": {
       "de": "Radar-ECM-Störstärke (pro Jäger)",
       "en": "Radar ECM Jammer Strength (Per Fighter)",
+      "es": "Intensidad del perturbador ECM del radar (por caza)",
       "fr": "Puissance de détection radar CME (par chasseur)",
       "ja": "レーダーECMジャマー強度（戦闘機ごと）",
       "ko": "레이더 ECM 재머 강도 (파이터 당)",
@@ -10485,6 +10830,7 @@
     "displayNameID": {
       "de": "ECM-Resistenz",
       "en": "ECM Resistance",
+      "es": "Resistencia a las ECM",
       "fr": "Résistance CME",
       "ja": "ECMレジスタンス",
       "ko": "ECM 저항력",
@@ -10507,6 +10853,7 @@
     "displayNameID": {
       "de": "Maximale Anbindereichweite",
       "en": "Maximum tethering range",
+      "es": "Alcance máximo de amarre",
       "fr": "Maximum tethering range",
       "ja": "テザリング最大範囲",
       "ko": "최대 테더링 거리",
@@ -10914,6 +11261,7 @@
     "displayNameID": {
       "de": "EM-Schaden (pro Jäger)",
       "en": "EM Damage (Per Fighter)",
+      "es": "Daño electromagnético (por caza)",
       "fr": "Dégâts EM (par chasseur)",
       "ja": "EMダメージ（戦闘機ごと）",
       "ko": "EM 피해량 (파이터 당)",
@@ -10935,6 +11283,7 @@
     "displayNameID": {
       "de": "Thermalschaden (pro Jäger)",
       "en": "Thermal Damage (Per Fighter)",
+      "es": "Daño térmico (por caza)",
       "fr": "Dégâts thermiques (par chasseur)",
       "ja": "サーマルダメージ（戦闘機ごと）",
       "ko": "열 피해량 (파이터 당)",
@@ -10956,6 +11305,7 @@
     "displayNameID": {
       "de": "Kinetikschaden (pro Jäger)",
       "en": "Kinetic Damage (Per Fighter)",
+      "es": "Daño cinético (por caza)",
       "fr": "Dégâts cinétiques (par chasseur)",
       "ja": "キネティックダメージ（戦闘機ごと）",
       "ko": "키네틱 피해량 (파이터 당)",
@@ -10977,6 +11327,7 @@
     "displayNameID": {
       "de": "Explosionsschaden (pro Jäger)",
       "en": "Explosive Damage (Per Fighter)",
+      "es": "Daño explosivo (por caza)",
       "fr": "Dégâts explosifs (par chasseur)",
       "ja": "エクスプローシブダメージ（戦闘機ごと）",
       "ko": "폭발 피해량 (파이터 당)",
@@ -11057,6 +11408,7 @@
     "displayNameID": {
       "de": "Dauer",
       "en": "Duration",
+      "es": "Duración",
       "fr": "Durée",
       "ja": "持続時間",
       "ko": "지속시간",
@@ -11618,6 +11970,7 @@
     "displayNameID": {
       "de": "Warpstörungsstärke",
       "en": "Warp Disruption Strength",
+      "es": "Intensidad de la disrupción de warp",
       "fr": "Puissance de perturbation de warp",
       "ja": "ワープ妨害強度",
       "ko": "워프 디스럽션 강도",
@@ -11638,6 +11991,7 @@
     "displayNameID": {
       "de": "Auftankdauer",
       "en": "Refueling Duration",
+      "es": "Duración de repostaje",
       "fr": "Durée du ravitaillement",
       "ja": "エネルギー補給時間",
       "ko": "연료 보급 지속시간",
@@ -11684,6 +12038,7 @@
     "displayNameID": {
       "de": "Neutralisierung-Signaturauflösung",
       "en": "Neutralization Signature Resolution",
+      "es": "Resolución de señal de neutralización",
       "fr": "Résolution de signature de neutralisation",
       "ja": "無効化シグネチャ解像度",
       "ko": "뉴트럴라이제이션 신호 정밀도",
@@ -11706,6 +12061,7 @@
     "displayNameID": {
       "de": "Neutralisierung-Präzisionsabfall",
       "en": "Neutralization Falloff Range",
+      "es": "Alcance efectivo de neutralización",
       "fr": "Portée de perte de neutralisation",
       "ja": "無効化精度低下範囲",
       "ko": "뉴트럴라이제이션 유효사거리",
@@ -11762,6 +12118,7 @@
     "displayNameID": {
       "de": "Leichenfassungsvermögen",
       "en": "Corpse Hold Capacity",
+      "es": "Capacidad del depósito de cadáveres",
       "fr": "Capacité de la soute à cadavres",
       "ja": "死体貯蔵庫容量",
       "ko": "사체 저장고 적재량",
@@ -11776,6 +12133,7 @@
     "tooltipDescriptionID": {
       "de": "Das Gesamtvolumen an Leichen, das im Leichenfrachtraum des Schiffs gelagert werden kann",
       "en": "The total volume of corpses that can be stored in the ship's corpse hold",
+      "es": "El volumen total de cadáveres que pueden almacenarse en el depósito de la nave.",
       "fr": "Volume total de cadavres pouvant être transportés dans la soute à cadavres du vaisseau.",
       "ja": "この艦の死体貯蔵庫に保管できる死体の総量です",
       "ko": "사체 저장고의 총 적재량입니다.",
@@ -11785,6 +12143,7 @@
     "tooltipTitleID": {
       "de": "Leichenfassungsvermögen",
       "en": "Corpse Hold Capacity",
+      "es": "Capacidad del depósito de cadáveres",
       "fr": "Capacité de la soute à cadavres",
       "ja": "死体貯蔵庫容量",
       "ko": "사체 저장고 적재량",
@@ -11814,6 +12173,7 @@
     "displayNameID": {
       "de": "Bonus auf die effektive Reichweite von Kommandostrahlen",
       "en": "Command Burst Effect Range Bonus",
+      "es": "Bonif. de alcance de efecto del estallido de mando",
       "fr": "Bonus à la portée des effets des salves de commandement",
       "ja": "コマンドバーストの効果範囲ボーナス",
       "ko": "커맨드 버스트 사거리 보너스",
@@ -11971,6 +12331,7 @@
     "displayNameID": {
       "de": "Boosterkapazität",
       "en": "Booster Hold Capacity",
+      "es": "Capacidad de bodega de potenciadores",
       "fr": "Capacité de la soute à boosters",
       "ja": "ブースターホールド容量",
       "ko": "부스터 저장고 적재량",
@@ -11985,6 +12346,7 @@
     "tooltipDescriptionID": {
       "de": "Das Gesamtvolumen an Pharmazeutika, das im Boosterfrachtraum des Schiffs gelagert werden kann",
       "en": "The total volume of pharmaceuticals that can be stored in the ship's booster hold",
+      "es": "El volumen total de fármacos que pueden almacenarse en la bodega de potenciadores de la nave.",
       "fr": "Volume total de drogues pharmaceutiques pouvant être transportées dans la soute à boosters du vaisseau.",
       "ja": "艦船のブースターホールドに積載できる医薬品の総量",
       "ko": "부스터 창고의 총 적재량입니다.",
@@ -11994,6 +12356,7 @@
     "tooltipTitleID": {
       "de": "Boosterkapazität",
       "en": "Booster Hold Capacity",
+      "es": "Capacidad de la bodega de potenciadores",
       "fr": "Capacité de la soute à boosters",
       "ja": "ブースターホールド容量",
       "ko": "부스터 저장고 적재량",
@@ -12011,6 +12374,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für Nosferatu und Neutralizer",
       "en": "Nosferatu and Neutralizer fitting reduction",
+      "es": "Reducción de equipamiento de nosferatu y neutralizador",
       "fr": "Réduction d'équipement Nosferatu et Neutraliseur",
       "ja": "ノスフェラトゥとニュートラライザーの装備要件軽減",
       "ko": "노스페라투와 뉴트럴라이저 피팅 감소",
@@ -12032,6 +12396,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für mittleren Hybridwaffenturm",
       "en": "Medium Hybrid Turret fitting reduction",
+      "es": "Reducción de equipamiento de torreta híbrida mediana",
       "fr": "Réduction d'équipement de tourelle hybride intermédiaire",
       "ja": "中型ハイブリッドタレットの装備要件軽減",
       "ko": "중형 하이브리드 터렛 피팅 감소",
@@ -12053,6 +12418,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für mittleren Projektilwaffenturm",
       "en": "Medium Projectile Turret fitting reduction",
+      "es": "Reducción de equipamiento de torreta de proyectiles mediana",
       "fr": "Réduction d'équipement de tourelle à projectiles intermédiaire",
       "ja": "中型プロジェクタイルタレットの装備要件軽減",
       "ko": "중형 발사체 터렛 피팅 감소",
@@ -12074,6 +12440,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für mittleren Energiewaffenturm",
       "en": "Medium Energy Turret fitting reduction",
+      "es": "Reducción de equipamiento de torreta de energía mediana",
       "fr": "Réduction d'équipement de tourelle à énergie intermédiaire",
       "ja": "中型エネルギータレットの装備要件軽減",
       "ko": "중형 에너지 터렛 피팅 감소",
@@ -12095,6 +12462,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für mittleren Lenkwaffenwerfer",
       "en": "Medium Missile Launcher fitting reduction",
+      "es": "Reducción de equipamiento de lanzamisiles mediano",
       "fr": "Réduction d'équipement de lance-missiles intermédiaire",
       "ja": "中型ミサイルランチャーの装備要件軽減",
       "ko": "중형 미사일 런처 피팅 감소",
@@ -12116,6 +12484,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für mittleren Schildfernbooster",
       "en": "Medium Remote Shield Booster fitting reduction",
+      "es": "Reducción de equipamiento de potenciador de escudo remoto mediano",
       "fr": "Réduction d'équipement de booster de bouclier à distance intermédiaire",
       "ja": "中型リモートシールドブースターの装備要件軽減",
       "ko": "중형 원격 실드 부스터 피팅 감소",
@@ -12137,6 +12506,7 @@
     "displayNameID": {
       "de": "Ausrüstungsreduktion für mittleres Panzerungs-Fernreparatursystem",
       "en": "Medium Remote Armor Repairer fitting reduction",
+      "es": "Reducción de equipamiento de reparador de blindaje remoto mediano",
       "fr": "Réduction d'équipement de réparateur de blindage à distance intermédiaire",
       "ja": "中型リモートアーマーリペアラの装備要件軽減",
       "ko": "중형 원격 장갑수리 장치 피팅 감소",
@@ -12158,6 +12528,7 @@
     "displayNameID": {
       "de": "Fassungsvermögen des Subsystems",
       "en": "Subsystem Hold Capacity",
+      "es": "Capacidad de la bodega del subsistema",
       "fr": "Capacité de la soute du sous-système",
       "ja": "サブシステムホールド容量",
       "ko": "서브시스템 저장고 적재량",
@@ -12172,6 +12543,7 @@
     "tooltipDescriptionID": {
       "de": "Das Gesamtvolumen an Subsystemen, das im Subsystemhangar des Schiffs gelagert werden kann.",
       "en": "The total volume of subsystems that can be stored in the ship's subsystem hold",
+      "es": "El volumen total de subsistemas que pueden almacenarse en la bodega de subsistemas de la nave.",
       "fr": "Volume total de sous-systèmes pouvant être entreposés dans la soute à sous-systèmes du vaisseau.",
       "ja": "艦船のサブシステムホールドに積載できるサブシステムの総量",
       "ko": "서브시스템 저장고의 총 적재량입니다.",
@@ -12181,6 +12553,7 @@
     "tooltipTitleID": {
       "de": "Fassungsvermögen des Subsystems",
       "en": "Subsystem Hold Capacity",
+      "es": "Capacidad de la bodega del subsistema",
       "fr": "Capacité de la soute à sous-systèmes",
       "ja": "サブシステムホールド容量",
       "ko": "서브시스템 저장고 적재량",
@@ -12330,6 +12703,7 @@
     "displayNameID": {
       "de": "HP-Bonus für Struktur",
       "en": "Structure Hitpoint Bonus",
+      "es": "Bonificación de puntos de vida de estructura",
       "fr": "Bonus de points de vie de structure",
       "ja": "ストラクチャHPボーナス",
       "ko": "구조물 내구도 보너스",
@@ -12351,6 +12725,7 @@
     "displayNameID": {
       "de": "Frachtraumbonus",
       "en": "Cargo Capacity Bonus",
+      "es": "Bonificación de capacidad de carga",
       "fr": "Bonus de capacité de la soute",
       "ja": "カーゴ容量ボーナス",
       "ko": "화물 적재량 보너스",
@@ -12373,6 +12748,7 @@
     "displayNameID": {
       "de": "Zusätzlicher Trägheitsmodifikator",
       "en": "Additional Inertia Modifier",
+      "es": "Modificador de inercia adicional",
       "fr": "Modificateur d'inertie supplémentaire",
       "ja": "追加慣性乗数",
       "ko": "추가 관성 계수",
@@ -12393,6 +12769,7 @@
     "displayNameID": {
       "de": "Reduzierung der Kommandostrahlen-Ausrüstung",
       "en": "Command Burst fitting reduction",
+      "es": "Reducción de equipamiento del estallido de mando",
       "fr": "Réduction d'équipement d'explosion de commandement",
       "ja": "コマンドバーストの装備要件軽減",
       "ko": "커맨드 버스트 피팅 감소",
@@ -12414,6 +12791,7 @@
     "displayNameID": {
       "de": "Bonus auf Präzisionsabfall für Schildfernbooster",
       "en": "Remote Shield Booster Falloff Bonus",
+      "es": "Bonificación de alcance efectivo del potenciador de escudo remoto",
       "fr": "Bonus de perte de puissance de booster de bouclier à distance",
       "ja": "リモートシールドブースター性能低下ボーナス",
       "ko": "원격 실드 부스터 유효사거리 보너스",
@@ -12435,6 +12813,7 @@
     "displayNameID": {
       "de": "Bonus auf Präzisionsabfall für Panzerungs-Fernreparatursystem",
       "en": "Remote Armor Repairer Falloff Bonus",
+      "es": "Bonificación de alcance efectivo del reparador de blindaje remoto",
       "fr": "Bonus de perte de puissance de réparateurs de blindage à distance",
       "ja": "リモートアーマーリペアラ精度低下ボーナス",
       "ko": "원격 장갑수리 장치 유효사거리 보너스",
@@ -12456,6 +12835,7 @@
     "displayNameID": {
       "de": "Bonus auf optimale Reichweite für Panzerungs-Fernreparatursystem",
       "en": "Remote Armor Repairer Optimal Range Bonus",
+      "es": "Bonificación de alcance óptimo del reparador de blindaje remoto",
       "fr": "Bonus de portée optimale de réparateurs de blindage à distance",
       "ja": "リモートアーマーリペアラ最適範囲ボーナス",
       "ko": "원격 장갑수리 최적사거리 보너스",
@@ -12489,6 +12869,7 @@
     "displayNameID": {
       "de": "Verfallzeit des Mondasteroiden",
       "en": "Moon Asteroid Decay Time",
+      "es": "Velocidad de descomposición de asteroides lunares",
       "fr": "Durée d'effritement des astéroïdes lunaires",
       "ja": "衛星アステロイド崩壊時間",
       "ko": "위성 소행성 풍화 시간",
@@ -12532,6 +12913,7 @@
     "displayNameID": {
       "de": "Ungefähre Lebensdauer erschaffener Asteroiden",
       "en": "Approximate lifetime of spawned asteroids",
+      "es": "Vida útil aproximada de asteroides generados",
       "fr": "Durée de vie approximative des astéroïdes créés",
       "ja": "出現したアステロイドの推定残存時間",
       "ko": "신규 소행성의 생명력 근사값",
@@ -12599,6 +12981,7 @@
     "displayNameID": {
       "de": "Standup-Limit für Leichte Jägerstaffeln",
       "en": "Standup Light Fighter Squadron Limit",
+      "es": "Límite de escuadrón de cazas ligeros Standup",
       "fr": "Limite d'escadrons de chasseurs légers Standup",
       "ja": "スタンドアップ軽戦闘機分隊制限",
       "ko": "스탠드업 라이트 파이터 편대 제한",
@@ -12620,6 +13003,7 @@
     "displayNameID": {
       "de": "Standup-Limit für Unterstützungsjägerstaffeln",
       "en": "Standup Support Fighter Squadron Limit",
+      "es": "Límite de escuadrón de cazas de apoyo Standup",
       "fr": "Limite d'escadrons de chasseurs de soutien Standup",
       "ja": "スタンドアップサポート戦闘機分隊制限",
       "ko": "스탠드업 서포트 파이터 편대 제한",
@@ -12641,6 +13025,7 @@
     "displayNameID": {
       "de": "Standup-Limit für Schwere Jägerstaffeln",
       "en": "Standup Heavy Fighter Squadrons Limit",
+      "es": "Límite de escuadrón de cazas pesados Standup",
       "fr": "Limite d'escadrons de chasseurs lourds Standup",
       "ja": "スタンドアップ重戦闘機分隊制限",
       "ko": "스탠드업 헤비 파이터 편대 제한",
@@ -12706,6 +13091,7 @@
     "displayNameID": {
       "de": "Bonus auf die Feuerrate von Lenkbombenwerfern und Pulsprojektoren",
       "en": "Bonus to the Rate of Fire of Guided Bomb Launchers and Burst Projectors",
+      "es": "Bonificación a la cadencia de tiro de lanzabombas guiados y proyectores de estallido",
       "fr": "Bonus à la cadence de tir des lanceurs de bombes ciblées et des projecteurs à salves",
       "ja": "誘導ボムランチャーとバーストプロジェクターの発射間隔へのボーナス",
       "ko": "유도 폭탄 런처와 버스트 프로젝터의 연사속도 보너스",
@@ -12763,6 +13149,7 @@
     "displayNameID": {
       "de": "Reduktion der Ausrüstungsvoraussetzungen für AB, MWD, MJD",
       "en": "Reduction in AB, MWD, MJD fitting requirements",
+      "es": "Reducción de requisitos de equipamiento de PQ, MMC, MMS",
       "fr": "Abaissement des prérequis de montage de la PC, du PMW et du PMS",
       "ja": "アフターバーナーやマイクロワープドライブ、マイクロジャンプドライブの装備要件軽減",
       "ko": "AB, MWD, MJD 피팅 요구량 감소",
@@ -12785,6 +13172,7 @@
     "displayNameID": {
       "de": "Entosis-Unterstützungsimpedanz",
       "en": "Entosis Assistance Impedance",
+      "es": "Impedancia de asistencia de entosis",
       "fr": "Impédance de l'assistance Entosis",
       "ja": "エントーシスアシスタントインピーダンス",
       "ko": "엔토시스 지원 임피던스",
@@ -12798,6 +13186,7 @@
     "tooltipDescriptionID": {
       "de": "Unterstützungsimpedanz bei aktivem Entosis-Netzwerk",
       "en": "Assistance Impedance while running an Entosis Link",
+      "es": "Impedancia de asistencia al usar un enlace de entosis.",
       "fr": "Impédance de l'assistance lors de l'exploitation d'une liaison Entosis",
       "ja": "エントーシスリンク起動時のアシスタントインピーダンス",
       "ko": "엔토시스 링크 작동 중 지원 임피던스",
@@ -12807,6 +13196,7 @@
     "tooltipTitleID": {
       "de": "Entosis-Unterstützungsimpedanz",
       "en": "Entosis Assistance Impedance",
+      "es": "Impedancia de asistencia de entosis",
       "fr": "Impédance de l'assistance Entosis",
       "ja": "エントーシスアシスタントインピーダンス",
       "ko": "엔토시스 지원 임피던스",
@@ -12824,6 +13214,7 @@
     "displayNameID": {
       "de": "Stärkeanpassung der Zielmarkierung",
       "en": "Modification of Target Painter strength",
+      "es": "Modificación de la intensidad del revelador de objetivo",
       "fr": "Modification de la force du marqueur de cible",
       "ja": "ターゲットペインターの強度修正値",
       "ko": "타겟 페인터 강도 조정",
@@ -12846,6 +13237,7 @@
     "displayNameID": {
       "de": "Bonus auf die optimale Reichweite der Zielmarkierung",
       "en": "Bonus to Target Painter optimal range",
+      "es": "Bonificación al alcance óptimo del revelador de objetivo",
       "fr": "Bonus à la portée optimale du marqueur de cible",
       "ja": "ターゲットペインターの最適射程距離へのボーナス",
       "ko": "타겟 페인터 최적사거리 보너스",
@@ -12868,6 +13260,7 @@
     "displayNameID": {
       "de": "Verringerung der Ausrüstungsanforderungen für Zielmarkierung und Scansondenwerfer",
       "en": "Reduction in Target Painter and Scan Probe Launcher fitting requirements",
+      "es": "Reducción de los requisitos de equipamiento para el revelador de objetivo y el lanzasondas de escaneo",
       "fr": "Réduction des prérequis de montage du marqueur de cible et du lanceur de sonde",
       "ja": "ターゲットペインターとスキャンプローブランチャーの装備要件軽減",
       "ko": "타켓 지시기 및 스캔 프로브 런처 피팅 요구조건 감소",
@@ -12890,6 +13283,7 @@
     "displayNameID": {
       "de": "Bonus für besondere Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -12911,6 +13305,7 @@
     "displayNameID": {
       "de": "Bonus für besondere Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -12932,6 +13327,7 @@
     "displayNameID": {
       "de": "Bonus für besondere Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -12953,6 +13349,7 @@
     "displayNameID": {
       "de": "Bonus für besondere Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -12974,6 +13371,7 @@
     "displayNameID": {
       "de": "Bonus für besondere Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -12995,6 +13393,7 @@
     "displayNameID": {
       "de": "Bonus für besondere Fähigkeit",
       "en": "Special Ability Bonus",
+      "es": "Bonificación de capacidad especial",
       "fr": "Bonus d'aptitude particulière",
       "ja": "特殊能力ボーナス",
       "ko": "특수 능력 보너스",
@@ -13016,6 +13415,7 @@
     "displayNameID": {
       "de": "Warpgeschwindigkeits- und Beschleunigungsbonus",
       "en": "Warp Speed and Acceleration Bonus",
+      "es": "Bonificación de aceleración y velocidad de warp",
       "fr": "Bonus à la vitesse de warp et à l'accélération de warp",
       "ja": "ワープ速度と加速度ボーナス",
       "ko": "위프 속도 및 가속도 보너스",
@@ -13037,6 +13437,7 @@
     "displayNameID": {
       "de": "Maximale Frachtdepot-Reichweite",
       "en": "Maximum cargo deposit range",
+      "es": "Alcance máx. del depósito de carga",
       "fr": "Portée maximale de la soute",
       "ja": "カーゴデポジットの最大範囲",
       "ko": "최대 화물 적재 거리",
@@ -13069,6 +13470,7 @@
     "displayNameID": {
       "de": "Treibstoffverbrauch für Sprungportal hinzugefügt",
       "en": "Added Jump Portal Fuel Consumption",
+      "es": "Consumo de combustible de portal de salto adicional",
       "fr": "Consommation de carburant supplémentaire par portail sauté",
       "ja": "追加のジャンプポータル燃料消費量",
       "ko": "추가된 점프 포털 연료 소모량",
@@ -13082,6 +13484,7 @@
     "tooltipDescriptionID": {
       "de": "Die Menge an zusätzlichem Treibstoff, die mit jedem Sprung verbraucht wird",
       "en": "The amount of additional fuel consumed with each jump",
+      "es": "La cantidad de combustible adicional que se consume con cada salto.",
       "fr": "La quantité de carburant supplémentaire consommé à chaque saut",
       "ja": "ジャンプごとの追加燃料消費量",
       "ko": "각각의 점프에 추가적으로 소모되는 연료량",
@@ -13091,6 +13494,7 @@
     "tooltipTitleID": {
       "de": "Treibstoffverbrauch für Sprungportal hinzugefügt",
       "en": "Added Jump Portal Fuel Consumption",
+      "es": "Consumo de combustible de portal de salto adicional",
       "fr": "Consommation de carburant supplémentaire par portail sauté",
       "ja": "追加のジャンプポータル燃料消費量",
       "ko": "추가된 점프 포털 연료 소모량",
@@ -13108,6 +13512,7 @@
     "displayNameID": {
       "de": "Maximale Sprungmasse",
       "en": "Maximum Jump Mass",
+      "es": "Masa máx. de salto",
       "fr": "Masse de saut maximum",
       "ja": "最大ジャンプ質量",
       "ko": "최대 점프 질량",
@@ -13177,6 +13582,7 @@
     "displayNameID": {
       "de": "Bergbauertrag",
       "en": "Mining amount",
+      "es": "Cantidad extraída",
       "fr": "Minerai extrait",
       "ja": "採掘量",
       "ko": "채굴 총량",
@@ -13241,6 +13647,7 @@
     "displayNameID": {
       "de": "Fregattenflucht-Hangar",
       "en": "Frigate Escape Bay",
+      "es": "Plataforma escape fragata",
       "fr": "Hangar à frégate de secours",
       "ja": "フリゲート脱出ベイ",
       "ko": "프리깃 비상 격납고",
@@ -13323,6 +13730,7 @@
     "displayNameID": {
       "de": "Quantumkern-Typ",
       "en": "Quantum Core Type",
+      "es": "Tipo de núcleo cuántico",
       "fr": "Type de réacteur quantique",
       "ja": "クアンタムコアタイプ",
       "ko": "양자코어 종류",
@@ -13354,6 +13762,7 @@
     "displayNameID": {
       "de": "Kloner-Verbrauchstyp",
       "en": "Recloner Consumption Type",
+      "es": "Tipo de consumo del reclonador",
       "fr": "Type de consommation du clonage",
       "ja": "リクローナー消費タイプ",
       "ko": "복제기 사용 연료",
@@ -13367,6 +13776,7 @@
     "tooltipTitleID": {
       "de": "Ein auf dem Schiff montierter <b>taktischer Kapselpilotenkloner</b> benötigt diesen Treibstofftyp zum Klonen.",
       "en": "A <b>Tactical Capsuleer Recloner</b> fitted to the ship requires this fuel type when recloning",
+      "es": "Un <b>reclonador de capsulistas táctico</b> equipado en la nave necesita este tipo de combustible para poder funcionar.",
       "fr": "Quand ce vaisseau est équipé pour le <b>clonage de capsulier tactique</b>, l'opération de clonage consomme ce type de carburant",
       "ja": "艦船に設置した<b>タクティカルカプセラリクローナー</b>は、リクローンを行う際にこのタイプの燃料を必要とする",
       "ko": "함선에 장착된 <b>전술 캡슐리어 복제기</b>는 해당 종류의 연료를 사용합니다",
@@ -13384,6 +13794,7 @@
     "displayNameID": {
       "de": "Verbrauch des Gruppensprungs",
       "en": "Conduit Jump Consumption Amount",
+      "es": "Consumo de salto conductivo",
       "fr": "Quantité consommée par le saut de groupe",
       "ja": "コンジットジャンプ消費量",
       "ko": "점프 필드 연료 소모량",
@@ -13397,6 +13808,7 @@
     "tooltipDescriptionID": {
       "de": "Für den Gruppensprung benötigte Anzahl an Einheiten",
       "en": "Number of units needed to conduit jump",
+      "es": "Unidades necesarias para salto conductivo",
       "fr": "Nombre d’unités requises pour le saut de groupe",
       "ja": "コンジットジャンプに必要なユニット数",
       "ko": "점프 필드 활성화 시 소모 연료",
@@ -13406,6 +13818,7 @@
     "tooltipTitleID": {
       "de": "Verbrauch des Gruppensprungantriebs",
       "en": "Conduit Jump Drive Consumption Amount",
+      "es": "Consumo del motor de salto conductivo",
       "fr": "Quantité consommée par le propulseur interstellaire de groupe",
       "ja": "コンジットジャンプドライブ消費量",
       "ko": "점프 필드 연료 소모량",
@@ -13423,6 +13836,7 @@
     "displayNameID": {
       "de": "Passagieranzahl für den Gruppensprung",
       "en": "Conduit Jump Passenger Count",
+      "es": "Recuento de pasajeros de salto conductivo",
       "fr": "Compteur de passagers du saut de groupe",
       "ja": "コンジットジャンプ同乗者カウント",
       "ko": "점프 필드 최대 인원",
@@ -13436,6 +13850,7 @@
     "tooltipDescriptionID": {
       "de": "Maximale Anzahl an Passagieren, die in einem Gruppensprung von einem Ankerschiff mitgenommen werden können.",
       "en": "Maximum number of passengers carried along with the anchor ship in a Conduit Jump",
+      "es": "Número máximo de pasajeros transportados junto con la nave-ancla en un salto conductivo.",
       "fr": "Nombre maximal de passagers emmenés avec le vaisseau d'ancrage lors d'un saut de groupe",
       "ja": "コンジットジャンプで、係留艦に同行できる艦船の最大数",
       "ko": "점프 필드 전개 시 이동 가능한 최대 인원",
@@ -13445,6 +13860,7 @@
     "tooltipTitleID": {
       "de": "Passagieranzahl für den Gruppensprung",
       "en": "Conduit Jump Passenger Count",
+      "es": "Recuento de pasajeros de salto conductivo",
       "fr": "Compteur de passagers du saut de groupe",
       "ja": "コンジットジャンプ同乗者カウント",
       "ko": "점프 필드 최대 인원",
@@ -13461,6 +13877,7 @@
     "displayNameID": {
       "de": "Eisfassungsvermögen",
       "en": "Ice Hold Capacity",
+      "es": "Capacidad de bodega de hielo",
       "fr": "Capacité de la soute à glace",
       "ja": "アイスホールド容量",
       "ko": "아이스 저장고 적재량",
@@ -13474,6 +13891,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Eisfrachtraum gelagert werden kann",
       "en": "The total volume that can be stored in the ice hold",
+      "es": "El volumen total que puede almacenarse en la bodega de hielo.",
       "fr": "Volume total pouvant être stocké dans la soute à glace",
       "ja": "アイスホールドに積載できる総量",
       "ko": "아이스 저장고에 보관할 수 있는 최대 용량",
@@ -13482,6 +13900,7 @@
     "tooltipTitleID": {
       "de": "Eisfassungsvermögen",
       "en": "Ice Hold Capacity",
+      "es": "Capacidad de la bodega de hielo",
       "fr": "Capacité de la soute à glace",
       "ja": "アイスホールド容量",
       "ko": "아이스 저장고 적재량",
@@ -13509,6 +13928,7 @@
     "displayNameID": {
       "de": "Beutechance überschreiben",
       "en": "Drop Chance Overwrite",
+      "es": "Sobrescribir probabilidad de botín",
       "fr": "Écraser les chances de récupération",
       "ja": "ドロップ率の上書き",
       "ko": "Drop Chance Overwrite",
@@ -13521,6 +13941,7 @@
     "tooltipDescriptionID": {
       "de": "Chance auf Beute von Spielerschiff überschreiben, Wert 0 = keine Beute",
       "en": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped",
+      "es": "Sobrescribe la probabilidad de la nave del jugador de soltar algún botín (valor 0 = ningún botín).",
       "fr": "Écrasez les chances de récupération de butin sur le vaisseau d'un autre joueur. Une valeur égale à 0 signifie qu'aucun butin n'est récupérable",
       "ja": "プレイヤー艦のドロップ率を上書き。値が0の場合、戦利品のドロップなし",
       "ko": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped",
@@ -13529,6 +13950,7 @@
     "tooltipTitleID": {
       "de": "Beutechance überschreiben",
       "en": "Drop Chance Overwrite",
+      "es": "Sobrescribir probabilidad de botín",
       "fr": "Écraser les chances de récupération",
       "ja": "ドロップ率の上書き",
       "ko": "Drop Chance Overwrite",
@@ -13863,6 +14285,7 @@
     "displayNameID": {
       "de": "Asteroidenfassungsvermögen",
       "en": "Asteroid Hold Capacity",
+      "es": "Capacidad de la bodega de asteroides",
       "fr": "Capacité de la soute à astéroïdes",
       "ja": "アステロイドホールド容量",
       "ko": "소행성 저장고 적재량",
@@ -13876,6 +14299,7 @@
     "tooltipDescriptionID": {
       "de": "Das maximale Volumen, das im Asteroidenfrachtraum gelagert werden kann",
       "en": "The total volume that can be stored in the Asteroid Hold",
+      "es": "El volumen total que puede almacenarse en la bodega de asteroides.",
       "fr": "Volume total pouvant être stocké dans la soute à astéroïdes",
       "ja": "アステロイドホールドに積載できる総量",
       "ko": "소행성 저장고에 보관할 수 있는 최대 용량",
@@ -13884,6 +14308,7 @@
     "tooltipTitleID": {
       "de": "Asteroidenfassungsvermögen",
       "en": "Asteroid Hold Capacity",
+      "es": "Capacidad de la bodega de asteroides",
       "fr": "Capacité de la soute à astéroïdes",
       "ja": "アステロイドホールド容量",
       "ko": "소행성 저장고 적재량",
@@ -14042,6 +14467,16 @@
     "published": false,
     "stackable": false
   },
+  "3319": {
+    "attributeID": 3319,
+    "dataType": 0,
+    "defaultValue": 1,
+    "description": "Set this attribute on a ship to declare that the ship is an eligible passenger to travel through a Titan Jump Portal",
+    "highIsGood": true,
+    "name": "isTitanJumpPortalPassenger",
+    "published": false,
+    "stackable": false
+  },
   "3320": {
     "attributeID": 3320,
     "dataType": 0,
@@ -14108,7 +14543,13 @@
     "dataType": 5,
     "defaultValue": 0,
     "displayNameID": {
-      "en": "DPS threshold to pause shield repair"
+      "de": "DPS-Schwelle zum Unterbrechen der Schildreparatur",
+      "en": "DPS threshold to pause shield repair",
+      "es": "Límite DPS para detener la reparación del escudo",
+      "fr": "Seuil de DPS pour interrompre la réparation du bouclier",
+      "ja": "シールド修復を停止させるDPSしきい値",
+      "ko": "실드 수리가 멈추는 기준 피해량",
+      "ru": "Порог урона/сек. для приостановки восстановления щитов"
     },
     "highIsGood": true,
     "name": "pauseShieldRepairDpsThreshold",
@@ -14122,7 +14563,13 @@
     "dataType": 5,
     "defaultValue": 0,
     "displayNameID": {
-      "en": "DPS threshold to pause armor repair"
+      "de": "DPS-Schwelle zum Unterbrechen der Panzerungsreparatur",
+      "en": "DPS threshold to pause armor repair",
+      "es": "Límite DPS para detener la reparación del blindaje",
+      "fr": "Seuil de DPS pour interrompre la réparation du blindage",
+      "ja": "アーマー修復を停止させるDPSしきい値",
+      "ko": "장갑 수리가 멈추는 기준 피해량",
+      "ru": "Порог урона/сек. для приостановки восстановления брони"
     },
     "highIsGood": true,
     "name": "pauseArmorRepairDpsThreshold",
@@ -14136,12 +14583,77 @@
     "dataType": 5,
     "defaultValue": 0,
     "displayNameID": {
-      "en": "DPS threshold to pause hull repair"
+      "de": "DPS-Schwelle zum Unterbrechen der Rumpfreparatur",
+      "en": "DPS threshold to pause hull repair",
+      "es": "Límite DPS para detener la reparación del casco.",
+      "fr": "Seuil de DPS pour interrompre la réparation de la coque",
+      "ja": "船体修復を停止させるDPSしきい値",
+      "ko": "선체 수리가 멈추는 기준 피해량",
+      "ru": "Порог урона/сек. для приостановки восстановления корпуса"
     },
     "highIsGood": true,
     "name": "pauseHullRepairDpsThreshold",
     "published": true,
     "stackable": true,
     "unitID": 113
+  },
+  "5044": {
+    "attributeID": 5044,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipBonusCBC3",
+    "published": false,
+    "stackable": true
+  },
+  "5045": {
+    "attributeID": 5045,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "roleBonusCBC2",
+    "published": false,
+    "stackable": true
+  },
+  "5046": {
+    "attributeID": 5046,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipBonusGBC3",
+    "published": false,
+    "stackable": true
+  },
+  "5048": {
+    "attributeID": 5048,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipRoleBonusScanProbeLauncherCPU",
+    "published": false,
+    "stackable": false
+  },
+  "5205": {
+    "attributeID": 5205,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": true,
+    "name": "shipBonusABC3",
+    "published": false,
+    "stackable": true
+  },
+  "5207": {
+    "attributeID": 5207,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "highIsGood": false,
+    "name": "shipBonusMBC3",
+    "published": false,
+    "stackable": true
   }
 }
