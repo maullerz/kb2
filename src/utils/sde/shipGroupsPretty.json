@@ -3,6 +3,22 @@
     "name": "Frigate",
     "types": [
       [
+        72903,
+        "Probe Fleet Issue"
+      ],
+      [
+        72904,
+        "Heron Navy Issue"
+      ],
+      [
+        72907,
+        "Magnate Navy Issue"
+      ],
+      [
+        72913,
+        "Imicus Navy Issue"
+      ],
+      [
         54731,
         "Skybreaker"
       ],
@@ -609,6 +625,10 @@
     "name": "Shuttle",
     "types": [
       [
+        64034,
+        "Boobook"
+      ],
+      [
         33513,
         "Leopard"
       ],
@@ -826,6 +846,22 @@
     "name": "Combat Battlecruiser",
     "types": [
       [
+        72811,
+        "Cyclone Fleet Issue"
+      ],
+      [
+        72812,
+        "Ferox Navy Issue"
+      ],
+      [
+        72869,
+        "Myrmidon Navy Issue"
+      ],
+      [
+        72872,
+        "Prophecy Navy Issue"
+      ],
+      [
         49711,
         "Drekavac"
       ],
@@ -891,20 +927,24 @@
         "Kikimora"
       ],
       [
-        16236,
-        "Coercer"
+        73789,
+        "Coercer Navy Issue"
       ],
       [
-        16238,
-        "Cormorant"
+        73794,
+        "Thrasher Fleet Issue"
       ],
       [
-        16240,
-        "Catalyst"
+        73795,
+        "Cormorant Navy Issue"
       ],
       [
-        16242,
-        "Thrasher"
+        73796,
+        "Catalyst Navy Issue"
+      ],
+      [
+        42685,
+        "Sunesis"
       ],
       [
         32872,
@@ -923,8 +963,20 @@
         "Talwar"
       ],
       [
-        42685,
-        "Sunesis"
+        16236,
+        "Coercer"
+      ],
+      [
+        16238,
+        "Cormorant"
+      ],
+      [
+        16240,
+        "Catalyst"
+      ],
+      [
+        16242,
+        "Thrasher"
       ]
     ]
   },
@@ -963,6 +1015,22 @@
       [
         45647,
         "Caiman"
+      ],
+      [
+        73787,
+        "Naglfar Fleet Issue"
+      ],
+      [
+        73790,
+        "Revelation Navy Issue"
+      ],
+      [
+        73792,
+        "Moros Navy Issue"
+      ],
+      [
+        73793,
+        "Phoenix Navy Issue"
       ],
       [
         19720,
@@ -1326,6 +1394,10 @@
     "name": "Electronic Attack Ship",
     "types": [
       [
+        60765,
+        "Raiju"
+      ],
+      [
         11174,
         "Keres"
       ],
@@ -1349,6 +1421,10 @@
       [
         35781,
         "Fiend"
+      ],
+      [
+        60764,
+        "Laelaps"
       ],
       [
         11995,

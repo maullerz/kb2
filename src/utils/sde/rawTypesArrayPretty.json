@@ -80742,7 +80742,7 @@
   [
     29296,
     310,
-    "Novice Military Beacon"
+    "Scout Military Beacon"
   ],
   [
     29297,
@@ -141912,7 +141912,7 @@
   [
     60717,
     1971,
-    "Proving CH2021 Bonus (Do not translate)"
+    "Proving CH2022 Bonus (Do not translate)"
   ],
   [
     60724,
@@ -144677,12 +144677,12 @@
   [
     63135,
     4057,
-    "63135_Male_Accessories_Masks_Mask_Cyberpunk_M01_Types_Mask_Cyberpunk_M01.png"
+    "Men's Proven Bioadaptive Mask"
   ],
   [
     63138,
     4057,
-    "63138_Female_Accessories_Masks_Mask_Cyberpunk_F01_Types_Mask_Cyberpunk_F01.png"
+    "Women's Proven Bioadaptive Mask"
   ],
   [
     63140,
@@ -145672,7 +145672,7 @@
   [
     63728,
     4050,
-    "Event 71 Proving Filament"
+    "Crimson Harvest Frigate FFA Proving Filament"
   ],
   [
     63747,
@@ -150130,6 +150130,11 @@
     "Construction Storage Unit"
   ],
   [
+    71361,
+    15,
+    "Paragon Fulfilment Center"
+  ],
+  [
     71449,
     226,
     "Gallente Federation Stargate Construction"
@@ -150212,82 +150217,82 @@
   [
     71735,
     303,
-    "Caldari Union Day Accuracy Booster IV"
+    "Expired Caldari Union Day Accuracy Booster IV"
   ],
   [
     71736,
     303,
-    "Caldari Union Day Accuracy Booster I"
+    "Expired Caldari Union Day Accuracy Booster I"
   ],
   [
     71737,
     303,
-    "Caldari Union Day Accuracy Booster II"
+    "Expired Caldari Union Day Accuracy Booster II"
   ],
   [
     71738,
     303,
-    "Caldari Union Day Accuracy Booster III"
+    "Expired Caldari Union Day Accuracy Booster III"
   ],
   [
     71739,
     303,
-    "Caldari Union Day Damage Booster I"
+    "Expired Caldari Union Day Damage Booster I"
   ],
   [
     71740,
     303,
-    "Caldari Union Day Damage Booster II"
+    "Expired Caldari Union Day Damage Booster II"
   ],
   [
     71741,
     303,
-    "Caldari Union Day Damage Booster III"
+    "Expired Caldari Union Day Damage Booster III"
   ],
   [
     71742,
     303,
-    "Caldari Union Day Damage Booster IV"
+    "Expired Caldari Union Day Damage Booster IV"
   ],
   [
     71743,
     303,
-    "Caldari Union Day Resistance Booster IV"
+    "Expired Caldari Union Day Resistance Booster IV"
   ],
   [
     71744,
     303,
-    "Caldari Union Day Resistance Booster I"
+    "Expired Caldari Union Day Resistance Booster I"
   ],
   [
     71745,
     303,
-    "Caldari Union Day Resistance Booster II"
+    "Expired Caldari Union Day Resistance Booster II"
   ],
   [
     71746,
     303,
-    "Caldari Union Day Resistance Booster III"
+    "Expired Caldari Union Day Resistance Booster III"
   ],
   [
     71747,
     303,
-    "Caldari Union Day Range Booster I"
+    "Expired Caldari Union Day Range Booster I"
   ],
   [
     71748,
     303,
-    "Caldari Union Day Range Booster II"
+    "Expired Caldari Union Day Range Booster II"
   ],
   [
     71749,
     303,
-    "Caldari Union Day Range Booster III"
+    "Expired Caldari Union Day Range Booster III"
   ],
   [
     71750,
     303,
-    "Caldari Union Day Range Booster IV"
+    "Expired Caldari Union Day Range Booster IV"
   ],
   [
     71755,
@@ -150322,17 +150327,17 @@
   [
     72083,
     303,
-    "Basic 'Union Day' Cerebral Accelerator"
+    "Expired Basic 'Union Day' Cerebral Accelerator"
   ],
   [
     72084,
     303,
-    "Extended 'Union Day' Cerebral Accelerator"
+    "Expired Extended 'Union Day' Cerebral Accelerator"
   ],
   [
     72085,
     303,
-    "Potent 'Union Day' Cerebral Accelerator"
+    "Expired Potent 'Union Day' Cerebral Accelerator"
   ],
   [
     72086,
@@ -150472,7 +150477,7 @@
   [
     72258,
     314,
-    "Union Day Reward Token"
+    "Operation Center Reward Token"
   ],
   [
     72259,
@@ -151345,14 +151350,19 @@
     "Caldari Navy Harbor XL01a"
   ],
   [
+    72964,
+    4471,
+    "Rifter Corporation Emblem"
+  ],
+  [
     72976,
     4050,
-    "Event 72 Proving Filament "
+    "ATXVIII 1v1 Navy Cruisers Proving Filament"
   ],
   [
     72977,
     4050,
-    "Event 73 Proving Filament"
+    "ATXVIII 1v1 T1 Frigates Proving Filament"
   ],
   [
     72978,
@@ -151587,22 +151597,22 @@
   [
     73221,
     227,
-    "Amarr Spawner (DO NOT TRANSLATE)"
+    "Amarr Propaganda Spawner (DO NOT TRANSLATE)"
   ],
   [
     73222,
     227,
-    "Minmatar Spawner (DO NOT TRANSLATE)"
+    "Minmatar Propaganda Spawner (DO NOT TRANSLATE)"
   ],
   [
     73223,
     227,
-    "Caldari Spawner (DO NOT TRANSLATE)"
+    "Caldari Propaganda Spawner (DO NOT TRANSLATE)"
   ],
   [
     73224,
     227,
-    "Gallente Spawner (DO NOT TRANSLATE)"
+    "Gallente Propaganda Spawner (DO NOT TRANSLATE)"
   ],
   [
     73225,
@@ -151715,6 +151725,31 @@
     "Federation Relay Research Laboratory"
   ],
   [
+    73270,
+    4499,
+    "Amarr Listening Outpost"
+  ],
+  [
+    73271,
+    4499,
+    "Minmatar Listening Outpost"
+  ],
+  [
+    73272,
+    4499,
+    "Caldari Listening Outpost"
+  ],
+  [
+    73273,
+    4499,
+    "Gallente Listening Outpost"
+  ],
+  [
+    73277,
+    24,
+    "EverMarks"
+  ],
+  [
     73316,
     1975,
     "cs1_construction (Do not translate)"
@@ -151790,6 +151825,11 @@
     "Minmatar Hub (DO NOT TRANSLATE)"
   ],
   [
+    73377,
+    4471,
+    "Heron Corporation Emblem"
+  ],
+  [
     73380,
     1975,
     "Station Caldari 2 (DO NOT TRANSLATE)"
@@ -151807,7 +151847,12 @@
   [
     73391,
     1975,
-    "Gallente Research Station (DO NOT TRANSLATE)"
+    "Non-Interactable Gallente Station 3 (Do Not Translate)"
+  ],
+  [
+    73394,
+    4471,
+    "Rifter Alliance Emblem"
   ],
   [
     73395,
@@ -151820,14 +151865,139 @@
     "73396_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_DarkTurquoise.png"
   ],
   [
+    73397,
+    526,
+    "Amarr Decoder Package"
+  ],
+  [
+    73398,
+    526,
+    "Minmatar Decoder Package"
+  ],
+  [
+    73399,
+    526,
+    "Caldari Decoder Package"
+  ],
+  [
+    73400,
+    526,
+    "Gallente Decoder Package"
+  ],
+  [
+    73401,
+    526,
+    "Amarr Encoder Splice"
+  ],
+  [
+    73402,
+    526,
+    "Minmatar Encoder Splice"
+  ],
+  [
+    73403,
+    526,
+    "Caldari Encoder Splice"
+  ],
+  [
+    73404,
+    526,
+    "Gallente Encoder Splice"
+  ],
+  [
+    73407,
+    1088,
+    "73407_Female_Outer_JacketMilF02_Types_JacketMilF02_WhiteTurquoise.png"
+  ],
+  [
     73408,
     500,
-    "Halloween Terrors Firework"
+    "Scarlet Embrace Firework"
   ],
   [
     73409,
     1194,
-    "Halloween Terrors Fireworks Crate"
+    "Scarlet Embrace Fireworks Crate"
+  ],
+  [
+    73411,
+    4071,
+    "Amarr Propaganda Broadcast Structure Blueprint (unused)"
+  ],
+  [
+    73412,
+    4071,
+    "Minmatar Propaganda Broadcast Structure Blueprint (unused)"
+  ],
+  [
+    73413,
+    4071,
+    "Caldari Propaganda Broadcast Structure Blueprint (unused)"
+  ],
+  [
+    73414,
+    4071,
+    "Gallente Propaganda Broadcast Structure Blueprint (unused)"
+  ],
+  [
+    73419,
+    4071,
+    "Amarr Listening Outpost Blueprint (unused)"
+  ],
+  [
+    73420,
+    4071,
+    "Minmatar Listening Outpost Blueprint (unused)"
+  ],
+  [
+    73421,
+    4071,
+    "Caldari Listening Outpost Blueprint (unused)"
+  ],
+  [
+    73422,
+    4071,
+    "Gallente Listening Outpost Blueprint (unused)"
+  ],
+  [
+    73423,
+    4057,
+    "Women's Desert Nomad Mask"
+  ],
+  [
+    73424,
+    1083,
+    "Women's Desert Nomad Goggles"
+  ],
+  [
+    73425,
+    4057,
+    "Men's Desert Nomad Mask"
+  ],
+  [
+    73426,
+    1083,
+    "Men's Desert Nomad Goggles"
+  ],
+  [
+    73427,
+    306,
+    "Amarr Cryptograph Storage"
+  ],
+  [
+    73428,
+    306,
+    "Minmatar Cryptograph Storage"
+  ],
+  [
+    73429,
+    306,
+    "Caldari Cryptograph Storage"
+  ],
+  [
+    73430,
+    306,
+    "Gallente Cryptograph Storage"
   ],
   [
     73431,
@@ -151838,6 +152008,26 @@
     73432,
     474,
     "Tetrimon Base Shortcut Keypass "
+  ],
+  [
+    73436,
+    1670,
+    "73436_Male_Makeup_Augmentations_Face_Paint_M01_Types_Face_Paint_M01_V7_Red.png"
+  ],
+  [
+    73437,
+    1670,
+    "73437_Female_Makeup_Augmentations_Face_Paint_F01_Types_Face_Paint_F01_V3_Red.png"
+  ],
+  [
+    73438,
+    226,
+    "TEST Beacon ( copy )"
+  ],
+  [
+    73439,
+    226,
+    "TEST Beacon (Capture Point)"
   ],
   [
     73440,
@@ -151853,5 +152043,2270 @@
     73442,
     1975,
     "Non-interactable Caldari Navy Station 4 (Do Not Translate)"
+  ],
+  [
+    73443,
+    4494,
+    "Amarr Control Zone A"
+  ],
+  [
+    73444,
+    4494,
+    "Minmatar Control Zone A"
+  ],
+  [
+    73445,
+    4494,
+    "Caldari Control Zone A"
+  ],
+  [
+    73446,
+    4494,
+    "Gallente Control Zone A"
+  ],
+  [
+    73447,
+    227,
+    "Amarr Scoreboard - DO NOT TRANSLATE"
+  ],
+  [
+    73448,
+    227,
+    "Minmatar Scoreboard - DO NOT TRANSLATE"
+  ],
+  [
+    73449,
+    227,
+    "Caldari Scoreboard - DO NOT TRANSLATE"
+  ],
+  [
+    73450,
+    227,
+    "Gallente Scoreboard - DO NOT TRANSLATE"
+  ],
+  [
+    73486,
+    1975,
+    "Non-interactable Erebus (do not translate)"
+  ],
+  [
+    73487,
+    1975,
+    "Non-interactable Anshar (do not translate)"
+  ],
+  [
+    73488,
+    1975,
+    "Non-interactable Leviathan (do not translate)"
+  ],
+  [
+    73489,
+    1975,
+    "Non-interactable Rhea (do not translate)"
+  ],
+  [
+    73490,
+    1975,
+    "Non-interactable Federation Navy Battlestation (do not translate)"
+  ],
+  [
+    73491,
+    1975,
+    "Non-Interactable Gallente Station 2 (Do Not Translate)"
+  ],
+  [
+    73492,
+    1975,
+    "Non-Interactable Gallente Station 4 (Do Not Translate)"
+  ],
+  [
+    73493,
+    1975,
+    "Non-Interactable Gallente Station 5 (Do Not Translate)"
+  ],
+  [
+    73494,
+    1975,
+    "Non-Interactable Gallente Station 8 (Do Not Translate)"
+  ],
+  [
+    73495,
+    1975,
+    "Non-Interactable Caldari Station 1 (Do Not Translate)"
+  ],
+  [
+    73496,
+    1975,
+    "Non-Interactable Caldari Station 3 (Do Not Translate)"
+  ],
+  [
+    73497,
+    1975,
+    "Non-Interactable Caldari Station 7 (Do Not Translate)"
+  ],
+  [
+    73498,
+    1975,
+    "Non-Interactable Caldari Station 8 (Do Not Translate)"
+  ],
+  [
+    73547,
+    1169,
+    "Imperial Frigate"
+  ],
+  [
+    73548,
+    1175,
+    "Imperial Destroyer"
+  ],
+  [
+    73549,
+    1179,
+    "Imperial Cruiser"
+  ],
+  [
+    73550,
+    1183,
+    "Imperial Battlecruiser"
+  ],
+  [
+    73551,
+    4431,
+    "Imperial Battleship"
+  ],
+  [
+    73552,
+    1166,
+    "Republic Frigate"
+  ],
+  [
+    73553,
+    1178,
+    "Republic Destroyer"
+  ],
+  [
+    73554,
+    1182,
+    "Republic Cruiser"
+  ],
+  [
+    73555,
+    1186,
+    "Republic Battlecruiser"
+  ],
+  [
+    73556,
+    4434,
+    "Republic Battleship"
+  ],
+  [
+    73557,
+    1167,
+    "State Frigate"
+  ],
+  [
+    73558,
+    1176,
+    "State Destroyer"
+  ],
+  [
+    73559,
+    1180,
+    "State Cruiser"
+  ],
+  [
+    73560,
+    1184,
+    "State Battlecruiser"
+  ],
+  [
+    73561,
+    4432,
+    "State Battleship"
+  ],
+  [
+    73562,
+    1168,
+    "Federation Frigate"
+  ],
+  [
+    73563,
+    1177,
+    "Federation Destroyer"
+  ],
+  [
+    73564,
+    1181,
+    "Federation Cruiser"
+  ],
+  [
+    73565,
+    1185,
+    "Federation Battlecruiser"
+  ],
+  [
+    73566,
+    4433,
+    "Federation Battleship"
+  ],
+  [
+    73567,
+    4471,
+    "Providence Alliance Emblem"
+  ],
+  [
+    73568,
+    4471,
+    "Tayra Alliance Emblem"
+  ],
+  [
+    73569,
+    4471,
+    "Violator Alliance Emblem"
+  ],
+  [
+    73570,
+    4471,
+    "Wreathe Alliance Emblem"
+  ],
+  [
+    73571,
+    4471,
+    "Amarr Shuttle Corporation Emblem"
+  ],
+  [
+    73572,
+    4471,
+    "Apotheosis Corporation Emblem"
+  ],
+  [
+    73573,
+    4471,
+    "Astero Corporation Emblem"
+  ],
+  [
+    73574,
+    4471,
+    "Atron Corporation Emblem"
+  ],
+  [
+    73575,
+    4471,
+    "Badger Corporation Emblem"
+  ],
+  [
+    73576,
+    4471,
+    "Bantam Corporation Emblem"
+  ],
+  [
+    73577,
+    4471,
+    "Bestower Corporation Emblem"
+  ],
+  [
+    73578,
+    4471,
+    "Boobook Corporation Emblem"
+  ],
+  [
+    73579,
+    4471,
+    "Breacher Corporation Emblem"
+  ],
+  [
+    73580,
+    4471,
+    "Brutix Corporation Emblem"
+  ],
+  [
+    73581,
+    4471,
+    "Caldari Shuttle Corporation Emblem"
+  ],
+  [
+    73582,
+    4471,
+    "Catalyst Corporation Emblem"
+  ],
+  [
+    73583,
+    4471,
+    "Charon Corporation Emblem"
+  ],
+  [
+    73584,
+    4471,
+    "Coercer Corporation Emblem"
+  ],
+  [
+    73585,
+    4471,
+    "Condor Corporation Emblem"
+  ],
+  [
+    73586,
+    4471,
+    "Corax Corporation Emblem"
+  ],
+  [
+    73587,
+    4471,
+    "Cormorant Corporation Emblem"
+  ],
+  [
+    73588,
+    4471,
+    "Council Diplomatic Shuttle Corporation Emblem"
+  ],
+  [
+    73589,
+    4471,
+    "Crucifier Corporation Emblem"
+  ],
+  [
+    73590,
+    4471,
+    "Cyclone Corporation Emblem"
+  ],
+  [
+    73591,
+    4471,
+    "Drake Corporation Emblem"
+  ],
+  [
+    73592,
+    4471,
+    "Echo Corporation Emblem"
+  ],
+  [
+    73593,
+    4471,
+    "Epithal Corporation Emblem"
+  ],
+  [
+    73594,
+    4471,
+    "Executioner Corporation Emblem"
+  ],
+  [
+    73595,
+    4471,
+    "Fenrir Corporation Emblem"
+  ],
+  [
+    73596,
+    4471,
+    "Ferox Corporation Emblem"
+  ],
+  [
+    73597,
+    4471,
+    "Gallente Shuttle Corporation Emblem"
+  ],
+  [
+    73598,
+    4471,
+    "Gnosis Corporation Emblem"
+  ],
+  [
+    73599,
+    4471,
+    "Gold Magnate Corporation Emblem"
+  ],
+  [
+    73600,
+    4471,
+    "Goru's Shuttle Corporation Emblem"
+  ],
+  [
+    73601,
+    4471,
+    "Guristas Shuttle Corporation Emblem"
+  ],
+  [
+    73602,
+    4471,
+    "Harbinger Corporation Emblem"
+  ],
+  [
+    73603,
+    4471,
+    "Hematos Corporation Emblem"
+  ],
+  [
+    73604,
+    4471,
+    "Hoarder Corporation Emblem"
+  ],
+  [
+    73605,
+    4471,
+    "Hurricane Corporation Emblem"
+  ],
+  [
+    73606,
+    4471,
+    "Ibis Corporation Emblem"
+  ],
+  [
+    73607,
+    4471,
+    "Imicus Corporation Emblem"
+  ],
+  [
+    73608,
+    4471,
+    "Immolator Corporation Emblem"
+  ],
+  [
+    73609,
+    4471,
+    "Impairor Corporation Emblem"
+  ],
+  [
+    73610,
+    4471,
+    "Incursus Corporation Emblem"
+  ],
+  [
+    73611,
+    4471,
+    "InterBus Shuttle Corporation Emblem"
+  ],
+  [
+    73612,
+    4471,
+    "Iteron Mark V Corporation Emblem"
+  ],
+  [
+    73613,
+    4471,
+    "Kestrel Corporation Emblem"
+  ],
+  [
+    73614,
+    4471,
+    "Kryos Corporation Emblem"
+  ],
+  [
+    73615,
+    4471,
+    "Leopard Corporation Emblem"
+  ],
+  [
+    73616,
+    4471,
+    "Magnate Corporation Emblem"
+  ],
+  [
+    73617,
+    4471,
+    "Mammoth Corporation Emblem"
+  ],
+  [
+    73618,
+    4471,
+    "Maulus Corporation Emblem"
+  ],
+  [
+    73619,
+    4471,
+    "Merlin Corporation Emblem"
+  ],
+  [
+    73620,
+    4471,
+    "Miasmos Corporation Emblem"
+  ],
+  [
+    73621,
+    4471,
+    "Moros Corporation Emblem"
+  ],
+  [
+    73622,
+    4471,
+    "Myrmidon Corporation Emblem"
+  ],
+  [
+    73623,
+    4471,
+    "Naga Corporation Emblem"
+  ],
+  [
+    73624,
+    4471,
+    "Naglfar Corporation Emblem"
+  ],
+  [
+    73625,
+    4471,
+    "Navitas Corporation Emblem"
+  ],
+  [
+    73626,
+    4471,
+    "Nereus Corporation Emblem"
+  ],
+  [
+    73627,
+    4471,
+    "Obelisk Corporation Emblem"
+  ],
+  [
+    73628,
+    4471,
+    "Oracle Corporation Emblem"
+  ],
+  [
+    73629,
+    4471,
+    "Phoenix Corporation Emblem"
+  ],
+  [
+    73630,
+    4471,
+    "Probe Corporation Emblem"
+  ],
+  [
+    73631,
+    4471,
+    "Providence Corporation Emblem"
+  ],
+  [
+    73632,
+    4471,
+    "Punisher Corporation Emblem"
+  ],
+  [
+    73633,
+    4471,
+    "Reaper Corporation Emblem"
+  ],
+  [
+    73634,
+    4471,
+    "Revelation Corporation Emblem"
+  ],
+  [
+    73635,
+    4471,
+    "Sigil Corporation Emblem"
+  ],
+  [
+    73636,
+    4471,
+    "Silver Magnate Corporation Emblem"
+  ],
+  [
+    73637,
+    4471,
+    "Slasher Corporation Emblem"
+  ],
+  [
+    73638,
+    4471,
+    "Sunesis Corporation Emblem"
+  ],
+  [
+    73639,
+    4471,
+    "Taipan Corporation Emblem"
+  ],
+  [
+    73640,
+    4471,
+    "Talos Corporation Emblem"
+  ],
+  [
+    73641,
+    4471,
+    "Tayra Corporation Emblem"
+  ],
+  [
+    73642,
+    4471,
+    "Thrasher Corporation Emblem"
+  ],
+  [
+    73643,
+    4471,
+    "Tormentor Corporation Emblem"
+  ],
+  [
+    73644,
+    4471,
+    "Tornado Corporation Emblem"
+  ],
+  [
+    73645,
+    4471,
+    "Tristan Corporation Emblem"
+  ],
+  [
+    73646,
+    4471,
+    "Velator Corporation Emblem"
+  ],
+  [
+    73647,
+    4471,
+    "Venture Corporation Emblem"
+  ],
+  [
+    73648,
+    4471,
+    "Vigil Corporation Emblem"
+  ],
+  [
+    73649,
+    4471,
+    "Violator Corporation Emblem"
+  ],
+  [
+    73650,
+    4471,
+    "Wreathe Corporation Emblem"
+  ],
+  [
+    73651,
+    4471,
+    "Astero Alliance Emblem"
+  ],
+  [
+    73652,
+    4471,
+    "Atron Alliance Emblem"
+  ],
+  [
+    73653,
+    4471,
+    "Badger Alliance Emblem"
+  ],
+  [
+    73654,
+    4471,
+    "Bantam Alliance Emblem"
+  ],
+  [
+    73655,
+    4471,
+    "Bestower Alliance Emblem"
+  ],
+  [
+    73656,
+    4471,
+    "Boobook Alliance Emblem"
+  ],
+  [
+    73657,
+    4471,
+    "Breacher Alliance Emblem"
+  ],
+  [
+    73658,
+    4471,
+    "Brutix Alliance Emblem"
+  ],
+  [
+    73659,
+    4471,
+    "Burst Alliance Emblem"
+  ],
+  [
+    73660,
+    4471,
+    "Caldari Shuttle Alliance Emblem"
+  ],
+  [
+    73661,
+    4471,
+    "Charon Alliance Emblem"
+  ],
+  [
+    73662,
+    4471,
+    "Coercer Alliance Emblem"
+  ],
+  [
+    73663,
+    4471,
+    "Condor Alliance Emblem"
+  ],
+  [
+    73664,
+    4471,
+    "Corax Alliance Emblem"
+  ],
+  [
+    73665,
+    4471,
+    "Cormorant Alliance Emblem"
+  ],
+  [
+    73666,
+    4471,
+    "Council Diplomatic Shuttle Alliance Emblem"
+  ],
+  [
+    73667,
+    4471,
+    "Crucifier Alliance Emblem"
+  ],
+  [
+    73668,
+    4471,
+    "Cyclone Alliance Emblem"
+  ],
+  [
+    73669,
+    4471,
+    "Dragoon Alliance Emblem"
+  ],
+  [
+    73670,
+    4471,
+    "Drake Alliance Emblem"
+  ],
+  [
+    73671,
+    4471,
+    "Epithal Alliance Emblem"
+  ],
+  [
+    73672,
+    4471,
+    "Executioner Alliance Emblem"
+  ],
+  [
+    73673,
+    4471,
+    "Fenrir Alliance Emblem"
+  ],
+  [
+    73674,
+    4471,
+    "Ferox Alliance Emblem"
+  ],
+  [
+    73675,
+    4471,
+    "Gallente Shuttle Alliance Emblem"
+  ],
+  [
+    73676,
+    4471,
+    "Gnosis Alliance Emblem"
+  ],
+  [
+    73677,
+    4471,
+    "Gold Magnate Alliance Emblem"
+  ],
+  [
+    73678,
+    4471,
+    "Goru's Shuttle Alliance Emblem"
+  ],
+  [
+    73679,
+    4471,
+    "Griffin Alliance Emblem"
+  ],
+  [
+    73680,
+    4471,
+    "Guristas Shuttle Alliance Emblem"
+  ],
+  [
+    73681,
+    4471,
+    "Hematos Alliance Emblem"
+  ],
+  [
+    73682,
+    4471,
+    "Heron Alliance Emblem"
+  ],
+  [
+    73683,
+    4471,
+    "Hoarder Alliance Emblem"
+  ],
+  [
+    73684,
+    4471,
+    "Hurricane Alliance Emblem"
+  ],
+  [
+    73685,
+    4471,
+    "Ibis Alliance Emblem"
+  ],
+  [
+    73686,
+    4471,
+    "Imicus Alliance Emblem"
+  ],
+  [
+    73687,
+    4471,
+    "Immolator Alliance Emblem"
+  ],
+  [
+    73688,
+    4471,
+    "Impairor Alliance Emblem"
+  ],
+  [
+    73689,
+    4471,
+    "Incursus Alliance Emblem"
+  ],
+  [
+    73690,
+    4471,
+    "Inquisitor Alliance Emblem"
+  ],
+  [
+    73691,
+    4471,
+    "Iteron Mark V Alliance Emblem"
+  ],
+  [
+    73692,
+    4471,
+    "Kestrel Alliance Emblem"
+  ],
+  [
+    73693,
+    4471,
+    "Kryos Alliance Emblem"
+  ],
+  [
+    73694,
+    4471,
+    "Leopard Alliance Emblem"
+  ],
+  [
+    73695,
+    4471,
+    "Magnate Alliance Emblem"
+  ],
+  [
+    73696,
+    4471,
+    "Mammoth Alliance Emblem"
+  ],
+  [
+    73697,
+    4471,
+    "Maulus Alliance Emblem"
+  ],
+  [
+    73698,
+    4471,
+    "Merlin Alliance Emblem"
+  ],
+  [
+    73699,
+    4471,
+    "Miasmos Alliance Emblem"
+  ],
+  [
+    73700,
+    4471,
+    "Minmatar Shuttle Alliance Emblem"
+  ],
+  [
+    73701,
+    4471,
+    "Myrmidon Alliance Emblem"
+  ],
+  [
+    73702,
+    4471,
+    "Naga Alliance Emblem"
+  ],
+  [
+    73703,
+    4471,
+    "Naglfar Alliance Emblem"
+  ],
+  [
+    73704,
+    4471,
+    "Navitas Alliance Emblem"
+  ],
+  [
+    73705,
+    4471,
+    "Nereus Alliance Emblem"
+  ],
+  [
+    73706,
+    4471,
+    "Obelisk Alliance Emblem"
+  ],
+  [
+    73707,
+    4471,
+    "Oracle Alliance Emblem"
+  ],
+  [
+    73708,
+    4471,
+    "Phoenix Alliance Emblem"
+  ],
+  [
+    73709,
+    4471,
+    "Probe Alliance Emblem"
+  ],
+  [
+    73710,
+    4471,
+    "Prophecy Alliance Emblem"
+  ],
+  [
+    73711,
+    4471,
+    "Punisher Alliance Emblem"
+  ],
+  [
+    73712,
+    4471,
+    "Reaper Alliance Emblem"
+  ],
+  [
+    73713,
+    4471,
+    "Revelation Alliance Emblem"
+  ],
+  [
+    73714,
+    4471,
+    "Sigil Alliance Emblem"
+  ],
+  [
+    73715,
+    4471,
+    "Silver Magnate Alliance Emblem"
+  ],
+  [
+    73716,
+    4471,
+    "Slasher Alliance Emblem"
+  ],
+  [
+    73717,
+    4471,
+    "Sunesis Alliance Emblem"
+  ],
+  [
+    73718,
+    4471,
+    "Taipan Alliance Emblem"
+  ],
+  [
+    73719,
+    4471,
+    "Talos Alliance Emblem"
+  ],
+  [
+    73720,
+    4471,
+    "Talwar Alliance Emblem"
+  ],
+  [
+    73721,
+    4471,
+    "Thrasher Alliance Emblem"
+  ],
+  [
+    73722,
+    4471,
+    "Tormentor Alliance Emblem"
+  ],
+  [
+    73723,
+    4471,
+    "Tornado Alliance Emblem"
+  ],
+  [
+    73724,
+    4471,
+    "Tristan Alliance Emblem"
+  ],
+  [
+    73725,
+    4471,
+    "Velator Alliance Emblem"
+  ],
+  [
+    73726,
+    4471,
+    "Venture Alliance Emblem"
+  ],
+  [
+    73727,
+    4471,
+    "Vigil Alliance Emblem"
+  ],
+  [
+    73728,
+    4471,
+    "Algos Alliance Emblem"
+  ],
+  [
+    73729,
+    4471,
+    "Amarr Shuttle Alliance Emblem"
+  ],
+  [
+    73730,
+    4471,
+    "Algos Corporation Emblem"
+  ],
+  [
+    73731,
+    4471,
+    "Burst Corporation Emblem"
+  ],
+  [
+    73732,
+    4471,
+    "Dragoon Corporation Emblem"
+  ],
+  [
+    73733,
+    4471,
+    "Griffin Corporation Emblem"
+  ],
+  [
+    73734,
+    4471,
+    "Inquisitor Corporation Emblem"
+  ],
+  [
+    73735,
+    4471,
+    "Minmatar Shuttle Corporation Emblem"
+  ],
+  [
+    73736,
+    4471,
+    "Prophecy Corporation Emblem"
+  ],
+  [
+    73737,
+    4471,
+    "Talwar Corporation Emblem"
+  ],
+  [
+    73738,
+    4471,
+    "Apotheosis Alliance Emblem"
+  ],
+  [
+    73739,
+    4471,
+    "Catalyst Alliance Emblem"
+  ],
+  [
+    73740,
+    4471,
+    "Echo Alliance Emblem"
+  ],
+  [
+    73741,
+    4471,
+    "Harbinger Alliance Emblem"
+  ],
+  [
+    73742,
+    4471,
+    "InterBus Shuttle Alliance Emblem"
+  ],
+  [
+    73743,
+    4471,
+    "Moros Alliance Emblem"
+  ],
+  [
+    73748,
+    988,
+    "Wormhole J244"
+  ],
+  [
+    73749,
+    988,
+    "Wormhole J377"
+  ],
+  [
+    73750,
+    1975,
+    "Gallente Navy Harbor S01b"
+  ],
+  [
+    73751,
+    1975,
+    "Gallente Navy Harbor M01b"
+  ],
+  [
+    73752,
+    1975,
+    "Gallente Navy Harbor L01b"
+  ],
+  [
+    73753,
+    1975,
+    "Gallente Navy Harbor XL01b"
+  ],
+  [
+    73754,
+    1975,
+    "Caldari Navy Harbor S01b"
+  ],
+  [
+    73755,
+    1975,
+    "Caldari Navy Harbor M01b"
+  ],
+  [
+    73756,
+    1975,
+    "Caldari Navy Harbor L01b"
+  ],
+  [
+    73757,
+    1975,
+    "Caldari Navy Harbor XL01b"
+  ],
+  [
+    73758,
+    1975,
+    "Gallente Navy Harbor S01c"
+  ],
+  [
+    73759,
+    1975,
+    "Gallente Navy Harbor M01c"
+  ],
+  [
+    73760,
+    1975,
+    "Gallente Navy Harbor L01c"
+  ],
+  [
+    73761,
+    1975,
+    "Gallente Navy Harbor XL01c"
+  ],
+  [
+    73762,
+    1975,
+    "Caldari Navy Harbor S01c"
+  ],
+  [
+    73763,
+    1975,
+    "Caldari Navy Harbor M01c"
+  ],
+  [
+    73764,
+    1975,
+    "Caldari Navy Harbor L01c"
+  ],
+  [
+    73765,
+    1975,
+    "Caldari Navy Harbor XL01c"
+  ],
+  [
+    73766,
+    1975,
+    "Gallente Navy Harbor S01d"
+  ],
+  [
+    73767,
+    1975,
+    "Gallente Navy Harbor M01d"
+  ],
+  [
+    73768,
+    1975,
+    "Gallente Navy Harbor L01d"
+  ],
+  [
+    73769,
+    1975,
+    "Gallente Navy Harbor XL01d"
+  ],
+  [
+    73770,
+    1975,
+    "Caldari Navy Harbor S01d"
+  ],
+  [
+    73771,
+    1975,
+    "Caldari Navy Harbor M01d"
+  ],
+  [
+    73772,
+    1975,
+    "Caldari Navy Harbor L01d"
+  ],
+  [
+    73773,
+    1975,
+    "Caldari Navy Harbor XL01d"
+  ],
+  [
+    73774,
+    1975,
+    "Gallente Navy Harbor S01e"
+  ],
+  [
+    73775,
+    1975,
+    "Gallente Navy Harbor M01e"
+  ],
+  [
+    73776,
+    1975,
+    "Gallente Navy Harbor L01e"
+  ],
+  [
+    73777,
+    1975,
+    "Gallente Navy Harbor XL01e"
+  ],
+  [
+    73778,
+    1975,
+    "Caldari Navy Harbor S01e"
+  ],
+  [
+    73779,
+    1975,
+    "Caldari Navy Harbor M01e"
+  ],
+  [
+    73780,
+    1975,
+    "Caldari Navy Harbor L01e"
+  ],
+  [
+    73781,
+    1975,
+    "Caldari Navy Harbor XL01e"
+  ],
+  [
+    73783,
+    227,
+    "Amarr Ops Center Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73784,
+    227,
+    "Minmatar Ops Center Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73785,
+    227,
+    "Caldari Ops Center Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73786,
+    227,
+    "Gallente Ops Center Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73787,
+    485,
+    "Naglfar Fleet Issue"
+  ],
+  [
+    73789,
+    420,
+    "Coercer Navy Issue"
+  ],
+  [
+    73790,
+    485,
+    "Revelation Navy Issue"
+  ],
+  [
+    73792,
+    485,
+    "Moros Navy Issue"
+  ],
+  [
+    73793,
+    485,
+    "Phoenix Navy Issue"
+  ],
+  [
+    73794,
+    420,
+    "Thrasher Fleet Issue"
+  ],
+  [
+    73795,
+    420,
+    "Cormorant Navy Issue"
+  ],
+  [
+    73796,
+    420,
+    "Catalyst Navy Issue"
+  ],
+  [
+    73797,
+    4431,
+    "Imperial Officer Battleship"
+  ],
+  [
+    73798,
+    4434,
+    "Republic Officer Battleship"
+  ],
+  [
+    73799,
+    4432,
+    "State Officer Battleship"
+  ],
+  [
+    73800,
+    4433,
+    "Federation Officer Battleship"
+  ],
+  [
+    73801,
+    227,
+    "Amarr Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73802,
+    227,
+    "Minmatar Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73803,
+    227,
+    "Caldari Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73804,
+    227,
+    "Gallente Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73807,
+    227,
+    "Amarr Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73808,
+    227,
+    "Minmatar Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73809,
+    227,
+    "Caldari Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73810,
+    227,
+    "Gallente Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    73811,
+    186,
+    "Blood Raider Dreadnought Wreck"
+  ],
+  [
+    73842,
+    1975,
+    "Amarr Station State Large"
+  ],
+  [
+    73843,
+    1975,
+    "Amarr Gate State Medium"
+  ],
+  [
+    73844,
+    1975,
+    "Caldari Station State Large"
+  ],
+  [
+    73845,
+    1975,
+    "Caldari Gate State Medium"
+  ],
+  [
+    73846,
+    1975,
+    "Gallente Station State Large"
+  ],
+  [
+    73847,
+    1975,
+    "Gallente Gate State Medium"
+  ],
+  [
+    73848,
+    1975,
+    "Minmatar Station State Large"
+  ],
+  [
+    73849,
+    1975,
+    "Minmatar Gate State Medium"
+  ],
+  [
+    73854,
+    4494,
+    "Amarr Control Zone B"
+  ],
+  [
+    73855,
+    4494,
+    "Amarr Control Zone C"
+  ],
+  [
+    73856,
+    4494,
+    "Minmatar Control Zone B"
+  ],
+  [
+    73857,
+    4494,
+    "Minmatar Control Zone C"
+  ],
+  [
+    73858,
+    4494,
+    "Caldari Control Zone B"
+  ],
+  [
+    73859,
+    4494,
+    "Caldari Control Zone C"
+  ],
+  [
+    73860,
+    4494,
+    "Gallente Control Zone B"
+  ],
+  [
+    73861,
+    4494,
+    "Gallente Control Zone C"
+  ],
+  [
+    73864,
+    186,
+    "Revelation Navy Issue Wreck"
+  ],
+  [
+    73865,
+    186,
+    "Phoenix Navy Issue Wreck"
+  ],
+  [
+    73866,
+    186,
+    "Naglfar Navy Issue Wreck"
+  ],
+  [
+    73868,
+    186,
+    "Moros Navy Issue Wreck"
+  ],
+  [
+    73909,
+    6,
+    "Sun A0 (Disrupted Blue Small)"
+  ],
+  [
+    73910,
+    1220,
+    "Elite Infomorph Psychology"
+  ],
+  [
+    73911,
+    7,
+    "Planet (Scorched Barren)"
+  ],
+  [
+    73912,
+    274,
+    "Advanced Contracting"
+  ],
+  [
+    73917,
+    1975,
+    "Amarr Navy Small Hologram 01a"
+  ],
+  [
+    73918,
+    1975,
+    "Amarr Navy Small Structure 01a"
+  ],
+  [
+    73919,
+    1975,
+    "Amarr Navy Small Structure 02a"
+  ],
+  [
+    73920,
+    1975,
+    "Amarr Navy Small Structure 03a"
+  ],
+  [
+    73921,
+    1975,
+    "Amarr Navy Small Structure 04a"
+  ],
+  [
+    73922,
+    1975,
+    "Amarr Navy Small Structure 05a"
+  ],
+  [
+    73923,
+    1975,
+    "Amarr Navy Small Structure 06a"
+  ],
+  [
+    73924,
+    1975,
+    "Amarr Navy Small Structure 07a"
+  ],
+  [
+    73925,
+    1975,
+    "Amarr Navy Medium Structure 01a"
+  ],
+  [
+    73926,
+    1975,
+    "Amarr Navy Medium Structure 02a"
+  ],
+  [
+    73927,
+    1975,
+    "Amarr Navy Medium Structure 03a"
+  ],
+  [
+    73928,
+    1975,
+    "Amarr Navy Medium Structure 04a"
+  ],
+  [
+    73929,
+    1975,
+    "Amarr Navy Medium Structure 05a"
+  ],
+  [
+    73930,
+    1975,
+    "Caldari Navy Small Hologram 01a"
+  ],
+  [
+    73931,
+    1975,
+    "Caldari Navy Small Structure 01a"
+  ],
+  [
+    73932,
+    1975,
+    "Caldari Navy Small Structure 02a"
+  ],
+  [
+    73933,
+    1975,
+    "Caldari Navy Small Structure 03a"
+  ],
+  [
+    73934,
+    1975,
+    "Caldari Navy Small Structure 04a"
+  ],
+  [
+    73935,
+    1975,
+    "Caldari Navy Small Structure 05a"
+  ],
+  [
+    73936,
+    1975,
+    "Caldari Navy Small Structure 06a"
+  ],
+  [
+    73937,
+    1975,
+    "Caldari Navy Small Structure 07a"
+  ],
+  [
+    73938,
+    1975,
+    "Caldari Navy Medium Structure 01a"
+  ],
+  [
+    73939,
+    1975,
+    "Caldari Navy Medium Structure 02a"
+  ],
+  [
+    73940,
+    1975,
+    "Caldari Navy Medium Structure 03a"
+  ],
+  [
+    73941,
+    1975,
+    "Caldari Navy Medium Structure 04a"
+  ],
+  [
+    73942,
+    1975,
+    "Caldari Navy Medium Structure 05a"
+  ],
+  [
+    73943,
+    1975,
+    "Gallente Navy Small Hologram 01a"
+  ],
+  [
+    73944,
+    1975,
+    "Gallente Navy Small Structure 01a"
+  ],
+  [
+    73945,
+    1975,
+    "Gallente Navy Small Structure 02a"
+  ],
+  [
+    73946,
+    1975,
+    "Gallente Navy Small Structure 03a"
+  ],
+  [
+    73947,
+    1975,
+    "Gallente Navy Small Structure 04a"
+  ],
+  [
+    73948,
+    1975,
+    "Gallente Navy Small Structure 05a"
+  ],
+  [
+    73949,
+    1975,
+    "Gallente Navy Small Structure 06a"
+  ],
+  [
+    73950,
+    1975,
+    "Gallente Navy Small Structure 07a"
+  ],
+  [
+    73951,
+    1975,
+    "Gallente Navy Medium Structure 01a"
+  ],
+  [
+    73952,
+    1975,
+    "Gallente Navy Medium Structure 02a"
+  ],
+  [
+    73953,
+    1975,
+    "Gallente Navy Medium Structure 03a"
+  ],
+  [
+    73954,
+    1975,
+    "Gallente Navy Medium Structure 04a"
+  ],
+  [
+    73955,
+    1975,
+    "Gallente Navy Medium Structure 05a"
+  ],
+  [
+    73956,
+    1975,
+    "Minmatar Fleet Small Hologram 01a"
+  ],
+  [
+    73957,
+    1975,
+    "Minmatar Fleet Small Structure 01a"
+  ],
+  [
+    73958,
+    1975,
+    "Minmatar Fleet Small Structure 02a"
+  ],
+  [
+    73959,
+    1975,
+    "Minmatar Fleet Small Structure 03a"
+  ],
+  [
+    73960,
+    1975,
+    "Minmatar Fleet Small Structure 04a"
+  ],
+  [
+    73961,
+    1975,
+    "Minmatar Fleet Small Structure 05a"
+  ],
+  [
+    73962,
+    1975,
+    "Minmatar Fleet Small Structure 06a"
+  ],
+  [
+    73963,
+    1975,
+    "Minmatar Fleet Small Structure 07a"
+  ],
+  [
+    73964,
+    1975,
+    "Minmatar Fleet Medium Structure 01a"
+  ],
+  [
+    73965,
+    1975,
+    "Minmatar Fleet Medium Structure 02a"
+  ],
+  [
+    73966,
+    1975,
+    "Minmatar Fleet Medium Structure 03a"
+  ],
+  [
+    73967,
+    1975,
+    "Minmatar Fleet Medium Structure 04a"
+  ],
+  [
+    73968,
+    1975,
+    "Minmatar Fleet Medium Structure 05a"
+  ],
+  [
+    73972,
+    487,
+    "Catalyst Navy Issue Blueprint"
+  ],
+  [
+    73973,
+    487,
+    "Coercer Navy Issue Blueprint"
+  ],
+  [
+    73974,
+    1975,
+    "Amarr Navy ring 55k 01a"
+  ],
+  [
+    73975,
+    1975,
+    "Amarr Navy ring 55k 01b"
+  ],
+  [
+    73976,
+    1975,
+    "Amarr Navy ring 55k 01c"
+  ],
+  [
+    73977,
+    1975,
+    "Amarr Navy ring 55k 01d"
+  ],
+  [
+    73978,
+    487,
+    "Cormorant Navy Issue Blueprint"
+  ],
+  [
+    73979,
+    487,
+    "Thrasher Fleet Issue Blueprint"
+  ],
+  [
+    73991,
+    1975,
+    "Amarr Navy ring 35k 01a"
+  ],
+  [
+    73992,
+    1975,
+    "Amarr Navy ring 35k 01b"
+  ],
+  [
+    73993,
+    1975,
+    "Amarr Navy ring 35k 01c"
+  ],
+  [
+    73994,
+    1975,
+    "Amarr Navy ring 35k 01d"
+  ],
+  [
+    73995,
+    537,
+    "Phoenix Navy Issue Blueprint"
+  ],
+  [
+    73996,
+    537,
+    "Moros Navy Issue Blueprint"
+  ],
+  [
+    73999,
+    537,
+    "Naglfar Fleet Issue Blueprint"
+  ],
+  [
+    74000,
+    537,
+    "Revelation Navy Issue Blueprint"
+  ],
+  [
+    74001,
+    314,
+    "Military Navigation Telemetry"
+  ],
+  [
+    74002,
+    920,
+    "Turnur Aftermath"
+  ],
+  [
+    74007,
+    4471,
+    "Probe Fleet Issue Alliance Emblem"
+  ],
+  [
+    74008,
+    4471,
+    "Heron Navy Issue Alliance Emblem"
+  ],
+  [
+    74009,
+    1975,
+    "Caldari Navy Connection 01a"
+  ],
+  [
+    74010,
+    4471,
+    "Magnate Navy Issue Alliance Emblem"
+  ],
+  [
+    74011,
+    1975,
+    "Caldari Navy Connection 02a"
+  ],
+  [
+    74012,
+    1975,
+    "Caldari Navy Connection 03a"
+  ],
+  [
+    74013,
+    4471,
+    "Imicus Navy Issue Alliance Emblem"
+  ],
+  [
+    74014,
+    1975,
+    "Caldari Navy Connection 04a"
+  ],
+  [
+    74015,
+    4471,
+    "Cyclone Fleet Issue Alliance Emblem"
+  ],
+  [
+    74016,
+    1975,
+    "Caldari Navy Connection 04b"
+  ],
+  [
+    74017,
+    1975,
+    "Caldari Navy Connection 04c"
+  ],
+  [
+    74018,
+    4471,
+    "Ferox Navy Issue Alliance Emblem"
+  ],
+  [
+    74019,
+    1975,
+    "Caldari Navy Connection 04d"
+  ],
+  [
+    74020,
+    4471,
+    "Prophecy Navy Issue Alliance Emblem"
+  ],
+  [
+    74021,
+    1975,
+    "Caldari Navy Connection 05a"
+  ],
+  [
+    74022,
+    1975,
+    "Caldari Navy Connection 05b"
+  ],
+  [
+    74023,
+    4471,
+    "Myrmidon Navy Issue Alliance Emblem"
+  ],
+  [
+    74024,
+    1975,
+    "Caldari Navy Connection 05c"
+  ],
+  [
+    74025,
+    4471,
+    "Revelation Navy Issue Alliance Emblem"
+  ],
+  [
+    74026,
+    1975,
+    "Caldari Navy Platform 01a"
+  ],
+  [
+    74027,
+    1975,
+    "Caldari Navy Platform 02a"
+  ],
+  [
+    74028,
+    4471,
+    "Moros Navy Issue Alliance Emblem"
+  ],
+  [
+    74029,
+    4471,
+    "Phoenix Navy Issue Alliance Emblem"
+  ],
+  [
+    74030,
+    4471,
+    "Naglfar Fleet Issue Alliance Emblem"
+  ],
+  [
+    74031,
+    4471,
+    "Coercer Navy Issue Alliance Emblem"
+  ],
+  [
+    74032,
+    4471,
+    "Cormorant Navy Issue Alliance Emblem"
+  ],
+  [
+    74033,
+    4471,
+    "Catalyst Navy Issue Alliance Emblem"
+  ],
+  [
+    74034,
+    4471,
+    "Thrasher Fleet Issue Alliance Emblem"
+  ],
+  [
+    74035,
+    4471,
+    "Probe Fleet Issue Corporation Emblem"
+  ],
+  [
+    74036,
+    4471,
+    "Heron Navy Issue Corporation Emblem"
+  ],
+  [
+    74037,
+    4471,
+    "Magnate Navy Issue Corporation Emblem"
+  ],
+  [
+    74038,
+    4471,
+    "Imicus Navy Issue Corporation Emblem"
+  ],
+  [
+    74039,
+    4471,
+    "Cyclone Fleet Issue Corporation Emblem"
+  ],
+  [
+    74040,
+    4471,
+    "Ferox Navy Issue Corporation Emblem"
+  ],
+  [
+    74041,
+    4471,
+    "Prophecy Navy Issue Corporation Emblem"
+  ],
+  [
+    74042,
+    4471,
+    "Myrmidon Navy Issue Corporation Emblem"
+  ],
+  [
+    74043,
+    4471,
+    "Revelation Navy Issue Corporation Emblem"
+  ],
+  [
+    74044,
+    4471,
+    "Moros Navy Issue Corporation Emblem"
+  ],
+  [
+    74045,
+    4471,
+    "Phoenix Navy Issue Corporation Emblem"
+  ],
+  [
+    74046,
+    4471,
+    "Naglfar Fleet Issue Corporation Emblem"
+  ],
+  [
+    74047,
+    4471,
+    "Coercer Navy Issue Corporation Emblem"
+  ],
+  [
+    74048,
+    4471,
+    "Cormorant Navy Issue Corporation Emblem"
+  ],
+  [
+    74049,
+    4471,
+    "Catalyst Navy Issue Corporation Emblem"
+  ],
+  [
+    74050,
+    4471,
+    "Thrasher Fleet Issue Corporation Emblem"
+  ],
+  [
+    74051,
+    1975,
+    "Minmatar Fleet Connection 01a"
+  ],
+  [
+    74052,
+    1975,
+    "Minmatar Fleet Connection 01b"
+  ],
+  [
+    74053,
+    1975,
+    "Minmatar Fleet Connection 01c"
+  ],
+  [
+    74054,
+    1975,
+    "Minmatar Fleet Connection 01d"
+  ],
+  [
+    74055,
+    1975,
+    "Minmatar Fleet Connection 02a"
+  ],
+  [
+    74056,
+    1975,
+    "Minmatar Fleet Connection 02b"
+  ],
+  [
+    74057,
+    1975,
+    "Minmatar Fleet Connection 02c"
+  ],
+  [
+    74058,
+    1975,
+    "Minmatar Fleet Connection 03a"
+  ],
+  [
+    74059,
+    1975,
+    "Minmatar Fleet Connection 03b"
+  ],
+  [
+    74060,
+    1975,
+    "Minmatar Fleet Connection 03c"
+  ],
+  [
+    74061,
+    1975,
+    "Minmatar Fleet Connection 04a"
+  ],
+  [
+    74062,
+    1975,
+    "Minmatar Fleet Connection 04b"
+  ],
+  [
+    74063,
+    1975,
+    "Minmatar Fleet Platform 01a"
+  ],
+  [
+    74064,
+    1975,
+    "Minmatar Fleet Platform 02a"
+  ],
+  [
+    74065,
+    1975,
+    "Non-interactable Moros Navy Issue(do not translate)"
+  ],
+  [
+    74066,
+    1975,
+    "Non-interactable Catalyst Navy Issue(do not translate)"
+  ],
+  [
+    74067,
+    1975,
+    "Non-interactable Myrmidon Navy Issue(do not translate)"
+  ],
+  [
+    74082,
+    1975,
+    "Gallente Navy Connection 01a"
+  ],
+  [
+    74083,
+    1975,
+    "Gallente Navy Connection 01b"
+  ],
+  [
+    74084,
+    1975,
+    "Gallente Navy Connection 02a"
+  ],
+  [
+    74085,
+    1975,
+    "Gallente Navy Connection 02b"
+  ],
+  [
+    74086,
+    1975,
+    "Gallente Navy Connection 03a"
+  ],
+  [
+    74087,
+    1975,
+    "Gallente Navy Connection 03b"
+  ],
+  [
+    74088,
+    1975,
+    "Gallente Navy Connection 04a"
+  ],
+  [
+    74089,
+    1975,
+    "Gallente Navy Connection 04b"
+  ],
+  [
+    74090,
+    1975,
+    "Gallente Navy Connection 04c"
+  ],
+  [
+    74091,
+    1975,
+    "Gallente Navy Connection 05a"
+  ],
+  [
+    74092,
+    1975,
+    "Gallente Navy Connection 05b"
+  ],
+  [
+    74093,
+    1975,
+    "Gallente Navy Connection 06a"
+  ],
+  [
+    74094,
+    1975,
+    "Gallente Navy Connection 07a"
+  ],
+  [
+    74095,
+    1975,
+    "Gallente Navy Connection 07b"
+  ],
+  [
+    74096,
+    1975,
+    "Gallente Navy Connection 07c"
+  ],
+  [
+    74097,
+    1975,
+    "Gallente Navy Connection 08a"
+  ],
+  [
+    74098,
+    1975,
+    "Gallente Navy Connection 08b"
+  ],
+  [
+    74099,
+    1975,
+    "Gallente Navy Connection 08c"
+  ],
+  [
+    74100,
+    1975,
+    "Gallente Navy Hub 01a"
+  ],
+  [
+    74101,
+    1975,
+    "Gallente Navy Hub 01b"
+  ],
+  [
+    74102,
+    1975,
+    "Gallente Navy Hub 02a"
   ]
 ]

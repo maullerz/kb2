@@ -187,6 +187,10 @@
     "name": "Mining",
     "published": false
   },
+  "2118": {
+    "name": "Personalization",
+    "published": true
+  },
   "350001": {
     "name": "Infantry",
     "published": false

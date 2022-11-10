@@ -64593,7 +64593,7 @@
   },
   "29296": {
     "groupID": 310,
-    "name": "Novice Military Beacon"
+    "name": "Scout Military Beacon"
   },
   "29297": {
     "groupID": 310,
@@ -113529,7 +113529,7 @@
   },
   "60717": {
     "groupID": 1971,
-    "name": "Proving CH2021 Bonus (Do not translate)"
+    "name": "Proving CH2022 Bonus (Do not translate)"
   },
   "60724": {
     "groupID": 1814,
@@ -115741,11 +115741,11 @@
   },
   "63135": {
     "groupID": 4057,
-    "name": "63135_Male_Accessories_Masks_Mask_Cyberpunk_M01_Types_Mask_Cyberpunk_M01.png"
+    "name": "Men's Proven Bioadaptive Mask"
   },
   "63138": {
     "groupID": 4057,
-    "name": "63138_Female_Accessories_Masks_Mask_Cyberpunk_F01_Types_Mask_Cyberpunk_F01.png"
+    "name": "Women's Proven Bioadaptive Mask"
   },
   "63140": {
     "groupID": 4184,
@@ -116537,7 +116537,7 @@
   },
   "63728": {
     "groupID": 4050,
-    "name": "Event 71 Proving Filament"
+    "name": "Crimson Harvest Frigate FFA Proving Filament"
   },
   "63747": {
     "groupID": 1088,
@@ -120103,6 +120103,10 @@
     "groupID": 226,
     "name": "Construction Storage Unit"
   },
+  "71361": {
+    "groupID": 15,
+    "name": "Paragon Fulfilment Center"
+  },
   "71449": {
     "groupID": 226,
     "name": "Gallente Federation Stargate Construction"
@@ -120169,67 +120173,67 @@
   },
   "71735": {
     "groupID": 303,
-    "name": "Caldari Union Day Accuracy Booster IV"
+    "name": "Expired Caldari Union Day Accuracy Booster IV"
   },
   "71736": {
     "groupID": 303,
-    "name": "Caldari Union Day Accuracy Booster I"
+    "name": "Expired Caldari Union Day Accuracy Booster I"
   },
   "71737": {
     "groupID": 303,
-    "name": "Caldari Union Day Accuracy Booster II"
+    "name": "Expired Caldari Union Day Accuracy Booster II"
   },
   "71738": {
     "groupID": 303,
-    "name": "Caldari Union Day Accuracy Booster III"
+    "name": "Expired Caldari Union Day Accuracy Booster III"
   },
   "71739": {
     "groupID": 303,
-    "name": "Caldari Union Day Damage Booster I"
+    "name": "Expired Caldari Union Day Damage Booster I"
   },
   "71740": {
     "groupID": 303,
-    "name": "Caldari Union Day Damage Booster II"
+    "name": "Expired Caldari Union Day Damage Booster II"
   },
   "71741": {
     "groupID": 303,
-    "name": "Caldari Union Day Damage Booster III"
+    "name": "Expired Caldari Union Day Damage Booster III"
   },
   "71742": {
     "groupID": 303,
-    "name": "Caldari Union Day Damage Booster IV"
+    "name": "Expired Caldari Union Day Damage Booster IV"
   },
   "71743": {
     "groupID": 303,
-    "name": "Caldari Union Day Resistance Booster IV"
+    "name": "Expired Caldari Union Day Resistance Booster IV"
   },
   "71744": {
     "groupID": 303,
-    "name": "Caldari Union Day Resistance Booster I"
+    "name": "Expired Caldari Union Day Resistance Booster I"
   },
   "71745": {
     "groupID": 303,
-    "name": "Caldari Union Day Resistance Booster II"
+    "name": "Expired Caldari Union Day Resistance Booster II"
   },
   "71746": {
     "groupID": 303,
-    "name": "Caldari Union Day Resistance Booster III"
+    "name": "Expired Caldari Union Day Resistance Booster III"
   },
   "71747": {
     "groupID": 303,
-    "name": "Caldari Union Day Range Booster I"
+    "name": "Expired Caldari Union Day Range Booster I"
   },
   "71748": {
     "groupID": 303,
-    "name": "Caldari Union Day Range Booster II"
+    "name": "Expired Caldari Union Day Range Booster II"
   },
   "71749": {
     "groupID": 303,
-    "name": "Caldari Union Day Range Booster III"
+    "name": "Expired Caldari Union Day Range Booster III"
   },
   "71750": {
     "groupID": 303,
-    "name": "Caldari Union Day Range Booster IV"
+    "name": "Expired Caldari Union Day Range Booster IV"
   },
   "71755": {
     "groupID": 500,
@@ -120257,15 +120261,15 @@
   },
   "72083": {
     "groupID": 303,
-    "name": "Basic 'Union Day' Cerebral Accelerator"
+    "name": "Expired Basic 'Union Day' Cerebral Accelerator"
   },
   "72084": {
     "groupID": 303,
-    "name": "Extended 'Union Day' Cerebral Accelerator"
+    "name": "Expired Extended 'Union Day' Cerebral Accelerator"
   },
   "72085": {
     "groupID": 303,
-    "name": "Potent 'Union Day' Cerebral Accelerator"
+    "name": "Expired Potent 'Union Day' Cerebral Accelerator"
   },
   "72086": {
     "groupID": 226,
@@ -120377,7 +120381,7 @@
   },
   "72258": {
     "groupID": 314,
-    "name": "Union Day Reward Token"
+    "name": "Operation Center Reward Token"
   },
   "72259": {
     "groupID": 1194,
@@ -121075,13 +121079,17 @@
     "groupID": 1975,
     "name": "Caldari Navy Harbor XL01a"
   },
+  "72964": {
+    "groupID": 4471,
+    "name": "Rifter Corporation Emblem"
+  },
   "72976": {
     "groupID": 4050,
-    "name": "Event 72 Proving Filament "
+    "name": "ATXVIII 1v1 Navy Cruisers Proving Filament"
   },
   "72977": {
     "groupID": 4050,
-    "name": "Event 73 Proving Filament"
+    "name": "ATXVIII 1v1 T1 Frigates Proving Filament"
   },
   "72978": {
     "groupID": 4050,
@@ -121269,19 +121277,19 @@
   },
   "73221": {
     "groupID": 227,
-    "name": "Amarr Spawner (DO NOT TRANSLATE)"
+    "name": "Amarr Propaganda Spawner (DO NOT TRANSLATE)"
   },
   "73222": {
     "groupID": 227,
-    "name": "Minmatar Spawner (DO NOT TRANSLATE)"
+    "name": "Minmatar Propaganda Spawner (DO NOT TRANSLATE)"
   },
   "73223": {
     "groupID": 227,
-    "name": "Caldari Spawner (DO NOT TRANSLATE)"
+    "name": "Caldari Propaganda Spawner (DO NOT TRANSLATE)"
   },
   "73224": {
     "groupID": 227,
-    "name": "Gallente Spawner (DO NOT TRANSLATE)"
+    "name": "Gallente Propaganda Spawner (DO NOT TRANSLATE)"
   },
   "73225": {
     "groupID": 4477,
@@ -121371,6 +121379,26 @@
     "groupID": 226,
     "name": "Federation Relay Research Laboratory"
   },
+  "73270": {
+    "groupID": 4499,
+    "name": "Amarr Listening Outpost"
+  },
+  "73271": {
+    "groupID": 4499,
+    "name": "Minmatar Listening Outpost"
+  },
+  "73272": {
+    "groupID": 4499,
+    "name": "Caldari Listening Outpost"
+  },
+  "73273": {
+    "groupID": 4499,
+    "name": "Gallente Listening Outpost"
+  },
+  "73277": {
+    "groupID": 24,
+    "name": "EverMarks"
+  },
   "73316": {
     "groupID": 1975,
     "name": "cs1_construction (Do not translate)"
@@ -121431,6 +121459,10 @@
     "groupID": 1975,
     "name": "Minmatar Hub (DO NOT TRANSLATE)"
   },
+  "73377": {
+    "groupID": 4471,
+    "name": "Heron Corporation Emblem"
+  },
   "73380": {
     "groupID": 1975,
     "name": "Station Caldari 2 (DO NOT TRANSLATE)"
@@ -121445,7 +121477,11 @@
   },
   "73391": {
     "groupID": 1975,
-    "name": "Gallente Research Station (DO NOT TRANSLATE)"
+    "name": "Non-Interactable Gallente Station 3 (Do Not Translate)"
+  },
+  "73394": {
+    "groupID": 4471,
+    "name": "Rifter Alliance Emblem"
   },
   "73395": {
     "groupID": 1090,
@@ -121455,13 +121491,113 @@
     "groupID": 1088,
     "name": "73396_Male_outer_JacketCorpBusinessM01_Types_JacketCorpBusinessM01_DarkTurquoise.png"
   },
+  "73397": {
+    "groupID": 526,
+    "name": "Amarr Decoder Package"
+  },
+  "73398": {
+    "groupID": 526,
+    "name": "Minmatar Decoder Package"
+  },
+  "73399": {
+    "groupID": 526,
+    "name": "Caldari Decoder Package"
+  },
+  "73400": {
+    "groupID": 526,
+    "name": "Gallente Decoder Package"
+  },
+  "73401": {
+    "groupID": 526,
+    "name": "Amarr Encoder Splice"
+  },
+  "73402": {
+    "groupID": 526,
+    "name": "Minmatar Encoder Splice"
+  },
+  "73403": {
+    "groupID": 526,
+    "name": "Caldari Encoder Splice"
+  },
+  "73404": {
+    "groupID": 526,
+    "name": "Gallente Encoder Splice"
+  },
+  "73407": {
+    "groupID": 1088,
+    "name": "73407_Female_Outer_JacketMilF02_Types_JacketMilF02_WhiteTurquoise.png"
+  },
   "73408": {
     "groupID": 500,
-    "name": "Halloween Terrors Firework"
+    "name": "Scarlet Embrace Firework"
   },
   "73409": {
     "groupID": 1194,
-    "name": "Halloween Terrors Fireworks Crate"
+    "name": "Scarlet Embrace Fireworks Crate"
+  },
+  "73411": {
+    "groupID": 4071,
+    "name": "Amarr Propaganda Broadcast Structure Blueprint (unused)"
+  },
+  "73412": {
+    "groupID": 4071,
+    "name": "Minmatar Propaganda Broadcast Structure Blueprint (unused)"
+  },
+  "73413": {
+    "groupID": 4071,
+    "name": "Caldari Propaganda Broadcast Structure Blueprint (unused)"
+  },
+  "73414": {
+    "groupID": 4071,
+    "name": "Gallente Propaganda Broadcast Structure Blueprint (unused)"
+  },
+  "73419": {
+    "groupID": 4071,
+    "name": "Amarr Listening Outpost Blueprint (unused)"
+  },
+  "73420": {
+    "groupID": 4071,
+    "name": "Minmatar Listening Outpost Blueprint (unused)"
+  },
+  "73421": {
+    "groupID": 4071,
+    "name": "Caldari Listening Outpost Blueprint (unused)"
+  },
+  "73422": {
+    "groupID": 4071,
+    "name": "Gallente Listening Outpost Blueprint (unused)"
+  },
+  "73423": {
+    "groupID": 4057,
+    "name": "Women's Desert Nomad Mask"
+  },
+  "73424": {
+    "groupID": 1083,
+    "name": "Women's Desert Nomad Goggles"
+  },
+  "73425": {
+    "groupID": 4057,
+    "name": "Men's Desert Nomad Mask"
+  },
+  "73426": {
+    "groupID": 1083,
+    "name": "Men's Desert Nomad Goggles"
+  },
+  "73427": {
+    "groupID": 306,
+    "name": "Amarr Cryptograph Storage"
+  },
+  "73428": {
+    "groupID": 306,
+    "name": "Minmatar Cryptograph Storage"
+  },
+  "73429": {
+    "groupID": 306,
+    "name": "Caldari Cryptograph Storage"
+  },
+  "73430": {
+    "groupID": 306,
+    "name": "Gallente Cryptograph Storage"
   },
   "73431": {
     "groupID": 474,
@@ -121470,6 +121606,22 @@
   "73432": {
     "groupID": 474,
     "name": "Tetrimon Base Shortcut Keypass "
+  },
+  "73436": {
+    "groupID": 1670,
+    "name": "73436_Male_Makeup_Augmentations_Face_Paint_M01_Types_Face_Paint_M01_V7_Red.png"
+  },
+  "73437": {
+    "groupID": 1670,
+    "name": "73437_Female_Makeup_Augmentations_Face_Paint_F01_Types_Face_Paint_F01_V3_Red.png"
+  },
+  "73438": {
+    "groupID": 226,
+    "name": "TEST Beacon ( copy )"
+  },
+  "73439": {
+    "groupID": 226,
+    "name": "TEST Beacon (Capture Point)"
   },
   "73440": {
     "groupID": 1975,
@@ -121482,5 +121634,1817 @@
   "73442": {
     "groupID": 1975,
     "name": "Non-interactable Caldari Navy Station 4 (Do Not Translate)"
+  },
+  "73443": {
+    "groupID": 4494,
+    "name": "Amarr Control Zone A"
+  },
+  "73444": {
+    "groupID": 4494,
+    "name": "Minmatar Control Zone A"
+  },
+  "73445": {
+    "groupID": 4494,
+    "name": "Caldari Control Zone A"
+  },
+  "73446": {
+    "groupID": 4494,
+    "name": "Gallente Control Zone A"
+  },
+  "73447": {
+    "groupID": 227,
+    "name": "Amarr Scoreboard - DO NOT TRANSLATE"
+  },
+  "73448": {
+    "groupID": 227,
+    "name": "Minmatar Scoreboard - DO NOT TRANSLATE"
+  },
+  "73449": {
+    "groupID": 227,
+    "name": "Caldari Scoreboard - DO NOT TRANSLATE"
+  },
+  "73450": {
+    "groupID": 227,
+    "name": "Gallente Scoreboard - DO NOT TRANSLATE"
+  },
+  "73486": {
+    "groupID": 1975,
+    "name": "Non-interactable Erebus (do not translate)"
+  },
+  "73487": {
+    "groupID": 1975,
+    "name": "Non-interactable Anshar (do not translate)"
+  },
+  "73488": {
+    "groupID": 1975,
+    "name": "Non-interactable Leviathan (do not translate)"
+  },
+  "73489": {
+    "groupID": 1975,
+    "name": "Non-interactable Rhea (do not translate)"
+  },
+  "73490": {
+    "groupID": 1975,
+    "name": "Non-interactable Federation Navy Battlestation (do not translate)"
+  },
+  "73491": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Station 2 (Do Not Translate)"
+  },
+  "73492": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Station 4 (Do Not Translate)"
+  },
+  "73493": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Station 5 (Do Not Translate)"
+  },
+  "73494": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Station 8 (Do Not Translate)"
+  },
+  "73495": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari Station 1 (Do Not Translate)"
+  },
+  "73496": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari Station 3 (Do Not Translate)"
+  },
+  "73497": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari Station 7 (Do Not Translate)"
+  },
+  "73498": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari Station 8 (Do Not Translate)"
+  },
+  "73547": {
+    "groupID": 1169,
+    "name": "Imperial Frigate"
+  },
+  "73548": {
+    "groupID": 1175,
+    "name": "Imperial Destroyer"
+  },
+  "73549": {
+    "groupID": 1179,
+    "name": "Imperial Cruiser"
+  },
+  "73550": {
+    "groupID": 1183,
+    "name": "Imperial Battlecruiser"
+  },
+  "73551": {
+    "groupID": 4431,
+    "name": "Imperial Battleship"
+  },
+  "73552": {
+    "groupID": 1166,
+    "name": "Republic Frigate"
+  },
+  "73553": {
+    "groupID": 1178,
+    "name": "Republic Destroyer"
+  },
+  "73554": {
+    "groupID": 1182,
+    "name": "Republic Cruiser"
+  },
+  "73555": {
+    "groupID": 1186,
+    "name": "Republic Battlecruiser"
+  },
+  "73556": {
+    "groupID": 4434,
+    "name": "Republic Battleship"
+  },
+  "73557": {
+    "groupID": 1167,
+    "name": "State Frigate"
+  },
+  "73558": {
+    "groupID": 1176,
+    "name": "State Destroyer"
+  },
+  "73559": {
+    "groupID": 1180,
+    "name": "State Cruiser"
+  },
+  "73560": {
+    "groupID": 1184,
+    "name": "State Battlecruiser"
+  },
+  "73561": {
+    "groupID": 4432,
+    "name": "State Battleship"
+  },
+  "73562": {
+    "groupID": 1168,
+    "name": "Federation Frigate"
+  },
+  "73563": {
+    "groupID": 1177,
+    "name": "Federation Destroyer"
+  },
+  "73564": {
+    "groupID": 1181,
+    "name": "Federation Cruiser"
+  },
+  "73565": {
+    "groupID": 1185,
+    "name": "Federation Battlecruiser"
+  },
+  "73566": {
+    "groupID": 4433,
+    "name": "Federation Battleship"
+  },
+  "73567": {
+    "groupID": 4471,
+    "name": "Providence Alliance Emblem"
+  },
+  "73568": {
+    "groupID": 4471,
+    "name": "Tayra Alliance Emblem"
+  },
+  "73569": {
+    "groupID": 4471,
+    "name": "Violator Alliance Emblem"
+  },
+  "73570": {
+    "groupID": 4471,
+    "name": "Wreathe Alliance Emblem"
+  },
+  "73571": {
+    "groupID": 4471,
+    "name": "Amarr Shuttle Corporation Emblem"
+  },
+  "73572": {
+    "groupID": 4471,
+    "name": "Apotheosis Corporation Emblem"
+  },
+  "73573": {
+    "groupID": 4471,
+    "name": "Astero Corporation Emblem"
+  },
+  "73574": {
+    "groupID": 4471,
+    "name": "Atron Corporation Emblem"
+  },
+  "73575": {
+    "groupID": 4471,
+    "name": "Badger Corporation Emblem"
+  },
+  "73576": {
+    "groupID": 4471,
+    "name": "Bantam Corporation Emblem"
+  },
+  "73577": {
+    "groupID": 4471,
+    "name": "Bestower Corporation Emblem"
+  },
+  "73578": {
+    "groupID": 4471,
+    "name": "Boobook Corporation Emblem"
+  },
+  "73579": {
+    "groupID": 4471,
+    "name": "Breacher Corporation Emblem"
+  },
+  "73580": {
+    "groupID": 4471,
+    "name": "Brutix Corporation Emblem"
+  },
+  "73581": {
+    "groupID": 4471,
+    "name": "Caldari Shuttle Corporation Emblem"
+  },
+  "73582": {
+    "groupID": 4471,
+    "name": "Catalyst Corporation Emblem"
+  },
+  "73583": {
+    "groupID": 4471,
+    "name": "Charon Corporation Emblem"
+  },
+  "73584": {
+    "groupID": 4471,
+    "name": "Coercer Corporation Emblem"
+  },
+  "73585": {
+    "groupID": 4471,
+    "name": "Condor Corporation Emblem"
+  },
+  "73586": {
+    "groupID": 4471,
+    "name": "Corax Corporation Emblem"
+  },
+  "73587": {
+    "groupID": 4471,
+    "name": "Cormorant Corporation Emblem"
+  },
+  "73588": {
+    "groupID": 4471,
+    "name": "Council Diplomatic Shuttle Corporation Emblem"
+  },
+  "73589": {
+    "groupID": 4471,
+    "name": "Crucifier Corporation Emblem"
+  },
+  "73590": {
+    "groupID": 4471,
+    "name": "Cyclone Corporation Emblem"
+  },
+  "73591": {
+    "groupID": 4471,
+    "name": "Drake Corporation Emblem"
+  },
+  "73592": {
+    "groupID": 4471,
+    "name": "Echo Corporation Emblem"
+  },
+  "73593": {
+    "groupID": 4471,
+    "name": "Epithal Corporation Emblem"
+  },
+  "73594": {
+    "groupID": 4471,
+    "name": "Executioner Corporation Emblem"
+  },
+  "73595": {
+    "groupID": 4471,
+    "name": "Fenrir Corporation Emblem"
+  },
+  "73596": {
+    "groupID": 4471,
+    "name": "Ferox Corporation Emblem"
+  },
+  "73597": {
+    "groupID": 4471,
+    "name": "Gallente Shuttle Corporation Emblem"
+  },
+  "73598": {
+    "groupID": 4471,
+    "name": "Gnosis Corporation Emblem"
+  },
+  "73599": {
+    "groupID": 4471,
+    "name": "Gold Magnate Corporation Emblem"
+  },
+  "73600": {
+    "groupID": 4471,
+    "name": "Goru's Shuttle Corporation Emblem"
+  },
+  "73601": {
+    "groupID": 4471,
+    "name": "Guristas Shuttle Corporation Emblem"
+  },
+  "73602": {
+    "groupID": 4471,
+    "name": "Harbinger Corporation Emblem"
+  },
+  "73603": {
+    "groupID": 4471,
+    "name": "Hematos Corporation Emblem"
+  },
+  "73604": {
+    "groupID": 4471,
+    "name": "Hoarder Corporation Emblem"
+  },
+  "73605": {
+    "groupID": 4471,
+    "name": "Hurricane Corporation Emblem"
+  },
+  "73606": {
+    "groupID": 4471,
+    "name": "Ibis Corporation Emblem"
+  },
+  "73607": {
+    "groupID": 4471,
+    "name": "Imicus Corporation Emblem"
+  },
+  "73608": {
+    "groupID": 4471,
+    "name": "Immolator Corporation Emblem"
+  },
+  "73609": {
+    "groupID": 4471,
+    "name": "Impairor Corporation Emblem"
+  },
+  "73610": {
+    "groupID": 4471,
+    "name": "Incursus Corporation Emblem"
+  },
+  "73611": {
+    "groupID": 4471,
+    "name": "InterBus Shuttle Corporation Emblem"
+  },
+  "73612": {
+    "groupID": 4471,
+    "name": "Iteron Mark V Corporation Emblem"
+  },
+  "73613": {
+    "groupID": 4471,
+    "name": "Kestrel Corporation Emblem"
+  },
+  "73614": {
+    "groupID": 4471,
+    "name": "Kryos Corporation Emblem"
+  },
+  "73615": {
+    "groupID": 4471,
+    "name": "Leopard Corporation Emblem"
+  },
+  "73616": {
+    "groupID": 4471,
+    "name": "Magnate Corporation Emblem"
+  },
+  "73617": {
+    "groupID": 4471,
+    "name": "Mammoth Corporation Emblem"
+  },
+  "73618": {
+    "groupID": 4471,
+    "name": "Maulus Corporation Emblem"
+  },
+  "73619": {
+    "groupID": 4471,
+    "name": "Merlin Corporation Emblem"
+  },
+  "73620": {
+    "groupID": 4471,
+    "name": "Miasmos Corporation Emblem"
+  },
+  "73621": {
+    "groupID": 4471,
+    "name": "Moros Corporation Emblem"
+  },
+  "73622": {
+    "groupID": 4471,
+    "name": "Myrmidon Corporation Emblem"
+  },
+  "73623": {
+    "groupID": 4471,
+    "name": "Naga Corporation Emblem"
+  },
+  "73624": {
+    "groupID": 4471,
+    "name": "Naglfar Corporation Emblem"
+  },
+  "73625": {
+    "groupID": 4471,
+    "name": "Navitas Corporation Emblem"
+  },
+  "73626": {
+    "groupID": 4471,
+    "name": "Nereus Corporation Emblem"
+  },
+  "73627": {
+    "groupID": 4471,
+    "name": "Obelisk Corporation Emblem"
+  },
+  "73628": {
+    "groupID": 4471,
+    "name": "Oracle Corporation Emblem"
+  },
+  "73629": {
+    "groupID": 4471,
+    "name": "Phoenix Corporation Emblem"
+  },
+  "73630": {
+    "groupID": 4471,
+    "name": "Probe Corporation Emblem"
+  },
+  "73631": {
+    "groupID": 4471,
+    "name": "Providence Corporation Emblem"
+  },
+  "73632": {
+    "groupID": 4471,
+    "name": "Punisher Corporation Emblem"
+  },
+  "73633": {
+    "groupID": 4471,
+    "name": "Reaper Corporation Emblem"
+  },
+  "73634": {
+    "groupID": 4471,
+    "name": "Revelation Corporation Emblem"
+  },
+  "73635": {
+    "groupID": 4471,
+    "name": "Sigil Corporation Emblem"
+  },
+  "73636": {
+    "groupID": 4471,
+    "name": "Silver Magnate Corporation Emblem"
+  },
+  "73637": {
+    "groupID": 4471,
+    "name": "Slasher Corporation Emblem"
+  },
+  "73638": {
+    "groupID": 4471,
+    "name": "Sunesis Corporation Emblem"
+  },
+  "73639": {
+    "groupID": 4471,
+    "name": "Taipan Corporation Emblem"
+  },
+  "73640": {
+    "groupID": 4471,
+    "name": "Talos Corporation Emblem"
+  },
+  "73641": {
+    "groupID": 4471,
+    "name": "Tayra Corporation Emblem"
+  },
+  "73642": {
+    "groupID": 4471,
+    "name": "Thrasher Corporation Emblem"
+  },
+  "73643": {
+    "groupID": 4471,
+    "name": "Tormentor Corporation Emblem"
+  },
+  "73644": {
+    "groupID": 4471,
+    "name": "Tornado Corporation Emblem"
+  },
+  "73645": {
+    "groupID": 4471,
+    "name": "Tristan Corporation Emblem"
+  },
+  "73646": {
+    "groupID": 4471,
+    "name": "Velator Corporation Emblem"
+  },
+  "73647": {
+    "groupID": 4471,
+    "name": "Venture Corporation Emblem"
+  },
+  "73648": {
+    "groupID": 4471,
+    "name": "Vigil Corporation Emblem"
+  },
+  "73649": {
+    "groupID": 4471,
+    "name": "Violator Corporation Emblem"
+  },
+  "73650": {
+    "groupID": 4471,
+    "name": "Wreathe Corporation Emblem"
+  },
+  "73651": {
+    "groupID": 4471,
+    "name": "Astero Alliance Emblem"
+  },
+  "73652": {
+    "groupID": 4471,
+    "name": "Atron Alliance Emblem"
+  },
+  "73653": {
+    "groupID": 4471,
+    "name": "Badger Alliance Emblem"
+  },
+  "73654": {
+    "groupID": 4471,
+    "name": "Bantam Alliance Emblem"
+  },
+  "73655": {
+    "groupID": 4471,
+    "name": "Bestower Alliance Emblem"
+  },
+  "73656": {
+    "groupID": 4471,
+    "name": "Boobook Alliance Emblem"
+  },
+  "73657": {
+    "groupID": 4471,
+    "name": "Breacher Alliance Emblem"
+  },
+  "73658": {
+    "groupID": 4471,
+    "name": "Brutix Alliance Emblem"
+  },
+  "73659": {
+    "groupID": 4471,
+    "name": "Burst Alliance Emblem"
+  },
+  "73660": {
+    "groupID": 4471,
+    "name": "Caldari Shuttle Alliance Emblem"
+  },
+  "73661": {
+    "groupID": 4471,
+    "name": "Charon Alliance Emblem"
+  },
+  "73662": {
+    "groupID": 4471,
+    "name": "Coercer Alliance Emblem"
+  },
+  "73663": {
+    "groupID": 4471,
+    "name": "Condor Alliance Emblem"
+  },
+  "73664": {
+    "groupID": 4471,
+    "name": "Corax Alliance Emblem"
+  },
+  "73665": {
+    "groupID": 4471,
+    "name": "Cormorant Alliance Emblem"
+  },
+  "73666": {
+    "groupID": 4471,
+    "name": "Council Diplomatic Shuttle Alliance Emblem"
+  },
+  "73667": {
+    "groupID": 4471,
+    "name": "Crucifier Alliance Emblem"
+  },
+  "73668": {
+    "groupID": 4471,
+    "name": "Cyclone Alliance Emblem"
+  },
+  "73669": {
+    "groupID": 4471,
+    "name": "Dragoon Alliance Emblem"
+  },
+  "73670": {
+    "groupID": 4471,
+    "name": "Drake Alliance Emblem"
+  },
+  "73671": {
+    "groupID": 4471,
+    "name": "Epithal Alliance Emblem"
+  },
+  "73672": {
+    "groupID": 4471,
+    "name": "Executioner Alliance Emblem"
+  },
+  "73673": {
+    "groupID": 4471,
+    "name": "Fenrir Alliance Emblem"
+  },
+  "73674": {
+    "groupID": 4471,
+    "name": "Ferox Alliance Emblem"
+  },
+  "73675": {
+    "groupID": 4471,
+    "name": "Gallente Shuttle Alliance Emblem"
+  },
+  "73676": {
+    "groupID": 4471,
+    "name": "Gnosis Alliance Emblem"
+  },
+  "73677": {
+    "groupID": 4471,
+    "name": "Gold Magnate Alliance Emblem"
+  },
+  "73678": {
+    "groupID": 4471,
+    "name": "Goru's Shuttle Alliance Emblem"
+  },
+  "73679": {
+    "groupID": 4471,
+    "name": "Griffin Alliance Emblem"
+  },
+  "73680": {
+    "groupID": 4471,
+    "name": "Guristas Shuttle Alliance Emblem"
+  },
+  "73681": {
+    "groupID": 4471,
+    "name": "Hematos Alliance Emblem"
+  },
+  "73682": {
+    "groupID": 4471,
+    "name": "Heron Alliance Emblem"
+  },
+  "73683": {
+    "groupID": 4471,
+    "name": "Hoarder Alliance Emblem"
+  },
+  "73684": {
+    "groupID": 4471,
+    "name": "Hurricane Alliance Emblem"
+  },
+  "73685": {
+    "groupID": 4471,
+    "name": "Ibis Alliance Emblem"
+  },
+  "73686": {
+    "groupID": 4471,
+    "name": "Imicus Alliance Emblem"
+  },
+  "73687": {
+    "groupID": 4471,
+    "name": "Immolator Alliance Emblem"
+  },
+  "73688": {
+    "groupID": 4471,
+    "name": "Impairor Alliance Emblem"
+  },
+  "73689": {
+    "groupID": 4471,
+    "name": "Incursus Alliance Emblem"
+  },
+  "73690": {
+    "groupID": 4471,
+    "name": "Inquisitor Alliance Emblem"
+  },
+  "73691": {
+    "groupID": 4471,
+    "name": "Iteron Mark V Alliance Emblem"
+  },
+  "73692": {
+    "groupID": 4471,
+    "name": "Kestrel Alliance Emblem"
+  },
+  "73693": {
+    "groupID": 4471,
+    "name": "Kryos Alliance Emblem"
+  },
+  "73694": {
+    "groupID": 4471,
+    "name": "Leopard Alliance Emblem"
+  },
+  "73695": {
+    "groupID": 4471,
+    "name": "Magnate Alliance Emblem"
+  },
+  "73696": {
+    "groupID": 4471,
+    "name": "Mammoth Alliance Emblem"
+  },
+  "73697": {
+    "groupID": 4471,
+    "name": "Maulus Alliance Emblem"
+  },
+  "73698": {
+    "groupID": 4471,
+    "name": "Merlin Alliance Emblem"
+  },
+  "73699": {
+    "groupID": 4471,
+    "name": "Miasmos Alliance Emblem"
+  },
+  "73700": {
+    "groupID": 4471,
+    "name": "Minmatar Shuttle Alliance Emblem"
+  },
+  "73701": {
+    "groupID": 4471,
+    "name": "Myrmidon Alliance Emblem"
+  },
+  "73702": {
+    "groupID": 4471,
+    "name": "Naga Alliance Emblem"
+  },
+  "73703": {
+    "groupID": 4471,
+    "name": "Naglfar Alliance Emblem"
+  },
+  "73704": {
+    "groupID": 4471,
+    "name": "Navitas Alliance Emblem"
+  },
+  "73705": {
+    "groupID": 4471,
+    "name": "Nereus Alliance Emblem"
+  },
+  "73706": {
+    "groupID": 4471,
+    "name": "Obelisk Alliance Emblem"
+  },
+  "73707": {
+    "groupID": 4471,
+    "name": "Oracle Alliance Emblem"
+  },
+  "73708": {
+    "groupID": 4471,
+    "name": "Phoenix Alliance Emblem"
+  },
+  "73709": {
+    "groupID": 4471,
+    "name": "Probe Alliance Emblem"
+  },
+  "73710": {
+    "groupID": 4471,
+    "name": "Prophecy Alliance Emblem"
+  },
+  "73711": {
+    "groupID": 4471,
+    "name": "Punisher Alliance Emblem"
+  },
+  "73712": {
+    "groupID": 4471,
+    "name": "Reaper Alliance Emblem"
+  },
+  "73713": {
+    "groupID": 4471,
+    "name": "Revelation Alliance Emblem"
+  },
+  "73714": {
+    "groupID": 4471,
+    "name": "Sigil Alliance Emblem"
+  },
+  "73715": {
+    "groupID": 4471,
+    "name": "Silver Magnate Alliance Emblem"
+  },
+  "73716": {
+    "groupID": 4471,
+    "name": "Slasher Alliance Emblem"
+  },
+  "73717": {
+    "groupID": 4471,
+    "name": "Sunesis Alliance Emblem"
+  },
+  "73718": {
+    "groupID": 4471,
+    "name": "Taipan Alliance Emblem"
+  },
+  "73719": {
+    "groupID": 4471,
+    "name": "Talos Alliance Emblem"
+  },
+  "73720": {
+    "groupID": 4471,
+    "name": "Talwar Alliance Emblem"
+  },
+  "73721": {
+    "groupID": 4471,
+    "name": "Thrasher Alliance Emblem"
+  },
+  "73722": {
+    "groupID": 4471,
+    "name": "Tormentor Alliance Emblem"
+  },
+  "73723": {
+    "groupID": 4471,
+    "name": "Tornado Alliance Emblem"
+  },
+  "73724": {
+    "groupID": 4471,
+    "name": "Tristan Alliance Emblem"
+  },
+  "73725": {
+    "groupID": 4471,
+    "name": "Velator Alliance Emblem"
+  },
+  "73726": {
+    "groupID": 4471,
+    "name": "Venture Alliance Emblem"
+  },
+  "73727": {
+    "groupID": 4471,
+    "name": "Vigil Alliance Emblem"
+  },
+  "73728": {
+    "groupID": 4471,
+    "name": "Algos Alliance Emblem"
+  },
+  "73729": {
+    "groupID": 4471,
+    "name": "Amarr Shuttle Alliance Emblem"
+  },
+  "73730": {
+    "groupID": 4471,
+    "name": "Algos Corporation Emblem"
+  },
+  "73731": {
+    "groupID": 4471,
+    "name": "Burst Corporation Emblem"
+  },
+  "73732": {
+    "groupID": 4471,
+    "name": "Dragoon Corporation Emblem"
+  },
+  "73733": {
+    "groupID": 4471,
+    "name": "Griffin Corporation Emblem"
+  },
+  "73734": {
+    "groupID": 4471,
+    "name": "Inquisitor Corporation Emblem"
+  },
+  "73735": {
+    "groupID": 4471,
+    "name": "Minmatar Shuttle Corporation Emblem"
+  },
+  "73736": {
+    "groupID": 4471,
+    "name": "Prophecy Corporation Emblem"
+  },
+  "73737": {
+    "groupID": 4471,
+    "name": "Talwar Corporation Emblem"
+  },
+  "73738": {
+    "groupID": 4471,
+    "name": "Apotheosis Alliance Emblem"
+  },
+  "73739": {
+    "groupID": 4471,
+    "name": "Catalyst Alliance Emblem"
+  },
+  "73740": {
+    "groupID": 4471,
+    "name": "Echo Alliance Emblem"
+  },
+  "73741": {
+    "groupID": 4471,
+    "name": "Harbinger Alliance Emblem"
+  },
+  "73742": {
+    "groupID": 4471,
+    "name": "InterBus Shuttle Alliance Emblem"
+  },
+  "73743": {
+    "groupID": 4471,
+    "name": "Moros Alliance Emblem"
+  },
+  "73748": {
+    "groupID": 988,
+    "name": "Wormhole J244"
+  },
+  "73749": {
+    "groupID": 988,
+    "name": "Wormhole J377"
+  },
+  "73750": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor S01b"
+  },
+  "73751": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor M01b"
+  },
+  "73752": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor L01b"
+  },
+  "73753": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor XL01b"
+  },
+  "73754": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor S01b"
+  },
+  "73755": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor M01b"
+  },
+  "73756": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor L01b"
+  },
+  "73757": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor XL01b"
+  },
+  "73758": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor S01c"
+  },
+  "73759": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor M01c"
+  },
+  "73760": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor L01c"
+  },
+  "73761": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor XL01c"
+  },
+  "73762": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor S01c"
+  },
+  "73763": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor M01c"
+  },
+  "73764": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor L01c"
+  },
+  "73765": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor XL01c"
+  },
+  "73766": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor S01d"
+  },
+  "73767": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor M01d"
+  },
+  "73768": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor L01d"
+  },
+  "73769": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor XL01d"
+  },
+  "73770": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor S01d"
+  },
+  "73771": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor M01d"
+  },
+  "73772": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor L01d"
+  },
+  "73773": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor XL01d"
+  },
+  "73774": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor S01e"
+  },
+  "73775": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor M01e"
+  },
+  "73776": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor L01e"
+  },
+  "73777": {
+    "groupID": 1975,
+    "name": "Gallente Navy Harbor XL01e"
+  },
+  "73778": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor S01e"
+  },
+  "73779": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor M01e"
+  },
+  "73780": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor L01e"
+  },
+  "73781": {
+    "groupID": 1975,
+    "name": "Caldari Navy Harbor XL01e"
+  },
+  "73783": {
+    "groupID": 227,
+    "name": "Amarr Ops Center Spawner (DO NOT TRANSLATE)"
+  },
+  "73784": {
+    "groupID": 227,
+    "name": "Minmatar Ops Center Spawner (DO NOT TRANSLATE)"
+  },
+  "73785": {
+    "groupID": 227,
+    "name": "Caldari Ops Center Spawner (DO NOT TRANSLATE)"
+  },
+  "73786": {
+    "groupID": 227,
+    "name": "Gallente Ops Center Spawner (DO NOT TRANSLATE)"
+  },
+  "73787": {
+    "groupID": 485,
+    "name": "Naglfar Fleet Issue"
+  },
+  "73789": {
+    "groupID": 420,
+    "name": "Coercer Navy Issue"
+  },
+  "73790": {
+    "groupID": 485,
+    "name": "Revelation Navy Issue"
+  },
+  "73792": {
+    "groupID": 485,
+    "name": "Moros Navy Issue"
+  },
+  "73793": {
+    "groupID": 485,
+    "name": "Phoenix Navy Issue"
+  },
+  "73794": {
+    "groupID": 420,
+    "name": "Thrasher Fleet Issue"
+  },
+  "73795": {
+    "groupID": 420,
+    "name": "Cormorant Navy Issue"
+  },
+  "73796": {
+    "groupID": 420,
+    "name": "Catalyst Navy Issue"
+  },
+  "73797": {
+    "groupID": 4431,
+    "name": "Imperial Officer Battleship"
+  },
+  "73798": {
+    "groupID": 4434,
+    "name": "Republic Officer Battleship"
+  },
+  "73799": {
+    "groupID": 4432,
+    "name": "State Officer Battleship"
+  },
+  "73800": {
+    "groupID": 4433,
+    "name": "Federation Officer Battleship"
+  },
+  "73801": {
+    "groupID": 227,
+    "name": "Amarr Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  },
+  "73802": {
+    "groupID": 227,
+    "name": "Minmatar Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  },
+  "73803": {
+    "groupID": 227,
+    "name": "Caldari Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  },
+  "73804": {
+    "groupID": 227,
+    "name": "Gallente Rendezvous Point Spawner (DO NOT TRANSLATE)"
+  },
+  "73807": {
+    "groupID": 227,
+    "name": "Amarr Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  },
+  "73808": {
+    "groupID": 227,
+    "name": "Minmatar Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  },
+  "73809": {
+    "groupID": 227,
+    "name": "Caldari Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  },
+  "73810": {
+    "groupID": 227,
+    "name": "Gallente Rendezvous Point Officer Spawner (DO NOT TRANSLATE)"
+  },
+  "73811": {
+    "groupID": 186,
+    "name": "Blood Raider Dreadnought Wreck"
+  },
+  "73842": {
+    "groupID": 1975,
+    "name": "Amarr Station State Large"
+  },
+  "73843": {
+    "groupID": 1975,
+    "name": "Amarr Gate State Medium"
+  },
+  "73844": {
+    "groupID": 1975,
+    "name": "Caldari Station State Large"
+  },
+  "73845": {
+    "groupID": 1975,
+    "name": "Caldari Gate State Medium"
+  },
+  "73846": {
+    "groupID": 1975,
+    "name": "Gallente Station State Large"
+  },
+  "73847": {
+    "groupID": 1975,
+    "name": "Gallente Gate State Medium"
+  },
+  "73848": {
+    "groupID": 1975,
+    "name": "Minmatar Station State Large"
+  },
+  "73849": {
+    "groupID": 1975,
+    "name": "Minmatar Gate State Medium"
+  },
+  "73854": {
+    "groupID": 4494,
+    "name": "Amarr Control Zone B"
+  },
+  "73855": {
+    "groupID": 4494,
+    "name": "Amarr Control Zone C"
+  },
+  "73856": {
+    "groupID": 4494,
+    "name": "Minmatar Control Zone B"
+  },
+  "73857": {
+    "groupID": 4494,
+    "name": "Minmatar Control Zone C"
+  },
+  "73858": {
+    "groupID": 4494,
+    "name": "Caldari Control Zone B"
+  },
+  "73859": {
+    "groupID": 4494,
+    "name": "Caldari Control Zone C"
+  },
+  "73860": {
+    "groupID": 4494,
+    "name": "Gallente Control Zone B"
+  },
+  "73861": {
+    "groupID": 4494,
+    "name": "Gallente Control Zone C"
+  },
+  "73864": {
+    "groupID": 186,
+    "name": "Revelation Navy Issue Wreck"
+  },
+  "73865": {
+    "groupID": 186,
+    "name": "Phoenix Navy Issue Wreck"
+  },
+  "73866": {
+    "groupID": 186,
+    "name": "Naglfar Navy Issue Wreck"
+  },
+  "73868": {
+    "groupID": 186,
+    "name": "Moros Navy Issue Wreck"
+  },
+  "73909": {
+    "groupID": 6,
+    "name": "Sun A0 (Disrupted Blue Small)"
+  },
+  "73910": {
+    "groupID": 1220,
+    "name": "Elite Infomorph Psychology"
+  },
+  "73911": {
+    "groupID": 7,
+    "name": "Planet (Scorched Barren)"
+  },
+  "73912": {
+    "groupID": 274,
+    "name": "Advanced Contracting"
+  },
+  "73917": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Hologram 01a"
+  },
+  "73918": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 01a"
+  },
+  "73919": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 02a"
+  },
+  "73920": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 03a"
+  },
+  "73921": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 04a"
+  },
+  "73922": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 05a"
+  },
+  "73923": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 06a"
+  },
+  "73924": {
+    "groupID": 1975,
+    "name": "Amarr Navy Small Structure 07a"
+  },
+  "73925": {
+    "groupID": 1975,
+    "name": "Amarr Navy Medium Structure 01a"
+  },
+  "73926": {
+    "groupID": 1975,
+    "name": "Amarr Navy Medium Structure 02a"
+  },
+  "73927": {
+    "groupID": 1975,
+    "name": "Amarr Navy Medium Structure 03a"
+  },
+  "73928": {
+    "groupID": 1975,
+    "name": "Amarr Navy Medium Structure 04a"
+  },
+  "73929": {
+    "groupID": 1975,
+    "name": "Amarr Navy Medium Structure 05a"
+  },
+  "73930": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Hologram 01a"
+  },
+  "73931": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 01a"
+  },
+  "73932": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 02a"
+  },
+  "73933": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 03a"
+  },
+  "73934": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 04a"
+  },
+  "73935": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 05a"
+  },
+  "73936": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 06a"
+  },
+  "73937": {
+    "groupID": 1975,
+    "name": "Caldari Navy Small Structure 07a"
+  },
+  "73938": {
+    "groupID": 1975,
+    "name": "Caldari Navy Medium Structure 01a"
+  },
+  "73939": {
+    "groupID": 1975,
+    "name": "Caldari Navy Medium Structure 02a"
+  },
+  "73940": {
+    "groupID": 1975,
+    "name": "Caldari Navy Medium Structure 03a"
+  },
+  "73941": {
+    "groupID": 1975,
+    "name": "Caldari Navy Medium Structure 04a"
+  },
+  "73942": {
+    "groupID": 1975,
+    "name": "Caldari Navy Medium Structure 05a"
+  },
+  "73943": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Hologram 01a"
+  },
+  "73944": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 01a"
+  },
+  "73945": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 02a"
+  },
+  "73946": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 03a"
+  },
+  "73947": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 04a"
+  },
+  "73948": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 05a"
+  },
+  "73949": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 06a"
+  },
+  "73950": {
+    "groupID": 1975,
+    "name": "Gallente Navy Small Structure 07a"
+  },
+  "73951": {
+    "groupID": 1975,
+    "name": "Gallente Navy Medium Structure 01a"
+  },
+  "73952": {
+    "groupID": 1975,
+    "name": "Gallente Navy Medium Structure 02a"
+  },
+  "73953": {
+    "groupID": 1975,
+    "name": "Gallente Navy Medium Structure 03a"
+  },
+  "73954": {
+    "groupID": 1975,
+    "name": "Gallente Navy Medium Structure 04a"
+  },
+  "73955": {
+    "groupID": 1975,
+    "name": "Gallente Navy Medium Structure 05a"
+  },
+  "73956": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Hologram 01a"
+  },
+  "73957": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 01a"
+  },
+  "73958": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 02a"
+  },
+  "73959": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 03a"
+  },
+  "73960": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 04a"
+  },
+  "73961": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 05a"
+  },
+  "73962": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 06a"
+  },
+  "73963": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Small Structure 07a"
+  },
+  "73964": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Medium Structure 01a"
+  },
+  "73965": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Medium Structure 02a"
+  },
+  "73966": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Medium Structure 03a"
+  },
+  "73967": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Medium Structure 04a"
+  },
+  "73968": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Medium Structure 05a"
+  },
+  "73972": {
+    "groupID": 487,
+    "name": "Catalyst Navy Issue Blueprint"
+  },
+  "73973": {
+    "groupID": 487,
+    "name": "Coercer Navy Issue Blueprint"
+  },
+  "73974": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 55k 01a"
+  },
+  "73975": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 55k 01b"
+  },
+  "73976": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 55k 01c"
+  },
+  "73977": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 55k 01d"
+  },
+  "73978": {
+    "groupID": 487,
+    "name": "Cormorant Navy Issue Blueprint"
+  },
+  "73979": {
+    "groupID": 487,
+    "name": "Thrasher Fleet Issue Blueprint"
+  },
+  "73991": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 35k 01a"
+  },
+  "73992": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 35k 01b"
+  },
+  "73993": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 35k 01c"
+  },
+  "73994": {
+    "groupID": 1975,
+    "name": "Amarr Navy ring 35k 01d"
+  },
+  "73995": {
+    "groupID": 537,
+    "name": "Phoenix Navy Issue Blueprint"
+  },
+  "73996": {
+    "groupID": 537,
+    "name": "Moros Navy Issue Blueprint"
+  },
+  "73999": {
+    "groupID": 537,
+    "name": "Naglfar Fleet Issue Blueprint"
+  },
+  "74000": {
+    "groupID": 537,
+    "name": "Revelation Navy Issue Blueprint"
+  },
+  "74001": {
+    "groupID": 314,
+    "name": "Military Navigation Telemetry"
+  },
+  "74002": {
+    "groupID": 920,
+    "name": "Turnur Aftermath"
+  },
+  "74007": {
+    "groupID": 4471,
+    "name": "Probe Fleet Issue Alliance Emblem"
+  },
+  "74008": {
+    "groupID": 4471,
+    "name": "Heron Navy Issue Alliance Emblem"
+  },
+  "74009": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 01a"
+  },
+  "74010": {
+    "groupID": 4471,
+    "name": "Magnate Navy Issue Alliance Emblem"
+  },
+  "74011": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 02a"
+  },
+  "74012": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 03a"
+  },
+  "74013": {
+    "groupID": 4471,
+    "name": "Imicus Navy Issue Alliance Emblem"
+  },
+  "74014": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 04a"
+  },
+  "74015": {
+    "groupID": 4471,
+    "name": "Cyclone Fleet Issue Alliance Emblem"
+  },
+  "74016": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 04b"
+  },
+  "74017": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 04c"
+  },
+  "74018": {
+    "groupID": 4471,
+    "name": "Ferox Navy Issue Alliance Emblem"
+  },
+  "74019": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 04d"
+  },
+  "74020": {
+    "groupID": 4471,
+    "name": "Prophecy Navy Issue Alliance Emblem"
+  },
+  "74021": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 05a"
+  },
+  "74022": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 05b"
+  },
+  "74023": {
+    "groupID": 4471,
+    "name": "Myrmidon Navy Issue Alliance Emblem"
+  },
+  "74024": {
+    "groupID": 1975,
+    "name": "Caldari Navy Connection 05c"
+  },
+  "74025": {
+    "groupID": 4471,
+    "name": "Revelation Navy Issue Alliance Emblem"
+  },
+  "74026": {
+    "groupID": 1975,
+    "name": "Caldari Navy Platform 01a"
+  },
+  "74027": {
+    "groupID": 1975,
+    "name": "Caldari Navy Platform 02a"
+  },
+  "74028": {
+    "groupID": 4471,
+    "name": "Moros Navy Issue Alliance Emblem"
+  },
+  "74029": {
+    "groupID": 4471,
+    "name": "Phoenix Navy Issue Alliance Emblem"
+  },
+  "74030": {
+    "groupID": 4471,
+    "name": "Naglfar Fleet Issue Alliance Emblem"
+  },
+  "74031": {
+    "groupID": 4471,
+    "name": "Coercer Navy Issue Alliance Emblem"
+  },
+  "74032": {
+    "groupID": 4471,
+    "name": "Cormorant Navy Issue Alliance Emblem"
+  },
+  "74033": {
+    "groupID": 4471,
+    "name": "Catalyst Navy Issue Alliance Emblem"
+  },
+  "74034": {
+    "groupID": 4471,
+    "name": "Thrasher Fleet Issue Alliance Emblem"
+  },
+  "74035": {
+    "groupID": 4471,
+    "name": "Probe Fleet Issue Corporation Emblem"
+  },
+  "74036": {
+    "groupID": 4471,
+    "name": "Heron Navy Issue Corporation Emblem"
+  },
+  "74037": {
+    "groupID": 4471,
+    "name": "Magnate Navy Issue Corporation Emblem"
+  },
+  "74038": {
+    "groupID": 4471,
+    "name": "Imicus Navy Issue Corporation Emblem"
+  },
+  "74039": {
+    "groupID": 4471,
+    "name": "Cyclone Fleet Issue Corporation Emblem"
+  },
+  "74040": {
+    "groupID": 4471,
+    "name": "Ferox Navy Issue Corporation Emblem"
+  },
+  "74041": {
+    "groupID": 4471,
+    "name": "Prophecy Navy Issue Corporation Emblem"
+  },
+  "74042": {
+    "groupID": 4471,
+    "name": "Myrmidon Navy Issue Corporation Emblem"
+  },
+  "74043": {
+    "groupID": 4471,
+    "name": "Revelation Navy Issue Corporation Emblem"
+  },
+  "74044": {
+    "groupID": 4471,
+    "name": "Moros Navy Issue Corporation Emblem"
+  },
+  "74045": {
+    "groupID": 4471,
+    "name": "Phoenix Navy Issue Corporation Emblem"
+  },
+  "74046": {
+    "groupID": 4471,
+    "name": "Naglfar Fleet Issue Corporation Emblem"
+  },
+  "74047": {
+    "groupID": 4471,
+    "name": "Coercer Navy Issue Corporation Emblem"
+  },
+  "74048": {
+    "groupID": 4471,
+    "name": "Cormorant Navy Issue Corporation Emblem"
+  },
+  "74049": {
+    "groupID": 4471,
+    "name": "Catalyst Navy Issue Corporation Emblem"
+  },
+  "74050": {
+    "groupID": 4471,
+    "name": "Thrasher Fleet Issue Corporation Emblem"
+  },
+  "74051": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 01a"
+  },
+  "74052": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 01b"
+  },
+  "74053": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 01c"
+  },
+  "74054": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 01d"
+  },
+  "74055": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 02a"
+  },
+  "74056": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 02b"
+  },
+  "74057": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 02c"
+  },
+  "74058": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 03a"
+  },
+  "74059": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 03b"
+  },
+  "74060": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 03c"
+  },
+  "74061": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 04a"
+  },
+  "74062": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Connection 04b"
+  },
+  "74063": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Platform 01a"
+  },
+  "74064": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Platform 02a"
+  },
+  "74065": {
+    "groupID": 1975,
+    "name": "Non-interactable Moros Navy Issue(do not translate)"
+  },
+  "74066": {
+    "groupID": 1975,
+    "name": "Non-interactable Catalyst Navy Issue(do not translate)"
+  },
+  "74067": {
+    "groupID": 1975,
+    "name": "Non-interactable Myrmidon Navy Issue(do not translate)"
+  },
+  "74082": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 01a"
+  },
+  "74083": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 01b"
+  },
+  "74084": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 02a"
+  },
+  "74085": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 02b"
+  },
+  "74086": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 03a"
+  },
+  "74087": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 03b"
+  },
+  "74088": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 04a"
+  },
+  "74089": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 04b"
+  },
+  "74090": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 04c"
+  },
+  "74091": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 05a"
+  },
+  "74092": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 05b"
+  },
+  "74093": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 06a"
+  },
+  "74094": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 07a"
+  },
+  "74095": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 07b"
+  },
+  "74096": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 07c"
+  },
+  "74097": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 08a"
+  },
+  "74098": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 08b"
+  },
+  "74099": {
+    "groupID": 1975,
+    "name": "Gallente Navy Connection 08c"
+  },
+  "74100": {
+    "groupID": 1975,
+    "name": "Gallente Navy Hub 01a"
+  },
+  "74101": {
+    "groupID": 1975,
+    "name": "Gallente Navy Hub 01b"
+  },
+  "74102": {
+    "groupID": 1975,
+    "name": "Gallente Navy Hub 02a"
   }
 }

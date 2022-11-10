@@ -13743,12 +13743,48 @@
     "published": true,
     "useBasePrice": false
   },
+  "4471": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2118,
+    "fittableNonSingleton": false,
+    "name": "Ship Personalization",
+    "published": true,
+    "useBasePrice": false
+  },
   "4477": {
     "anchorable": false,
     "anchored": false,
     "categoryID": 22,
     "fittableNonSingleton": false,
-    "name": "Mobile Objective",
+    "name": "FW Propaganda Broadcast Structure",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4493": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mobile Objective Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4494": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Control Point",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4499": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "FW Listening Outpost",
     "published": true,
     "useBasePrice": true
   },
