@@ -423,7 +423,7 @@ export const parseKillmailItems = kmData => {
     dropped: 0,
     destroyed: 0,
     fittedValue: 0,
-    ship: prices[victim.ship],
+    ship: prices[victim.ship] || 1,
     // raw list for ordered not grouped display of items
     rawList: [],
     rawDict: {},
