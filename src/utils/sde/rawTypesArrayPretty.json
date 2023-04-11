@@ -29292,7 +29292,7 @@
   [
     14527,
     508,
-    "Tobias's Modified Torpedo Launcher"
+    "Tobias' Modified Torpedo Launcher"
   ],
   [
     14528,
@@ -29597,7 +29597,7 @@
   [
     14682,
     508,
-    "Vepas's Modified Torpedo Launcher"
+    "Vepas' Modified Torpedo Launcher"
   ],
   [
     14683,
@@ -29797,7 +29797,7 @@
   [
     14750,
     77,
-    "Vepas's Modified Kinetic Shield Hardener"
+    "Vepas' Modified Kinetic Shield Hardener"
   ],
   [
     14751,
@@ -29817,7 +29817,7 @@
   [
     14754,
     77,
-    "Vepas's Modified EM Shield Hardener"
+    "Vepas' Modified EM Shield Hardener"
   ],
   [
     14755,
@@ -29837,7 +29837,7 @@
   [
     14758,
     77,
-    "Vepas's Modified Explosive Shield Hardener"
+    "Vepas' Modified Explosive Shield Hardener"
   ],
   [
     14759,
@@ -29857,7 +29857,7 @@
   [
     14762,
     77,
-    "Vepas's Modified Thermal Shield Hardener"
+    "Vepas' Modified Thermal Shield Hardener"
   ],
   [
     14763,
@@ -29877,7 +29877,7 @@
   [
     14766,
     77,
-    "Vepas's Modified Multispectrum Shield Hardener"
+    "Vepas' Modified Multispectrum Shield Hardener"
   ],
   [
     14767,
@@ -50527,12 +50527,12 @@
   [
     21498,
     762,
-    "Synthetic Hull Conversion Inertia Stabilizers"
+    "Synthetic Hull Conversion Inertial Stabilizers"
   ],
   [
     21499,
     158,
-    "Synthetic Hull Conversion Inertia Stabilizers Blueprint"
+    "Synthetic Hull Conversion Inertial Stabilizers Blueprint"
   ],
   [
     21500,
@@ -72781,7 +72781,7 @@
   ],
   [
     27275,
-    306,
+    186,
     "Civilian Transport Ship Wreck"
   ],
   [
@@ -72841,7 +72841,7 @@
   ],
   [
     27287,
-    818,
+    4501,
     "Pirate Capsule"
   ],
   [
@@ -92421,7 +92421,7 @@
   ],
   [
     32348,
-    927,
+    1006,
     "Agent Rulie Isoryn"
   ],
   [
@@ -125267,7 +125267,7 @@
   [
     52801,
     303,
-    "Expired Basic 'Bonding' Cerebral Accelerator"
+    "Basic 'Bonding' Cerebral Accelerator"
   ],
   [
     52802,
@@ -125847,7 +125847,7 @@
   [
     53038,
     1670,
-    "53038_Male_Makeup_BodyAugmentations_BodyAugmentation_M01_Types_BodyAugmentationM01_Black.png"
+    "Men's 'SteelKnight TorsoRig' Body Augmentation"
   ],
   [
     53039,
@@ -126046,8 +126046,8 @@
   ],
   [
     53226,
-    1670,
-    "53226_Female_Makeup_BodyAugmentations_BodyAugmentation_F01_Types_BodyAugmentationF01_Black.png"
+    1088,
+    "Women's 'SteelKnight TorsoRig' Body Augmentation"
   ],
   [
     53227,
@@ -137692,7 +137692,7 @@
   [
     58741,
     1975,
-    "Docked EoM Bestower"
+    "Non-interactable Bestower (Do not translate)"
   ],
   [
     58742,
@@ -137707,7 +137707,7 @@
   [
     58744,
     1975,
-    "Fortified EoM Bunker"
+    "Non-interactable Amarr Bunker (Do not translate)"
   ],
   [
     58745,
@@ -137722,7 +137722,7 @@
   [
     58747,
     1975,
-    "Incomplete EoM Missile Battery"
+    "Non-interactable Amarr Missile Battery (Do not translate)"
   ],
   [
     58748,
@@ -138357,7 +138357,7 @@
   [
     58971,
     4117,
-    "Restrained Interdiction Nullifier"
+    "Enduring Interdiction Nullifier"
   ],
   [
     58972,
@@ -138372,7 +138372,7 @@
   [
     58974,
     4118,
-    "Restrained Interdiction Nullifier Blueprint"
+    "Enduring Interdiction Nullifier Blueprint"
   ],
   [
     58975,
@@ -142292,52 +142292,52 @@
   [
     61129,
     1194,
-    "Ice Storm Filaments Crate"
+    "Expired Ice Storm Filaments Crate"
   ],
   [
     61130,
-    4041,
-    "DSHR-01H Highsec Ice Storm Filament"
+    4072,
+    "Expired DSHR-01H Highsec Ice Storm Filament"
   ],
   [
     61131,
-    4041,
-    "DNCR-05H Highsec Ice Storm Filament"
+    4072,
+    "Expired DNCR-05H Highsec Ice Storm Filament"
   ],
   [
     61132,
-    4041,
-    "PRNCR-10H Highsec Ice Storm Filament"
+    4072,
+    "Expired PRNCR-10H Highsec Ice Storm Filament"
   ],
   [
     61133,
-    4041,
-    "VXN-01N Nullsec Ice Storm Filament"
+    4072,
+    "Expired VXN-01N Nullsec Ice Storm Filament"
   ],
   [
     61134,
-    4041,
-    "CMT-05N Nullsec Ice Storm Filament"
+    4072,
+    "Expired CMT-05N Nullsec Ice Storm Filament"
   ],
   [
     61135,
-    4041,
-    "CPD-10N Nullsec Ice Storm Filament"
+    4072,
+    "Expired CPD-10N Nullsec Ice Storm Filament"
   ],
   [
     61136,
-    4041,
-    "DNNR-01L Lowsec Ice Storm Filament"
+    4072,
+    "Expired DNNR-01L Lowsec Ice Storm Filament"
   ],
   [
     61137,
-    4041,
-    "BLTZN-05L Lowsec Ice Storm Filament"
+    4072,
+    "Expired BLTZN-05L Lowsec Ice Storm Filament"
   ],
   [
     61138,
-    4041,
-    "RDLF-10L Lowsec Ice Storm Filament"
+    4072,
+    "Expired RDLF-10L Lowsec Ice Storm Filament"
   ],
   [
     61180,
@@ -143042,7 +143042,7 @@
   [
     62048,
     1194,
-    "Bag of Gelatinized Confectionary "
+    "Bag of Gelatinized Confectionary"
   ],
   [
     62049,
@@ -148687,7 +148687,7 @@
   [
     64884,
     1975,
-    "Minmatar Tactical Supply Station (DO NOT TRANSLATE)"
+    "Non-Interactable Minmatar Bunker (DO NOT TRANSLATE)"
   ],
   [
     64885,
@@ -149217,7 +149217,7 @@
   [
     65144,
     1975,
-    "Amarr Cathedral "
+    "Amarr Cathedral"
   ],
   [
     65145,
@@ -149372,7 +149372,7 @@
   [
     70814,
     1975,
-    "Caldari Phoenix Dreadnought"
+    "Non-interactable Phoenix (do not translate)"
   ],
   [
     70815,
@@ -150452,7 +150452,7 @@
   [
     72238,
     303,
-    "Basic 'Boost' Cerebral Accelerator "
+    "Basic 'Boost' Cerebral Accelerator"
   ],
   [
     72239,
@@ -150947,7 +150947,7 @@
   [
     72762,
     1975,
-    "cs2_cbd_environment_asset "
+    "cs2_cbd_environment_asset"
   ],
   [
     72763,
@@ -150987,102 +150987,102 @@
   [
     72818,
     303,
-    "Harvest Nosferatu Booster I"
+    "Expired Harvest Nosferatu Booster I"
   ],
   [
     72819,
     303,
-    "Harvest Nosferatu Booster II "
+    "Expired Harvest Nosferatu Booster II"
   ],
   [
     72820,
     303,
-    "Harvest Nosferatu Booster III"
+    "Expired Harvest Nosferatu Booster III"
   ],
   [
     72821,
     303,
-    "Harvest Webifier Booster I"
+    "Expired Harvest Webifier Booster I"
   ],
   [
     72822,
     303,
-    "Harvest Webifier Booster II"
+    "Expired Harvest Webifier Booster II"
   ],
   [
     72823,
     303,
-    "Harvest Webifier Booster III"
+    "Expired Harvest Webifier Booster III"
   ],
   [
     72828,
     303,
-    "Harvest Nosferatu Booster IV"
+    "Expired Harvest Nosferatu Booster IV"
   ],
   [
     72829,
     303,
-    "Harvest Webifier Booster IV"
+    "Expired Harvest Webifier Booster IV"
   ],
   [
     72830,
     303,
-    "Harvest Damage Booster III"
+    "Expired Harvest Damage Booster III"
   ],
   [
     72831,
     303,
-    "Harvest Damage Booster IV"
+    "Expired Harvest Damage Booster IV"
   ],
   [
     72832,
     303,
-    "Harvest Damage Booster I"
+    "Expired Harvest Damage Booster I"
   ],
   [
     72833,
     303,
-    "Harvest Damage Booster II"
+    "Expired Harvest Damage Booster II"
   ],
   [
     72834,
     303,
-    "Harvest Anti-Disruptor Booster I"
+    "Expired Harvest Anti-Disruptor Booster I"
   ],
   [
     72835,
     303,
-    "Harvest Anti-Disruptor Booster II"
+    "Expired Harvest Anti-Disruptor Booster II"
   ],
   [
     72836,
     303,
-    "Harvest Anti-Disruptor Booster III"
+    "Expired Harvest Anti-Disruptor Booster III"
   ],
   [
     72837,
     303,
-    "Harvest Anti-Disruptor Booster IV"
+    "Expired Harvest Anti-Disruptor Booster IV"
   ],
   [
     72839,
     303,
-    "Tetrimon Resistance Booster IV"
+    "Expired Tetrimon Resistance Booster IV"
   ],
   [
     72840,
     303,
-    "Tetrimon Resistance Booster I"
+    "Expired Tetrimon Resistance Booster I"
   ],
   [
     72841,
     303,
-    "Tetrimon Resistance Booster II"
+    "Expired Tetrimon Resistance Booster II"
   ],
   [
     72842,
     303,
-    "Tetrimon Resistance Booster III"
+    "Expired Tetrimon Resistance Booster III"
   ],
   [
     72850,
@@ -151107,77 +151107,77 @@
   [
     72854,
     303,
-    "Tetrimon Capacitor Booster III"
+    "Expired Tetrimon Capacitor Booster III"
   ],
   [
     72855,
     303,
-    "Tetrimon Capacitor Booster IV"
+    "Expired Tetrimon Capacitor Booster IV"
   ],
   [
     72856,
     303,
-    "Tetrimon Capacitor Booster I"
+    "Expired Tetrimon Capacitor Booster I"
   ],
   [
     72857,
     303,
-    "Tetrimon Capacitor Booster II"
+    "Expired Tetrimon Capacitor Booster II"
   ],
   [
     72858,
     303,
-    "Tetrimon Precision Booster I"
+    "Expired Tetrimon Precision Booster I"
   ],
   [
     72859,
     303,
-    "Tetrimon Precision Booster II"
+    "Expired Tetrimon Precision Booster II"
   ],
   [
     72860,
     303,
-    "Tetrimon Precision Booster III"
+    "Expired Tetrimon Precision Booster III"
   ],
   [
     72861,
     303,
-    "Tetrimon Precision Booster IV"
+    "Expired Tetrimon Precision Booster IV"
   ],
   [
     72862,
     303,
-    "Tetrimon Anti-Drain Booster III"
+    "Expired Tetrimon Anti-Drain Booster III"
   ],
   [
     72863,
     303,
-    "Tetrimon Anti-Drain Booster IV"
+    "Expired Tetrimon Anti-Drain Booster IV"
   ],
   [
     72864,
     303,
-    "Tetrimon Anti-Drain Booster I"
+    "Expired Tetrimon Anti-Drain Booster I"
   ],
   [
     72865,
     303,
-    "Tetrimon Anti-Drain Booster II"
+    "Expired Tetrimon Anti-Drain Booster II"
   ],
   [
     72866,
     303,
-    "Basic 'Radiance' Cerebral Accelerator"
+    "Expired Basic 'Radiance' Cerebral Accelerator"
   ],
   [
     72867,
     303,
-    "Potent 'Radiance' Cerebral Accelerator"
+    "Expired Potent 'Radiance' Cerebral Accelerator"
   ],
   [
     72868,
     303,
-    "Extended 'Radiance' Cerebral Accelerator"
+    "Expired Extended 'Radiance' Cerebral Accelerator"
   ],
   [
     72869,
@@ -151367,42 +151367,42 @@
   [
     72978,
     4050,
-    "Event 74 Proving Filament "
+    "ATXVIII 1v1 Battleships Proving Filament"
   ],
   [
     72979,
     4050,
-    "Event 75 Proving Filament"
+    "ATXVIII 1v1 Navy Destroyers Proving Filament"
   ],
   [
     72980,
     4050,
-    "Event 76 Proving Filament"
+    "Prophecy FFA Proving Filament"
   ],
   [
     72981,
     4050,
-    "Event 77 Proving Filament "
+    "2v2 Navy Frigates Proving Filament"
   ],
   [
     72982,
     4050,
-    "Event 78 Proving Filament"
+    "Yoiul 1v1 T1 Cruisers Proving Filament"
   ],
   [
     72983,
     4050,
-    "Event 79 Proving Filament"
+    "Yoiul T1 Destroyer FFA Proving Filament"
   ],
   [
     72984,
     4050,
-    "Event 80 Proving Filament"
+    "2v2 Battleships Proving Filament"
   ],
   [
     72985,
     4050,
-    "Event 81 Proving Filament "
+    "1v1 Navy Battlecruisers Proving Filament"
   ],
   [
     72986,
@@ -151437,7 +151437,7 @@
   [
     72992,
     4050,
-    "Event 88 Proving Filament "
+    "Event 88 Proving Filament"
   ],
   [
     72993,
@@ -151522,7 +151522,7 @@
   [
     73016,
     1975,
-    "Small Military Beacon "
+    "Small Military Beacon"
   ],
   [
     73017,
@@ -151722,7 +151722,7 @@
   [
     73268,
     226,
-    "Federation Relay Research Laboratory"
+    "Federation Stellar Transmuter Research Laboratory"
   ],
   [
     73270,
@@ -152002,22 +152002,22 @@
   [
     73431,
     474,
-    "Crimson Gauntlet Shortcut Keypass "
+    "Crimson Gauntlet Shortcut Keypass"
   ],
   [
     73432,
     474,
-    "Tetrimon Base Shortcut Keypass "
+    "Tetrimon Base Shortcut Keypass"
   ],
   [
     73436,
     1670,
-    "73436_Male_Makeup_Augmentations_Face_Paint_M01_Types_Face_Paint_M01_V7_Red.png"
+    "Men's 'Barbatus Rojo' Facial Augmentation"
   ],
   [
     73437,
     1670,
-    "73437_Female_Makeup_Augmentations_Face_Paint_F01_Types_Face_Paint_F01_V3_Red.png"
+    "Women's 'Domino Rojo' Facial Augmentation"
   ],
   [
     73438,
@@ -152083,6 +152083,11 @@
     73450,
     227,
     "Gallente Scoreboard - DO NOT TRANSLATE"
+  ],
+  [
+    73484,
+    314,
+    "Paragon Gift Crate"
   ],
   [
     73486,
@@ -153522,7 +153527,7 @@
   [
     73866,
     186,
-    "Naglfar Navy Issue Wreck"
+    "Naglfar Fleet Issue Wreck"
   ],
   [
     73868,
@@ -154308,5 +154313,5255 @@
     74102,
     1975,
     "Gallente Navy Hub 02a"
+  ],
+  [
+    74107,
+    226,
+    "Federation Navy Infrastructure Hub"
+  ],
+  [
+    74114,
+    4098,
+    "Navy Destroyers Expert System"
+  ],
+  [
+    74120,
+    1971,
+    "Proving Damage, HP, Prop Mod and Overheating Bonus (Do not translate)"
+  ],
+  [
+    74141,
+    324,
+    "Geri"
+  ],
+  [
+    74159,
+    226,
+    "Gallente Federation Stargate Construction"
+  ],
+  [
+    74161,
+    303,
+    "Expired Extended 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    74162,
+    303,
+    "Expired Potent 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    74163,
+    303,
+    "Expired Basic 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    74199,
+    303,
+    "Expired Wightstorm Sunyata Booster I"
+  ],
+  [
+    74200,
+    303,
+    "Expired Wightstorm Sunyata Booster II"
+  ],
+  [
+    74201,
+    303,
+    "Expired Wightstorm Sunyata Booster III"
+  ],
+  [
+    74202,
+    303,
+    "Expired Wightstorm Nirvana Booster I"
+  ],
+  [
+    74203,
+    303,
+    "Expired Wightstorm Nirvana Booster II"
+  ],
+  [
+    74204,
+    303,
+    "Expired Wightstorm Nirvana Booster III"
+  ],
+  [
+    74205,
+    303,
+    "Expired Wightstorm Rapture Booster I"
+  ],
+  [
+    74206,
+    303,
+    "Expired Wightstorm Rapture Booster II"
+  ],
+  [
+    74207,
+    303,
+    "Expired Wightstorm Rapture Booster III"
+  ],
+  [
+    74208,
+    303,
+    "Expired Wightstorm Cetana Booster I"
+  ],
+  [
+    74209,
+    303,
+    "Expired Wightstorm Cetana Booster II"
+  ],
+  [
+    74210,
+    303,
+    "Expired Wightstorm Cetana Booster III"
+  ],
+  [
+    74211,
+    303,
+    "Expired Wightstorm Vitarka Booster I"
+  ],
+  [
+    74212,
+    303,
+    "Expired Wightstorm Vitarka Booster II"
+  ],
+  [
+    74213,
+    303,
+    "Expired Wightstorm Vitarka Booster III"
+  ],
+  [
+    74214,
+    303,
+    "Expired Wightstorm Manasikara Booster I"
+  ],
+  [
+    74215,
+    303,
+    "Expired Wightstorm Manasikara Booster II"
+  ],
+  [
+    74216,
+    303,
+    "Expired Wightstorm Manasikara Booster III"
+  ],
+  [
+    74255,
+    353,
+    "QA Survey Scanner"
+  ],
+  [
+    74256,
+    353,
+    "QA Miner"
+  ],
+  [
+    74257,
+    303,
+    "Expired Wightstorm Sunyata Booster IV"
+  ],
+  [
+    74258,
+    303,
+    "Expired Wightstorm Nirvana Booster IV"
+  ],
+  [
+    74259,
+    303,
+    "Expired Wightstorm Rapture Booster IV"
+  ],
+  [
+    74260,
+    303,
+    "Expired Wightstorm Cetana Booster IV"
+  ],
+  [
+    74261,
+    303,
+    "Expired Wightstorm Vitarka Booster IV"
+  ],
+  [
+    74262,
+    303,
+    "Expired Wightstorm Manasikara Booster IV"
+  ],
+  [
+    74316,
+    358,
+    "Bestla"
+  ],
+  [
+    74385,
+    500,
+    "Scarlet Embrace Firework ( copy )"
+  ],
+  [
+    74386,
+    500,
+    "Yoiul's Ascent Firework"
+  ],
+  [
+    74387,
+    1194,
+    "Yoiul's Ascent Firework Crate"
+  ],
+  [
+    74391,
+    1975,
+    "Non-interactable Phoenix Navy Issue (do not translate)"
+  ],
+  [
+    74397,
+    15,
+    "Minmatar Trade Post (Damaged)"
+  ],
+  [
+    74406,
+    1975,
+    "Invisible Cloud - Disallow Cloaking 500KM"
+  ],
+  [
+    74426,
+    4041,
+    "DNCR-05H Highsec Ice Storm Filament"
+  ],
+  [
+    74427,
+    4041,
+    "DNNR-01L Lowsec Ice Storm Filament"
+  ],
+  [
+    74428,
+    4041,
+    "DSHR-01H Highsec Ice Storm Filament"
+  ],
+  [
+    74429,
+    4041,
+    "PRNCR-10H Highsec Ice Storm Filament"
+  ],
+  [
+    74430,
+    4041,
+    "RDLF-10L Lowsec Ice Storm Filament"
+  ],
+  [
+    74431,
+    4041,
+    "VXN-01N Nullsec Ice Storm Filament"
+  ],
+  [
+    74432,
+    4041,
+    "BLTZN-05L Lowsec Ice Storm Filament"
+  ],
+  [
+    74433,
+    4041,
+    "CMT-05N Nullsec Ice Storm Filament"
+  ],
+  [
+    74434,
+    4041,
+    "CPD-10N Nullsec Ice Storm Filament"
+  ],
+  [
+    74448,
+    1122,
+    "QA Salvager"
+  ],
+  [
+    74449,
+    1194,
+    "Ice Storm Filaments Crate"
+  ],
+  [
+    74500,
+    4098,
+    "Winter Nexus Expert System"
+  ],
+  [
+    74520,
+    1971,
+    "Proving HP, Remote Rep Impedance, and Overheating Bonus (Do not translate)"
+  ],
+  [
+    74521,
+    4513,
+    "Mordunium"
+  ],
+  [
+    74522,
+    4513,
+    "Plum Mordunium"
+  ],
+  [
+    74523,
+    4513,
+    "Prize Mordunium"
+  ],
+  [
+    74524,
+    4513,
+    "Plunder Mordunium"
+  ],
+  [
+    74525,
+    4514,
+    "Ytirium"
+  ],
+  [
+    74526,
+    4514,
+    "Bootleg Ytirium"
+  ],
+  [
+    74527,
+    4514,
+    "Firewater Ytirium"
+  ],
+  [
+    74528,
+    4514,
+    "Moonshine Ytirium"
+  ],
+  [
+    74529,
+    4515,
+    "Eifyrium"
+  ],
+  [
+    74530,
+    4515,
+    "Doped Eifyrium"
+  ],
+  [
+    74531,
+    4515,
+    "Boosted Eifyrium"
+  ],
+  [
+    74532,
+    4515,
+    "Augmented Eifyrium"
+  ],
+  [
+    74533,
+    4516,
+    "Ducinium"
+  ],
+  [
+    74534,
+    4516,
+    "Noble Ducinium"
+  ],
+  [
+    74535,
+    4516,
+    "Royal Ducinium"
+  ],
+  [
+    74536,
+    4516,
+    "Imperial Ducinium"
+  ],
+  [
+    74686,
+    1975,
+    "Fortified Sansha Elevator (Winter Nexus music) (DO NOT TRANSLATE)"
+  ],
+  [
+    74884,
+    4471,
+    "Adrestia Alliance Emblem"
+  ],
+  [
+    74885,
+    4471,
+    "Anathema Alliance Emblem"
+  ],
+  [
+    74886,
+    4471,
+    "Arazu Alliance Emblem"
+  ],
+  [
+    74887,
+    4471,
+    "Arbitrator Alliance Emblem"
+  ],
+  [
+    74888,
+    4471,
+    "Ares Alliance Emblem"
+  ],
+  [
+    74889,
+    4471,
+    "Armageddon Alliance Emblem"
+  ],
+  [
+    74890,
+    4471,
+    "Ashimmu Alliance Emblem"
+  ],
+  [
+    74891,
+    4471,
+    "Augoror Alliance Emblem"
+  ],
+  [
+    74892,
+    4471,
+    "Augoror Navy Issue Alliance Emblem"
+  ],
+  [
+    74893,
+    4471,
+    "Basilisk Alliance Emblem"
+  ],
+  [
+    74894,
+    4471,
+    "Bellicose Alliance Emblem"
+  ],
+  [
+    74895,
+    4471,
+    "Bestla Alliance Emblem"
+  ],
+  [
+    74896,
+    4471,
+    "Bifrost Alliance Emblem"
+  ],
+  [
+    74897,
+    4471,
+    "Blackbird Alliance Emblem"
+  ],
+  [
+    74898,
+    4471,
+    "Broadsword Alliance Emblem"
+  ],
+  [
+    74899,
+    4471,
+    "Buzzard Alliance Emblem"
+  ],
+  [
+    74900,
+    4471,
+    "Caedes Alliance Emblem"
+  ],
+  [
+    74901,
+    4471,
+    "Caldari Navy Hookbill Alliance Emblem"
+  ],
+  [
+    74902,
+    4471,
+    "Cambion Alliance Emblem"
+  ],
+  [
+    74903,
+    4471,
+    "Caracal Alliance Emblem"
+  ],
+  [
+    74904,
+    4471,
+    "Caracal Navy Issue Alliance Emblem"
+  ],
+  [
+    74905,
+    4471,
+    "Celestis Alliance Emblem"
+  ],
+  [
+    74906,
+    4471,
+    "Cerberus Alliance Emblem"
+  ],
+  [
+    74907,
+    4471,
+    "Chameleon Alliance Emblem"
+  ],
+  [
+    74908,
+    4471,
+    "Cheetah Alliance Emblem"
+  ],
+  [
+    74909,
+    4471,
+    "Chremoas Alliance Emblem"
+  ],
+  [
+    74910,
+    4471,
+    "Claw Alliance Emblem"
+  ],
+  [
+    74911,
+    4471,
+    "Confessor Alliance Emblem"
+  ],
+  [
+    74912,
+    4471,
+    "Covetor Alliance Emblem"
+  ],
+  [
+    74913,
+    4471,
+    "Crane Alliance Emblem"
+  ],
+  [
+    74914,
+    4471,
+    "Crow Alliance Emblem"
+  ],
+  [
+    74915,
+    4471,
+    "Crucifier Navy Issue Alliance Emblem"
+  ],
+  [
+    74916,
+    4471,
+    "Cruor Alliance Emblem"
+  ],
+  [
+    74917,
+    4471,
+    "Crusader Alliance Emblem"
+  ],
+  [
+    74918,
+    4471,
+    "Curse Alliance Emblem"
+  ],
+  [
+    74919,
+    4471,
+    "Cynabal Alliance Emblem"
+  ],
+  [
+    74920,
+    4471,
+    "Damavik Alliance Emblem"
+  ],
+  [
+    74921,
+    4471,
+    "Daredevil Alliance Emblem"
+  ],
+  [
+    74922,
+    4471,
+    "Deacon Alliance Emblem"
+  ],
+  [
+    74923,
+    4471,
+    "Deimos Alliance Emblem"
+  ],
+  [
+    74924,
+    4471,
+    "Devoter Alliance Emblem"
+  ],
+  [
+    74925,
+    4471,
+    "Dominix Alliance Emblem"
+  ],
+  [
+    74926,
+    4471,
+    "Dramiel Alliance Emblem"
+  ],
+  [
+    74927,
+    4471,
+    "Draugur Alliance Emblem"
+  ],
+  [
+    74928,
+    4471,
+    "Eagle Alliance Emblem"
+  ],
+  [
+    74929,
+    4471,
+    "Echelon Alliance Emblem"
+  ],
+  [
+    74930,
+    4471,
+    "Endurance Alliance Emblem"
+  ],
+  [
+    74931,
+    4471,
+    "Enforcer Alliance Emblem"
+  ],
+  [
+    74932,
+    4471,
+    "Enyo Alliance Emblem"
+  ],
+  [
+    74933,
+    4471,
+    "Eris Alliance Emblem"
+  ],
+  [
+    74934,
+    4471,
+    "Etana Alliance Emblem"
+  ],
+  [
+    74935,
+    4471,
+    "Exequror Alliance Emblem"
+  ],
+  [
+    74936,
+    4471,
+    "Exequror Navy Issue Alliance Emblem"
+  ],
+  [
+    74937,
+    4471,
+    "Falcon Alliance Emblem"
+  ],
+  [
+    74938,
+    4471,
+    "Federation Navy Comet Alliance Emblem"
+  ],
+  [
+    74939,
+    4471,
+    "Fiend Alliance Emblem"
+  ],
+  [
+    74940,
+    4471,
+    "Flycatcher Alliance Emblem"
+  ],
+  [
+    74941,
+    4471,
+    "Freki Alliance Emblem"
+  ],
+  [
+    74942,
+    4471,
+    "Garmur Alliance Emblem"
+  ],
+  [
+    74943,
+    4471,
+    "Geri Alliance Emblem"
+  ],
+  [
+    74944,
+    4471,
+    "Gila Alliance Emblem"
+  ],
+  [
+    74945,
+    4471,
+    "Griffin Navy Issue Alliance Emblem"
+  ],
+  [
+    74946,
+    4471,
+    "Guardian Alliance Emblem"
+  ],
+  [
+    74947,
+    4471,
+    "Guardian-Vexor Alliance Emblem"
+  ],
+  [
+    74948,
+    4471,
+    "Harpy Alliance Emblem"
+  ],
+  [
+    74949,
+    4471,
+    "Hawk Alliance Emblem"
+  ],
+  [
+    74950,
+    4471,
+    "Hecate Alliance Emblem"
+  ],
+  [
+    74951,
+    4471,
+    "Helios Alliance Emblem"
+  ],
+  [
+    74952,
+    4471,
+    "Heretic Alliance Emblem"
+  ],
+  [
+    74953,
+    4471,
+    "Hound Alliance Emblem"
+  ],
+  [
+    74954,
+    4471,
+    "Huginn Alliance Emblem"
+  ],
+  [
+    74955,
+    4471,
+    "Hulk Alliance Emblem"
+  ],
+  [
+    74956,
+    4471,
+    "Hydra Alliance Emblem"
+  ],
+  [
+    74957,
+    4471,
+    "Hyena Alliance Emblem"
+  ],
+  [
+    74958,
+    4471,
+    "Ikitursa Alliance Emblem"
+  ],
+  [
+    74959,
+    4471,
+    "Imp Alliance Emblem"
+  ],
+  [
+    74960,
+    4471,
+    "Impel Alliance Emblem"
+  ],
+  [
+    74961,
+    4471,
+    "Imperial Navy Slicer Alliance Emblem"
+  ],
+  [
+    74962,
+    4471,
+    "Ishkur Alliance Emblem"
+  ],
+  [
+    74963,
+    4471,
+    "Ishtar Alliance Emblem"
+  ],
+  [
+    74964,
+    4471,
+    "Jackdaw Alliance Emblem"
+  ],
+  [
+    74965,
+    4471,
+    "Jaguar Alliance Emblem"
+  ],
+  [
+    74966,
+    4471,
+    "Keres Alliance Emblem"
+  ],
+  [
+    74967,
+    4471,
+    "Kikimora Alliance Emblem"
+  ],
+  [
+    74968,
+    4471,
+    "Kirin Alliance Emblem"
+  ],
+  [
+    74969,
+    4471,
+    "Kitsune Alliance Emblem"
+  ],
+  [
+    74970,
+    4471,
+    "Lachesis Alliance Emblem"
+  ],
+  [
+    74971,
+    4471,
+    "Laelaps Alliance Emblem"
+  ],
+  [
+    74972,
+    4471,
+    "Legion Alliance Emblem"
+  ],
+  [
+    74973,
+    4471,
+    "Loki Alliance Emblem"
+  ],
+  [
+    74974,
+    4471,
+    "Mackinaw Alliance Emblem"
+  ],
+  [
+    74975,
+    4471,
+    "Magus Alliance Emblem"
+  ],
+  [
+    74976,
+    4471,
+    "Malediction Alliance Emblem"
+  ],
+  [
+    74977,
+    4471,
+    "Malice Alliance Emblem"
+  ],
+  [
+    74978,
+    4471,
+    "Maller Alliance Emblem"
+  ],
+  [
+    74979,
+    4471,
+    "Manticore Alliance Emblem"
+  ],
+  [
+    74980,
+    4471,
+    "Mastodon Alliance Emblem"
+  ],
+  [
+    74981,
+    4471,
+    "Maulus Navy Issue Alliance Emblem"
+  ],
+  [
+    74982,
+    4471,
+    "Miasmos Amastris Edition Alliance Emblem"
+  ],
+  [
+    74983,
+    4471,
+    "Miasmos Quafe Ultra Edition Alliance Emblem"
+  ],
+  [
+    74984,
+    4471,
+    "Miasmos Quafe Ultramarine Edition Alliance Emblem"
+  ],
+  [
+    74985,
+    4471,
+    "Mimir Alliance Emblem"
+  ],
+  [
+    74986,
+    4471,
+    "Moa Alliance Emblem"
+  ],
+  [
+    74987,
+    4471,
+    "Monitor Alliance Emblem"
+  ],
+  [
+    74988,
+    4471,
+    "Moracha Alliance Emblem"
+  ],
+  [
+    74989,
+    4471,
+    "Muninn Alliance Emblem"
+  ],
+  [
+    74990,
+    4471,
+    "Nemesis Alliance Emblem"
+  ],
+  [
+    74991,
+    4471,
+    "Nergal Alliance Emblem"
+  ],
+  [
+    74992,
+    4471,
+    "Noctis Alliance Emblem"
+  ],
+  [
+    74993,
+    4471,
+    "Occator Alliance Emblem"
+  ],
+  [
+    74994,
+    4471,
+    "Omen Alliance Emblem"
+  ],
+  [
+    74995,
+    4471,
+    "Omen Navy Issue Alliance Emblem"
+  ],
+  [
+    74996,
+    4471,
+    "Oneiros Alliance Emblem"
+  ],
+  [
+    74997,
+    4471,
+    "Onyx Alliance Emblem"
+  ],
+  [
+    74998,
+    4471,
+    "Opux Luxury Yacht Alliance Emblem"
+  ],
+  [
+    74999,
+    4471,
+    "Orca Alliance Emblem"
+  ],
+  [
+    75000,
+    4471,
+    "Orthrus Alliance Emblem"
+  ],
+  [
+    75001,
+    4471,
+    "Osprey Alliance Emblem"
+  ],
+  [
+    75002,
+    4471,
+    "Osprey Navy Issue Alliance Emblem"
+  ],
+  [
+    75003,
+    4471,
+    "Pacifier Alliance Emblem"
+  ],
+  [
+    75004,
+    4471,
+    "Phantasm Alliance Emblem"
+  ],
+  [
+    75005,
+    4471,
+    "Phobos Alliance Emblem"
+  ],
+  [
+    75006,
+    4471,
+    "Pilgrim Alliance Emblem"
+  ],
+  [
+    75007,
+    4471,
+    "Pontifex Alliance Emblem"
+  ],
+  [
+    75008,
+    4471,
+    "Porpoise Alliance Emblem"
+  ],
+  [
+    75009,
+    4471,
+    "Primae Alliance Emblem"
+  ],
+  [
+    75010,
+    4471,
+    "Procurer Alliance Emblem"
+  ],
+  [
+    75011,
+    4471,
+    "Prorator Alliance Emblem"
+  ],
+  [
+    75012,
+    4471,
+    "Prospect Alliance Emblem"
+  ],
+  [
+    75013,
+    4471,
+    "Proteus Alliance Emblem"
+  ],
+  [
+    75014,
+    4471,
+    "Prowler Alliance Emblem"
+  ],
+  [
+    75015,
+    4471,
+    "Purifier Alliance Emblem"
+  ],
+  [
+    75016,
+    4471,
+    "Rabisu Alliance Emblem"
+  ],
+  [
+    75017,
+    4471,
+    "Raiju Alliance Emblem"
+  ],
+  [
+    75018,
+    4471,
+    "Rapier Alliance Emblem"
+  ],
+  [
+    75019,
+    4471,
+    "Raptor Alliance Emblem"
+  ],
+  [
+    75020,
+    4471,
+    "Republic Fleet Firetail Alliance Emblem"
+  ],
+  [
+    75021,
+    4471,
+    "Retribution Alliance Emblem"
+  ],
+  [
+    75022,
+    4471,
+    "Retriever Alliance Emblem"
+  ],
+  [
+    75023,
+    4471,
+    "Rodiva Alliance Emblem"
+  ],
+  [
+    75024,
+    4471,
+    "Rook Alliance Emblem"
+  ],
+  [
+    75025,
+    4471,
+    "Rupture Alliance Emblem"
+  ],
+  [
+    75026,
+    4471,
+    "Sabre Alliance Emblem"
+  ],
+  [
+    75027,
+    4471,
+    "Sacrilege Alliance Emblem"
+  ],
+  [
+    75028,
+    4471,
+    "Scalpel Alliance Emblem"
+  ],
+  [
+    75029,
+    4471,
+    "Scimitar Alliance Emblem"
+  ],
+  [
+    75030,
+    4471,
+    "Scorpion Alliance Emblem"
+  ],
+  [
+    75031,
+    4471,
+    "Scythe Alliance Emblem"
+  ],
+  [
+    75032,
+    4471,
+    "Scythe Fleet Issue Alliance Emblem"
+  ],
+  [
+    75033,
+    4471,
+    "Sentinel Alliance Emblem"
+  ],
+  [
+    75034,
+    4471,
+    "Skiff Alliance Emblem"
+  ],
+  [
+    75035,
+    4471,
+    "Skybreaker Alliance Emblem"
+  ],
+  [
+    75036,
+    4471,
+    "Stabber Alliance Emblem"
+  ],
+  [
+    75037,
+    4471,
+    "Stabber Fleet Issue Alliance Emblem"
+  ],
+  [
+    75038,
+    4471,
+    "Stiletto Alliance Emblem"
+  ],
+  [
+    75039,
+    4471,
+    "Stork Alliance Emblem"
+  ],
+  [
+    75040,
+    4471,
+    "Stormbringer Alliance Emblem"
+  ],
+  [
+    75041,
+    4471,
+    "Stratios Alliance Emblem"
+  ],
+  [
+    75042,
+    4471,
+    "Stratios Emergency Responder Alliance Emblem"
+  ],
+  [
+    75043,
+    4471,
+    "Succubus Alliance Emblem"
+  ],
+  [
+    75044,
+    4471,
+    "Svipul Alliance Emblem"
+  ],
+  [
+    75045,
+    4471,
+    "Taranis Alliance Emblem"
+  ],
+  [
+    75046,
+    4471,
+    "Tengu Alliance Emblem"
+  ],
+  [
+    75047,
+    4471,
+    "Thalia Alliance Emblem"
+  ],
+  [
+    75048,
+    4471,
+    "Thorax Alliance Emblem"
+  ],
+  [
+    75049,
+    4471,
+    "Tiamat Alliance Emblem"
+  ],
+  [
+    75050,
+    4471,
+    "Typhoon Alliance Emblem"
+  ],
+  [
+    75051,
+    4471,
+    "Utu Alliance Emblem"
+  ],
+  [
+    75052,
+    4471,
+    "Vagabond Alliance Emblem"
+  ],
+  [
+    75053,
+    4471,
+    "Vangel Alliance Emblem"
+  ],
+  [
+    75054,
+    4471,
+    "Vedmak Alliance Emblem"
+  ],
+  [
+    75055,
+    4471,
+    "Vengeance Alliance Emblem"
+  ],
+  [
+    75056,
+    4471,
+    "Vexor Alliance Emblem"
+  ],
+  [
+    75057,
+    4471,
+    "Vexor Navy Issue Alliance Emblem"
+  ],
+  [
+    75058,
+    4471,
+    "Viator Alliance Emblem"
+  ],
+  [
+    75059,
+    4471,
+    "Victor Alliance Emblem"
+  ],
+  [
+    75060,
+    4471,
+    "Victorieux Luxury Yacht Alliance Emblem"
+  ],
+  [
+    75061,
+    4471,
+    "Vigil Fleet Issue Alliance Emblem"
+  ],
+  [
+    75062,
+    4471,
+    "Vigilant Alliance Emblem"
+  ],
+  [
+    75063,
+    4471,
+    "Virtuoso Alliance Emblem"
+  ],
+  [
+    75064,
+    4471,
+    "Whiptail Alliance Emblem"
+  ],
+  [
+    75065,
+    4471,
+    "Wolf Alliance Emblem"
+  ],
+  [
+    75066,
+    4471,
+    "Worm Alliance Emblem"
+  ],
+  [
+    75067,
+    4471,
+    "Zarmazd Alliance Emblem"
+  ],
+  [
+    75068,
+    4471,
+    "Zealot Alliance Emblem"
+  ],
+  [
+    75069,
+    4471,
+    "Zephyr Alliance Emblem"
+  ],
+  [
+    75070,
+    4471,
+    "Adrestia Corporation Emblem"
+  ],
+  [
+    75071,
+    4471,
+    "Anathema Corporation Emblem"
+  ],
+  [
+    75072,
+    4471,
+    "Arazu Corporation Emblem"
+  ],
+  [
+    75073,
+    4471,
+    "Arbitrator Corporation Emblem"
+  ],
+  [
+    75074,
+    4471,
+    "Ares Corporation Emblem"
+  ],
+  [
+    75075,
+    4471,
+    "Armageddon Corporation Emblem"
+  ],
+  [
+    75076,
+    4471,
+    "Ashimmu Corporation Emblem"
+  ],
+  [
+    75077,
+    4471,
+    "Augoror Corporation Emblem"
+  ],
+  [
+    75078,
+    4471,
+    "Augoror Navy Issue Corporation Emblem"
+  ],
+  [
+    75079,
+    4471,
+    "Basilisk Corporation Emblem"
+  ],
+  [
+    75080,
+    4471,
+    "Bellicose Corporation Emblem"
+  ],
+  [
+    75081,
+    4471,
+    "Bestla Corporation Emblem"
+  ],
+  [
+    75082,
+    4471,
+    "Bifrost Corporation Emblem"
+  ],
+  [
+    75083,
+    4471,
+    "Blackbird Corporation Emblem"
+  ],
+  [
+    75084,
+    4471,
+    "Broadsword Corporation Emblem"
+  ],
+  [
+    75085,
+    4471,
+    "Buzzard Corporation Emblem"
+  ],
+  [
+    75086,
+    4471,
+    "Caedes Corporation Emblem"
+  ],
+  [
+    75087,
+    4471,
+    "Caldari Navy Hookbill Corporation Emblem"
+  ],
+  [
+    75088,
+    4471,
+    "Cambion Corporation Emblem"
+  ],
+  [
+    75089,
+    4471,
+    "Caracal Corporation Emblem"
+  ],
+  [
+    75090,
+    4471,
+    "Caracal Navy Issue Corporation Emblem"
+  ],
+  [
+    75091,
+    4471,
+    "Celestis Corporation Emblem"
+  ],
+  [
+    75092,
+    4471,
+    "Cerberus Corporation Emblem"
+  ],
+  [
+    75093,
+    4471,
+    "Chameleon Corporation Emblem"
+  ],
+  [
+    75094,
+    4471,
+    "Cheetah Corporation Emblem"
+  ],
+  [
+    75095,
+    4471,
+    "Chremoas Corporation Emblem"
+  ],
+  [
+    75096,
+    4471,
+    "Claw Corporation Emblem"
+  ],
+  [
+    75097,
+    4471,
+    "Confessor Corporation Emblem"
+  ],
+  [
+    75098,
+    4471,
+    "Covetor Corporation Emblem"
+  ],
+  [
+    75099,
+    4471,
+    "Crane Corporation Emblem"
+  ],
+  [
+    75100,
+    4471,
+    "Crow Corporation Emblem"
+  ],
+  [
+    75101,
+    4471,
+    "Crucifier Navy Issue Corporation Emblem"
+  ],
+  [
+    75102,
+    4471,
+    "Cruor Corporation Emblem"
+  ],
+  [
+    75103,
+    4471,
+    "Crusader Corporation Emblem"
+  ],
+  [
+    75104,
+    4471,
+    "Curse Corporation Emblem"
+  ],
+  [
+    75105,
+    4471,
+    "Cynabal Corporation Emblem"
+  ],
+  [
+    75106,
+    4471,
+    "Damavik Corporation Emblem"
+  ],
+  [
+    75107,
+    4471,
+    "Daredevil Corporation Emblem"
+  ],
+  [
+    75108,
+    4471,
+    "Deacon Corporation Emblem"
+  ],
+  [
+    75109,
+    4471,
+    "Deimos Corporation Emblem"
+  ],
+  [
+    75110,
+    4471,
+    "Devoter Corporation Emblem"
+  ],
+  [
+    75111,
+    4471,
+    "Dominix Corporation Emblem"
+  ],
+  [
+    75112,
+    4471,
+    "Dramiel Corporation Emblem"
+  ],
+  [
+    75113,
+    4471,
+    "Draugur Corporation Emblem"
+  ],
+  [
+    75114,
+    4471,
+    "Eagle Corporation Emblem"
+  ],
+  [
+    75115,
+    4471,
+    "Echelon Corporation Emblem"
+  ],
+  [
+    75116,
+    4471,
+    "Endurance Corporation Emblem"
+  ],
+  [
+    75117,
+    4471,
+    "Enforcer Corporation Emblem"
+  ],
+  [
+    75118,
+    4471,
+    "Enyo Corporation Emblem"
+  ],
+  [
+    75119,
+    4471,
+    "Eris Corporation Emblem"
+  ],
+  [
+    75120,
+    4471,
+    "Etana Corporation Emblem"
+  ],
+  [
+    75121,
+    4471,
+    "Exequror Corporation Emblem"
+  ],
+  [
+    75122,
+    4471,
+    "Exequror Navy Issue Corporation Emblem"
+  ],
+  [
+    75123,
+    4471,
+    "Falcon Corporation Emblem"
+  ],
+  [
+    75124,
+    4471,
+    "Federation Navy Comet Corporation Emblem"
+  ],
+  [
+    75125,
+    4471,
+    "Fiend Corporation Emblem"
+  ],
+  [
+    75126,
+    4471,
+    "Flycatcher Corporation Emblem"
+  ],
+  [
+    75127,
+    4471,
+    "Freki Corporation Emblem"
+  ],
+  [
+    75128,
+    4471,
+    "Garmur Corporation Emblem"
+  ],
+  [
+    75129,
+    4471,
+    "Geri Corporation Emblem"
+  ],
+  [
+    75130,
+    4471,
+    "Gila Corporation Emblem"
+  ],
+  [
+    75131,
+    4471,
+    "Griffin Navy Issue Corporation Emblem"
+  ],
+  [
+    75132,
+    4471,
+    "Guardian Corporation Emblem"
+  ],
+  [
+    75133,
+    4471,
+    "Guardian-Vexor Corporation Emblem"
+  ],
+  [
+    75134,
+    4471,
+    "Harpy Corporation Emblem"
+  ],
+  [
+    75135,
+    4471,
+    "Hawk Corporation Emblem"
+  ],
+  [
+    75136,
+    4471,
+    "Hecate Corporation Emblem"
+  ],
+  [
+    75137,
+    4471,
+    "Helios Corporation Emblem"
+  ],
+  [
+    75138,
+    4471,
+    "Heretic Corporation Emblem"
+  ],
+  [
+    75139,
+    4471,
+    "Hound Corporation Emblem"
+  ],
+  [
+    75140,
+    4471,
+    "Huginn Corporation Emblem"
+  ],
+  [
+    75141,
+    4471,
+    "Hulk Corporation Emblem"
+  ],
+  [
+    75142,
+    4471,
+    "Hydra Corporation Emblem"
+  ],
+  [
+    75143,
+    4471,
+    "Hyena Corporation Emblem"
+  ],
+  [
+    75144,
+    4471,
+    "Ikitursa Corporation Emblem"
+  ],
+  [
+    75145,
+    4471,
+    "Imp Corporation Emblem"
+  ],
+  [
+    75146,
+    4471,
+    "Impel Corporation Emblem"
+  ],
+  [
+    75147,
+    4471,
+    "Imperial Navy Slicer Corporation Emblem"
+  ],
+  [
+    75148,
+    4471,
+    "Ishkur Corporation Emblem"
+  ],
+  [
+    75149,
+    4471,
+    "Ishtar Corporation Emblem"
+  ],
+  [
+    75150,
+    4471,
+    "Jackdaw Corporation Emblem"
+  ],
+  [
+    75151,
+    4471,
+    "Jaguar Corporation Emblem"
+  ],
+  [
+    75152,
+    4471,
+    "Keres Corporation Emblem"
+  ],
+  [
+    75153,
+    4471,
+    "Kikimora Corporation Emblem"
+  ],
+  [
+    75154,
+    4471,
+    "Kirin Corporation Emblem"
+  ],
+  [
+    75155,
+    4471,
+    "Kitsune Corporation Emblem"
+  ],
+  [
+    75156,
+    4471,
+    "Lachesis Corporation Emblem"
+  ],
+  [
+    75157,
+    4471,
+    "Laelaps Corporation Emblem"
+  ],
+  [
+    75158,
+    4471,
+    "Legion Corporation Emblem"
+  ],
+  [
+    75159,
+    4471,
+    "Loki Corporation Emblem"
+  ],
+  [
+    75160,
+    4471,
+    "Mackinaw Corporation Emblem"
+  ],
+  [
+    75161,
+    4471,
+    "Magus Corporation Emblem"
+  ],
+  [
+    75162,
+    4471,
+    "Malediction Corporation Emblem"
+  ],
+  [
+    75163,
+    4471,
+    "Malice Corporation Emblem"
+  ],
+  [
+    75164,
+    4471,
+    "Maller Corporation Emblem"
+  ],
+  [
+    75165,
+    4471,
+    "Manticore Corporation Emblem"
+  ],
+  [
+    75166,
+    4471,
+    "Mastodon Corporation Emblem"
+  ],
+  [
+    75167,
+    4471,
+    "Maulus Navy Issue Corporation Emblem"
+  ],
+  [
+    75168,
+    4471,
+    "Miasmos Amastris Edition Corporation Emblem"
+  ],
+  [
+    75169,
+    4471,
+    "Miasmos Quafe Ultra Edition Corporation Emblem"
+  ],
+  [
+    75170,
+    4471,
+    "Miasmos Quafe Ultramarine Edition Corporation Emblem"
+  ],
+  [
+    75171,
+    4471,
+    "Mimir Corporation Emblem"
+  ],
+  [
+    75172,
+    4471,
+    "Moa Corporation Emblem"
+  ],
+  [
+    75173,
+    4471,
+    "Monitor Corporation Emblem"
+  ],
+  [
+    75174,
+    4471,
+    "Moracha Corporation Emblem"
+  ],
+  [
+    75175,
+    4471,
+    "Muninn Corporation Emblem"
+  ],
+  [
+    75176,
+    4471,
+    "Nemesis Corporation Emblem"
+  ],
+  [
+    75177,
+    4471,
+    "Nergal Corporation Emblem"
+  ],
+  [
+    75178,
+    4471,
+    "Noctis Corporation Emblem"
+  ],
+  [
+    75179,
+    4471,
+    "Occator Corporation Emblem"
+  ],
+  [
+    75180,
+    4471,
+    "Omen Corporation Emblem"
+  ],
+  [
+    75181,
+    4471,
+    "Omen Navy Issue Corporation Emblem"
+  ],
+  [
+    75182,
+    4471,
+    "Oneiros Corporation Emblem"
+  ],
+  [
+    75183,
+    4471,
+    "Onyx Corporation Emblem"
+  ],
+  [
+    75184,
+    4471,
+    "Opux Luxury Yacht Corporation Emblem"
+  ],
+  [
+    75185,
+    4471,
+    "Orca Corporation Emblem"
+  ],
+  [
+    75186,
+    4471,
+    "Orthrus Corporation Emblem"
+  ],
+  [
+    75187,
+    4471,
+    "Osprey Corporation Emblem"
+  ],
+  [
+    75188,
+    4471,
+    "Osprey Navy Issue Corporation Emblem"
+  ],
+  [
+    75189,
+    4471,
+    "Pacifier Corporation Emblem"
+  ],
+  [
+    75190,
+    4471,
+    "Phantasm Corporation Emblem"
+  ],
+  [
+    75191,
+    4471,
+    "Phobos Corporation Emblem"
+  ],
+  [
+    75192,
+    4471,
+    "Pilgrim Corporation Emblem"
+  ],
+  [
+    75193,
+    4471,
+    "Pontifex Corporation Emblem"
+  ],
+  [
+    75194,
+    4471,
+    "Porpoise Corporation Emblem"
+  ],
+  [
+    75195,
+    4471,
+    "Primae Corporation Emblem"
+  ],
+  [
+    75196,
+    4471,
+    "Procurer Corporation Emblem"
+  ],
+  [
+    75197,
+    4471,
+    "Prorator Corporation Emblem"
+  ],
+  [
+    75198,
+    4471,
+    "Prospect Corporation Emblem"
+  ],
+  [
+    75199,
+    4471,
+    "Proteus Corporation Emblem"
+  ],
+  [
+    75200,
+    4471,
+    "Prowler Corporation Emblem"
+  ],
+  [
+    75201,
+    4471,
+    "Purifier Corporation Emblem"
+  ],
+  [
+    75202,
+    4471,
+    "Rabisu Corporation Emblem"
+  ],
+  [
+    75203,
+    4471,
+    "Raiju Corporation Emblem"
+  ],
+  [
+    75204,
+    4471,
+    "Rapier Corporation Emblem"
+  ],
+  [
+    75205,
+    4471,
+    "Raptor Corporation Emblem"
+  ],
+  [
+    75206,
+    4471,
+    "Republic Fleet Firetail Corporation Emblem"
+  ],
+  [
+    75207,
+    4471,
+    "Retribution Corporation Emblem"
+  ],
+  [
+    75208,
+    4471,
+    "Retriever Corporation Emblem"
+  ],
+  [
+    75209,
+    4471,
+    "Rodiva Corporation Emblem"
+  ],
+  [
+    75210,
+    4471,
+    "Rook Corporation Emblem"
+  ],
+  [
+    75211,
+    4471,
+    "Rupture Corporation Emblem"
+  ],
+  [
+    75212,
+    4471,
+    "Sabre Corporation Emblem"
+  ],
+  [
+    75213,
+    4471,
+    "Sacrilege Corporation Emblem"
+  ],
+  [
+    75214,
+    4471,
+    "Scalpel Corporation Emblem"
+  ],
+  [
+    75215,
+    4471,
+    "Scimitar Corporation Emblem"
+  ],
+  [
+    75216,
+    4471,
+    "Scorpion Corporation Emblem"
+  ],
+  [
+    75217,
+    4471,
+    "Scythe Corporation Emblem"
+  ],
+  [
+    75218,
+    4471,
+    "Scythe Fleet Issue Corporation Emblem"
+  ],
+  [
+    75219,
+    4471,
+    "Sentinel Corporation Emblem"
+  ],
+  [
+    75220,
+    4471,
+    "Skiff Corporation Emblem"
+  ],
+  [
+    75221,
+    4471,
+    "Skybreaker Corporation Emblem"
+  ],
+  [
+    75222,
+    4471,
+    "Stabber Corporation Emblem"
+  ],
+  [
+    75223,
+    4471,
+    "Stabber Fleet Issue Corporation Emblem"
+  ],
+  [
+    75224,
+    4471,
+    "Stiletto Corporation Emblem"
+  ],
+  [
+    75225,
+    4471,
+    "Stork Corporation Emblem"
+  ],
+  [
+    75226,
+    4471,
+    "Stormbringer Corporation Emblem"
+  ],
+  [
+    75227,
+    4471,
+    "Stratios Corporation Emblem"
+  ],
+  [
+    75228,
+    4471,
+    "Stratios Emergency Responder Corporation Emblem"
+  ],
+  [
+    75229,
+    4471,
+    "Succubus Corporation Emblem"
+  ],
+  [
+    75230,
+    4471,
+    "Svipul Corporation Emblem"
+  ],
+  [
+    75231,
+    4471,
+    "Taranis Corporation Emblem"
+  ],
+  [
+    75232,
+    4471,
+    "Tengu Corporation Emblem"
+  ],
+  [
+    75233,
+    4471,
+    "Thalia Corporation Emblem"
+  ],
+  [
+    75234,
+    4471,
+    "Thorax Corporation Emblem"
+  ],
+  [
+    75235,
+    4471,
+    "Tiamat Corporation Emblem"
+  ],
+  [
+    75236,
+    4471,
+    "Typhoon Corporation Emblem"
+  ],
+  [
+    75237,
+    4471,
+    "Utu Corporation Emblem"
+  ],
+  [
+    75238,
+    4471,
+    "Vagabond Corporation Emblem"
+  ],
+  [
+    75239,
+    4471,
+    "Vangel Corporation Emblem"
+  ],
+  [
+    75240,
+    4471,
+    "Vedmak Corporation Emblem"
+  ],
+  [
+    75241,
+    4471,
+    "Vengeance Corporation Emblem"
+  ],
+  [
+    75242,
+    4471,
+    "Vexor Corporation Emblem"
+  ],
+  [
+    75243,
+    4471,
+    "Vexor Navy Issue Corporation Emblem"
+  ],
+  [
+    75244,
+    4471,
+    "Viator Corporation Emblem"
+  ],
+  [
+    75245,
+    4471,
+    "Victor Corporation Emblem"
+  ],
+  [
+    75246,
+    4471,
+    "Victorieux Luxury Yacht Corporation Emblem"
+  ],
+  [
+    75247,
+    4471,
+    "Vigil Fleet Issue Corporation Emblem"
+  ],
+  [
+    75248,
+    4471,
+    "Vigilant Corporation Emblem"
+  ],
+  [
+    75249,
+    4471,
+    "Virtuoso Corporation Emblem"
+  ],
+  [
+    75250,
+    4471,
+    "Whiptail Corporation Emblem"
+  ],
+  [
+    75251,
+    4471,
+    "Wolf Corporation Emblem"
+  ],
+  [
+    75252,
+    4471,
+    "Worm Corporation Emblem"
+  ],
+  [
+    75253,
+    4471,
+    "Zarmazd Corporation Emblem"
+  ],
+  [
+    75254,
+    4471,
+    "Zealot Corporation Emblem"
+  ],
+  [
+    75255,
+    4471,
+    "Zephyr Corporation Emblem"
+  ],
+  [
+    75256,
+    4100,
+    "18th Alliance Tournament: TRUTH. HONOUR. LIGHT."
+  ],
+  [
+    75274,
+    1975,
+    "Sansha Winter Station Ruins"
+  ],
+  [
+    75275,
+    4513,
+    "Compressed Mordunium"
+  ],
+  [
+    75276,
+    4513,
+    "Compressed Plum Mordunium"
+  ],
+  [
+    75277,
+    4513,
+    "Compressed Prize Mordunium"
+  ],
+  [
+    75278,
+    4513,
+    "Compressed Plunder Mordunium"
+  ],
+  [
+    75279,
+    4514,
+    "Compressed Ytirium"
+  ],
+  [
+    75280,
+    4514,
+    "Compressed Bootleg Ytirium"
+  ],
+  [
+    75281,
+    4514,
+    "Compressed Firewater Ytirium"
+  ],
+  [
+    75282,
+    4514,
+    "Compressed Moonshine Ytirium"
+  ],
+  [
+    75283,
+    4515,
+    "Compressed Eifyrium"
+  ],
+  [
+    75284,
+    4515,
+    "Compressed Doped Eifyrium"
+  ],
+  [
+    75285,
+    4515,
+    "Compressed Boosted Eifyrium"
+  ],
+  [
+    75286,
+    4515,
+    "Compressed Augmented Eifyrium"
+  ],
+  [
+    75287,
+    4516,
+    "Compressed Ducinium"
+  ],
+  [
+    75288,
+    4516,
+    "Compressed Noble Ducinium"
+  ],
+  [
+    75289,
+    4516,
+    "Compressed Royal Ducinium"
+  ],
+  [
+    75290,
+    4516,
+    "Compressed Imperial Ducinium"
+  ],
+  [
+    75292,
+    227,
+    "Invisible Cloud Amarr HQ System (DO NOT TRANSLATE)"
+  ],
+  [
+    75293,
+    227,
+    "Invisible Cloud Caldari HQ System (DO NOT TRANSLATE)"
+  ],
+  [
+    75294,
+    227,
+    "Invisible Cloud Gallente HQ System (DO NOT TRANSLATE)"
+  ],
+  [
+    75295,
+    227,
+    "Invisible Cloud Minmatar HQ System (DO NOT TRANSLATE)"
+  ],
+  [
+    75321,
+    310,
+    "Asteroid Belt"
+  ],
+  [
+    75326,
+    303,
+    "Basic 'Bonding' Cerebral Accelerator"
+  ],
+  [
+    75327,
+    303,
+    "Potent 'Bonding' Cerebral Accelerator"
+  ],
+  [
+    75328,
+    303,
+    "Extended 'Bonding' Cerebral Accelerator"
+  ],
+  [
+    75351,
+    1169,
+    "Imperial Frigate"
+  ],
+  [
+    75352,
+    1175,
+    "Imperial Destroyer"
+  ],
+  [
+    75353,
+    1179,
+    "Imperial Cruiser"
+  ],
+  [
+    75354,
+    1183,
+    "Imperial Battlecruiser"
+  ],
+  [
+    75355,
+    4431,
+    "Imperial Battleship"
+  ],
+  [
+    75356,
+    1167,
+    "State Frigate"
+  ],
+  [
+    75357,
+    1176,
+    "State Destroyer"
+  ],
+  [
+    75358,
+    1180,
+    "State Cruiser"
+  ],
+  [
+    75359,
+    1184,
+    "State Battlecruiser"
+  ],
+  [
+    75360,
+    4432,
+    "State Battleship"
+  ],
+  [
+    75361,
+    1168,
+    "Federation Frigate"
+  ],
+  [
+    75362,
+    1177,
+    "Federation Destroyer"
+  ],
+  [
+    75363,
+    1181,
+    "Federation Cruiser"
+  ],
+  [
+    75364,
+    1185,
+    "Federation Battlecruiser"
+  ],
+  [
+    75365,
+    4433,
+    "Federation Battleship"
+  ],
+  [
+    75366,
+    1166,
+    "Republic Frigate"
+  ],
+  [
+    75367,
+    1178,
+    "Republic Destroyer"
+  ],
+  [
+    75368,
+    1182,
+    "Republic Cruiser"
+  ],
+  [
+    75369,
+    1186,
+    "Republic Battlecruiser"
+  ],
+  [
+    75370,
+    4434,
+    "Republic Battleship"
+  ],
+  [
+    75371,
+    227,
+    "FW Complex Scout NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75372,
+    227,
+    "FW Complex Small NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75373,
+    227,
+    "FW Complex Medium NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75374,
+    227,
+    "FW Complex Large NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75375,
+    227,
+    "FW Complex Scout NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75376,
+    227,
+    "FW Complex Small NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75377,
+    227,
+    "FW Complex Medium NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75378,
+    227,
+    "FW Complex Large NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75379,
+    227,
+    "FW Complex Small ADV-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75380,
+    227,
+    "FW Complex Medium ADV-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75381,
+    227,
+    "FW Complex Large ADV-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75382,
+    227,
+    "FW Complex Small ADV-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75383,
+    227,
+    "FW Complex Medium ADV-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75384,
+    227,
+    "FW Complex Open Occupier Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75385,
+    227,
+    "FW Complex Scout NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75386,
+    227,
+    "FW Complex Small NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75387,
+    227,
+    "FW Complex Medium NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75388,
+    227,
+    "FW Complex Large NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75389,
+    227,
+    "FW Complex Scout NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75390,
+    227,
+    "FW Complex Small NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75391,
+    227,
+    "FW Complex Medium NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75392,
+    227,
+    "FW Complex Large NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75393,
+    227,
+    "FW Complex Small ADV-1 Attacker  Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75394,
+    227,
+    "FW Complex Medium ADV-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75395,
+    227,
+    "FW Complex Large ADV-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75396,
+    227,
+    "FW Complex Small ADV-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75397,
+    227,
+    "FW Complex Medium ADV-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75398,
+    227,
+    "FW Complex Open Attacker Spawner ( DO NOT TRANSLATE )"
+  ],
+  [
+    75677,
+    4107,
+    "QA 'Shady' Mobile Observatory"
+  ],
+  [
+    75781,
+    186,
+    "QA - Shady Wreck"
+  ],
+  [
+    75782,
+    1667,
+    "QA - Shady Vindicator"
+  ],
+  [
+    75917,
+    310,
+    "Scout Navy Military Beacon"
+  ],
+  [
+    75918,
+    310,
+    "Small Navy Military Beacon"
+  ],
+  [
+    75919,
+    310,
+    "Small Advanced Military Beacon"
+  ],
+  [
+    75920,
+    310,
+    "Medium Navy Military Beacon"
+  ],
+  [
+    75921,
+    310,
+    "Medium Advanced Military Beacon"
+  ],
+  [
+    75922,
+    310,
+    "Large Navy Military Beacon"
+  ],
+  [
+    75923,
+    310,
+    "Large Advanced Military Beacon"
+  ],
+  [
+    75924,
+    310,
+    "Open Complex Military Beacon"
+  ],
+  [
+    75928,
+    4547,
+    "Imperial Shipcaster Beacon"
+  ],
+  [
+    75929,
+    4547,
+    "State Shipcaster Beacon"
+  ],
+  [
+    75930,
+    4547,
+    "Federation Shipcaster Beacon"
+  ],
+  [
+    75931,
+    4547,
+    "Republic Shipcaster Beacon"
+  ],
+  [
+    75932,
+    4548,
+    "Imperial Shipcaster Beacon Construction Structure"
+  ],
+  [
+    75933,
+    4548,
+    "State Shipcaster Beacon Construction Structure"
+  ],
+  [
+    75934,
+    4548,
+    "Federation Shipcaster Beacon Construction Structure"
+  ],
+  [
+    75935,
+    4548,
+    "Republic Shipcaster Beacon Construction Structure"
+  ],
+  [
+    75984,
+    226,
+    "QA underConstruction LCO in progress (DO NOT TRANSLATE)"
+  ],
+  [
+    75985,
+    226,
+    "QA underConstruction LCO completed (DO NOT TRANSLATE)"
+  ],
+  [
+    75987,
+    310,
+    "Empire Border Rare Asteroids"
+  ],
+  [
+    75988,
+    310,
+    "W-Space Blue A0 Rare Asteroids"
+  ],
+  [
+    75989,
+    310,
+    "Nullsec Border Rare Asteroids"
+  ],
+  [
+    75990,
+    310,
+    "Nullsec Blue A0 Rare Asteroids"
+  ],
+  [
+    75991,
+    227,
+    "Generic Hacking Dungeon Boombox"
+  ],
+  [
+    76001,
+    1975,
+    "Non-interactable Avatar (do not translate)"
+  ],
+  [
+    76002,
+    1975,
+    "Non-interactable Revelation Navy Issue (do not translate)"
+  ],
+  [
+    76003,
+    1975,
+    "Non-interactable Ark (do not translate)"
+  ],
+  [
+    76004,
+    1975,
+    "Non-interactable Naglfar Fleet Issue (do not translate)"
+  ],
+  [
+    76005,
+    1975,
+    "Non-interactable Ragnarok (do not translate)"
+  ],
+  [
+    76006,
+    1975,
+    "Non-interactable Nomad (do not translate)"
+  ],
+  [
+    76016,
+    1568,
+    "Mercenary Crow"
+  ],
+  [
+    76017,
+    1568,
+    "Mercenary Cheetah"
+  ],
+  [
+    76018,
+    1568,
+    "Mercenary Raptor"
+  ],
+  [
+    76019,
+    1568,
+    "Mercenary Hyena"
+  ],
+  [
+    76020,
+    1568,
+    "Mercenary Wolf"
+  ],
+  [
+    76021,
+    1568,
+    "Mercenary Manticore"
+  ],
+  [
+    76022,
+    1664,
+    "Mercenary Draugur"
+  ],
+  [
+    76023,
+    1665,
+    "Mercenary Rapier"
+  ],
+  [
+    76024,
+    1665,
+    "Mercenary Ikitursa"
+  ],
+  [
+    76025,
+    1666,
+    "Mercenary Tornado"
+  ],
+  [
+    76026,
+    1667,
+    "Mercenary Panther"
+  ],
+  [
+    76027,
+    1568,
+    "Angel Echo"
+  ],
+  [
+    76028,
+    1568,
+    "Angel Probe"
+  ],
+  [
+    76029,
+    1568,
+    "Angel Rifter"
+  ],
+  [
+    76030,
+    1568,
+    "Angel Vigil"
+  ],
+  [
+    76031,
+    1568,
+    "Angel Thrasher"
+  ],
+  [
+    76032,
+    1568,
+    "Angel Hound"
+  ],
+  [
+    76033,
+    1568,
+    "Angel Dramiel"
+  ],
+  [
+    76034,
+    1568,
+    "Angel Stabber"
+  ],
+  [
+    76035,
+    1568,
+    "Angel Cynabal"
+  ],
+  [
+    76036,
+    1568,
+    "Angel Cyclone"
+  ],
+  [
+    76037,
+    1568,
+    "Angel Machariel"
+  ],
+  [
+    76038,
+    1568,
+    "Guristas Taipan"
+  ],
+  [
+    76039,
+    1568,
+    "Guristas Heron"
+  ],
+  [
+    76040,
+    1568,
+    "Guristas Kestrel"
+  ],
+  [
+    76041,
+    1568,
+    "Guristas Griffin"
+  ],
+  [
+    76042,
+    1568,
+    "Guristas Cormorant"
+  ],
+  [
+    76043,
+    1568,
+    "Guristas Manticore"
+  ],
+  [
+    76044,
+    1568,
+    "Guristas Worm"
+  ],
+  [
+    76045,
+    1568,
+    "Guristas Blackbird"
+  ],
+  [
+    76046,
+    1568,
+    "Guristas Gila"
+  ],
+  [
+    76047,
+    1568,
+    "Guristas Drake"
+  ],
+  [
+    76048,
+    1568,
+    "Guristas Rattlesnake"
+  ],
+  [
+    76049,
+    227,
+    "Generic Boombox Without Default Music Trigger"
+  ],
+  [
+    76050,
+    303,
+    "Imperial Damage Booster I"
+  ],
+  [
+    76051,
+    303,
+    "Imperial Damage Booster II"
+  ],
+  [
+    76052,
+    303,
+    "Imperial Damage Booster III"
+  ],
+  [
+    76053,
+    303,
+    "Imperial Damage Booster IV"
+  ],
+  [
+    76054,
+    303,
+    "Imperial Projection Booster I"
+  ],
+  [
+    76055,
+    303,
+    "Imperial Projection Booster II"
+  ],
+  [
+    76056,
+    303,
+    "Imperial Projection Booster III"
+  ],
+  [
+    76057,
+    303,
+    "Imperial Projection Booster IV"
+  ],
+  [
+    76058,
+    303,
+    "Imperial Application Booster I"
+  ],
+  [
+    76059,
+    303,
+    "Imperial Application Booster II"
+  ],
+  [
+    76060,
+    303,
+    "Imperial Application Booster III"
+  ],
+  [
+    76061,
+    303,
+    "Imperial Application Booster IV"
+  ],
+  [
+    76062,
+    303,
+    "Imperial Defense Booster I"
+  ],
+  [
+    76063,
+    303,
+    "Imperial Defense Booster II"
+  ],
+  [
+    76064,
+    303,
+    "Imperial Defense Booster III"
+  ],
+  [
+    76065,
+    303,
+    "Imperial Defense Booster IV"
+  ],
+  [
+    76066,
+    303,
+    "Imperial Electronics Booster I"
+  ],
+  [
+    76067,
+    303,
+    "Imperial Electronics Booster II"
+  ],
+  [
+    76068,
+    303,
+    "Imperial Electronics Booster III"
+  ],
+  [
+    76069,
+    303,
+    "Imperial Electronics Booster IV"
+  ],
+  [
+    76070,
+    303,
+    "Imperial Mobility Booster I"
+  ],
+  [
+    76071,
+    303,
+    "Imperial Mobility Booster II"
+  ],
+  [
+    76072,
+    303,
+    "Imperial Mobility Booster III"
+  ],
+  [
+    76073,
+    303,
+    "Imperial Mobility Booster IV"
+  ],
+  [
+    76074,
+    303,
+    "Republic Damage Booster I"
+  ],
+  [
+    76075,
+    303,
+    "Republic Damage Booster II"
+  ],
+  [
+    76076,
+    303,
+    "Republic Damage Booster III"
+  ],
+  [
+    76077,
+    303,
+    "Republic Damage Booster IV"
+  ],
+  [
+    76078,
+    303,
+    "Republic Projection Booster I"
+  ],
+  [
+    76079,
+    303,
+    "Republic Projection Booster II"
+  ],
+  [
+    76080,
+    303,
+    "Republic Projection Booster III"
+  ],
+  [
+    76081,
+    303,
+    "Republic Projection Booster IV"
+  ],
+  [
+    76082,
+    303,
+    "Republic Application Booster I"
+  ],
+  [
+    76083,
+    303,
+    "Republic Application Booster II"
+  ],
+  [
+    76084,
+    303,
+    "Republic Application Booster III"
+  ],
+  [
+    76085,
+    303,
+    "Republic Application Booster IV"
+  ],
+  [
+    76086,
+    303,
+    "Republic Defense Booster I"
+  ],
+  [
+    76087,
+    303,
+    "Republic Defense Booster II"
+  ],
+  [
+    76088,
+    303,
+    "Republic Defense Booster III"
+  ],
+  [
+    76089,
+    303,
+    "Republic Defense Booster IV"
+  ],
+  [
+    76090,
+    303,
+    "Republic Electronics Booster I"
+  ],
+  [
+    76091,
+    303,
+    "Republic Electronics Booster II"
+  ],
+  [
+    76092,
+    303,
+    "Republic Electronics Booster III"
+  ],
+  [
+    76093,
+    303,
+    "Republic Electronics Booster IV"
+  ],
+  [
+    76094,
+    303,
+    "Republic Mobility Booster I"
+  ],
+  [
+    76095,
+    303,
+    "Republic Mobility Booster II"
+  ],
+  [
+    76096,
+    303,
+    "Republic Mobility Booster III"
+  ],
+  [
+    76097,
+    303,
+    "Republic Mobility Booster IV"
+  ],
+  [
+    76098,
+    303,
+    "State Damage Booster I"
+  ],
+  [
+    76099,
+    303,
+    "State Damage Booster II"
+  ],
+  [
+    76100,
+    303,
+    "State Damage Booster III"
+  ],
+  [
+    76101,
+    303,
+    "State Damage Booster IV"
+  ],
+  [
+    76102,
+    303,
+    "State Projection Booster I"
+  ],
+  [
+    76103,
+    303,
+    "State Projection Booster II"
+  ],
+  [
+    76104,
+    303,
+    "State Projection Booster III"
+  ],
+  [
+    76105,
+    303,
+    "State Projection Booster IV"
+  ],
+  [
+    76106,
+    303,
+    "State Application Booster I"
+  ],
+  [
+    76107,
+    303,
+    "State Application Booster II"
+  ],
+  [
+    76108,
+    303,
+    "State Application Booster III"
+  ],
+  [
+    76109,
+    303,
+    "State Application Booster IV"
+  ],
+  [
+    76110,
+    303,
+    "State Defense Booster I"
+  ],
+  [
+    76111,
+    303,
+    "State Defense Booster II"
+  ],
+  [
+    76112,
+    303,
+    "State Defense Booster III"
+  ],
+  [
+    76113,
+    303,
+    "State Defense Booster IV"
+  ],
+  [
+    76114,
+    303,
+    "State Electronics Booster I"
+  ],
+  [
+    76115,
+    303,
+    "State Electronics Booster II"
+  ],
+  [
+    76116,
+    303,
+    "State Electronics Booster III"
+  ],
+  [
+    76117,
+    303,
+    "State Electronics Booster IV"
+  ],
+  [
+    76118,
+    303,
+    "State Mobility Booster I"
+  ],
+  [
+    76119,
+    303,
+    "State Mobility Booster II"
+  ],
+  [
+    76120,
+    303,
+    "State Mobility Booster III"
+  ],
+  [
+    76121,
+    303,
+    "State Mobility Booster IV"
+  ],
+  [
+    76122,
+    303,
+    "Federation Damage Booster I"
+  ],
+  [
+    76123,
+    303,
+    "Federation Damage Booster II"
+  ],
+  [
+    76124,
+    303,
+    "Federation Damage Booster III"
+  ],
+  [
+    76125,
+    303,
+    "Federation Damage Booster IV"
+  ],
+  [
+    76126,
+    303,
+    "Federation Projection Booster I"
+  ],
+  [
+    76127,
+    303,
+    "Federation Projection Booster II"
+  ],
+  [
+    76128,
+    303,
+    "Federation Projection Booster III"
+  ],
+  [
+    76129,
+    303,
+    "Federation Projection Booster IV"
+  ],
+  [
+    76130,
+    303,
+    "Federation Application Booster I"
+  ],
+  [
+    76131,
+    303,
+    "Federation Application Booster II"
+  ],
+  [
+    76132,
+    303,
+    "Federation Application Booster III"
+  ],
+  [
+    76133,
+    303,
+    "Federation Application Booster IV"
+  ],
+  [
+    76134,
+    303,
+    "Federation Defense Booster I"
+  ],
+  [
+    76135,
+    303,
+    "Federation Defense Booster II"
+  ],
+  [
+    76136,
+    303,
+    "Federation Defense Booster III"
+  ],
+  [
+    76137,
+    303,
+    "Federation Defense Booster IV"
+  ],
+  [
+    76138,
+    303,
+    "Federation Electronics Booster I"
+  ],
+  [
+    76139,
+    303,
+    "Federation Electronics Booster II"
+  ],
+  [
+    76140,
+    303,
+    "Federation Electronics Booster III"
+  ],
+  [
+    76141,
+    303,
+    "Federation Electronics Booster IV"
+  ],
+  [
+    76142,
+    303,
+    "Federation Mobility Booster I"
+  ],
+  [
+    76143,
+    303,
+    "Federation Mobility Booster II"
+  ],
+  [
+    76144,
+    303,
+    "Federation Mobility Booster III"
+  ],
+  [
+    76145,
+    303,
+    "Federation Mobility Booster IV"
+  ],
+  [
+    76147,
+    227,
+    "Generic Mining Boombox"
+  ],
+  [
+    76149,
+    227,
+    "Generic Combat Boombox"
+  ],
+  [
+    76161,
+    227,
+    "Generic Exploration Boombox"
+  ],
+  [
+    76179,
+    306,
+    "Imperial Research Com Tower"
+  ],
+  [
+    76180,
+    306,
+    "Imperial Research Mainframe"
+  ],
+  [
+    76181,
+    306,
+    "Imperial Research Databank"
+  ],
+  [
+    76182,
+    306,
+    "State Research Com Tower"
+  ],
+  [
+    76183,
+    306,
+    "State Research Mainframe"
+  ],
+  [
+    76184,
+    306,
+    "State Research Databank"
+  ],
+  [
+    76185,
+    306,
+    "Federation Research Com Tower"
+  ],
+  [
+    76186,
+    306,
+    "Federation Research Mainframe"
+  ],
+  [
+    76187,
+    306,
+    "Federation Research Databank"
+  ],
+  [
+    76188,
+    306,
+    "Republic Research Com Tower"
+  ],
+  [
+    76189,
+    306,
+    "Republic Research Mainframe"
+  ],
+  [
+    76190,
+    306,
+    "Republic Research Databank"
+  ],
+  [
+    76191,
+    306,
+    "Amarr Classified Courier Wreck"
+  ],
+  [
+    76192,
+    306,
+    "Caldari Classified Courier Wreck"
+  ],
+  [
+    76193,
+    306,
+    "Gallente Classified Courier Wreck"
+  ],
+  [
+    76194,
+    306,
+    "Minmatar Classified Courier Wreck"
+  ],
+  [
+    76195,
+    494,
+    "Reinforced Amarr Research Lab"
+  ],
+  [
+    76196,
+    494,
+    "Vulnerable Amarr Research Lab"
+  ],
+  [
+    76197,
+    494,
+    "Reinforced Caldari Research Lab"
+  ],
+  [
+    76198,
+    494,
+    "Vulnerable Caldari Research Lab"
+  ],
+  [
+    76199,
+    494,
+    "Reinforced Gallente Research Lab"
+  ],
+  [
+    76200,
+    494,
+    "Vulnerable Gallente Research Lab"
+  ],
+  [
+    76201,
+    494,
+    "Reinforced Minmatar Research Lab"
+  ],
+  [
+    76202,
+    494,
+    "Vulnerable Minmatar Research Lab"
+  ],
+  [
+    76203,
+    314,
+    "Stellar Transmuter Datacore"
+  ],
+  [
+    76204,
+    314,
+    "Transport Relay Datacore"
+  ],
+  [
+    76205,
+    356,
+    "Stellar Transmuter Datacore Blueprint"
+  ],
+  [
+    76206,
+    356,
+    "Transport Relay Datacore Blueprint"
+  ],
+  [
+    76207,
+    314,
+    "Stellar Transmuter Research Index File"
+  ],
+  [
+    76208,
+    314,
+    "Stellar Transmuter Research Data Fragment"
+  ],
+  [
+    76209,
+    314,
+    "Stellar Transmuter Research Encryption Key"
+  ],
+  [
+    76210,
+    314,
+    "Transport Relay Research Index File"
+  ],
+  [
+    76211,
+    314,
+    "Transport Relay Research Data Fragment"
+  ],
+  [
+    76212,
+    314,
+    "Transport Relay Research Encryption Key"
+  ],
+  [
+    76214,
+    1194,
+    "Imperial Shadow War Reward Crate"
+  ],
+  [
+    76215,
+    1194,
+    "State Shadow War Reward Crate"
+  ],
+  [
+    76216,
+    1194,
+    "Federation Shadow War Reward Crate"
+  ],
+  [
+    76217,
+    1194,
+    "Republic Shadow War Reward Crate"
+  ],
+  [
+    76218,
+    226,
+    "Amarr Component Deposit Yard"
+  ],
+  [
+    76219,
+    226,
+    "Caldari Component Deposit Yard"
+  ],
+  [
+    76220,
+    226,
+    "Gallente Component Deposit Yard"
+  ],
+  [
+    76221,
+    226,
+    "Minmatar Component Deposit Yard"
+  ],
+  [
+    76223,
+    310,
+    "Imperial Research Data Node"
+  ],
+  [
+    76224,
+    310,
+    "State Research Data Node"
+  ],
+  [
+    76225,
+    310,
+    "Federation Research Data Node"
+  ],
+  [
+    76226,
+    310,
+    "Republic Research Data Node"
+  ],
+  [
+    76227,
+    310,
+    "Waylaid Imperial Couriers"
+  ],
+  [
+    76228,
+    310,
+    "Waylaid State Couriers"
+  ],
+  [
+    76229,
+    310,
+    "Waylaid Federation Couriers"
+  ],
+  [
+    76230,
+    310,
+    "Waylaid Republic Couriers"
+  ],
+  [
+    76231,
+    310,
+    "Besieged Imperial Laboratory"
+  ],
+  [
+    76232,
+    310,
+    "Besieged State Laboratory"
+  ],
+  [
+    76233,
+    310,
+    "Besieged Federation Laboratory"
+  ],
+  [
+    76234,
+    310,
+    "Besieged Republic Laboratory"
+  ],
+  [
+    76251,
+    1975,
+    "Partially-constructed Stellar Transmuter"
+  ],
+  [
+    76252,
+    1975,
+    "Partially-constructed Stellar Transmuter"
+  ],
+  [
+    76253,
+    1975,
+    "Partially-constructed Interstellar Shipcaster"
+  ],
+  [
+    76254,
+    227,
+    "SW Data Node Merc Spawner 1 (Do not translate)"
+  ],
+  [
+    76255,
+    227,
+    "SW Data Node Merc Spawner 2 (Do not translate)"
+  ],
+  [
+    76256,
+    1568,
+    "Mercenary Crow"
+  ],
+  [
+    76257,
+    1568,
+    "Mercenary Crow"
+  ],
+  [
+    76258,
+    1568,
+    "Mercenary Crow"
+  ],
+  [
+    76260,
+    226,
+    "Guarded Amarr Classified Courier Wreck"
+  ],
+  [
+    76261,
+    1975,
+    "Shadow War Music"
+  ],
+  [
+    76262,
+    1975,
+    "music_hq_amarr_stellar_harvester"
+  ],
+  [
+    76263,
+    1975,
+    "music_hq_caldari_stellar_harvester"
+  ],
+  [
+    76264,
+    1975,
+    "music_hq_gallente_stellar_harvester"
+  ],
+  [
+    76265,
+    1975,
+    "music_hq_minmatar_stellar_harvester"
+  ],
+  [
+    76266,
+    1975,
+    "music_hq_amarr_station"
+  ],
+  [
+    76267,
+    1975,
+    "music_hq_caldari_station"
+  ],
+  [
+    76268,
+    1975,
+    "music_hq_gallente_station"
+  ],
+  [
+    76269,
+    1975,
+    "music_hq_minmatar_station"
+  ],
+  [
+    76270,
+    1975,
+    "music_hq_amarr_shipcaster"
+  ],
+  [
+    76271,
+    1975,
+    "music_hq_caldari_shipcaster"
+  ],
+  [
+    76272,
+    1975,
+    "music_hq_gallente_shipcaster"
+  ],
+  [
+    76273,
+    1975,
+    "music_hq_minmatar_shipcaster"
+  ],
+  [
+    76274,
+    1975,
+    "music_hq_amarr_play"
+  ],
+  [
+    76275,
+    1975,
+    "music_hq_caldari_play"
+  ],
+  [
+    76276,
+    1975,
+    "music_hq_gallente_play"
+  ],
+  [
+    76277,
+    1975,
+    "music_hq_minmatar_play"
+  ],
+  [
+    76279,
+    1975,
+    "Non-interactable Mammoth (Do not translate)"
+  ],
+  [
+    76295,
+    1975,
+    "Non-Interactable Empty Amarr Component Yard (Do not translate)"
+  ],
+  [
+    76296,
+    1975,
+    "Non-Interactable Partial Amarr Component Yard (Do not translate)"
+  ],
+  [
+    76297,
+    1975,
+    "Non-Interactable Full Amarr Component Yard (Do not translate)"
+  ],
+  [
+    76298,
+    1975,
+    "Non-Interactable Empty Caldari Component Yard (Do not translate)"
+  ],
+  [
+    76299,
+    1975,
+    "Non-Interactable Partial Caldari Component Yard (Do not translate)"
+  ],
+  [
+    76300,
+    1975,
+    "Non-Interactable Full Caldari Component Yard (Do not translate)"
+  ],
+  [
+    76301,
+    1975,
+    "Non-Interactable Empty Gallente Component Yard (Do not translate)"
+  ],
+  [
+    76302,
+    1975,
+    "Non-Interactable Partial Gallente Component Yard (Do not translate)"
+  ],
+  [
+    76303,
+    1975,
+    "Non-Interactable Full Gallente Component Yard (Do not translate)"
+  ],
+  [
+    76304,
+    1975,
+    "Non-Interactable Empty Minmatar Component Yard (Do not translate)"
+  ],
+  [
+    76305,
+    1975,
+    "Non-Interactable Partial Minmatar Component Yard (Do not translate)"
+  ],
+  [
+    76306,
+    1975,
+    "Non-Interactable Full Minmatar Component Yard (Do not translate)"
+  ],
+  [
+    76307,
+    227,
+    "Generic Fallback Boombox"
+  ],
+  [
+    76312,
+    227,
+    "Generic Agent Boombox"
+  ],
+  [
+    76314,
+    1975,
+    "Non-interactable Amarr Research Station Ruins (Do Not Translate)"
+  ],
+  [
+    76315,
+    1975,
+    "Non-interactable Caldari Station Ruins - Hook Shaped (Do Not Translate)"
+  ],
+  [
+    76316,
+    1975,
+    "Non-interactable Gallente Industrial Station Ruins (Do Not Translate)"
+  ],
+  [
+    76317,
+    1975,
+    "Non-interactable Minmatar Research Station Ruins (Do Not Translate)"
+  ],
+  [
+    76318,
+    226,
+    "Guarded Caldari Classified Courier Wreck"
+  ],
+  [
+    76319,
+    226,
+    "Guarded Gallente Classified Courier Wreck"
+  ],
+  [
+    76320,
+    226,
+    "Guarded Minmatar Classified Courier Wreck"
+  ],
+  [
+    76321,
+    226,
+    "State Stellar Transmuter Research Laboratory"
+  ],
+  [
+    76322,
+    226,
+    "Federation Transport Relay Research Laboratory"
+  ],
+  [
+    76323,
+    226,
+    "Imperial Transport Relay Research Laboratory"
+  ],
+  [
+    76324,
+    226,
+    "Republic Transport Relay Research Laboratory"
+  ],
+  [
+    76325,
+    1975,
+    "Minmatar Navy Harbor S01a_0"
+  ],
+  [
+    76326,
+    1975,
+    "Minmatar Navy Harbor S01a_1"
+  ],
+  [
+    76327,
+    1975,
+    "Minmatar Navy Harbor S01a_2"
+  ],
+  [
+    76328,
+    1975,
+    "Minmatar Navy Harbor S01a_3"
+  ],
+  [
+    76329,
+    1975,
+    "Minmatar Navy Harbor S01a_4"
+  ],
+  [
+    76330,
+    1975,
+    "Minmatar Navy Harbor S01a_5"
+  ],
+  [
+    76331,
+    1975,
+    "Minmatar Navy Harbor M01a_0"
+  ],
+  [
+    76332,
+    1975,
+    "Minmatar Navy Harbor M01a_1"
+  ],
+  [
+    76333,
+    1975,
+    "Minmatar Navy Harbor M01a_2"
+  ],
+  [
+    76334,
+    1975,
+    "Minmatar Navy Harbor M01a_3"
+  ],
+  [
+    76335,
+    1975,
+    "Minmatar Navy Harbor M01a_4"
+  ],
+  [
+    76336,
+    1975,
+    "Minmatar Navy Harbor M01a_5"
+  ],
+  [
+    76338,
+    1975,
+    "Amarr Navy Harbor S01a_0"
+  ],
+  [
+    76339,
+    1975,
+    "Amarr Navy Harbor S01a_1"
+  ],
+  [
+    76340,
+    1975,
+    "Amarr Navy Harbor S01a_2"
+  ],
+  [
+    76341,
+    1975,
+    "Amarr Navy Harbor S01a_3"
+  ],
+  [
+    76342,
+    1975,
+    "Amarr Navy Harbor S01a_4"
+  ],
+  [
+    76343,
+    1975,
+    "Amarr Navy Harbor S01a_5"
+  ],
+  [
+    76344,
+    1975,
+    "Amarr Navy Harbor M01a_0"
+  ],
+  [
+    76345,
+    1975,
+    "Amarr Navy Harbor M01a_1"
+  ],
+  [
+    76346,
+    1975,
+    "Amarr Navy Harbor M01a_2"
+  ],
+  [
+    76347,
+    1975,
+    "Amarr Navy Harbor M01a_3"
+  ],
+  [
+    76348,
+    1975,
+    "Amarr Navy Harbor M01a_4"
+  ],
+  [
+    76349,
+    1975,
+    "Amarr Navy Harbor M01a_5"
+  ],
+  [
+    76350,
+    1975,
+    "Interstellar Shipcaster Neutral Base"
+  ],
+  [
+    76359,
+    1975,
+    "Non-Interactable Generic Stellar Transmuter Base (Do not translate)"
+  ],
+  [
+    76373,
+    4030,
+    "Nesosilicate Rakovene"
+  ],
+  [
+    76374,
+    18,
+    "Neo-Jadarite"
+  ],
+  [
+    76375,
+    334,
+    "Mutadaptive Construction Component"
+  ],
+  [
+    76376,
+    447,
+    "Mutadaptive Construction Component Blueprint"
+  ],
+  [
+    76378,
+    1975,
+    "Non-interactable Caldari Navy Station Wreck 4 (Do Not Translate)"
+  ],
+  [
+    76398,
+    1975,
+    "Minmatar Navy Harbor L01a_0"
+  ],
+  [
+    76399,
+    1975,
+    "Minmatar Navy Harbor L01a_1"
+  ],
+  [
+    76400,
+    1975,
+    "Minmatar Navy Harbor L01a_2"
+  ],
+  [
+    76401,
+    1975,
+    "Minmatar Navy Harbor L01a_3"
+  ],
+  [
+    76402,
+    1975,
+    "Minmatar Navy Harbor L01a_4"
+  ],
+  [
+    76403,
+    1975,
+    "Minmatar Navy Harbor L01a_5"
+  ],
+  [
+    76404,
+    1975,
+    "Minmatar Navy Harbor XL01a_0"
+  ],
+  [
+    76405,
+    1975,
+    "Minmatar Navy Harbor XL01a_1"
+  ],
+  [
+    76406,
+    1975,
+    "Minmatar Navy Harbor XL01a_2"
+  ],
+  [
+    76407,
+    1975,
+    "Minmatar Navy Harbor XL01a_3"
+  ],
+  [
+    76408,
+    1975,
+    "Minmatar Navy Harbor XL01a_4"
+  ],
+  [
+    76409,
+    1975,
+    "Minmatar Navy Harbor XL01a_5"
+  ],
+  [
+    76411,
+    1975,
+    "Amarr Navy Harbor L01a_0"
+  ],
+  [
+    76412,
+    1975,
+    "Amarr Navy Harbor L01a_1"
+  ],
+  [
+    76413,
+    1975,
+    "Amarr Navy Harbor L01a_2"
+  ],
+  [
+    76414,
+    1975,
+    "Amarr Navy Harbor L01a_3"
+  ],
+  [
+    76416,
+    1975,
+    "Amarr Navy Harbor L01a_4"
+  ],
+  [
+    76417,
+    1975,
+    "Amarr Navy Harbor L01a_5"
+  ],
+  [
+    76418,
+    1975,
+    "Amarr Navy Harbor XL01a_0"
+  ],
+  [
+    76419,
+    1975,
+    "Amarr Navy Harbor XL01a_1"
+  ],
+  [
+    76420,
+    1975,
+    "Amarr Navy Harbor XL01a_2"
+  ],
+  [
+    76421,
+    1975,
+    "Amarr Navy Harbor XL01a_3"
+  ],
+  [
+    76422,
+    1975,
+    "Amarr Navy Harbor XL01a_4"
+  ],
+  [
+    76423,
+    1975,
+    "Amarr Navy Harbor XL01a_5"
+  ],
+  [
+    76429,
+    1975,
+    "Amarr Navy Station State Large"
+  ],
+  [
+    76430,
+    1975,
+    "Amarr Imperial Station State Large"
+  ],
+  [
+    76431,
+    1975,
+    "Caldari State Station State Large"
+  ],
+  [
+    76432,
+    1975,
+    "Caldari Navy Station State Large"
+  ],
+  [
+    76433,
+    1975,
+    "Gallente Navy Station State Large"
+  ],
+  [
+    76434,
+    1975,
+    "Gallente Innerzone Station State Large"
+  ],
+  [
+    76435,
+    1975,
+    "Gallente Creodron Station State Large"
+  ],
+  [
+    76436,
+    1975,
+    "Minmatar Navy Station State Large"
+  ],
+  [
+    76438,
+    186,
+    "Amarr Shipcaster Beacon Wreck"
+  ],
+  [
+    76453,
+    1975,
+    "Amarr Navy Station 01"
+  ],
+  [
+    76454,
+    1975,
+    "Amarr Navy Station 03"
+  ],
+  [
+    76455,
+    1975,
+    "Amarr Navy Station 07"
+  ],
+  [
+    76456,
+    1975,
+    "Amarr Navy Station 08"
+  ],
+  [
+    76457,
+    1975,
+    "Minmatar Fleet Station 02"
+  ],
+  [
+    76458,
+    1975,
+    "Minmatar Fleet Station 07"
+  ],
+  [
+    76465,
+    4549,
+    "Imperial Shipcaster"
+  ],
+  [
+    76466,
+    4549,
+    "State Shipcaster"
+  ],
+  [
+    76467,
+    4549,
+    "Federation Shipcaster"
+  ],
+  [
+    76468,
+    4549,
+    "Republic Shipcaster"
+  ],
+  [
+    76483,
+    1975,
+    "Amarr Military Station Ruins"
+  ],
+  [
+    76717,
+    4471,
+    "Abaddon Alliance Emblem"
+  ],
+  [
+    76718,
+    4471,
+    "Absolution Alliance Emblem"
+  ],
+  [
+    76719,
+    4471,
+    "Aeon Alliance Emblem"
+  ],
+  [
+    76720,
+    4471,
+    "Anshar Alliance Emblem"
+  ],
+  [
+    76721,
+    4471,
+    "Apocalypse Alliance Emblem"
+  ],
+  [
+    76722,
+    4471,
+    "Apocalypse Imperial Issue Alliance Emblem"
+  ],
+  [
+    76723,
+    4471,
+    "Apocalypse Navy Issue Alliance Emblem"
+  ],
+  [
+    76724,
+    4471,
+    "Apostle Alliance Emblem"
+  ],
+  [
+    76725,
+    4471,
+    "Archon Alliance Emblem"
+  ],
+  [
+    76726,
+    4471,
+    "Ark Alliance Emblem"
+  ],
+  [
+    76727,
+    4471,
+    "Armageddon Imperial Issue Alliance Emblem"
+  ],
+  [
+    76728,
+    4471,
+    "Armageddon Navy Issue Alliance Emblem"
+  ],
+  [
+    76729,
+    4471,
+    "Astarte Alliance Emblem"
+  ],
+  [
+    76730,
+    4471,
+    "Avatar Alliance Emblem"
+  ],
+  [
+    76731,
+    4471,
+    "Barghest Alliance Emblem"
+  ],
+  [
+    76732,
+    4471,
+    "Bhaalgorn Alliance Emblem"
+  ],
+  [
+    76733,
+    4471,
+    "Bowhead Alliance Emblem"
+  ],
+  [
+    76734,
+    4471,
+    "Brutix Navy Issue Alliance Emblem"
+  ],
+  [
+    76735,
+    4471,
+    "Caiman Alliance Emblem"
+  ],
+  [
+    76736,
+    4471,
+    "Chemosh Alliance Emblem"
+  ],
+  [
+    76737,
+    4471,
+    "Chimera Alliance Emblem"
+  ],
+  [
+    76738,
+    4471,
+    "Claymore Alliance Emblem"
+  ],
+  [
+    76739,
+    4471,
+    "Dagon Alliance Emblem"
+  ],
+  [
+    76740,
+    4471,
+    "Damnation Alliance Emblem"
+  ],
+  [
+    76741,
+    4471,
+    "Dominix Navy Issue Alliance Emblem"
+  ],
+  [
+    76742,
+    4471,
+    "Drake Navy Issue Alliance Emblem"
+  ],
+  [
+    76743,
+    4471,
+    "Drekavac Alliance Emblem"
+  ],
+  [
+    76744,
+    4471,
+    "Eos Alliance Emblem"
+  ],
+  [
+    76745,
+    4471,
+    "Erebus Alliance Emblem"
+  ],
+  [
+    76746,
+    4471,
+    "Golem Alliance Emblem"
+  ],
+  [
+    76747,
+    4471,
+    "Harbinger Navy Issue Alliance Emblem"
+  ],
+  [
+    76748,
+    4471,
+    "Hel Alliance Emblem"
+  ],
+  [
+    76749,
+    4471,
+    "Hurricane Fleet Issue Alliance Emblem"
+  ],
+  [
+    76750,
+    4471,
+    "Hyperion Alliance Emblem"
+  ],
+  [
+    76751,
+    4471,
+    "Komodo Alliance Emblem"
+  ],
+  [
+    76752,
+    4471,
+    "Kronos Alliance Emblem"
+  ],
+  [
+    76753,
+    4471,
+    "Leshak Alliance Emblem"
+  ],
+  [
+    76754,
+    4471,
+    "Leviathan Alliance Emblem"
+  ],
+  [
+    76755,
+    4471,
+    "Lif Alliance Emblem"
+  ],
+  [
+    76756,
+    4471,
+    "Loggerhead Alliance Emblem"
+  ],
+  [
+    76757,
+    4471,
+    "Machariel Alliance Emblem"
+  ],
+  [
+    76758,
+    4471,
+    "Maelstrom Alliance Emblem"
+  ],
+  [
+    76759,
+    4471,
+    "Marshal Alliance Emblem"
+  ],
+  [
+    76760,
+    4471,
+    "Megathron Alliance Emblem"
+  ],
+  [
+    76761,
+    4471,
+    "Megathron Federate Issue Alliance Emblem"
+  ],
+  [
+    76762,
+    4471,
+    "Megathron Navy Issue Alliance Emblem"
+  ],
+  [
+    76763,
+    4471,
+    "Minokawa Alliance Emblem"
+  ],
+  [
+    76764,
+    4471,
+    "Molok Alliance Emblem"
+  ],
+  [
+    76765,
+    4471,
+    "Nestor Alliance Emblem"
+  ],
+  [
+    76766,
+    4471,
+    "Nidhoggur Alliance Emblem"
+  ],
+  [
+    76767,
+    4471,
+    "Nighthawk Alliance Emblem"
+  ],
+  [
+    76768,
+    4471,
+    "Nightmare Alliance Emblem"
+  ],
+  [
+    76769,
+    4471,
+    "Ninazu Alliance Emblem"
+  ],
+  [
+    76770,
+    4471,
+    "Nomad Alliance Emblem"
+  ],
+  [
+    76771,
+    4471,
+    "Nyx Alliance Emblem"
+  ],
+  [
+    76772,
+    4471,
+    "Paladin Alliance Emblem"
+  ],
+  [
+    76773,
+    4471,
+    "Panther Alliance Emblem"
+  ],
+  [
+    76774,
+    4471,
+    "Praxis Alliance Emblem"
+  ],
+  [
+    76775,
+    4471,
+    "Ragnarok Alliance Emblem"
+  ],
+  [
+    76776,
+    4471,
+    "Rattlesnake Alliance Emblem"
+  ],
+  [
+    76777,
+    4471,
+    "Raven Alliance Emblem"
+  ],
+  [
+    76778,
+    4471,
+    "Raven Navy Issue Alliance Emblem"
+  ],
+  [
+    76779,
+    4471,
+    "Raven State Issue Alliance Emblem"
+  ],
+  [
+    76780,
+    4471,
+    "Redeemer Alliance Emblem"
+  ],
+  [
+    76781,
+    4471,
+    "Revenant Alliance Emblem"
+  ],
+  [
+    76782,
+    4471,
+    "Rhea Alliance Emblem"
+  ],
+  [
+    76783,
+    4471,
+    "Rokh Alliance Emblem"
+  ],
+  [
+    76784,
+    4471,
+    "Rorqual Alliance Emblem"
+  ],
+  [
+    76785,
+    4471,
+    "Scorpion Navy Issue Alliance Emblem"
+  ],
+  [
+    76786,
+    4471,
+    "Sin Alliance Emblem"
+  ],
+  [
+    76787,
+    4471,
+    "Sleipnir Alliance Emblem"
+  ],
+  [
+    76788,
+    4471,
+    "Tempest Alliance Emblem"
+  ],
+  [
+    76789,
+    4471,
+    "Tempest Fleet Issue Alliance Emblem"
+  ],
+  [
+    76790,
+    4471,
+    "Tempest Tribal Issue Alliance Emblem"
+  ],
+  [
+    76791,
+    4471,
+    "Thanatos Alliance Emblem"
+  ],
+  [
+    76792,
+    4471,
+    "Thunderchild Alliance Emblem"
+  ],
+  [
+    76793,
+    4471,
+    "Typhoon Fleet Issue Alliance Emblem"
+  ],
+  [
+    76794,
+    4471,
+    "Vanquisher Alliance Emblem"
+  ],
+  [
+    76795,
+    4471,
+    "Vargur Alliance Emblem"
+  ],
+  [
+    76796,
+    4471,
+    "Vendetta Alliance Emblem"
+  ],
+  [
+    76797,
+    4471,
+    "Vindicator Alliance Emblem"
+  ],
+  [
+    76798,
+    4471,
+    "Vulture Alliance Emblem"
+  ],
+  [
+    76799,
+    4471,
+    "Widow Alliance Emblem"
+  ],
+  [
+    76800,
+    4471,
+    "Wyvern Alliance Emblem"
+  ],
+  [
+    76801,
+    4471,
+    "Abaddon Corporation Emblem"
+  ],
+  [
+    76802,
+    4471,
+    "Absolution Corporation Emblem"
+  ],
+  [
+    76803,
+    4471,
+    "Aeon Corporation Emblem"
+  ],
+  [
+    76804,
+    4471,
+    "Anshar Corporation Emblem"
+  ],
+  [
+    76805,
+    4471,
+    "Apocalypse Corporation Emblem"
+  ],
+  [
+    76806,
+    4471,
+    "Apocalypse Imperial Issue Corporation Emblem"
+  ],
+  [
+    76807,
+    4471,
+    "Apocalypse Navy Issue Corporation Emblem"
+  ],
+  [
+    76808,
+    4471,
+    "Apostle Corporation Emblem"
+  ],
+  [
+    76809,
+    4471,
+    "Archon Corporation Emblem"
+  ],
+  [
+    76810,
+    4471,
+    "Ark Corporation Emblem"
+  ],
+  [
+    76811,
+    4471,
+    "Armageddon Imperial Issue Corporation Emblem"
+  ],
+  [
+    76812,
+    4471,
+    "Armageddon Navy Issue Corporation Emblem"
+  ],
+  [
+    76813,
+    4471,
+    "Astarte Corporation Emblem"
+  ],
+  [
+    76814,
+    4471,
+    "Avatar Corporation Emblem"
+  ],
+  [
+    76815,
+    4471,
+    "Barghest Corporation Emblem"
+  ],
+  [
+    76816,
+    4471,
+    "Bhaalgorn Corporation Emblem"
+  ],
+  [
+    76817,
+    4471,
+    "Bowhead Corporation Emblem"
+  ],
+  [
+    76818,
+    4471,
+    "Brutix Navy Issue Corporation Emblem"
+  ],
+  [
+    76819,
+    4471,
+    "Caiman Corporation Emblem"
+  ],
+  [
+    76820,
+    4471,
+    "Chemosh Corporation Emblem"
+  ],
+  [
+    76821,
+    4471,
+    "Chimera Corporation Emblem"
+  ],
+  [
+    76822,
+    4471,
+    "Claymore Corporation Emblem"
+  ],
+  [
+    76823,
+    4471,
+    "Dagon Corporation Emblem"
+  ],
+  [
+    76824,
+    4471,
+    "Damnation Corporation Emblem"
+  ],
+  [
+    76825,
+    4471,
+    "Dominix Navy Issue Corporation Emblem"
+  ],
+  [
+    76826,
+    4471,
+    "Drake Navy Issue Corporation Emblem"
+  ],
+  [
+    76827,
+    4471,
+    "Drekavac Corporation Emblem"
+  ],
+  [
+    76828,
+    4471,
+    "Eos Corporation Emblem"
+  ],
+  [
+    76829,
+    4471,
+    "Erebus Corporation Emblem"
+  ],
+  [
+    76830,
+    4471,
+    "Golem Corporation Emblem"
+  ],
+  [
+    76831,
+    4471,
+    "Harbinger Navy Issue Corporation Emblem"
+  ],
+  [
+    76832,
+    4471,
+    "Hel Corporation Emblem"
+  ],
+  [
+    76833,
+    4471,
+    "Hurricane Fleet Issue Corporation Emblem"
+  ],
+  [
+    76834,
+    4471,
+    "Hyperion Corporation Emblem"
+  ],
+  [
+    76835,
+    4471,
+    "Komodo Corporation Emblem"
+  ],
+  [
+    76836,
+    4471,
+    "Kronos Corporation Emblem"
+  ],
+  [
+    76837,
+    4471,
+    "Leshak Corporation Emblem"
+  ],
+  [
+    76838,
+    4471,
+    "Leviathan Corporation Emblem"
+  ],
+  [
+    76839,
+    4471,
+    "Lif Corporation Emblem"
+  ],
+  [
+    76840,
+    4471,
+    "Loggerhead Corporation Emblem"
+  ],
+  [
+    76841,
+    4471,
+    "Machariel Corporation Emblem"
+  ],
+  [
+    76842,
+    4471,
+    "Maelstrom Corporation Emblem"
+  ],
+  [
+    76843,
+    4471,
+    "Marshal Corporation Emblem"
+  ],
+  [
+    76844,
+    4471,
+    "Megathron Corporation Emblem"
+  ],
+  [
+    76845,
+    4471,
+    "Megathron Federate Issue Corporation Emblem"
+  ],
+  [
+    76846,
+    4471,
+    "Megathron Navy Issue Corporation Emblem"
+  ],
+  [
+    76847,
+    4471,
+    "Minokawa Corporation Emblem"
+  ],
+  [
+    76848,
+    4471,
+    "Molok Corporation Emblem"
+  ],
+  [
+    76849,
+    4471,
+    "Nestor Corporation Emblem"
+  ],
+  [
+    76850,
+    4471,
+    "Nidhoggur Corporation Emblem"
+  ],
+  [
+    76851,
+    4471,
+    "Nighthawk Corporation Emblem"
+  ],
+  [
+    76852,
+    4471,
+    "Nightmare Corporation Emblem"
+  ],
+  [
+    76853,
+    4471,
+    "Ninazu Corporation Emblem"
+  ],
+  [
+    76854,
+    4471,
+    "Nomad Corporation Emblem"
+  ],
+  [
+    76855,
+    4471,
+    "Nyx Corporation Emblem"
+  ],
+  [
+    76856,
+    4471,
+    "Paladin Corporation Emblem"
+  ],
+  [
+    76857,
+    4471,
+    "Panther Corporation Emblem"
+  ],
+  [
+    76858,
+    4471,
+    "Praxis Corporation Emblem"
+  ],
+  [
+    76859,
+    4471,
+    "Ragnarok Corporation Emblem"
+  ],
+  [
+    76860,
+    4471,
+    "Rattlesnake Corporation Emblem"
+  ],
+  [
+    76861,
+    4471,
+    "Raven Corporation Emblem"
+  ],
+  [
+    76862,
+    4471,
+    "Raven Navy Issue Corporation Emblem"
+  ],
+  [
+    76863,
+    4471,
+    "Raven State Issue Corporation Emblem"
+  ],
+  [
+    76864,
+    4471,
+    "Redeemer Corporation Emblem"
+  ],
+  [
+    76865,
+    4471,
+    "Revenant Corporation Emblem"
+  ],
+  [
+    76866,
+    4471,
+    "Rhea Corporation Emblem"
+  ],
+  [
+    76867,
+    4471,
+    "Rokh Corporation Emblem"
+  ],
+  [
+    76868,
+    4471,
+    "Rorqual Corporation Emblem"
+  ],
+  [
+    76869,
+    4471,
+    "Scorpion Navy Issue Corporation Emblem"
+  ],
+  [
+    76870,
+    4471,
+    "Sin Corporation Emblem"
+  ],
+  [
+    76871,
+    4471,
+    "Sleipnir Corporation Emblem"
+  ],
+  [
+    76872,
+    4471,
+    "Tempest Corporation Emblem"
+  ],
+  [
+    76873,
+    4471,
+    "Tempest Fleet Issue Corporation Emblem"
+  ],
+  [
+    76874,
+    4471,
+    "Tempest Tribal Issue Corporation Emblem"
+  ],
+  [
+    76875,
+    4471,
+    "Thanatos Corporation Emblem"
+  ],
+  [
+    76876,
+    4471,
+    "Thunderchild Corporation Emblem"
+  ],
+  [
+    76877,
+    4471,
+    "Typhoon Fleet Issue Corporation Emblem"
+  ],
+  [
+    76878,
+    4471,
+    "Vanquisher Corporation Emblem"
+  ],
+  [
+    76879,
+    4471,
+    "Vargur Corporation Emblem"
+  ],
+  [
+    76880,
+    4471,
+    "Vendetta Corporation Emblem"
+  ],
+  [
+    76881,
+    4471,
+    "Vindicator Corporation Emblem"
+  ],
+  [
+    76882,
+    4471,
+    "Vulture Corporation Emblem"
+  ],
+  [
+    76883,
+    4471,
+    "Widow Corporation Emblem"
+  ],
+  [
+    76884,
+    4471,
+    "Wyvern Corporation Emblem"
+  ],
+  [
+    76903,
+    227,
+    "SW Couriers Merc Spawner (Do not translate)"
+  ],
+  [
+    76904,
+    227,
+    "SW Lab Merc Wave Spawner (Do not translate)"
+  ],
+  [
+    76905,
+    227,
+    "SW Lab Merc Boss Spawner (Do not translate)"
+  ],
+  [
+    76922,
+    186,
+    "Caldari Shipcaster Beacon Wreck"
+  ],
+  [
+    76923,
+    186,
+    "Gallente Shipcaster Beacon Wreck"
+  ],
+  [
+    76924,
+    186,
+    "Minmatar Shipcaster Beacon Wreck"
+  ],
+  [
+    76927,
+    226,
+    "Imperial Stellar Transmuter"
+  ],
+  [
+    76928,
+    226,
+    "Republic Stellar Transmuter"
+  ],
+  [
+    76929,
+    226,
+    "State Stellar Transmuter"
+  ],
+  [
+    76930,
+    226,
+    "Federation Stellar Transmuter"
+  ],
+  [
+    76933,
+    226,
+    "Abandoned Imperial Research Station"
+  ],
+  [
+    76941,
+    306,
+    "Vila Allopoiesis Node"
+  ],
+  [
+    76942,
+    1568,
+    "Anchoring Vila Skarbnik"
+  ],
+  [
+    76943,
+    1568,
+    "Starving Vila Skarbnik"
+  ],
+  [
+    76944,
+    1568,
+    "Tangling Vila Skarbnik"
+  ],
+  [
+    76947,
+    4471,
+    "Vehement Alliance Emblem"
+  ],
+  [
+    76948,
+    4471,
+    "Vehement Corporation Emblem"
+  ],
+  [
+    76949,
+    4471,
+    "Zirnitra Alliance Emblem"
+  ],
+  [
+    76950,
+    4471,
+    "Zirnitra Corporation Emblem"
   ]
 ]

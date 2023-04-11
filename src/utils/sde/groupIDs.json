@@ -477,7 +477,7 @@
     "iconID": 0,
     "name": "Armor Repair Unit",
     "published": true,
-    "useBasePrice": false
+    "useBasePrice": true
   },
   "63": {
     "anchorable": false,
@@ -11466,7 +11466,7 @@
     "anchored": false,
     "categoryID": 11,
     "fittableNonSingleton": false,
-    "name": "Hidden Zenith Caldari Battleship ",
+    "name": "Hidden Zenith Caldari Battleship",
     "published": false,
     "useBasePrice": false
   },
@@ -12271,7 +12271,7 @@
     "anchored": false,
     "categoryID": 11,
     "fittableNonSingleton": false,
-    "name": "♦ Industrial Command ",
+    "name": "♦ Industrial Command",
     "published": false,
     "useBasePrice": false
   },
@@ -13788,6 +13788,82 @@
     "published": true,
     "useBasePrice": true
   },
+  "4501": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Mission Generic Capsules",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4513": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Mordunium",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4514": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Ytirium",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4515": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Eifyrium",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4516": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Ducinium",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4547": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Interstellar Shipcaster Beacon",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4548": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Interstellar Shipcaster Beacon Construction Structure",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4549": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Interstellar Shipcaster",
+    "published": false,
+    "useBasePrice": false
+  },
   "350858": {
     "anchorable": false,
     "anchored": false,
@@ -13874,7 +13950,7 @@
     "anchored": false,
     "categoryID": 350001,
     "fittableNonSingleton": false,
-    "name": "Services ",
+    "name": "Services",
     "published": false,
     "useBasePrice": false
   },

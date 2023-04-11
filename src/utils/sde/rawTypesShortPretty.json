@@ -23433,7 +23433,7 @@
   },
   "14527": {
     "groupID": 508,
-    "name": "Tobias's Modified Torpedo Launcher"
+    "name": "Tobias' Modified Torpedo Launcher"
   },
   "14528": {
     "groupID": 367,
@@ -23677,7 +23677,7 @@
   },
   "14682": {
     "groupID": 508,
-    "name": "Vepas's Modified Torpedo Launcher"
+    "name": "Vepas' Modified Torpedo Launcher"
   },
   "14683": {
     "groupID": 508,
@@ -23837,7 +23837,7 @@
   },
   "14750": {
     "groupID": 77,
-    "name": "Vepas's Modified Kinetic Shield Hardener"
+    "name": "Vepas' Modified Kinetic Shield Hardener"
   },
   "14751": {
     "groupID": 77,
@@ -23853,7 +23853,7 @@
   },
   "14754": {
     "groupID": 77,
-    "name": "Vepas's Modified EM Shield Hardener"
+    "name": "Vepas' Modified EM Shield Hardener"
   },
   "14755": {
     "groupID": 77,
@@ -23869,7 +23869,7 @@
   },
   "14758": {
     "groupID": 77,
-    "name": "Vepas's Modified Explosive Shield Hardener"
+    "name": "Vepas' Modified Explosive Shield Hardener"
   },
   "14759": {
     "groupID": 77,
@@ -23885,7 +23885,7 @@
   },
   "14762": {
     "groupID": 77,
-    "name": "Vepas's Modified Thermal Shield Hardener"
+    "name": "Vepas' Modified Thermal Shield Hardener"
   },
   "14763": {
     "groupID": 77,
@@ -23901,7 +23901,7 @@
   },
   "14766": {
     "groupID": 77,
-    "name": "Vepas's Modified Multispectrum Shield Hardener"
+    "name": "Vepas' Modified Multispectrum Shield Hardener"
   },
   "14767": {
     "groupID": 77,
@@ -40421,11 +40421,11 @@
   },
   "21498": {
     "groupID": 762,
-    "name": "Synthetic Hull Conversion Inertia Stabilizers"
+    "name": "Synthetic Hull Conversion Inertial Stabilizers"
   },
   "21499": {
     "groupID": 158,
-    "name": "Synthetic Hull Conversion Inertia Stabilizers Blueprint"
+    "name": "Synthetic Hull Conversion Inertial Stabilizers Blueprint"
   },
   "21500": {
     "groupID": 763,
@@ -58224,7 +58224,7 @@
     "name": "Villard Wheel"
   },
   "27275": {
-    "groupID": 306,
+    "groupID": 186,
     "name": "Civilian Transport Ship Wreck"
   },
   "27276": {
@@ -58272,7 +58272,7 @@
     "name": "Pirate Drone Wreck"
   },
   "27287": {
-    "groupID": 818,
+    "groupID": 4501,
     "name": "Pirate Capsule"
   },
   "27288": {
@@ -73936,7 +73936,7 @@
     "name": "Exploration Supplies"
   },
   "32348": {
-    "groupID": 927,
+    "groupID": 1006,
     "name": "Agent Rulie Isoryn"
   },
   "32349": {
@@ -100213,7 +100213,7 @@
   },
   "52801": {
     "groupID": 303,
-    "name": "Expired Basic 'Bonding' Cerebral Accelerator"
+    "name": "Basic 'Bonding' Cerebral Accelerator"
   },
   "52802": {
     "groupID": 303,
@@ -100677,7 +100677,7 @@
   },
   "53038": {
     "groupID": 1670,
-    "name": "53038_Male_Makeup_BodyAugmentations_BodyAugmentation_M01_Types_BodyAugmentationM01_Black.png"
+    "name": "Men's 'SteelKnight TorsoRig' Body Augmentation"
   },
   "53039": {
     "groupID": 1670,
@@ -100836,8 +100836,8 @@
     "name": "Destroyer SKIN"
   },
   "53226": {
-    "groupID": 1670,
-    "name": "53226_Female_Makeup_BodyAugmentations_BodyAugmentation_F01_Types_BodyAugmentationF01_Black.png"
+    "groupID": 1088,
+    "name": "Women's 'SteelKnight TorsoRig' Body Augmentation"
   },
   "53227": {
     "groupID": 1670,
@@ -110153,7 +110153,7 @@
   },
   "58741": {
     "groupID": 1975,
-    "name": "Docked EoM Bestower"
+    "name": "Non-interactable Bestower (Do not translate)"
   },
   "58742": {
     "groupID": 226,
@@ -110165,7 +110165,7 @@
   },
   "58744": {
     "groupID": 1975,
-    "name": "Fortified EoM Bunker"
+    "name": "Non-interactable Amarr Bunker (Do not translate)"
   },
   "58745": {
     "groupID": 25,
@@ -110177,7 +110177,7 @@
   },
   "58747": {
     "groupID": 1975,
-    "name": "Incomplete EoM Missile Battery"
+    "name": "Non-interactable Amarr Missile Battery (Do not translate)"
   },
   "58748": {
     "groupID": 1975,
@@ -110685,7 +110685,7 @@
   },
   "58971": {
     "groupID": 4117,
-    "name": "Restrained Interdiction Nullifier"
+    "name": "Enduring Interdiction Nullifier"
   },
   "58972": {
     "groupID": 4117,
@@ -110697,7 +110697,7 @@
   },
   "58974": {
     "groupID": 4118,
-    "name": "Restrained Interdiction Nullifier Blueprint"
+    "name": "Enduring Interdiction Nullifier Blueprint"
   },
   "58975": {
     "groupID": 4118,
@@ -113833,43 +113833,43 @@
   },
   "61129": {
     "groupID": 1194,
-    "name": "Ice Storm Filaments Crate"
+    "name": "Expired Ice Storm Filaments Crate"
   },
   "61130": {
-    "groupID": 4041,
-    "name": "DSHR-01H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DSHR-01H Highsec Ice Storm Filament"
   },
   "61131": {
-    "groupID": 4041,
-    "name": "DNCR-05H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNCR-05H Highsec Ice Storm Filament"
   },
   "61132": {
-    "groupID": 4041,
-    "name": "PRNCR-10H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired PRNCR-10H Highsec Ice Storm Filament"
   },
   "61133": {
-    "groupID": 4041,
-    "name": "VXN-01N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired VXN-01N Nullsec Ice Storm Filament"
   },
   "61134": {
-    "groupID": 4041,
-    "name": "CMT-05N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CMT-05N Nullsec Ice Storm Filament"
   },
   "61135": {
-    "groupID": 4041,
-    "name": "CPD-10N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CPD-10N Nullsec Ice Storm Filament"
   },
   "61136": {
-    "groupID": 4041,
-    "name": "DNNR-01L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNNR-01L Lowsec Ice Storm Filament"
   },
   "61137": {
-    "groupID": 4041,
-    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired BLTZN-05L Lowsec Ice Storm Filament"
   },
   "61138": {
-    "groupID": 4041,
-    "name": "RDLF-10L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired RDLF-10L Lowsec Ice Storm Filament"
   },
   "61180": {
     "groupID": 1975,
@@ -114433,7 +114433,7 @@
   },
   "62048": {
     "groupID": 1194,
-    "name": "Bag of Gelatinized Confectionary "
+    "name": "Bag of Gelatinized Confectionary"
   },
   "62049": {
     "groupID": 1194,
@@ -118949,7 +118949,7 @@
   },
   "64884": {
     "groupID": 1975,
-    "name": "Minmatar Tactical Supply Station (DO NOT TRANSLATE)"
+    "name": "Non-Interactable Minmatar Bunker (DO NOT TRANSLATE)"
   },
   "64885": {
     "groupID": 1975,
@@ -119373,7 +119373,7 @@
   },
   "65144": {
     "groupID": 1975,
-    "name": "Amarr Cathedral "
+    "name": "Amarr Cathedral"
   },
   "65145": {
     "groupID": 1975,
@@ -119497,7 +119497,7 @@
   },
   "70814": {
     "groupID": 1975,
-    "name": "Caldari Phoenix Dreadnought"
+    "name": "Non-interactable Phoenix (do not translate)"
   },
   "70815": {
     "groupID": 1975,
@@ -120361,7 +120361,7 @@
   },
   "72238": {
     "groupID": 303,
-    "name": "Basic 'Boost' Cerebral Accelerator "
+    "name": "Basic 'Boost' Cerebral Accelerator"
   },
   "72239": {
     "groupID": 303,
@@ -120757,7 +120757,7 @@
   },
   "72762": {
     "groupID": 1975,
-    "name": "cs2_cbd_environment_asset "
+    "name": "cs2_cbd_environment_asset"
   },
   "72763": {
     "groupID": 1975,
@@ -120789,83 +120789,83 @@
   },
   "72818": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster I"
+    "name": "Expired Harvest Nosferatu Booster I"
   },
   "72819": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster II "
+    "name": "Expired Harvest Nosferatu Booster II"
   },
   "72820": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster III"
+    "name": "Expired Harvest Nosferatu Booster III"
   },
   "72821": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster I"
+    "name": "Expired Harvest Webifier Booster I"
   },
   "72822": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster II"
+    "name": "Expired Harvest Webifier Booster II"
   },
   "72823": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster III"
+    "name": "Expired Harvest Webifier Booster III"
   },
   "72828": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster IV"
+    "name": "Expired Harvest Nosferatu Booster IV"
   },
   "72829": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster IV"
+    "name": "Expired Harvest Webifier Booster IV"
   },
   "72830": {
     "groupID": 303,
-    "name": "Harvest Damage Booster III"
+    "name": "Expired Harvest Damage Booster III"
   },
   "72831": {
     "groupID": 303,
-    "name": "Harvest Damage Booster IV"
+    "name": "Expired Harvest Damage Booster IV"
   },
   "72832": {
     "groupID": 303,
-    "name": "Harvest Damage Booster I"
+    "name": "Expired Harvest Damage Booster I"
   },
   "72833": {
     "groupID": 303,
-    "name": "Harvest Damage Booster II"
+    "name": "Expired Harvest Damage Booster II"
   },
   "72834": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster I"
+    "name": "Expired Harvest Anti-Disruptor Booster I"
   },
   "72835": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster II"
+    "name": "Expired Harvest Anti-Disruptor Booster II"
   },
   "72836": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster III"
+    "name": "Expired Harvest Anti-Disruptor Booster III"
   },
   "72837": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster IV"
+    "name": "Expired Harvest Anti-Disruptor Booster IV"
   },
   "72839": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster IV"
+    "name": "Expired Tetrimon Resistance Booster IV"
   },
   "72840": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster I"
+    "name": "Expired Tetrimon Resistance Booster I"
   },
   "72841": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster II"
+    "name": "Expired Tetrimon Resistance Booster II"
   },
   "72842": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster III"
+    "name": "Expired Tetrimon Resistance Booster III"
   },
   "72850": {
     "groupID": 319,
@@ -120885,63 +120885,63 @@
   },
   "72854": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster III"
+    "name": "Expired Tetrimon Capacitor Booster III"
   },
   "72855": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster IV"
+    "name": "Expired Tetrimon Capacitor Booster IV"
   },
   "72856": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster I"
+    "name": "Expired Tetrimon Capacitor Booster I"
   },
   "72857": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster II"
+    "name": "Expired Tetrimon Capacitor Booster II"
   },
   "72858": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster I"
+    "name": "Expired Tetrimon Precision Booster I"
   },
   "72859": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster II"
+    "name": "Expired Tetrimon Precision Booster II"
   },
   "72860": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster III"
+    "name": "Expired Tetrimon Precision Booster III"
   },
   "72861": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster IV"
+    "name": "Expired Tetrimon Precision Booster IV"
   },
   "72862": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster III"
+    "name": "Expired Tetrimon Anti-Drain Booster III"
   },
   "72863": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster IV"
+    "name": "Expired Tetrimon Anti-Drain Booster IV"
   },
   "72864": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster I"
+    "name": "Expired Tetrimon Anti-Drain Booster I"
   },
   "72865": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster II"
+    "name": "Expired Tetrimon Anti-Drain Booster II"
   },
   "72866": {
     "groupID": 303,
-    "name": "Basic 'Radiance' Cerebral Accelerator"
+    "name": "Expired Basic 'Radiance' Cerebral Accelerator"
   },
   "72867": {
     "groupID": 303,
-    "name": "Potent 'Radiance' Cerebral Accelerator"
+    "name": "Expired Potent 'Radiance' Cerebral Accelerator"
   },
   "72868": {
     "groupID": 303,
-    "name": "Extended 'Radiance' Cerebral Accelerator"
+    "name": "Expired Extended 'Radiance' Cerebral Accelerator"
   },
   "72869": {
     "groupID": 419,
@@ -121093,35 +121093,35 @@
   },
   "72978": {
     "groupID": 4050,
-    "name": "Event 74 Proving Filament "
+    "name": "ATXVIII 1v1 Battleships Proving Filament"
   },
   "72979": {
     "groupID": 4050,
-    "name": "Event 75 Proving Filament"
+    "name": "ATXVIII 1v1 Navy Destroyers Proving Filament"
   },
   "72980": {
     "groupID": 4050,
-    "name": "Event 76 Proving Filament"
+    "name": "Prophecy FFA Proving Filament"
   },
   "72981": {
     "groupID": 4050,
-    "name": "Event 77 Proving Filament "
+    "name": "2v2 Navy Frigates Proving Filament"
   },
   "72982": {
     "groupID": 4050,
-    "name": "Event 78 Proving Filament"
+    "name": "Yoiul 1v1 T1 Cruisers Proving Filament"
   },
   "72983": {
     "groupID": 4050,
-    "name": "Event 79 Proving Filament"
+    "name": "Yoiul T1 Destroyer FFA Proving Filament"
   },
   "72984": {
     "groupID": 4050,
-    "name": "Event 80 Proving Filament"
+    "name": "2v2 Battleships Proving Filament"
   },
   "72985": {
     "groupID": 4050,
-    "name": "Event 81 Proving Filament "
+    "name": "1v1 Navy Battlecruisers Proving Filament"
   },
   "72986": {
     "groupID": 4050,
@@ -121149,7 +121149,7 @@
   },
   "72992": {
     "groupID": 4050,
-    "name": "Event 88 Proving Filament "
+    "name": "Event 88 Proving Filament"
   },
   "72993": {
     "groupID": 4050,
@@ -121217,7 +121217,7 @@
   },
   "73016": {
     "groupID": 1975,
-    "name": "Small Military Beacon "
+    "name": "Small Military Beacon"
   },
   "73017": {
     "groupID": 1975,
@@ -121377,7 +121377,7 @@
   },
   "73268": {
     "groupID": 226,
-    "name": "Federation Relay Research Laboratory"
+    "name": "Federation Stellar Transmuter Research Laboratory"
   },
   "73270": {
     "groupID": 4499,
@@ -121601,19 +121601,19 @@
   },
   "73431": {
     "groupID": 474,
-    "name": "Crimson Gauntlet Shortcut Keypass "
+    "name": "Crimson Gauntlet Shortcut Keypass"
   },
   "73432": {
     "groupID": 474,
-    "name": "Tetrimon Base Shortcut Keypass "
+    "name": "Tetrimon Base Shortcut Keypass"
   },
   "73436": {
     "groupID": 1670,
-    "name": "73436_Male_Makeup_Augmentations_Face_Paint_M01_Types_Face_Paint_M01_V7_Red.png"
+    "name": "Men's 'Barbatus Rojo' Facial Augmentation"
   },
   "73437": {
     "groupID": 1670,
-    "name": "73437_Female_Makeup_Augmentations_Face_Paint_F01_Types_Face_Paint_F01_V3_Red.png"
+    "name": "Women's 'Domino Rojo' Facial Augmentation"
   },
   "73438": {
     "groupID": 226,
@@ -121666,6 +121666,10 @@
   "73450": {
     "groupID": 227,
     "name": "Gallente Scoreboard - DO NOT TRANSLATE"
+  },
+  "73484": {
+    "groupID": 314,
+    "name": "Paragon Gift Crate"
   },
   "73486": {
     "groupID": 1975,
@@ -122817,7 +122821,7 @@
   },
   "73866": {
     "groupID": 186,
-    "name": "Naglfar Navy Issue Wreck"
+    "name": "Naglfar Fleet Issue Wreck"
   },
   "73868": {
     "groupID": 186,
@@ -123446,5 +123450,4205 @@
   "74102": {
     "groupID": 1975,
     "name": "Gallente Navy Hub 02a"
+  },
+  "74107": {
+    "groupID": 226,
+    "name": "Federation Navy Infrastructure Hub"
+  },
+  "74114": {
+    "groupID": 4098,
+    "name": "Navy Destroyers Expert System"
+  },
+  "74120": {
+    "groupID": 1971,
+    "name": "Proving Damage, HP, Prop Mod and Overheating Bonus (Do not translate)"
+  },
+  "74141": {
+    "groupID": 324,
+    "name": "Geri"
+  },
+  "74159": {
+    "groupID": 226,
+    "name": "Gallente Federation Stargate Construction"
+  },
+  "74161": {
+    "groupID": 303,
+    "name": "Expired Extended 'Brainfreeze' Cerebral Accelerator"
+  },
+  "74162": {
+    "groupID": 303,
+    "name": "Expired Potent 'Brainfreeze' Cerebral Accelerator"
+  },
+  "74163": {
+    "groupID": 303,
+    "name": "Expired Basic 'Brainfreeze' Cerebral Accelerator"
+  },
+  "74199": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Sunyata Booster I"
+  },
+  "74200": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Sunyata Booster II"
+  },
+  "74201": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Sunyata Booster III"
+  },
+  "74202": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Nirvana Booster I"
+  },
+  "74203": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Nirvana Booster II"
+  },
+  "74204": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Nirvana Booster III"
+  },
+  "74205": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Rapture Booster I"
+  },
+  "74206": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Rapture Booster II"
+  },
+  "74207": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Rapture Booster III"
+  },
+  "74208": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Cetana Booster I"
+  },
+  "74209": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Cetana Booster II"
+  },
+  "74210": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Cetana Booster III"
+  },
+  "74211": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Vitarka Booster I"
+  },
+  "74212": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Vitarka Booster II"
+  },
+  "74213": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Vitarka Booster III"
+  },
+  "74214": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Manasikara Booster I"
+  },
+  "74215": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Manasikara Booster II"
+  },
+  "74216": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Manasikara Booster III"
+  },
+  "74255": {
+    "groupID": 353,
+    "name": "QA Survey Scanner"
+  },
+  "74256": {
+    "groupID": 353,
+    "name": "QA Miner"
+  },
+  "74257": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Sunyata Booster IV"
+  },
+  "74258": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Nirvana Booster IV"
+  },
+  "74259": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Rapture Booster IV"
+  },
+  "74260": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Cetana Booster IV"
+  },
+  "74261": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Vitarka Booster IV"
+  },
+  "74262": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Manasikara Booster IV"
+  },
+  "74316": {
+    "groupID": 358,
+    "name": "Bestla"
+  },
+  "74385": {
+    "groupID": 500,
+    "name": "Scarlet Embrace Firework ( copy )"
+  },
+  "74386": {
+    "groupID": 500,
+    "name": "Yoiul's Ascent Firework"
+  },
+  "74387": {
+    "groupID": 1194,
+    "name": "Yoiul's Ascent Firework Crate"
+  },
+  "74391": {
+    "groupID": 1975,
+    "name": "Non-interactable Phoenix Navy Issue (do not translate)"
+  },
+  "74397": {
+    "groupID": 15,
+    "name": "Minmatar Trade Post (Damaged)"
+  },
+  "74406": {
+    "groupID": 1975,
+    "name": "Invisible Cloud - Disallow Cloaking 500KM"
+  },
+  "74426": {
+    "groupID": 4041,
+    "name": "DNCR-05H Highsec Ice Storm Filament"
+  },
+  "74427": {
+    "groupID": 4041,
+    "name": "DNNR-01L Lowsec Ice Storm Filament"
+  },
+  "74428": {
+    "groupID": 4041,
+    "name": "DSHR-01H Highsec Ice Storm Filament"
+  },
+  "74429": {
+    "groupID": 4041,
+    "name": "PRNCR-10H Highsec Ice Storm Filament"
+  },
+  "74430": {
+    "groupID": 4041,
+    "name": "RDLF-10L Lowsec Ice Storm Filament"
+  },
+  "74431": {
+    "groupID": 4041,
+    "name": "VXN-01N Nullsec Ice Storm Filament"
+  },
+  "74432": {
+    "groupID": 4041,
+    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+  },
+  "74433": {
+    "groupID": 4041,
+    "name": "CMT-05N Nullsec Ice Storm Filament"
+  },
+  "74434": {
+    "groupID": 4041,
+    "name": "CPD-10N Nullsec Ice Storm Filament"
+  },
+  "74448": {
+    "groupID": 1122,
+    "name": "QA Salvager"
+  },
+  "74449": {
+    "groupID": 1194,
+    "name": "Ice Storm Filaments Crate"
+  },
+  "74500": {
+    "groupID": 4098,
+    "name": "Winter Nexus Expert System"
+  },
+  "74520": {
+    "groupID": 1971,
+    "name": "Proving HP, Remote Rep Impedance, and Overheating Bonus (Do not translate)"
+  },
+  "74521": {
+    "groupID": 4513,
+    "name": "Mordunium"
+  },
+  "74522": {
+    "groupID": 4513,
+    "name": "Plum Mordunium"
+  },
+  "74523": {
+    "groupID": 4513,
+    "name": "Prize Mordunium"
+  },
+  "74524": {
+    "groupID": 4513,
+    "name": "Plunder Mordunium"
+  },
+  "74525": {
+    "groupID": 4514,
+    "name": "Ytirium"
+  },
+  "74526": {
+    "groupID": 4514,
+    "name": "Bootleg Ytirium"
+  },
+  "74527": {
+    "groupID": 4514,
+    "name": "Firewater Ytirium"
+  },
+  "74528": {
+    "groupID": 4514,
+    "name": "Moonshine Ytirium"
+  },
+  "74529": {
+    "groupID": 4515,
+    "name": "Eifyrium"
+  },
+  "74530": {
+    "groupID": 4515,
+    "name": "Doped Eifyrium"
+  },
+  "74531": {
+    "groupID": 4515,
+    "name": "Boosted Eifyrium"
+  },
+  "74532": {
+    "groupID": 4515,
+    "name": "Augmented Eifyrium"
+  },
+  "74533": {
+    "groupID": 4516,
+    "name": "Ducinium"
+  },
+  "74534": {
+    "groupID": 4516,
+    "name": "Noble Ducinium"
+  },
+  "74535": {
+    "groupID": 4516,
+    "name": "Royal Ducinium"
+  },
+  "74536": {
+    "groupID": 4516,
+    "name": "Imperial Ducinium"
+  },
+  "74686": {
+    "groupID": 1975,
+    "name": "Fortified Sansha Elevator (Winter Nexus music) (DO NOT TRANSLATE)"
+  },
+  "74884": {
+    "groupID": 4471,
+    "name": "Adrestia Alliance Emblem"
+  },
+  "74885": {
+    "groupID": 4471,
+    "name": "Anathema Alliance Emblem"
+  },
+  "74886": {
+    "groupID": 4471,
+    "name": "Arazu Alliance Emblem"
+  },
+  "74887": {
+    "groupID": 4471,
+    "name": "Arbitrator Alliance Emblem"
+  },
+  "74888": {
+    "groupID": 4471,
+    "name": "Ares Alliance Emblem"
+  },
+  "74889": {
+    "groupID": 4471,
+    "name": "Armageddon Alliance Emblem"
+  },
+  "74890": {
+    "groupID": 4471,
+    "name": "Ashimmu Alliance Emblem"
+  },
+  "74891": {
+    "groupID": 4471,
+    "name": "Augoror Alliance Emblem"
+  },
+  "74892": {
+    "groupID": 4471,
+    "name": "Augoror Navy Issue Alliance Emblem"
+  },
+  "74893": {
+    "groupID": 4471,
+    "name": "Basilisk Alliance Emblem"
+  },
+  "74894": {
+    "groupID": 4471,
+    "name": "Bellicose Alliance Emblem"
+  },
+  "74895": {
+    "groupID": 4471,
+    "name": "Bestla Alliance Emblem"
+  },
+  "74896": {
+    "groupID": 4471,
+    "name": "Bifrost Alliance Emblem"
+  },
+  "74897": {
+    "groupID": 4471,
+    "name": "Blackbird Alliance Emblem"
+  },
+  "74898": {
+    "groupID": 4471,
+    "name": "Broadsword Alliance Emblem"
+  },
+  "74899": {
+    "groupID": 4471,
+    "name": "Buzzard Alliance Emblem"
+  },
+  "74900": {
+    "groupID": 4471,
+    "name": "Caedes Alliance Emblem"
+  },
+  "74901": {
+    "groupID": 4471,
+    "name": "Caldari Navy Hookbill Alliance Emblem"
+  },
+  "74902": {
+    "groupID": 4471,
+    "name": "Cambion Alliance Emblem"
+  },
+  "74903": {
+    "groupID": 4471,
+    "name": "Caracal Alliance Emblem"
+  },
+  "74904": {
+    "groupID": 4471,
+    "name": "Caracal Navy Issue Alliance Emblem"
+  },
+  "74905": {
+    "groupID": 4471,
+    "name": "Celestis Alliance Emblem"
+  },
+  "74906": {
+    "groupID": 4471,
+    "name": "Cerberus Alliance Emblem"
+  },
+  "74907": {
+    "groupID": 4471,
+    "name": "Chameleon Alliance Emblem"
+  },
+  "74908": {
+    "groupID": 4471,
+    "name": "Cheetah Alliance Emblem"
+  },
+  "74909": {
+    "groupID": 4471,
+    "name": "Chremoas Alliance Emblem"
+  },
+  "74910": {
+    "groupID": 4471,
+    "name": "Claw Alliance Emblem"
+  },
+  "74911": {
+    "groupID": 4471,
+    "name": "Confessor Alliance Emblem"
+  },
+  "74912": {
+    "groupID": 4471,
+    "name": "Covetor Alliance Emblem"
+  },
+  "74913": {
+    "groupID": 4471,
+    "name": "Crane Alliance Emblem"
+  },
+  "74914": {
+    "groupID": 4471,
+    "name": "Crow Alliance Emblem"
+  },
+  "74915": {
+    "groupID": 4471,
+    "name": "Crucifier Navy Issue Alliance Emblem"
+  },
+  "74916": {
+    "groupID": 4471,
+    "name": "Cruor Alliance Emblem"
+  },
+  "74917": {
+    "groupID": 4471,
+    "name": "Crusader Alliance Emblem"
+  },
+  "74918": {
+    "groupID": 4471,
+    "name": "Curse Alliance Emblem"
+  },
+  "74919": {
+    "groupID": 4471,
+    "name": "Cynabal Alliance Emblem"
+  },
+  "74920": {
+    "groupID": 4471,
+    "name": "Damavik Alliance Emblem"
+  },
+  "74921": {
+    "groupID": 4471,
+    "name": "Daredevil Alliance Emblem"
+  },
+  "74922": {
+    "groupID": 4471,
+    "name": "Deacon Alliance Emblem"
+  },
+  "74923": {
+    "groupID": 4471,
+    "name": "Deimos Alliance Emblem"
+  },
+  "74924": {
+    "groupID": 4471,
+    "name": "Devoter Alliance Emblem"
+  },
+  "74925": {
+    "groupID": 4471,
+    "name": "Dominix Alliance Emblem"
+  },
+  "74926": {
+    "groupID": 4471,
+    "name": "Dramiel Alliance Emblem"
+  },
+  "74927": {
+    "groupID": 4471,
+    "name": "Draugur Alliance Emblem"
+  },
+  "74928": {
+    "groupID": 4471,
+    "name": "Eagle Alliance Emblem"
+  },
+  "74929": {
+    "groupID": 4471,
+    "name": "Echelon Alliance Emblem"
+  },
+  "74930": {
+    "groupID": 4471,
+    "name": "Endurance Alliance Emblem"
+  },
+  "74931": {
+    "groupID": 4471,
+    "name": "Enforcer Alliance Emblem"
+  },
+  "74932": {
+    "groupID": 4471,
+    "name": "Enyo Alliance Emblem"
+  },
+  "74933": {
+    "groupID": 4471,
+    "name": "Eris Alliance Emblem"
+  },
+  "74934": {
+    "groupID": 4471,
+    "name": "Etana Alliance Emblem"
+  },
+  "74935": {
+    "groupID": 4471,
+    "name": "Exequror Alliance Emblem"
+  },
+  "74936": {
+    "groupID": 4471,
+    "name": "Exequror Navy Issue Alliance Emblem"
+  },
+  "74937": {
+    "groupID": 4471,
+    "name": "Falcon Alliance Emblem"
+  },
+  "74938": {
+    "groupID": 4471,
+    "name": "Federation Navy Comet Alliance Emblem"
+  },
+  "74939": {
+    "groupID": 4471,
+    "name": "Fiend Alliance Emblem"
+  },
+  "74940": {
+    "groupID": 4471,
+    "name": "Flycatcher Alliance Emblem"
+  },
+  "74941": {
+    "groupID": 4471,
+    "name": "Freki Alliance Emblem"
+  },
+  "74942": {
+    "groupID": 4471,
+    "name": "Garmur Alliance Emblem"
+  },
+  "74943": {
+    "groupID": 4471,
+    "name": "Geri Alliance Emblem"
+  },
+  "74944": {
+    "groupID": 4471,
+    "name": "Gila Alliance Emblem"
+  },
+  "74945": {
+    "groupID": 4471,
+    "name": "Griffin Navy Issue Alliance Emblem"
+  },
+  "74946": {
+    "groupID": 4471,
+    "name": "Guardian Alliance Emblem"
+  },
+  "74947": {
+    "groupID": 4471,
+    "name": "Guardian-Vexor Alliance Emblem"
+  },
+  "74948": {
+    "groupID": 4471,
+    "name": "Harpy Alliance Emblem"
+  },
+  "74949": {
+    "groupID": 4471,
+    "name": "Hawk Alliance Emblem"
+  },
+  "74950": {
+    "groupID": 4471,
+    "name": "Hecate Alliance Emblem"
+  },
+  "74951": {
+    "groupID": 4471,
+    "name": "Helios Alliance Emblem"
+  },
+  "74952": {
+    "groupID": 4471,
+    "name": "Heretic Alliance Emblem"
+  },
+  "74953": {
+    "groupID": 4471,
+    "name": "Hound Alliance Emblem"
+  },
+  "74954": {
+    "groupID": 4471,
+    "name": "Huginn Alliance Emblem"
+  },
+  "74955": {
+    "groupID": 4471,
+    "name": "Hulk Alliance Emblem"
+  },
+  "74956": {
+    "groupID": 4471,
+    "name": "Hydra Alliance Emblem"
+  },
+  "74957": {
+    "groupID": 4471,
+    "name": "Hyena Alliance Emblem"
+  },
+  "74958": {
+    "groupID": 4471,
+    "name": "Ikitursa Alliance Emblem"
+  },
+  "74959": {
+    "groupID": 4471,
+    "name": "Imp Alliance Emblem"
+  },
+  "74960": {
+    "groupID": 4471,
+    "name": "Impel Alliance Emblem"
+  },
+  "74961": {
+    "groupID": 4471,
+    "name": "Imperial Navy Slicer Alliance Emblem"
+  },
+  "74962": {
+    "groupID": 4471,
+    "name": "Ishkur Alliance Emblem"
+  },
+  "74963": {
+    "groupID": 4471,
+    "name": "Ishtar Alliance Emblem"
+  },
+  "74964": {
+    "groupID": 4471,
+    "name": "Jackdaw Alliance Emblem"
+  },
+  "74965": {
+    "groupID": 4471,
+    "name": "Jaguar Alliance Emblem"
+  },
+  "74966": {
+    "groupID": 4471,
+    "name": "Keres Alliance Emblem"
+  },
+  "74967": {
+    "groupID": 4471,
+    "name": "Kikimora Alliance Emblem"
+  },
+  "74968": {
+    "groupID": 4471,
+    "name": "Kirin Alliance Emblem"
+  },
+  "74969": {
+    "groupID": 4471,
+    "name": "Kitsune Alliance Emblem"
+  },
+  "74970": {
+    "groupID": 4471,
+    "name": "Lachesis Alliance Emblem"
+  },
+  "74971": {
+    "groupID": 4471,
+    "name": "Laelaps Alliance Emblem"
+  },
+  "74972": {
+    "groupID": 4471,
+    "name": "Legion Alliance Emblem"
+  },
+  "74973": {
+    "groupID": 4471,
+    "name": "Loki Alliance Emblem"
+  },
+  "74974": {
+    "groupID": 4471,
+    "name": "Mackinaw Alliance Emblem"
+  },
+  "74975": {
+    "groupID": 4471,
+    "name": "Magus Alliance Emblem"
+  },
+  "74976": {
+    "groupID": 4471,
+    "name": "Malediction Alliance Emblem"
+  },
+  "74977": {
+    "groupID": 4471,
+    "name": "Malice Alliance Emblem"
+  },
+  "74978": {
+    "groupID": 4471,
+    "name": "Maller Alliance Emblem"
+  },
+  "74979": {
+    "groupID": 4471,
+    "name": "Manticore Alliance Emblem"
+  },
+  "74980": {
+    "groupID": 4471,
+    "name": "Mastodon Alliance Emblem"
+  },
+  "74981": {
+    "groupID": 4471,
+    "name": "Maulus Navy Issue Alliance Emblem"
+  },
+  "74982": {
+    "groupID": 4471,
+    "name": "Miasmos Amastris Edition Alliance Emblem"
+  },
+  "74983": {
+    "groupID": 4471,
+    "name": "Miasmos Quafe Ultra Edition Alliance Emblem"
+  },
+  "74984": {
+    "groupID": 4471,
+    "name": "Miasmos Quafe Ultramarine Edition Alliance Emblem"
+  },
+  "74985": {
+    "groupID": 4471,
+    "name": "Mimir Alliance Emblem"
+  },
+  "74986": {
+    "groupID": 4471,
+    "name": "Moa Alliance Emblem"
+  },
+  "74987": {
+    "groupID": 4471,
+    "name": "Monitor Alliance Emblem"
+  },
+  "74988": {
+    "groupID": 4471,
+    "name": "Moracha Alliance Emblem"
+  },
+  "74989": {
+    "groupID": 4471,
+    "name": "Muninn Alliance Emblem"
+  },
+  "74990": {
+    "groupID": 4471,
+    "name": "Nemesis Alliance Emblem"
+  },
+  "74991": {
+    "groupID": 4471,
+    "name": "Nergal Alliance Emblem"
+  },
+  "74992": {
+    "groupID": 4471,
+    "name": "Noctis Alliance Emblem"
+  },
+  "74993": {
+    "groupID": 4471,
+    "name": "Occator Alliance Emblem"
+  },
+  "74994": {
+    "groupID": 4471,
+    "name": "Omen Alliance Emblem"
+  },
+  "74995": {
+    "groupID": 4471,
+    "name": "Omen Navy Issue Alliance Emblem"
+  },
+  "74996": {
+    "groupID": 4471,
+    "name": "Oneiros Alliance Emblem"
+  },
+  "74997": {
+    "groupID": 4471,
+    "name": "Onyx Alliance Emblem"
+  },
+  "74998": {
+    "groupID": 4471,
+    "name": "Opux Luxury Yacht Alliance Emblem"
+  },
+  "74999": {
+    "groupID": 4471,
+    "name": "Orca Alliance Emblem"
+  },
+  "75000": {
+    "groupID": 4471,
+    "name": "Orthrus Alliance Emblem"
+  },
+  "75001": {
+    "groupID": 4471,
+    "name": "Osprey Alliance Emblem"
+  },
+  "75002": {
+    "groupID": 4471,
+    "name": "Osprey Navy Issue Alliance Emblem"
+  },
+  "75003": {
+    "groupID": 4471,
+    "name": "Pacifier Alliance Emblem"
+  },
+  "75004": {
+    "groupID": 4471,
+    "name": "Phantasm Alliance Emblem"
+  },
+  "75005": {
+    "groupID": 4471,
+    "name": "Phobos Alliance Emblem"
+  },
+  "75006": {
+    "groupID": 4471,
+    "name": "Pilgrim Alliance Emblem"
+  },
+  "75007": {
+    "groupID": 4471,
+    "name": "Pontifex Alliance Emblem"
+  },
+  "75008": {
+    "groupID": 4471,
+    "name": "Porpoise Alliance Emblem"
+  },
+  "75009": {
+    "groupID": 4471,
+    "name": "Primae Alliance Emblem"
+  },
+  "75010": {
+    "groupID": 4471,
+    "name": "Procurer Alliance Emblem"
+  },
+  "75011": {
+    "groupID": 4471,
+    "name": "Prorator Alliance Emblem"
+  },
+  "75012": {
+    "groupID": 4471,
+    "name": "Prospect Alliance Emblem"
+  },
+  "75013": {
+    "groupID": 4471,
+    "name": "Proteus Alliance Emblem"
+  },
+  "75014": {
+    "groupID": 4471,
+    "name": "Prowler Alliance Emblem"
+  },
+  "75015": {
+    "groupID": 4471,
+    "name": "Purifier Alliance Emblem"
+  },
+  "75016": {
+    "groupID": 4471,
+    "name": "Rabisu Alliance Emblem"
+  },
+  "75017": {
+    "groupID": 4471,
+    "name": "Raiju Alliance Emblem"
+  },
+  "75018": {
+    "groupID": 4471,
+    "name": "Rapier Alliance Emblem"
+  },
+  "75019": {
+    "groupID": 4471,
+    "name": "Raptor Alliance Emblem"
+  },
+  "75020": {
+    "groupID": 4471,
+    "name": "Republic Fleet Firetail Alliance Emblem"
+  },
+  "75021": {
+    "groupID": 4471,
+    "name": "Retribution Alliance Emblem"
+  },
+  "75022": {
+    "groupID": 4471,
+    "name": "Retriever Alliance Emblem"
+  },
+  "75023": {
+    "groupID": 4471,
+    "name": "Rodiva Alliance Emblem"
+  },
+  "75024": {
+    "groupID": 4471,
+    "name": "Rook Alliance Emblem"
+  },
+  "75025": {
+    "groupID": 4471,
+    "name": "Rupture Alliance Emblem"
+  },
+  "75026": {
+    "groupID": 4471,
+    "name": "Sabre Alliance Emblem"
+  },
+  "75027": {
+    "groupID": 4471,
+    "name": "Sacrilege Alliance Emblem"
+  },
+  "75028": {
+    "groupID": 4471,
+    "name": "Scalpel Alliance Emblem"
+  },
+  "75029": {
+    "groupID": 4471,
+    "name": "Scimitar Alliance Emblem"
+  },
+  "75030": {
+    "groupID": 4471,
+    "name": "Scorpion Alliance Emblem"
+  },
+  "75031": {
+    "groupID": 4471,
+    "name": "Scythe Alliance Emblem"
+  },
+  "75032": {
+    "groupID": 4471,
+    "name": "Scythe Fleet Issue Alliance Emblem"
+  },
+  "75033": {
+    "groupID": 4471,
+    "name": "Sentinel Alliance Emblem"
+  },
+  "75034": {
+    "groupID": 4471,
+    "name": "Skiff Alliance Emblem"
+  },
+  "75035": {
+    "groupID": 4471,
+    "name": "Skybreaker Alliance Emblem"
+  },
+  "75036": {
+    "groupID": 4471,
+    "name": "Stabber Alliance Emblem"
+  },
+  "75037": {
+    "groupID": 4471,
+    "name": "Stabber Fleet Issue Alliance Emblem"
+  },
+  "75038": {
+    "groupID": 4471,
+    "name": "Stiletto Alliance Emblem"
+  },
+  "75039": {
+    "groupID": 4471,
+    "name": "Stork Alliance Emblem"
+  },
+  "75040": {
+    "groupID": 4471,
+    "name": "Stormbringer Alliance Emblem"
+  },
+  "75041": {
+    "groupID": 4471,
+    "name": "Stratios Alliance Emblem"
+  },
+  "75042": {
+    "groupID": 4471,
+    "name": "Stratios Emergency Responder Alliance Emblem"
+  },
+  "75043": {
+    "groupID": 4471,
+    "name": "Succubus Alliance Emblem"
+  },
+  "75044": {
+    "groupID": 4471,
+    "name": "Svipul Alliance Emblem"
+  },
+  "75045": {
+    "groupID": 4471,
+    "name": "Taranis Alliance Emblem"
+  },
+  "75046": {
+    "groupID": 4471,
+    "name": "Tengu Alliance Emblem"
+  },
+  "75047": {
+    "groupID": 4471,
+    "name": "Thalia Alliance Emblem"
+  },
+  "75048": {
+    "groupID": 4471,
+    "name": "Thorax Alliance Emblem"
+  },
+  "75049": {
+    "groupID": 4471,
+    "name": "Tiamat Alliance Emblem"
+  },
+  "75050": {
+    "groupID": 4471,
+    "name": "Typhoon Alliance Emblem"
+  },
+  "75051": {
+    "groupID": 4471,
+    "name": "Utu Alliance Emblem"
+  },
+  "75052": {
+    "groupID": 4471,
+    "name": "Vagabond Alliance Emblem"
+  },
+  "75053": {
+    "groupID": 4471,
+    "name": "Vangel Alliance Emblem"
+  },
+  "75054": {
+    "groupID": 4471,
+    "name": "Vedmak Alliance Emblem"
+  },
+  "75055": {
+    "groupID": 4471,
+    "name": "Vengeance Alliance Emblem"
+  },
+  "75056": {
+    "groupID": 4471,
+    "name": "Vexor Alliance Emblem"
+  },
+  "75057": {
+    "groupID": 4471,
+    "name": "Vexor Navy Issue Alliance Emblem"
+  },
+  "75058": {
+    "groupID": 4471,
+    "name": "Viator Alliance Emblem"
+  },
+  "75059": {
+    "groupID": 4471,
+    "name": "Victor Alliance Emblem"
+  },
+  "75060": {
+    "groupID": 4471,
+    "name": "Victorieux Luxury Yacht Alliance Emblem"
+  },
+  "75061": {
+    "groupID": 4471,
+    "name": "Vigil Fleet Issue Alliance Emblem"
+  },
+  "75062": {
+    "groupID": 4471,
+    "name": "Vigilant Alliance Emblem"
+  },
+  "75063": {
+    "groupID": 4471,
+    "name": "Virtuoso Alliance Emblem"
+  },
+  "75064": {
+    "groupID": 4471,
+    "name": "Whiptail Alliance Emblem"
+  },
+  "75065": {
+    "groupID": 4471,
+    "name": "Wolf Alliance Emblem"
+  },
+  "75066": {
+    "groupID": 4471,
+    "name": "Worm Alliance Emblem"
+  },
+  "75067": {
+    "groupID": 4471,
+    "name": "Zarmazd Alliance Emblem"
+  },
+  "75068": {
+    "groupID": 4471,
+    "name": "Zealot Alliance Emblem"
+  },
+  "75069": {
+    "groupID": 4471,
+    "name": "Zephyr Alliance Emblem"
+  },
+  "75070": {
+    "groupID": 4471,
+    "name": "Adrestia Corporation Emblem"
+  },
+  "75071": {
+    "groupID": 4471,
+    "name": "Anathema Corporation Emblem"
+  },
+  "75072": {
+    "groupID": 4471,
+    "name": "Arazu Corporation Emblem"
+  },
+  "75073": {
+    "groupID": 4471,
+    "name": "Arbitrator Corporation Emblem"
+  },
+  "75074": {
+    "groupID": 4471,
+    "name": "Ares Corporation Emblem"
+  },
+  "75075": {
+    "groupID": 4471,
+    "name": "Armageddon Corporation Emblem"
+  },
+  "75076": {
+    "groupID": 4471,
+    "name": "Ashimmu Corporation Emblem"
+  },
+  "75077": {
+    "groupID": 4471,
+    "name": "Augoror Corporation Emblem"
+  },
+  "75078": {
+    "groupID": 4471,
+    "name": "Augoror Navy Issue Corporation Emblem"
+  },
+  "75079": {
+    "groupID": 4471,
+    "name": "Basilisk Corporation Emblem"
+  },
+  "75080": {
+    "groupID": 4471,
+    "name": "Bellicose Corporation Emblem"
+  },
+  "75081": {
+    "groupID": 4471,
+    "name": "Bestla Corporation Emblem"
+  },
+  "75082": {
+    "groupID": 4471,
+    "name": "Bifrost Corporation Emblem"
+  },
+  "75083": {
+    "groupID": 4471,
+    "name": "Blackbird Corporation Emblem"
+  },
+  "75084": {
+    "groupID": 4471,
+    "name": "Broadsword Corporation Emblem"
+  },
+  "75085": {
+    "groupID": 4471,
+    "name": "Buzzard Corporation Emblem"
+  },
+  "75086": {
+    "groupID": 4471,
+    "name": "Caedes Corporation Emblem"
+  },
+  "75087": {
+    "groupID": 4471,
+    "name": "Caldari Navy Hookbill Corporation Emblem"
+  },
+  "75088": {
+    "groupID": 4471,
+    "name": "Cambion Corporation Emblem"
+  },
+  "75089": {
+    "groupID": 4471,
+    "name": "Caracal Corporation Emblem"
+  },
+  "75090": {
+    "groupID": 4471,
+    "name": "Caracal Navy Issue Corporation Emblem"
+  },
+  "75091": {
+    "groupID": 4471,
+    "name": "Celestis Corporation Emblem"
+  },
+  "75092": {
+    "groupID": 4471,
+    "name": "Cerberus Corporation Emblem"
+  },
+  "75093": {
+    "groupID": 4471,
+    "name": "Chameleon Corporation Emblem"
+  },
+  "75094": {
+    "groupID": 4471,
+    "name": "Cheetah Corporation Emblem"
+  },
+  "75095": {
+    "groupID": 4471,
+    "name": "Chremoas Corporation Emblem"
+  },
+  "75096": {
+    "groupID": 4471,
+    "name": "Claw Corporation Emblem"
+  },
+  "75097": {
+    "groupID": 4471,
+    "name": "Confessor Corporation Emblem"
+  },
+  "75098": {
+    "groupID": 4471,
+    "name": "Covetor Corporation Emblem"
+  },
+  "75099": {
+    "groupID": 4471,
+    "name": "Crane Corporation Emblem"
+  },
+  "75100": {
+    "groupID": 4471,
+    "name": "Crow Corporation Emblem"
+  },
+  "75101": {
+    "groupID": 4471,
+    "name": "Crucifier Navy Issue Corporation Emblem"
+  },
+  "75102": {
+    "groupID": 4471,
+    "name": "Cruor Corporation Emblem"
+  },
+  "75103": {
+    "groupID": 4471,
+    "name": "Crusader Corporation Emblem"
+  },
+  "75104": {
+    "groupID": 4471,
+    "name": "Curse Corporation Emblem"
+  },
+  "75105": {
+    "groupID": 4471,
+    "name": "Cynabal Corporation Emblem"
+  },
+  "75106": {
+    "groupID": 4471,
+    "name": "Damavik Corporation Emblem"
+  },
+  "75107": {
+    "groupID": 4471,
+    "name": "Daredevil Corporation Emblem"
+  },
+  "75108": {
+    "groupID": 4471,
+    "name": "Deacon Corporation Emblem"
+  },
+  "75109": {
+    "groupID": 4471,
+    "name": "Deimos Corporation Emblem"
+  },
+  "75110": {
+    "groupID": 4471,
+    "name": "Devoter Corporation Emblem"
+  },
+  "75111": {
+    "groupID": 4471,
+    "name": "Dominix Corporation Emblem"
+  },
+  "75112": {
+    "groupID": 4471,
+    "name": "Dramiel Corporation Emblem"
+  },
+  "75113": {
+    "groupID": 4471,
+    "name": "Draugur Corporation Emblem"
+  },
+  "75114": {
+    "groupID": 4471,
+    "name": "Eagle Corporation Emblem"
+  },
+  "75115": {
+    "groupID": 4471,
+    "name": "Echelon Corporation Emblem"
+  },
+  "75116": {
+    "groupID": 4471,
+    "name": "Endurance Corporation Emblem"
+  },
+  "75117": {
+    "groupID": 4471,
+    "name": "Enforcer Corporation Emblem"
+  },
+  "75118": {
+    "groupID": 4471,
+    "name": "Enyo Corporation Emblem"
+  },
+  "75119": {
+    "groupID": 4471,
+    "name": "Eris Corporation Emblem"
+  },
+  "75120": {
+    "groupID": 4471,
+    "name": "Etana Corporation Emblem"
+  },
+  "75121": {
+    "groupID": 4471,
+    "name": "Exequror Corporation Emblem"
+  },
+  "75122": {
+    "groupID": 4471,
+    "name": "Exequror Navy Issue Corporation Emblem"
+  },
+  "75123": {
+    "groupID": 4471,
+    "name": "Falcon Corporation Emblem"
+  },
+  "75124": {
+    "groupID": 4471,
+    "name": "Federation Navy Comet Corporation Emblem"
+  },
+  "75125": {
+    "groupID": 4471,
+    "name": "Fiend Corporation Emblem"
+  },
+  "75126": {
+    "groupID": 4471,
+    "name": "Flycatcher Corporation Emblem"
+  },
+  "75127": {
+    "groupID": 4471,
+    "name": "Freki Corporation Emblem"
+  },
+  "75128": {
+    "groupID": 4471,
+    "name": "Garmur Corporation Emblem"
+  },
+  "75129": {
+    "groupID": 4471,
+    "name": "Geri Corporation Emblem"
+  },
+  "75130": {
+    "groupID": 4471,
+    "name": "Gila Corporation Emblem"
+  },
+  "75131": {
+    "groupID": 4471,
+    "name": "Griffin Navy Issue Corporation Emblem"
+  },
+  "75132": {
+    "groupID": 4471,
+    "name": "Guardian Corporation Emblem"
+  },
+  "75133": {
+    "groupID": 4471,
+    "name": "Guardian-Vexor Corporation Emblem"
+  },
+  "75134": {
+    "groupID": 4471,
+    "name": "Harpy Corporation Emblem"
+  },
+  "75135": {
+    "groupID": 4471,
+    "name": "Hawk Corporation Emblem"
+  },
+  "75136": {
+    "groupID": 4471,
+    "name": "Hecate Corporation Emblem"
+  },
+  "75137": {
+    "groupID": 4471,
+    "name": "Helios Corporation Emblem"
+  },
+  "75138": {
+    "groupID": 4471,
+    "name": "Heretic Corporation Emblem"
+  },
+  "75139": {
+    "groupID": 4471,
+    "name": "Hound Corporation Emblem"
+  },
+  "75140": {
+    "groupID": 4471,
+    "name": "Huginn Corporation Emblem"
+  },
+  "75141": {
+    "groupID": 4471,
+    "name": "Hulk Corporation Emblem"
+  },
+  "75142": {
+    "groupID": 4471,
+    "name": "Hydra Corporation Emblem"
+  },
+  "75143": {
+    "groupID": 4471,
+    "name": "Hyena Corporation Emblem"
+  },
+  "75144": {
+    "groupID": 4471,
+    "name": "Ikitursa Corporation Emblem"
+  },
+  "75145": {
+    "groupID": 4471,
+    "name": "Imp Corporation Emblem"
+  },
+  "75146": {
+    "groupID": 4471,
+    "name": "Impel Corporation Emblem"
+  },
+  "75147": {
+    "groupID": 4471,
+    "name": "Imperial Navy Slicer Corporation Emblem"
+  },
+  "75148": {
+    "groupID": 4471,
+    "name": "Ishkur Corporation Emblem"
+  },
+  "75149": {
+    "groupID": 4471,
+    "name": "Ishtar Corporation Emblem"
+  },
+  "75150": {
+    "groupID": 4471,
+    "name": "Jackdaw Corporation Emblem"
+  },
+  "75151": {
+    "groupID": 4471,
+    "name": "Jaguar Corporation Emblem"
+  },
+  "75152": {
+    "groupID": 4471,
+    "name": "Keres Corporation Emblem"
+  },
+  "75153": {
+    "groupID": 4471,
+    "name": "Kikimora Corporation Emblem"
+  },
+  "75154": {
+    "groupID": 4471,
+    "name": "Kirin Corporation Emblem"
+  },
+  "75155": {
+    "groupID": 4471,
+    "name": "Kitsune Corporation Emblem"
+  },
+  "75156": {
+    "groupID": 4471,
+    "name": "Lachesis Corporation Emblem"
+  },
+  "75157": {
+    "groupID": 4471,
+    "name": "Laelaps Corporation Emblem"
+  },
+  "75158": {
+    "groupID": 4471,
+    "name": "Legion Corporation Emblem"
+  },
+  "75159": {
+    "groupID": 4471,
+    "name": "Loki Corporation Emblem"
+  },
+  "75160": {
+    "groupID": 4471,
+    "name": "Mackinaw Corporation Emblem"
+  },
+  "75161": {
+    "groupID": 4471,
+    "name": "Magus Corporation Emblem"
+  },
+  "75162": {
+    "groupID": 4471,
+    "name": "Malediction Corporation Emblem"
+  },
+  "75163": {
+    "groupID": 4471,
+    "name": "Malice Corporation Emblem"
+  },
+  "75164": {
+    "groupID": 4471,
+    "name": "Maller Corporation Emblem"
+  },
+  "75165": {
+    "groupID": 4471,
+    "name": "Manticore Corporation Emblem"
+  },
+  "75166": {
+    "groupID": 4471,
+    "name": "Mastodon Corporation Emblem"
+  },
+  "75167": {
+    "groupID": 4471,
+    "name": "Maulus Navy Issue Corporation Emblem"
+  },
+  "75168": {
+    "groupID": 4471,
+    "name": "Miasmos Amastris Edition Corporation Emblem"
+  },
+  "75169": {
+    "groupID": 4471,
+    "name": "Miasmos Quafe Ultra Edition Corporation Emblem"
+  },
+  "75170": {
+    "groupID": 4471,
+    "name": "Miasmos Quafe Ultramarine Edition Corporation Emblem"
+  },
+  "75171": {
+    "groupID": 4471,
+    "name": "Mimir Corporation Emblem"
+  },
+  "75172": {
+    "groupID": 4471,
+    "name": "Moa Corporation Emblem"
+  },
+  "75173": {
+    "groupID": 4471,
+    "name": "Monitor Corporation Emblem"
+  },
+  "75174": {
+    "groupID": 4471,
+    "name": "Moracha Corporation Emblem"
+  },
+  "75175": {
+    "groupID": 4471,
+    "name": "Muninn Corporation Emblem"
+  },
+  "75176": {
+    "groupID": 4471,
+    "name": "Nemesis Corporation Emblem"
+  },
+  "75177": {
+    "groupID": 4471,
+    "name": "Nergal Corporation Emblem"
+  },
+  "75178": {
+    "groupID": 4471,
+    "name": "Noctis Corporation Emblem"
+  },
+  "75179": {
+    "groupID": 4471,
+    "name": "Occator Corporation Emblem"
+  },
+  "75180": {
+    "groupID": 4471,
+    "name": "Omen Corporation Emblem"
+  },
+  "75181": {
+    "groupID": 4471,
+    "name": "Omen Navy Issue Corporation Emblem"
+  },
+  "75182": {
+    "groupID": 4471,
+    "name": "Oneiros Corporation Emblem"
+  },
+  "75183": {
+    "groupID": 4471,
+    "name": "Onyx Corporation Emblem"
+  },
+  "75184": {
+    "groupID": 4471,
+    "name": "Opux Luxury Yacht Corporation Emblem"
+  },
+  "75185": {
+    "groupID": 4471,
+    "name": "Orca Corporation Emblem"
+  },
+  "75186": {
+    "groupID": 4471,
+    "name": "Orthrus Corporation Emblem"
+  },
+  "75187": {
+    "groupID": 4471,
+    "name": "Osprey Corporation Emblem"
+  },
+  "75188": {
+    "groupID": 4471,
+    "name": "Osprey Navy Issue Corporation Emblem"
+  },
+  "75189": {
+    "groupID": 4471,
+    "name": "Pacifier Corporation Emblem"
+  },
+  "75190": {
+    "groupID": 4471,
+    "name": "Phantasm Corporation Emblem"
+  },
+  "75191": {
+    "groupID": 4471,
+    "name": "Phobos Corporation Emblem"
+  },
+  "75192": {
+    "groupID": 4471,
+    "name": "Pilgrim Corporation Emblem"
+  },
+  "75193": {
+    "groupID": 4471,
+    "name": "Pontifex Corporation Emblem"
+  },
+  "75194": {
+    "groupID": 4471,
+    "name": "Porpoise Corporation Emblem"
+  },
+  "75195": {
+    "groupID": 4471,
+    "name": "Primae Corporation Emblem"
+  },
+  "75196": {
+    "groupID": 4471,
+    "name": "Procurer Corporation Emblem"
+  },
+  "75197": {
+    "groupID": 4471,
+    "name": "Prorator Corporation Emblem"
+  },
+  "75198": {
+    "groupID": 4471,
+    "name": "Prospect Corporation Emblem"
+  },
+  "75199": {
+    "groupID": 4471,
+    "name": "Proteus Corporation Emblem"
+  },
+  "75200": {
+    "groupID": 4471,
+    "name": "Prowler Corporation Emblem"
+  },
+  "75201": {
+    "groupID": 4471,
+    "name": "Purifier Corporation Emblem"
+  },
+  "75202": {
+    "groupID": 4471,
+    "name": "Rabisu Corporation Emblem"
+  },
+  "75203": {
+    "groupID": 4471,
+    "name": "Raiju Corporation Emblem"
+  },
+  "75204": {
+    "groupID": 4471,
+    "name": "Rapier Corporation Emblem"
+  },
+  "75205": {
+    "groupID": 4471,
+    "name": "Raptor Corporation Emblem"
+  },
+  "75206": {
+    "groupID": 4471,
+    "name": "Republic Fleet Firetail Corporation Emblem"
+  },
+  "75207": {
+    "groupID": 4471,
+    "name": "Retribution Corporation Emblem"
+  },
+  "75208": {
+    "groupID": 4471,
+    "name": "Retriever Corporation Emblem"
+  },
+  "75209": {
+    "groupID": 4471,
+    "name": "Rodiva Corporation Emblem"
+  },
+  "75210": {
+    "groupID": 4471,
+    "name": "Rook Corporation Emblem"
+  },
+  "75211": {
+    "groupID": 4471,
+    "name": "Rupture Corporation Emblem"
+  },
+  "75212": {
+    "groupID": 4471,
+    "name": "Sabre Corporation Emblem"
+  },
+  "75213": {
+    "groupID": 4471,
+    "name": "Sacrilege Corporation Emblem"
+  },
+  "75214": {
+    "groupID": 4471,
+    "name": "Scalpel Corporation Emblem"
+  },
+  "75215": {
+    "groupID": 4471,
+    "name": "Scimitar Corporation Emblem"
+  },
+  "75216": {
+    "groupID": 4471,
+    "name": "Scorpion Corporation Emblem"
+  },
+  "75217": {
+    "groupID": 4471,
+    "name": "Scythe Corporation Emblem"
+  },
+  "75218": {
+    "groupID": 4471,
+    "name": "Scythe Fleet Issue Corporation Emblem"
+  },
+  "75219": {
+    "groupID": 4471,
+    "name": "Sentinel Corporation Emblem"
+  },
+  "75220": {
+    "groupID": 4471,
+    "name": "Skiff Corporation Emblem"
+  },
+  "75221": {
+    "groupID": 4471,
+    "name": "Skybreaker Corporation Emblem"
+  },
+  "75222": {
+    "groupID": 4471,
+    "name": "Stabber Corporation Emblem"
+  },
+  "75223": {
+    "groupID": 4471,
+    "name": "Stabber Fleet Issue Corporation Emblem"
+  },
+  "75224": {
+    "groupID": 4471,
+    "name": "Stiletto Corporation Emblem"
+  },
+  "75225": {
+    "groupID": 4471,
+    "name": "Stork Corporation Emblem"
+  },
+  "75226": {
+    "groupID": 4471,
+    "name": "Stormbringer Corporation Emblem"
+  },
+  "75227": {
+    "groupID": 4471,
+    "name": "Stratios Corporation Emblem"
+  },
+  "75228": {
+    "groupID": 4471,
+    "name": "Stratios Emergency Responder Corporation Emblem"
+  },
+  "75229": {
+    "groupID": 4471,
+    "name": "Succubus Corporation Emblem"
+  },
+  "75230": {
+    "groupID": 4471,
+    "name": "Svipul Corporation Emblem"
+  },
+  "75231": {
+    "groupID": 4471,
+    "name": "Taranis Corporation Emblem"
+  },
+  "75232": {
+    "groupID": 4471,
+    "name": "Tengu Corporation Emblem"
+  },
+  "75233": {
+    "groupID": 4471,
+    "name": "Thalia Corporation Emblem"
+  },
+  "75234": {
+    "groupID": 4471,
+    "name": "Thorax Corporation Emblem"
+  },
+  "75235": {
+    "groupID": 4471,
+    "name": "Tiamat Corporation Emblem"
+  },
+  "75236": {
+    "groupID": 4471,
+    "name": "Typhoon Corporation Emblem"
+  },
+  "75237": {
+    "groupID": 4471,
+    "name": "Utu Corporation Emblem"
+  },
+  "75238": {
+    "groupID": 4471,
+    "name": "Vagabond Corporation Emblem"
+  },
+  "75239": {
+    "groupID": 4471,
+    "name": "Vangel Corporation Emblem"
+  },
+  "75240": {
+    "groupID": 4471,
+    "name": "Vedmak Corporation Emblem"
+  },
+  "75241": {
+    "groupID": 4471,
+    "name": "Vengeance Corporation Emblem"
+  },
+  "75242": {
+    "groupID": 4471,
+    "name": "Vexor Corporation Emblem"
+  },
+  "75243": {
+    "groupID": 4471,
+    "name": "Vexor Navy Issue Corporation Emblem"
+  },
+  "75244": {
+    "groupID": 4471,
+    "name": "Viator Corporation Emblem"
+  },
+  "75245": {
+    "groupID": 4471,
+    "name": "Victor Corporation Emblem"
+  },
+  "75246": {
+    "groupID": 4471,
+    "name": "Victorieux Luxury Yacht Corporation Emblem"
+  },
+  "75247": {
+    "groupID": 4471,
+    "name": "Vigil Fleet Issue Corporation Emblem"
+  },
+  "75248": {
+    "groupID": 4471,
+    "name": "Vigilant Corporation Emblem"
+  },
+  "75249": {
+    "groupID": 4471,
+    "name": "Virtuoso Corporation Emblem"
+  },
+  "75250": {
+    "groupID": 4471,
+    "name": "Whiptail Corporation Emblem"
+  },
+  "75251": {
+    "groupID": 4471,
+    "name": "Wolf Corporation Emblem"
+  },
+  "75252": {
+    "groupID": 4471,
+    "name": "Worm Corporation Emblem"
+  },
+  "75253": {
+    "groupID": 4471,
+    "name": "Zarmazd Corporation Emblem"
+  },
+  "75254": {
+    "groupID": 4471,
+    "name": "Zealot Corporation Emblem"
+  },
+  "75255": {
+    "groupID": 4471,
+    "name": "Zephyr Corporation Emblem"
+  },
+  "75256": {
+    "groupID": 4100,
+    "name": "18th Alliance Tournament: TRUTH. HONOUR. LIGHT."
+  },
+  "75274": {
+    "groupID": 1975,
+    "name": "Sansha Winter Station Ruins"
+  },
+  "75275": {
+    "groupID": 4513,
+    "name": "Compressed Mordunium"
+  },
+  "75276": {
+    "groupID": 4513,
+    "name": "Compressed Plum Mordunium"
+  },
+  "75277": {
+    "groupID": 4513,
+    "name": "Compressed Prize Mordunium"
+  },
+  "75278": {
+    "groupID": 4513,
+    "name": "Compressed Plunder Mordunium"
+  },
+  "75279": {
+    "groupID": 4514,
+    "name": "Compressed Ytirium"
+  },
+  "75280": {
+    "groupID": 4514,
+    "name": "Compressed Bootleg Ytirium"
+  },
+  "75281": {
+    "groupID": 4514,
+    "name": "Compressed Firewater Ytirium"
+  },
+  "75282": {
+    "groupID": 4514,
+    "name": "Compressed Moonshine Ytirium"
+  },
+  "75283": {
+    "groupID": 4515,
+    "name": "Compressed Eifyrium"
+  },
+  "75284": {
+    "groupID": 4515,
+    "name": "Compressed Doped Eifyrium"
+  },
+  "75285": {
+    "groupID": 4515,
+    "name": "Compressed Boosted Eifyrium"
+  },
+  "75286": {
+    "groupID": 4515,
+    "name": "Compressed Augmented Eifyrium"
+  },
+  "75287": {
+    "groupID": 4516,
+    "name": "Compressed Ducinium"
+  },
+  "75288": {
+    "groupID": 4516,
+    "name": "Compressed Noble Ducinium"
+  },
+  "75289": {
+    "groupID": 4516,
+    "name": "Compressed Royal Ducinium"
+  },
+  "75290": {
+    "groupID": 4516,
+    "name": "Compressed Imperial Ducinium"
+  },
+  "75292": {
+    "groupID": 227,
+    "name": "Invisible Cloud Amarr HQ System (DO NOT TRANSLATE)"
+  },
+  "75293": {
+    "groupID": 227,
+    "name": "Invisible Cloud Caldari HQ System (DO NOT TRANSLATE)"
+  },
+  "75294": {
+    "groupID": 227,
+    "name": "Invisible Cloud Gallente HQ System (DO NOT TRANSLATE)"
+  },
+  "75295": {
+    "groupID": 227,
+    "name": "Invisible Cloud Minmatar HQ System (DO NOT TRANSLATE)"
+  },
+  "75321": {
+    "groupID": 310,
+    "name": "Asteroid Belt"
+  },
+  "75326": {
+    "groupID": 303,
+    "name": "Basic 'Bonding' Cerebral Accelerator"
+  },
+  "75327": {
+    "groupID": 303,
+    "name": "Potent 'Bonding' Cerebral Accelerator"
+  },
+  "75328": {
+    "groupID": 303,
+    "name": "Extended 'Bonding' Cerebral Accelerator"
+  },
+  "75351": {
+    "groupID": 1169,
+    "name": "Imperial Frigate"
+  },
+  "75352": {
+    "groupID": 1175,
+    "name": "Imperial Destroyer"
+  },
+  "75353": {
+    "groupID": 1179,
+    "name": "Imperial Cruiser"
+  },
+  "75354": {
+    "groupID": 1183,
+    "name": "Imperial Battlecruiser"
+  },
+  "75355": {
+    "groupID": 4431,
+    "name": "Imperial Battleship"
+  },
+  "75356": {
+    "groupID": 1167,
+    "name": "State Frigate"
+  },
+  "75357": {
+    "groupID": 1176,
+    "name": "State Destroyer"
+  },
+  "75358": {
+    "groupID": 1180,
+    "name": "State Cruiser"
+  },
+  "75359": {
+    "groupID": 1184,
+    "name": "State Battlecruiser"
+  },
+  "75360": {
+    "groupID": 4432,
+    "name": "State Battleship"
+  },
+  "75361": {
+    "groupID": 1168,
+    "name": "Federation Frigate"
+  },
+  "75362": {
+    "groupID": 1177,
+    "name": "Federation Destroyer"
+  },
+  "75363": {
+    "groupID": 1181,
+    "name": "Federation Cruiser"
+  },
+  "75364": {
+    "groupID": 1185,
+    "name": "Federation Battlecruiser"
+  },
+  "75365": {
+    "groupID": 4433,
+    "name": "Federation Battleship"
+  },
+  "75366": {
+    "groupID": 1166,
+    "name": "Republic Frigate"
+  },
+  "75367": {
+    "groupID": 1178,
+    "name": "Republic Destroyer"
+  },
+  "75368": {
+    "groupID": 1182,
+    "name": "Republic Cruiser"
+  },
+  "75369": {
+    "groupID": 1186,
+    "name": "Republic Battlecruiser"
+  },
+  "75370": {
+    "groupID": 4434,
+    "name": "Republic Battleship"
+  },
+  "75371": {
+    "groupID": 227,
+    "name": "FW Complex Scout NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75372": {
+    "groupID": 227,
+    "name": "FW Complex Small NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75373": {
+    "groupID": 227,
+    "name": "FW Complex Medium NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75374": {
+    "groupID": 227,
+    "name": "FW Complex Large NVY-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75375": {
+    "groupID": 227,
+    "name": "FW Complex Scout NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75376": {
+    "groupID": 227,
+    "name": "FW Complex Small NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75377": {
+    "groupID": 227,
+    "name": "FW Complex Medium NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75378": {
+    "groupID": 227,
+    "name": "FW Complex Large NVY-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75379": {
+    "groupID": 227,
+    "name": "FW Complex Small ADV-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75380": {
+    "groupID": 227,
+    "name": "FW Complex Medium ADV-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75381": {
+    "groupID": 227,
+    "name": "FW Complex Large ADV-1 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75382": {
+    "groupID": 227,
+    "name": "FW Complex Small ADV-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75383": {
+    "groupID": 227,
+    "name": "FW Complex Medium ADV-5 Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75384": {
+    "groupID": 227,
+    "name": "FW Complex Open Occupier Spawner ( DO NOT TRANSLATE )"
+  },
+  "75385": {
+    "groupID": 227,
+    "name": "FW Complex Scout NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75386": {
+    "groupID": 227,
+    "name": "FW Complex Small NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75387": {
+    "groupID": 227,
+    "name": "FW Complex Medium NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75388": {
+    "groupID": 227,
+    "name": "FW Complex Large NVY-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75389": {
+    "groupID": 227,
+    "name": "FW Complex Scout NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75390": {
+    "groupID": 227,
+    "name": "FW Complex Small NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75391": {
+    "groupID": 227,
+    "name": "FW Complex Medium NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75392": {
+    "groupID": 227,
+    "name": "FW Complex Large NVY-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75393": {
+    "groupID": 227,
+    "name": "FW Complex Small ADV-1 Attacker  Spawner ( DO NOT TRANSLATE )"
+  },
+  "75394": {
+    "groupID": 227,
+    "name": "FW Complex Medium ADV-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75395": {
+    "groupID": 227,
+    "name": "FW Complex Large ADV-1 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75396": {
+    "groupID": 227,
+    "name": "FW Complex Small ADV-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75397": {
+    "groupID": 227,
+    "name": "FW Complex Medium ADV-5 Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75398": {
+    "groupID": 227,
+    "name": "FW Complex Open Attacker Spawner ( DO NOT TRANSLATE )"
+  },
+  "75677": {
+    "groupID": 4107,
+    "name": "QA 'Shady' Mobile Observatory"
+  },
+  "75781": {
+    "groupID": 186,
+    "name": "QA - Shady Wreck"
+  },
+  "75782": {
+    "groupID": 1667,
+    "name": "QA - Shady Vindicator"
+  },
+  "75917": {
+    "groupID": 310,
+    "name": "Scout Navy Military Beacon"
+  },
+  "75918": {
+    "groupID": 310,
+    "name": "Small Navy Military Beacon"
+  },
+  "75919": {
+    "groupID": 310,
+    "name": "Small Advanced Military Beacon"
+  },
+  "75920": {
+    "groupID": 310,
+    "name": "Medium Navy Military Beacon"
+  },
+  "75921": {
+    "groupID": 310,
+    "name": "Medium Advanced Military Beacon"
+  },
+  "75922": {
+    "groupID": 310,
+    "name": "Large Navy Military Beacon"
+  },
+  "75923": {
+    "groupID": 310,
+    "name": "Large Advanced Military Beacon"
+  },
+  "75924": {
+    "groupID": 310,
+    "name": "Open Complex Military Beacon"
+  },
+  "75928": {
+    "groupID": 4547,
+    "name": "Imperial Shipcaster Beacon"
+  },
+  "75929": {
+    "groupID": 4547,
+    "name": "State Shipcaster Beacon"
+  },
+  "75930": {
+    "groupID": 4547,
+    "name": "Federation Shipcaster Beacon"
+  },
+  "75931": {
+    "groupID": 4547,
+    "name": "Republic Shipcaster Beacon"
+  },
+  "75932": {
+    "groupID": 4548,
+    "name": "Imperial Shipcaster Beacon Construction Structure"
+  },
+  "75933": {
+    "groupID": 4548,
+    "name": "State Shipcaster Beacon Construction Structure"
+  },
+  "75934": {
+    "groupID": 4548,
+    "name": "Federation Shipcaster Beacon Construction Structure"
+  },
+  "75935": {
+    "groupID": 4548,
+    "name": "Republic Shipcaster Beacon Construction Structure"
+  },
+  "75984": {
+    "groupID": 226,
+    "name": "QA underConstruction LCO in progress (DO NOT TRANSLATE)"
+  },
+  "75985": {
+    "groupID": 226,
+    "name": "QA underConstruction LCO completed (DO NOT TRANSLATE)"
+  },
+  "75987": {
+    "groupID": 310,
+    "name": "Empire Border Rare Asteroids"
+  },
+  "75988": {
+    "groupID": 310,
+    "name": "W-Space Blue A0 Rare Asteroids"
+  },
+  "75989": {
+    "groupID": 310,
+    "name": "Nullsec Border Rare Asteroids"
+  },
+  "75990": {
+    "groupID": 310,
+    "name": "Nullsec Blue A0 Rare Asteroids"
+  },
+  "75991": {
+    "groupID": 227,
+    "name": "Generic Hacking Dungeon Boombox"
+  },
+  "76001": {
+    "groupID": 1975,
+    "name": "Non-interactable Avatar (do not translate)"
+  },
+  "76002": {
+    "groupID": 1975,
+    "name": "Non-interactable Revelation Navy Issue (do not translate)"
+  },
+  "76003": {
+    "groupID": 1975,
+    "name": "Non-interactable Ark (do not translate)"
+  },
+  "76004": {
+    "groupID": 1975,
+    "name": "Non-interactable Naglfar Fleet Issue (do not translate)"
+  },
+  "76005": {
+    "groupID": 1975,
+    "name": "Non-interactable Ragnarok (do not translate)"
+  },
+  "76006": {
+    "groupID": 1975,
+    "name": "Non-interactable Nomad (do not translate)"
+  },
+  "76016": {
+    "groupID": 1568,
+    "name": "Mercenary Crow"
+  },
+  "76017": {
+    "groupID": 1568,
+    "name": "Mercenary Cheetah"
+  },
+  "76018": {
+    "groupID": 1568,
+    "name": "Mercenary Raptor"
+  },
+  "76019": {
+    "groupID": 1568,
+    "name": "Mercenary Hyena"
+  },
+  "76020": {
+    "groupID": 1568,
+    "name": "Mercenary Wolf"
+  },
+  "76021": {
+    "groupID": 1568,
+    "name": "Mercenary Manticore"
+  },
+  "76022": {
+    "groupID": 1664,
+    "name": "Mercenary Draugur"
+  },
+  "76023": {
+    "groupID": 1665,
+    "name": "Mercenary Rapier"
+  },
+  "76024": {
+    "groupID": 1665,
+    "name": "Mercenary Ikitursa"
+  },
+  "76025": {
+    "groupID": 1666,
+    "name": "Mercenary Tornado"
+  },
+  "76026": {
+    "groupID": 1667,
+    "name": "Mercenary Panther"
+  },
+  "76027": {
+    "groupID": 1568,
+    "name": "Angel Echo"
+  },
+  "76028": {
+    "groupID": 1568,
+    "name": "Angel Probe"
+  },
+  "76029": {
+    "groupID": 1568,
+    "name": "Angel Rifter"
+  },
+  "76030": {
+    "groupID": 1568,
+    "name": "Angel Vigil"
+  },
+  "76031": {
+    "groupID": 1568,
+    "name": "Angel Thrasher"
+  },
+  "76032": {
+    "groupID": 1568,
+    "name": "Angel Hound"
+  },
+  "76033": {
+    "groupID": 1568,
+    "name": "Angel Dramiel"
+  },
+  "76034": {
+    "groupID": 1568,
+    "name": "Angel Stabber"
+  },
+  "76035": {
+    "groupID": 1568,
+    "name": "Angel Cynabal"
+  },
+  "76036": {
+    "groupID": 1568,
+    "name": "Angel Cyclone"
+  },
+  "76037": {
+    "groupID": 1568,
+    "name": "Angel Machariel"
+  },
+  "76038": {
+    "groupID": 1568,
+    "name": "Guristas Taipan"
+  },
+  "76039": {
+    "groupID": 1568,
+    "name": "Guristas Heron"
+  },
+  "76040": {
+    "groupID": 1568,
+    "name": "Guristas Kestrel"
+  },
+  "76041": {
+    "groupID": 1568,
+    "name": "Guristas Griffin"
+  },
+  "76042": {
+    "groupID": 1568,
+    "name": "Guristas Cormorant"
+  },
+  "76043": {
+    "groupID": 1568,
+    "name": "Guristas Manticore"
+  },
+  "76044": {
+    "groupID": 1568,
+    "name": "Guristas Worm"
+  },
+  "76045": {
+    "groupID": 1568,
+    "name": "Guristas Blackbird"
+  },
+  "76046": {
+    "groupID": 1568,
+    "name": "Guristas Gila"
+  },
+  "76047": {
+    "groupID": 1568,
+    "name": "Guristas Drake"
+  },
+  "76048": {
+    "groupID": 1568,
+    "name": "Guristas Rattlesnake"
+  },
+  "76049": {
+    "groupID": 227,
+    "name": "Generic Boombox Without Default Music Trigger"
+  },
+  "76050": {
+    "groupID": 303,
+    "name": "Imperial Damage Booster I"
+  },
+  "76051": {
+    "groupID": 303,
+    "name": "Imperial Damage Booster II"
+  },
+  "76052": {
+    "groupID": 303,
+    "name": "Imperial Damage Booster III"
+  },
+  "76053": {
+    "groupID": 303,
+    "name": "Imperial Damage Booster IV"
+  },
+  "76054": {
+    "groupID": 303,
+    "name": "Imperial Projection Booster I"
+  },
+  "76055": {
+    "groupID": 303,
+    "name": "Imperial Projection Booster II"
+  },
+  "76056": {
+    "groupID": 303,
+    "name": "Imperial Projection Booster III"
+  },
+  "76057": {
+    "groupID": 303,
+    "name": "Imperial Projection Booster IV"
+  },
+  "76058": {
+    "groupID": 303,
+    "name": "Imperial Application Booster I"
+  },
+  "76059": {
+    "groupID": 303,
+    "name": "Imperial Application Booster II"
+  },
+  "76060": {
+    "groupID": 303,
+    "name": "Imperial Application Booster III"
+  },
+  "76061": {
+    "groupID": 303,
+    "name": "Imperial Application Booster IV"
+  },
+  "76062": {
+    "groupID": 303,
+    "name": "Imperial Defense Booster I"
+  },
+  "76063": {
+    "groupID": 303,
+    "name": "Imperial Defense Booster II"
+  },
+  "76064": {
+    "groupID": 303,
+    "name": "Imperial Defense Booster III"
+  },
+  "76065": {
+    "groupID": 303,
+    "name": "Imperial Defense Booster IV"
+  },
+  "76066": {
+    "groupID": 303,
+    "name": "Imperial Electronics Booster I"
+  },
+  "76067": {
+    "groupID": 303,
+    "name": "Imperial Electronics Booster II"
+  },
+  "76068": {
+    "groupID": 303,
+    "name": "Imperial Electronics Booster III"
+  },
+  "76069": {
+    "groupID": 303,
+    "name": "Imperial Electronics Booster IV"
+  },
+  "76070": {
+    "groupID": 303,
+    "name": "Imperial Mobility Booster I"
+  },
+  "76071": {
+    "groupID": 303,
+    "name": "Imperial Mobility Booster II"
+  },
+  "76072": {
+    "groupID": 303,
+    "name": "Imperial Mobility Booster III"
+  },
+  "76073": {
+    "groupID": 303,
+    "name": "Imperial Mobility Booster IV"
+  },
+  "76074": {
+    "groupID": 303,
+    "name": "Republic Damage Booster I"
+  },
+  "76075": {
+    "groupID": 303,
+    "name": "Republic Damage Booster II"
+  },
+  "76076": {
+    "groupID": 303,
+    "name": "Republic Damage Booster III"
+  },
+  "76077": {
+    "groupID": 303,
+    "name": "Republic Damage Booster IV"
+  },
+  "76078": {
+    "groupID": 303,
+    "name": "Republic Projection Booster I"
+  },
+  "76079": {
+    "groupID": 303,
+    "name": "Republic Projection Booster II"
+  },
+  "76080": {
+    "groupID": 303,
+    "name": "Republic Projection Booster III"
+  },
+  "76081": {
+    "groupID": 303,
+    "name": "Republic Projection Booster IV"
+  },
+  "76082": {
+    "groupID": 303,
+    "name": "Republic Application Booster I"
+  },
+  "76083": {
+    "groupID": 303,
+    "name": "Republic Application Booster II"
+  },
+  "76084": {
+    "groupID": 303,
+    "name": "Republic Application Booster III"
+  },
+  "76085": {
+    "groupID": 303,
+    "name": "Republic Application Booster IV"
+  },
+  "76086": {
+    "groupID": 303,
+    "name": "Republic Defense Booster I"
+  },
+  "76087": {
+    "groupID": 303,
+    "name": "Republic Defense Booster II"
+  },
+  "76088": {
+    "groupID": 303,
+    "name": "Republic Defense Booster III"
+  },
+  "76089": {
+    "groupID": 303,
+    "name": "Republic Defense Booster IV"
+  },
+  "76090": {
+    "groupID": 303,
+    "name": "Republic Electronics Booster I"
+  },
+  "76091": {
+    "groupID": 303,
+    "name": "Republic Electronics Booster II"
+  },
+  "76092": {
+    "groupID": 303,
+    "name": "Republic Electronics Booster III"
+  },
+  "76093": {
+    "groupID": 303,
+    "name": "Republic Electronics Booster IV"
+  },
+  "76094": {
+    "groupID": 303,
+    "name": "Republic Mobility Booster I"
+  },
+  "76095": {
+    "groupID": 303,
+    "name": "Republic Mobility Booster II"
+  },
+  "76096": {
+    "groupID": 303,
+    "name": "Republic Mobility Booster III"
+  },
+  "76097": {
+    "groupID": 303,
+    "name": "Republic Mobility Booster IV"
+  },
+  "76098": {
+    "groupID": 303,
+    "name": "State Damage Booster I"
+  },
+  "76099": {
+    "groupID": 303,
+    "name": "State Damage Booster II"
+  },
+  "76100": {
+    "groupID": 303,
+    "name": "State Damage Booster III"
+  },
+  "76101": {
+    "groupID": 303,
+    "name": "State Damage Booster IV"
+  },
+  "76102": {
+    "groupID": 303,
+    "name": "State Projection Booster I"
+  },
+  "76103": {
+    "groupID": 303,
+    "name": "State Projection Booster II"
+  },
+  "76104": {
+    "groupID": 303,
+    "name": "State Projection Booster III"
+  },
+  "76105": {
+    "groupID": 303,
+    "name": "State Projection Booster IV"
+  },
+  "76106": {
+    "groupID": 303,
+    "name": "State Application Booster I"
+  },
+  "76107": {
+    "groupID": 303,
+    "name": "State Application Booster II"
+  },
+  "76108": {
+    "groupID": 303,
+    "name": "State Application Booster III"
+  },
+  "76109": {
+    "groupID": 303,
+    "name": "State Application Booster IV"
+  },
+  "76110": {
+    "groupID": 303,
+    "name": "State Defense Booster I"
+  },
+  "76111": {
+    "groupID": 303,
+    "name": "State Defense Booster II"
+  },
+  "76112": {
+    "groupID": 303,
+    "name": "State Defense Booster III"
+  },
+  "76113": {
+    "groupID": 303,
+    "name": "State Defense Booster IV"
+  },
+  "76114": {
+    "groupID": 303,
+    "name": "State Electronics Booster I"
+  },
+  "76115": {
+    "groupID": 303,
+    "name": "State Electronics Booster II"
+  },
+  "76116": {
+    "groupID": 303,
+    "name": "State Electronics Booster III"
+  },
+  "76117": {
+    "groupID": 303,
+    "name": "State Electronics Booster IV"
+  },
+  "76118": {
+    "groupID": 303,
+    "name": "State Mobility Booster I"
+  },
+  "76119": {
+    "groupID": 303,
+    "name": "State Mobility Booster II"
+  },
+  "76120": {
+    "groupID": 303,
+    "name": "State Mobility Booster III"
+  },
+  "76121": {
+    "groupID": 303,
+    "name": "State Mobility Booster IV"
+  },
+  "76122": {
+    "groupID": 303,
+    "name": "Federation Damage Booster I"
+  },
+  "76123": {
+    "groupID": 303,
+    "name": "Federation Damage Booster II"
+  },
+  "76124": {
+    "groupID": 303,
+    "name": "Federation Damage Booster III"
+  },
+  "76125": {
+    "groupID": 303,
+    "name": "Federation Damage Booster IV"
+  },
+  "76126": {
+    "groupID": 303,
+    "name": "Federation Projection Booster I"
+  },
+  "76127": {
+    "groupID": 303,
+    "name": "Federation Projection Booster II"
+  },
+  "76128": {
+    "groupID": 303,
+    "name": "Federation Projection Booster III"
+  },
+  "76129": {
+    "groupID": 303,
+    "name": "Federation Projection Booster IV"
+  },
+  "76130": {
+    "groupID": 303,
+    "name": "Federation Application Booster I"
+  },
+  "76131": {
+    "groupID": 303,
+    "name": "Federation Application Booster II"
+  },
+  "76132": {
+    "groupID": 303,
+    "name": "Federation Application Booster III"
+  },
+  "76133": {
+    "groupID": 303,
+    "name": "Federation Application Booster IV"
+  },
+  "76134": {
+    "groupID": 303,
+    "name": "Federation Defense Booster I"
+  },
+  "76135": {
+    "groupID": 303,
+    "name": "Federation Defense Booster II"
+  },
+  "76136": {
+    "groupID": 303,
+    "name": "Federation Defense Booster III"
+  },
+  "76137": {
+    "groupID": 303,
+    "name": "Federation Defense Booster IV"
+  },
+  "76138": {
+    "groupID": 303,
+    "name": "Federation Electronics Booster I"
+  },
+  "76139": {
+    "groupID": 303,
+    "name": "Federation Electronics Booster II"
+  },
+  "76140": {
+    "groupID": 303,
+    "name": "Federation Electronics Booster III"
+  },
+  "76141": {
+    "groupID": 303,
+    "name": "Federation Electronics Booster IV"
+  },
+  "76142": {
+    "groupID": 303,
+    "name": "Federation Mobility Booster I"
+  },
+  "76143": {
+    "groupID": 303,
+    "name": "Federation Mobility Booster II"
+  },
+  "76144": {
+    "groupID": 303,
+    "name": "Federation Mobility Booster III"
+  },
+  "76145": {
+    "groupID": 303,
+    "name": "Federation Mobility Booster IV"
+  },
+  "76147": {
+    "groupID": 227,
+    "name": "Generic Mining Boombox"
+  },
+  "76149": {
+    "groupID": 227,
+    "name": "Generic Combat Boombox"
+  },
+  "76161": {
+    "groupID": 227,
+    "name": "Generic Exploration Boombox"
+  },
+  "76179": {
+    "groupID": 306,
+    "name": "Imperial Research Com Tower"
+  },
+  "76180": {
+    "groupID": 306,
+    "name": "Imperial Research Mainframe"
+  },
+  "76181": {
+    "groupID": 306,
+    "name": "Imperial Research Databank"
+  },
+  "76182": {
+    "groupID": 306,
+    "name": "State Research Com Tower"
+  },
+  "76183": {
+    "groupID": 306,
+    "name": "State Research Mainframe"
+  },
+  "76184": {
+    "groupID": 306,
+    "name": "State Research Databank"
+  },
+  "76185": {
+    "groupID": 306,
+    "name": "Federation Research Com Tower"
+  },
+  "76186": {
+    "groupID": 306,
+    "name": "Federation Research Mainframe"
+  },
+  "76187": {
+    "groupID": 306,
+    "name": "Federation Research Databank"
+  },
+  "76188": {
+    "groupID": 306,
+    "name": "Republic Research Com Tower"
+  },
+  "76189": {
+    "groupID": 306,
+    "name": "Republic Research Mainframe"
+  },
+  "76190": {
+    "groupID": 306,
+    "name": "Republic Research Databank"
+  },
+  "76191": {
+    "groupID": 306,
+    "name": "Amarr Classified Courier Wreck"
+  },
+  "76192": {
+    "groupID": 306,
+    "name": "Caldari Classified Courier Wreck"
+  },
+  "76193": {
+    "groupID": 306,
+    "name": "Gallente Classified Courier Wreck"
+  },
+  "76194": {
+    "groupID": 306,
+    "name": "Minmatar Classified Courier Wreck"
+  },
+  "76195": {
+    "groupID": 494,
+    "name": "Reinforced Amarr Research Lab"
+  },
+  "76196": {
+    "groupID": 494,
+    "name": "Vulnerable Amarr Research Lab"
+  },
+  "76197": {
+    "groupID": 494,
+    "name": "Reinforced Caldari Research Lab"
+  },
+  "76198": {
+    "groupID": 494,
+    "name": "Vulnerable Caldari Research Lab"
+  },
+  "76199": {
+    "groupID": 494,
+    "name": "Reinforced Gallente Research Lab"
+  },
+  "76200": {
+    "groupID": 494,
+    "name": "Vulnerable Gallente Research Lab"
+  },
+  "76201": {
+    "groupID": 494,
+    "name": "Reinforced Minmatar Research Lab"
+  },
+  "76202": {
+    "groupID": 494,
+    "name": "Vulnerable Minmatar Research Lab"
+  },
+  "76203": {
+    "groupID": 314,
+    "name": "Stellar Transmuter Datacore"
+  },
+  "76204": {
+    "groupID": 314,
+    "name": "Transport Relay Datacore"
+  },
+  "76205": {
+    "groupID": 356,
+    "name": "Stellar Transmuter Datacore Blueprint"
+  },
+  "76206": {
+    "groupID": 356,
+    "name": "Transport Relay Datacore Blueprint"
+  },
+  "76207": {
+    "groupID": 314,
+    "name": "Stellar Transmuter Research Index File"
+  },
+  "76208": {
+    "groupID": 314,
+    "name": "Stellar Transmuter Research Data Fragment"
+  },
+  "76209": {
+    "groupID": 314,
+    "name": "Stellar Transmuter Research Encryption Key"
+  },
+  "76210": {
+    "groupID": 314,
+    "name": "Transport Relay Research Index File"
+  },
+  "76211": {
+    "groupID": 314,
+    "name": "Transport Relay Research Data Fragment"
+  },
+  "76212": {
+    "groupID": 314,
+    "name": "Transport Relay Research Encryption Key"
+  },
+  "76214": {
+    "groupID": 1194,
+    "name": "Imperial Shadow War Reward Crate"
+  },
+  "76215": {
+    "groupID": 1194,
+    "name": "State Shadow War Reward Crate"
+  },
+  "76216": {
+    "groupID": 1194,
+    "name": "Federation Shadow War Reward Crate"
+  },
+  "76217": {
+    "groupID": 1194,
+    "name": "Republic Shadow War Reward Crate"
+  },
+  "76218": {
+    "groupID": 226,
+    "name": "Amarr Component Deposit Yard"
+  },
+  "76219": {
+    "groupID": 226,
+    "name": "Caldari Component Deposit Yard"
+  },
+  "76220": {
+    "groupID": 226,
+    "name": "Gallente Component Deposit Yard"
+  },
+  "76221": {
+    "groupID": 226,
+    "name": "Minmatar Component Deposit Yard"
+  },
+  "76223": {
+    "groupID": 310,
+    "name": "Imperial Research Data Node"
+  },
+  "76224": {
+    "groupID": 310,
+    "name": "State Research Data Node"
+  },
+  "76225": {
+    "groupID": 310,
+    "name": "Federation Research Data Node"
+  },
+  "76226": {
+    "groupID": 310,
+    "name": "Republic Research Data Node"
+  },
+  "76227": {
+    "groupID": 310,
+    "name": "Waylaid Imperial Couriers"
+  },
+  "76228": {
+    "groupID": 310,
+    "name": "Waylaid State Couriers"
+  },
+  "76229": {
+    "groupID": 310,
+    "name": "Waylaid Federation Couriers"
+  },
+  "76230": {
+    "groupID": 310,
+    "name": "Waylaid Republic Couriers"
+  },
+  "76231": {
+    "groupID": 310,
+    "name": "Besieged Imperial Laboratory"
+  },
+  "76232": {
+    "groupID": 310,
+    "name": "Besieged State Laboratory"
+  },
+  "76233": {
+    "groupID": 310,
+    "name": "Besieged Federation Laboratory"
+  },
+  "76234": {
+    "groupID": 310,
+    "name": "Besieged Republic Laboratory"
+  },
+  "76251": {
+    "groupID": 1975,
+    "name": "Partially-constructed Stellar Transmuter"
+  },
+  "76252": {
+    "groupID": 1975,
+    "name": "Partially-constructed Stellar Transmuter"
+  },
+  "76253": {
+    "groupID": 1975,
+    "name": "Partially-constructed Interstellar Shipcaster"
+  },
+  "76254": {
+    "groupID": 227,
+    "name": "SW Data Node Merc Spawner 1 (Do not translate)"
+  },
+  "76255": {
+    "groupID": 227,
+    "name": "SW Data Node Merc Spawner 2 (Do not translate)"
+  },
+  "76256": {
+    "groupID": 1568,
+    "name": "Mercenary Crow"
+  },
+  "76257": {
+    "groupID": 1568,
+    "name": "Mercenary Crow"
+  },
+  "76258": {
+    "groupID": 1568,
+    "name": "Mercenary Crow"
+  },
+  "76260": {
+    "groupID": 226,
+    "name": "Guarded Amarr Classified Courier Wreck"
+  },
+  "76261": {
+    "groupID": 1975,
+    "name": "Shadow War Music"
+  },
+  "76262": {
+    "groupID": 1975,
+    "name": "music_hq_amarr_stellar_harvester"
+  },
+  "76263": {
+    "groupID": 1975,
+    "name": "music_hq_caldari_stellar_harvester"
+  },
+  "76264": {
+    "groupID": 1975,
+    "name": "music_hq_gallente_stellar_harvester"
+  },
+  "76265": {
+    "groupID": 1975,
+    "name": "music_hq_minmatar_stellar_harvester"
+  },
+  "76266": {
+    "groupID": 1975,
+    "name": "music_hq_amarr_station"
+  },
+  "76267": {
+    "groupID": 1975,
+    "name": "music_hq_caldari_station"
+  },
+  "76268": {
+    "groupID": 1975,
+    "name": "music_hq_gallente_station"
+  },
+  "76269": {
+    "groupID": 1975,
+    "name": "music_hq_minmatar_station"
+  },
+  "76270": {
+    "groupID": 1975,
+    "name": "music_hq_amarr_shipcaster"
+  },
+  "76271": {
+    "groupID": 1975,
+    "name": "music_hq_caldari_shipcaster"
+  },
+  "76272": {
+    "groupID": 1975,
+    "name": "music_hq_gallente_shipcaster"
+  },
+  "76273": {
+    "groupID": 1975,
+    "name": "music_hq_minmatar_shipcaster"
+  },
+  "76274": {
+    "groupID": 1975,
+    "name": "music_hq_amarr_play"
+  },
+  "76275": {
+    "groupID": 1975,
+    "name": "music_hq_caldari_play"
+  },
+  "76276": {
+    "groupID": 1975,
+    "name": "music_hq_gallente_play"
+  },
+  "76277": {
+    "groupID": 1975,
+    "name": "music_hq_minmatar_play"
+  },
+  "76279": {
+    "groupID": 1975,
+    "name": "Non-interactable Mammoth (Do not translate)"
+  },
+  "76295": {
+    "groupID": 1975,
+    "name": "Non-Interactable Empty Amarr Component Yard (Do not translate)"
+  },
+  "76296": {
+    "groupID": 1975,
+    "name": "Non-Interactable Partial Amarr Component Yard (Do not translate)"
+  },
+  "76297": {
+    "groupID": 1975,
+    "name": "Non-Interactable Full Amarr Component Yard (Do not translate)"
+  },
+  "76298": {
+    "groupID": 1975,
+    "name": "Non-Interactable Empty Caldari Component Yard (Do not translate)"
+  },
+  "76299": {
+    "groupID": 1975,
+    "name": "Non-Interactable Partial Caldari Component Yard (Do not translate)"
+  },
+  "76300": {
+    "groupID": 1975,
+    "name": "Non-Interactable Full Caldari Component Yard (Do not translate)"
+  },
+  "76301": {
+    "groupID": 1975,
+    "name": "Non-Interactable Empty Gallente Component Yard (Do not translate)"
+  },
+  "76302": {
+    "groupID": 1975,
+    "name": "Non-Interactable Partial Gallente Component Yard (Do not translate)"
+  },
+  "76303": {
+    "groupID": 1975,
+    "name": "Non-Interactable Full Gallente Component Yard (Do not translate)"
+  },
+  "76304": {
+    "groupID": 1975,
+    "name": "Non-Interactable Empty Minmatar Component Yard (Do not translate)"
+  },
+  "76305": {
+    "groupID": 1975,
+    "name": "Non-Interactable Partial Minmatar Component Yard (Do not translate)"
+  },
+  "76306": {
+    "groupID": 1975,
+    "name": "Non-Interactable Full Minmatar Component Yard (Do not translate)"
+  },
+  "76307": {
+    "groupID": 227,
+    "name": "Generic Fallback Boombox"
+  },
+  "76312": {
+    "groupID": 227,
+    "name": "Generic Agent Boombox"
+  },
+  "76314": {
+    "groupID": 1975,
+    "name": "Non-interactable Amarr Research Station Ruins (Do Not Translate)"
+  },
+  "76315": {
+    "groupID": 1975,
+    "name": "Non-interactable Caldari Station Ruins - Hook Shaped (Do Not Translate)"
+  },
+  "76316": {
+    "groupID": 1975,
+    "name": "Non-interactable Gallente Industrial Station Ruins (Do Not Translate)"
+  },
+  "76317": {
+    "groupID": 1975,
+    "name": "Non-interactable Minmatar Research Station Ruins (Do Not Translate)"
+  },
+  "76318": {
+    "groupID": 226,
+    "name": "Guarded Caldari Classified Courier Wreck"
+  },
+  "76319": {
+    "groupID": 226,
+    "name": "Guarded Gallente Classified Courier Wreck"
+  },
+  "76320": {
+    "groupID": 226,
+    "name": "Guarded Minmatar Classified Courier Wreck"
+  },
+  "76321": {
+    "groupID": 226,
+    "name": "State Stellar Transmuter Research Laboratory"
+  },
+  "76322": {
+    "groupID": 226,
+    "name": "Federation Transport Relay Research Laboratory"
+  },
+  "76323": {
+    "groupID": 226,
+    "name": "Imperial Transport Relay Research Laboratory"
+  },
+  "76324": {
+    "groupID": 226,
+    "name": "Republic Transport Relay Research Laboratory"
+  },
+  "76325": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor S01a_0"
+  },
+  "76326": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor S01a_1"
+  },
+  "76327": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor S01a_2"
+  },
+  "76328": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor S01a_3"
+  },
+  "76329": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor S01a_4"
+  },
+  "76330": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor S01a_5"
+  },
+  "76331": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor M01a_0"
+  },
+  "76332": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor M01a_1"
+  },
+  "76333": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor M01a_2"
+  },
+  "76334": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor M01a_3"
+  },
+  "76335": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor M01a_4"
+  },
+  "76336": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor M01a_5"
+  },
+  "76338": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor S01a_0"
+  },
+  "76339": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor S01a_1"
+  },
+  "76340": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor S01a_2"
+  },
+  "76341": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor S01a_3"
+  },
+  "76342": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor S01a_4"
+  },
+  "76343": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor S01a_5"
+  },
+  "76344": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor M01a_0"
+  },
+  "76345": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor M01a_1"
+  },
+  "76346": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor M01a_2"
+  },
+  "76347": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor M01a_3"
+  },
+  "76348": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor M01a_4"
+  },
+  "76349": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor M01a_5"
+  },
+  "76350": {
+    "groupID": 1975,
+    "name": "Interstellar Shipcaster Neutral Base"
+  },
+  "76359": {
+    "groupID": 1975,
+    "name": "Non-Interactable Generic Stellar Transmuter Base (Do not translate)"
+  },
+  "76373": {
+    "groupID": 4030,
+    "name": "Nesosilicate Rakovene"
+  },
+  "76374": {
+    "groupID": 18,
+    "name": "Neo-Jadarite"
+  },
+  "76375": {
+    "groupID": 334,
+    "name": "Mutadaptive Construction Component"
+  },
+  "76376": {
+    "groupID": 447,
+    "name": "Mutadaptive Construction Component Blueprint"
+  },
+  "76378": {
+    "groupID": 1975,
+    "name": "Non-interactable Caldari Navy Station Wreck 4 (Do Not Translate)"
+  },
+  "76398": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor L01a_0"
+  },
+  "76399": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor L01a_1"
+  },
+  "76400": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor L01a_2"
+  },
+  "76401": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor L01a_3"
+  },
+  "76402": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor L01a_4"
+  },
+  "76403": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor L01a_5"
+  },
+  "76404": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor XL01a_0"
+  },
+  "76405": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor XL01a_1"
+  },
+  "76406": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor XL01a_2"
+  },
+  "76407": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor XL01a_3"
+  },
+  "76408": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor XL01a_4"
+  },
+  "76409": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Harbor XL01a_5"
+  },
+  "76411": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor L01a_0"
+  },
+  "76412": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor L01a_1"
+  },
+  "76413": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor L01a_2"
+  },
+  "76414": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor L01a_3"
+  },
+  "76416": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor L01a_4"
+  },
+  "76417": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor L01a_5"
+  },
+  "76418": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor XL01a_0"
+  },
+  "76419": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor XL01a_1"
+  },
+  "76420": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor XL01a_2"
+  },
+  "76421": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor XL01a_3"
+  },
+  "76422": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor XL01a_4"
+  },
+  "76423": {
+    "groupID": 1975,
+    "name": "Amarr Navy Harbor XL01a_5"
+  },
+  "76429": {
+    "groupID": 1975,
+    "name": "Amarr Navy Station State Large"
+  },
+  "76430": {
+    "groupID": 1975,
+    "name": "Amarr Imperial Station State Large"
+  },
+  "76431": {
+    "groupID": 1975,
+    "name": "Caldari State Station State Large"
+  },
+  "76432": {
+    "groupID": 1975,
+    "name": "Caldari Navy Station State Large"
+  },
+  "76433": {
+    "groupID": 1975,
+    "name": "Gallente Navy Station State Large"
+  },
+  "76434": {
+    "groupID": 1975,
+    "name": "Gallente Innerzone Station State Large"
+  },
+  "76435": {
+    "groupID": 1975,
+    "name": "Gallente Creodron Station State Large"
+  },
+  "76436": {
+    "groupID": 1975,
+    "name": "Minmatar Navy Station State Large"
+  },
+  "76438": {
+    "groupID": 186,
+    "name": "Amarr Shipcaster Beacon Wreck"
+  },
+  "76453": {
+    "groupID": 1975,
+    "name": "Amarr Navy Station 01"
+  },
+  "76454": {
+    "groupID": 1975,
+    "name": "Amarr Navy Station 03"
+  },
+  "76455": {
+    "groupID": 1975,
+    "name": "Amarr Navy Station 07"
+  },
+  "76456": {
+    "groupID": 1975,
+    "name": "Amarr Navy Station 08"
+  },
+  "76457": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Station 02"
+  },
+  "76458": {
+    "groupID": 1975,
+    "name": "Minmatar Fleet Station 07"
+  },
+  "76465": {
+    "groupID": 4549,
+    "name": "Imperial Shipcaster"
+  },
+  "76466": {
+    "groupID": 4549,
+    "name": "State Shipcaster"
+  },
+  "76467": {
+    "groupID": 4549,
+    "name": "Federation Shipcaster"
+  },
+  "76468": {
+    "groupID": 4549,
+    "name": "Republic Shipcaster"
+  },
+  "76483": {
+    "groupID": 1975,
+    "name": "Amarr Military Station Ruins"
+  },
+  "76717": {
+    "groupID": 4471,
+    "name": "Abaddon Alliance Emblem"
+  },
+  "76718": {
+    "groupID": 4471,
+    "name": "Absolution Alliance Emblem"
+  },
+  "76719": {
+    "groupID": 4471,
+    "name": "Aeon Alliance Emblem"
+  },
+  "76720": {
+    "groupID": 4471,
+    "name": "Anshar Alliance Emblem"
+  },
+  "76721": {
+    "groupID": 4471,
+    "name": "Apocalypse Alliance Emblem"
+  },
+  "76722": {
+    "groupID": 4471,
+    "name": "Apocalypse Imperial Issue Alliance Emblem"
+  },
+  "76723": {
+    "groupID": 4471,
+    "name": "Apocalypse Navy Issue Alliance Emblem"
+  },
+  "76724": {
+    "groupID": 4471,
+    "name": "Apostle Alliance Emblem"
+  },
+  "76725": {
+    "groupID": 4471,
+    "name": "Archon Alliance Emblem"
+  },
+  "76726": {
+    "groupID": 4471,
+    "name": "Ark Alliance Emblem"
+  },
+  "76727": {
+    "groupID": 4471,
+    "name": "Armageddon Imperial Issue Alliance Emblem"
+  },
+  "76728": {
+    "groupID": 4471,
+    "name": "Armageddon Navy Issue Alliance Emblem"
+  },
+  "76729": {
+    "groupID": 4471,
+    "name": "Astarte Alliance Emblem"
+  },
+  "76730": {
+    "groupID": 4471,
+    "name": "Avatar Alliance Emblem"
+  },
+  "76731": {
+    "groupID": 4471,
+    "name": "Barghest Alliance Emblem"
+  },
+  "76732": {
+    "groupID": 4471,
+    "name": "Bhaalgorn Alliance Emblem"
+  },
+  "76733": {
+    "groupID": 4471,
+    "name": "Bowhead Alliance Emblem"
+  },
+  "76734": {
+    "groupID": 4471,
+    "name": "Brutix Navy Issue Alliance Emblem"
+  },
+  "76735": {
+    "groupID": 4471,
+    "name": "Caiman Alliance Emblem"
+  },
+  "76736": {
+    "groupID": 4471,
+    "name": "Chemosh Alliance Emblem"
+  },
+  "76737": {
+    "groupID": 4471,
+    "name": "Chimera Alliance Emblem"
+  },
+  "76738": {
+    "groupID": 4471,
+    "name": "Claymore Alliance Emblem"
+  },
+  "76739": {
+    "groupID": 4471,
+    "name": "Dagon Alliance Emblem"
+  },
+  "76740": {
+    "groupID": 4471,
+    "name": "Damnation Alliance Emblem"
+  },
+  "76741": {
+    "groupID": 4471,
+    "name": "Dominix Navy Issue Alliance Emblem"
+  },
+  "76742": {
+    "groupID": 4471,
+    "name": "Drake Navy Issue Alliance Emblem"
+  },
+  "76743": {
+    "groupID": 4471,
+    "name": "Drekavac Alliance Emblem"
+  },
+  "76744": {
+    "groupID": 4471,
+    "name": "Eos Alliance Emblem"
+  },
+  "76745": {
+    "groupID": 4471,
+    "name": "Erebus Alliance Emblem"
+  },
+  "76746": {
+    "groupID": 4471,
+    "name": "Golem Alliance Emblem"
+  },
+  "76747": {
+    "groupID": 4471,
+    "name": "Harbinger Navy Issue Alliance Emblem"
+  },
+  "76748": {
+    "groupID": 4471,
+    "name": "Hel Alliance Emblem"
+  },
+  "76749": {
+    "groupID": 4471,
+    "name": "Hurricane Fleet Issue Alliance Emblem"
+  },
+  "76750": {
+    "groupID": 4471,
+    "name": "Hyperion Alliance Emblem"
+  },
+  "76751": {
+    "groupID": 4471,
+    "name": "Komodo Alliance Emblem"
+  },
+  "76752": {
+    "groupID": 4471,
+    "name": "Kronos Alliance Emblem"
+  },
+  "76753": {
+    "groupID": 4471,
+    "name": "Leshak Alliance Emblem"
+  },
+  "76754": {
+    "groupID": 4471,
+    "name": "Leviathan Alliance Emblem"
+  },
+  "76755": {
+    "groupID": 4471,
+    "name": "Lif Alliance Emblem"
+  },
+  "76756": {
+    "groupID": 4471,
+    "name": "Loggerhead Alliance Emblem"
+  },
+  "76757": {
+    "groupID": 4471,
+    "name": "Machariel Alliance Emblem"
+  },
+  "76758": {
+    "groupID": 4471,
+    "name": "Maelstrom Alliance Emblem"
+  },
+  "76759": {
+    "groupID": 4471,
+    "name": "Marshal Alliance Emblem"
+  },
+  "76760": {
+    "groupID": 4471,
+    "name": "Megathron Alliance Emblem"
+  },
+  "76761": {
+    "groupID": 4471,
+    "name": "Megathron Federate Issue Alliance Emblem"
+  },
+  "76762": {
+    "groupID": 4471,
+    "name": "Megathron Navy Issue Alliance Emblem"
+  },
+  "76763": {
+    "groupID": 4471,
+    "name": "Minokawa Alliance Emblem"
+  },
+  "76764": {
+    "groupID": 4471,
+    "name": "Molok Alliance Emblem"
+  },
+  "76765": {
+    "groupID": 4471,
+    "name": "Nestor Alliance Emblem"
+  },
+  "76766": {
+    "groupID": 4471,
+    "name": "Nidhoggur Alliance Emblem"
+  },
+  "76767": {
+    "groupID": 4471,
+    "name": "Nighthawk Alliance Emblem"
+  },
+  "76768": {
+    "groupID": 4471,
+    "name": "Nightmare Alliance Emblem"
+  },
+  "76769": {
+    "groupID": 4471,
+    "name": "Ninazu Alliance Emblem"
+  },
+  "76770": {
+    "groupID": 4471,
+    "name": "Nomad Alliance Emblem"
+  },
+  "76771": {
+    "groupID": 4471,
+    "name": "Nyx Alliance Emblem"
+  },
+  "76772": {
+    "groupID": 4471,
+    "name": "Paladin Alliance Emblem"
+  },
+  "76773": {
+    "groupID": 4471,
+    "name": "Panther Alliance Emblem"
+  },
+  "76774": {
+    "groupID": 4471,
+    "name": "Praxis Alliance Emblem"
+  },
+  "76775": {
+    "groupID": 4471,
+    "name": "Ragnarok Alliance Emblem"
+  },
+  "76776": {
+    "groupID": 4471,
+    "name": "Rattlesnake Alliance Emblem"
+  },
+  "76777": {
+    "groupID": 4471,
+    "name": "Raven Alliance Emblem"
+  },
+  "76778": {
+    "groupID": 4471,
+    "name": "Raven Navy Issue Alliance Emblem"
+  },
+  "76779": {
+    "groupID": 4471,
+    "name": "Raven State Issue Alliance Emblem"
+  },
+  "76780": {
+    "groupID": 4471,
+    "name": "Redeemer Alliance Emblem"
+  },
+  "76781": {
+    "groupID": 4471,
+    "name": "Revenant Alliance Emblem"
+  },
+  "76782": {
+    "groupID": 4471,
+    "name": "Rhea Alliance Emblem"
+  },
+  "76783": {
+    "groupID": 4471,
+    "name": "Rokh Alliance Emblem"
+  },
+  "76784": {
+    "groupID": 4471,
+    "name": "Rorqual Alliance Emblem"
+  },
+  "76785": {
+    "groupID": 4471,
+    "name": "Scorpion Navy Issue Alliance Emblem"
+  },
+  "76786": {
+    "groupID": 4471,
+    "name": "Sin Alliance Emblem"
+  },
+  "76787": {
+    "groupID": 4471,
+    "name": "Sleipnir Alliance Emblem"
+  },
+  "76788": {
+    "groupID": 4471,
+    "name": "Tempest Alliance Emblem"
+  },
+  "76789": {
+    "groupID": 4471,
+    "name": "Tempest Fleet Issue Alliance Emblem"
+  },
+  "76790": {
+    "groupID": 4471,
+    "name": "Tempest Tribal Issue Alliance Emblem"
+  },
+  "76791": {
+    "groupID": 4471,
+    "name": "Thanatos Alliance Emblem"
+  },
+  "76792": {
+    "groupID": 4471,
+    "name": "Thunderchild Alliance Emblem"
+  },
+  "76793": {
+    "groupID": 4471,
+    "name": "Typhoon Fleet Issue Alliance Emblem"
+  },
+  "76794": {
+    "groupID": 4471,
+    "name": "Vanquisher Alliance Emblem"
+  },
+  "76795": {
+    "groupID": 4471,
+    "name": "Vargur Alliance Emblem"
+  },
+  "76796": {
+    "groupID": 4471,
+    "name": "Vendetta Alliance Emblem"
+  },
+  "76797": {
+    "groupID": 4471,
+    "name": "Vindicator Alliance Emblem"
+  },
+  "76798": {
+    "groupID": 4471,
+    "name": "Vulture Alliance Emblem"
+  },
+  "76799": {
+    "groupID": 4471,
+    "name": "Widow Alliance Emblem"
+  },
+  "76800": {
+    "groupID": 4471,
+    "name": "Wyvern Alliance Emblem"
+  },
+  "76801": {
+    "groupID": 4471,
+    "name": "Abaddon Corporation Emblem"
+  },
+  "76802": {
+    "groupID": 4471,
+    "name": "Absolution Corporation Emblem"
+  },
+  "76803": {
+    "groupID": 4471,
+    "name": "Aeon Corporation Emblem"
+  },
+  "76804": {
+    "groupID": 4471,
+    "name": "Anshar Corporation Emblem"
+  },
+  "76805": {
+    "groupID": 4471,
+    "name": "Apocalypse Corporation Emblem"
+  },
+  "76806": {
+    "groupID": 4471,
+    "name": "Apocalypse Imperial Issue Corporation Emblem"
+  },
+  "76807": {
+    "groupID": 4471,
+    "name": "Apocalypse Navy Issue Corporation Emblem"
+  },
+  "76808": {
+    "groupID": 4471,
+    "name": "Apostle Corporation Emblem"
+  },
+  "76809": {
+    "groupID": 4471,
+    "name": "Archon Corporation Emblem"
+  },
+  "76810": {
+    "groupID": 4471,
+    "name": "Ark Corporation Emblem"
+  },
+  "76811": {
+    "groupID": 4471,
+    "name": "Armageddon Imperial Issue Corporation Emblem"
+  },
+  "76812": {
+    "groupID": 4471,
+    "name": "Armageddon Navy Issue Corporation Emblem"
+  },
+  "76813": {
+    "groupID": 4471,
+    "name": "Astarte Corporation Emblem"
+  },
+  "76814": {
+    "groupID": 4471,
+    "name": "Avatar Corporation Emblem"
+  },
+  "76815": {
+    "groupID": 4471,
+    "name": "Barghest Corporation Emblem"
+  },
+  "76816": {
+    "groupID": 4471,
+    "name": "Bhaalgorn Corporation Emblem"
+  },
+  "76817": {
+    "groupID": 4471,
+    "name": "Bowhead Corporation Emblem"
+  },
+  "76818": {
+    "groupID": 4471,
+    "name": "Brutix Navy Issue Corporation Emblem"
+  },
+  "76819": {
+    "groupID": 4471,
+    "name": "Caiman Corporation Emblem"
+  },
+  "76820": {
+    "groupID": 4471,
+    "name": "Chemosh Corporation Emblem"
+  },
+  "76821": {
+    "groupID": 4471,
+    "name": "Chimera Corporation Emblem"
+  },
+  "76822": {
+    "groupID": 4471,
+    "name": "Claymore Corporation Emblem"
+  },
+  "76823": {
+    "groupID": 4471,
+    "name": "Dagon Corporation Emblem"
+  },
+  "76824": {
+    "groupID": 4471,
+    "name": "Damnation Corporation Emblem"
+  },
+  "76825": {
+    "groupID": 4471,
+    "name": "Dominix Navy Issue Corporation Emblem"
+  },
+  "76826": {
+    "groupID": 4471,
+    "name": "Drake Navy Issue Corporation Emblem"
+  },
+  "76827": {
+    "groupID": 4471,
+    "name": "Drekavac Corporation Emblem"
+  },
+  "76828": {
+    "groupID": 4471,
+    "name": "Eos Corporation Emblem"
+  },
+  "76829": {
+    "groupID": 4471,
+    "name": "Erebus Corporation Emblem"
+  },
+  "76830": {
+    "groupID": 4471,
+    "name": "Golem Corporation Emblem"
+  },
+  "76831": {
+    "groupID": 4471,
+    "name": "Harbinger Navy Issue Corporation Emblem"
+  },
+  "76832": {
+    "groupID": 4471,
+    "name": "Hel Corporation Emblem"
+  },
+  "76833": {
+    "groupID": 4471,
+    "name": "Hurricane Fleet Issue Corporation Emblem"
+  },
+  "76834": {
+    "groupID": 4471,
+    "name": "Hyperion Corporation Emblem"
+  },
+  "76835": {
+    "groupID": 4471,
+    "name": "Komodo Corporation Emblem"
+  },
+  "76836": {
+    "groupID": 4471,
+    "name": "Kronos Corporation Emblem"
+  },
+  "76837": {
+    "groupID": 4471,
+    "name": "Leshak Corporation Emblem"
+  },
+  "76838": {
+    "groupID": 4471,
+    "name": "Leviathan Corporation Emblem"
+  },
+  "76839": {
+    "groupID": 4471,
+    "name": "Lif Corporation Emblem"
+  },
+  "76840": {
+    "groupID": 4471,
+    "name": "Loggerhead Corporation Emblem"
+  },
+  "76841": {
+    "groupID": 4471,
+    "name": "Machariel Corporation Emblem"
+  },
+  "76842": {
+    "groupID": 4471,
+    "name": "Maelstrom Corporation Emblem"
+  },
+  "76843": {
+    "groupID": 4471,
+    "name": "Marshal Corporation Emblem"
+  },
+  "76844": {
+    "groupID": 4471,
+    "name": "Megathron Corporation Emblem"
+  },
+  "76845": {
+    "groupID": 4471,
+    "name": "Megathron Federate Issue Corporation Emblem"
+  },
+  "76846": {
+    "groupID": 4471,
+    "name": "Megathron Navy Issue Corporation Emblem"
+  },
+  "76847": {
+    "groupID": 4471,
+    "name": "Minokawa Corporation Emblem"
+  },
+  "76848": {
+    "groupID": 4471,
+    "name": "Molok Corporation Emblem"
+  },
+  "76849": {
+    "groupID": 4471,
+    "name": "Nestor Corporation Emblem"
+  },
+  "76850": {
+    "groupID": 4471,
+    "name": "Nidhoggur Corporation Emblem"
+  },
+  "76851": {
+    "groupID": 4471,
+    "name": "Nighthawk Corporation Emblem"
+  },
+  "76852": {
+    "groupID": 4471,
+    "name": "Nightmare Corporation Emblem"
+  },
+  "76853": {
+    "groupID": 4471,
+    "name": "Ninazu Corporation Emblem"
+  },
+  "76854": {
+    "groupID": 4471,
+    "name": "Nomad Corporation Emblem"
+  },
+  "76855": {
+    "groupID": 4471,
+    "name": "Nyx Corporation Emblem"
+  },
+  "76856": {
+    "groupID": 4471,
+    "name": "Paladin Corporation Emblem"
+  },
+  "76857": {
+    "groupID": 4471,
+    "name": "Panther Corporation Emblem"
+  },
+  "76858": {
+    "groupID": 4471,
+    "name": "Praxis Corporation Emblem"
+  },
+  "76859": {
+    "groupID": 4471,
+    "name": "Ragnarok Corporation Emblem"
+  },
+  "76860": {
+    "groupID": 4471,
+    "name": "Rattlesnake Corporation Emblem"
+  },
+  "76861": {
+    "groupID": 4471,
+    "name": "Raven Corporation Emblem"
+  },
+  "76862": {
+    "groupID": 4471,
+    "name": "Raven Navy Issue Corporation Emblem"
+  },
+  "76863": {
+    "groupID": 4471,
+    "name": "Raven State Issue Corporation Emblem"
+  },
+  "76864": {
+    "groupID": 4471,
+    "name": "Redeemer Corporation Emblem"
+  },
+  "76865": {
+    "groupID": 4471,
+    "name": "Revenant Corporation Emblem"
+  },
+  "76866": {
+    "groupID": 4471,
+    "name": "Rhea Corporation Emblem"
+  },
+  "76867": {
+    "groupID": 4471,
+    "name": "Rokh Corporation Emblem"
+  },
+  "76868": {
+    "groupID": 4471,
+    "name": "Rorqual Corporation Emblem"
+  },
+  "76869": {
+    "groupID": 4471,
+    "name": "Scorpion Navy Issue Corporation Emblem"
+  },
+  "76870": {
+    "groupID": 4471,
+    "name": "Sin Corporation Emblem"
+  },
+  "76871": {
+    "groupID": 4471,
+    "name": "Sleipnir Corporation Emblem"
+  },
+  "76872": {
+    "groupID": 4471,
+    "name": "Tempest Corporation Emblem"
+  },
+  "76873": {
+    "groupID": 4471,
+    "name": "Tempest Fleet Issue Corporation Emblem"
+  },
+  "76874": {
+    "groupID": 4471,
+    "name": "Tempest Tribal Issue Corporation Emblem"
+  },
+  "76875": {
+    "groupID": 4471,
+    "name": "Thanatos Corporation Emblem"
+  },
+  "76876": {
+    "groupID": 4471,
+    "name": "Thunderchild Corporation Emblem"
+  },
+  "76877": {
+    "groupID": 4471,
+    "name": "Typhoon Fleet Issue Corporation Emblem"
+  },
+  "76878": {
+    "groupID": 4471,
+    "name": "Vanquisher Corporation Emblem"
+  },
+  "76879": {
+    "groupID": 4471,
+    "name": "Vargur Corporation Emblem"
+  },
+  "76880": {
+    "groupID": 4471,
+    "name": "Vendetta Corporation Emblem"
+  },
+  "76881": {
+    "groupID": 4471,
+    "name": "Vindicator Corporation Emblem"
+  },
+  "76882": {
+    "groupID": 4471,
+    "name": "Vulture Corporation Emblem"
+  },
+  "76883": {
+    "groupID": 4471,
+    "name": "Widow Corporation Emblem"
+  },
+  "76884": {
+    "groupID": 4471,
+    "name": "Wyvern Corporation Emblem"
+  },
+  "76903": {
+    "groupID": 227,
+    "name": "SW Couriers Merc Spawner (Do not translate)"
+  },
+  "76904": {
+    "groupID": 227,
+    "name": "SW Lab Merc Wave Spawner (Do not translate)"
+  },
+  "76905": {
+    "groupID": 227,
+    "name": "SW Lab Merc Boss Spawner (Do not translate)"
+  },
+  "76922": {
+    "groupID": 186,
+    "name": "Caldari Shipcaster Beacon Wreck"
+  },
+  "76923": {
+    "groupID": 186,
+    "name": "Gallente Shipcaster Beacon Wreck"
+  },
+  "76924": {
+    "groupID": 186,
+    "name": "Minmatar Shipcaster Beacon Wreck"
+  },
+  "76927": {
+    "groupID": 226,
+    "name": "Imperial Stellar Transmuter"
+  },
+  "76928": {
+    "groupID": 226,
+    "name": "Republic Stellar Transmuter"
+  },
+  "76929": {
+    "groupID": 226,
+    "name": "State Stellar Transmuter"
+  },
+  "76930": {
+    "groupID": 226,
+    "name": "Federation Stellar Transmuter"
+  },
+  "76933": {
+    "groupID": 226,
+    "name": "Abandoned Imperial Research Station"
+  },
+  "76941": {
+    "groupID": 306,
+    "name": "Vila Allopoiesis Node"
+  },
+  "76942": {
+    "groupID": 1568,
+    "name": "Anchoring Vila Skarbnik"
+  },
+  "76943": {
+    "groupID": 1568,
+    "name": "Starving Vila Skarbnik"
+  },
+  "76944": {
+    "groupID": 1568,
+    "name": "Tangling Vila Skarbnik"
+  },
+  "76947": {
+    "groupID": 4471,
+    "name": "Vehement Alliance Emblem"
+  },
+  "76948": {
+    "groupID": 4471,
+    "name": "Vehement Corporation Emblem"
+  },
+  "76949": {
+    "groupID": 4471,
+    "name": "Zirnitra Alliance Emblem"
+  },
+  "76950": {
+    "groupID": 4471,
+    "name": "Zirnitra Corporation Emblem"
   }
 }

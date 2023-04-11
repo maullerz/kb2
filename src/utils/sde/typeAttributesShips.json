@@ -484,7 +484,7 @@
       "ja": "サイクルあたりチャージ",
       "ko": "주기당 충전량",
       "ru": "Зарядов за цикл",
-      "zh": "单次消耗量 "
+      "zh": "单次消耗量"
     },
     "highIsGood": true,
     "iconID": 1397,
@@ -1169,12 +1169,12 @@
     "description": "distance from maximum range at which accuracy has fallen by half",
     "displayNameID": {
       "de": "Präzisionsabfall",
-      "en": "Accuracy falloff ",
-      "es": "Alcance efectivo de precisión ",
-      "fr": "Distance de perte de précision ",
-      "ja": " 精度低下",
-      "ko": "명중률 유효사거리 ",
-      "ru": "Добавочная дальность ",
+      "en": "Accuracy falloff",
+      "es": "Alcance efectivo de precisión",
+      "fr": "Distance de perte de précision",
+      "ja": "精度低下",
+      "ko": "명중률 유효사거리",
+      "ru": "Добавочная дальность",
       "zh": "失准范围"
     },
     "highIsGood": true,
@@ -1305,7 +1305,8 @@
       "fr": "Résistance au scan de la cargaison",
       "ja": "カーゴスキャンレジスタンス",
       "ko": "화물 스캔 저항",
-      "ru": "Экранирование грузового отсека"
+      "ru": "Экранирование грузового отсека",
+      "zh": "货柜扫描抗性"
     },
     "highIsGood": true,
     "iconID": 106,
@@ -1766,7 +1767,7 @@
       "fr": "Les PV du bouclier se rechargent avec le temps, un processus qui peut être encore amélioré grâce à l'utilisation de modules.",
       "ja": "時間経過で再充電し、モジュールを使用すればさらに素早く回復します",
       "ko": "실드 내구도는 시간이 지나면 충전되며 모듈을 사용하면 더 빨리 회복됩니다.",
-      "ru": "Запас прочности силового поля восстанавливается со временем; с помощью модулей его можно восстановить быстрее ",
+      "ru": "Запас прочности силового поля восстанавливается со временем; с помощью модулей его можно восстановить быстрее",
       "zh": "护盾会随时间自动恢复，使用装备还可以使恢复速度加快"
     },
     "tooltipTitleID": {
@@ -2523,7 +2524,7 @@
       "ja": "キャパシタに貯められる最大エネルギー量です",
       "ko": "캐패시터 최대 용량입니다.",
       "ru": "Предельный заряд бортового накопителя",
-      "zh": " 电容器的最大容量"
+      "zh": "电容器的最大容量"
     },
     "tooltipTitleID": {
       "de": "Energiespeicherkapazität",
@@ -3550,7 +3551,7 @@
     "defaultValue": 0,
     "description": "The maximum distance at which the object can be used.",
     "displayNameID": {
-      "de": "Max. Bedienungsentfernung ",
+      "de": "Max. Bedienungsentfernung",
       "en": "Maximum Operational Distance",
       "es": "Distancia máxima de funcionamiento",
       "fr": "Distance opérationnelle maximale",
@@ -4047,7 +4048,7 @@
       "ja": "クリスタル損耗",
       "ko": "크리스탈 피해량",
       "ru": "Кристаллы получают повреждения",
-      "zh": "晶体损耗 "
+      "zh": "晶体损耗"
     },
     "highIsGood": true,
     "iconID": 0,
@@ -6089,7 +6090,7 @@
     "displayNameID": {
       "de": "Warpgeschwindigkeit",
       "en": "Ship Warp Speed",
-      "es": "Velocidad warp ",
+      "es": "Velocidad warp",
       "fr": "Vitesse de warp du vaisseau",
       "ja": "シップワープ速度",
       "ko": "함선 워프 속도",
@@ -7135,7 +7136,7 @@
       "ja": "採掘ホールド容量",
       "ko": "채굴 저장고 적재량",
       "ru": "Объём отсека для руды",
-      "zh": "矿石舱容量"
+      "zh": "矿舱容量"
     },
     "highIsGood": true,
     "iconID": 71,
@@ -7150,7 +7151,7 @@
       "ja": "採掘ホールドに積載できる総量",
       "ko": "채굴 저장고에 보관할 수 있는 최대 용량",
       "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для руды",
-      "zh": "矿石舱能装载的总体积"
+      "zh": "矿舱的容量"
     },
     "tooltipTitleID": {
       "de": "Bergbaufassungsvermögen",
@@ -7160,7 +7161,7 @@
       "ja": "採掘ホールド容量",
       "ko": "채굴 저장고 적재량",
       "ru": "Объём отсека для руды",
-      "zh": "矿石舱容量"
+      "zh": "矿舱容量"
     },
     "unitID": 9
   },
@@ -7192,7 +7193,8 @@
       "fr": "Volume total pouvant être stocké dans la soute à gaz",
       "ja": "ガスホールドに積載できる総量",
       "ko": "가스 저장고에 보관할 수 있는 최대 용량",
-      "ru": "Максимальный объём, допустимый к размещению в газовом отсеке"
+      "ru": "Максимальный объём, допустимый к размещению в газовом отсеке",
+      "zh": "气云舱的容量"
     },
     "tooltipTitleID": {
       "de": "Gasfassungsvermögen",
@@ -7201,7 +7203,8 @@
       "fr": "Capacité de la soute à gaz",
       "ja": "ガスホールド容量",
       "ko": "가스 저장고 적재량",
-      "ru": "Объём газового отсека"
+      "ru": "Объём газового отсека",
+      "zh": "气云容量"
     },
     "unitID": 9
   },
@@ -7867,7 +7870,8 @@
       "fr": "Bonus de pénalité de signature et de besoins énergétiques du PMW",
       "ja": "MWDのシグネチャペナルティとキャパシタ消費軽減ボーナス",
       "ko": "MWD 시그니처 페널티 및 캐패시터 사용량 보너스",
-      "ru": "Уменьшение потребления накопителя и влияния микроварп-ускорителя на радиус сигнатуры"
+      "ru": "Уменьшение потребления накопителя и влияния микроварп-ускорителя на радиус сигнатуры",
+      "zh": "微型跃迁推进器信号半径惩罚和电容消耗加成"
     },
     "highIsGood": false,
     "name": "MWDSignatureRadiusBonus",
@@ -13882,7 +13886,8 @@
       "fr": "Capacité de la soute à glace",
       "ja": "アイスホールド容量",
       "ko": "아이스 저장고 적재량",
-      "ru": "Объём отсека для льда"
+      "ru": "Объём отсека для льда",
+      "zh": "冰矿舱容量"
     },
     "highIsGood": true,
     "iconID": 71,
@@ -13896,7 +13901,8 @@
       "fr": "Volume total pouvant être stocké dans la soute à glace",
       "ja": "アイスホールドに積載できる総量",
       "ko": "아이스 저장고에 보관할 수 있는 최대 용량",
-      "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для льда"
+      "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для льда",
+      "zh": "冰矿舱的容量"
     },
     "tooltipTitleID": {
       "de": "Eisfassungsvermögen",
@@ -13905,7 +13911,8 @@
       "fr": "Capacité de la soute à glace",
       "ja": "アイスホールド容量",
       "ko": "아이스 저장고 적재량",
-      "ru": "Объём отсека для льда"
+      "ru": "Объём отсека для льда",
+      "zh": "冰矿舱容量"
     },
     "unitID": 9
   },
@@ -13933,7 +13940,8 @@
       "fr": "Écraser les chances de récupération",
       "ja": "ドロップ率の上書き",
       "ko": "Drop Chance Overwrite",
-      "ru": "Изменение шанса выпадения добычи"
+      "ru": "Изменение шанса выпадения добычи",
+      "zh": "掉率改写"
     },
     "highIsGood": true,
     "name": "dropChanceOverwrite",
@@ -13946,7 +13954,8 @@
       "fr": "Écrasez les chances de récupération de butin sur le vaisseau d'un autre joueur. Une valeur égale à 0 signifie qu'aucun butin n'est récupérable",
       "ja": "プレイヤー艦のドロップ率を上書き。値が0の場合、戦利品のドロップなし",
       "ko": "Overwriting loot chance of drop from player ship, value 0 = no loot dropped",
-      "ru": "Изменяет шанс выпадения добычи из корабля игрока. 0 = добыча не выпадает"
+      "ru": "Изменяет шанс выпадения добычи из корабля игрока. 0 = добыча не выпадает",
+      "zh": "改写玩家爆船的掉率，0=无掉落"
     },
     "tooltipTitleID": {
       "de": "Beutechance überschreiben",
@@ -13955,7 +13964,8 @@
       "fr": "Écraser les chances de récupération",
       "ja": "ドロップ率の上書き",
       "ko": "Drop Chance Overwrite",
-      "ru": "Изменение шанса выпадения добычи"
+      "ru": "Изменение шанса выпадения добычи",
+      "zh": "掉率改写"
     }
   },
   "3167": {
@@ -14290,7 +14300,8 @@
       "fr": "Capacité de la soute à astéroïdes",
       "ja": "アステロイドホールド容量",
       "ko": "소행성 저장고 적재량",
-      "ru": "Объём отсека для астероидов"
+      "ru": "Объём отсека для астероидов",
+      "zh": "小行星矿石舱容量"
     },
     "highIsGood": true,
     "iconID": 71,
@@ -14304,7 +14315,8 @@
       "fr": "Volume total pouvant être stocké dans la soute à astéroïdes",
       "ja": "アステロイドホールドに積載できる総量",
       "ko": "소행성 저장고에 보관할 수 있는 최대 용량",
-      "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для астероидов"
+      "ru": "Максимальный объём, допустимый к размещению в бортовом отсеке для астероидов",
+      "zh": "小行星矿石舱的容量"
     },
     "tooltipTitleID": {
       "de": "Asteroidenfassungsvermögen",
@@ -14313,7 +14325,8 @@
       "fr": "Capacité de la soute à astéroïdes",
       "ja": "アステロイドホールド容量",
       "ko": "소행성 저장고 적재량",
-      "ru": "Объём отсека для астероидов"
+      "ru": "Объём отсека для астероидов",
+      "zh": "小行星矿石舱容量"
     },
     "unitID": 9
   },
@@ -14550,7 +14563,8 @@
       "fr": "Seuil de DPS pour interrompre la réparation du bouclier",
       "ja": "シールド修復を停止させるDPSしきい値",
       "ko": "실드 수리가 멈추는 기준 피해량",
-      "ru": "Порог урона/сек. для приостановки восстановления щитов"
+      "ru": "Порог урона/сек. для приостановки восстановления щитов",
+      "zh": "停止护盾维修的DPS阈值"
     },
     "highIsGood": true,
     "name": "pauseShieldRepairDpsThreshold",
@@ -14570,7 +14584,8 @@
       "fr": "Seuil de DPS pour interrompre la réparation du blindage",
       "ja": "アーマー修復を停止させるDPSしきい値",
       "ko": "장갑 수리가 멈추는 기준 피해량",
-      "ru": "Порог урона/сек. для приостановки восстановления брони"
+      "ru": "Порог урона/сек. для приостановки восстановления брони",
+      "zh": "停止装甲维修的DPS阈值"
     },
     "highIsGood": true,
     "name": "pauseArmorRepairDpsThreshold",
@@ -14590,7 +14605,8 @@
       "fr": "Seuil de DPS pour interrompre la réparation de la coque",
       "ja": "船体修復を停止させるDPSしきい値",
       "ko": "선체 수리가 멈추는 기준 피해량",
-      "ru": "Порог урона/сек. для приостановки восстановления корпуса"
+      "ru": "Порог урона/сек. для приостановки восстановления корпуса",
+      "zh": "停止结构维修的DPS阈值"
     },
     "highIsGood": true,
     "name": "pauseHullRepairDpsThreshold",
@@ -14977,6 +14993,30 @@
     "displayWhenZero": false,
     "highIsGood": true,
     "name": "shipBonusDreadnoughtM4",
+    "published": false,
+    "stackable": true
+  },
+  "5318": {
+    "attributeID": 5318,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Ship Bonus used for Alliance Tournament Ships",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBonusAT2",
+    "published": false,
+    "stackable": true
+  },
+  "5319": {
+    "attributeID": 5319,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Ship Bonus used for Alliance Tournament Ships",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBonusAT3",
     "published": false,
     "stackable": true
   }
