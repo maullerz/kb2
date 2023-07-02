@@ -146257,7 +146257,7 @@
   [
     64006,
     1665,
-    "SARO Enforcer"
+    "SoCT Enforcer"
   ],
   [
     64007,
@@ -146352,7 +146352,7 @@
   [
     64025,
     1667,
-    "Smuggler Underboss"
+    "SoCT Master"
   ],
   [
     64026,
@@ -146702,7 +146702,7 @@
   [
     64104,
     186,
-    "Bloodraider Structure Ruins"
+    "Blood Raider Structure Ruins"
   ],
   [
     64105,
@@ -154492,7 +154492,7 @@
   [
     74385,
     500,
-    "Scarlet Embrace Firework ( copy )"
+    "Reserved for future firework use (DO NOT TRANSLATE)"
   ],
   [
     74386,
@@ -156977,22 +156977,22 @@
   [
     75932,
     4548,
-    "Imperial Shipcaster Beacon Construction Structure"
+    "Imperial Shipcaster Beacon Constructor"
   ],
   [
     75933,
     4548,
-    "State Shipcaster Beacon Construction Structure"
+    "State Shipcaster Beacon Constructor"
   ],
   [
     75934,
     4548,
-    "Federation Shipcaster Beacon Construction Structure"
+    "Federation Shipcaster Beacon Constructor"
   ],
   [
     75935,
     4548,
-    "Republic Shipcaster Beacon Construction Structure"
+    "Republic Shipcaster Beacon Constructor"
   ],
   [
     75984,
@@ -157846,12 +157846,12 @@
   ],
   [
     76203,
-    314,
+    333,
     "Stellar Transmuter Datacore"
   ],
   [
     76204,
-    314,
+    333,
     "Transport Relay Datacore"
   ],
   [
@@ -157866,32 +157866,32 @@
   ],
   [
     76207,
-    314,
+    1141,
     "Stellar Transmuter Research Index File"
   ],
   [
     76208,
-    314,
+    1141,
     "Stellar Transmuter Research Data Fragment"
   ],
   [
     76209,
-    314,
+    1141,
     "Stellar Transmuter Research Encryption Key"
   ],
   [
     76210,
-    314,
+    1141,
     "Transport Relay Research Index File"
   ],
   [
     76211,
-    314,
+    1141,
     "Transport Relay Research Data Fragment"
   ],
   [
     76212,
-    314,
+    1141,
     "Transport Relay Research Encryption Key"
   ],
   [
@@ -158572,7 +158572,7 @@
   [
     76438,
     186,
-    "Amarr Shipcaster Beacon Wreck"
+    "Imperial Shipcaster Beacon Wreck"
   ],
   [
     76453,
@@ -158607,27 +158607,177 @@
   [
     76465,
     4549,
-    "Imperial Shipcaster"
+    "Imperial Interstellar Shipcaster"
   ],
   [
     76466,
     4549,
-    "State Shipcaster"
+    "State Interstellar Shipcaster"
   ],
   [
     76467,
     4549,
-    "Federation Shipcaster"
+    "Federation Interstellar Shipcaster"
   ],
   [
     76468,
     4549,
-    "Republic Shipcaster"
+    "Republic Interstellar Shipcaster"
   ],
   [
     76483,
     1975,
     "Amarr Military Station Ruins"
+  ],
+  [
+    76506,
+    303,
+    "Potent Capsuleer Day XX Cerebral Accelerator"
+  ],
+  [
+    76507,
+    303,
+    "Extended Capsuleer Day XX Cerebral Accelerator"
+  ],
+  [
+    76508,
+    303,
+    "Basic Capsuleer Day XX Cerebral Accelerator"
+  ],
+  [
+    76509,
+    303,
+    "Basic Capsuleer Day XX Glamourex Booster"
+  ],
+  [
+    76510,
+    303,
+    "Extended Capsuleer Day XX Glamourex Booster"
+  ],
+  [
+    76511,
+    303,
+    "Potent Capsuleer Day XX Glamourex Booster"
+  ],
+  [
+    76512,
+    303,
+    "Guri Malakim Observability Booster I"
+  ],
+  [
+    76513,
+    303,
+    "Guri Malakim Observability Booster II"
+  ],
+  [
+    76514,
+    303,
+    "Guri Malakim Observability Booster III"
+  ],
+  [
+    76515,
+    303,
+    "Guri Malakim Observability Booster IV"
+  ],
+  [
+    76516,
+    303,
+    "SoCT Scan Booster I"
+  ],
+  [
+    76517,
+    303,
+    "SoCT Scan Booster II"
+  ],
+  [
+    76518,
+    303,
+    "SoCT Scan Booster III"
+  ],
+  [
+    76519,
+    303,
+    "SoCT Scan Booster IV"
+  ],
+  [
+    76520,
+    303,
+    "Guri Malakim Shield Booster I"
+  ],
+  [
+    76521,
+    303,
+    "Guri Malakim Shield Booster II"
+  ],
+  [
+    76522,
+    303,
+    "Guri Malakim Shield Booster III"
+  ],
+  [
+    76523,
+    303,
+    "Guri Malakim Shield Booster IV"
+  ],
+  [
+    76524,
+    303,
+    "SoCT Armor Booster I"
+  ],
+  [
+    76525,
+    303,
+    "SoCT Armor Booster II"
+  ],
+  [
+    76526,
+    303,
+    "SoCT Armor Booster III"
+  ],
+  [
+    76527,
+    303,
+    "SoCT Armor Booster IV"
+  ],
+  [
+    76528,
+    303,
+    "Guri Malakim Turret Booster I"
+  ],
+  [
+    76529,
+    303,
+    "Guri Malakim Turret Booster II"
+  ],
+  [
+    76530,
+    303,
+    "Guri Malakim Turret Booster III"
+  ],
+  [
+    76531,
+    303,
+    "Guri Malakim Turret Booster IV"
+  ],
+  [
+    76532,
+    303,
+    "SoCT Agility Booster I"
+  ],
+  [
+    76533,
+    303,
+    "SoCT Agility Booster II"
+  ],
+  [
+    76534,
+    303,
+    "SoCT Agility Booster III"
+  ],
+  [
+    76535,
+    303,
+    "SoCT Agility Booster IV"
   ],
   [
     76717,
@@ -159470,6 +159620,11 @@
     "Wyvern Corporation Emblem"
   ],
   [
+    76893,
+    1975,
+    "Jove Observatory (DO NOT TRANSLATE)"
+  ],
+  [
     76903,
     227,
     "SW Couriers Merc Spawner (Do not translate)"
@@ -159487,17 +159642,27 @@
   [
     76922,
     186,
-    "Caldari Shipcaster Beacon Wreck"
+    "State Shipcaster Beacon Wreck"
   ],
   [
     76923,
     186,
-    "Gallente Shipcaster Beacon Wreck"
+    "Federation Shipcaster Beacon Wreck"
   ],
   [
     76924,
     186,
-    "Minmatar Shipcaster Beacon Wreck"
+    "Republic Shipcaster Beacon Wreck"
+  ],
+  [
+    76925,
+    1975,
+    "Jove Observatory (DO NOT TRANSLATE)"
+  ],
+  [
+    76926,
+    1975,
+    "Fortified Angel Bunker (DO NOT TRANSLATE)"
   ],
   [
     76927,
@@ -159545,6 +159710,16 @@
     "Tangling Vila Skarbnik"
   ],
   [
+    76945,
+    1975,
+    "SOCT Research Facility (DO NOT TRANSLATE)"
+  ],
+  [
+    76946,
+    1975,
+    "Fortizar (DO NOT TRANSLATE)"
+  ],
+  [
     76947,
     4471,
     "Vehement Alliance Emblem"
@@ -159563,5 +159738,2320 @@
     76950,
     4471,
     "Zirnitra Corporation Emblem"
+  ],
+  [
+    76959,
+    226,
+    "Surveyed Jove Observatory"
+  ],
+  [
+    76960,
+    226,
+    "Raided Jove Observatory"
+  ],
+  [
+    76961,
+    226,
+    "SoCT Survey Outpost"
+  ],
+  [
+    76962,
+    226,
+    "SoCT Retrievals Repository"
+  ],
+  [
+    76963,
+    500,
+    " Infinite Celebrations Firework"
+  ],
+  [
+    76964,
+    1194,
+    "Capsuleer Day XX Fireworks Package"
+  ],
+  [
+    76970,
+    310,
+    "SoCT Research Depot"
+  ],
+  [
+    76971,
+    1975,
+    "Non-Interactable ms1_wreck (Do Not Translate)"
+  ],
+  [
+    76980,
+    227,
+    "CD 20 SoCT Easy Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    76981,
+    227,
+    "CD 20 SoCT Easy Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    76983,
+    227,
+    "[HF] Defend the Base - Focused Combat Spawner"
+  ],
+  [
+    76985,
+    310,
+    "Guristas Manufacturing Plant"
+  ],
+  [
+    76986,
+    1194,
+    "Scorched Container"
+  ],
+  [
+    76998,
+    227,
+    "[HF] No Escape - Combat Spawner"
+  ],
+  [
+    76999,
+    227,
+    "CD 20 Pirate Easy Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77000,
+    227,
+    "CD 20 Pirate Easy Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77005,
+    4471,
+    "Bustard Alliance Emblem"
+  ],
+  [
+    77006,
+    4471,
+    "Bustard Corporation Emblem"
+  ],
+  [
+    77019,
+    4572,
+    "Legatus Bane"
+  ],
+  [
+    77035,
+    227,
+    "Vila Allopoiesis Nexus Spawner"
+  ],
+  [
+    77036,
+    1975,
+    "Drone Lookout"
+  ],
+  [
+    77040,
+    227,
+    "Nesosilicate Rakovene Field Spawner"
+  ],
+  [
+    77055,
+    1194,
+    "Capsuleer Day Glamourex Crate"
+  ],
+  [
+    77056,
+    1975,
+    "Large Crystal Environment 1 ( Boombox DO NOT TRANSLATE)"
+  ],
+  [
+    77057,
+    1975,
+    "Guristas Outpost Wreckage ( Boombox DO NOT TRANSLATE)"
+  ],
+  [
+    77058,
+    1975,
+    "Angel Tower non interactable ( Cap Day DO NOT TRANSALTE)"
+  ],
+  [
+    77059,
+    226,
+    "SoCT Azbel Research Station"
+  ],
+  [
+    77060,
+    1975,
+    "Medium Crystal Environment 3 ( Cap Day DO NOT TRANSLATE)"
+  ],
+  [
+    77061,
+    227,
+    "[HF] No Escape - Hauler Spawner"
+  ],
+  [
+    77062,
+    1975,
+    "Small Crystal Environment 5 ( Cap Day DO NOT TRANSLATE)"
+  ],
+  [
+    77063,
+    1975,
+    "Guristas Warehouse non interactable ( cap day DO NOT TRANSLATE)"
+  ],
+  [
+    77064,
+    1975,
+    "Tatara Wreck ( cap day DO NOT TRANSLATE)"
+  ],
+  [
+    77065,
+    4576,
+    "Blood Raider Temple"
+  ],
+  [
+    77066,
+    4577,
+    "Offertory Sigil"
+  ],
+  [
+    77092,
+    1975,
+    "Shadow War Music - Pochven mining site"
+  ],
+  [
+    77097,
+    306,
+    "Guri Malakim Survey Data Vault"
+  ],
+  [
+    77098,
+    306,
+    "Guri Malakim Recovered Data Vault"
+  ],
+  [
+    77099,
+    306,
+    "SoCT Survey Data Relay Tower"
+  ],
+  [
+    77100,
+    306,
+    "SoCT Research Data Relay Tower"
+  ],
+  [
+    77113,
+    226,
+    "QA underConstruction LCO in progress CANTAKE (DO NOT TRANSLATE)"
+  ],
+  [
+    77114,
+    25,
+    "Metamorphosis"
+  ],
+  [
+    77118,
+    4568,
+    "Amperum Mutanite"
+  ],
+  [
+    77120,
+    4576,
+    "Longshot Relay"
+  ],
+  [
+    77121,
+    306,
+    "Remote Armor Array"
+  ],
+  [
+    77126,
+    4576,
+    "Holy Mission"
+  ],
+  [
+    77127,
+    1568,
+    "Guri Malakim Griffin"
+  ],
+  [
+    77128,
+    1568,
+    "Guri Malakim Dramiel"
+  ],
+  [
+    77129,
+    1568,
+    "Guri Malakim Worm"
+  ],
+  [
+    77130,
+    1665,
+    "Guri Malakim Cynabal"
+  ],
+  [
+    77131,
+    1665,
+    "Guri Malakim Gila"
+  ],
+  [
+    77132,
+    1666,
+    "Guri Malakim Tornado"
+  ],
+  [
+    77133,
+    1667,
+    "Guri Malakim Boss"
+  ],
+  [
+    77134,
+    1667,
+    "Guri Malakim Boss"
+  ],
+  [
+    77135,
+    1667,
+    "Guri Malakim Godfather"
+  ],
+  [
+    77136,
+    1667,
+    "Guri Malakim Godfather"
+  ],
+  [
+    77149,
+    310,
+    "Homefront Operations Beacon"
+  ],
+  [
+    77150,
+    227,
+    "CD 20 Pirate Hard Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77151,
+    1568,
+    "SoCT Pacifier"
+  ],
+  [
+    77152,
+    1568,
+    "SoCT Skybreaker"
+  ],
+  [
+    77153,
+    1568,
+    "SoCT Metamorphosis"
+  ],
+  [
+    77154,
+    1664,
+    "SoCT Sunesis"
+  ],
+  [
+    77155,
+    1665,
+    "SoCT Enforcer"
+  ],
+  [
+    77156,
+    1665,
+    "SoCT Stormbringer"
+  ],
+  [
+    77157,
+    1666,
+    "SoCT Gnosis"
+  ],
+  [
+    77158,
+    1667,
+    "SoCT Master"
+  ],
+  [
+    77159,
+    1667,
+    "SoCT Master"
+  ],
+  [
+    77160,
+    1667,
+    "SoCT Grandmaster"
+  ],
+  [
+    77161,
+    1667,
+    "SoCT Grandmaster"
+  ],
+  [
+    77162,
+    227,
+    "CD 20 Pirate Hard Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77179,
+    226,
+    "Hall of Sacrifice"
+  ],
+  [
+    77180,
+    952,
+    "Holder Providence"
+  ],
+  [
+    77181,
+    227,
+    "[HF] Charge the Gun - Focused Neutralizing Spawner"
+  ],
+  [
+    77182,
+    227,
+    "CD 20 SoCT Hard Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77183,
+    4572,
+    "Verndari Valravn"
+  ],
+  [
+    77184,
+    4572,
+    "Arbiter Karura"
+  ],
+  [
+    77185,
+    4572,
+    "Peacekeeper Hubris"
+  ],
+  [
+    77192,
+    227,
+    "Vila Allopoiesis Nexus Spawner 2 (Do not translate)"
+  ],
+  [
+    77193,
+    1975,
+    "Shadow War Music - Pochven hacking site"
+  ],
+  [
+    77195,
+    4576,
+    "Quantum-Override Broadcaster"
+  ],
+  [
+    77196,
+    306,
+    "Remote Jamming Array"
+  ],
+  [
+    77197,
+    306,
+    "Remote Shield Array"
+  ],
+  [
+    77198,
+    306,
+    "Remote Cloaking Array"
+  ],
+  [
+    77199,
+    4576,
+    "Sacred Exploiter"
+  ],
+  [
+    77200,
+    4576,
+    "Megafinance Siphoner"
+  ],
+  [
+    77251,
+    4576,
+    "Occupied Industrial Housing"
+  ],
+  [
+    77252,
+    4576,
+    "Decommissioned Base"
+  ],
+  [
+    77253,
+    4576,
+    "Cartel Racket HQ"
+  ],
+  [
+    77254,
+    4569,
+    "Shrouding Retribution"
+  ],
+  [
+    77255,
+    4569,
+    "Preaching Inquisitor"
+  ],
+  [
+    77256,
+    4569,
+    "Shrouding Crucifier"
+  ],
+  [
+    77257,
+    4570,
+    "Shrouding Dragoon"
+  ],
+  [
+    77258,
+    4569,
+    "Wrathful Punisher"
+  ],
+  [
+    77259,
+    4570,
+    "Wrathful Coercer"
+  ],
+  [
+    77260,
+    4571,
+    "Righteous Omen"
+  ],
+  [
+    77261,
+    4573,
+    "Grand Oracle"
+  ],
+  [
+    77277,
+    186,
+    "Longshot Relay Wreck"
+  ],
+  [
+    77278,
+    186,
+    "Quantum-Override Broadcaster Wreck"
+  ],
+  [
+    77279,
+    186,
+    "Megafinance Siphoner Wreck"
+  ],
+  [
+    77280,
+    186,
+    "Sacred Exploiter Wreck"
+  ],
+  [
+    77281,
+    4594,
+    "Hubris"
+  ],
+  [
+    77283,
+    4594,
+    "Bane"
+  ],
+  [
+    77284,
+    4594,
+    "Karura"
+  ],
+  [
+    77287,
+    4576,
+    "Charon Repatriator"
+  ],
+  [
+    77288,
+    4594,
+    "Valravn"
+  ],
+  [
+    77289,
+    4579,
+    "VDB_Cloud_Sliver_01a"
+  ],
+  [
+    77290,
+    4576,
+    "Master Controller"
+  ],
+  [
+    77292,
+    4576,
+    "Clan Commons"
+  ],
+  [
+    77295,
+    226,
+    "Black Market"
+  ],
+  [
+    77301,
+    226,
+    "Narcotics Lab"
+  ],
+  [
+    77303,
+    952,
+    "Fenrir Quartermaster"
+  ],
+  [
+    77304,
+    952,
+    "Charon Requisition"
+  ],
+  [
+    77305,
+    952,
+    "Obelisk Impound"
+  ],
+  [
+    77306,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77307,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77308,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77309,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77310,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77311,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77312,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77313,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77314,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77315,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77316,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77317,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77318,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77319,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77320,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77321,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77322,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77323,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77324,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77325,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77326,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77327,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77328,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77329,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77330,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77331,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77332,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77333,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77334,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77335,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77336,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77337,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77338,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77339,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77340,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77341,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77342,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77343,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77344,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77345,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77346,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77347,
+    227,
+    "VDB_Cloud_Sliver_01a ( copy )"
+  ],
+  [
+    77348,
+    4579,
+    "VDB_Cloud_Sliver_01b"
+  ],
+  [
+    77349,
+    4579,
+    "VDB_Cloud_Sliver_01c"
+  ],
+  [
+    77350,
+    4579,
+    "VDB_Cloud_Sliver_01d"
+  ],
+  [
+    77351,
+    4579,
+    "VDB_Cloud_Sliver_01e"
+  ],
+  [
+    77352,
+    4579,
+    "VDB_Cloud_Sliver_02a"
+  ],
+  [
+    77353,
+    4579,
+    "VDB_Cloud_Sliver_02b"
+  ],
+  [
+    77354,
+    4579,
+    "VDB_Cloud_Sliver_02c"
+  ],
+  [
+    77355,
+    4579,
+    "VDB_Cloud_Vortex_01a"
+  ],
+  [
+    77356,
+    4579,
+    "VDB_Cloud_Vortex_01b"
+  ],
+  [
+    77357,
+    4579,
+    "VDB_Cloud_Vortex_01c"
+  ],
+  [
+    77358,
+    4579,
+    "VDB_Cloud_Vortex_01d"
+  ],
+  [
+    77359,
+    4579,
+    "VDB_Cloud_Vortex_01e"
+  ],
+  [
+    77360,
+    4579,
+    "VDB_Cloud_Vortex_01f"
+  ],
+  [
+    77361,
+    4579,
+    "VDB_Cloud_Vortex_01g"
+  ],
+  [
+    77362,
+    4579,
+    "VDB_Cloud_Vortex_01h"
+  ],
+  [
+    77363,
+    4579,
+    "VDB_Cloud_Vortex_02a"
+  ],
+  [
+    77364,
+    4579,
+    "VDB_Cloud_Vortex_02b"
+  ],
+  [
+    77365,
+    4579,
+    "VDB_Cloud_Vortex_02c"
+  ],
+  [
+    77366,
+    4579,
+    "VDB_Cloud_Vortex_02d"
+  ],
+  [
+    77367,
+    4579,
+    "VDB_Cloud_Vortex_02e"
+  ],
+  [
+    77368,
+    4579,
+    "VDB_Cloud_Vortex_03a"
+  ],
+  [
+    77369,
+    4579,
+    "VDB_Cloud_Vortex_03b"
+  ],
+  [
+    77370,
+    4579,
+    "VDB_Cloud_Vortex_03c"
+  ],
+  [
+    77371,
+    4579,
+    "VDB_Cloud_Vortex_03d"
+  ],
+  [
+    77372,
+    4579,
+    "VDB_Cloud_Vortex_04a"
+  ],
+  [
+    77373,
+    4579,
+    "VDB_Cloud_Vortex_04b"
+  ],
+  [
+    77374,
+    4579,
+    "VDB_Cloud_Vortex_04c"
+  ],
+  [
+    77375,
+    4579,
+    "VDB_Cloud_Vortex_04d"
+  ],
+  [
+    77376,
+    4579,
+    "VDB_Cloud_Vortex_04e"
+  ],
+  [
+    77377,
+    4579,
+    "VDB_Cloud_Vortex_05a"
+  ],
+  [
+    77378,
+    4579,
+    "VDB_Cloud_Vortex_05b"
+  ],
+  [
+    77379,
+    4579,
+    "VDB_Cloud_Vortex_05c"
+  ],
+  [
+    77380,
+    4579,
+    "VDB_Cloud_Vortex_06a"
+  ],
+  [
+    77381,
+    4579,
+    "VDB_Cloud_Vortex_06b"
+  ],
+  [
+    77382,
+    4579,
+    "VDB_Cloud_Vortex_06c"
+  ],
+  [
+    77383,
+    4579,
+    "VDB_Cloud_Vortex_06d"
+  ],
+  [
+    77384,
+    4579,
+    "VDB_Cloud_Vortex_06e"
+  ],
+  [
+    77385,
+    4579,
+    "VDB_Cloud_Vortex_06f"
+  ],
+  [
+    77386,
+    4579,
+    "VDB_Cloud_Vortex_06g"
+  ],
+  [
+    77387,
+    4579,
+    "VDB_Cloud_Vortex_06h"
+  ],
+  [
+    77388,
+    4579,
+    "VDB_Cloud_Vortex_06i"
+  ],
+  [
+    77389,
+    4579,
+    "VDB_Cloud_Vortex_06j"
+  ],
+  [
+    77391,
+    186,
+    "Karura Wreck"
+  ],
+  [
+    77392,
+    186,
+    "Valravn Wreck"
+  ],
+  [
+    77393,
+    186,
+    "Bane Wreck"
+  ],
+  [
+    77394,
+    186,
+    "Hubris Wreck"
+  ],
+  [
+    77395,
+    227,
+    "CD 20 Pirate Hard Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77396,
+    227,
+    "CD 20 SoCT Hard Wave Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    77397,
+    186,
+    "Shipcaster Beacon Constructor Wreck"
+  ],
+  [
+    77398,
+    588,
+    "‘Atgeir’ Explosive Disruptive Lance "
+  ],
+  [
+    77399,
+    588,
+    "'Azmaru' Electromagnetic Disruptive Lance"
+  ],
+  [
+    77400,
+    588,
+    "‘Steel Yari’ Kinetic Disruptive Lance"
+  ],
+  [
+    77401,
+    588,
+    "‘Sarissa’ Thermal Disruptive Lance"
+  ],
+  [
+    77402,
+    651,
+    "‘Atgeir’ Explosive Disruptive Lance Blueprint"
+  ],
+  [
+    77403,
+    651,
+    "'Azmaru' Electromagnetic Disruptive Lance Blueprint"
+  ],
+  [
+    77404,
+    651,
+    "‘Steel Yari’ Kinetic Disruptive Lance Blueprint"
+  ],
+  [
+    77405,
+    651,
+    "‘Sarissa’ Thermal Disruptive Lance Blueprint"
+  ],
+  [
+    77414,
+    537,
+    "Hubris Blueprint"
+  ],
+  [
+    77415,
+    537,
+    "Karura Blueprint"
+  ],
+  [
+    77416,
+    537,
+    "Valravn Blueprint"
+  ],
+  [
+    77417,
+    537,
+    "Bane Blueprint"
+  ],
+  [
+    77418,
+    4568,
+    "Peregrinus Mutanite"
+  ],
+  [
+    77419,
+    4568,
+    "Conflagrati Mutanite"
+  ],
+  [
+    77420,
+    4568,
+    "Solis Mutanite"
+  ],
+  [
+    77421,
+    4568,
+    "Tenebraet Mutanite"
+  ],
+  [
+    77423,
+    186,
+    "Holy Mission Wreck"
+  ],
+  [
+    77424,
+    186,
+    "Clan Commons Wreck"
+  ],
+  [
+    77425,
+    186,
+    "Master Controller Wreck"
+  ],
+  [
+    77426,
+    1975,
+    "Partially-constructed State Shipcaster"
+  ],
+  [
+    77427,
+    1194,
+    "Historic Capsuleer Day Clothing Crate"
+  ],
+  [
+    77428,
+    1975,
+    "Amarr Small Structure 01a"
+  ],
+  [
+    77429,
+    1975,
+    "Amarr Small Structure 03a"
+  ],
+  [
+    77430,
+    1975,
+    "Bloodraider Small Structure 01a"
+  ],
+  [
+    77431,
+    1975,
+    "Bloodraider Small Structure 03a"
+  ],
+  [
+    77432,
+    1975,
+    "Bloodraider Small Structure 05a"
+  ],
+  [
+    77433,
+    1975,
+    "Bloodraider Small Structure 07a"
+  ],
+  [
+    77434,
+    1975,
+    "Bloodraider Ring 35k 01b"
+  ],
+  [
+    77435,
+    1975,
+    "Bloodraider Ring 35k 01d"
+  ],
+  [
+    77436,
+    1975,
+    "Minmatar Medium Structure 02a"
+  ],
+  [
+    77451,
+    227,
+    "[HF] Triglavian Easy Spawner"
+  ],
+  [
+    77452,
+    227,
+    "[HF] Sleeper Easy Spawner"
+  ],
+  [
+    77453,
+    227,
+    "[HF] Sleeper Medium Spawner"
+  ],
+  [
+    77454,
+    227,
+    "[HF] Drifter Medium Spawner"
+  ],
+  [
+    77455,
+    227,
+    "[HF] Rogue Drone Medium Spawner"
+  ],
+  [
+    77456,
+    227,
+    "[HF] Triglavian Hard Spawner"
+  ],
+  [
+    77457,
+    227,
+    "[HF] Sleeper Hard Spawner"
+  ],
+  [
+    77458,
+    227,
+    "[HF] Drifter Hard Spawner"
+  ],
+  [
+    77459,
+    227,
+    "[HF] Rogue Drone Hard Spawner"
+  ],
+  [
+    77460,
+    227,
+    "[HF] Killer Spawner"
+  ],
+  [
+    77461,
+    227,
+    "[HF] Drifter Easy Spawner"
+  ],
+  [
+    77462,
+    227,
+    "[HF] Rogue Drone Easy Spawner"
+  ],
+  [
+    77463,
+    227,
+    "[HF] Triglavian Medium Spawner"
+  ],
+  [
+    77468,
+    1975,
+    "Gallente Connection 02a"
+  ],
+  [
+    77469,
+    1975,
+    "Gallente Connection 02b"
+  ],
+  [
+    77470,
+    1975,
+    "Gallente Small Structure 02a"
+  ],
+  [
+    77471,
+    1975,
+    "Gallente Small Structure 05a"
+  ],
+  [
+    77472,
+    1975,
+    "Gallente Warehouse"
+  ],
+  [
+    77473,
+    4575,
+    "Warclone Blanks Vat"
+  ],
+  [
+    77474,
+    4575,
+    "Contraband Freight"
+  ],
+  [
+    77475,
+    4575,
+    "Narcotics Package"
+  ],
+  [
+    77476,
+    4575,
+    "M.R.F. Supplies"
+  ],
+  [
+    77487,
+    4569,
+    "Annihilating Punisher"
+  ],
+  [
+    77488,
+    4570,
+    "Annihilating Coercer"
+  ],
+  [
+    77489,
+    4571,
+    "Preaching Augoror"
+  ],
+  [
+    77490,
+    4571,
+    "Shrouding Arbitrator"
+  ],
+  [
+    77491,
+    4571,
+    "Shrouding Zealot"
+  ],
+  [
+    77492,
+    186,
+    "Occupied Industrial Housing Wreck"
+  ],
+  [
+    77494,
+    1975,
+    "Caldari Construction Dock 01"
+  ],
+  [
+    77495,
+    1975,
+    "Caldari Construction Dock 02"
+  ],
+  [
+    77498,
+    186,
+    "Decommissioned Base wreck"
+  ],
+  [
+    77505,
+    4577,
+    "Badger Runner"
+  ],
+  [
+    77506,
+    4577,
+    "Nereus Mule"
+  ],
+  [
+    77507,
+    4577,
+    "Plunder Wreathe"
+  ],
+  [
+    77510,
+    227,
+    "[HF] Dreadnought Spawner"
+  ],
+  [
+    77511,
+    186,
+    "Charon Repatriator Wreck"
+  ],
+  [
+    77524,
+    4568,
+    "Admixti Mutanite"
+  ],
+  [
+    77525,
+    4571,
+    "Focused Sanguinary Arbitrator"
+  ],
+  [
+    77526,
+    4570,
+    "Focused Sanguinary Dragoon"
+  ],
+  [
+    77527,
+    4569,
+    "Focused Sanguinary Crucifier "
+  ],
+  [
+    77528,
+    4571,
+    "Focussed Negotiator Blackbird"
+  ],
+  [
+    77529,
+    4571,
+    "Focussed Liberator Celestis"
+  ],
+  [
+    77530,
+    4570,
+    "Focussed Negotiator Corax"
+  ],
+  [
+    77531,
+    4570,
+    "Focussed Liberator Algos"
+  ],
+  [
+    77532,
+    4571,
+    "Leeching Bellicose"
+  ],
+  [
+    77533,
+    4570,
+    "Leeching Talwar"
+  ],
+  [
+    77534,
+    4569,
+    "Focussed Liberator Maulus"
+  ],
+  [
+    77535,
+    4569,
+    "Leeching Medusa"
+  ],
+  [
+    77536,
+    4569,
+    "Focussed Negotiator Griffin"
+  ],
+  [
+    77537,
+    4569,
+    "Ransacker Merlin"
+  ],
+  [
+    77538,
+    4569,
+    "Extinction Cutter"
+  ],
+  [
+    77539,
+    4569,
+    "Devastation Lynx"
+  ],
+  [
+    77540,
+    4570,
+    "Ransacker Cormorant"
+  ],
+  [
+    77541,
+    4570,
+    "Extinction Welder"
+  ],
+  [
+    77542,
+    4570,
+    "Devastation Thrasher"
+  ],
+  [
+    77543,
+    4573,
+    "Proselytizer Oracle"
+  ],
+  [
+    77544,
+    4573,
+    "Eraser Naga"
+  ],
+  [
+    77545,
+    4573,
+    "Grim Naga"
+  ],
+  [
+    77546,
+    4573,
+    "Tycoon Talos"
+  ],
+  [
+    77547,
+    4573,
+    "Sundering Tornado"
+  ],
+  [
+    77548,
+    4573,
+    "Instigator Naga"
+  ],
+  [
+    77549,
+    4573,
+    "Supreme Talos"
+  ],
+  [
+    77550,
+    4573,
+    "Ulfhednar Tornado"
+  ],
+  [
+    77551,
+    4573,
+    "Vitiator Stainer"
+  ],
+  [
+    77552,
+    4573,
+    "Dominant Drekavac"
+  ],
+  [
+    77553,
+    4573,
+    "Veritas Talos"
+  ],
+  [
+    77554,
+    4573,
+    "Spymaster Tornado"
+  ],
+  [
+    77555,
+    4573,
+    "Venerated Oracle"
+  ],
+  [
+    77556,
+    4569,
+    "Guard Incursus"
+  ],
+  [
+    77557,
+    4569,
+    "Corruptor Lynx"
+  ],
+  [
+    77558,
+    4569,
+    "Activist Merlin"
+  ],
+  [
+    77559,
+    4569,
+    "Errant Incursus"
+  ],
+  [
+    77560,
+    4569,
+    "Atgeir Rifter"
+  ],
+  [
+    77561,
+    4569,
+    "Corrupted Cutter"
+  ],
+  [
+    77562,
+    4569,
+    "Stoic Damavik"
+  ],
+  [
+    77563,
+    4569,
+    "Stirring Wanderer"
+  ],
+  [
+    77564,
+    4569,
+    "Spinner Incursus"
+  ],
+  [
+    77565,
+    4569,
+    "Insurgent Rifter"
+  ],
+  [
+    77566,
+    4569,
+    "Blood Punisher"
+  ],
+  [
+    77567,
+    4569,
+    "Smuggler Merlin"
+  ],
+  [
+    77568,
+    4569,
+    "Infiltrating Punisher"
+  ],
+  [
+    77569,
+    4569,
+    "Evader Merlin"
+  ],
+  [
+    77570,
+    4569,
+    "Obscurer Crucifier"
+  ],
+  [
+    77571,
+    4569,
+    "Falsifier Griffin"
+  ],
+  [
+    77572,
+    4569,
+    "Stalker Maulus"
+  ],
+  [
+    77573,
+    4569,
+    "Persecutor Medusa"
+  ],
+  [
+    77574,
+    4569,
+    "Alienator Grabber"
+  ],
+  [
+    77575,
+    4569,
+    "Stalker Damavik"
+  ],
+  [
+    77576,
+    4569,
+    "Enervating Wanderer"
+  ],
+  [
+    77577,
+    4569,
+    "Liberator Maulus"
+  ],
+  [
+    77578,
+    4569,
+    "Negotiator Griffin"
+  ],
+  [
+    77579,
+    4569,
+    "Blight Vigil"
+  ],
+  [
+    77580,
+    4569,
+    "Diverter Maulus"
+  ],
+  [
+    77581,
+    4569,
+    "Spotter Vigil"
+  ],
+  [
+    77582,
+    4569,
+    "Damning Crucifier"
+  ],
+  [
+    77583,
+    4569,
+    "Blindsider Griffin"
+  ],
+  [
+    77584,
+    4569,
+    "Bastion Navitas"
+  ],
+  [
+    77585,
+    4569,
+    "Bolstering Bantam"
+  ],
+  [
+    77586,
+    4569,
+    "Refuge Burst"
+  ],
+  [
+    77587,
+    4569,
+    "Shepherd Inquisitor"
+  ],
+  [
+    77588,
+    4569,
+    "Sawbones Bantam"
+  ],
+  [
+    77589,
+    4569,
+    "Bulwark Navitas"
+  ],
+  [
+    77590,
+    4569,
+    "Malignant Swordspine"
+  ],
+  [
+    77591,
+    4569,
+    "Machinist Segmenter"
+  ],
+  [
+    77592,
+    4569,
+    "Fortifying Damavik"
+  ],
+  [
+    77593,
+    4569,
+    "Soothing Conservator"
+  ],
+  [
+    77594,
+    4569,
+    "Skald Burst"
+  ],
+  [
+    77595,
+    4569,
+    "Justifier Inquisitor"
+  ],
+  [
+    77596,
+    4569,
+    "Insurer Bantam"
+  ],
+  [
+    77597,
+    4569,
+    "Exonerater Navitas"
+  ],
+  [
+    77598,
+    4569,
+    "Falsifier Hawk"
+  ],
+  [
+    77599,
+    4569,
+    "Diverter Enyo"
+  ],
+  [
+    77600,
+    4569,
+    "Liberator Enyo"
+  ],
+  [
+    77601,
+    4569,
+    "Negotiator Hawk"
+  ],
+  [
+    77602,
+    4569,
+    "Spotter Wolf"
+  ],
+  [
+    77603,
+    4569,
+    "Sanguinary Cruor"
+  ],
+  [
+    77604,
+    4569,
+    "Blindsider Worm"
+  ],
+  [
+    77605,
+    4569,
+    "Stalker Daredevil"
+  ],
+  [
+    77606,
+    4569,
+    "Persecutor Dramiel"
+  ],
+  [
+    77607,
+    4569,
+    "Alienator Clamper"
+  ],
+  [
+    77608,
+    4569,
+    "Umbral Damavik"
+  ],
+  [
+    77609,
+    4569,
+    "Enervating Preserver"
+  ],
+  [
+    77610,
+    4569,
+    "Blight Wolf"
+  ],
+  [
+    77611,
+    4569,
+    "Quietus Retribution"
+  ],
+  [
+    77612,
+    4570,
+    "Liberator Algos"
+  ],
+  [
+    77613,
+    4570,
+    "Negotiator Corax"
+  ],
+  [
+    77614,
+    4570,
+    "Spotter Talwar"
+  ],
+  [
+    77615,
+    4570,
+    "Sanguinary Dragoon"
+  ],
+  [
+    77616,
+    4570,
+    "Blindsider Corax"
+  ],
+  [
+    77617,
+    4570,
+    "Stalker Algos"
+  ],
+  [
+    77618,
+    4570,
+    "Persecutor Talwar"
+  ],
+  [
+    77619,
+    4570,
+    "Alienator Palletizer"
+  ],
+  [
+    77620,
+    4570,
+    "Ravenous Kikimora"
+  ],
+  [
+    77621,
+    4570,
+    "Enervating Custodian"
+  ],
+  [
+    77622,
+    4570,
+    "Blight Talwar"
+  ],
+  [
+    77623,
+    4570,
+    "Quietus Dragoon"
+  ],
+  [
+    77624,
+    4570,
+    "Falsifier Corax"
+  ],
+  [
+    77625,
+    4570,
+    "Diverter Algos"
+  ],
+  [
+    77626,
+    4570,
+    "Stoic Kikimora"
+  ],
+  [
+    77627,
+    4570,
+    "Stirring Custodian"
+  ],
+  [
+    77628,
+    4570,
+    "Atgeir Thrasher"
+  ],
+  [
+    77629,
+    4570,
+    "Infiltrating Coercer"
+  ],
+  [
+    77630,
+    4570,
+    "Evader Cormorant"
+  ],
+  [
+    77631,
+    4570,
+    "Spinner Catalyst"
+  ],
+  [
+    77632,
+    4570,
+    "Errant Catalyst"
+  ],
+  [
+    77633,
+    4570,
+    "Activist Cormorant"
+  ],
+  [
+    77634,
+    4570,
+    "Insurgent Thrasher"
+  ],
+  [
+    77635,
+    4570,
+    "Blood Coercer"
+  ],
+  [
+    77636,
+    4570,
+    "Smuggler Cormorant"
+  ],
+  [
+    77637,
+    4570,
+    "Guard Catalyst"
+  ],
+  [
+    77638,
+    4570,
+    "Corruptor Thrasher"
+  ],
+  [
+    77639,
+    4570,
+    "Corrupted Welder"
+  ],
+  [
+    77640,
+    4571,
+    "Valiant Thorax"
+  ],
+  [
+    77641,
+    4571,
+    "Defiant Moa"
+  ],
+  [
+    77642,
+    4571,
+    "Infiltrator Stabber"
+  ],
+  [
+    77643,
+    4571,
+    "Scarlet Omen"
+  ],
+  [
+    77644,
+    4571,
+    "Brutal Moa"
+  ],
+  [
+    77645,
+    4571,
+    "Sentinel Thorax"
+  ],
+  [
+    77646,
+    4571,
+    "Slayer Stabber"
+  ],
+  [
+    77647,
+    4571,
+    "Proliferator Handler"
+  ],
+  [
+    77648,
+    4571,
+    "Fervent Vedmak"
+  ],
+  [
+    77649,
+    4571,
+    "Risen Reclaimer"
+  ],
+  [
+    77650,
+    4571,
+    "Vandal Stabber"
+  ],
+  [
+    77651,
+    4571,
+    "Saboteur Omen"
+  ],
+  [
+    77652,
+    4571,
+    "Scrubber Moa"
+  ],
+  [
+    77653,
+    4571,
+    "Compeller Thorax"
+  ],
+  [
+    77654,
+    4571,
+    "Sawbones Osprey"
+  ],
+  [
+    77655,
+    4571,
+    "Bulwark Exequror"
+  ],
+  [
+    77656,
+    4571,
+    "Malignant Ixion"
+  ],
+  [
+    77657,
+    4571,
+    "Machinist Renderer"
+  ],
+  [
+    77658,
+    4571,
+    "Fortifying Rodiva"
+  ],
+  [
+    77659,
+    4571,
+    "Soothing Rectifier"
+  ],
+  [
+    77660,
+    4571,
+    "Skald Scythe"
+  ],
+  [
+    77661,
+    4571,
+    "Justifier Augoror"
+  ],
+  [
+    77662,
+    4571,
+    "Insurer Osprey"
+  ],
+  [
+    77663,
+    4571,
+    "Exonerater Exequror"
+  ],
+  [
+    77664,
+    4571,
+    "Bastion Exequror"
+  ],
+  [
+    77665,
+    4571,
+    "Bolstering Osprey"
+  ],
+  [
+    77666,
+    4571,
+    "Refuge Scythe"
+  ],
+  [
+    77667,
+    4571,
+    "Shepherd Augoror"
+  ],
+  [
+    77668,
+    4571,
+    "Liberator Celestis"
+  ],
+  [
+    77669,
+    4571,
+    "Negotiator Blackbird"
+  ],
+  [
+    77670,
+    4571,
+    "Spotter Bellicose"
+  ],
+  [
+    77671,
+    4571,
+    "Damning Arbitrator"
+  ],
+  [
+    77672,
+    4571,
+    "Blindsider Blackbird"
+  ],
+  [
+    77673,
+    4571,
+    "Stalker Celestis"
+  ],
+  [
+    77674,
+    4571,
+    "Persecutor Bellicose"
+  ],
+  [
+    77675,
+    4571,
+    "Alienator Manipulator"
+  ],
+  [
+    77676,
+    4571,
+    "Ravenous Vedmak"
+  ],
+  [
+    77677,
+    4571,
+    "Enervating Reclaimer"
+  ],
+  [
+    77678,
+    4571,
+    "Blight Bellicose"
+  ],
+  [
+    77679,
+    4571,
+    "Obscurer Arbitrator"
+  ],
+  [
+    77680,
+    4571,
+    "Falsifier Blackbird"
+  ],
+  [
+    77681,
+    4571,
+    "Diverter Celestis"
+  ],
+  [
+    77682,
+    4571,
+    "Liberator Deimos"
+  ],
+  [
+    77683,
+    4571,
+    "Negotiator Eagle"
+  ],
+  [
+    77684,
+    4571,
+    "Spotter Vagabond"
+  ],
+  [
+    77685,
+    4571,
+    "Sanguinary Ashimmu"
+  ],
+  [
+    77686,
+    4571,
+    "Blindsider Gila"
+  ],
+  [
+    77687,
+    4571,
+    "Stalker Vigilant"
+  ],
+  [
+    77688,
+    4571,
+    "Persecutor Cynabal"
+  ],
+  [
+    77689,
+    4571,
+    "Alienator Corrector"
+  ],
+  [
+    77690,
+    4571,
+    "Stifler Vedmak"
+  ],
+  [
+    77691,
+    4571,
+    "Tyrannos Kyrios"
+  ],
+  [
+    77692,
+    4571,
+    "Blight Vagabond"
+  ],
+  [
+    77693,
+    4571,
+    "Quietus Zealot"
+  ],
+  [
+    77694,
+    4571,
+    "Falsifier Eagle"
+  ],
+  [
+    77695,
+    4571,
+    "Diverter Deimos"
+  ],
+  [
+    77696,
+    4574,
+    "Ravenous Leshak"
+  ],
+  [
+    77697,
+    4574,
+    "Dominant Leshak"
+  ],
+  [
+    77698,
+    4574,
+    "Watchful Steward"
+  ],
+  [
+    77699,
+    4574,
+    "Vitiator Inspector"
+  ],
+  [
+    77700,
+    4574,
+    "Alienator Controller"
+  ],
+  [
+    77701,
+    4574,
+    "Enervating Overseer"
+  ],
+  [
+    77702,
+    4574,
+    "Tyrannos Basileus"
+  ],
+  [
+    77707,
+    4575,
+    "Unaligned Dekaisogen"
+  ],
+  [
+    77708,
+    4575,
+    "Fluctuating Entropic Regulator"
+  ],
+  [
+    77709,
+    227,
+    "[HF] Defend the Base - Combat Spawner"
+  ],
+  [
+    77710,
+    227,
+    "[HF] Disable the Defenses - Combat Spawner"
+  ],
+  [
+    77711,
+    227,
+    "[HF] Charge the Gun - Combat Spawner"
+  ],
+  [
+    77712,
+    227,
+    "[HF] Mining Rush - Combat Spawner"
+  ],
+  [
+    77725,
+    268,
+    "Advanced Capital Ship Construction"
+  ],
+  [
+    77727,
+    306,
+    "Faulty Triglavian Cache"
+  ],
+  [
+    77738,
+    257,
+    "Lancer Dreadnoughts"
+  ],
+  [
+    77739,
+    255,
+    "Disruptive Lance Operation"
+  ],
+  [
+    77741,
+    226,
+    "Ashes Sympathizer's Clan Commons"
+  ],
+  [
+    77742,
+    186,
+    "Ashes Sympathizer's Clan Commons Wreck "
+  ],
+  [
+    77754,
+    227,
+    "[HF]AoE Scrambler DO NOT TRANSLATE"
+  ],
+  [
+    77855,
+    4579,
+    "Drifter Bubble 10k 01a"
+  ],
+  [
+    77889,
+    186,
+    "Escaping Hauler Wreck"
   ]
 ]

@@ -715,6 +715,10 @@
     "name": "Assault Frigate",
     "types": [
       [
+        74141,
+        "Geri"
+      ],
+      [
         2834,
         "Utu"
       ],
@@ -771,6 +775,10 @@
   "358": {
     "name": "Heavy Assault Cruiser",
     "types": [
+      [
+        74316,
+        "Bestla"
+      ],
       [
         2836,
         "Adrestia"

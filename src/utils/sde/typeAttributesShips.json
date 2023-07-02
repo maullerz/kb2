@@ -11069,6 +11069,17 @@
     "published": false,
     "stackable": true
   },
+  "2303": {
+    "attributeID": 2303,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Ship Role Bonus. Not multiplied by skills.",
+    "highIsGood": true,
+    "name": "shipBonusRole6",
+    "published": false,
+    "stackable": true
+  },
   "2308": {
     "attributeID": 2308,
     "categoryID": 37,
@@ -12540,6 +12551,7 @@
       "ru": "Вместимость отсека для подсистем",
       "zh": "子系统舱容量"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
     "iconID": 71,
     "name": "specialSubsystemHoldCapacity",
@@ -15017,6 +15029,74 @@
     "displayWhenZero": false,
     "highIsGood": true,
     "name": "shipBonusAT3",
+    "published": false,
+    "stackable": true
+  },
+  "5325": {
+    "attributeID": 5325,
+    "categoryID": 40,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Mobile Depot Hold Capacity",
+    "displayNameID": {
+      "de": "Hangarkapazität für Mobile Depots",
+      "en": "Mobile Depot Hold Capacity",
+      "es": "Capacidad de la bodega de almacenes móviles",
+      "fr": "Capacité de la soute à dépôts mobiles",
+      "ja": "移動式貯蔵ホールド容量",
+      "ko": "이동식 저장고 적재량",
+      "ru": "Объём отсека для автономных постов снабжения",
+      "zh": "移动式仓库舱容量"
+    },
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "iconID": 71,
+    "name": "specialMobileDepotHoldCapacity",
+    "published": true,
+    "stackable": false,
+    "tooltipDescriptionID": {
+      "de": "Das Gesamtvolumen an Mobilen Depots, das im Hangar des Schiffs für Mobile Depots gelagert werden kann.",
+      "en": "The total volume of mobile depots that can be stored in the ship's mobile depot hold",
+      "es": "El volumen total de almacenes móviles que pueden almacenarse en la bodega de almacenes móviles de la nave.",
+      "fr": "Volume total de dépôts mobiles pouvant être stockés dans la soute à dépôts mobiles du vaisseau",
+      "ja": "艦船の移動式貯蔵ホールドに積載できる移動式貯蔵庫の総量",
+      "ko": "함선에 적재할 수 있는 이동식 저장고의 총 부피입니다.",
+      "ru": "Общее количество автономных постов снабжения, которые можно разместить в соответствующем отсеке корабля",
+      "zh": "舰船的移动式仓库舱可容纳的移动式仓库总容量"
+    },
+    "tooltipTitleID": {
+      "de": "Hangarkapazität für Mobile Depots",
+      "en": "Mobile Depot Hold Capacity",
+      "es": "Capacidad de la bodega de almacenes móviles",
+      "fr": "Capacité de la soute à dépôts mobiles",
+      "ja": "移動式貯蔵ホールド容量",
+      "ko": "이동식 저장고 적재량",
+      "ru": "Объём отсека для автономных постов снабжения",
+      "zh": "移动式仓库舱容量"
+    },
+    "unitID": 9
+  },
+  "5417": {
+    "attributeID": 5417,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Multiplied by Lancer Dreadnought skill level",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBonusAdvancedDreadnought1",
+    "published": false,
+    "stackable": true
+  },
+  "5418": {
+    "attributeID": 5418,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Multiplied by Lancer Dreadnoughts skill level",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBonusAdvancedDreadnought2",
     "published": false,
     "stackable": true
   }

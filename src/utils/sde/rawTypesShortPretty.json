@@ -117005,7 +117005,7 @@
   },
   "64006": {
     "groupID": 1665,
-    "name": "SARO Enforcer"
+    "name": "SoCT Enforcer"
   },
   "64007": {
     "groupID": 1665,
@@ -117081,7 +117081,7 @@
   },
   "64025": {
     "groupID": 1667,
-    "name": "Smuggler Underboss"
+    "name": "SoCT Master"
   },
   "64026": {
     "groupID": 1667,
@@ -117361,7 +117361,7 @@
   },
   "64104": {
     "groupID": 186,
-    "name": "Bloodraider Structure Ruins"
+    "name": "Blood Raider Structure Ruins"
   },
   "64105": {
     "groupID": 319,
@@ -123593,7 +123593,7 @@
   },
   "74385": {
     "groupID": 500,
-    "name": "Scarlet Embrace Firework ( copy )"
+    "name": "Reserved for future firework use (DO NOT TRANSLATE)"
   },
   "74386": {
     "groupID": 500,
@@ -125581,19 +125581,19 @@
   },
   "75932": {
     "groupID": 4548,
-    "name": "Imperial Shipcaster Beacon Construction Structure"
+    "name": "Imperial Shipcaster Beacon Constructor"
   },
   "75933": {
     "groupID": 4548,
-    "name": "State Shipcaster Beacon Construction Structure"
+    "name": "State Shipcaster Beacon Constructor"
   },
   "75934": {
     "groupID": 4548,
-    "name": "Federation Shipcaster Beacon Construction Structure"
+    "name": "Federation Shipcaster Beacon Constructor"
   },
   "75935": {
     "groupID": 4548,
-    "name": "Republic Shipcaster Beacon Construction Structure"
+    "name": "Republic Shipcaster Beacon Constructor"
   },
   "75984": {
     "groupID": 226,
@@ -126276,11 +126276,11 @@
     "name": "Vulnerable Minmatar Research Lab"
   },
   "76203": {
-    "groupID": 314,
+    "groupID": 333,
     "name": "Stellar Transmuter Datacore"
   },
   "76204": {
-    "groupID": 314,
+    "groupID": 333,
     "name": "Transport Relay Datacore"
   },
   "76205": {
@@ -126292,27 +126292,27 @@
     "name": "Transport Relay Datacore Blueprint"
   },
   "76207": {
-    "groupID": 314,
+    "groupID": 1141,
     "name": "Stellar Transmuter Research Index File"
   },
   "76208": {
-    "groupID": 314,
+    "groupID": 1141,
     "name": "Stellar Transmuter Research Data Fragment"
   },
   "76209": {
-    "groupID": 314,
+    "groupID": 1141,
     "name": "Stellar Transmuter Research Encryption Key"
   },
   "76210": {
-    "groupID": 314,
+    "groupID": 1141,
     "name": "Transport Relay Research Index File"
   },
   "76211": {
-    "groupID": 314,
+    "groupID": 1141,
     "name": "Transport Relay Research Data Fragment"
   },
   "76212": {
-    "groupID": 314,
+    "groupID": 1141,
     "name": "Transport Relay Research Encryption Key"
   },
   "76214": {
@@ -126857,7 +126857,7 @@
   },
   "76438": {
     "groupID": 186,
-    "name": "Amarr Shipcaster Beacon Wreck"
+    "name": "Imperial Shipcaster Beacon Wreck"
   },
   "76453": {
     "groupID": 1975,
@@ -126885,23 +126885,143 @@
   },
   "76465": {
     "groupID": 4549,
-    "name": "Imperial Shipcaster"
+    "name": "Imperial Interstellar Shipcaster"
   },
   "76466": {
     "groupID": 4549,
-    "name": "State Shipcaster"
+    "name": "State Interstellar Shipcaster"
   },
   "76467": {
     "groupID": 4549,
-    "name": "Federation Shipcaster"
+    "name": "Federation Interstellar Shipcaster"
   },
   "76468": {
     "groupID": 4549,
-    "name": "Republic Shipcaster"
+    "name": "Republic Interstellar Shipcaster"
   },
   "76483": {
     "groupID": 1975,
     "name": "Amarr Military Station Ruins"
+  },
+  "76506": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day XX Cerebral Accelerator"
+  },
+  "76507": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day XX Cerebral Accelerator"
+  },
+  "76508": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day XX Cerebral Accelerator"
+  },
+  "76509": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day XX Glamourex Booster"
+  },
+  "76510": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day XX Glamourex Booster"
+  },
+  "76511": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day XX Glamourex Booster"
+  },
+  "76512": {
+    "groupID": 303,
+    "name": "Guri Malakim Observability Booster I"
+  },
+  "76513": {
+    "groupID": 303,
+    "name": "Guri Malakim Observability Booster II"
+  },
+  "76514": {
+    "groupID": 303,
+    "name": "Guri Malakim Observability Booster III"
+  },
+  "76515": {
+    "groupID": 303,
+    "name": "Guri Malakim Observability Booster IV"
+  },
+  "76516": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster I"
+  },
+  "76517": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster II"
+  },
+  "76518": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster III"
+  },
+  "76519": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster IV"
+  },
+  "76520": {
+    "groupID": 303,
+    "name": "Guri Malakim Shield Booster I"
+  },
+  "76521": {
+    "groupID": 303,
+    "name": "Guri Malakim Shield Booster II"
+  },
+  "76522": {
+    "groupID": 303,
+    "name": "Guri Malakim Shield Booster III"
+  },
+  "76523": {
+    "groupID": 303,
+    "name": "Guri Malakim Shield Booster IV"
+  },
+  "76524": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster I"
+  },
+  "76525": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster II"
+  },
+  "76526": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster III"
+  },
+  "76527": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster IV"
+  },
+  "76528": {
+    "groupID": 303,
+    "name": "Guri Malakim Turret Booster I"
+  },
+  "76529": {
+    "groupID": 303,
+    "name": "Guri Malakim Turret Booster II"
+  },
+  "76530": {
+    "groupID": 303,
+    "name": "Guri Malakim Turret Booster III"
+  },
+  "76531": {
+    "groupID": 303,
+    "name": "Guri Malakim Turret Booster IV"
+  },
+  "76532": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster I"
+  },
+  "76533": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster II"
+  },
+  "76534": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster III"
+  },
+  "76535": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster IV"
   },
   "76717": {
     "groupID": 4471,
@@ -127575,6 +127695,10 @@
     "groupID": 4471,
     "name": "Wyvern Corporation Emblem"
   },
+  "76893": {
+    "groupID": 1975,
+    "name": "Jove Observatory (DO NOT TRANSLATE)"
+  },
   "76903": {
     "groupID": 227,
     "name": "SW Couriers Merc Spawner (Do not translate)"
@@ -127589,15 +127713,23 @@
   },
   "76922": {
     "groupID": 186,
-    "name": "Caldari Shipcaster Beacon Wreck"
+    "name": "State Shipcaster Beacon Wreck"
   },
   "76923": {
     "groupID": 186,
-    "name": "Gallente Shipcaster Beacon Wreck"
+    "name": "Federation Shipcaster Beacon Wreck"
   },
   "76924": {
     "groupID": 186,
-    "name": "Minmatar Shipcaster Beacon Wreck"
+    "name": "Republic Shipcaster Beacon Wreck"
+  },
+  "76925": {
+    "groupID": 1975,
+    "name": "Jove Observatory (DO NOT TRANSLATE)"
+  },
+  "76926": {
+    "groupID": 1975,
+    "name": "Fortified Angel Bunker (DO NOT TRANSLATE)"
   },
   "76927": {
     "groupID": 226,
@@ -127635,6 +127767,14 @@
     "groupID": 1568,
     "name": "Tangling Vila Skarbnik"
   },
+  "76945": {
+    "groupID": 1975,
+    "name": "SOCT Research Facility (DO NOT TRANSLATE)"
+  },
+  "76946": {
+    "groupID": 1975,
+    "name": "Fortizar (DO NOT TRANSLATE)"
+  },
   "76947": {
     "groupID": 4471,
     "name": "Vehement Alliance Emblem"
@@ -127650,5 +127790,1857 @@
   "76950": {
     "groupID": 4471,
     "name": "Zirnitra Corporation Emblem"
+  },
+  "76959": {
+    "groupID": 226,
+    "name": "Surveyed Jove Observatory"
+  },
+  "76960": {
+    "groupID": 226,
+    "name": "Raided Jove Observatory"
+  },
+  "76961": {
+    "groupID": 226,
+    "name": "SoCT Survey Outpost"
+  },
+  "76962": {
+    "groupID": 226,
+    "name": "SoCT Retrievals Repository"
+  },
+  "76963": {
+    "groupID": 500,
+    "name": " Infinite Celebrations Firework"
+  },
+  "76964": {
+    "groupID": 1194,
+    "name": "Capsuleer Day XX Fireworks Package"
+  },
+  "76970": {
+    "groupID": 310,
+    "name": "SoCT Research Depot"
+  },
+  "76971": {
+    "groupID": 1975,
+    "name": "Non-Interactable ms1_wreck (Do Not Translate)"
+  },
+  "76980": {
+    "groupID": 227,
+    "name": "CD 20 SoCT Easy Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "76981": {
+    "groupID": 227,
+    "name": "CD 20 SoCT Easy Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "76983": {
+    "groupID": 227,
+    "name": "[HF] Defend the Base - Focused Combat Spawner"
+  },
+  "76985": {
+    "groupID": 310,
+    "name": "Guristas Manufacturing Plant"
+  },
+  "76986": {
+    "groupID": 1194,
+    "name": "Scorched Container"
+  },
+  "76998": {
+    "groupID": 227,
+    "name": "[HF] No Escape - Combat Spawner"
+  },
+  "76999": {
+    "groupID": 227,
+    "name": "CD 20 Pirate Easy Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "77000": {
+    "groupID": 227,
+    "name": "CD 20 Pirate Easy Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "77005": {
+    "groupID": 4471,
+    "name": "Bustard Alliance Emblem"
+  },
+  "77006": {
+    "groupID": 4471,
+    "name": "Bustard Corporation Emblem"
+  },
+  "77019": {
+    "groupID": 4572,
+    "name": "Legatus Bane"
+  },
+  "77035": {
+    "groupID": 227,
+    "name": "Vila Allopoiesis Nexus Spawner"
+  },
+  "77036": {
+    "groupID": 1975,
+    "name": "Drone Lookout"
+  },
+  "77040": {
+    "groupID": 227,
+    "name": "Nesosilicate Rakovene Field Spawner"
+  },
+  "77055": {
+    "groupID": 1194,
+    "name": "Capsuleer Day Glamourex Crate"
+  },
+  "77056": {
+    "groupID": 1975,
+    "name": "Large Crystal Environment 1 ( Boombox DO NOT TRANSLATE)"
+  },
+  "77057": {
+    "groupID": 1975,
+    "name": "Guristas Outpost Wreckage ( Boombox DO NOT TRANSLATE)"
+  },
+  "77058": {
+    "groupID": 1975,
+    "name": "Angel Tower non interactable ( Cap Day DO NOT TRANSALTE)"
+  },
+  "77059": {
+    "groupID": 226,
+    "name": "SoCT Azbel Research Station"
+  },
+  "77060": {
+    "groupID": 1975,
+    "name": "Medium Crystal Environment 3 ( Cap Day DO NOT TRANSLATE)"
+  },
+  "77061": {
+    "groupID": 227,
+    "name": "[HF] No Escape - Hauler Spawner"
+  },
+  "77062": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 5 ( Cap Day DO NOT TRANSLATE)"
+  },
+  "77063": {
+    "groupID": 1975,
+    "name": "Guristas Warehouse non interactable ( cap day DO NOT TRANSLATE)"
+  },
+  "77064": {
+    "groupID": 1975,
+    "name": "Tatara Wreck ( cap day DO NOT TRANSLATE)"
+  },
+  "77065": {
+    "groupID": 4576,
+    "name": "Blood Raider Temple"
+  },
+  "77066": {
+    "groupID": 4577,
+    "name": "Offertory Sigil"
+  },
+  "77092": {
+    "groupID": 1975,
+    "name": "Shadow War Music - Pochven mining site"
+  },
+  "77097": {
+    "groupID": 306,
+    "name": "Guri Malakim Survey Data Vault"
+  },
+  "77098": {
+    "groupID": 306,
+    "name": "Guri Malakim Recovered Data Vault"
+  },
+  "77099": {
+    "groupID": 306,
+    "name": "SoCT Survey Data Relay Tower"
+  },
+  "77100": {
+    "groupID": 306,
+    "name": "SoCT Research Data Relay Tower"
+  },
+  "77113": {
+    "groupID": 226,
+    "name": "QA underConstruction LCO in progress CANTAKE (DO NOT TRANSLATE)"
+  },
+  "77114": {
+    "groupID": 25,
+    "name": "Metamorphosis"
+  },
+  "77118": {
+    "groupID": 4568,
+    "name": "Amperum Mutanite"
+  },
+  "77120": {
+    "groupID": 4576,
+    "name": "Longshot Relay"
+  },
+  "77121": {
+    "groupID": 306,
+    "name": "Remote Armor Array"
+  },
+  "77126": {
+    "groupID": 4576,
+    "name": "Holy Mission"
+  },
+  "77127": {
+    "groupID": 1568,
+    "name": "Guri Malakim Griffin"
+  },
+  "77128": {
+    "groupID": 1568,
+    "name": "Guri Malakim Dramiel"
+  },
+  "77129": {
+    "groupID": 1568,
+    "name": "Guri Malakim Worm"
+  },
+  "77130": {
+    "groupID": 1665,
+    "name": "Guri Malakim Cynabal"
+  },
+  "77131": {
+    "groupID": 1665,
+    "name": "Guri Malakim Gila"
+  },
+  "77132": {
+    "groupID": 1666,
+    "name": "Guri Malakim Tornado"
+  },
+  "77133": {
+    "groupID": 1667,
+    "name": "Guri Malakim Boss"
+  },
+  "77134": {
+    "groupID": 1667,
+    "name": "Guri Malakim Boss"
+  },
+  "77135": {
+    "groupID": 1667,
+    "name": "Guri Malakim Godfather"
+  },
+  "77136": {
+    "groupID": 1667,
+    "name": "Guri Malakim Godfather"
+  },
+  "77149": {
+    "groupID": 310,
+    "name": "Homefront Operations Beacon"
+  },
+  "77150": {
+    "groupID": 227,
+    "name": "CD 20 Pirate Hard Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "77151": {
+    "groupID": 1568,
+    "name": "SoCT Pacifier"
+  },
+  "77152": {
+    "groupID": 1568,
+    "name": "SoCT Skybreaker"
+  },
+  "77153": {
+    "groupID": 1568,
+    "name": "SoCT Metamorphosis"
+  },
+  "77154": {
+    "groupID": 1664,
+    "name": "SoCT Sunesis"
+  },
+  "77155": {
+    "groupID": 1665,
+    "name": "SoCT Enforcer"
+  },
+  "77156": {
+    "groupID": 1665,
+    "name": "SoCT Stormbringer"
+  },
+  "77157": {
+    "groupID": 1666,
+    "name": "SoCT Gnosis"
+  },
+  "77158": {
+    "groupID": 1667,
+    "name": "SoCT Master"
+  },
+  "77159": {
+    "groupID": 1667,
+    "name": "SoCT Master"
+  },
+  "77160": {
+    "groupID": 1667,
+    "name": "SoCT Grandmaster"
+  },
+  "77161": {
+    "groupID": 1667,
+    "name": "SoCT Grandmaster"
+  },
+  "77162": {
+    "groupID": 227,
+    "name": "CD 20 Pirate Hard Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "77179": {
+    "groupID": 226,
+    "name": "Hall of Sacrifice"
+  },
+  "77180": {
+    "groupID": 952,
+    "name": "Holder Providence"
+  },
+  "77181": {
+    "groupID": 227,
+    "name": "[HF] Charge the Gun - Focused Neutralizing Spawner"
+  },
+  "77182": {
+    "groupID": 227,
+    "name": "CD 20 SoCT Hard Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "77183": {
+    "groupID": 4572,
+    "name": "Verndari Valravn"
+  },
+  "77184": {
+    "groupID": 4572,
+    "name": "Arbiter Karura"
+  },
+  "77185": {
+    "groupID": 4572,
+    "name": "Peacekeeper Hubris"
+  },
+  "77192": {
+    "groupID": 227,
+    "name": "Vila Allopoiesis Nexus Spawner 2 (Do not translate)"
+  },
+  "77193": {
+    "groupID": 1975,
+    "name": "Shadow War Music - Pochven hacking site"
+  },
+  "77195": {
+    "groupID": 4576,
+    "name": "Quantum-Override Broadcaster"
+  },
+  "77196": {
+    "groupID": 306,
+    "name": "Remote Jamming Array"
+  },
+  "77197": {
+    "groupID": 306,
+    "name": "Remote Shield Array"
+  },
+  "77198": {
+    "groupID": 306,
+    "name": "Remote Cloaking Array"
+  },
+  "77199": {
+    "groupID": 4576,
+    "name": "Sacred Exploiter"
+  },
+  "77200": {
+    "groupID": 4576,
+    "name": "Megafinance Siphoner"
+  },
+  "77251": {
+    "groupID": 4576,
+    "name": "Occupied Industrial Housing"
+  },
+  "77252": {
+    "groupID": 4576,
+    "name": "Decommissioned Base"
+  },
+  "77253": {
+    "groupID": 4576,
+    "name": "Cartel Racket HQ"
+  },
+  "77254": {
+    "groupID": 4569,
+    "name": "Shrouding Retribution"
+  },
+  "77255": {
+    "groupID": 4569,
+    "name": "Preaching Inquisitor"
+  },
+  "77256": {
+    "groupID": 4569,
+    "name": "Shrouding Crucifier"
+  },
+  "77257": {
+    "groupID": 4570,
+    "name": "Shrouding Dragoon"
+  },
+  "77258": {
+    "groupID": 4569,
+    "name": "Wrathful Punisher"
+  },
+  "77259": {
+    "groupID": 4570,
+    "name": "Wrathful Coercer"
+  },
+  "77260": {
+    "groupID": 4571,
+    "name": "Righteous Omen"
+  },
+  "77261": {
+    "groupID": 4573,
+    "name": "Grand Oracle"
+  },
+  "77277": {
+    "groupID": 186,
+    "name": "Longshot Relay Wreck"
+  },
+  "77278": {
+    "groupID": 186,
+    "name": "Quantum-Override Broadcaster Wreck"
+  },
+  "77279": {
+    "groupID": 186,
+    "name": "Megafinance Siphoner Wreck"
+  },
+  "77280": {
+    "groupID": 186,
+    "name": "Sacred Exploiter Wreck"
+  },
+  "77281": {
+    "groupID": 4594,
+    "name": "Hubris"
+  },
+  "77283": {
+    "groupID": 4594,
+    "name": "Bane"
+  },
+  "77284": {
+    "groupID": 4594,
+    "name": "Karura"
+  },
+  "77287": {
+    "groupID": 4576,
+    "name": "Charon Repatriator"
+  },
+  "77288": {
+    "groupID": 4594,
+    "name": "Valravn"
+  },
+  "77289": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_01a"
+  },
+  "77290": {
+    "groupID": 4576,
+    "name": "Master Controller"
+  },
+  "77292": {
+    "groupID": 4576,
+    "name": "Clan Commons"
+  },
+  "77295": {
+    "groupID": 226,
+    "name": "Black Market"
+  },
+  "77301": {
+    "groupID": 226,
+    "name": "Narcotics Lab"
+  },
+  "77303": {
+    "groupID": 952,
+    "name": "Fenrir Quartermaster"
+  },
+  "77304": {
+    "groupID": 952,
+    "name": "Charon Requisition"
+  },
+  "77305": {
+    "groupID": 952,
+    "name": "Obelisk Impound"
+  },
+  "77306": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77307": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77308": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77309": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77310": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77311": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77312": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77313": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77314": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77315": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77316": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77317": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77318": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77319": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77320": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77321": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77322": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77323": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77324": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77325": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77326": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77327": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77328": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77329": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77330": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77331": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77332": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77333": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77334": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77335": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77336": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77337": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77338": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77339": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77340": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77341": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77342": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77343": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77344": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77345": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77346": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77347": {
+    "groupID": 227,
+    "name": "VDB_Cloud_Sliver_01a ( copy )"
+  },
+  "77348": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_01b"
+  },
+  "77349": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_01c"
+  },
+  "77350": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_01d"
+  },
+  "77351": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_01e"
+  },
+  "77352": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_02a"
+  },
+  "77353": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_02b"
+  },
+  "77354": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Sliver_02c"
+  },
+  "77355": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01a"
+  },
+  "77356": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01b"
+  },
+  "77357": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01c"
+  },
+  "77358": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01d"
+  },
+  "77359": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01e"
+  },
+  "77360": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01f"
+  },
+  "77361": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01g"
+  },
+  "77362": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_01h"
+  },
+  "77363": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_02a"
+  },
+  "77364": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_02b"
+  },
+  "77365": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_02c"
+  },
+  "77366": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_02d"
+  },
+  "77367": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_02e"
+  },
+  "77368": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_03a"
+  },
+  "77369": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_03b"
+  },
+  "77370": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_03c"
+  },
+  "77371": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_03d"
+  },
+  "77372": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_04a"
+  },
+  "77373": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_04b"
+  },
+  "77374": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_04c"
+  },
+  "77375": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_04d"
+  },
+  "77376": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_04e"
+  },
+  "77377": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_05a"
+  },
+  "77378": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_05b"
+  },
+  "77379": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_05c"
+  },
+  "77380": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06a"
+  },
+  "77381": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06b"
+  },
+  "77382": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06c"
+  },
+  "77383": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06d"
+  },
+  "77384": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06e"
+  },
+  "77385": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06f"
+  },
+  "77386": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06g"
+  },
+  "77387": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06h"
+  },
+  "77388": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06i"
+  },
+  "77389": {
+    "groupID": 4579,
+    "name": "VDB_Cloud_Vortex_06j"
+  },
+  "77391": {
+    "groupID": 186,
+    "name": "Karura Wreck"
+  },
+  "77392": {
+    "groupID": 186,
+    "name": "Valravn Wreck"
+  },
+  "77393": {
+    "groupID": 186,
+    "name": "Bane Wreck"
+  },
+  "77394": {
+    "groupID": 186,
+    "name": "Hubris Wreck"
+  },
+  "77395": {
+    "groupID": 227,
+    "name": "CD 20 Pirate Hard Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "77396": {
+    "groupID": 227,
+    "name": "CD 20 SoCT Hard Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "77397": {
+    "groupID": 186,
+    "name": "Shipcaster Beacon Constructor Wreck"
+  },
+  "77398": {
+    "groupID": 588,
+    "name": "‘Atgeir’ Explosive Disruptive Lance "
+  },
+  "77399": {
+    "groupID": 588,
+    "name": "'Azmaru' Electromagnetic Disruptive Lance"
+  },
+  "77400": {
+    "groupID": 588,
+    "name": "‘Steel Yari’ Kinetic Disruptive Lance"
+  },
+  "77401": {
+    "groupID": 588,
+    "name": "‘Sarissa’ Thermal Disruptive Lance"
+  },
+  "77402": {
+    "groupID": 651,
+    "name": "‘Atgeir’ Explosive Disruptive Lance Blueprint"
+  },
+  "77403": {
+    "groupID": 651,
+    "name": "'Azmaru' Electromagnetic Disruptive Lance Blueprint"
+  },
+  "77404": {
+    "groupID": 651,
+    "name": "‘Steel Yari’ Kinetic Disruptive Lance Blueprint"
+  },
+  "77405": {
+    "groupID": 651,
+    "name": "‘Sarissa’ Thermal Disruptive Lance Blueprint"
+  },
+  "77414": {
+    "groupID": 537,
+    "name": "Hubris Blueprint"
+  },
+  "77415": {
+    "groupID": 537,
+    "name": "Karura Blueprint"
+  },
+  "77416": {
+    "groupID": 537,
+    "name": "Valravn Blueprint"
+  },
+  "77417": {
+    "groupID": 537,
+    "name": "Bane Blueprint"
+  },
+  "77418": {
+    "groupID": 4568,
+    "name": "Peregrinus Mutanite"
+  },
+  "77419": {
+    "groupID": 4568,
+    "name": "Conflagrati Mutanite"
+  },
+  "77420": {
+    "groupID": 4568,
+    "name": "Solis Mutanite"
+  },
+  "77421": {
+    "groupID": 4568,
+    "name": "Tenebraet Mutanite"
+  },
+  "77423": {
+    "groupID": 186,
+    "name": "Holy Mission Wreck"
+  },
+  "77424": {
+    "groupID": 186,
+    "name": "Clan Commons Wreck"
+  },
+  "77425": {
+    "groupID": 186,
+    "name": "Master Controller Wreck"
+  },
+  "77426": {
+    "groupID": 1975,
+    "name": "Partially-constructed State Shipcaster"
+  },
+  "77427": {
+    "groupID": 1194,
+    "name": "Historic Capsuleer Day Clothing Crate"
+  },
+  "77428": {
+    "groupID": 1975,
+    "name": "Amarr Small Structure 01a"
+  },
+  "77429": {
+    "groupID": 1975,
+    "name": "Amarr Small Structure 03a"
+  },
+  "77430": {
+    "groupID": 1975,
+    "name": "Bloodraider Small Structure 01a"
+  },
+  "77431": {
+    "groupID": 1975,
+    "name": "Bloodraider Small Structure 03a"
+  },
+  "77432": {
+    "groupID": 1975,
+    "name": "Bloodraider Small Structure 05a"
+  },
+  "77433": {
+    "groupID": 1975,
+    "name": "Bloodraider Small Structure 07a"
+  },
+  "77434": {
+    "groupID": 1975,
+    "name": "Bloodraider Ring 35k 01b"
+  },
+  "77435": {
+    "groupID": 1975,
+    "name": "Bloodraider Ring 35k 01d"
+  },
+  "77436": {
+    "groupID": 1975,
+    "name": "Minmatar Medium Structure 02a"
+  },
+  "77451": {
+    "groupID": 227,
+    "name": "[HF] Triglavian Easy Spawner"
+  },
+  "77452": {
+    "groupID": 227,
+    "name": "[HF] Sleeper Easy Spawner"
+  },
+  "77453": {
+    "groupID": 227,
+    "name": "[HF] Sleeper Medium Spawner"
+  },
+  "77454": {
+    "groupID": 227,
+    "name": "[HF] Drifter Medium Spawner"
+  },
+  "77455": {
+    "groupID": 227,
+    "name": "[HF] Rogue Drone Medium Spawner"
+  },
+  "77456": {
+    "groupID": 227,
+    "name": "[HF] Triglavian Hard Spawner"
+  },
+  "77457": {
+    "groupID": 227,
+    "name": "[HF] Sleeper Hard Spawner"
+  },
+  "77458": {
+    "groupID": 227,
+    "name": "[HF] Drifter Hard Spawner"
+  },
+  "77459": {
+    "groupID": 227,
+    "name": "[HF] Rogue Drone Hard Spawner"
+  },
+  "77460": {
+    "groupID": 227,
+    "name": "[HF] Killer Spawner"
+  },
+  "77461": {
+    "groupID": 227,
+    "name": "[HF] Drifter Easy Spawner"
+  },
+  "77462": {
+    "groupID": 227,
+    "name": "[HF] Rogue Drone Easy Spawner"
+  },
+  "77463": {
+    "groupID": 227,
+    "name": "[HF] Triglavian Medium Spawner"
+  },
+  "77468": {
+    "groupID": 1975,
+    "name": "Gallente Connection 02a"
+  },
+  "77469": {
+    "groupID": 1975,
+    "name": "Gallente Connection 02b"
+  },
+  "77470": {
+    "groupID": 1975,
+    "name": "Gallente Small Structure 02a"
+  },
+  "77471": {
+    "groupID": 1975,
+    "name": "Gallente Small Structure 05a"
+  },
+  "77472": {
+    "groupID": 1975,
+    "name": "Gallente Warehouse"
+  },
+  "77473": {
+    "groupID": 4575,
+    "name": "Warclone Blanks Vat"
+  },
+  "77474": {
+    "groupID": 4575,
+    "name": "Contraband Freight"
+  },
+  "77475": {
+    "groupID": 4575,
+    "name": "Narcotics Package"
+  },
+  "77476": {
+    "groupID": 4575,
+    "name": "M.R.F. Supplies"
+  },
+  "77487": {
+    "groupID": 4569,
+    "name": "Annihilating Punisher"
+  },
+  "77488": {
+    "groupID": 4570,
+    "name": "Annihilating Coercer"
+  },
+  "77489": {
+    "groupID": 4571,
+    "name": "Preaching Augoror"
+  },
+  "77490": {
+    "groupID": 4571,
+    "name": "Shrouding Arbitrator"
+  },
+  "77491": {
+    "groupID": 4571,
+    "name": "Shrouding Zealot"
+  },
+  "77492": {
+    "groupID": 186,
+    "name": "Occupied Industrial Housing Wreck"
+  },
+  "77494": {
+    "groupID": 1975,
+    "name": "Caldari Construction Dock 01"
+  },
+  "77495": {
+    "groupID": 1975,
+    "name": "Caldari Construction Dock 02"
+  },
+  "77498": {
+    "groupID": 186,
+    "name": "Decommissioned Base wreck"
+  },
+  "77505": {
+    "groupID": 4577,
+    "name": "Badger Runner"
+  },
+  "77506": {
+    "groupID": 4577,
+    "name": "Nereus Mule"
+  },
+  "77507": {
+    "groupID": 4577,
+    "name": "Plunder Wreathe"
+  },
+  "77510": {
+    "groupID": 227,
+    "name": "[HF] Dreadnought Spawner"
+  },
+  "77511": {
+    "groupID": 186,
+    "name": "Charon Repatriator Wreck"
+  },
+  "77524": {
+    "groupID": 4568,
+    "name": "Admixti Mutanite"
+  },
+  "77525": {
+    "groupID": 4571,
+    "name": "Focused Sanguinary Arbitrator"
+  },
+  "77526": {
+    "groupID": 4570,
+    "name": "Focused Sanguinary Dragoon"
+  },
+  "77527": {
+    "groupID": 4569,
+    "name": "Focused Sanguinary Crucifier "
+  },
+  "77528": {
+    "groupID": 4571,
+    "name": "Focussed Negotiator Blackbird"
+  },
+  "77529": {
+    "groupID": 4571,
+    "name": "Focussed Liberator Celestis"
+  },
+  "77530": {
+    "groupID": 4570,
+    "name": "Focussed Negotiator Corax"
+  },
+  "77531": {
+    "groupID": 4570,
+    "name": "Focussed Liberator Algos"
+  },
+  "77532": {
+    "groupID": 4571,
+    "name": "Leeching Bellicose"
+  },
+  "77533": {
+    "groupID": 4570,
+    "name": "Leeching Talwar"
+  },
+  "77534": {
+    "groupID": 4569,
+    "name": "Focussed Liberator Maulus"
+  },
+  "77535": {
+    "groupID": 4569,
+    "name": "Leeching Medusa"
+  },
+  "77536": {
+    "groupID": 4569,
+    "name": "Focussed Negotiator Griffin"
+  },
+  "77537": {
+    "groupID": 4569,
+    "name": "Ransacker Merlin"
+  },
+  "77538": {
+    "groupID": 4569,
+    "name": "Extinction Cutter"
+  },
+  "77539": {
+    "groupID": 4569,
+    "name": "Devastation Lynx"
+  },
+  "77540": {
+    "groupID": 4570,
+    "name": "Ransacker Cormorant"
+  },
+  "77541": {
+    "groupID": 4570,
+    "name": "Extinction Welder"
+  },
+  "77542": {
+    "groupID": 4570,
+    "name": "Devastation Thrasher"
+  },
+  "77543": {
+    "groupID": 4573,
+    "name": "Proselytizer Oracle"
+  },
+  "77544": {
+    "groupID": 4573,
+    "name": "Eraser Naga"
+  },
+  "77545": {
+    "groupID": 4573,
+    "name": "Grim Naga"
+  },
+  "77546": {
+    "groupID": 4573,
+    "name": "Tycoon Talos"
+  },
+  "77547": {
+    "groupID": 4573,
+    "name": "Sundering Tornado"
+  },
+  "77548": {
+    "groupID": 4573,
+    "name": "Instigator Naga"
+  },
+  "77549": {
+    "groupID": 4573,
+    "name": "Supreme Talos"
+  },
+  "77550": {
+    "groupID": 4573,
+    "name": "Ulfhednar Tornado"
+  },
+  "77551": {
+    "groupID": 4573,
+    "name": "Vitiator Stainer"
+  },
+  "77552": {
+    "groupID": 4573,
+    "name": "Dominant Drekavac"
+  },
+  "77553": {
+    "groupID": 4573,
+    "name": "Veritas Talos"
+  },
+  "77554": {
+    "groupID": 4573,
+    "name": "Spymaster Tornado"
+  },
+  "77555": {
+    "groupID": 4573,
+    "name": "Venerated Oracle"
+  },
+  "77556": {
+    "groupID": 4569,
+    "name": "Guard Incursus"
+  },
+  "77557": {
+    "groupID": 4569,
+    "name": "Corruptor Lynx"
+  },
+  "77558": {
+    "groupID": 4569,
+    "name": "Activist Merlin"
+  },
+  "77559": {
+    "groupID": 4569,
+    "name": "Errant Incursus"
+  },
+  "77560": {
+    "groupID": 4569,
+    "name": "Atgeir Rifter"
+  },
+  "77561": {
+    "groupID": 4569,
+    "name": "Corrupted Cutter"
+  },
+  "77562": {
+    "groupID": 4569,
+    "name": "Stoic Damavik"
+  },
+  "77563": {
+    "groupID": 4569,
+    "name": "Stirring Wanderer"
+  },
+  "77564": {
+    "groupID": 4569,
+    "name": "Spinner Incursus"
+  },
+  "77565": {
+    "groupID": 4569,
+    "name": "Insurgent Rifter"
+  },
+  "77566": {
+    "groupID": 4569,
+    "name": "Blood Punisher"
+  },
+  "77567": {
+    "groupID": 4569,
+    "name": "Smuggler Merlin"
+  },
+  "77568": {
+    "groupID": 4569,
+    "name": "Infiltrating Punisher"
+  },
+  "77569": {
+    "groupID": 4569,
+    "name": "Evader Merlin"
+  },
+  "77570": {
+    "groupID": 4569,
+    "name": "Obscurer Crucifier"
+  },
+  "77571": {
+    "groupID": 4569,
+    "name": "Falsifier Griffin"
+  },
+  "77572": {
+    "groupID": 4569,
+    "name": "Stalker Maulus"
+  },
+  "77573": {
+    "groupID": 4569,
+    "name": "Persecutor Medusa"
+  },
+  "77574": {
+    "groupID": 4569,
+    "name": "Alienator Grabber"
+  },
+  "77575": {
+    "groupID": 4569,
+    "name": "Stalker Damavik"
+  },
+  "77576": {
+    "groupID": 4569,
+    "name": "Enervating Wanderer"
+  },
+  "77577": {
+    "groupID": 4569,
+    "name": "Liberator Maulus"
+  },
+  "77578": {
+    "groupID": 4569,
+    "name": "Negotiator Griffin"
+  },
+  "77579": {
+    "groupID": 4569,
+    "name": "Blight Vigil"
+  },
+  "77580": {
+    "groupID": 4569,
+    "name": "Diverter Maulus"
+  },
+  "77581": {
+    "groupID": 4569,
+    "name": "Spotter Vigil"
+  },
+  "77582": {
+    "groupID": 4569,
+    "name": "Damning Crucifier"
+  },
+  "77583": {
+    "groupID": 4569,
+    "name": "Blindsider Griffin"
+  },
+  "77584": {
+    "groupID": 4569,
+    "name": "Bastion Navitas"
+  },
+  "77585": {
+    "groupID": 4569,
+    "name": "Bolstering Bantam"
+  },
+  "77586": {
+    "groupID": 4569,
+    "name": "Refuge Burst"
+  },
+  "77587": {
+    "groupID": 4569,
+    "name": "Shepherd Inquisitor"
+  },
+  "77588": {
+    "groupID": 4569,
+    "name": "Sawbones Bantam"
+  },
+  "77589": {
+    "groupID": 4569,
+    "name": "Bulwark Navitas"
+  },
+  "77590": {
+    "groupID": 4569,
+    "name": "Malignant Swordspine"
+  },
+  "77591": {
+    "groupID": 4569,
+    "name": "Machinist Segmenter"
+  },
+  "77592": {
+    "groupID": 4569,
+    "name": "Fortifying Damavik"
+  },
+  "77593": {
+    "groupID": 4569,
+    "name": "Soothing Conservator"
+  },
+  "77594": {
+    "groupID": 4569,
+    "name": "Skald Burst"
+  },
+  "77595": {
+    "groupID": 4569,
+    "name": "Justifier Inquisitor"
+  },
+  "77596": {
+    "groupID": 4569,
+    "name": "Insurer Bantam"
+  },
+  "77597": {
+    "groupID": 4569,
+    "name": "Exonerater Navitas"
+  },
+  "77598": {
+    "groupID": 4569,
+    "name": "Falsifier Hawk"
+  },
+  "77599": {
+    "groupID": 4569,
+    "name": "Diverter Enyo"
+  },
+  "77600": {
+    "groupID": 4569,
+    "name": "Liberator Enyo"
+  },
+  "77601": {
+    "groupID": 4569,
+    "name": "Negotiator Hawk"
+  },
+  "77602": {
+    "groupID": 4569,
+    "name": "Spotter Wolf"
+  },
+  "77603": {
+    "groupID": 4569,
+    "name": "Sanguinary Cruor"
+  },
+  "77604": {
+    "groupID": 4569,
+    "name": "Blindsider Worm"
+  },
+  "77605": {
+    "groupID": 4569,
+    "name": "Stalker Daredevil"
+  },
+  "77606": {
+    "groupID": 4569,
+    "name": "Persecutor Dramiel"
+  },
+  "77607": {
+    "groupID": 4569,
+    "name": "Alienator Clamper"
+  },
+  "77608": {
+    "groupID": 4569,
+    "name": "Umbral Damavik"
+  },
+  "77609": {
+    "groupID": 4569,
+    "name": "Enervating Preserver"
+  },
+  "77610": {
+    "groupID": 4569,
+    "name": "Blight Wolf"
+  },
+  "77611": {
+    "groupID": 4569,
+    "name": "Quietus Retribution"
+  },
+  "77612": {
+    "groupID": 4570,
+    "name": "Liberator Algos"
+  },
+  "77613": {
+    "groupID": 4570,
+    "name": "Negotiator Corax"
+  },
+  "77614": {
+    "groupID": 4570,
+    "name": "Spotter Talwar"
+  },
+  "77615": {
+    "groupID": 4570,
+    "name": "Sanguinary Dragoon"
+  },
+  "77616": {
+    "groupID": 4570,
+    "name": "Blindsider Corax"
+  },
+  "77617": {
+    "groupID": 4570,
+    "name": "Stalker Algos"
+  },
+  "77618": {
+    "groupID": 4570,
+    "name": "Persecutor Talwar"
+  },
+  "77619": {
+    "groupID": 4570,
+    "name": "Alienator Palletizer"
+  },
+  "77620": {
+    "groupID": 4570,
+    "name": "Ravenous Kikimora"
+  },
+  "77621": {
+    "groupID": 4570,
+    "name": "Enervating Custodian"
+  },
+  "77622": {
+    "groupID": 4570,
+    "name": "Blight Talwar"
+  },
+  "77623": {
+    "groupID": 4570,
+    "name": "Quietus Dragoon"
+  },
+  "77624": {
+    "groupID": 4570,
+    "name": "Falsifier Corax"
+  },
+  "77625": {
+    "groupID": 4570,
+    "name": "Diverter Algos"
+  },
+  "77626": {
+    "groupID": 4570,
+    "name": "Stoic Kikimora"
+  },
+  "77627": {
+    "groupID": 4570,
+    "name": "Stirring Custodian"
+  },
+  "77628": {
+    "groupID": 4570,
+    "name": "Atgeir Thrasher"
+  },
+  "77629": {
+    "groupID": 4570,
+    "name": "Infiltrating Coercer"
+  },
+  "77630": {
+    "groupID": 4570,
+    "name": "Evader Cormorant"
+  },
+  "77631": {
+    "groupID": 4570,
+    "name": "Spinner Catalyst"
+  },
+  "77632": {
+    "groupID": 4570,
+    "name": "Errant Catalyst"
+  },
+  "77633": {
+    "groupID": 4570,
+    "name": "Activist Cormorant"
+  },
+  "77634": {
+    "groupID": 4570,
+    "name": "Insurgent Thrasher"
+  },
+  "77635": {
+    "groupID": 4570,
+    "name": "Blood Coercer"
+  },
+  "77636": {
+    "groupID": 4570,
+    "name": "Smuggler Cormorant"
+  },
+  "77637": {
+    "groupID": 4570,
+    "name": "Guard Catalyst"
+  },
+  "77638": {
+    "groupID": 4570,
+    "name": "Corruptor Thrasher"
+  },
+  "77639": {
+    "groupID": 4570,
+    "name": "Corrupted Welder"
+  },
+  "77640": {
+    "groupID": 4571,
+    "name": "Valiant Thorax"
+  },
+  "77641": {
+    "groupID": 4571,
+    "name": "Defiant Moa"
+  },
+  "77642": {
+    "groupID": 4571,
+    "name": "Infiltrator Stabber"
+  },
+  "77643": {
+    "groupID": 4571,
+    "name": "Scarlet Omen"
+  },
+  "77644": {
+    "groupID": 4571,
+    "name": "Brutal Moa"
+  },
+  "77645": {
+    "groupID": 4571,
+    "name": "Sentinel Thorax"
+  },
+  "77646": {
+    "groupID": 4571,
+    "name": "Slayer Stabber"
+  },
+  "77647": {
+    "groupID": 4571,
+    "name": "Proliferator Handler"
+  },
+  "77648": {
+    "groupID": 4571,
+    "name": "Fervent Vedmak"
+  },
+  "77649": {
+    "groupID": 4571,
+    "name": "Risen Reclaimer"
+  },
+  "77650": {
+    "groupID": 4571,
+    "name": "Vandal Stabber"
+  },
+  "77651": {
+    "groupID": 4571,
+    "name": "Saboteur Omen"
+  },
+  "77652": {
+    "groupID": 4571,
+    "name": "Scrubber Moa"
+  },
+  "77653": {
+    "groupID": 4571,
+    "name": "Compeller Thorax"
+  },
+  "77654": {
+    "groupID": 4571,
+    "name": "Sawbones Osprey"
+  },
+  "77655": {
+    "groupID": 4571,
+    "name": "Bulwark Exequror"
+  },
+  "77656": {
+    "groupID": 4571,
+    "name": "Malignant Ixion"
+  },
+  "77657": {
+    "groupID": 4571,
+    "name": "Machinist Renderer"
+  },
+  "77658": {
+    "groupID": 4571,
+    "name": "Fortifying Rodiva"
+  },
+  "77659": {
+    "groupID": 4571,
+    "name": "Soothing Rectifier"
+  },
+  "77660": {
+    "groupID": 4571,
+    "name": "Skald Scythe"
+  },
+  "77661": {
+    "groupID": 4571,
+    "name": "Justifier Augoror"
+  },
+  "77662": {
+    "groupID": 4571,
+    "name": "Insurer Osprey"
+  },
+  "77663": {
+    "groupID": 4571,
+    "name": "Exonerater Exequror"
+  },
+  "77664": {
+    "groupID": 4571,
+    "name": "Bastion Exequror"
+  },
+  "77665": {
+    "groupID": 4571,
+    "name": "Bolstering Osprey"
+  },
+  "77666": {
+    "groupID": 4571,
+    "name": "Refuge Scythe"
+  },
+  "77667": {
+    "groupID": 4571,
+    "name": "Shepherd Augoror"
+  },
+  "77668": {
+    "groupID": 4571,
+    "name": "Liberator Celestis"
+  },
+  "77669": {
+    "groupID": 4571,
+    "name": "Negotiator Blackbird"
+  },
+  "77670": {
+    "groupID": 4571,
+    "name": "Spotter Bellicose"
+  },
+  "77671": {
+    "groupID": 4571,
+    "name": "Damning Arbitrator"
+  },
+  "77672": {
+    "groupID": 4571,
+    "name": "Blindsider Blackbird"
+  },
+  "77673": {
+    "groupID": 4571,
+    "name": "Stalker Celestis"
+  },
+  "77674": {
+    "groupID": 4571,
+    "name": "Persecutor Bellicose"
+  },
+  "77675": {
+    "groupID": 4571,
+    "name": "Alienator Manipulator"
+  },
+  "77676": {
+    "groupID": 4571,
+    "name": "Ravenous Vedmak"
+  },
+  "77677": {
+    "groupID": 4571,
+    "name": "Enervating Reclaimer"
+  },
+  "77678": {
+    "groupID": 4571,
+    "name": "Blight Bellicose"
+  },
+  "77679": {
+    "groupID": 4571,
+    "name": "Obscurer Arbitrator"
+  },
+  "77680": {
+    "groupID": 4571,
+    "name": "Falsifier Blackbird"
+  },
+  "77681": {
+    "groupID": 4571,
+    "name": "Diverter Celestis"
+  },
+  "77682": {
+    "groupID": 4571,
+    "name": "Liberator Deimos"
+  },
+  "77683": {
+    "groupID": 4571,
+    "name": "Negotiator Eagle"
+  },
+  "77684": {
+    "groupID": 4571,
+    "name": "Spotter Vagabond"
+  },
+  "77685": {
+    "groupID": 4571,
+    "name": "Sanguinary Ashimmu"
+  },
+  "77686": {
+    "groupID": 4571,
+    "name": "Blindsider Gila"
+  },
+  "77687": {
+    "groupID": 4571,
+    "name": "Stalker Vigilant"
+  },
+  "77688": {
+    "groupID": 4571,
+    "name": "Persecutor Cynabal"
+  },
+  "77689": {
+    "groupID": 4571,
+    "name": "Alienator Corrector"
+  },
+  "77690": {
+    "groupID": 4571,
+    "name": "Stifler Vedmak"
+  },
+  "77691": {
+    "groupID": 4571,
+    "name": "Tyrannos Kyrios"
+  },
+  "77692": {
+    "groupID": 4571,
+    "name": "Blight Vagabond"
+  },
+  "77693": {
+    "groupID": 4571,
+    "name": "Quietus Zealot"
+  },
+  "77694": {
+    "groupID": 4571,
+    "name": "Falsifier Eagle"
+  },
+  "77695": {
+    "groupID": 4571,
+    "name": "Diverter Deimos"
+  },
+  "77696": {
+    "groupID": 4574,
+    "name": "Ravenous Leshak"
+  },
+  "77697": {
+    "groupID": 4574,
+    "name": "Dominant Leshak"
+  },
+  "77698": {
+    "groupID": 4574,
+    "name": "Watchful Steward"
+  },
+  "77699": {
+    "groupID": 4574,
+    "name": "Vitiator Inspector"
+  },
+  "77700": {
+    "groupID": 4574,
+    "name": "Alienator Controller"
+  },
+  "77701": {
+    "groupID": 4574,
+    "name": "Enervating Overseer"
+  },
+  "77702": {
+    "groupID": 4574,
+    "name": "Tyrannos Basileus"
+  },
+  "77707": {
+    "groupID": 4575,
+    "name": "Unaligned Dekaisogen"
+  },
+  "77708": {
+    "groupID": 4575,
+    "name": "Fluctuating Entropic Regulator"
+  },
+  "77709": {
+    "groupID": 227,
+    "name": "[HF] Defend the Base - Combat Spawner"
+  },
+  "77710": {
+    "groupID": 227,
+    "name": "[HF] Disable the Defenses - Combat Spawner"
+  },
+  "77711": {
+    "groupID": 227,
+    "name": "[HF] Charge the Gun - Combat Spawner"
+  },
+  "77712": {
+    "groupID": 227,
+    "name": "[HF] Mining Rush - Combat Spawner"
+  },
+  "77725": {
+    "groupID": 268,
+    "name": "Advanced Capital Ship Construction"
+  },
+  "77727": {
+    "groupID": 306,
+    "name": "Faulty Triglavian Cache"
+  },
+  "77738": {
+    "groupID": 257,
+    "name": "Lancer Dreadnoughts"
+  },
+  "77739": {
+    "groupID": 255,
+    "name": "Disruptive Lance Operation"
+  },
+  "77741": {
+    "groupID": 226,
+    "name": "Ashes Sympathizer's Clan Commons"
+  },
+  "77742": {
+    "groupID": 186,
+    "name": "Ashes Sympathizer's Clan Commons Wreck "
+  },
+  "77754": {
+    "groupID": 227,
+    "name": "[HF]AoE Scrambler DO NOT TRANSLATE"
+  },
+  "77855": {
+    "groupID": 4579,
+    "name": "Drifter Bubble 10k 01a"
+  },
+  "77889": {
+    "groupID": 186,
+    "name": "Escaping Hauler Wreck"
   }
 }

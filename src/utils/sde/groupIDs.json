@@ -13840,7 +13840,7 @@
   "4547": {
     "anchorable": false,
     "anchored": true,
-    "categoryID": 11,
+    "categoryID": 2,
     "fittableNonSingleton": false,
     "name": "Interstellar Shipcaster Beacon",
     "published": false,
@@ -13849,9 +13849,9 @@
   "4548": {
     "anchorable": false,
     "anchored": true,
-    "categoryID": 11,
+    "categoryID": 2,
     "fittableNonSingleton": false,
-    "name": "Interstellar Shipcaster Beacon Construction Structure",
+    "name": "Shipcaster Beacon Constructor",
     "published": false,
     "useBasePrice": false
   },
@@ -13862,6 +13862,114 @@
     "fittableNonSingleton": false,
     "name": "Interstellar Shipcaster",
     "published": false,
+    "useBasePrice": false
+  },
+  "4568": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "name": "Mutanite",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4569": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Enemy Frigate",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4570": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Enemy Destroyer",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4571": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Enemy Cruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4572": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Allied Dreadnought",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4573": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Enemy Battlecruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4574": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Enemy Battleship",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4575": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Commodity",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4576": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Structure",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4577": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Enemy Hauler",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4579": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Scalable Non-Interactable Object",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4594": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 6,
+    "fittableNonSingleton": false,
+    "name": "Lancer Dreadnought",
+    "published": true,
     "useBasePrice": false
   },
   "350858": {
