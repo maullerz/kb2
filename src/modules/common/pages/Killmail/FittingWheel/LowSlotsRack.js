@@ -36,7 +36,7 @@ const typeCoords = [
   [180.414, 292.662],
 ]
 const ammoCoords = [
-  [120, 262.044],
+  [262.044, 120],
   [266.965, 147.089],
   [266.716, 173.919],
   [259.918, 199.675],
@@ -107,6 +107,7 @@ const LowSlotsRack = ({ items, slotsCount }) => {
 
   return slots.map((slotFlag, ix) => {
     const { ammo, item } = items[slotFlag]
+
     return (
       <Slot
         key={`low-${slotFlag}`}
