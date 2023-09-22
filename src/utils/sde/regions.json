@@ -268,6 +268,10 @@
     "name": "Pochven",
     "whClassID": 25
   },
+  "10001000": {
+    "name": "Yasna Zakh",
+    "whClassID": 9
+  },
   "11000001": {
     "name": "A-R00001",
     "whClassID": 1
@@ -419,10 +423,6 @@
   "12000005": {
     "name": "ADR05",
     "whClassID": 23
-  },
-  "13000001": {
-    "name": "PR-01",
-    "whClassID": 24
   },
   "14000001": {
     "name": "VR-01",
