@@ -13972,6 +13972,24 @@
     "published": true,
     "useBasePrice": false
   },
+  "4599": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Warp Vector Data",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4636": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Pirate Entities",
+    "published": false,
+    "useBasePrice": false
+  },
   "350858": {
     "anchorable": false,
     "anchored": false,

@@ -48,7 +48,6 @@ const MainRoutes = () => {
   return (
     <MainLayout>
       <Switch>
-        <Route path='/' component={Home} exact />
         <Route path='/kill/:killmailID' component={Killmail} exact />
         <Route path='/about' component={About} exact />
 
@@ -56,6 +55,7 @@ const MainRoutes = () => {
         {isDev && <Route path='/callback' component={CallbackRoute} />}
 
         <AdsWrapper>
+          <Route path='/' component={Home} exact />
           <Route path='/system/:systemID' component={System} exact />
           <Route path='/constellation/:constellationID' component={Constellation} exact />
           <Route path='/region/:regionID' component={Region} exact />

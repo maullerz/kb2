@@ -3,6 +3,10 @@
     "name": "Frigate",
     "types": [
       [
+        77114,
+        "Metamorphosis"
+      ],
+      [
         72903,
         "Probe Fleet Issue"
       ],
@@ -1740,6 +1744,27 @@
       [
         45534,
         "Monitor"
+      ]
+    ]
+  },
+  "4594": {
+    "name": "Lancer Dreadnought",
+    "types": [
+      [
+        77281,
+        "Hubris"
+      ],
+      [
+        77283,
+        "Bane"
+      ],
+      [
+        77284,
+        "Karura"
+      ],
+      [
+        77288,
+        "Valravn"
       ]
     ]
   }

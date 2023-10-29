@@ -2358,24 +2358,24 @@
   },
   "462": {
     "attributeID": 462,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusGF",
     "published": false,
     "stackable": true
   },
   "463": {
     "attributeID": 463,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusCF",
     "published": false,
     "stackable": true
@@ -3685,48 +3685,48 @@
   },
   "729": {
     "attributeID": 729,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusMD1",
     "published": false,
     "stackable": true
   },
   "734": {
     "attributeID": 734,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusCD1",
     "published": false,
     "stackable": true
   },
   "735": {
     "attributeID": 735,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusCD2",
     "published": false,
     "stackable": true
   },
   "738": {
     "attributeID": 738,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusGD1",
     "published": false,
     "stackable": true
@@ -3745,12 +3745,12 @@
   },
   "740": {
     "attributeID": 740,
-    "categoryID": 9,
+    "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "shipBonusMD2",
     "published": false,
     "stackable": true
@@ -14686,7 +14686,7 @@
     "stackable": true
   },
   "5214": {
-    "attributeID": 2285,
+    "attributeID": 5214,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14698,7 +14698,7 @@
     "stackable": true
   },
   "5215": {
-    "attributeID": 2291,
+    "attributeID": 5215,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14710,7 +14710,7 @@
     "stackable": true
   },
   "5216": {
-    "attributeID": 2291,
+    "attributeID": 5216,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14722,7 +14722,7 @@
     "stackable": true
   },
   "5218": {
-    "attributeID": 1986,
+    "attributeID": 5218,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14734,7 +14734,7 @@
     "stackable": true
   },
   "5219": {
-    "attributeID": 1986,
+    "attributeID": 5219,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14746,7 +14746,7 @@
     "stackable": true
   },
   "5220": {
-    "attributeID": 1986,
+    "attributeID": 5220,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14758,7 +14758,7 @@
     "stackable": true
   },
   "5221": {
-    "attributeID": 1986,
+    "attributeID": 5221,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14770,7 +14770,7 @@
     "stackable": true
   },
   "5222": {
-    "attributeID": 1986,
+    "attributeID": 5222,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14782,7 +14782,7 @@
     "stackable": true
   },
   "5223": {
-    "attributeID": 1986,
+    "attributeID": 5223,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14794,7 +14794,7 @@
     "stackable": true
   },
   "5224": {
-    "attributeID": 1986,
+    "attributeID": 5224,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14806,7 +14806,7 @@
     "stackable": true
   },
   "5225": {
-    "attributeID": 2015,
+    "attributeID": 5225,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14818,7 +14818,7 @@
     "stackable": true
   },
   "5226": {
-    "attributeID": 2015,
+    "attributeID": 5226,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14830,7 +14830,7 @@
     "stackable": true
   },
   "5227": {
-    "attributeID": 2015,
+    "attributeID": 5227,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14842,7 +14842,7 @@
     "stackable": true
   },
   "5228": {
-    "attributeID": 2015,
+    "attributeID": 5228,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14854,7 +14854,7 @@
     "stackable": true
   },
   "5229": {
-    "attributeID": 2015,
+    "attributeID": 5229,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14866,7 +14866,7 @@
     "stackable": true
   },
   "5230": {
-    "attributeID": 2027,
+    "attributeID": 5230,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14878,7 +14878,7 @@
     "stackable": true
   },
   "5231": {
-    "attributeID": 2027,
+    "attributeID": 5231,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14890,7 +14890,7 @@
     "stackable": true
   },
   "5232": {
-    "attributeID": 2027,
+    "attributeID": 5232,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14902,7 +14902,7 @@
     "stackable": true
   },
   "5233": {
-    "attributeID": 2027,
+    "attributeID": 5233,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14914,7 +14914,7 @@
     "stackable": true
   },
   "5234": {
-    "attributeID": 2027,
+    "attributeID": 5234,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14926,7 +14926,7 @@
     "stackable": true
   },
   "5235": {
-    "attributeID": 2004,
+    "attributeID": 5235,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14938,7 +14938,7 @@
     "stackable": true
   },
   "5236": {
-    "attributeID": 2004,
+    "attributeID": 5236,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14950,7 +14950,7 @@
     "stackable": true
   },
   "5237": {
-    "attributeID": 2004,
+    "attributeID": 5237,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14962,7 +14962,7 @@
     "stackable": true
   },
   "5238": {
-    "attributeID": 2004,
+    "attributeID": 5238,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -14974,7 +14974,7 @@
     "stackable": true
   },
   "5239": {
-    "attributeID": 2004,
+    "attributeID": 5239,
     "categoryID": 37,
     "dataType": 5,
     "defaultValue": 0,
@@ -15099,5 +15099,29 @@
     "name": "shipBonusAdvancedDreadnought2",
     "published": false,
     "stackable": true
+  },
+  "5561": {
+    "attributeID": 5561,
+    "categoryID": 9,
+    "dataType": 4,
+    "defaultValue": 0,
+    "description": "If set on a charge or module type, will prevent it from being activated in hazard system",
+    "displayNameID": {
+      "de": "Kann nicht in Zarzakh verwendet werden ",
+      "en": "Unusable in Zarzakh ",
+      "es": "Inutilizable en Zarzakh ",
+      "fr": "Inutilisable à Zarzakh ",
+      "ja": "ザルザクでは使用不可 ",
+      "ko": "자르자크에서 사용 불가 ",
+      "ru": "Нельзя использовать в Zarzakh ",
+      "zh": "无法在扎尔扎克使用 "
+    },
+    "displayWhenZero": false,
+    "highIsGood": false,
+    "iconID": 25803,
+    "name": "disallowInHazardSystem",
+    "published": true,
+    "stackable": true,
+    "unitID": 137
   }
 }
