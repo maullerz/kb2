@@ -12374,7 +12374,7 @@
     "anchored": false,
     "categoryID": 65,
     "fittableNonSingleton": false,
-    "name": "♦ Forward Operating Base",
+    "name": "♦ Stronghold",
     "published": false,
     "useBasePrice": false
   },
@@ -13981,6 +13981,15 @@
     "published": true,
     "useBasePrice": true
   },
+  "4603": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 66,
+    "fittableNonSingleton": false,
+    "name": "FOB services",
+    "published": false,
+    "useBasePrice": false
+  },
   "4636": {
     "anchorable": false,
     "anchored": false,
@@ -13988,6 +13997,132 @@
     "fittableNonSingleton": false,
     "name": "Pirate Entities",
     "published": false,
+    "useBasePrice": false
+  },
+  "4637": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Roaming Pirates",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4638": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Roaming Enforcers",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4644": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 65,
+    "fittableNonSingleton": false,
+    "name": "Pirate Forward Operating Base",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4647": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Pirate Frigate",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4648": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Pirate Destroyer",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4649": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Pirate Cruiser",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4650": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Pirate Battlecruiser",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4651": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Pirate Battleship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4652": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Mordu Frigate",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4653": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Mordu Destroyer",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4654": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Mordu Cruiser",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4655": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Mordu Battlecruiser",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4656": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Mordu Battleship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4673": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Insurgency Mining Ship",
+    "published": true,
     "useBasePrice": false
   },
   "350858": {

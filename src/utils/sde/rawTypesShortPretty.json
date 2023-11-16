@@ -92261,11 +92261,11 @@
   },
   "46363": {
     "groupID": 1924,
-    "name": "Guristas Forward Operating Base"
+    "name": "Guristas Pirates Stronghold"
   },
   "46364": {
     "groupID": 1924,
-    "name": "Blood Raider Forward Operating Base"
+    "name": "Blood Raiders Stronghold"
   },
   "46365": {
     "groupID": 482,
@@ -117009,7 +117009,7 @@
   },
   "64007": {
     "groupID": 1665,
-    "name": "SARO Stormbringer"
+    "name": "Upwell Safeguard Stormbringer"
   },
   "64008": {
     "groupID": 1665,
@@ -120081,19 +120081,19 @@
   },
   "71116": {
     "groupID": 1924,
-    "name": "Amarr Forward Operating Base"
+    "name": "Amarr Empire Stronghold"
   },
   "71117": {
     "groupID": 1924,
-    "name": "Caldari Forward Operating Base"
+    "name": "Caldari State Stronghold"
   },
   "71118": {
     "groupID": 1924,
-    "name": "Gallente Forward Operating Base"
+    "name": "Gallente Federation Stronghold"
   },
   "71119": {
     "groupID": 1924,
-    "name": "Minmatar Forward Operating Base"
+    "name": "Minmatar Republic Stronghold"
   },
   "71120": {
     "groupID": 226,
@@ -130847,6 +130847,10 @@
     "groupID": 227,
     "name": "[HF] Charge the Gun - Siege Wave Spawner (DO NOT TRANSLATE)"
   },
+  "78260": {
+    "groupID": 4644,
+    "name": "Angel Cartel FOB"
+  },
   "78264": {
     "groupID": 10,
     "name": "Stargate (Jovian Alsavoinon)"
@@ -131039,6 +131043,10 @@
     "groupID": 303,
     "name": "Tetrimon Precision Booster IV"
   },
+  "78330": {
+    "groupID": 4603,
+    "name": "LP Store"
+  },
   "78333": {
     "groupID": 420,
     "name": "Mekubal"
@@ -131063,13 +131071,33 @@
     "groupID": 487,
     "name": "Mekubal Blueprint"
   },
+  "78366": {
+    "groupID": 419,
+    "name": "Alligator"
+  },
   "78367": {
     "groupID": 420,
     "name": "Mamba"
   },
+  "78368": {
+    "groupID": 489,
+    "name": "Alligator Blueprint"
+  },
+  "78369": {
+    "groupID": 419,
+    "name": "Khizriel"
+  },
+  "78370": {
+    "groupID": 489,
+    "name": "Khizriel Blueprint"
+  },
   "78393": {
     "groupID": 487,
     "name": "Mamba Blueprint"
+  },
+  "78483": {
+    "groupID": 306,
+    "name": "[AIR] Bowhead Wreck"
   },
   "78484": {
     "groupID": 1975,
@@ -131091,6 +131119,10 @@
     "groupID": 1975,
     "name": "Dynamic Perimeter Bubble"
   },
+  "78576": {
+    "groupID": 30,
+    "name": "Azariel"
+  },
   "78582": {
     "groupID": 4599,
     "name": "Jovian Symbolic Navigator 9:22:8:7:16"
@@ -131111,6 +131143,22 @@
     "groupID": 4599,
     "name": "Jovian Symbolic Navigator 15:16:14:2:22"
   },
+  "78621": {
+    "groupID": 4067,
+    "name": "Abyssal Vorton Tuning System"
+  },
+  "78622": {
+    "groupID": 1964,
+    "name": "Gravid Vorton Tuning System Mutaplasmid"
+  },
+  "78623": {
+    "groupID": 1964,
+    "name": "Decayed Vorton Tuning System Mutaplasmid"
+  },
+  "78624": {
+    "groupID": 1964,
+    "name": "Unstable Vorton Tuning System Mutaplasmid"
+  },
   "78627": {
     "groupID": 4041,
     "name": "QA-Community Noise-100 'Needlejack' Filament"
@@ -131118,6 +131166,26 @@
   "78628": {
     "groupID": 4041,
     "name": "QA-Community Signal-100 'Needlejack' Filament"
+  },
+  "78677": {
+    "groupID": 546,
+    "name": "Civilian Mining Laser Upgrade"
+  },
+  "78740": {
+    "groupID": 4067,
+    "name": "Consortium Vorton Tuning system"
+  },
+  "78741": {
+    "groupID": 4067,
+    "name": "Kasiha's Modified Vorton Tuning System"
+  },
+  "78799": {
+    "groupID": 310,
+    "name": "Small Corporate Outpost Beacon"
+  },
+  "78800": {
+    "groupID": 922,
+    "name": "30km Small Corporate Capture Point"
   },
   "78801": {
     "groupID": 4100,
@@ -131134,6 +131202,18 @@
   "78804": {
     "groupID": 4579,
     "name": "VDB_Cloud_Zarzakh_Spiral_01a"
+  },
+  "78805": {
+    "groupID": 310,
+    "name": "Medium Corporate Outpost Beacon"
+  },
+  "78814": {
+    "groupID": 310,
+    "name": "Large Corporate Outpost Beacon"
+  },
+  "78815": {
+    "groupID": 310,
+    "name": "Open Corporate Outpost Beacon"
   },
   "78832": {
     "groupID": 4579,
@@ -131163,6 +131243,46 @@
     "groupID": 1975,
     "name": "Zarzakh asteroid debris"
   },
+  "78839": {
+    "groupID": 314,
+    "name": "Secluded Rich Asteroid Survey"
+  },
+  "78840": {
+    "groupID": 314,
+    "name": "Corporate Digital Bearer Bonds"
+  },
+  "78841": {
+    "groupID": 314,
+    "name": "Classified Prototype Blueprint"
+  },
+  "78842": {
+    "groupID": 314,
+    "name": "Corporate Security Briefing"
+  },
+  "78843": {
+    "groupID": 314,
+    "name": "Encoded Corporate Investment Plans"
+  },
+  "78844": {
+    "groupID": 314,
+    "name": "Cloistered Rich Asteroid Survey"
+  },
+  "78845": {
+    "groupID": 314,
+    "name": "Corporate Encrypted Credit Orders"
+  },
+  "78846": {
+    "groupID": 314,
+    "name": "Confidential Prototype Blueprint"
+  },
+  "78847": {
+    "groupID": 314,
+    "name": "Corporate Defense Briefing"
+  },
+  "78848": {
+    "groupID": 314,
+    "name": "Encrypted Upwell Consortium Data Cache"
+  },
   "78849": {
     "groupID": 4579,
     "name": "VDB_Cloud_JoveGate_01a (do not use)"
@@ -131178,6 +131298,94 @@
   "78852": {
     "groupID": 4579,
     "name": "VDB_Cloud_JoveGate_04a (do not use)"
+  },
+  "78853": {
+    "groupID": 474,
+    "name": "Guristas Pirates Warehouse Raid Key"
+  },
+  "78854": {
+    "groupID": 474,
+    "name": "Angel Cartel Warehouse Raid Key"
+  },
+  "78855": {
+    "groupID": 474,
+    "name": "DED AmaMin Warehouse Raid Key"
+  },
+  "78856": {
+    "groupID": 474,
+    "name": "DED CalGal Warehouse Raid Key"
+  },
+  "78857": {
+    "groupID": 314,
+    "name": "Guristas Insurgency Data Sequence"
+  },
+  "78858": {
+    "groupID": 314,
+    "name": "Scorched Guristas Navigation Logs"
+  },
+  "78859": {
+    "groupID": 314,
+    "name": "Encrypted Guristas Transction Logs"
+  },
+  "78860": {
+    "groupID": 314,
+    "name": "Guristas Cargo Concealment Unit Remains"
+  },
+  "78861": {
+    "groupID": 314,
+    "name": "Guristas Pirates 'Prize' Ledger"
+  },
+  "78862": {
+    "groupID": 314,
+    "name": "Angel Insurgency Data Sequence"
+  },
+  "78863": {
+    "groupID": 314,
+    "name": "Angel Cartel 'Salvage' Ledger"
+  },
+  "78864": {
+    "groupID": 314,
+    "name": "Scorched Angel Navigation Logs"
+  },
+  "78865": {
+    "groupID": 314,
+    "name": "Encrypted Angel Transction Logs"
+  },
+  "78866": {
+    "groupID": 314,
+    "name": "Angel Cargo Concealment Unit Remains"
+  },
+  "78867": {
+    "groupID": 1194,
+    "name": "Guristas Pirates Laundering Reward Crate"
+  },
+  "78868": {
+    "groupID": 226,
+    "name": "Guristas Laundering Facility"
+  },
+  "78869": {
+    "groupID": 226,
+    "name": "Angel Laundering Facility"
+  },
+  "78870": {
+    "groupID": 226,
+    "name": "Federation Counter-Insurgency Outpost Hub"
+  },
+  "78871": {
+    "groupID": 226,
+    "name": "Imperial Counter-Insurgency Outpost Hub"
+  },
+  "78872": {
+    "groupID": 1194,
+    "name": "Angel Cartel Laundering Reward Crate"
+  },
+  "78873": {
+    "groupID": 1194,
+    "name": "Federation Counter-Insurgency Reward Crate"
+  },
+  "78874": {
+    "groupID": 1194,
+    "name": "Imperial Counter-Insurgency Reward Crate"
   },
   "78880": {
     "groupID": 4579,
@@ -131259,6 +131467,10 @@
     "groupID": 1975,
     "name": "Non-Interactable Nano-Assembler (Do Not Translate)"
   },
+  "78994": {
+    "groupID": 310,
+    "name": "Mining Op Ambush Beacon"
+  },
   "79017": {
     "groupID": 1975,
     "name": "Partially-constructed Deathless Shipcaster"
@@ -131266,6 +131478,90 @@
   "79018": {
     "groupID": 4549,
     "name": "Deathless Interstellar Shipcaster"
+  },
+  "79085": {
+    "groupID": 4471,
+    "name": "Hubris Corporation Emblem"
+  },
+  "79086": {
+    "groupID": 4471,
+    "name": "Hubris Alliance Emblem"
+  },
+  "79087": {
+    "groupID": 4471,
+    "name": "Valravn Corporation Emblem"
+  },
+  "79088": {
+    "groupID": 4471,
+    "name": "Valravn Alliance Emblem"
+  },
+  "79089": {
+    "groupID": 4471,
+    "name": "Bane Corporation Emblem"
+  },
+  "79090": {
+    "groupID": 4471,
+    "name": "Bane Alliance Emblem"
+  },
+  "79091": {
+    "groupID": 4471,
+    "name": "Karura Corporation Emblem"
+  },
+  "79092": {
+    "groupID": 4471,
+    "name": "Karura Alliance Emblem"
+  },
+  "79093": {
+    "groupID": 4471,
+    "name": "Mekubal Corporation Emblem"
+  },
+  "79094": {
+    "groupID": 4471,
+    "name": "Mekubal Alliance Emblem"
+  },
+  "79100": {
+    "groupID": 4471,
+    "name": "Mamba Corporation Emblem"
+  },
+  "79101": {
+    "groupID": 4471,
+    "name": "Mamba Alliance Emblem"
+  },
+  "79102": {
+    "groupID": 4471,
+    "name": "Khizriel Corporation Emblem"
+  },
+  "79103": {
+    "groupID": 4471,
+    "name": "Khizriel Alliance Emblem"
+  },
+  "79115": {
+    "groupID": 226,
+    "name": "State Counter-Insurgency Outpost Hub"
+  },
+  "79116": {
+    "groupID": 226,
+    "name": "Republic Counter-Insurgency Outpost Hub"
+  },
+  "79117": {
+    "groupID": 1194,
+    "name": "State Counter-Insurgency Reward Crate"
+  },
+  "79118": {
+    "groupID": 1194,
+    "name": "Republic Counter-Insurgency Reward Crate"
+  },
+  "79172": {
+    "groupID": 4644,
+    "name": "Guristas Pirates FOB"
+  },
+  "79175": {
+    "groupID": 4069,
+    "name": "Consortium Vorton Tuning System Blueprint"
+  },
+  "79176": {
+    "groupID": 4069,
+    "name": "Kasiha's Modified Vorton Tuning System Blueprint"
   },
   "79183": {
     "groupID": 383,
@@ -131278,5 +131574,1053 @@
   "79185": {
     "groupID": 383,
     "name": "Deathless Retribution Emplacement"
+  },
+  "79186": {
+    "groupID": 1194,
+    "name": "Mysterious GalNet Crate II"
+  },
+  "79188": {
+    "groupID": 4471,
+    "name": "Alligator Corporation Emblem"
+  },
+  "79189": {
+    "groupID": 4471,
+    "name": "Alligator Alliance Emblem"
+  },
+  "79192": {
+    "groupID": 314,
+    "name": "Deathless Circle Insurgents Loyalty Token"
+  },
+  "79194": {
+    "groupID": 1975,
+    "name": "Air Research Facility Wreck"
+  },
+  "79195": {
+    "groupID": 1975,
+    "name": "Air Nestor Battleship Wreck"
+  },
+  "79320": {
+    "groupID": 4637,
+    "name": "Angel Lookout Dramiel"
+  },
+  "79321": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CT2 - DO NOT TRANSLATE"
+  },
+  "79322": {
+    "groupID": 4637,
+    "name": "Angel Lookout Mekubal"
+  },
+  "79326": {
+    "groupID": 110,
+    "name": "Azariel Blueprint"
+  },
+  "79327": {
+    "groupID": 4637,
+    "name": "Angel Lookout Cynabal"
+  },
+  "79329": {
+    "groupID": 4637,
+    "name": "Zohar's Chosen Mekubal"
+  },
+  "79330": {
+    "groupID": 4637,
+    "name": "Zohar's Chosen Cynabal"
+  },
+  "79331": {
+    "groupID": 4637,
+    "name": "Angel Lookout Khizriel"
+  },
+  "79332": {
+    "groupID": 4637,
+    "name": "Zohar's Chosen Khizriel"
+  },
+  "79333": {
+    "groupID": 4637,
+    "name": "Angel Lookout Machariel"
+  },
+  "79334": {
+    "groupID": 4637,
+    "name": "Zohar's Chosen Machariel"
+  },
+  "79335": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CB2 - DO NOT TRANSLATE"
+  },
+  "79336": {
+    "groupID": 4055,
+    "name": " Insurgency Angel Roaming Spawner - ST3 - DO NOT TRANSLATE"
+  },
+  "79337": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CB3 - DO NOT TRANSLATE"
+  },
+  "79338": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CT4 - DO NOT TRANSLATE"
+  },
+  "79339": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CB4 - DO NOT TRANSLATE"
+  },
+  "79340": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CT5 - DO NOT TRANSLATE"
+  },
+  "79341": {
+    "groupID": 4055,
+    "name": "Insurgency Angel Roaming Spawner - CB5 - DO NOT TRANSLATE"
+  },
+  "79348": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Worm"
+  },
+  "79349": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Worm"
+  },
+  "79350": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Mamba"
+  },
+  "79351": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Mamba"
+  },
+  "79352": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Gila"
+  },
+  "79353": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Gila"
+  },
+  "79354": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Alligator"
+  },
+  "79355": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Alligator"
+  },
+  "79356": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Rattlesnake"
+  },
+  "79357": {
+    "groupID": 4637,
+    "name": "Guristas Lookout Rattlesnake"
+  },
+  "79358": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Mamba"
+  },
+  "79359": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Mamba"
+  },
+  "79360": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Gila"
+  },
+  "79361": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Gila"
+  },
+  "79362": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Alligator"
+  },
+  "79363": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Alligator"
+  },
+  "79364": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Rattlesnake"
+  },
+  "79365": {
+    "groupID": 4637,
+    "name": "Hakuzosu’s Steelscale Rattlesnake"
+  },
+  "79370": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Small PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79371": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Small PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79372": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Small PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79373": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Mordus Phalanx Spawner (DO NOT TRANSLATE)"
+  },
+  "79374": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Angel Ransomers Spawner (DO NOT TRANSLATE)"
+  },
+  "79375": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Guristas Ransomers Spawner (DO NOT TRANSLATE)"
+  },
+  "79376": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CT2 - DO NOT TRANSLATE"
+  },
+  "79377": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CB2 - DO NOT TRANSLATE"
+  },
+  "79378": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CT3 - DO NOT TRANSLATE"
+  },
+  "79379": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CB3 - DO NOT TRANSLATE"
+  },
+  "79380": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CT4 - DO NOT TRANSLATE"
+  },
+  "79381": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CB4 - DO NOT TRANSLATE"
+  },
+  "79382": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CT5 - DO NOT TRANSLATE"
+  },
+  "79383": {
+    "groupID": 4055,
+    "name": "Insurgency Guristas Roaming Spawner - CB5 - DO NOT TRANSLATE"
+  },
+  "79385": {
+    "groupID": 186,
+    "name": "Angel FOB Wreck"
+  },
+  "79386": {
+    "groupID": 186,
+    "name": "Guristas FOB Wreck"
+  },
+  "79387": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Garmur"
+  },
+  "79388": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Garmur"
+  },
+  "79389": {
+    "groupID": 4638,
+    "name": "Consortium Bulwark Orthrus"
+  },
+  "79390": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Orthrus"
+  },
+  "79391": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Skybreaker"
+  },
+  "79392": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Stormbringer"
+  },
+  "79393": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Thunderchild"
+  },
+  "79394": {
+    "groupID": 4638,
+    "name": "Consortium Bulwark Skybreaker"
+  },
+  "79395": {
+    "groupID": 4638,
+    "name": "Consortium Bulwark Stormbringer"
+  },
+  "79396": {
+    "groupID": 4638,
+    "name": "Consortium Bulwark Thunderchild"
+  },
+  "79397": {
+    "groupID": 4638,
+    "name": "Upwell Safeguard Orthrus"
+  },
+  "79398": {
+    "groupID": 4638,
+    "name": "Consortium Bulwark Orthrus"
+  },
+  "79400": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CT3 - DO NOT TRANSLATE"
+  },
+  "79402": {
+    "groupID": 4471,
+    "name": "Metamorphosis Corporation Emblem"
+  },
+  "79403": {
+    "groupID": 4471,
+    "name": "Metamorphosis Alliance Emblem"
+  },
+  "79405": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CB3 - DO NOT TRANSLATE"
+  },
+  "79406": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CT4 - DO NOT TRANSLATE"
+  },
+  "79407": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CB4 - DO NOT TRANSLATE"
+  },
+  "79408": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CT5 - DO NOT TRANSLATE"
+  },
+  "79409": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CB5 - DO NOT TRANSLATE"
+  },
+  "79410": {
+    "groupID": 186,
+    "name": "Upwell Small Wreck"
+  },
+  "79411": {
+    "groupID": 186,
+    "name": "Upwell Medium Wreck"
+  },
+  "79412": {
+    "groupID": 186,
+    "name": "Upwell Large Wreck "
+  },
+  "79414": {
+    "groupID": 4647,
+    "name": "Angel Assailant Dramiel"
+  },
+  "79415": {
+    "groupID": 4648,
+    "name": "Angel Assailant Mekubal"
+  },
+  "79416": {
+    "groupID": 4649,
+    "name": "Angel Assailant Cynabal"
+  },
+  "79417": {
+    "groupID": 4650,
+    "name": "Angel Assailant Khizriel"
+  },
+  "79418": {
+    "groupID": 4647,
+    "name": "Guristas Aggressor Worm"
+  },
+  "79419": {
+    "groupID": 4652,
+    "name": "Mordu's Vambrace Garmur"
+  },
+  "79420": {
+    "groupID": 4648,
+    "name": "Guristas Aggressor Mamba"
+  },
+  "79421": {
+    "groupID": 4653,
+    "name": "Mordu's Vambrace Fennec"
+  },
+  "79422": {
+    "groupID": 4649,
+    "name": "Guristas Aggressor Gila"
+  },
+  "79423": {
+    "groupID": 4654,
+    "name": "Mordu's Vambrace Orthrus"
+  },
+  "79424": {
+    "groupID": 4650,
+    "name": "Guristas Aggressor Alligator"
+  },
+  "79425": {
+    "groupID": 4655,
+    "name": "Mordu's Cuirass Mongoose"
+  },
+  "79426": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Small PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79428": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Small PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79429": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Small PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79430": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Medium PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79431": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Medium PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79432": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Medium PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79433": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Medium PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79434": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Medium PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79435": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Medium PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79436": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Large PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79438": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Large PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79439": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Large PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79440": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Large PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79441": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Large PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79442": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - Large PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79443": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - X-Large PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79444": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - X-Large PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79445": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - X-Large PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79446": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - X-Large PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  },
+  "79447": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - X-Large PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  },
+  "79448": {
+    "groupID": 227,
+    "name": "Corporate Outpost Raid - X-Large PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  },
+  "79449": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - ORE Miners Spawner (DO NOT TRANSLATE)"
+  },
+  "79450": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - ORE Safeguard Atron Spawner (DO NOT TRANSLATE)"
+  },
+  "79451": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - ORE Safeguard Talos Spawner (DO NOT TRANSLATE)"
+  },
+  "79459": {
+    "groupID": 1975,
+    "name": "ORE Plinth"
+  },
+  "79460": {
+    "groupID": 1975,
+    "name": "Upwell Plinth"
+  },
+  "79461": {
+    "groupID": 1975,
+    "name": "ORE Medium Structure 01a"
+  },
+  "79462": {
+    "groupID": 1975,
+    "name": "ORE Medium Structure 03a"
+  },
+  "79463": {
+    "groupID": 1975,
+    "name": "ORE Medium Structure 04a"
+  },
+  "79464": {
+    "groupID": 1975,
+    "name": "ORE Small Structure 02a"
+  },
+  "79465": {
+    "groupID": 1975,
+    "name": "ORE Small Structure 03a"
+  },
+  "79466": {
+    "groupID": 1975,
+    "name": "ORE Small Structure 05a"
+  },
+  "79467": {
+    "groupID": 1975,
+    "name": "ORE Small Structure 06a"
+  },
+  "79468": {
+    "groupID": 1975,
+    "name": "ORE Containers 01a"
+  },
+  "79469": {
+    "groupID": 1975,
+    "name": "ORE Connection 01a"
+  },
+  "79470": {
+    "groupID": 1975,
+    "name": "ORE Connection 02a"
+  },
+  "79471": {
+    "groupID": 1975,
+    "name": "ORE Connection 03a"
+  },
+  "79472": {
+    "groupID": 1975,
+    "name": "ORE Connection 04a"
+  },
+  "79473": {
+    "groupID": 1975,
+    "name": "ORE Connection 04b"
+  },
+  "79474": {
+    "groupID": 1975,
+    "name": "ORE Connection 04c"
+  },
+  "79475": {
+    "groupID": 1975,
+    "name": "ORE Connection 04d"
+  },
+  "79476": {
+    "groupID": 1975,
+    "name": "ORE Connection 05a"
+  },
+  "79477": {
+    "groupID": 1975,
+    "name": "ORE Connection 05b"
+  },
+  "79478": {
+    "groupID": 1975,
+    "name": "ORE Connection 05c"
+  },
+  "79479": {
+    "groupID": 1975,
+    "name": "ORE Modular Hub 01a"
+  },
+  "79480": {
+    "groupID": 1975,
+    "name": "ORE Modular Hub 01b"
+  },
+  "79481": {
+    "groupID": 1975,
+    "name": "ORE Modular Hub 01c"
+  },
+  "79482": {
+    "groupID": 1975,
+    "name": "ORE Modular Hub 01d"
+  },
+  "79483": {
+    "groupID": 1975,
+    "name": "ORE Small Hologram 01a"
+  },
+  "79484": {
+    "groupID": 1975,
+    "name": "ORE Warehouse 01"
+  },
+  "79485": {
+    "groupID": 1975,
+    "name": "ORE construction dock 01"
+  },
+  "79486": {
+    "groupID": 1975,
+    "name": "ORE construction dock 02"
+  },
+  "79487": {
+    "groupID": 1975,
+    "name": "ORE construction dock 03"
+  },
+  "79488": {
+    "groupID": 1975,
+    "name": "ORE construction dock 04"
+  },
+  "79489": {
+    "groupID": 922,
+    "name": "30km Medium Corporate Capture Point"
+  },
+  "79490": {
+    "groupID": 922,
+    "name": "30km Large Corporate Capture Point"
+  },
+  "79491": {
+    "groupID": 922,
+    "name": "30km Open Corporate Capture Point"
+  },
+  "79492": {
+    "groupID": 1975,
+    "name": "Upwell Medium Structure 02a"
+  },
+  "79493": {
+    "groupID": 1975,
+    "name": "Upwell Medium Structure 05a"
+  },
+  "79494": {
+    "groupID": 1975,
+    "name": "Upwell Small Structure 01a"
+  },
+  "79495": {
+    "groupID": 1975,
+    "name": "Upwell Small Structure 04a"
+  },
+  "79496": {
+    "groupID": 1975,
+    "name": "Upwell Small Structure 07a"
+  },
+  "79497": {
+    "groupID": 1975,
+    "name": "Upwell Connection 01a"
+  },
+  "79498": {
+    "groupID": 1975,
+    "name": "Upwell Connection 02a"
+  },
+  "79499": {
+    "groupID": 1975,
+    "name": "Upwell Connection 03a"
+  },
+  "79500": {
+    "groupID": 1975,
+    "name": "Upwell Connection 04a"
+  },
+  "79501": {
+    "groupID": 1975,
+    "name": "Upwell Connection 04b"
+  },
+  "79502": {
+    "groupID": 1975,
+    "name": "Upwell Connection 04c"
+  },
+  "79503": {
+    "groupID": 1975,
+    "name": "Upwell Connection 04d"
+  },
+  "79504": {
+    "groupID": 1975,
+    "name": "Upwell Connection 05a"
+  },
+  "79505": {
+    "groupID": 1975,
+    "name": "Upwell Connection 05b"
+  },
+  "79506": {
+    "groupID": 1975,
+    "name": "Upwell Connection 05c"
+  },
+  "79507": {
+    "groupID": 383,
+    "name": "Counter-Insurgency Sentry Gun"
+  },
+  "79508": {
+    "groupID": 4638,
+    "name": "Upwell Fortification Variant 'Kingbird'"
+  },
+  "79511": {
+    "groupID": 1975,
+    "name": "Upwell Small Hologram 01a"
+  },
+  "79515": {
+    "groupID": 4647,
+    "name": "Angel Assailant Dramiel"
+  },
+  "79516": {
+    "groupID": 4647,
+    "name": "Angel Assailant Dramiel"
+  },
+  "79517": {
+    "groupID": 4647,
+    "name": "Angel Snarer Dramiel"
+  },
+  "79518": {
+    "groupID": 4579,
+    "name": "Angel Banner 01a"
+  },
+  "79519": {
+    "groupID": 4579,
+    "name": "Guristas Banner 01a"
+  },
+  "79520": {
+    "groupID": 4648,
+    "name": "Angel Assailant Mekubal"
+  },
+  "79521": {
+    "groupID": 4648,
+    "name": "Angel Assailant Mekubal"
+  },
+  "79522": {
+    "groupID": 4648,
+    "name": "Angel Snarer Mekubal"
+  },
+  "79523": {
+    "groupID": 4649,
+    "name": "Angel Assailant Cynabal"
+  },
+  "79524": {
+    "groupID": 4649,
+    "name": "Angel Assailant Cynabal"
+  },
+  "79525": {
+    "groupID": 4649,
+    "name": "Angel Snarer Cynabal"
+  },
+  "79526": {
+    "groupID": 4650,
+    "name": "Angel Assailant Khizriel"
+  },
+  "79527": {
+    "groupID": 4650,
+    "name": "Angel Assailant Khizriel"
+  },
+  "79528": {
+    "groupID": 4650,
+    "name": "Angel Snarer Khizriel"
+  },
+  "79529": {
+    "groupID": 4647,
+    "name": "Guristas Aggressor Worm"
+  },
+  "79530": {
+    "groupID": 4647,
+    "name": "Guristas Aggressor Worm"
+  },
+  "79531": {
+    "groupID": 4647,
+    "name": "Guristas Aggressor Worm"
+  },
+  "79532": {
+    "groupID": 4647,
+    "name": "Guristas Trapper Frigate"
+  },
+  "79533": {
+    "groupID": 4648,
+    "name": "Guristas Aggressor Mamba"
+  },
+  "79534": {
+    "groupID": 4648,
+    "name": "Guristas Aggressor Mamba"
+  },
+  "79535": {
+    "groupID": 4648,
+    "name": "Guristas Aggressor Mamba"
+  },
+  "79536": {
+    "groupID": 4648,
+    "name": "Guristas Trapper Mamba"
+  },
+  "79537": {
+    "groupID": 4649,
+    "name": "Guristas Aggressor Gila"
+  },
+  "79538": {
+    "groupID": 4649,
+    "name": "Guristas Aggressor Gila"
+  },
+  "79539": {
+    "groupID": 4649,
+    "name": "Guristas Aggressor Gila"
+  },
+  "79540": {
+    "groupID": 4649,
+    "name": "Guristas Trapper Gila"
+  },
+  "79541": {
+    "groupID": 4650,
+    "name": "Guristas Aggressor Alligator"
+  },
+  "79542": {
+    "groupID": 4650,
+    "name": "Guristas Aggressor Alligator"
+  },
+  "79543": {
+    "groupID": 4650,
+    "name": "Guristas Aggressor Alligator"
+  },
+  "79544": {
+    "groupID": 4650,
+    "name": "Guristas Trapper Alligator"
+  },
+  "79545": {
+    "groupID": 4652,
+    "name": "Mordu's Vambrace Garmur"
+  },
+  "79546": {
+    "groupID": 4652,
+    "name": "Mordu's Vambrace Garmur"
+  },
+  "79547": {
+    "groupID": 4652,
+    "name": "Mordu's Vambrace Garmur"
+  },
+  "79548": {
+    "groupID": 4652,
+    "name": "Mordu's Shackle Garmur"
+  },
+  "79549": {
+    "groupID": 4653,
+    "name": "Mordu's Vambrace Fennec"
+  },
+  "79550": {
+    "groupID": 4653,
+    "name": "Mordu's Vambrace Fennec"
+  },
+  "79551": {
+    "groupID": 4653,
+    "name": "Mordu's Vambrace Fennec"
+  },
+  "79552": {
+    "groupID": 4653,
+    "name": "Mordu's Shackle Fennec"
+  },
+  "79553": {
+    "groupID": 4654,
+    "name": "Mordu's Vambrace Orthrus"
+  },
+  "79554": {
+    "groupID": 4654,
+    "name": "Mordu's Vambrace Orthrus"
+  },
+  "79555": {
+    "groupID": 4654,
+    "name": "Mordu's Vambrace Orthrus"
+  },
+  "79556": {
+    "groupID": 4654,
+    "name": "Mordu's Shackle Orthrus"
+  },
+  "79557": {
+    "groupID": 4655,
+    "name": "Mordu's Cuirass Mongoose"
+  },
+  "79558": {
+    "groupID": 4655,
+    "name": "Mordu's Cuirass Mongoose"
+  },
+  "79559": {
+    "groupID": 4655,
+    "name": "Mordu's Cuirass Mongoose"
+  },
+  "79560": {
+    "groupID": 4655,
+    "name": "Mordu's Shackle Mongoose"
+  },
+  "79586": {
+    "groupID": 186,
+    "name": "ORE Rorqual Wreck"
+  },
+  "79589": {
+    "groupID": 4673,
+    "name": "ORE Rorqual"
+  },
+  "79590": {
+    "groupID": 4673,
+    "name": "ORE Retriever"
+  },
+  "79591": {
+    "groupID": 4673,
+    "name": "ORE Venture"
+  },
+  "79592": {
+    "groupID": 4655,
+    "name": "ORE Safeguard Talos"
+  },
+  "79593": {
+    "groupID": 4652,
+    "name": "ORE Safeguard Atron"
+  },
+  "79594": {
+    "groupID": 4654,
+    "name": "Mordu's Phalanx Orthrus"
+  },
+  "79595": {
+    "groupID": 4656,
+    "name": "Mordu's Phalanx Barghest"
+  },
+  "79596": {
+    "groupID": 4647,
+    "name": "Angel Hijacker Echo"
+  },
+  "79597": {
+    "groupID": 4647,
+    "name": "Guristas Hijacker Taipan"
+  },
+  "79598": {
+    "groupID": 4649,
+    "name": "Angel Ransomer Cynabal"
+  },
+  "79599": {
+    "groupID": 4651,
+    "name": "Angel Ransomer Machariel"
+  },
+  "79600": {
+    "groupID": 4649,
+    "name": "Guristas Ransomer Gila"
+  },
+  "79601": {
+    "groupID": 4651,
+    "name": "Guristas Ransomer Rattlesnake "
+  },
+  "79606": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Angel Rorqual Tacklers Spawner (DO NOT TRANSLATE)"
+  },
+  "79608": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Guristas Rorqual Tacklers Spawner (DO NOT TRANSLATE)"
+  },
+  "79636": {
+    "groupID": 4471,
+    "name": "Azariel Corporation Emblem"
+  },
+  "79637": {
+    "groupID": 4471,
+    "name": "Azariel Alliance Emblem"
+  },
+  "79643": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Angel Miner Tacklers Spawner (DO NOT TRANSLATE)"
+  },
+  "79645": {
+    "groupID": 227,
+    "name": "Mining Op Ambush - Guristas Miner Tacklers Spawner (DO NOT TRANSLATE)"
+  },
+  "79673": {
+    "groupID": 4579,
+    "name": "Amarr Banner 01a"
+  },
+  "79674": {
+    "groupID": 1975,
+    "name": "Caldari Banner 01a"
+  },
+  "79675": {
+    "groupID": 4579,
+    "name": "Gallente Banner 01a"
+  },
+  "79676": {
+    "groupID": 4579,
+    "name": "Minmatar Banner 01a"
+  },
+  "79691": {
+    "groupID": 4647,
+    "name": "Angel Hijacker Echo"
+  },
+  "79692": {
+    "groupID": 4647,
+    "name": "Guristas Hijacker Taipan"
+  },
+  "79694": {
+    "groupID": 4654,
+    "name": "Mordu's Phalanx Orthrus"
+  },
+  "79695": {
+    "groupID": 4654,
+    "name": "Mordu's Phalanx Orthrus"
+  },
+  "79696": {
+    "groupID": 4654,
+    "name": "Mordu's Phalanx Orthrus"
+  },
+  "79697": {
+    "groupID": 4656,
+    "name": "Mordu's Phalanx Barghest"
+  },
+  "79698": {
+    "groupID": 4656,
+    "name": "Mordu's Phalanx Barghest"
+  },
+  "79699": {
+    "groupID": 4656,
+    "name": "Mordu's Phalanx Barghest"
+  },
+  "79701": {
+    "groupID": 4649,
+    "name": "Angel Ransomer Cynabal"
+  },
+  "79702": {
+    "groupID": 4649,
+    "name": "Angel Ransomer Cynabal"
+  },
+  "79703": {
+    "groupID": 4651,
+    "name": "Angel Ransomer Machariel"
+  },
+  "79704": {
+    "groupID": 4651,
+    "name": "Angel Ransomer Machariel"
+  },
+  "79705": {
+    "groupID": 4651,
+    "name": "Angel Ransomer Machariel"
+  },
+  "79706": {
+    "groupID": 4649,
+    "name": "Guristas Ransomer Gila"
+  },
+  "79707": {
+    "groupID": 4649,
+    "name": "Guristas Ransomer Gila"
+  },
+  "79708": {
+    "groupID": 4649,
+    "name": "Guristas Ransomer Gila"
+  },
+  "79709": {
+    "groupID": 4651,
+    "name": "Guristas Ransomer Rattlesnake"
+  },
+  "79710": {
+    "groupID": 4651,
+    "name": "Guristas Ransomer Rattlesnake"
+  },
+  "79711": {
+    "groupID": 4651,
+    "name": "Guristas Ransomer Rattlesnake"
+  },
+  "79748": {
+    "groupID": 4055,
+    "name": "Insurgency Upwell Roaming Spawner - CD5 - DO NOT TRANSLATE"
+  },
+  "79785": {
+    "groupID": 314,
+    "name": "Compressed Dense Polycrase"
+  },
+  "79816": {
+    "groupID": 1975,
+    "name": "Non-interactable Starbase Refinery (do not translate)"
+  },
+  "79825": {
+    "groupID": 186,
+    "name": "Counter-Insurgency Sentry Gun Wreck"
+  },
+  "79839": {
+    "groupID": 920,
+    "name": "Insurgency Suppression Interdiction Range Beacon"
   }
 }

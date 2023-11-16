@@ -115327,12 +115327,12 @@
   [
     46363,
     1924,
-    "Guristas Forward Operating Base"
+    "Guristas Pirates Stronghold"
   ],
   [
     46364,
     1924,
-    "Blood Raider Forward Operating Base"
+    "Blood Raiders Stronghold"
   ],
   [
     46365,
@@ -146262,7 +146262,7 @@
   [
     64007,
     1665,
-    "SARO Stormbringer"
+    "Upwell Safeguard Stormbringer"
   ],
   [
     64008,
@@ -150102,22 +150102,22 @@
   [
     71116,
     1924,
-    "Amarr Forward Operating Base"
+    "Amarr Empire Stronghold"
   ],
   [
     71117,
     1924,
-    "Caldari Forward Operating Base"
+    "Caldari State Stronghold"
   ],
   [
     71118,
     1924,
-    "Gallente Forward Operating Base"
+    "Gallente Federation Stronghold"
   ],
   [
     71119,
     1924,
-    "Minmatar Forward Operating Base"
+    "Minmatar Republic Stronghold"
   ],
   [
     71120,
@@ -163560,6 +163560,11 @@
     "[HF] Charge the Gun - Siege Wave Spawner (DO NOT TRANSLATE)"
   ],
   [
+    78260,
+    4644,
+    "Angel Cartel FOB"
+  ],
+  [
     78264,
     10,
     "Stargate (Jovian Alsavoinon)"
@@ -163800,6 +163805,11 @@
     "Tetrimon Precision Booster IV"
   ],
   [
+    78330,
+    4603,
+    "LP Store"
+  ],
+  [
     78333,
     420,
     "Mekubal"
@@ -163830,14 +163840,39 @@
     "Mekubal Blueprint"
   ],
   [
+    78366,
+    419,
+    "Alligator"
+  ],
+  [
     78367,
     420,
     "Mamba"
   ],
   [
+    78368,
+    489,
+    "Alligator Blueprint"
+  ],
+  [
+    78369,
+    419,
+    "Khizriel"
+  ],
+  [
+    78370,
+    489,
+    "Khizriel Blueprint"
+  ],
+  [
     78393,
     487,
     "Mamba Blueprint"
+  ],
+  [
+    78483,
+    306,
+    "[AIR] Bowhead Wreck"
   ],
   [
     78484,
@@ -163865,6 +163900,11 @@
     "Dynamic Perimeter Bubble"
   ],
   [
+    78576,
+    30,
+    "Azariel"
+  ],
+  [
     78582,
     4599,
     "Jovian Symbolic Navigator 9:22:8:7:16"
@@ -163890,6 +163930,26 @@
     "Jovian Symbolic Navigator 15:16:14:2:22"
   ],
   [
+    78621,
+    4067,
+    "Abyssal Vorton Tuning System"
+  ],
+  [
+    78622,
+    1964,
+    "Gravid Vorton Tuning System Mutaplasmid"
+  ],
+  [
+    78623,
+    1964,
+    "Decayed Vorton Tuning System Mutaplasmid"
+  ],
+  [
+    78624,
+    1964,
+    "Unstable Vorton Tuning System Mutaplasmid"
+  ],
+  [
     78627,
     4041,
     "QA-Community Noise-100 'Needlejack' Filament"
@@ -163898,6 +163958,31 @@
     78628,
     4041,
     "QA-Community Signal-100 'Needlejack' Filament"
+  ],
+  [
+    78677,
+    546,
+    "Civilian Mining Laser Upgrade"
+  ],
+  [
+    78740,
+    4067,
+    "Consortium Vorton Tuning system"
+  ],
+  [
+    78741,
+    4067,
+    "Kasiha's Modified Vorton Tuning System"
+  ],
+  [
+    78799,
+    310,
+    "Small Corporate Outpost Beacon"
+  ],
+  [
+    78800,
+    922,
+    "30km Small Corporate Capture Point"
   ],
   [
     78801,
@@ -163918,6 +164003,21 @@
     78804,
     4579,
     "VDB_Cloud_Zarzakh_Spiral_01a"
+  ],
+  [
+    78805,
+    310,
+    "Medium Corporate Outpost Beacon"
+  ],
+  [
+    78814,
+    310,
+    "Large Corporate Outpost Beacon"
+  ],
+  [
+    78815,
+    310,
+    "Open Corporate Outpost Beacon"
   ],
   [
     78832,
@@ -163955,6 +164055,56 @@
     "Zarzakh asteroid debris"
   ],
   [
+    78839,
+    314,
+    "Secluded Rich Asteroid Survey"
+  ],
+  [
+    78840,
+    314,
+    "Corporate Digital Bearer Bonds"
+  ],
+  [
+    78841,
+    314,
+    "Classified Prototype Blueprint"
+  ],
+  [
+    78842,
+    314,
+    "Corporate Security Briefing"
+  ],
+  [
+    78843,
+    314,
+    "Encoded Corporate Investment Plans"
+  ],
+  [
+    78844,
+    314,
+    "Cloistered Rich Asteroid Survey"
+  ],
+  [
+    78845,
+    314,
+    "Corporate Encrypted Credit Orders"
+  ],
+  [
+    78846,
+    314,
+    "Confidential Prototype Blueprint"
+  ],
+  [
+    78847,
+    314,
+    "Corporate Defense Briefing"
+  ],
+  [
+    78848,
+    314,
+    "Encrypted Upwell Consortium Data Cache"
+  ],
+  [
     78849,
     4579,
     "VDB_Cloud_JoveGate_01a (do not use)"
@@ -163973,6 +164123,116 @@
     78852,
     4579,
     "VDB_Cloud_JoveGate_04a (do not use)"
+  ],
+  [
+    78853,
+    474,
+    "Guristas Pirates Warehouse Raid Key"
+  ],
+  [
+    78854,
+    474,
+    "Angel Cartel Warehouse Raid Key"
+  ],
+  [
+    78855,
+    474,
+    "DED AmaMin Warehouse Raid Key"
+  ],
+  [
+    78856,
+    474,
+    "DED CalGal Warehouse Raid Key"
+  ],
+  [
+    78857,
+    314,
+    "Guristas Insurgency Data Sequence"
+  ],
+  [
+    78858,
+    314,
+    "Scorched Guristas Navigation Logs"
+  ],
+  [
+    78859,
+    314,
+    "Encrypted Guristas Transction Logs"
+  ],
+  [
+    78860,
+    314,
+    "Guristas Cargo Concealment Unit Remains"
+  ],
+  [
+    78861,
+    314,
+    "Guristas Pirates 'Prize' Ledger"
+  ],
+  [
+    78862,
+    314,
+    "Angel Insurgency Data Sequence"
+  ],
+  [
+    78863,
+    314,
+    "Angel Cartel 'Salvage' Ledger"
+  ],
+  [
+    78864,
+    314,
+    "Scorched Angel Navigation Logs"
+  ],
+  [
+    78865,
+    314,
+    "Encrypted Angel Transction Logs"
+  ],
+  [
+    78866,
+    314,
+    "Angel Cargo Concealment Unit Remains"
+  ],
+  [
+    78867,
+    1194,
+    "Guristas Pirates Laundering Reward Crate"
+  ],
+  [
+    78868,
+    226,
+    "Guristas Laundering Facility"
+  ],
+  [
+    78869,
+    226,
+    "Angel Laundering Facility"
+  ],
+  [
+    78870,
+    226,
+    "Federation Counter-Insurgency Outpost Hub"
+  ],
+  [
+    78871,
+    226,
+    "Imperial Counter-Insurgency Outpost Hub"
+  ],
+  [
+    78872,
+    1194,
+    "Angel Cartel Laundering Reward Crate"
+  ],
+  [
+    78873,
+    1194,
+    "Federation Counter-Insurgency Reward Crate"
+  ],
+  [
+    78874,
+    1194,
+    "Imperial Counter-Insurgency Reward Crate"
   ],
   [
     78880,
@@ -164075,6 +164335,11 @@
     "Non-Interactable Nano-Assembler (Do Not Translate)"
   ],
   [
+    78994,
+    310,
+    "Mining Op Ambush Beacon"
+  ],
+  [
     79017,
     1975,
     "Partially-constructed Deathless Shipcaster"
@@ -164083,6 +164348,111 @@
     79018,
     4549,
     "Deathless Interstellar Shipcaster"
+  ],
+  [
+    79085,
+    4471,
+    "Hubris Corporation Emblem"
+  ],
+  [
+    79086,
+    4471,
+    "Hubris Alliance Emblem"
+  ],
+  [
+    79087,
+    4471,
+    "Valravn Corporation Emblem"
+  ],
+  [
+    79088,
+    4471,
+    "Valravn Alliance Emblem"
+  ],
+  [
+    79089,
+    4471,
+    "Bane Corporation Emblem"
+  ],
+  [
+    79090,
+    4471,
+    "Bane Alliance Emblem"
+  ],
+  [
+    79091,
+    4471,
+    "Karura Corporation Emblem"
+  ],
+  [
+    79092,
+    4471,
+    "Karura Alliance Emblem"
+  ],
+  [
+    79093,
+    4471,
+    "Mekubal Corporation Emblem"
+  ],
+  [
+    79094,
+    4471,
+    "Mekubal Alliance Emblem"
+  ],
+  [
+    79100,
+    4471,
+    "Mamba Corporation Emblem"
+  ],
+  [
+    79101,
+    4471,
+    "Mamba Alliance Emblem"
+  ],
+  [
+    79102,
+    4471,
+    "Khizriel Corporation Emblem"
+  ],
+  [
+    79103,
+    4471,
+    "Khizriel Alliance Emblem"
+  ],
+  [
+    79115,
+    226,
+    "State Counter-Insurgency Outpost Hub"
+  ],
+  [
+    79116,
+    226,
+    "Republic Counter-Insurgency Outpost Hub"
+  ],
+  [
+    79117,
+    1194,
+    "State Counter-Insurgency Reward Crate"
+  ],
+  [
+    79118,
+    1194,
+    "Republic Counter-Insurgency Reward Crate"
+  ],
+  [
+    79172,
+    4644,
+    "Guristas Pirates FOB"
+  ],
+  [
+    79175,
+    4069,
+    "Consortium Vorton Tuning System Blueprint"
+  ],
+  [
+    79176,
+    4069,
+    "Kasiha's Modified Vorton Tuning System Blueprint"
   ],
   [
     79183,
@@ -164098,5 +164468,1315 @@
     79185,
     383,
     "Deathless Retribution Emplacement"
+  ],
+  [
+    79186,
+    1194,
+    "Mysterious GalNet Crate II"
+  ],
+  [
+    79188,
+    4471,
+    "Alligator Corporation Emblem"
+  ],
+  [
+    79189,
+    4471,
+    "Alligator Alliance Emblem"
+  ],
+  [
+    79192,
+    314,
+    "Deathless Circle Insurgents Loyalty Token"
+  ],
+  [
+    79194,
+    1975,
+    "Air Research Facility Wreck"
+  ],
+  [
+    79195,
+    1975,
+    "Air Nestor Battleship Wreck"
+  ],
+  [
+    79320,
+    4637,
+    "Angel Lookout Dramiel"
+  ],
+  [
+    79321,
+    4055,
+    "Insurgency Angel Roaming Spawner - CT2 - DO NOT TRANSLATE"
+  ],
+  [
+    79322,
+    4637,
+    "Angel Lookout Mekubal"
+  ],
+  [
+    79326,
+    110,
+    "Azariel Blueprint"
+  ],
+  [
+    79327,
+    4637,
+    "Angel Lookout Cynabal"
+  ],
+  [
+    79329,
+    4637,
+    "Zohar's Chosen Mekubal"
+  ],
+  [
+    79330,
+    4637,
+    "Zohar's Chosen Cynabal"
+  ],
+  [
+    79331,
+    4637,
+    "Angel Lookout Khizriel"
+  ],
+  [
+    79332,
+    4637,
+    "Zohar's Chosen Khizriel"
+  ],
+  [
+    79333,
+    4637,
+    "Angel Lookout Machariel"
+  ],
+  [
+    79334,
+    4637,
+    "Zohar's Chosen Machariel"
+  ],
+  [
+    79335,
+    4055,
+    "Insurgency Angel Roaming Spawner - CB2 - DO NOT TRANSLATE"
+  ],
+  [
+    79336,
+    4055,
+    " Insurgency Angel Roaming Spawner - ST3 - DO NOT TRANSLATE"
+  ],
+  [
+    79337,
+    4055,
+    "Insurgency Angel Roaming Spawner - CB3 - DO NOT TRANSLATE"
+  ],
+  [
+    79338,
+    4055,
+    "Insurgency Angel Roaming Spawner - CT4 - DO NOT TRANSLATE"
+  ],
+  [
+    79339,
+    4055,
+    "Insurgency Angel Roaming Spawner - CB4 - DO NOT TRANSLATE"
+  ],
+  [
+    79340,
+    4055,
+    "Insurgency Angel Roaming Spawner - CT5 - DO NOT TRANSLATE"
+  ],
+  [
+    79341,
+    4055,
+    "Insurgency Angel Roaming Spawner - CB5 - DO NOT TRANSLATE"
+  ],
+  [
+    79348,
+    4637,
+    "Guristas Lookout Worm"
+  ],
+  [
+    79349,
+    4637,
+    "Guristas Lookout Worm"
+  ],
+  [
+    79350,
+    4637,
+    "Guristas Lookout Mamba"
+  ],
+  [
+    79351,
+    4637,
+    "Guristas Lookout Mamba"
+  ],
+  [
+    79352,
+    4637,
+    "Guristas Lookout Gila"
+  ],
+  [
+    79353,
+    4637,
+    "Guristas Lookout Gila"
+  ],
+  [
+    79354,
+    4637,
+    "Guristas Lookout Alligator"
+  ],
+  [
+    79355,
+    4637,
+    "Guristas Lookout Alligator"
+  ],
+  [
+    79356,
+    4637,
+    "Guristas Lookout Rattlesnake"
+  ],
+  [
+    79357,
+    4637,
+    "Guristas Lookout Rattlesnake"
+  ],
+  [
+    79358,
+    4637,
+    "Hakuzosu’s Steelscale Mamba"
+  ],
+  [
+    79359,
+    4637,
+    "Hakuzosu’s Steelscale Mamba"
+  ],
+  [
+    79360,
+    4637,
+    "Hakuzosu’s Steelscale Gila"
+  ],
+  [
+    79361,
+    4637,
+    "Hakuzosu’s Steelscale Gila"
+  ],
+  [
+    79362,
+    4637,
+    "Hakuzosu’s Steelscale Alligator"
+  ],
+  [
+    79363,
+    4637,
+    "Hakuzosu’s Steelscale Alligator"
+  ],
+  [
+    79364,
+    4637,
+    "Hakuzosu’s Steelscale Rattlesnake"
+  ],
+  [
+    79365,
+    4637,
+    "Hakuzosu’s Steelscale Rattlesnake"
+  ],
+  [
+    79370,
+    227,
+    "Corporate Outpost Raid - Small PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79371,
+    227,
+    "Corporate Outpost Raid - Small PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79372,
+    227,
+    "Corporate Outpost Raid - Small PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79373,
+    227,
+    "Mining Op Ambush - Mordus Phalanx Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79374,
+    227,
+    "Mining Op Ambush - Angel Ransomers Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79375,
+    227,
+    "Mining Op Ambush - Guristas Ransomers Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79376,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CT2 - DO NOT TRANSLATE"
+  ],
+  [
+    79377,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CB2 - DO NOT TRANSLATE"
+  ],
+  [
+    79378,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CT3 - DO NOT TRANSLATE"
+  ],
+  [
+    79379,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CB3 - DO NOT TRANSLATE"
+  ],
+  [
+    79380,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CT4 - DO NOT TRANSLATE"
+  ],
+  [
+    79381,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CB4 - DO NOT TRANSLATE"
+  ],
+  [
+    79382,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CT5 - DO NOT TRANSLATE"
+  ],
+  [
+    79383,
+    4055,
+    "Insurgency Guristas Roaming Spawner - CB5 - DO NOT TRANSLATE"
+  ],
+  [
+    79385,
+    186,
+    "Angel FOB Wreck"
+  ],
+  [
+    79386,
+    186,
+    "Guristas FOB Wreck"
+  ],
+  [
+    79387,
+    4638,
+    "Upwell Safeguard Garmur"
+  ],
+  [
+    79388,
+    4638,
+    "Upwell Safeguard Garmur"
+  ],
+  [
+    79389,
+    4638,
+    "Consortium Bulwark Orthrus"
+  ],
+  [
+    79390,
+    4638,
+    "Upwell Safeguard Orthrus"
+  ],
+  [
+    79391,
+    4638,
+    "Upwell Safeguard Skybreaker"
+  ],
+  [
+    79392,
+    4638,
+    "Upwell Safeguard Stormbringer"
+  ],
+  [
+    79393,
+    4638,
+    "Upwell Safeguard Thunderchild"
+  ],
+  [
+    79394,
+    4638,
+    "Consortium Bulwark Skybreaker"
+  ],
+  [
+    79395,
+    4638,
+    "Consortium Bulwark Stormbringer"
+  ],
+  [
+    79396,
+    4638,
+    "Consortium Bulwark Thunderchild"
+  ],
+  [
+    79397,
+    4638,
+    "Upwell Safeguard Orthrus"
+  ],
+  [
+    79398,
+    4638,
+    "Consortium Bulwark Orthrus"
+  ],
+  [
+    79400,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CT3 - DO NOT TRANSLATE"
+  ],
+  [
+    79402,
+    4471,
+    "Metamorphosis Corporation Emblem"
+  ],
+  [
+    79403,
+    4471,
+    "Metamorphosis Alliance Emblem"
+  ],
+  [
+    79405,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CB3 - DO NOT TRANSLATE"
+  ],
+  [
+    79406,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CT4 - DO NOT TRANSLATE"
+  ],
+  [
+    79407,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CB4 - DO NOT TRANSLATE"
+  ],
+  [
+    79408,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CT5 - DO NOT TRANSLATE"
+  ],
+  [
+    79409,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CB5 - DO NOT TRANSLATE"
+  ],
+  [
+    79410,
+    186,
+    "Upwell Small Wreck"
+  ],
+  [
+    79411,
+    186,
+    "Upwell Medium Wreck"
+  ],
+  [
+    79412,
+    186,
+    "Upwell Large Wreck "
+  ],
+  [
+    79414,
+    4647,
+    "Angel Assailant Dramiel"
+  ],
+  [
+    79415,
+    4648,
+    "Angel Assailant Mekubal"
+  ],
+  [
+    79416,
+    4649,
+    "Angel Assailant Cynabal"
+  ],
+  [
+    79417,
+    4650,
+    "Angel Assailant Khizriel"
+  ],
+  [
+    79418,
+    4647,
+    "Guristas Aggressor Worm"
+  ],
+  [
+    79419,
+    4652,
+    "Mordu's Vambrace Garmur"
+  ],
+  [
+    79420,
+    4648,
+    "Guristas Aggressor Mamba"
+  ],
+  [
+    79421,
+    4653,
+    "Mordu's Vambrace Fennec"
+  ],
+  [
+    79422,
+    4649,
+    "Guristas Aggressor Gila"
+  ],
+  [
+    79423,
+    4654,
+    "Mordu's Vambrace Orthrus"
+  ],
+  [
+    79424,
+    4650,
+    "Guristas Aggressor Alligator"
+  ],
+  [
+    79425,
+    4655,
+    "Mordu's Cuirass Mongoose"
+  ],
+  [
+    79426,
+    227,
+    "Corporate Outpost Raid - Small PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79428,
+    227,
+    "Corporate Outpost Raid - Small PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79429,
+    227,
+    "Corporate Outpost Raid - Small PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79430,
+    227,
+    "Corporate Outpost Raid - Medium PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79431,
+    227,
+    "Corporate Outpost Raid - Medium PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79432,
+    227,
+    "Corporate Outpost Raid - Medium PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79433,
+    227,
+    "Corporate Outpost Raid - Medium PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79434,
+    227,
+    "Corporate Outpost Raid - Medium PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79435,
+    227,
+    "Corporate Outpost Raid - Medium PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79436,
+    227,
+    "Corporate Outpost Raid - Large PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79438,
+    227,
+    "Corporate Outpost Raid - Large PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79439,
+    227,
+    "Corporate Outpost Raid - Large PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79440,
+    227,
+    "Corporate Outpost Raid - Large PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79441,
+    227,
+    "Corporate Outpost Raid - Large PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79442,
+    227,
+    "Corporate Outpost Raid - Large PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79443,
+    227,
+    "Corporate Outpost Raid - X-Large PRT-1 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79444,
+    227,
+    "Corporate Outpost Raid - X-Large PRT-1 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79445,
+    227,
+    "Corporate Outpost Raid - X-Large PRT-1 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79446,
+    227,
+    "Corporate Outpost Raid - X-Large PRT-5 - Mordus Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79447,
+    227,
+    "Corporate Outpost Raid - X-Large PRT-5 - Angel Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79448,
+    227,
+    "Corporate Outpost Raid - X-Large PRT-5 - Guristas Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79449,
+    227,
+    "Mining Op Ambush - ORE Miners Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79450,
+    227,
+    "Mining Op Ambush - ORE Safeguard Atron Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79451,
+    227,
+    "Mining Op Ambush - ORE Safeguard Talos Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79459,
+    1975,
+    "ORE Plinth"
+  ],
+  [
+    79460,
+    1975,
+    "Upwell Plinth"
+  ],
+  [
+    79461,
+    1975,
+    "ORE Medium Structure 01a"
+  ],
+  [
+    79462,
+    1975,
+    "ORE Medium Structure 03a"
+  ],
+  [
+    79463,
+    1975,
+    "ORE Medium Structure 04a"
+  ],
+  [
+    79464,
+    1975,
+    "ORE Small Structure 02a"
+  ],
+  [
+    79465,
+    1975,
+    "ORE Small Structure 03a"
+  ],
+  [
+    79466,
+    1975,
+    "ORE Small Structure 05a"
+  ],
+  [
+    79467,
+    1975,
+    "ORE Small Structure 06a"
+  ],
+  [
+    79468,
+    1975,
+    "ORE Containers 01a"
+  ],
+  [
+    79469,
+    1975,
+    "ORE Connection 01a"
+  ],
+  [
+    79470,
+    1975,
+    "ORE Connection 02a"
+  ],
+  [
+    79471,
+    1975,
+    "ORE Connection 03a"
+  ],
+  [
+    79472,
+    1975,
+    "ORE Connection 04a"
+  ],
+  [
+    79473,
+    1975,
+    "ORE Connection 04b"
+  ],
+  [
+    79474,
+    1975,
+    "ORE Connection 04c"
+  ],
+  [
+    79475,
+    1975,
+    "ORE Connection 04d"
+  ],
+  [
+    79476,
+    1975,
+    "ORE Connection 05a"
+  ],
+  [
+    79477,
+    1975,
+    "ORE Connection 05b"
+  ],
+  [
+    79478,
+    1975,
+    "ORE Connection 05c"
+  ],
+  [
+    79479,
+    1975,
+    "ORE Modular Hub 01a"
+  ],
+  [
+    79480,
+    1975,
+    "ORE Modular Hub 01b"
+  ],
+  [
+    79481,
+    1975,
+    "ORE Modular Hub 01c"
+  ],
+  [
+    79482,
+    1975,
+    "ORE Modular Hub 01d"
+  ],
+  [
+    79483,
+    1975,
+    "ORE Small Hologram 01a"
+  ],
+  [
+    79484,
+    1975,
+    "ORE Warehouse 01"
+  ],
+  [
+    79485,
+    1975,
+    "ORE construction dock 01"
+  ],
+  [
+    79486,
+    1975,
+    "ORE construction dock 02"
+  ],
+  [
+    79487,
+    1975,
+    "ORE construction dock 03"
+  ],
+  [
+    79488,
+    1975,
+    "ORE construction dock 04"
+  ],
+  [
+    79489,
+    922,
+    "30km Medium Corporate Capture Point"
+  ],
+  [
+    79490,
+    922,
+    "30km Large Corporate Capture Point"
+  ],
+  [
+    79491,
+    922,
+    "30km Open Corporate Capture Point"
+  ],
+  [
+    79492,
+    1975,
+    "Upwell Medium Structure 02a"
+  ],
+  [
+    79493,
+    1975,
+    "Upwell Medium Structure 05a"
+  ],
+  [
+    79494,
+    1975,
+    "Upwell Small Structure 01a"
+  ],
+  [
+    79495,
+    1975,
+    "Upwell Small Structure 04a"
+  ],
+  [
+    79496,
+    1975,
+    "Upwell Small Structure 07a"
+  ],
+  [
+    79497,
+    1975,
+    "Upwell Connection 01a"
+  ],
+  [
+    79498,
+    1975,
+    "Upwell Connection 02a"
+  ],
+  [
+    79499,
+    1975,
+    "Upwell Connection 03a"
+  ],
+  [
+    79500,
+    1975,
+    "Upwell Connection 04a"
+  ],
+  [
+    79501,
+    1975,
+    "Upwell Connection 04b"
+  ],
+  [
+    79502,
+    1975,
+    "Upwell Connection 04c"
+  ],
+  [
+    79503,
+    1975,
+    "Upwell Connection 04d"
+  ],
+  [
+    79504,
+    1975,
+    "Upwell Connection 05a"
+  ],
+  [
+    79505,
+    1975,
+    "Upwell Connection 05b"
+  ],
+  [
+    79506,
+    1975,
+    "Upwell Connection 05c"
+  ],
+  [
+    79507,
+    383,
+    "Counter-Insurgency Sentry Gun"
+  ],
+  [
+    79508,
+    4638,
+    "Upwell Fortification Variant 'Kingbird'"
+  ],
+  [
+    79511,
+    1975,
+    "Upwell Small Hologram 01a"
+  ],
+  [
+    79515,
+    4647,
+    "Angel Assailant Dramiel"
+  ],
+  [
+    79516,
+    4647,
+    "Angel Assailant Dramiel"
+  ],
+  [
+    79517,
+    4647,
+    "Angel Snarer Dramiel"
+  ],
+  [
+    79518,
+    4579,
+    "Angel Banner 01a"
+  ],
+  [
+    79519,
+    4579,
+    "Guristas Banner 01a"
+  ],
+  [
+    79520,
+    4648,
+    "Angel Assailant Mekubal"
+  ],
+  [
+    79521,
+    4648,
+    "Angel Assailant Mekubal"
+  ],
+  [
+    79522,
+    4648,
+    "Angel Snarer Mekubal"
+  ],
+  [
+    79523,
+    4649,
+    "Angel Assailant Cynabal"
+  ],
+  [
+    79524,
+    4649,
+    "Angel Assailant Cynabal"
+  ],
+  [
+    79525,
+    4649,
+    "Angel Snarer Cynabal"
+  ],
+  [
+    79526,
+    4650,
+    "Angel Assailant Khizriel"
+  ],
+  [
+    79527,
+    4650,
+    "Angel Assailant Khizriel"
+  ],
+  [
+    79528,
+    4650,
+    "Angel Snarer Khizriel"
+  ],
+  [
+    79529,
+    4647,
+    "Guristas Aggressor Worm"
+  ],
+  [
+    79530,
+    4647,
+    "Guristas Aggressor Worm"
+  ],
+  [
+    79531,
+    4647,
+    "Guristas Aggressor Worm"
+  ],
+  [
+    79532,
+    4647,
+    "Guristas Trapper Frigate"
+  ],
+  [
+    79533,
+    4648,
+    "Guristas Aggressor Mamba"
+  ],
+  [
+    79534,
+    4648,
+    "Guristas Aggressor Mamba"
+  ],
+  [
+    79535,
+    4648,
+    "Guristas Aggressor Mamba"
+  ],
+  [
+    79536,
+    4648,
+    "Guristas Trapper Mamba"
+  ],
+  [
+    79537,
+    4649,
+    "Guristas Aggressor Gila"
+  ],
+  [
+    79538,
+    4649,
+    "Guristas Aggressor Gila"
+  ],
+  [
+    79539,
+    4649,
+    "Guristas Aggressor Gila"
+  ],
+  [
+    79540,
+    4649,
+    "Guristas Trapper Gila"
+  ],
+  [
+    79541,
+    4650,
+    "Guristas Aggressor Alligator"
+  ],
+  [
+    79542,
+    4650,
+    "Guristas Aggressor Alligator"
+  ],
+  [
+    79543,
+    4650,
+    "Guristas Aggressor Alligator"
+  ],
+  [
+    79544,
+    4650,
+    "Guristas Trapper Alligator"
+  ],
+  [
+    79545,
+    4652,
+    "Mordu's Vambrace Garmur"
+  ],
+  [
+    79546,
+    4652,
+    "Mordu's Vambrace Garmur"
+  ],
+  [
+    79547,
+    4652,
+    "Mordu's Vambrace Garmur"
+  ],
+  [
+    79548,
+    4652,
+    "Mordu's Shackle Garmur"
+  ],
+  [
+    79549,
+    4653,
+    "Mordu's Vambrace Fennec"
+  ],
+  [
+    79550,
+    4653,
+    "Mordu's Vambrace Fennec"
+  ],
+  [
+    79551,
+    4653,
+    "Mordu's Vambrace Fennec"
+  ],
+  [
+    79552,
+    4653,
+    "Mordu's Shackle Fennec"
+  ],
+  [
+    79553,
+    4654,
+    "Mordu's Vambrace Orthrus"
+  ],
+  [
+    79554,
+    4654,
+    "Mordu's Vambrace Orthrus"
+  ],
+  [
+    79555,
+    4654,
+    "Mordu's Vambrace Orthrus"
+  ],
+  [
+    79556,
+    4654,
+    "Mordu's Shackle Orthrus"
+  ],
+  [
+    79557,
+    4655,
+    "Mordu's Cuirass Mongoose"
+  ],
+  [
+    79558,
+    4655,
+    "Mordu's Cuirass Mongoose"
+  ],
+  [
+    79559,
+    4655,
+    "Mordu's Cuirass Mongoose"
+  ],
+  [
+    79560,
+    4655,
+    "Mordu's Shackle Mongoose"
+  ],
+  [
+    79586,
+    186,
+    "ORE Rorqual Wreck"
+  ],
+  [
+    79589,
+    4673,
+    "ORE Rorqual"
+  ],
+  [
+    79590,
+    4673,
+    "ORE Retriever"
+  ],
+  [
+    79591,
+    4673,
+    "ORE Venture"
+  ],
+  [
+    79592,
+    4655,
+    "ORE Safeguard Talos"
+  ],
+  [
+    79593,
+    4652,
+    "ORE Safeguard Atron"
+  ],
+  [
+    79594,
+    4654,
+    "Mordu's Phalanx Orthrus"
+  ],
+  [
+    79595,
+    4656,
+    "Mordu's Phalanx Barghest"
+  ],
+  [
+    79596,
+    4647,
+    "Angel Hijacker Echo"
+  ],
+  [
+    79597,
+    4647,
+    "Guristas Hijacker Taipan"
+  ],
+  [
+    79598,
+    4649,
+    "Angel Ransomer Cynabal"
+  ],
+  [
+    79599,
+    4651,
+    "Angel Ransomer Machariel"
+  ],
+  [
+    79600,
+    4649,
+    "Guristas Ransomer Gila"
+  ],
+  [
+    79601,
+    4651,
+    "Guristas Ransomer Rattlesnake "
+  ],
+  [
+    79606,
+    227,
+    "Mining Op Ambush - Angel Rorqual Tacklers Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79608,
+    227,
+    "Mining Op Ambush - Guristas Rorqual Tacklers Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79636,
+    4471,
+    "Azariel Corporation Emblem"
+  ],
+  [
+    79637,
+    4471,
+    "Azariel Alliance Emblem"
+  ],
+  [
+    79643,
+    227,
+    "Mining Op Ambush - Angel Miner Tacklers Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79645,
+    227,
+    "Mining Op Ambush - Guristas Miner Tacklers Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    79673,
+    4579,
+    "Amarr Banner 01a"
+  ],
+  [
+    79674,
+    1975,
+    "Caldari Banner 01a"
+  ],
+  [
+    79675,
+    4579,
+    "Gallente Banner 01a"
+  ],
+  [
+    79676,
+    4579,
+    "Minmatar Banner 01a"
+  ],
+  [
+    79691,
+    4647,
+    "Angel Hijacker Echo"
+  ],
+  [
+    79692,
+    4647,
+    "Guristas Hijacker Taipan"
+  ],
+  [
+    79694,
+    4654,
+    "Mordu's Phalanx Orthrus"
+  ],
+  [
+    79695,
+    4654,
+    "Mordu's Phalanx Orthrus"
+  ],
+  [
+    79696,
+    4654,
+    "Mordu's Phalanx Orthrus"
+  ],
+  [
+    79697,
+    4656,
+    "Mordu's Phalanx Barghest"
+  ],
+  [
+    79698,
+    4656,
+    "Mordu's Phalanx Barghest"
+  ],
+  [
+    79699,
+    4656,
+    "Mordu's Phalanx Barghest"
+  ],
+  [
+    79701,
+    4649,
+    "Angel Ransomer Cynabal"
+  ],
+  [
+    79702,
+    4649,
+    "Angel Ransomer Cynabal"
+  ],
+  [
+    79703,
+    4651,
+    "Angel Ransomer Machariel"
+  ],
+  [
+    79704,
+    4651,
+    "Angel Ransomer Machariel"
+  ],
+  [
+    79705,
+    4651,
+    "Angel Ransomer Machariel"
+  ],
+  [
+    79706,
+    4649,
+    "Guristas Ransomer Gila"
+  ],
+  [
+    79707,
+    4649,
+    "Guristas Ransomer Gila"
+  ],
+  [
+    79708,
+    4649,
+    "Guristas Ransomer Gila"
+  ],
+  [
+    79709,
+    4651,
+    "Guristas Ransomer Rattlesnake"
+  ],
+  [
+    79710,
+    4651,
+    "Guristas Ransomer Rattlesnake"
+  ],
+  [
+    79711,
+    4651,
+    "Guristas Ransomer Rattlesnake"
+  ],
+  [
+    79748,
+    4055,
+    "Insurgency Upwell Roaming Spawner - CD5 - DO NOT TRANSLATE"
+  ],
+  [
+    79785,
+    314,
+    "Compressed Dense Polycrase"
+  ],
+  [
+    79816,
+    1975,
+    "Non-interactable Starbase Refinery (do not translate)"
+  ],
+  [
+    79825,
+    186,
+    "Counter-Insurgency Sentry Gun Wreck"
+  ],
+  [
+    79839,
+    920,
+    "Insurgency Suppression Interdiction Range Beacon"
   ]
 ]
