@@ -14125,6 +14125,33 @@
     "published": true,
     "useBasePrice": false
   },
+  "4712": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Guided Entities",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4713": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Guidance Objectives",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4714": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "name": "Non-Interactable Asteroids",
+    "published": false,
+    "useBasePrice": false
+  },
   "350858": {
     "anchorable": false,
     "anchored": false,

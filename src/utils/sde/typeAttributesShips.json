@@ -15123,5 +15123,17 @@
     "published": true,
     "stackable": true,
     "unitID": 137
+  },
+  "5603": {
+    "attributeID": 5603,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "used for alliance tournament ships 2023, plate mass reduction",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBonusATF3",
+    "published": false,
+    "stackable": true
   }
 }

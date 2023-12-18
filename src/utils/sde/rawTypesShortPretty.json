@@ -107817,7 +107817,7 @@
   },
   "56907": {
     "groupID": 1194,
-    "name": "Peculiar Icebound Salvage"
+    "name": "Yoiul Y124 Peculiar Icebound Salvage"
   },
   "56943": {
     "groupID": 1895,
@@ -108069,15 +108069,15 @@
   },
   "57038": {
     "groupID": 1194,
-    "name": "Rare Icebound Salvage"
+    "name": "Yoiul Y124 Rare Icebound Salvage"
   },
   "57039": {
     "groupID": 1194,
-    "name": "Unusual Icebound Salvage"
+    "name": "Yoiul Y124 Unusual Icebound Salvage"
   },
   "57040": {
     "groupID": 1194,
-    "name": "ORE Green Salvage Package"
+    "name": "Yoiul Y124 ORE Green Salvage Package"
   },
   "57042": {
     "groupID": 494,
@@ -108093,19 +108093,19 @@
   },
   "57047": {
     "groupID": 494,
-    "name": "ORE Fresh Volatile Ice Processor"
+    "name": "ORE Friable Volatile Ice Processor"
   },
   "57048": {
     "groupID": 494,
-    "name": "ORE Friable Volatile Ice Processor"
+    "name": "ORE Fresh Volatile Ice Processor"
   },
   "57050": {
     "groupID": 1194,
-    "name": "ORE White Salvage Package"
+    "name": "Yoiul Y124 ORE White Salvage Package"
   },
   "57051": {
     "groupID": 1194,
-    "name": "ORE Red Salvage Package"
+    "name": "Yoiul Y124 ORE Red Salvage Package"
   },
   "57073": {
     "groupID": 1089,
@@ -123616,40 +123616,40 @@
     "name": "Invisible Cloud - Disallow Cloaking 500KM"
   },
   "74426": {
-    "groupID": 4041,
-    "name": "DNCR-05H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNCR-05H Highsec Ice Storm Filament"
   },
   "74427": {
-    "groupID": 4041,
-    "name": "DNNR-01L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNNR-01L Lowsec Ice Storm Filament"
   },
   "74428": {
-    "groupID": 4041,
-    "name": "DSHR-01H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DSHR-01H Highsec Ice Storm Filament"
   },
   "74429": {
-    "groupID": 4041,
-    "name": "PRNCR-10H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired PRNCR-10H Highsec Ice Storm Filament"
   },
   "74430": {
-    "groupID": 4041,
-    "name": "RDLF-10L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired RDLF-10L Lowsec Ice Storm Filament"
   },
   "74431": {
-    "groupID": 4041,
-    "name": "VXN-01N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired VXN-01N Nullsec Ice Storm Filament"
   },
   "74432": {
-    "groupID": 4041,
-    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired BLTZN-05L Lowsec Ice Storm Filament"
   },
   "74433": {
-    "groupID": 4041,
-    "name": "CMT-05N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CMT-05N Nullsec Ice Storm Filament"
   },
   "74434": {
-    "groupID": 4041,
-    "name": "CPD-10N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CPD-10N Nullsec Ice Storm Filament"
   },
   "74448": {
     "groupID": 1122,
@@ -123657,7 +123657,7 @@
   },
   "74449": {
     "groupID": 1194,
-    "name": "Ice Storm Filaments Crate"
+    "name": "Expired Ice Storm Filaments Crate"
   },
   "74500": {
     "groupID": 4098,
@@ -129611,6 +129611,10 @@
     "groupID": 268,
     "name": "Advanced Capital Ship Construction"
   },
+  "77726": {
+    "groupID": 358,
+    "name": "Cybele"
+  },
   "77727": {
     "groupID": 306,
     "name": "Faulty Triglavian Cache"
@@ -131095,6 +131099,10 @@
     "groupID": 487,
     "name": "Mamba Blueprint"
   },
+  "78414": {
+    "groupID": 324,
+    "name": "Shapash"
+  },
   "78483": {
     "groupID": 306,
     "name": "[AIR] Bowhead Wreck"
@@ -131166,6 +131174,122 @@
   "78628": {
     "groupID": 4041,
     "name": "QA-Community Signal-100 'Needlejack' Filament"
+  },
+  "78631": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster I"
+  },
+  "78633": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster II"
+  },
+  "78634": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster III"
+  },
+  "78636": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster IV"
+  },
+  "78637": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster I"
+  },
+  "78638": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster II"
+  },
+  "78639": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster III"
+  },
+  "78640": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster IV"
+  },
+  "78641": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster I"
+  },
+  "78642": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Rapture Booster I"
+  },
+  "78649": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster III"
+  },
+  "78650": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster IV"
+  },
+  "78652": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster I "
+  },
+  "78653": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster II "
+  },
+  "78655": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster III"
+  },
+  "78656": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster IV"
+  },
+  "78657": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster I"
+  },
+  "78659": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster II"
+  },
+  "78660": {
+    "groupID": 303,
+    "name": "Expired Wightstorm Vitarka Booster III"
+  },
+  "78661": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster III"
+  },
+  "78663": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster IV"
+  },
+  "78664": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster I"
+  },
+  "78665": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster II"
+  },
+  "78666": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster III"
+  },
+  "78667": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster IV"
+  },
+  "78668": {
+    "groupID": 303,
+    "name": "Basic 'Brainfreeze' Cerebral Accelerator"
+  },
+  "78669": {
+    "groupID": 303,
+    "name": "Potent 'Brainfreeze' Cerebral Accelerator"
+  },
+  "78670": {
+    "groupID": 303,
+    "name": "Extended 'Brainfreeze' Cerebral Accelerator"
+  },
+  "78676": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster II"
   },
   "78677": {
     "groupID": 546,
@@ -131598,6 +131722,46 @@
   "79195": {
     "groupID": 1975,
     "name": "Air Nestor Battleship Wreck"
+  },
+  "79205": {
+    "groupID": 4041,
+    "name": "DNCR-05H Highsec Ice Storm Filament"
+  },
+  "79206": {
+    "groupID": 4041,
+    "name": "DNNR-01L Lowsec Ice Storm Filament"
+  },
+  "79207": {
+    "groupID": 4041,
+    "name": "DSHR-01H Highsec Ice Storm Filament"
+  },
+  "79209": {
+    "groupID": 4041,
+    "name": "PRNCR-10H Highsec Ice Storm Filament"
+  },
+  "79210": {
+    "groupID": 4041,
+    "name": "RDLF-10L Lowsec Ice Storm Filament"
+  },
+  "79211": {
+    "groupID": 4041,
+    "name": "VXN-01N Nullsec Ice Storm Filament"
+  },
+  "79212": {
+    "groupID": 4041,
+    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+  },
+  "79213": {
+    "groupID": 4041,
+    "name": "CMT-05N Nullsec Ice Storm Filament"
+  },
+  "79214": {
+    "groupID": 105,
+    "name": "Metamorphosis Blueprint"
+  },
+  "79215": {
+    "groupID": 4041,
+    "name": "CPD-10N Nullsec Ice Storm Filament"
   },
   "79320": {
     "groupID": 4637,
@@ -132615,12 +132779,468 @@
     "groupID": 1975,
     "name": "Non-interactable Starbase Refinery (do not translate)"
   },
+  "79819": {
+    "groupID": 1194,
+    "name": "Ice Storm Filaments Crate"
+  },
   "79825": {
     "groupID": 186,
     "name": "Counter-Insurgency Sentry Gun Wreck"
   },
+  "79832": {
+    "groupID": 1194,
+    "name": "ORE Green Salvage Package"
+  },
+  "79833": {
+    "groupID": 1194,
+    "name": "ORE White Salvage Package"
+  },
+  "79834": {
+    "groupID": 1194,
+    "name": "ORE Red Salvage Package"
+  },
+  "79835": {
+    "groupID": 1194,
+    "name": "Peculiar Icebound Salvage"
+  },
+  "79836": {
+    "groupID": 1194,
+    "name": "Unusual Icebound Salvage"
+  },
+  "79837": {
+    "groupID": 1194,
+    "name": "Rare Icebound Salvage"
+  },
   "79839": {
     "groupID": 920,
     "name": "Insurgency Suppression Interdiction Range Beacon"
+  },
+  "79852": {
+    "groupID": 4647,
+    "name": "Angel Icejacker Dramiel"
+  },
+  "79853": {
+    "groupID": 4649,
+    "name": "Angel Icejacker Cynabal"
+  },
+  "79854": {
+    "groupID": 4651,
+    "name": "Angel Icejacker Machariel"
+  },
+  "79855": {
+    "groupID": 4647,
+    "name": "Guristas Icejacker Worm"
+  },
+  "79856": {
+    "groupID": 4656,
+    "name": "ORE Frostguard Barghest"
+  },
+  "79857": {
+    "groupID": 4654,
+    "name": "ORE Frostguard Orthrus"
+  },
+  "79858": {
+    "groupID": 4652,
+    "name": "ORE Frostguard Garmur"
+  },
+  "79859": {
+    "groupID": 227,
+    "name": "Insurgency Ice Heist - Upwell Spawner 1 (DO NOT TRANSLATE)"
+  },
+  "79860": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Angel Spawner 1 (DO NOT TRANSLATE)"
+  },
+  "79861": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Guristas Spawner 1 (DO NOT TRANSLATE)"
+  },
+  "79862": {
+    "groupID": 4649,
+    "name": "Guristas Icejacker Gila"
+  },
+  "79863": {
+    "groupID": 4651,
+    "name": "Guristas Icejacker Rattlesnake"
+  },
+  "79864": {
+    "groupID": 4712,
+    "name": "Test Towed Object (Do Not Translate)"
+  },
+  "79875": {
+    "groupID": 310,
+    "name": "Ice Refinery Heist"
+  },
+  "79884": {
+    "groupID": 1975,
+    "name": "Ice Heist vs Angels Operator"
+  },
+  "79885": {
+    "groupID": 4713,
+    "name": "ORE HISC-99 Fuel Loading Dock"
+  },
+  "79886": {
+    "groupID": 4713,
+    "name": "Angel HISC-99 Loading Scaffold"
+  },
+  "79890": {
+    "groupID": 226,
+    "name": "ORE HISC-99 Ice Refinery"
+  },
+  "79893": {
+    "groupID": 1975,
+    "name": "Large Crystal Environment 1 Krystallos"
+  },
+  "79894": {
+    "groupID": 1975,
+    "name": "Large Crystal Environment 2 Krystallos"
+  },
+  "79895": {
+    "groupID": 1975,
+    "name": "Large Crystal Environment 3 Krystallos"
+  },
+  "79896": {
+    "groupID": 1975,
+    "name": "Medium Crystal Environment 1 Krystallos"
+  },
+  "79897": {
+    "groupID": 1975,
+    "name": "Medium Crystal Environment 2 Krystallos"
+  },
+  "79898": {
+    "groupID": 1975,
+    "name": "Medium Crystal Environment 3 Krystallos"
+  },
+  "79899": {
+    "groupID": 1975,
+    "name": "Medium Crystal Environment 4 Krystallos"
+  },
+  "79900": {
+    "groupID": 1975,
+    "name": "Medium Crystal Environment 5 Krystallos"
+  },
+  "79901": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 1 Krystallos"
+  },
+  "79902": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 2 Krystallos"
+  },
+  "79903": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 3 Krystallos"
+  },
+  "79904": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 4 Krystallos"
+  },
+  "79905": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 5 Krystallos"
+  },
+  "79906": {
+    "groupID": 1975,
+    "name": "Small Crystal Environment 6 Krystallos"
+  },
+  "79908": {
+    "groupID": 4579,
+    "name": "ORE Banner 01a"
+  },
+  "79909": {
+    "groupID": 4712,
+    "name": "Automated HISC-99 Tanker"
+  },
+  "79910": {
+    "groupID": 4714,
+    "name": "Non-Interactable Krystallos"
+  },
+  "79911": {
+    "groupID": 4714,
+    "name": "Non-Interactable Glare Crust"
+  },
+  "79981": {
+    "groupID": 4648,
+    "name": "Angel Icejacker Mekubal "
+  },
+  "79982": {
+    "groupID": 4648,
+    "name": "Guristas Icejacker Mamba"
+  },
+  "79983": {
+    "groupID": 4653,
+    "name": "ORE Frostguard Fennec"
+  },
+  "79984": {
+    "groupID": 4650,
+    "name": "Angel Enforcer Khizriel"
+  },
+  "79985": {
+    "groupID": 4650,
+    "name": "Guristas Enforcer Alligator"
+  },
+  "79986": {
+    "groupID": 4656,
+    "name": "Upwell Security Thunderchild"
+  },
+  "80054": {
+    "groupID": 227,
+    "name": "Insurgency Ice Heist - Upwell Spawner 2 (DO NOT TRANSLATE)"
+  },
+  "80055": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Angel Spawner 2 (DO NOT TRANSLATE)"
+  },
+  "80057": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Guristas Spawner 2 (DO NOT TRANSLATE)"
+  },
+  "80060": {
+    "groupID": 227,
+    "name": "Insurgency Ice Heist - Upwell Rally Defender Spawner (DO NOT TRANSLATE)"
+  },
+  "80061": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Angel Rally Defender Spawner (DO NOT TRANSLATE)"
+  },
+  "80063": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Guristas Rally Defender Spawner (DO NOT TRANSLATE)"
+  },
+  "80089": {
+    "groupID": 1975,
+    "name": "Angel Small Hologram 01a"
+  },
+  "80090": {
+    "groupID": 1975,
+    "name": "Angel Connection 03a"
+  },
+  "80091": {
+    "groupID": 1975,
+    "name": "Angel Platform 02a"
+  },
+  "80092": {
+    "groupID": 1975,
+    "name": "Guristas Small Hologram 01a"
+  },
+  "80093": {
+    "groupID": 4579,
+    "name": "Upwell Banner 01a"
+  },
+  "80094": {
+    "groupID": 1975,
+    "name": "Upwell Small Structure 05a"
+  },
+  "80118": {
+    "groupID": 1975,
+    "name": "Ice Heist vs Guristas Operator"
+  },
+  "80120": {
+    "groupID": 4713,
+    "name": "Guristas HISC-99 Loading Scaffold"
+  },
+  "80121": {
+    "groupID": 1975,
+    "name": "Angel Nomad Hull"
+  },
+  "80122": {
+    "groupID": 1975,
+    "name": "Guristas Rhea Hull"
+  },
+  "80123": {
+    "groupID": 227,
+    "name": "Insurgency Ice Heist - Upwell Defensive Tackle Spawner (DO NOT TRANSLATE)"
+  },
+  "80124": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Angel Defensive Tackle Spawner (DO NOT TRANSLATE)"
+  },
+  "80125": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Guristas Defensive Tackle Spawner (DO NOT TRANSLATE)"
+  },
+  "80126": {
+    "groupID": 227,
+    "name": "Insurgency Ice Heist - Upwell Antiplayer Spawner (DO NOT TRANSLATE)"
+  },
+  "80127": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Angel Antiplayer Spawner (DO NOT TRANSLATE)"
+  },
+  "80128": {
+    "groupID": 227,
+    "name": " Insurgency Ice Heist - Guristas Antiplayer Spawner (DO NOT TRANSLATE)"
+  },
+  "80131": {
+    "groupID": 1975,
+    "name": "Non-interactable Primae"
+  },
+  "80132": {
+    "groupID": 1975,
+    "name": "Guristas Connection 05b"
+  },
+  "80133": {
+    "groupID": 1975,
+    "name": "Guristas Platform 01a"
+  },
+  "80134": {
+    "groupID": 1975,
+    "name": "Guristas Platform 02a"
+  },
+  "80234": {
+    "groupID": 227,
+    "name": "Invisible Cloud - ICE Heist triggers (DO NOT TRANSLATE)"
+  },
+  "80272": {
+    "groupID": 4647,
+    "name": "Angel Icejacker Dramiel"
+  },
+  "80273": {
+    "groupID": 4647,
+    "name": "Angel Icejacker Dramiel"
+  },
+  "80275": {
+    "groupID": 4647,
+    "name": "Guristas Icejacker Worm"
+  },
+  "80276": {
+    "groupID": 4647,
+    "name": "Guristas Icejacker Worm"
+  },
+  "80277": {
+    "groupID": 4647,
+    "name": "Guristas Icejacker Worm"
+  },
+  "80278": {
+    "groupID": 4652,
+    "name": "ORE Frostguard Garmur"
+  },
+  "80279": {
+    "groupID": 4652,
+    "name": "ORE Frostguard Garmur"
+  },
+  "80280": {
+    "groupID": 4652,
+    "name": "ORE Frostguard Garmur"
+  },
+  "80281": {
+    "groupID": 4648,
+    "name": "Angel Icejacker Mekubal "
+  },
+  "80282": {
+    "groupID": 4648,
+    "name": "Angel Icejacker Mekubal "
+  },
+  "80283": {
+    "groupID": 4648,
+    "name": "Guristas Icejacker Mamba"
+  },
+  "80284": {
+    "groupID": 4648,
+    "name": "Guristas Icejacker Mamba"
+  },
+  "80285": {
+    "groupID": 4648,
+    "name": "Guristas Icejacker Mamba"
+  },
+  "80286": {
+    "groupID": 4653,
+    "name": "ORE Frostguard Fennec"
+  },
+  "80287": {
+    "groupID": 4653,
+    "name": "ORE Frostguard Fennec"
+  },
+  "80288": {
+    "groupID": 4653,
+    "name": "ORE Frostguard Fennec"
+  },
+  "80289": {
+    "groupID": 4649,
+    "name": "Angel Icejacker Cynabal"
+  },
+  "80290": {
+    "groupID": 4649,
+    "name": "Angel Icejacker Cynabal"
+  },
+  "80291": {
+    "groupID": 4649,
+    "name": "Guristas Icejacker Gila"
+  },
+  "80292": {
+    "groupID": 4649,
+    "name": "Guristas Icejacker Gila"
+  },
+  "80293": {
+    "groupID": 4649,
+    "name": "Guristas Icejacker Gila"
+  },
+  "80294": {
+    "groupID": 4654,
+    "name": "ORE Frostguard Orthrus"
+  },
+  "80295": {
+    "groupID": 4654,
+    "name": "ORE Frostguard Orthrus"
+  },
+  "80296": {
+    "groupID": 4654,
+    "name": "ORE Frostguard Orthrus"
+  },
+  "80297": {
+    "groupID": 4650,
+    "name": "Angel Enforcer Khizriel"
+  },
+  "80298": {
+    "groupID": 4650,
+    "name": "Angel Enforcer Khizriel"
+  },
+  "80299": {
+    "groupID": 4650,
+    "name": "Guristas Enforcer Alligator"
+  },
+  "80300": {
+    "groupID": 4650,
+    "name": "Guristas Enforcer Alligator"
+  },
+  "80301": {
+    "groupID": 4650,
+    "name": "Guristas Enforcer Alligator"
+  },
+  "80302": {
+    "groupID": 4656,
+    "name": "Upwell Security Thunderchild"
+  },
+  "80303": {
+    "groupID": 4651,
+    "name": "Angel Icejacker Machariel"
+  },
+  "80304": {
+    "groupID": 4651,
+    "name": "Angel Icejacker Machariel"
+  },
+  "80306": {
+    "groupID": 4651,
+    "name": "Guristas Icejacker Rattlesnake"
+  },
+  "80307": {
+    "groupID": 4651,
+    "name": "Guristas Icejacker Rattlesnake"
+  },
+  "80308": {
+    "groupID": 4651,
+    "name": "Guristas Icejacker Rattlesnake"
+  },
+  "80310": {
+    "groupID": 4656,
+    "name": "ORE Frostguard Barghest"
+  },
+  "80311": {
+    "groupID": 4656,
+    "name": "ORE Frostguard Barghest"
+  },
+  "80312": {
+    "groupID": 4656,
+    "name": "ORE Frostguard Barghest"
   }
 }

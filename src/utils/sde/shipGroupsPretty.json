@@ -596,6 +596,10 @@
     "name": "Titan",
     "types": [
       [
+        78576,
+        "Azariel"
+      ],
+      [
         42126,
         "Vanquisher"
       ],
@@ -719,6 +723,10 @@
     "name": "Assault Frigate",
     "types": [
       [
+        78414,
+        "Shapash"
+      ],
+      [
         74141,
         "Geri"
       ],
@@ -800,6 +808,10 @@
         "Ikitursa"
       ],
       [
+        77726,
+        "Cybele"
+      ],
+      [
         11993,
         "Cerberus"
       ],
@@ -857,6 +869,14 @@
   "419": {
     "name": "Combat Battlecruiser",
     "types": [
+      [
+        78366,
+        "Alligator"
+      ],
+      [
+        78369,
+        "Khizriel"
+      ],
       [
         72811,
         "Cyclone Fleet Issue"

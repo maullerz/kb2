@@ -134772,7 +134772,7 @@
   [
     56907,
     1194,
-    "Peculiar Icebound Salvage"
+    "Yoiul Y124 Peculiar Icebound Salvage"
   ],
   [
     56943,
@@ -135087,17 +135087,17 @@
   [
     57038,
     1194,
-    "Rare Icebound Salvage"
+    "Yoiul Y124 Rare Icebound Salvage"
   ],
   [
     57039,
     1194,
-    "Unusual Icebound Salvage"
+    "Yoiul Y124 Unusual Icebound Salvage"
   ],
   [
     57040,
     1194,
-    "ORE Green Salvage Package"
+    "Yoiul Y124 ORE Green Salvage Package"
   ],
   [
     57042,
@@ -135117,22 +135117,22 @@
   [
     57047,
     494,
-    "ORE Fresh Volatile Ice Processor"
+    "ORE Friable Volatile Ice Processor"
   ],
   [
     57048,
     494,
-    "ORE Friable Volatile Ice Processor"
+    "ORE Fresh Volatile Ice Processor"
   ],
   [
     57050,
     1194,
-    "ORE White Salvage Package"
+    "Yoiul Y124 ORE White Salvage Package"
   ],
   [
     57051,
     1194,
-    "ORE Red Salvage Package"
+    "Yoiul Y124 ORE Red Salvage Package"
   ],
   [
     57073,
@@ -154521,48 +154521,48 @@
   ],
   [
     74426,
-    4041,
-    "DNCR-05H Highsec Ice Storm Filament"
+    4072,
+    "Expired DNCR-05H Highsec Ice Storm Filament"
   ],
   [
     74427,
-    4041,
-    "DNNR-01L Lowsec Ice Storm Filament"
+    4072,
+    "Expired DNNR-01L Lowsec Ice Storm Filament"
   ],
   [
     74428,
-    4041,
-    "DSHR-01H Highsec Ice Storm Filament"
+    4072,
+    "Expired DSHR-01H Highsec Ice Storm Filament"
   ],
   [
     74429,
-    4041,
-    "PRNCR-10H Highsec Ice Storm Filament"
+    4072,
+    "Expired PRNCR-10H Highsec Ice Storm Filament"
   ],
   [
     74430,
-    4041,
-    "RDLF-10L Lowsec Ice Storm Filament"
+    4072,
+    "Expired RDLF-10L Lowsec Ice Storm Filament"
   ],
   [
     74431,
-    4041,
-    "VXN-01N Nullsec Ice Storm Filament"
+    4072,
+    "Expired VXN-01N Nullsec Ice Storm Filament"
   ],
   [
     74432,
-    4041,
-    "BLTZN-05L Lowsec Ice Storm Filament"
+    4072,
+    "Expired BLTZN-05L Lowsec Ice Storm Filament"
   ],
   [
     74433,
-    4041,
-    "CMT-05N Nullsec Ice Storm Filament"
+    4072,
+    "Expired CMT-05N Nullsec Ice Storm Filament"
   ],
   [
     74434,
-    4041,
-    "CPD-10N Nullsec Ice Storm Filament"
+    4072,
+    "Expired CPD-10N Nullsec Ice Storm Filament"
   ],
   [
     74448,
@@ -154572,7 +154572,7 @@
   [
     74449,
     1194,
-    "Ice Storm Filaments Crate"
+    "Expired Ice Storm Filaments Crate"
   ],
   [
     74500,
@@ -162015,6 +162015,11 @@
     "Advanced Capital Ship Construction"
   ],
   [
+    77726,
+    358,
+    "Cybele"
+  ],
+  [
     77727,
     306,
     "Faulty Triglavian Cache"
@@ -163870,6 +163875,11 @@
     "Mamba Blueprint"
   ],
   [
+    78414,
+    324,
+    "Shapash"
+  ],
+  [
     78483,
     306,
     "[AIR] Bowhead Wreck"
@@ -163958,6 +163968,151 @@
     78628,
     4041,
     "QA-Community Signal-100 'Needlejack' Filament"
+  ],
+  [
+    78631,
+    303,
+    "Wightstorm Sunyata Booster I"
+  ],
+  [
+    78633,
+    303,
+    "Wightstorm Sunyata Booster II"
+  ],
+  [
+    78634,
+    303,
+    "Wightstorm Sunyata Booster III"
+  ],
+  [
+    78636,
+    303,
+    "Wightstorm Sunyata Booster IV"
+  ],
+  [
+    78637,
+    303,
+    "Wightstorm Nirvana Booster I"
+  ],
+  [
+    78638,
+    303,
+    "Wightstorm Nirvana Booster II"
+  ],
+  [
+    78639,
+    303,
+    "Wightstorm Nirvana Booster III"
+  ],
+  [
+    78640,
+    303,
+    "Wightstorm Nirvana Booster IV"
+  ],
+  [
+    78641,
+    303,
+    "Wightstorm Rapture Booster I"
+  ],
+  [
+    78642,
+    303,
+    "Expired Wightstorm Rapture Booster I"
+  ],
+  [
+    78649,
+    303,
+    "Wightstorm Rapture Booster III"
+  ],
+  [
+    78650,
+    303,
+    "Wightstorm Rapture Booster IV"
+  ],
+  [
+    78652,
+    303,
+    "Wightstorm Cetana Booster I "
+  ],
+  [
+    78653,
+    303,
+    "Wightstorm Cetana Booster II "
+  ],
+  [
+    78655,
+    303,
+    "Wightstorm Cetana Booster III"
+  ],
+  [
+    78656,
+    303,
+    "Wightstorm Cetana Booster IV"
+  ],
+  [
+    78657,
+    303,
+    "Wightstorm Vitarka Booster I"
+  ],
+  [
+    78659,
+    303,
+    "Wightstorm Vitarka Booster II"
+  ],
+  [
+    78660,
+    303,
+    "Expired Wightstorm Vitarka Booster III"
+  ],
+  [
+    78661,
+    303,
+    "Wightstorm Vitarka Booster III"
+  ],
+  [
+    78663,
+    303,
+    "Wightstorm Vitarka Booster IV"
+  ],
+  [
+    78664,
+    303,
+    "Wightstorm Manasikara Booster I"
+  ],
+  [
+    78665,
+    303,
+    "Wightstorm Manasikara Booster II"
+  ],
+  [
+    78666,
+    303,
+    "Wightstorm Manasikara Booster III"
+  ],
+  [
+    78667,
+    303,
+    "Wightstorm Manasikara Booster IV"
+  ],
+  [
+    78668,
+    303,
+    "Basic 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    78669,
+    303,
+    "Potent 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    78670,
+    303,
+    "Extended 'Brainfreeze' Cerebral Accelerator"
+  ],
+  [
+    78676,
+    303,
+    "Wightstorm Rapture Booster II"
   ],
   [
     78677,
@@ -164498,6 +164653,56 @@
     79195,
     1975,
     "Air Nestor Battleship Wreck"
+  ],
+  [
+    79205,
+    4041,
+    "DNCR-05H Highsec Ice Storm Filament"
+  ],
+  [
+    79206,
+    4041,
+    "DNNR-01L Lowsec Ice Storm Filament"
+  ],
+  [
+    79207,
+    4041,
+    "DSHR-01H Highsec Ice Storm Filament"
+  ],
+  [
+    79209,
+    4041,
+    "PRNCR-10H Highsec Ice Storm Filament"
+  ],
+  [
+    79210,
+    4041,
+    "RDLF-10L Lowsec Ice Storm Filament"
+  ],
+  [
+    79211,
+    4041,
+    "VXN-01N Nullsec Ice Storm Filament"
+  ],
+  [
+    79212,
+    4041,
+    "BLTZN-05L Lowsec Ice Storm Filament"
+  ],
+  [
+    79213,
+    4041,
+    "CMT-05N Nullsec Ice Storm Filament"
+  ],
+  [
+    79214,
+    105,
+    "Metamorphosis Blueprint"
+  ],
+  [
+    79215,
+    4041,
+    "CPD-10N Nullsec Ice Storm Filament"
   ],
   [
     79320,
@@ -165770,13 +165975,583 @@
     "Non-interactable Starbase Refinery (do not translate)"
   ],
   [
+    79819,
+    1194,
+    "Ice Storm Filaments Crate"
+  ],
+  [
     79825,
     186,
     "Counter-Insurgency Sentry Gun Wreck"
   ],
   [
+    79832,
+    1194,
+    "ORE Green Salvage Package"
+  ],
+  [
+    79833,
+    1194,
+    "ORE White Salvage Package"
+  ],
+  [
+    79834,
+    1194,
+    "ORE Red Salvage Package"
+  ],
+  [
+    79835,
+    1194,
+    "Peculiar Icebound Salvage"
+  ],
+  [
+    79836,
+    1194,
+    "Unusual Icebound Salvage"
+  ],
+  [
+    79837,
+    1194,
+    "Rare Icebound Salvage"
+  ],
+  [
     79839,
     920,
     "Insurgency Suppression Interdiction Range Beacon"
+  ],
+  [
+    79852,
+    4647,
+    "Angel Icejacker Dramiel"
+  ],
+  [
+    79853,
+    4649,
+    "Angel Icejacker Cynabal"
+  ],
+  [
+    79854,
+    4651,
+    "Angel Icejacker Machariel"
+  ],
+  [
+    79855,
+    4647,
+    "Guristas Icejacker Worm"
+  ],
+  [
+    79856,
+    4656,
+    "ORE Frostguard Barghest"
+  ],
+  [
+    79857,
+    4654,
+    "ORE Frostguard Orthrus"
+  ],
+  [
+    79858,
+    4652,
+    "ORE Frostguard Garmur"
+  ],
+  [
+    79859,
+    227,
+    "Insurgency Ice Heist - Upwell Spawner 1 (DO NOT TRANSLATE)"
+  ],
+  [
+    79860,
+    227,
+    " Insurgency Ice Heist - Angel Spawner 1 (DO NOT TRANSLATE)"
+  ],
+  [
+    79861,
+    227,
+    " Insurgency Ice Heist - Guristas Spawner 1 (DO NOT TRANSLATE)"
+  ],
+  [
+    79862,
+    4649,
+    "Guristas Icejacker Gila"
+  ],
+  [
+    79863,
+    4651,
+    "Guristas Icejacker Rattlesnake"
+  ],
+  [
+    79864,
+    4712,
+    "Test Towed Object (Do Not Translate)"
+  ],
+  [
+    79875,
+    310,
+    "Ice Refinery Heist"
+  ],
+  [
+    79884,
+    1975,
+    "Ice Heist vs Angels Operator"
+  ],
+  [
+    79885,
+    4713,
+    "ORE HISC-99 Fuel Loading Dock"
+  ],
+  [
+    79886,
+    4713,
+    "Angel HISC-99 Loading Scaffold"
+  ],
+  [
+    79890,
+    226,
+    "ORE HISC-99 Ice Refinery"
+  ],
+  [
+    79893,
+    1975,
+    "Large Crystal Environment 1 Krystallos"
+  ],
+  [
+    79894,
+    1975,
+    "Large Crystal Environment 2 Krystallos"
+  ],
+  [
+    79895,
+    1975,
+    "Large Crystal Environment 3 Krystallos"
+  ],
+  [
+    79896,
+    1975,
+    "Medium Crystal Environment 1 Krystallos"
+  ],
+  [
+    79897,
+    1975,
+    "Medium Crystal Environment 2 Krystallos"
+  ],
+  [
+    79898,
+    1975,
+    "Medium Crystal Environment 3 Krystallos"
+  ],
+  [
+    79899,
+    1975,
+    "Medium Crystal Environment 4 Krystallos"
+  ],
+  [
+    79900,
+    1975,
+    "Medium Crystal Environment 5 Krystallos"
+  ],
+  [
+    79901,
+    1975,
+    "Small Crystal Environment 1 Krystallos"
+  ],
+  [
+    79902,
+    1975,
+    "Small Crystal Environment 2 Krystallos"
+  ],
+  [
+    79903,
+    1975,
+    "Small Crystal Environment 3 Krystallos"
+  ],
+  [
+    79904,
+    1975,
+    "Small Crystal Environment 4 Krystallos"
+  ],
+  [
+    79905,
+    1975,
+    "Small Crystal Environment 5 Krystallos"
+  ],
+  [
+    79906,
+    1975,
+    "Small Crystal Environment 6 Krystallos"
+  ],
+  [
+    79908,
+    4579,
+    "ORE Banner 01a"
+  ],
+  [
+    79909,
+    4712,
+    "Automated HISC-99 Tanker"
+  ],
+  [
+    79910,
+    4714,
+    "Non-Interactable Krystallos"
+  ],
+  [
+    79911,
+    4714,
+    "Non-Interactable Glare Crust"
+  ],
+  [
+    79981,
+    4648,
+    "Angel Icejacker Mekubal "
+  ],
+  [
+    79982,
+    4648,
+    "Guristas Icejacker Mamba"
+  ],
+  [
+    79983,
+    4653,
+    "ORE Frostguard Fennec"
+  ],
+  [
+    79984,
+    4650,
+    "Angel Enforcer Khizriel"
+  ],
+  [
+    79985,
+    4650,
+    "Guristas Enforcer Alligator"
+  ],
+  [
+    79986,
+    4656,
+    "Upwell Security Thunderchild"
+  ],
+  [
+    80054,
+    227,
+    "Insurgency Ice Heist - Upwell Spawner 2 (DO NOT TRANSLATE)"
+  ],
+  [
+    80055,
+    227,
+    " Insurgency Ice Heist - Angel Spawner 2 (DO NOT TRANSLATE)"
+  ],
+  [
+    80057,
+    227,
+    " Insurgency Ice Heist - Guristas Spawner 2 (DO NOT TRANSLATE)"
+  ],
+  [
+    80060,
+    227,
+    "Insurgency Ice Heist - Upwell Rally Defender Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80061,
+    227,
+    " Insurgency Ice Heist - Angel Rally Defender Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80063,
+    227,
+    " Insurgency Ice Heist - Guristas Rally Defender Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80089,
+    1975,
+    "Angel Small Hologram 01a"
+  ],
+  [
+    80090,
+    1975,
+    "Angel Connection 03a"
+  ],
+  [
+    80091,
+    1975,
+    "Angel Platform 02a"
+  ],
+  [
+    80092,
+    1975,
+    "Guristas Small Hologram 01a"
+  ],
+  [
+    80093,
+    4579,
+    "Upwell Banner 01a"
+  ],
+  [
+    80094,
+    1975,
+    "Upwell Small Structure 05a"
+  ],
+  [
+    80118,
+    1975,
+    "Ice Heist vs Guristas Operator"
+  ],
+  [
+    80120,
+    4713,
+    "Guristas HISC-99 Loading Scaffold"
+  ],
+  [
+    80121,
+    1975,
+    "Angel Nomad Hull"
+  ],
+  [
+    80122,
+    1975,
+    "Guristas Rhea Hull"
+  ],
+  [
+    80123,
+    227,
+    "Insurgency Ice Heist - Upwell Defensive Tackle Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80124,
+    227,
+    " Insurgency Ice Heist - Angel Defensive Tackle Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80125,
+    227,
+    " Insurgency Ice Heist - Guristas Defensive Tackle Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80126,
+    227,
+    "Insurgency Ice Heist - Upwell Antiplayer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80127,
+    227,
+    " Insurgency Ice Heist - Angel Antiplayer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80128,
+    227,
+    " Insurgency Ice Heist - Guristas Antiplayer Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    80131,
+    1975,
+    "Non-interactable Primae"
+  ],
+  [
+    80132,
+    1975,
+    "Guristas Connection 05b"
+  ],
+  [
+    80133,
+    1975,
+    "Guristas Platform 01a"
+  ],
+  [
+    80134,
+    1975,
+    "Guristas Platform 02a"
+  ],
+  [
+    80234,
+    227,
+    "Invisible Cloud - ICE Heist triggers (DO NOT TRANSLATE)"
+  ],
+  [
+    80272,
+    4647,
+    "Angel Icejacker Dramiel"
+  ],
+  [
+    80273,
+    4647,
+    "Angel Icejacker Dramiel"
+  ],
+  [
+    80275,
+    4647,
+    "Guristas Icejacker Worm"
+  ],
+  [
+    80276,
+    4647,
+    "Guristas Icejacker Worm"
+  ],
+  [
+    80277,
+    4647,
+    "Guristas Icejacker Worm"
+  ],
+  [
+    80278,
+    4652,
+    "ORE Frostguard Garmur"
+  ],
+  [
+    80279,
+    4652,
+    "ORE Frostguard Garmur"
+  ],
+  [
+    80280,
+    4652,
+    "ORE Frostguard Garmur"
+  ],
+  [
+    80281,
+    4648,
+    "Angel Icejacker Mekubal "
+  ],
+  [
+    80282,
+    4648,
+    "Angel Icejacker Mekubal "
+  ],
+  [
+    80283,
+    4648,
+    "Guristas Icejacker Mamba"
+  ],
+  [
+    80284,
+    4648,
+    "Guristas Icejacker Mamba"
+  ],
+  [
+    80285,
+    4648,
+    "Guristas Icejacker Mamba"
+  ],
+  [
+    80286,
+    4653,
+    "ORE Frostguard Fennec"
+  ],
+  [
+    80287,
+    4653,
+    "ORE Frostguard Fennec"
+  ],
+  [
+    80288,
+    4653,
+    "ORE Frostguard Fennec"
+  ],
+  [
+    80289,
+    4649,
+    "Angel Icejacker Cynabal"
+  ],
+  [
+    80290,
+    4649,
+    "Angel Icejacker Cynabal"
+  ],
+  [
+    80291,
+    4649,
+    "Guristas Icejacker Gila"
+  ],
+  [
+    80292,
+    4649,
+    "Guristas Icejacker Gila"
+  ],
+  [
+    80293,
+    4649,
+    "Guristas Icejacker Gila"
+  ],
+  [
+    80294,
+    4654,
+    "ORE Frostguard Orthrus"
+  ],
+  [
+    80295,
+    4654,
+    "ORE Frostguard Orthrus"
+  ],
+  [
+    80296,
+    4654,
+    "ORE Frostguard Orthrus"
+  ],
+  [
+    80297,
+    4650,
+    "Angel Enforcer Khizriel"
+  ],
+  [
+    80298,
+    4650,
+    "Angel Enforcer Khizriel"
+  ],
+  [
+    80299,
+    4650,
+    "Guristas Enforcer Alligator"
+  ],
+  [
+    80300,
+    4650,
+    "Guristas Enforcer Alligator"
+  ],
+  [
+    80301,
+    4650,
+    "Guristas Enforcer Alligator"
+  ],
+  [
+    80302,
+    4656,
+    "Upwell Security Thunderchild"
+  ],
+  [
+    80303,
+    4651,
+    "Angel Icejacker Machariel"
+  ],
+  [
+    80304,
+    4651,
+    "Angel Icejacker Machariel"
+  ],
+  [
+    80306,
+    4651,
+    "Guristas Icejacker Rattlesnake"
+  ],
+  [
+    80307,
+    4651,
+    "Guristas Icejacker Rattlesnake"
+  ],
+  [
+    80308,
+    4651,
+    "Guristas Icejacker Rattlesnake"
+  ],
+  [
+    80310,
+    4656,
+    "ORE Frostguard Barghest"
+  ],
+  [
+    80311,
+    4656,
+    "ORE Frostguard Barghest"
+  ],
+  [
+    80312,
+    4656,
+    "ORE Frostguard Barghest"
   ]
 ]
