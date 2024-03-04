@@ -42,3 +42,27 @@ export const PartnerLogo = styled.div`
     width: 320px;
   }
 `
+
+export const Partners = styled.p`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+  a {
+    min-width: 160px;
+    height: 50px;
+    padding: 0 12px;
+  }
+
+  a:hover {
+    text-decoration: none;
+    background: rgba(150, 206, 246, 0.15);
+  }
+`
+
+export const UmgImg = styled.img`
+  margin-top: 16px;
+  height: 18px;
+  width: 150px;
+`

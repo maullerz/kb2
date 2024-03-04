@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Href } from 'components'
 
-import { Root, LegalContainer, Links, PartnerLogo } from './styles'
+import { Root, LegalContainer, Links, PartnerLogo, Partners, UmgImg } from './styles'
 
 const isDev = process.env.NODE_ENV === 'development'
 // const isDev = false
@@ -43,6 +43,21 @@ const Footer = () => {
           Become a Patron
         </Href>
       </Links>
+
+      <Partners>
+        <div>Partners:</div>
+        <a href='https://lighthouse.app?utm_source=kb.evetools.org'>
+          <img width={160} height={50} src='/img/lh-logo-white.svg' alt='Lighthouse logo' />
+        </a>
+        <a href='https://www.umovefree.com?utm_source=kb.evetools.org'>
+          <UmgImg
+            width={100}
+            height={12}
+            src='/img/umf-logo-white.png'
+            alt='UMoveFree logo'
+          />
+        </a>
+      </Partners>
     </Root>
   )
 }

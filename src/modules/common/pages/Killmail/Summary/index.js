@@ -124,6 +124,12 @@ const Summary = ({ kmData }) => {
         </div>
       </Row>
       <Row>
+        <Label>Ship:</Label>
+        <div>
+          {FormatUtils.formatRaw(parsedItems.ship)} ISK
+        </div>
+      </Row>
+      <Row>
         <Label>Destroyed:</Label>
         <div style={redColor}>
           {FormatUtils.formatRaw(parsedItems.destroyed + parsedItems.ship)} ISK
@@ -145,20 +151,4 @@ const Summary = ({ kmData }) => {
   )
 }
 
-// <TotalRow>
-//   <h4>Destroyed:</h4>
-//   <Sum style={colorRed}>
-//     {formatRaw(parsedItems.destroyed + parsedItems.ship)}
-//   </Sum>
-// </TotalRow>
-// <TotalRow>
-//   <h4>Dropped:</h4>
-//   <Sum style={colorGreen}>
-//     {formatRaw(parsedItems.dropped)}
-//   </Sum>
-// </TotalRow>
-// <TotalRow>
-//   <h4>Total:</h4>
-//   <Sum>{formatRaw(parsedItems.total)}</Sum>
-// </TotalRow>
 export default Summary

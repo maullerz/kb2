@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react'
 
-import { Href } from 'components'
 import OldPageLayout from 'layouts/OldPageLayout'
 import KillmailsTable from 'modules/common/components/KillmailsTable'
 
@@ -11,13 +10,7 @@ const Home = () => {
     <OldPageLayout>
       <Fragment key='title'>
         <HeaderPanel>
-          <Title>Beta version - Under Development</Title>
-          <Title>
-            discuss in&nbsp;
-            <Href link='https://discord.gg/HyPnAU7'>
-              Discord
-            </Href>
-          </Title>
+          <Title>EveTools Killboard</Title>
         </HeaderPanel>
       </Fragment>
       <Fragment key='content'>
