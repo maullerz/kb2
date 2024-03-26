@@ -1,17 +1,19 @@
 version: '3.6'
 
+name: evekb
+
 services:
   kb2:
     container_name: evekb-kb2
     build:
       context: .
       dockerfile: ./config/Dockerfile
-      # dockerfile: ./config/Dockerfile.nginx
     networks:
       - evekb
     ports:
-      - 4100:4100
+      - 4100
 
 networks:
   evekb:
     name: evekb-network
+    external: true
