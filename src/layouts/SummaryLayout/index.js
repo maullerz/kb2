@@ -9,6 +9,10 @@ import {
   InfoBlock, LinksBlock, ItemsWrapper,
 } from './styles'
 
+const transformToDotlan = str => {
+  return str.replace(/\s/g, '_')
+}
+
 const SummaryLayout = ({ children, imgProps, links, noImage }) => {
   const blocks = useLayout(children)
 
@@ -50,7 +54,7 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
 
       return (
         <>
-          <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.region)}/${encodeURIComponent(links.name)}`}>
+          <Href link={`https://evemaps.dotlan.net/map/${transformToDotlan(links.region)}/${transformToDotlan(links.name)}`}>
             DOTLAN
           </Href>
           <Href link={`https://zkillboard.com/system/${links.id}/`}>
@@ -62,7 +66,7 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
     if (links.type === 'constellation') {
       return (
         <>
-          <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.region)}/${encodeURIComponent(links.name)}`}>
+          <Href link={`https://evemaps.dotlan.net/map/${transformToDotlan(links.region)}/${transformToDotlan(links.name)}`}>
             DOTLAN
           </Href>
           <Href link={`https://zkillboard.com/constellation/${links.id}/`}>
@@ -74,7 +78,7 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
     if (links.type === 'region') {
       return (
         <>
-          <Href link={`https://evemaps.dotlan.net/map/${encodeURIComponent(links.name)}`}>
+          <Href link={`https://evemaps.dotlan.net/map/${transformToDotlan(links.name)}`}>
             DOTLAN
           </Href>
           <Href link={`https://zkillboard.com/region/${links.id}/`}>
@@ -89,7 +93,7 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
           <Href link={`https://zkillboard.com/character/${links.id}/`}>
             zKillboard
           </Href>
-          <Href link={`https://evewho.com/character/${links.id}/`}>
+          <Href link={`https://evewho.com/character/${links.id}`}>
             EVEWho
           </Href>
         </>
@@ -98,13 +102,13 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
     if (links.type === 'corp') {
       return (
         <>
-          <Href link={`https://evemaps.dotlan.net/corp/${encodeURIComponent(links.name)}`}>
+          <Href link={`https://evemaps.dotlan.net/corp/${transformToDotlan(links.name)}`}>
             DOTLAN
           </Href>
           <Href link={`https://zkillboard.com/corporation/${links.id}/`}>
             zKillboard
           </Href>
-          <Href link={`https://evewho.com/corporation/${links.id}/`}>
+          <Href link={`https://evewho.com/corporation/${links.id}`}>
             EVEWho
           </Href>
         </>
@@ -113,13 +117,13 @@ const SummaryLayout = ({ children, imgProps, links, noImage }) => {
     if (links.type === 'ally') {
       return (
         <>
-          <Href link={`https://evemaps.dotlan.net/alliance/${encodeURIComponent(links.name)}`}>
+          <Href link={`https://evemaps.dotlan.net/alliance/${transformToDotlan(links.name)}`}>
             DOTLAN
           </Href>
           <Href link={`https://zkillboard.com/alliance/${links.id}/`}>
             zKillboard
           </Href>
-          <Href link={`https://evewho.com/alliance/${links.id}/`}>
+          <Href link={`https://evewho.com/alliance/${links.id}`}>
             EVEWho
           </Href>
         </>
