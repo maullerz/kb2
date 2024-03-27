@@ -22,9 +22,9 @@ const getModuleRules = mode => {
             loader: 'babel-loader',
             options: {
               plugins: isDev ? [
-                'lodash',
+                '@sigmacomputing/babel-plugin-lodash',
                 require.resolve('react-refresh/babel'),
-              ] : ['lodash'],
+              ] : ['@sigmacomputing/babel-plugin-lodash'],
               // cacheDirectory: true,
               // cacheCompression: false,
             },

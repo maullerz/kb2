@@ -43,7 +43,7 @@ export const PartnerLogo = styled.div`
   }
 `
 
-export const Partners = styled.p`
+export const Partners = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;

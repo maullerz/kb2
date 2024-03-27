@@ -41,10 +41,9 @@ module.exports = function getConfig(api) {
         useESModules: true,
       },
     ],
-    '@babel/plugin-proposal-class-properties',
-    '@babel/plugin-proposal-object-rest-spread',
+    '@babel/plugin-transform-object-rest-spread',
     '@babel/plugin-syntax-dynamic-import',
-    'lodash',
+    '@sigmacomputing/babel-plugin-lodash',
     'date-fns',
   ]
 

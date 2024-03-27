@@ -1,4 +1,4 @@
-FROM node:14-alpine as builder
+FROM node:20.11-alpine as builder
 # ENV NODE_ENV=production
 
 COPY ["./package.json", "./package-lock.json", "./babel.config.js", "/build/"]
