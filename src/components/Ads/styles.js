@@ -7,7 +7,10 @@ export const Container = styled.div`
   width: 100%;
   max-width: 728px;
   min-width: 320px;
-  // margin: 8px 0;
+
+  @media(min-width: 1024px) {
+    max-width: 1000px;
+  }
 
   > ins {
     width: 320px;
