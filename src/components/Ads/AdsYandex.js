@@ -44,7 +44,7 @@ const Ads = () => {
 
   return (
     <Container>
-      <div id='yandex_rtb_R-A-6858234-1' />
+      <ins id='yandex_rtb_R-A-6858234-1' />
     </Container>
   )
 }

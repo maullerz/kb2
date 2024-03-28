@@ -63,9 +63,10 @@ export const getAllyUrl = (allyID, quality) => {
 }
 
 export const getRenderUrl = (ship, quality = RENDER_QUALITY) => {
-  if (!isShip(ship)) {
-    return getIconUrl(ship, false, quality)
-  }
+  // if (!isShip(ship)) {
+  //   return getIconUrl(ship, false, quality)
+  // }
+  // Structures like Citadels and MTU have renders as well
   const result = `${SELFHOST}/${ship}/render?size=${quality}`
   return result
 }

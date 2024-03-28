@@ -76,9 +76,9 @@ const MainLayout = props => {
               </Typography>
             </Link>
 
-            <LinkButton to='/about'>
+            {/* <LinkButton to='/about'>
               <HelpOutlineIcon />
-            </LinkButton>
+            </LinkButton> */}
 
             <SearchInput />
           </Toolbar>
