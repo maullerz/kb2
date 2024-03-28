@@ -18,38 +18,35 @@ window.yaContextCb.push(()=>{
   })
 })
 </script>
+<!-- Yandex.RTB R-A-6858234-1 -->
+<div id="yandex_rtb_R-A-6858234-1"></div>
+<script>
+window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    "blockId": "R-A-6858234-1",
+    "renderTo": "yandex_rtb_R-A-6858234-1"
+  })
+})
+</script>
 */
 
 const Ads = () => {
-
   useEffect(() => {
     if (!isDev) {
       window.yaContextCb.push(() => {
         window.Ya.Context.AdvManager.render({
-          "blockId": "R-A-6480542-1",
-          "renderTo": "yandex_rtb_R-A-6480542-1"
+          blockId: 'R-A-6858234-1',
+          renderTo: 'yandex_rtb_R-A-6858234-1',
         })
       })
     }
   }, [])
 
-  if (isDev) {
-    return (
-      <Container>
-        <ins
-          style={inlineBlock}
-          className={cx(styles.background, styles.responsiveIns)}
-        />
-      </Container>
-    )
-  }
-
   return (
     <Container>
-      <div id="yandex_rtb_R-A-6480542-1"></div>
+      <div id='yandex_rtb_R-A-6858234-1' />
     </Container>
   )
 }
-
 
 export default Ads

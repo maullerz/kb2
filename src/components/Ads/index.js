@@ -1,52 +1,59 @@
-/* eslint no-unused-vars: off */
-import React, { useEffect } from 'react'
-import { useMediaQuery } from '@react-hook/media-query'
+import React, { useState, useEffect } from 'react'
+import axios from 'axios'
 
+import AdsGoogle from './AdsGoogle'
+import AdsYandex from './AdsYandex'
 import { Container } from './styles'
 
-const LIST_SLOT = '9463018630'
-
-const SLOTS = {
-  list: '9463018630',
-  killmail: '9454445621',
-  // alliance: '5131879624',
-  // corp: '7797022673',
-  // char: '4145745796',
-  // ship: '2832664125',
-  // preset: '9398072471',
-  // group: '1938740075',
-  // system: '2057610831',
-  // region: '4013883850',
-}
-
+const isDev = process.env.NODE_ENV === 'development'
 const inlineBlock = { display: 'inline-block' }
-
-function getSlot(type) {
-  return SLOTS[type] || LIST_SLOT
-  // switch (type) {
-  //   case 'killmail':
-  //     return KILLMAIL_SLOT
-  //   case 'list':
-  //   default:
-  //     return LIST_SLOT
-  // }
-}
+const GEO_CODE = 'gcode'
+const GEO_TS = 'gts'
+const CACHE_TTL = 3 * 24 * 60 * 60 * 1000 // 3 days
+const YANDEX_CODES = ['BY', 'RU', 'CN']
 
 const Ads = ({ type }) => {
-  const isMobile = useMediaQuery('(max-width: 500px)')
+  const [provider, setProvider] = useState('')
 
-  const slot = getSlot(type)
-  if (!slot) {
-    console.error('undefined SLOT:', type)
-  }
+  useEffect(async () => {
+    // {"country_code":"BY","country_name":"Belarus","city":null,"postal":null,"latitude":53,"longitude":28,"IPv4":"178.127.75.35","state":null}
+    async function getProvider() {
+      try {
+        let savedGeocode = localStorage.getItem(GEO_CODE)
+        const savedTs = localStorage.getItem(GEO_TS)
+        const timeSinceLastCheck = Date.now() - savedTs
+        console.log('timeSinceLastCheck:', timeSinceLastCheck, CACHE_TTL)
+        if (timeSinceLastCheck > CACHE_TTL) {
+          savedGeocode = undefined
+        }
 
-  useEffect(() => {
-    if (process.env.NODE_ENV !== 'development') {
-      (window.adsbygoogle = window.adsbygoogle || []).push({})
+        if (savedGeocode) {
+          const isYandex = YANDEX_CODES.includes(savedGeocode)
+          setProvider(isYandex ? 'yandex' : 'google')
+          return
+        }
+
+        const res = await axios.get('https://geolocation-db.com/json/')
+        if (res?.data?.country_code) {
+          // console.log('res.data:', res.data)
+          const geocode = res?.data?.country_code
+          localStorage.setItem(GEO_CODE, geocode)
+          localStorage.setItem(GEO_TS, Date.now())
+          if (YANDEX_CODES.includes(geocode)) {
+            setProvider('yandex')
+          }
+        } else {
+          setProvider('google')
+        }
+      } catch (e) {
+        console.error('getProvider:', e)
+      }
     }
+
+    getProvider()
   }, [])
 
-  if (process.env.NODE_ENV === 'development') {
+  if (isDev) {
     return (
       <Container>
         <ins
@@ -57,31 +64,11 @@ const Ads = ({ type }) => {
     )
   }
 
-  if (isMobile) {
-    return (
-      <Container>
-        <ins
-          style={inlineBlock}
-          className='adsbygoogle'
-          data-ad-client='ca-pub-3299420347078208'
-          data-ad-slot={slot}
-          data-ad-format='auto'
-          data-full-width-responsive='true'
-        />
-      </Container>
-    )
+  if (!provider) {
+    return null
   }
 
-  return (
-    <Container>
-      <ins
-        style={inlineBlock}
-        className='adsbygoogle'
-        data-ad-client='ca-pub-3299420347078208'
-        data-ad-slot={slot}
-      />
-    </Container>
-  )
+  return provider === 'google' ? <AdsGoogle type={type} /> : <AdsYandex type={type} />
 }
 
 export default Ads

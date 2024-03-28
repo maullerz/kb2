@@ -4,7 +4,7 @@ google.com, pub-3299420347078208, DIRECT, f08c47fec0942fa0
 
 # Yandex
 
-yandex.com, 108307001, DIRECT
+yandex.com, 91154470, DIRECT
 improvedigital.com, 2031, RESELLER
 betweendigital.com, 43554, RESELLER
 uis.mobfox.com, 165, RESELLER
