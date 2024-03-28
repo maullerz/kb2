@@ -1,7 +1,7 @@
 import BaseAPI from 'api/BaseAPI'
 
 const esiPath = 'https://esi.evetech.net/latest'
-const src = 'datasource=tranquility'
+// const src = 'datasource=tranquility'
 
 class IndustryService extends BaseAPI {
   getSomething() {

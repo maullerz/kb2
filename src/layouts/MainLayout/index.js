@@ -4,14 +4,14 @@ import { Link } from 'react-router-dom'
 import { useMediaQuery } from '@react-hook/media-query'
 import { AppBar, Toolbar, Typography, Container, Box, Fab, Zoom, useScrollTrigger } from '@mui/material'
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp'
-import HelpOutlineIcon from '@mui/icons-material/HelpOutline'
+// import HelpOutlineIcon from '@mui/icons-material/HelpOutline'
 import { useTheme } from '@mui/material/styles'
 
 import Footer from 'modules/common/components/Footer'
 import SearchInput from 'components/SearchInput'
 
 import AppMenu from './AppMenu'
-import { Main, Content, LinkButton } from './styles'
+import { Main, Content } from './styles' // LinkButton
 
 const scrollBtnStyle = { position: 'fixed', bottom: 16, right: 16 }
 

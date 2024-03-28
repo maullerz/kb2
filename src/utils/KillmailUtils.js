@@ -1,5 +1,5 @@
 /* eslint no-use-before-define: ["error", { "variables": false }] */
-import { getGroupID, getCategoryID, getFitSlotKey, isAmmo, isShip } from 'utils/SdeUtils'
+import { getGroupID, getCategoryID, getFitSlotKey, isAmmo } from 'utils/SdeUtils'
 import { implants } from 'utils/SdeData'
 
 const IMG_QUALITY = 64

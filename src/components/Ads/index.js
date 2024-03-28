@@ -22,7 +22,7 @@ const Ads = ({ type }) => {
         let savedGeocode = localStorage.getItem(GEO_CODE)
         const savedTs = localStorage.getItem(GEO_TS)
         const timeSinceLastCheck = Date.now() - savedTs
-        console.log('timeSinceLastCheck:', timeSinceLastCheck, CACHE_TTL)
+        // console.log('timeSinceLastCheck:', timeSinceLastCheck, CACHE_TTL)
         if (timeSinceLastCheck > CACHE_TTL) {
           savedGeocode = undefined
         }

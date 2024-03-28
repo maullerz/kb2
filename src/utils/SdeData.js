@@ -10,6 +10,8 @@ let skinsTypes = null // require('./sde/skinsTypesIds.json')
 // let flags = null // require('./sde/flags.json')
 // // let typesArr = null
 
+const isDev = process.env.NODE_ENV === 'development'
+
 function castTypesArrayToObj(typesArray) {
   const result = {}
   typesArray.forEach(typeArr => {
@@ -30,35 +32,35 @@ function castTypesArrayToObj(typesArray) {
 
 function loadData() {
   if (types) {
-    if (process.env.NODE_ENV === 'development') {
+    if (isDev) {
       console.warn('already loaded!')
     }
     return Promise.resolve()
   }
 
-  if (process.env.NODE_ENV === 'development') {
+  if (isDev) {
     console.log('============================================')
     console.log('============== LOADING JSONS ===============')
     console.log('============================================')
   }
 
   const m1 = axios.get('/data/rawTypesArray.json').then(res => {
-    console.log('rawTypesArray loaded.')
+    isDev && console.log('rawTypesArray loaded.')
     types = castTypesArrayToObj(res.data)
   })
 
   const m2 = axios.get('/data/typeDogmaParsedShips.json').then(res => {
-    console.log('typeDogmaParsedShips loaded.')
+    isDev && console.log('typeDogmaParsedShips loaded.')
     shipAttributes = res.data
   })
 
   const m3 = axios.get('/data/groupsShort.json').then(res => {
-    console.log('groupsShort loaded.')
+    isDev && console.log('groupsShort loaded.')
     groups = res.data
   })
 
   const m4 = axios.get('/data/skinsTypesIds.json').then(res => {
-    console.log('skinsTypesIds loaded.')
+    isDev && console.log('skinsTypesIds loaded.')
     skinsTypes = res.data
   })
 

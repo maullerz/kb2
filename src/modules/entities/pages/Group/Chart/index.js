@@ -1,8 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { format } from 'date-fns'
 import { LineChart, Line, CartesianGrid, XAxis, YAxis, Tooltip, Legend } from 'recharts'
 
-import * as SdeUtils from 'utils/SdeUtils'
+// import * as SdeUtils from 'utils/SdeUtils'
 
 import { Root } from './styles'
 import rawData from './marauders7days.json'
@@ -38,7 +38,7 @@ data = Object.keys(data).map(day => {
   result.total = result.Golem + result.Kronos + result.Paladin + result.Vargur
   return result
 })
-console.log('data:', data)
+// console.log('data:', data)
 
 const Chart = () => {
   return (

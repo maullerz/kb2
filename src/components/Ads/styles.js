@@ -6,18 +6,18 @@ export const Container = styled.div`
   align-items: flex-start;
   width: 100%;
   max-width: 728px;
-  min-width: 300px;
-  margin: 10px 0;
+  min-width: 320px;
+  // margin: 8px 0;
 
   > ins {
     width: 320px;
-    height: 200px;
+    height: 300px;
 
     @media(max-width: 499px) {
       width: 100%;
-      min-width: 300px;
+      min-width: 320px;
       max-width: 499px;
-      height: 250px;
+      height: 300px;
     }
 
     @media(min-width: 500px) {
@@ -27,6 +27,11 @@ export const Container = styled.div`
 
     @media(min-width: 800px) {
       width: 728px;
+      height: 90px;
+    }
+
+    @media(min-width: 1024px) {
+      width: 1000px;
       height: 90px;
     }
   }
