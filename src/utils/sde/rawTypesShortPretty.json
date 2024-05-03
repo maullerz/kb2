@@ -100685,7 +100685,7 @@
   },
   "53040": {
     "groupID": 1670,
-    "name": "53040_Male_Makeup_BodyAugmentations_BodyAugmentation_M01_Types_BodyAugmentationM01_GoldDesign.png"
+    "name": "Men's 'Olympian TorsoRig' Body Augmentation"
   },
   "53041": {
     "groupID": 1670,
@@ -100836,7 +100836,7 @@
     "name": "Destroyer SKIN"
   },
   "53226": {
-    "groupID": 1088,
+    "groupID": 1670,
     "name": "Women's 'SteelKnight TorsoRig' Body Augmentation"
   },
   "53227": {
@@ -100845,7 +100845,7 @@
   },
   "53228": {
     "groupID": 1670,
-    "name": "53228_Female_Makeup_BodyAugmentations_BodyAugmentation_F01_Types_BodyAugmentationF01_GoldCamo.png"
+    "name": "Women's 'Olympian TorsoRig' Body Augmentation"
   },
   "53229": {
     "groupID": 1670,
@@ -118400,116 +118400,116 @@
     "name": "ENV_DarkExploration_01a"
   },
   "64623": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 1"
   },
   "64624": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 2"
   },
   "64625": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 3"
   },
   "64626": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 4"
   },
   "64627": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 5"
   },
   "64628": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 6"
   },
   "64629": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 7"
   },
   "64630": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 8"
   },
   "64631": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 9"
   },
   "64632": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Small 10"
   },
   "64633": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 1"
   },
   "64634": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 2"
   },
   "64635": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 3"
   },
   "64636": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 4"
   },
   "64637": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 5"
   },
   "64638": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 6"
   },
   "64639": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 7"
   },
   "64640": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Medium 8"
   },
   "64641": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 1"
   },
   "64642": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 2"
   },
   "64643": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 3"
   },
   "64644": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 4"
   },
   "64645": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 5"
   },
   "64646": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 6"
   },
   "64647": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 7"
   },
   "64648": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 8"
   },
   "64649": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 9"
   },
   "64650": {
-    "groupID": 1975,
-    "name": "Placeholder DO NOT USE"
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Large 10"
   },
   "64651": {
     "groupID": 1975,
@@ -130877,39 +130877,39 @@
   },
   "78287": {
     "groupID": 303,
-    "name": "Basic 'Radiance' Cerebral Accelerator"
+    "name": "Expired Basic 'Radiance' Cerebral Accelerator"
   },
   "78288": {
     "groupID": 303,
-    "name": "Potent 'Radiance' Cerebral Accelerator"
+    "name": "Expired Potent 'Radiance' Cerebral Accelerator"
   },
   "78289": {
     "groupID": 303,
-    "name": "Extended 'Radiance' Cerebral Accelerator"
+    "name": "Expired Extended 'Radiance' Cerebral Accelerator"
   },
   "78290": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster I"
+    "name": "Expired Harvest Anti-Disruptor Booster I"
   },
   "78291": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster II"
+    "name": "Expired Harvest Anti-Disruptor Booster II"
   },
   "78292": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster III"
+    "name": "Expired Harvest Anti-Disruptor Booster III"
   },
   "78293": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster IV"
+    "name": "Expired Harvest Anti-Disruptor Booster IV"
   },
   "78294": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster I"
+    "name": "Expired Harvest Nosferatu Booster I"
   },
   "78295": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster II"
+    "name": "Expired Harvest Nosferatu Booster II"
   },
   "78296": {
     "groupID": 4571,
@@ -130929,19 +130929,19 @@
   },
   "78300": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster III"
+    "name": "Expired Harvest Nosferatu Booster III"
   },
   "78301": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster IV"
+    "name": "Expired Harvest Nosferatu Booster IV"
   },
   "78302": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster I"
+    "name": "Expired Harvest Webifier Booster I"
   },
   "78303": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster II"
+    "name": "Expired Harvest Webifier Booster II"
   },
   "78304": {
     "groupID": 4574,
@@ -130949,15 +130949,15 @@
   },
   "78305": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster III"
+    "name": "Expired Harvest Webifier Booster III"
   },
   "78306": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster IV"
+    "name": "Expired Harvest Webifier Booster IV"
   },
   "78307": {
     "groupID": 303,
-    "name": "Harvest Damage Booster I"
+    "name": "Expired Harvest Damage Booster I"
   },
   "78308": {
     "groupID": 4574,
@@ -130973,79 +130973,79 @@
   },
   "78311": {
     "groupID": 303,
-    "name": "Harvest Damage Booster II"
+    "name": "Expired Harvest Damage Booster II"
   },
   "78312": {
     "groupID": 303,
-    "name": "Harvest Damage Booster III"
+    "name": "Expired Harvest Damage Booster III"
   },
   "78313": {
     "groupID": 303,
-    "name": "Harvest Damage Booster IV"
+    "name": "Expired Harvest Damage Booster IV"
   },
   "78314": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster I"
+    "name": "Expired Tetrimon Anti-Drain Booster I"
   },
   "78315": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster II"
+    "name": "Expired Tetrimon Anti-Drain Booster II"
   },
   "78316": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster III"
+    "name": "Expired Tetrimon Anti-Drain Booster III"
   },
   "78317": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster IV"
+    "name": "Expired Tetrimon Anti-Drain Booster IV"
   },
   "78318": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster I"
+    "name": "Expired Tetrimon Capacitor Booster I"
   },
   "78319": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster II"
+    "name": "Expired Tetrimon Capacitor Booster II"
   },
   "78320": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster III"
+    "name": "Expired Tetrimon Capacitor Booster III"
   },
   "78321": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster IV"
+    "name": "Expired Tetrimon Capacitor Booster IV"
   },
   "78322": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster I"
+    "name": "Expired Tetrimon Resistance Booster I"
   },
   "78323": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster II"
+    "name": "Expired Tetrimon Resistance Booster II"
   },
   "78324": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster III"
+    "name": "Expired Tetrimon Resistance Booster III"
   },
   "78325": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster IV"
+    "name": "Expired Tetrimon Resistance Booster IV"
   },
   "78326": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster I"
+    "name": "Expired Tetrimon Precision Booster I"
   },
   "78327": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster II"
+    "name": "Expired Tetrimon Precision Booster II"
   },
   "78328": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster III"
+    "name": "Expired Tetrimon Precision Booster III"
   },
   "78329": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster IV"
+    "name": "Expired Tetrimon Precision Booster IV"
   },
   "78330": {
     "groupID": 4603,
@@ -131177,39 +131177,39 @@
   },
   "78631": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster I"
+    "name": "Expired Wightstorm Sunyata Booster I"
   },
   "78633": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster II"
+    "name": "Expired Wightstorm Sunyata Booster II"
   },
   "78634": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster III"
+    "name": "Expired Wightstorm Sunyata Booster III"
   },
   "78636": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster IV"
+    "name": "Expired Wightstorm Sunyata Booster IV"
   },
   "78637": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster I"
+    "name": "Expired Wightstorm Nirvana Booster I"
   },
   "78638": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster II"
+    "name": "Expired Wightstorm Nirvana Booster II"
   },
   "78639": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster III"
+    "name": "Expired Wightstorm Nirvana Booster III"
   },
   "78640": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster IV"
+    "name": "Expired Wightstorm Nirvana Booster IV"
   },
   "78641": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster I"
+    "name": "Expired Wightstorm Rapture Booster I"
   },
   "78642": {
     "groupID": 303,
@@ -131217,35 +131217,35 @@
   },
   "78649": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster III"
+    "name": "Expired Wightstorm Rapture Booster III"
   },
   "78650": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster IV"
+    "name": "Expired Wightstorm Rapture Booster IV"
   },
   "78652": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster I "
+    "name": "Expired Wightstorm Cetana Booster I "
   },
   "78653": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster II "
+    "name": "Expired Wightstorm Cetana Booster II "
   },
   "78655": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster III"
+    "name": "Expired Wightstorm Cetana Booster III"
   },
   "78656": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster IV"
+    "name": "Expired Wightstorm Cetana Booster IV"
   },
   "78657": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster I"
+    "name": "Expired Wightstorm Vitarka Booster I"
   },
   "78659": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster II"
+    "name": "Expired Wightstorm Vitarka Booster II"
   },
   "78660": {
     "groupID": 303,
@@ -131253,43 +131253,43 @@
   },
   "78661": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster III"
+    "name": "Expired Wightstorm Vitarka Booster III"
   },
   "78663": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster IV"
+    "name": "Expired Wightstorm Vitarka Booster IV"
   },
   "78664": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster I"
+    "name": "Expired Wightstorm Manasikara Booster I"
   },
   "78665": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster II"
+    "name": "Expired Wightstorm Manasikara Booster II"
   },
   "78666": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster III"
+    "name": "Expired Wightstorm Manasikara Booster III"
   },
   "78667": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster IV"
+    "name": "Expired Wightstorm Manasikara Booster IV"
   },
   "78668": {
     "groupID": 303,
-    "name": "Basic 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Basic 'Brainfreeze' Cerebral Accelerator"
   },
   "78669": {
     "groupID": 303,
-    "name": "Potent 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Potent 'Brainfreeze' Cerebral Accelerator"
   },
   "78670": {
     "groupID": 303,
-    "name": "Extended 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Extended 'Brainfreeze' Cerebral Accelerator"
   },
   "78676": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster II"
+    "name": "Expired Wightstorm Rapture Booster II"
   },
   "78677": {
     "groupID": 546,
@@ -131724,44 +131724,44 @@
     "name": "Air Nestor Battleship Wreck"
   },
   "79205": {
-    "groupID": 4041,
-    "name": "DNCR-05H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNCR-05H Highsec Ice Storm Filament"
   },
   "79206": {
-    "groupID": 4041,
-    "name": "DNNR-01L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DNNR-01L Lowsec Ice Storm Filament"
   },
   "79207": {
-    "groupID": 4041,
-    "name": "DSHR-01H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired DSHR-01H Highsec Ice Storm Filament"
   },
   "79209": {
-    "groupID": 4041,
-    "name": "PRNCR-10H Highsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired PRNCR-10H Highsec Ice Storm Filament"
   },
   "79210": {
-    "groupID": 4041,
-    "name": "RDLF-10L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired RDLF-10L Lowsec Ice Storm Filament"
   },
   "79211": {
-    "groupID": 4041,
-    "name": "VXN-01N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired VXN-01N Nullsec Ice Storm Filament"
   },
   "79212": {
-    "groupID": 4041,
-    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired BLTZN-05L Lowsec Ice Storm Filament"
   },
   "79213": {
-    "groupID": 4041,
-    "name": "CMT-05N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CMT-05N Nullsec Ice Storm Filament"
   },
   "79214": {
     "groupID": 105,
     "name": "Metamorphosis Blueprint"
   },
   "79215": {
-    "groupID": 4041,
-    "name": "CPD-10N Nullsec Ice Storm Filament"
+    "groupID": 4072,
+    "name": "Expired CPD-10N Nullsec Ice Storm Filament"
   },
   "79320": {
     "groupID": 4637,
@@ -132983,6 +132983,178 @@
     "groupID": 4656,
     "name": "Upwell Security Thunderchild"
   },
+  "79994": {
+    "groupID": 306,
+    "name": "CD Combat 1 Loot"
+  },
+  "79996": {
+    "groupID": 4743,
+    "name": "Sinister Exotic Filament"
+  },
+  "79997": {
+    "groupID": 4743,
+    "name": "Ruined Electrical Filament"
+  },
+  "79998": {
+    "groupID": 4743,
+    "name": "Vicious Electrical Filament"
+  },
+  "79999": {
+    "groupID": 4743,
+    "name": "Devastated Electrical Filament"
+  },
+  "80000": {
+    "groupID": 4743,
+    "name": "Disastrous Gamma Filament"
+  },
+  "80001": {
+    "groupID": 4743,
+    "name": "Annihilated Electrical Filament"
+  },
+  "80002": {
+    "groupID": 4743,
+    "name": "Calamitous Firestorm Filament"
+  },
+  "80003": {
+    "groupID": 4052,
+    "name": "Sinister Exotic Filament Blueprint"
+  },
+  "80004": {
+    "groupID": 4052,
+    "name": "Ruined Electrical Filament Blueprint"
+  },
+  "80005": {
+    "groupID": 4052,
+    "name": "Vicious Electrical Filament Blueprint"
+  },
+  "80006": {
+    "groupID": 4052,
+    "name": "Devastated Electrical Filament Blueprint"
+  },
+  "80007": {
+    "groupID": 4052,
+    "name": "Disastrous Gamma Filament Blueprint"
+  },
+  "80008": {
+    "groupID": 4052,
+    "name": "Annihilated Electrical Filament Blueprint"
+  },
+  "80009": {
+    "groupID": 4052,
+    "name": "Calamitous Firestorm Filament Blueprint"
+  },
+  "80010": {
+    "groupID": 4716,
+    "name": "F-11 Entangled GQD"
+  },
+  "80011": {
+    "groupID": 4716,
+    "name": "B-53 Entangled GQD"
+  },
+  "80012": {
+    "groupID": 4716,
+    "name": "S-107 Entangled GQD"
+  },
+  "80013": {
+    "groupID": 4716,
+    "name": "F-16 Entangled GQD"
+  },
+  "80014": {
+    "groupID": 4716,
+    "name": "B-66 Entangled GQD"
+  },
+  "80015": {
+    "groupID": 4716,
+    "name": "S-133 Entangled GQD"
+  },
+  "80016": {
+    "groupID": 4716,
+    "name": "F-24 Entangled GQD"
+  },
+  "80017": {
+    "groupID": 4716,
+    "name": "B-79 Entangled GQD"
+  },
+  "80018": {
+    "groupID": 4716,
+    "name": "S-158 Entangled GQD"
+  },
+  "80019": {
+    "groupID": 4716,
+    "name": "F-33 Entangled GQD"
+  },
+  "80021": {
+    "groupID": 4716,
+    "name": "CD Component Y-107 ( copy )"
+  },
+  "80022": {
+    "groupID": 4716,
+    "name": "B-97 Entangled GQD"
+  },
+  "80023": {
+    "groupID": 4716,
+    "name": "S-172 Entangled GQD"
+  },
+  "80024": {
+    "groupID": 4716,
+    "name": "F-41 Entangled GQD"
+  },
+  "80025": {
+    "groupID": 4716,
+    "name": "Isolated Dimensional Thread"
+  },
+  "80026": {
+    "groupID": 4716,
+    "name": "CD Data Collection"
+  },
+  "80029": {
+    "groupID": 306,
+    "name": "Damavik Battle-Scarred Wreck"
+  },
+  "80030": {
+    "groupID": 306,
+    "name": "Small Cache Wreck"
+  },
+  "80031": {
+    "groupID": 306,
+    "name": "Medium Cache Wreck"
+  },
+  "80033": {
+    "groupID": 306,
+    "name": "Tower Vault Wreck"
+  },
+  "80034": {
+    "groupID": 306,
+    "name": "Vedmak Battle-Scarred Wreck"
+  },
+  "80035": {
+    "groupID": 306,
+    "name": "Drekavac Battle-Scarred Wreck"
+  },
+  "80036": {
+    "groupID": 306,
+    "name": "Leshak Battle-Scarred Wreck"
+  },
+  "80038": {
+    "groupID": 306,
+    "name": "Zirnitra Battle-Scarred Wreck"
+  },
+  "80039": {
+    "groupID": 1982,
+    "name": "Ruptured Shackling Leshak"
+  },
+  "80041": {
+    "groupID": 1982,
+    "name": "Battered Shackling Leshak"
+  },
+  "80043": {
+    "groupID": 1982,
+    "name": "Impaired Shackling Leshak"
+  },
+  "80044": {
+    "groupID": 1982,
+    "name": "Dievas Shackling Leshak"
+  },
   "80054": {
     "groupID": 227,
     "name": "Insurgency Ice Heist - Upwell Spawner 2 (DO NOT TRANSLATE)"
@@ -133090,6 +133262,58 @@
   "80234": {
     "groupID": 227,
     "name": "Invisible Cloud - ICE Heist triggers (DO NOT TRANSLATE)"
+  },
+  "80235": {
+    "groupID": 227,
+    "name": "CD Boss Spawner 1"
+  },
+  "80236": {
+    "groupID": 227,
+    "name": "CD Boss Spawner 2"
+  },
+  "80237": {
+    "groupID": 227,
+    "name": "CD Boss Spawner 3"
+  },
+  "80238": {
+    "groupID": 227,
+    "name": "CD Boss Spawner 4"
+  },
+  "80240": {
+    "groupID": 1194,
+    "name": "Yoiul Festival Celebration Crate"
+  },
+  "80246": {
+    "groupID": 186,
+    "name": "CD Boss Wreck"
+  },
+  "80247": {
+    "groupID": 186,
+    "name": "CD Boss Wreck (lootable)"
+  },
+  "80248": {
+    "groupID": 1997,
+    "name": "Igniting Swarmer"
+  },
+  "80249": {
+    "groupID": 227,
+    "name": "CD Minion Spawner 1"
+  },
+  "80250": {
+    "groupID": 227,
+    "name": "CD Minion Spawner 2"
+  },
+  "80251": {
+    "groupID": 227,
+    "name": "CD Minion Spawner 3"
+  },
+  "80252": {
+    "groupID": 227,
+    "name": "CD Minion Spawner 4"
+  },
+  "80253": {
+    "groupID": 227,
+    "name": "CD Minion Spawner Alpha"
   },
   "80272": {
     "groupID": 4647,
@@ -133242,5 +133466,1065 @@
   "80312": {
     "groupID": 4656,
     "name": "ORE Frostguard Barghest"
+  },
+  "80342": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day XXI Cerebral Accelerator"
+  },
+  "80343": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day XXI Cerebral Accelerator"
+  },
+  "80344": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day XXI Cerebral Accelerator"
+  },
+  "80352": {
+    "groupID": 303,
+    "name": "Basic Capsuleer Day XXI Glamourex Booster"
+  },
+  "80353": {
+    "groupID": 303,
+    "name": "Extended Capsuleer Day XXI Glamourex Booster"
+  },
+  "80354": {
+    "groupID": 303,
+    "name": "Potent Capsuleer Day XXI Glamourex Booster"
+  },
+  "80357": {
+    "groupID": 303,
+    "name": "SoCT Relic Range Booster I"
+  },
+  "80358": {
+    "groupID": 303,
+    "name": "SoCT Relic Range Booster II"
+  },
+  "80359": {
+    "groupID": 303,
+    "name": "SoCT Relic Range Booster III"
+  },
+  "80360": {
+    "groupID": 303,
+    "name": "SoCT Relic Coherence Booster I"
+  },
+  "80361": {
+    "groupID": 303,
+    "name": "SoCT Relic Coherence Booster II"
+  },
+  "80362": {
+    "groupID": 303,
+    "name": "SoCT Relic Coherence Booster III"
+  },
+  "80363": {
+    "groupID": 303,
+    "name": "SoCT Relic Strength Booster I"
+  },
+  "80364": {
+    "groupID": 303,
+    "name": "SoCT Relic Strength Booster II"
+  },
+  "80365": {
+    "groupID": 303,
+    "name": "SoCT Relic Strength Booster III"
+  },
+  "80366": {
+    "groupID": 303,
+    "name": "SoCT Repairer Booster I"
+  },
+  "80367": {
+    "groupID": 303,
+    "name": "SoCT Repairer Booster II"
+  },
+  "80368": {
+    "groupID": 303,
+    "name": "SoCT Repairer Booster III"
+  },
+  "80369": {
+    "groupID": 303,
+    "name": "SoCT Turret Booster I"
+  },
+  "80370": {
+    "groupID": 303,
+    "name": "SoCT Turret Booster II"
+  },
+  "80371": {
+    "groupID": 303,
+    "name": "SoCT Turret Booster III"
+  },
+  "80379": {
+    "groupID": 303,
+    "name": "SoCT Capacitor Booster I"
+  },
+  "80380": {
+    "groupID": 303,
+    "name": "SoCT Capacitor Booster II"
+  },
+  "80381": {
+    "groupID": 303,
+    "name": "SoCT Capacitor Booster III"
+  },
+  "80425": {
+    "groupID": 306,
+    "name": "EDENCOM Surveyor Debris"
+  },
+  "80438": {
+    "groupID": 1567,
+    "name": "CD Minion Loot Goblin"
+  },
+  "80439": {
+    "groupID": 227,
+    "name": "CD Minion Spawner (combat 1 loot)"
+  },
+  "80440": {
+    "groupID": 1194,
+    "name": "Recovered CD Boss Salvage"
+  },
+  "80448": {
+    "groupID": 4636,
+    "name": "Angel Outer Zarzakh Machariel"
+  },
+  "80449": {
+    "groupID": 4636,
+    "name": "Angel Outer Zarzakh Dramiel"
+  },
+  "80450": {
+    "groupID": 4636,
+    "name": "Angel Outer Zarzakh Cynabal"
+  },
+  "80451": {
+    "groupID": 4636,
+    "name": "Guristas Outer Zarzakh Gila"
+  },
+  "80452": {
+    "groupID": 4636,
+    "name": "Guristas Outer Zarzakh Rattlesnake"
+  },
+  "80523": {
+    "groupID": 1194,
+    "name": "Capsuleer Day XXI Filament Crate"
+  },
+  "80757": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster I"
+  },
+  "80760": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster II"
+  },
+  "80763": {
+    "groupID": 303,
+    "name": "SoCT Agility Booster III"
+  },
+  "80765": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster I"
+  },
+  "80767": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster II"
+  },
+  "80768": {
+    "groupID": 303,
+    "name": "SoCT Armor Booster III"
+  },
+  "80769": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster I"
+  },
+  "80770": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster II"
+  },
+  "80773": {
+    "groupID": 303,
+    "name": "SoCT Scan Booster III"
+  },
+  "80806": {
+    "groupID": 4636,
+    "name": "Angel Zarzakh Lachesis"
+  },
+  "80807": {
+    "groupID": 4636,
+    "name": "Angel Zarzakh Machariel"
+  },
+  "80808": {
+    "groupID": 4636,
+    "name": "Guristas Zarzakh Lachesis"
+  },
+  "80809": {
+    "groupID": 4636,
+    "name": "Guristas Zarzakh Rattlesnake"
+  },
+  "80853": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 1"
+  },
+  "80854": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 2"
+  },
+  "80855": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 3"
+  },
+  "80856": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 4"
+  },
+  "80857": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 5"
+  },
+  "80858": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 6"
+  },
+  "80860": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 7"
+  },
+  "80862": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 8"
+  },
+  "80863": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 9"
+  },
+  "80864": {
+    "groupID": 4579,
+    "name": "Asteroid Set 4 Xlarge 10"
+  },
+  "80873": {
+    "groupID": 1995,
+    "name": "Triglavian Encrypted Conduit Data"
+  },
+  "80876": {
+    "groupID": 1971,
+    "name": "Small Tachyon Cloud"
+  },
+  "80887": {
+    "groupID": 1929,
+    "name": "CD Accelerant Dungeon Effect"
+  },
+  "80888": {
+    "groupID": 1929,
+    "name": "CD Decelerant Dungeon Effect"
+  },
+  "80899": {
+    "groupID": 1971,
+    "name": "Anti-Tachyon Cloud"
+  },
+  "80934": {
+    "groupID": 383,
+    "name": "Damaged Werpost"
+  },
+  "80937": {
+    "groupID": 1194,
+    "name": "Capsuleer Day XXI Fireworks Package"
+  },
+  "80944": {
+    "groupID": 366,
+    "name": "Origin Conduit"
+  },
+  "80945": {
+    "groupID": 1991,
+    "name": "Abyssal Trace"
+  },
+  "80990": {
+    "groupID": 1929,
+    "name": "CD Large Dungeon Slow Cloud"
+  },
+  "80992": {
+    "groupID": 1194,
+    "name": "Capsuleer Day XXI Glamourex Crate"
+  },
+  "80994": {
+    "groupID": 1548,
+    "name": "CD Boss Guided Neutralizer Bomb"
+  },
+  "81035": {
+    "groupID": 1194,
+    "name": "Cd Trade Crate 2"
+  },
+  "81058": {
+    "groupID": 227,
+    "name": "CD Electric Weather Effect"
+  },
+  "81083": {
+    "groupID": 303,
+    "name": "Starsi Blast! Classic"
+  },
+  "81084": {
+    "groupID": 303,
+    "name": "Starsi Blast! Orange"
+  },
+  "81090": {
+    "groupID": 306,
+    "name": "EDENCOM Scout Debris"
+  },
+  "81091": {
+    "groupID": 306,
+    "name": "EDENCOM Expedition Debris"
+  },
+  "81098": {
+    "groupID": 4091,
+    "name": "Space Exploration Expert System"
+  },
+  "81118": {
+    "groupID": 4091,
+    "name": "Faction Warfare Expert System"
+  },
+  "81121": {
+    "groupID": 4091,
+    "name": "Hauler Operations Expert System"
+  },
+  "81122": {
+    "groupID": 4091,
+    "name": "Enforcer Operations Expert System"
+  },
+  "81152": {
+    "groupID": 227,
+    "name": "CD Exotic Weather Effect"
+  },
+  "81153": {
+    "groupID": 227,
+    "name": "CD Gamma Weather Effect"
+  },
+  "81154": {
+    "groupID": 227,
+    "name": "CD Firestorm Weather Effect"
+  },
+  "81161": {
+    "groupID": 1982,
+    "name": "Awoken Preserver"
+  },
+  "81162": {
+    "groupID": 1982,
+    "name": "Ruptured Drifter Battleship"
+  },
+  "81163": {
+    "groupID": 1194,
+    "name": "Enforcer Career Crate"
+  },
+  "81164": {
+    "groupID": 227,
+    "name": "CD Drifter Boss Spawner 1"
+  },
+  "81165": {
+    "groupID": 227,
+    "name": "CD Sleeper Drone Spawner 1"
+  },
+  "81166": {
+    "groupID": 1194,
+    "name": "Soldier of Fortune Career Crate"
+  },
+  "81167": {
+    "groupID": 1194,
+    "name": "Explorer Career Crate"
+  },
+  "81168": {
+    "groupID": 1194,
+    "name": "Industrialist Career Crate"
+  },
+  "81169": {
+    "groupID": 383,
+    "name": "Damaged Restless Tower"
+  },
+  "81170": {
+    "groupID": 1982,
+    "name": "Battered Drifter Battleship"
+  },
+  "81174": {
+    "groupID": 227,
+    "name": "CD Sleeper Drone Spawner 2"
+  },
+  "81175": {
+    "groupID": 227,
+    "name": "CD Drifter Boss Spawner 2"
+  },
+  "81177": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81178": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81179": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81180": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81181": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81182": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81183": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81184": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81185": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81186": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81187": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81188": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81189": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81190": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81191": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81192": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81193": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81194": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81195": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81196": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81197": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81198": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81199": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81200": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81201": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81202": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81203": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81204": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81205": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81206": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81207": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81208": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81209": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81210": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81211": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81212": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81213": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81214": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81215": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81216": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81217": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81218": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81219": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81220": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81221": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81222": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81223": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81224": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81225": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81226": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81227": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81228": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81229": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81230": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81231": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81232": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81233": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81234": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81235": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81236": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81237": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81238": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81239": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81240": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81241": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81242": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81243": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81244": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81245": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81246": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81247": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81248": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81249": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81250": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81251": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81252": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81253": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81254": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81255": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81256": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81257": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81258": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81259": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81260": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81261": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81262": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81263": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81264": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81265": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81266": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81267": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81268": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81269": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81270": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81271": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81272": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81273": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81274": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81275": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81276": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81277": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81278": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81279": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81280": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81281": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81282": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81283": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81284": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81285": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81286": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81287": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81288": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81289": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81290": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81291": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81292": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81293": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81294": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81295": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81296": {
+    "groupID": 314,
+    "name": "Partially Corrupted Cryschip"
+  },
+  "81299": {
+    "groupID": 1982,
+    "name": "Impaired Drifter Battleship"
+  },
+  "81300": {
+    "groupID": 227,
+    "name": "CD Drifter Boss Spawner 3"
+  },
+  "81301": {
+    "groupID": 227,
+    "name": "CD Sleeper Drone Spawner 3"
+  },
+  "81302": {
+    "groupID": 1982,
+    "name": "Tyrannos Typhon"
+  },
+  "81304": {
+    "groupID": 227,
+    "name": "CD Drifter Boss Spawner 4"
+  },
+  "81305": {
+    "groupID": 227,
+    "name": "CD Sleeper Drone Spawner 4 "
+  },
+  "81306": {
+    "groupID": 1982,
+    "name": "Impaired Blitzing Kikimora"
+  },
+  "81324": {
+    "groupID": 1975,
+    "name": "Large Rift Open"
+  },
+  "81327": {
+    "groupID": 1975,
+    "name": "Small Rift Open"
+  },
+  "81335": {
+    "groupID": 1975,
+    "name": "Infested Triglavian Battleship Wreck (Leshak)"
+  },
+  "81336": {
+    "groupID": 1975,
+    "name": "Triglavian Battleship Wreck (Leshak)"
+  },
+  "81338": {
+    "groupID": 1975,
+    "name": "Infested TriGlavian Stellar Accelerator Wreck"
+  },
+  "81339": {
+    "groupID": 1975,
+    "name": "TriGlavian Stellar Accelerator Wreck"
+  },
+  "81340": {
+    "groupID": 1975,
+    "name": "Infested Triglavian Fortification Unit 01 Wreck"
+  },
+  "81341": {
+    "groupID": 1975,
+    "name": "Triglavian Fortification Unit 01 Wreck"
+  },
+  "81342": {
+    "groupID": 1975,
+    "name": "Infested TriGlavian Generator 03 Wreck"
+  },
+  "81343": {
+    "groupID": 1975,
+    "name": "TriGlavian Generator 03 Wreck"
+  },
+  "81344": {
+    "groupID": 1975,
+    "name": "Triglavian Fortification Unit 03 Wreck"
+  },
+  "81345": {
+    "groupID": 1975,
+    "name": "Triglavian Fortification Unit 04 Wreck"
+  },
+  "81346": {
+    "groupID": 1975,
+    "name": "Triglavian Generator 02 Wreck"
+  },
+  "81390": {
+    "groupID": 1975,
+    "name": "Triglavian Extraction SubNode Wreck"
+  },
+  "81391": {
+    "groupID": 1975,
+    "name": "Triglavian Extraction Node Wreck"
+  },
+  "81392": {
+    "groupID": 1975,
+    "name": "Triglavian Triplex Extraction Cluster Wreck"
+  },
+  "81599": {
+    "groupID": 283,
+    "name": "Chemal Tech Geneticist"
+  },
+  "81603": {
+    "groupID": 1194,
+    "name": "Mysterious Booster Crate I"
+  },
+  "81614": {
+    "groupID": 4091,
+    "name": "Gas Harvesting Expert System"
+  },
+  "81617": {
+    "groupID": 306,
+    "name": "EDENCOM Surveyor Stash"
+  },
+  "81618": {
+    "groupID": 4091,
+    "name": "Logistics Pilot Expert System"
+  },
+  "81624": {
+    "groupID": 306,
+    "name": "EDENCOM Scout Stash"
+  },
+  "81626": {
+    "groupID": 306,
+    "name": "CD Can 3 ( copy )"
+  },
+  "81627": {
+    "groupID": 306,
+    "name": "EDENCOM Expedition Stash"
+  },
+  "81633": {
+    "groupID": 227,
+    "name": "CD Electric Weather Effect 2"
+  },
+  "81634": {
+    "groupID": 227,
+    "name": "CD Electric Weather Effect 3"
+  },
+  "81660": {
+    "groupID": 1319,
+    "name": "Asset Holding Wrap"
+  },
+  "81661": {
+    "groupID": 227,
+    "name": "CD Minion Spawner kspace"
+  },
+  "81925": {
+    "groupID": 226,
+    "name": "Upwell Consortium Prototype Structure"
+  },
+  "81945": {
+    "groupID": 886,
+    "name": "Drone Graviton Emitter"
+  },
+  "81946": {
+    "groupID": 723,
+    "name": "Consortium Small Tractor Beam Blueprint"
+  },
+  "81947": {
+    "groupID": 723,
+    "name": "Consortium Capital Tractor Beam Blueprint"
+  },
+  "81948": {
+    "groupID": 650,
+    "name": "Consortium Small Tractor Beam"
+  },
+  "81949": {
+    "groupID": 650,
+    "name": "Consortium Capital Tractor Beam"
+  },
+  "81950": {
+    "groupID": 226,
+    "name": "Upwell Applied Gravitation Research Center"
+  },
+  "81951": {
+    "groupID": 1250,
+    "name": "Consortium Mobile Tractor Unit"
+  },
+  "81952": {
+    "groupID": 1270,
+    "name": "Consortium Mobile Tractor Unit Blueprint"
+  },
+  "81953": {
+    "groupID": 314,
+    "name": "Upwell Consortium Loyalty Token"
+  },
+  "81954": {
+    "groupID": 1194,
+    "name": "Upwell Prototype Development Reward Crate"
+  },
+  "81969": {
+    "groupID": 383,
+    "name": "Entropic Disintegrator Werpost test"
+  },
+  "82012": {
+    "groupID": 227,
+    "name": "CD Kikimora Spawner"
+  },
+  "82040": {
+    "groupID": 1090,
+    "name": "Women's Worker's Indigo Pants"
+  },
+  "82041": {
+    "groupID": 1090,
+    "name": "Men's Worker's Indigo Pants"
+  },
+  "82432": {
+    "groupID": 1194,
+    "name": "Admiral Noir's - Spiced Rum"
   }
 }

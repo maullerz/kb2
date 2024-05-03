@@ -14152,6 +14152,21 @@
     "published": false,
     "useBasePrice": false
   },
+  "4716": {
+    "categoryID": 17,
+    "name": "Abyssal Battlefield Filament Materials",
+    "published": true
+  },
+  "4717": {
+    "categoryID": 17,
+    "name": "CD Filaments",
+    "published": true
+  },
+  "4743": {
+    "categoryID": 17,
+    "name": "Abyssal Battlefield Filaments",
+    "published": true
+  },
   "350858": {
     "anchorable": false,
     "anchored": false,
