@@ -7861,7 +7861,7 @@
     "anchored": false,
     "categoryID": 40,
     "fittableNonSingleton": false,
-    "name": "Infrastructure Hub",
+    "name": "Sovereignty Hub",
     "published": true,
     "useBasePrice": true
   },
@@ -7879,7 +7879,7 @@
     "anchored": false,
     "categoryID": 39,
     "fittableNonSingleton": false,
-    "name": "Strategic Upgrades",
+    "name": "Infrastructure Hub Strategic Upgrades",
     "published": true,
     "useBasePrice": true
   },
@@ -7898,7 +7898,7 @@
     "anchored": false,
     "categoryID": 39,
     "fittableNonSingleton": false,
-    "name": "Industrial Upgrades",
+    "name": "Infrastructure Hub Industrial Upgrades",
     "published": true,
     "useBasePrice": true
   },
@@ -7907,7 +7907,7 @@
     "anchored": false,
     "categoryID": 39,
     "fittableNonSingleton": false,
-    "name": "Military Upgrades",
+    "name": "Infrastructure Hub Military Upgrades",
     "published": true,
     "useBasePrice": true
   },
@@ -9629,7 +9629,7 @@
     "anchored": false,
     "categoryID": 66,
     "fittableNonSingleton": false,
-    "name": "Structure Navigation Service Module",
+    "name": "Structure FLEX Service Module",
     "published": false,
     "useBasePrice": false
   },
@@ -13748,7 +13748,7 @@
     "anchored": false,
     "categoryID": 2118,
     "fittableNonSingleton": false,
-    "name": "Ship Personalization",
+    "name": "Ship Emblems",
     "published": true,
     "useBasePrice": false
   },
@@ -13950,7 +13950,7 @@
     "anchored": false,
     "categoryID": 11,
     "fittableNonSingleton": false,
-    "name": "Homefront Operations Enemy Hauler",
+    "name": "Homefront Operations Hauler",
     "published": false,
     "useBasePrice": false
   },
@@ -14153,19 +14153,225 @@
     "useBasePrice": false
   },
   "4716": {
+    "anchorable": false,
+    "anchored": false,
     "categoryID": 17,
+    "fittableNonSingleton": false,
     "name": "Abyssal Battlefield Filament Materials",
-    "published": true
+    "published": true,
+    "useBasePrice": true
   },
   "4717": {
+    "anchorable": false,
+    "anchored": false,
     "categoryID": 17,
+    "fittableNonSingleton": false,
     "name": "CD Filaments",
-    "published": true
+    "published": true,
+    "useBasePrice": false
+  },
+  "4725": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2118,
+    "fittableNonSingleton": false,
+    "name": "Sequence Binders",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4726": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2118,
+    "fittableNonSingleton": false,
+    "name": "Ship SKIN Design Element",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4729": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2143,
+    "fittableNonSingleton": false,
+    "name": "Colony Reagents",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4734": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 16,
+    "fittableNonSingleton": false,
+    "name": "Sequencing",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4736": {
+    "anchorable": true,
+    "anchored": false,
+    "categoryID": 46,
+    "fittableNonSingleton": false,
+    "name": "Skyhook",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4737": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Shuttle",
+    "published": false,
+    "useBasePrice": false
   },
   "4743": {
+    "anchorable": false,
+    "anchored": false,
     "categoryID": 17,
+    "fittableNonSingleton": false,
     "name": "Abyssal Battlefield Filaments",
-    "published": true
+    "published": true,
+    "useBasePrice": true
+  },
+  "4744": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 65,
+    "fittableNonSingleton": false,
+    "name": "Upwell Moon Drill",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4745": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Skyhook Reagent Silo",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4755": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Kylixium",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4756": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Nocxite",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4757": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Ueganite",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4758": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Hezorime",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4759": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Griemeer",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4768": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 39,
+    "fittableNonSingleton": false,
+    "name": "Sovereignty Hub Anomaly Detection Upgrades",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4769": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 7,
+    "fittableNonSingleton": false,
+    "name": "Capital Mobility Modules",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4771": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Homefront Operations Noncombatant",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4772": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 39,
+    "fittableNonSingleton": false,
+    "name": "Sovereignty Hub Service Infrastructure Upgrade",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4776": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Expired Abyssal Battlefields Filaments",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4777": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 87,
+    "fittableNonSingleton": false,
+    "name": "Structure Light Fighter",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4778": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 87,
+    "fittableNonSingleton": false,
+    "name": "Structure Support Fighter",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4779": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 87,
+    "fittableNonSingleton": false,
+    "name": "Structure Heavy Fighter",
+    "published": true,
+    "useBasePrice": false
   },
   "350858": {
     "anchorable": false,

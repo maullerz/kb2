@@ -191,6 +191,11 @@
     "name": "Personalization",
     "published": true
   },
+  "2143": {
+    "iconID": 24296,
+    "name": "Colony Resources",
+    "published": true
+  },
   "350001": {
     "name": "Infantry",
     "published": false

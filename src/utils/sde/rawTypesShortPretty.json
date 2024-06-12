@@ -3321,7 +3321,7 @@
   },
   "2001": {
     "groupID": 1016,
-    "name": "Cynosural Suppression"
+    "name": "Deprecated Cynosural Suppression"
   },
   "2002": {
     "groupID": 202,
@@ -3349,11 +3349,11 @@
   },
   "2008": {
     "groupID": 1016,
-    "name": "Cynosural Navigation"
+    "name": "Deprecated Cynosural Navigation"
   },
   "2009": {
     "groupID": 1016,
-    "name": "Supercapital Construction Facilities"
+    "name": "Deprecated Supercapital Construction Facilities"
   },
   "2010": {
     "groupID": 286,
@@ -3421,27 +3421,27 @@
   },
   "2026": {
     "groupID": 1021,
-    "name": "Pirate Detection Array 1"
+    "name": "Deprecated Pirate Detection Array 1"
   },
   "2027": {
     "groupID": 1021,
-    "name": "Pirate Detection Array 2"
+    "name": "Deprecated Pirate Detection Array 2"
   },
   "2028": {
     "groupID": 1021,
-    "name": "Pirate Detection Array 3"
+    "name": "Deprecated Pirate Detection Array 3"
   },
   "2029": {
     "groupID": 1021,
-    "name": "Pirate Detection Array 4"
+    "name": "Deprecated Pirate Detection Array 4"
   },
   "2030": {
     "groupID": 1021,
-    "name": "Pirate Detection Array 5"
+    "name": "Deprecated Pirate Detection Array 5"
   },
   "2031": {
     "groupID": 1021,
-    "name": "Entrapment Array 1"
+    "name": "Deprecated Entrapment Array 1"
   },
   "2032": {
     "groupID": 43,
@@ -3453,19 +3453,19 @@
   },
   "2034": {
     "groupID": 1021,
-    "name": "Entrapment Array 2"
+    "name": "Deprecated Entrapment Array 2"
   },
   "2035": {
     "groupID": 1021,
-    "name": "Entrapment Array 3"
+    "name": "Deprecated Entrapment Array 3"
   },
   "2036": {
     "groupID": 1021,
-    "name": "Entrapment Array 4"
+    "name": "Deprecated Entrapment Array 4"
   },
   "2037": {
     "groupID": 1021,
-    "name": "Entrapment Array 5"
+    "name": "Deprecated Entrapment Array 5"
   },
   "2038": {
     "groupID": 47,
@@ -3477,23 +3477,23 @@
   },
   "2040": {
     "groupID": 1020,
-    "name": "Ore Prospecting Array 1"
+    "name": "Deprecated Ore Prospecting Array 1"
   },
   "2041": {
     "groupID": 1020,
-    "name": "Ore Prospecting Array 2"
+    "name": "Deprecated Ore Prospecting Array 2"
   },
   "2042": {
     "groupID": 1020,
-    "name": "Ore Prospecting Array 3"
+    "name": "Deprecated Ore Prospecting Array 3"
   },
   "2043": {
     "groupID": 1020,
-    "name": "Ore Prospecting Array 4"
+    "name": "Deprecated Ore Prospecting Array 4"
   },
   "2044": {
     "groupID": 1020,
-    "name": "Ore Prospecting Array 5"
+    "name": "Deprecated Ore Prospecting Array 5"
   },
   "2045": {
     "groupID": 693,
@@ -3525,43 +3525,43 @@
   },
   "2053": {
     "groupID": 1020,
-    "name": "Survey Networks 1"
+    "name": "Deprecated Survey Networks 1"
   },
   "2054": {
     "groupID": 1020,
-    "name": "Survey Networks 2"
+    "name": "Deprecated Survey Networks 2"
   },
   "2055": {
     "groupID": 1020,
-    "name": "Survey Networks 3"
+    "name": "Deprecated Survey Networks 3"
   },
   "2056": {
     "groupID": 1020,
-    "name": "Survey Networks 4"
+    "name": "Deprecated Survey Networks 4"
   },
   "2057": {
     "groupID": 1020,
-    "name": "Survey Networks 5"
+    "name": "Deprecated Survey Networks 5"
   },
   "2058": {
     "groupID": 1021,
-    "name": "Quantum Flux Generator 1"
+    "name": "Deprecated Quantum Flux Generator 1"
   },
   "2059": {
     "groupID": 1021,
-    "name": "Quantum Flux Generator 2"
+    "name": "Deprecated Quantum Flux Generator 2"
   },
   "2060": {
     "groupID": 1021,
-    "name": "Quantum Flux Generator 3"
+    "name": "Deprecated Quantum Flux Generator 3"
   },
   "2061": {
     "groupID": 1021,
-    "name": "Quantum Flux Generator 4"
+    "name": "Deprecated Quantum Flux Generator 4"
   },
   "2062": {
     "groupID": 1021,
-    "name": "Quantum Flux Generator 5"
+    "name": "Deprecated Quantum Flux Generator 5"
   },
   "2063": {
     "groupID": 7,
@@ -5745,7 +5745,7 @@
   },
   "2735": {
     "groupID": 1045,
-    "name": "Infrastructure Hub Blueprint"
+    "name": "Sovereignty Hub Blueprint"
   },
   "2736": {
     "groupID": 857,
@@ -5753,7 +5753,7 @@
   },
   "2737": {
     "groupID": 1045,
-    "name": "Territorial Claim Unit Blueprint"
+    "name": "Defunct Territorial Claim Unit Blueprint"
   },
   "2738": {
     "groupID": 1045,
@@ -58645,7 +58645,7 @@
   },
   "27459": {
     "groupID": 396,
-    "name": "Imperial Navy Mjolnir Auto-Targeting Cruise Missile I"
+    "name": "Legion Mjolnir Auto-Targeting Cruise Missile"
   },
   "27461": {
     "groupID": 396,
@@ -58657,7 +58657,7 @@
   },
   "27465": {
     "groupID": 396,
-    "name": "Caldari Navy Scourge Auto-Targeting Cruise Missile I"
+    "name": "Legion Scourge Auto-Targeting Cruise Missile"
   },
   "27467": {
     "groupID": 396,
@@ -58669,7 +58669,7 @@
   },
   "27471": {
     "groupID": 396,
-    "name": "Federation Navy Inferno Auto-Targeting Cruise Missile I"
+    "name": "Legion Inferno Auto-Targeting Cruise Missile"
   },
   "27473": {
     "groupID": 396,
@@ -58681,7 +58681,7 @@
   },
   "27477": {
     "groupID": 396,
-    "name": "Republic Fleet Nova Auto-Targeting Cruise Missile I"
+    "name": "Legion Nova Auto-Targeting Cruise Missile"
   },
   "27479": {
     "groupID": 396,
@@ -58693,7 +58693,7 @@
   },
   "27483": {
     "groupID": 395,
-    "name": "Imperial Navy Mjolnir Auto-Targeting Heavy Missile I"
+    "name": "Legion Mjolnir Auto-Targeting Heavy Missile"
   },
   "27485": {
     "groupID": 395,
@@ -58705,7 +58705,7 @@
   },
   "27489": {
     "groupID": 395,
-    "name": "Caldari Navy Scourge Auto-Targeting Heavy Missile I"
+    "name": "Legion Scourge Auto-Targeting Heavy Missile"
   },
   "27491": {
     "groupID": 395,
@@ -58717,7 +58717,7 @@
   },
   "27495": {
     "groupID": 395,
-    "name": "Federation Navy Inferno Auto-Targeting Heavy Missile I"
+    "name": "Legion Inferno Auto-Targeting Heavy Missile"
   },
   "27497": {
     "groupID": 395,
@@ -58729,7 +58729,7 @@
   },
   "27501": {
     "groupID": 395,
-    "name": "Republic Fleet Nova Auto-Targeting Heavy Missile I"
+    "name": "Legion Nova Auto-Targeting Heavy Missile"
   },
   "27503": {
     "groupID": 395,
@@ -58741,7 +58741,7 @@
   },
   "27507": {
     "groupID": 394,
-    "name": "Imperial Navy Mjolnir Auto-Targeting Light Missile I"
+    "name": "Legion Mjolnir Auto-Targeting Light Missile"
   },
   "27509": {
     "groupID": 394,
@@ -58753,7 +58753,7 @@
   },
   "27513": {
     "groupID": 394,
-    "name": "Caldari Navy Scourge Auto-Targeting Light Missile I"
+    "name": "Legion Scourge Auto-Targeting Light Missile"
   },
   "27515": {
     "groupID": 394,
@@ -58765,7 +58765,7 @@
   },
   "27519": {
     "groupID": 394,
-    "name": "Federation Navy Inferno Auto-Targeting Light Missile I"
+    "name": "Legion Inferno Auto-Targeting Light Missile"
   },
   "27521": {
     "groupID": 394,
@@ -58777,7 +58777,7 @@
   },
   "27525": {
     "groupID": 394,
-    "name": "Republic Fleet Nova Auto-Targeting Light Missile I"
+    "name": "Legion Nova Auto-Targeting Light Missile"
   },
   "27527": {
     "groupID": 394,
@@ -74201,7 +74201,7 @@
   },
   "32422": {
     "groupID": 1016,
-    "name": "Advanced Logistics Network"
+    "name": "Deprecated Advanced Logistics Network"
   },
   "32423": {
     "groupID": 226,
@@ -74281,7 +74281,7 @@
   },
   "32458": {
     "groupID": 1012,
-    "name": "Infrastructure Hub"
+    "name": "Sovereignty Hub"
   },
   "32459": {
     "groupID": 52,
@@ -79057,7 +79057,7 @@
   },
   "34081": {
     "groupID": 1091,
-    "name": "Feet/SpaceBoots01F/Types/spaceboots01f_blue.type"
+    "name": "Women's Chique Outlander Boots"
   },
   "34082": {
     "groupID": 1091,
@@ -80997,119 +80997,119 @@
   },
   "34841": {
     "groupID": 1317,
-    "name": "Entrapment Array 2 Blueprint"
+    "name": "Defunct Entrapment Array 2 Blueprint"
   },
   "34842": {
     "groupID": 1317,
-    "name": "Entrapment Array 3 Blueprint"
+    "name": "Defunct Entrapment Array 3 Blueprint"
   },
   "34843": {
     "groupID": 1317,
-    "name": "Entrapment Array 4 Blueprint"
+    "name": "Defunct Entrapment Array 4 Blueprint"
   },
   "34844": {
     "groupID": 1317,
-    "name": "Entrapment Array 5 Blueprint"
+    "name": "Defunct Entrapment Array 5 Blueprint"
   },
   "34845": {
     "groupID": 1317,
-    "name": "Pirate Detection Array 1 Blueprint"
+    "name": "Defunct Pirate Detection Array 1 Blueprint"
   },
   "34846": {
     "groupID": 1317,
-    "name": "Pirate Detection Array 2 Blueprint"
+    "name": "Defunct Pirate Detection Array 2 Blueprint"
   },
   "34847": {
     "groupID": 1317,
-    "name": "Pirate Detection Array 3 Blueprint"
+    "name": "Defunct Pirate Detection Array 3 Blueprint"
   },
   "34848": {
     "groupID": 1317,
-    "name": "Pirate Detection Array 4 Blueprint"
+    "name": "Defunct Pirate Detection Array 4 Blueprint"
   },
   "34849": {
     "groupID": 1317,
-    "name": "Pirate Detection Array 5 Blueprint"
+    "name": "Defunct Pirate Detection Array 5 Blueprint"
   },
   "34850": {
     "groupID": 1317,
-    "name": "Quantum Flux Generator 1 Blueprint"
+    "name": "Defunct Quantum Flux Generator 1 Blueprint"
   },
   "34851": {
     "groupID": 1317,
-    "name": "Quantum Flux Generator 2 Blueprint"
+    "name": "Defunct Quantum Flux Generator 2 Blueprint"
   },
   "34852": {
     "groupID": 1317,
-    "name": "Quantum Flux Generator 3 Blueprint"
+    "name": "Defunct Quantum Flux Generator 3 Blueprint"
   },
   "34853": {
     "groupID": 1317,
-    "name": "Quantum Flux Generator 4 Blueprint"
+    "name": "Defunct Quantum Flux Generator 4 Blueprint"
   },
   "34854": {
     "groupID": 1317,
-    "name": "Quantum Flux Generator 5 Blueprint"
+    "name": "Defunct Quantum Flux Generator 5 Blueprint"
   },
   "34855": {
     "groupID": 1317,
-    "name": "Ore Prospecting Array 1 Blueprint"
+    "name": "Defunct Ore Prospecting Array 1 Blueprint"
   },
   "34856": {
     "groupID": 1317,
-    "name": "Ore Prospecting Array 2 Blueprint"
+    "name": "Defunct Ore Prospecting Array 2 Blueprint"
   },
   "34857": {
     "groupID": 1317,
-    "name": "Ore Prospecting Array 3 Blueprint"
+    "name": "Defunct Ore Prospecting Array 3 Blueprint"
   },
   "34858": {
     "groupID": 1317,
-    "name": "Ore Prospecting Array 4 Blueprint"
+    "name": "Defunct Ore Prospecting Array 4 Blueprint"
   },
   "34859": {
     "groupID": 1317,
-    "name": "Ore Prospecting Array 5 Blueprint"
+    "name": "Defunct Ore Prospecting Array 5 Blueprint"
   },
   "34860": {
     "groupID": 1317,
-    "name": "Survey Networks 1 Blueprint"
+    "name": "Defunct Survey Networks 1 Blueprint"
   },
   "34861": {
     "groupID": 1317,
-    "name": "Survey Networks 2 Blueprint"
+    "name": "Defunct Survey Networks 2 Blueprint"
   },
   "34862": {
     "groupID": 1317,
-    "name": "Survey Networks 3 Blueprint"
+    "name": "Defunct Survey Networks 3 Blueprint"
   },
   "34863": {
     "groupID": 1317,
-    "name": "Survey Networks 4 Blueprint"
+    "name": "Defunct Survey Networks 4 Blueprint"
   },
   "34864": {
     "groupID": 1317,
-    "name": "Survey Networks 5 Blueprint"
+    "name": "Defunct Survey Networks 5 Blueprint"
   },
   "34865": {
     "groupID": 1317,
-    "name": "Advanced Logistics Network Blueprint"
+    "name": "Defunct Advanced Logistics Network Blueprint"
   },
   "34866": {
     "groupID": 1317,
-    "name": "Cynosural Navigation Blueprint"
+    "name": "Defunct Cynosural Navigation Blueprint"
   },
   "34867": {
     "groupID": 1317,
-    "name": "Cynosural Suppression Blueprint"
+    "name": "Defunct Cynosural Suppression Blueprint"
   },
   "34868": {
     "groupID": 1317,
-    "name": "Supercapital Construction Facilities Blueprint"
+    "name": "Defunct Supercapital Construction Facilities Blueprint"
   },
   "34869": {
     "groupID": 1317,
-    "name": "Entrapment Array 1 Blueprint"
+    "name": "Defunct Entrapment Array 1 Blueprint"
   },
   "34870": {
     "groupID": 1319,
@@ -93104,23 +93104,23 @@
     "name": "Men's Empyrean Dragons Jacket"
   },
   "47035": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Templar I"
   },
   "47036": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Gram I"
   },
   "47037": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Siren I"
   },
   "47038": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Mantis I"
   },
   "47039": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Gungnir I"
   },
   "47040": {
@@ -93264,147 +93264,147 @@
     "name": "Standup Gravitational Transportation Field Oscillator Blueprint"
   },
   "47116": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Malleus I"
   },
   "47117": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Cyclops I"
   },
   "47118": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Tyrfing I"
   },
   "47119": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Malleus II"
   },
   "47120": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Mantis II"
   },
   "47121": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Cyclops II"
   },
   "47122": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Tyrfing II"
   },
   "47123": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Shadow"
   },
   "47124": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Ametat I"
   },
   "47125": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Termite I"
   },
   "47126": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Antaeus I"
   },
   "47127": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Ametat II"
   },
   "47128": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Termite II"
   },
   "47129": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Antaeus II"
   },
   "47130": {
-    "groupID": 1653,
+    "groupID": 4779,
     "name": "Standup Gungnir II"
   },
   "47131": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Cenobite I"
   },
   "47132": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Scarab I"
   },
   "47133": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Dromi I"
   },
   "47134": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Cenobite II"
   },
   "47135": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Scarab II"
   },
   "47136": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Siren II"
   },
   "47137": {
-    "groupID": 1537,
+    "groupID": 4778,
     "name": "Standup Dromi II"
   },
   "47138": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Dragonfly I"
   },
   "47139": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Firbolg I"
   },
   "47140": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Einherji I"
   },
   "47141": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Templar II"
   },
   "47142": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Dragonfly II"
   },
   "47143": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Firbolg II"
   },
   "47144": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Einherji II"
   },
   "47145": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Equite I"
   },
   "47146": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Locust I"
   },
   "47147": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Satyr I"
   },
   "47148": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Equite II"
   },
   "47149": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Locust II"
   },
   "47150": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Satyr II"
   },
   "47151": {
-    "groupID": 1652,
+    "groupID": 4777,
     "name": "Standup Gram II"
   },
   "47152": {
@@ -103093,7 +103093,7 @@
   },
   "54383": {
     "groupID": 1091,
-    "name": "54383_Male_Feet_ShoesCorpBusinessM01_Types_ShoesCorpBusinessM01_black.png"
+    "name": "Men's Boardroom Loafers"
   },
   "54384": {
     "groupID": 1091,
@@ -110081,7 +110081,7 @@
   },
   "57872": {
     "groupID": 1975,
-    "name": "Non-interactable Sansha Battlestation"
+    "name": "Non-interactable Sansha Battlestation 2"
   },
   "58159": {
     "groupID": 227,
@@ -114057,7 +114057,7 @@
   },
   "61396": {
     "groupID": 1975,
-    "name": "Sansha Remote Logistics Station"
+    "name": "Non-interactable Sansha Battlestation 1"
   },
   "61532": {
     "groupID": 1089,
@@ -118429,7 +118429,7 @@
   },
   "64630": {
     "groupID": 4579,
-    "name": "Asteroid Set 4 Small 8"
+    "name": "Placeholder DO NOT USE"
   },
   "64631": {
     "groupID": 4579,
@@ -127809,7 +127809,7 @@
   },
   "76963": {
     "groupID": 500,
-    "name": " Infinite Celebrations Firework"
+    "name": "Infinite Celebrations Firework"
   },
   "76964": {
     "groupID": 1194,
@@ -131877,35 +131877,35 @@
   },
   "79358": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Mamba"
+    "name": "Hakuzosu's Steelscale Mamba"
   },
   "79359": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Mamba"
+    "name": "Hakuzosu's Steelscale Mamba"
   },
   "79360": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Gila"
+    "name": "Hakuzosu's Steelscale Gila"
   },
   "79361": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Gila"
+    "name": "Hakuzosu's Steelscale Gila"
   },
   "79362": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Alligator"
+    "name": "Hakuzosu's Steelscale Alligator"
   },
   "79363": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Alligator"
+    "name": "Hakuzosu's Steelscale Alligator"
   },
   "79364": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Rattlesnake"
+    "name": "Hakuzosu's Steelscale Rattlesnake"
   },
   "79365": {
     "groupID": 4637,
-    "name": "Hakuzosu’s Steelscale Rattlesnake"
+    "name": "Hakuzosu's Steelscale Rattlesnake"
   },
   "79370": {
     "groupID": 227,
@@ -132988,32 +132988,32 @@
     "name": "CD Combat 1 Loot"
   },
   "79996": {
-    "groupID": 4743,
-    "name": "Sinister Exotic Filament"
+    "groupID": 4776,
+    "name": "Expired Sinister Exotic Filament"
   },
   "79997": {
-    "groupID": 4743,
-    "name": "Ruined Electrical Filament"
+    "groupID": 4776,
+    "name": "Expired Ruined Electrical Filament"
   },
   "79998": {
-    "groupID": 4743,
-    "name": "Vicious Electrical Filament"
+    "groupID": 4776,
+    "name": "Expired Vicious Electrical Filament"
   },
   "79999": {
-    "groupID": 4743,
-    "name": "Devastated Electrical Filament"
+    "groupID": 4776,
+    "name": "Expired Devastated Electrical Filament"
   },
   "80000": {
-    "groupID": 4743,
-    "name": "Disastrous Gamma Filament"
+    "groupID": 4776,
+    "name": "Expired Disastrous Gamma Filament"
   },
   "80001": {
-    "groupID": 4743,
-    "name": "Annihilated Electrical Filament"
+    "groupID": 4776,
+    "name": "Expired Annihilated Electrical Filament"
   },
   "80002": {
-    "groupID": 4743,
-    "name": "Calamitous Firestorm Filament"
+    "groupID": 4776,
+    "name": "Expired Calamitous Firestorm Filament"
   },
   "80003": {
     "groupID": 4052,
@@ -133743,13 +133743,133 @@
     "groupID": 1548,
     "name": "CD Boss Guided Neutralizer Bomb"
   },
+  "81008": {
+    "groupID": 28,
+    "name": "Squall"
+  },
+  "81032": {
+    "groupID": 257,
+    "name": "Upwell Hauler"
+  },
   "81035": {
     "groupID": 1194,
     "name": "Cd Trade Crate 2"
   },
+  "81040": {
+    "groupID": 513,
+    "name": "Avalanche"
+  },
+  "81043": {
+    "groupID": 108,
+    "name": "Squall Blueprint"
+  },
+  "81044": {
+    "groupID": 257,
+    "name": "Upwell Freighter"
+  },
+  "81046": {
+    "groupID": 1202,
+    "name": "Deluge"
+  },
+  "81047": {
+    "groupID": 380,
+    "name": "Torrent"
+  },
+  "81048": {
+    "groupID": 503,
+    "name": "Deluge Blueprint"
+  },
+  "81049": {
+    "groupID": 503,
+    "name": "Torrent Blueprint"
+  },
+  "81050": {
+    "groupID": 270,
+    "name": "Upwell Starship Engineering"
+  },
+  "81051": {
+    "groupID": 333,
+    "name": "Datacore - Upwell Starship Engineering"
+  },
+  "81052": {
+    "groupID": 186,
+    "name": "Upwell Elite Hauler Wreck"
+  },
+  "81053": {
+    "groupID": 186,
+    "name": "Upwell Hauler Wreck"
+  },
+  "81054": {
+    "groupID": 525,
+    "name": "Avalanche Blueprint"
+  },
+  "81055": {
+    "groupID": 186,
+    "name": "Upwell Freighter Wreck"
+  },
   "81058": {
     "groupID": 227,
     "name": "CD Electric Weather Effect"
+  },
+  "81063": {
+    "groupID": 334,
+    "name": "Fission Thruster"
+  },
+  "81064": {
+    "groupID": 334,
+    "name": "Hyperconductive Gravimetric Sensor Cluster"
+  },
+  "81065": {
+    "groupID": 334,
+    "name": "Electromechanical Microprocessor"
+  },
+  "81066": {
+    "groupID": 334,
+    "name": "Metaprismatic Armor Plate"
+  },
+  "81067": {
+    "groupID": 334,
+    "name": "Repelling Shield Emitter"
+  },
+  "81068": {
+    "groupID": 334,
+    "name": "Fission Reactor Unit"
+  },
+  "81069": {
+    "groupID": 334,
+    "name": "Pentachoron Capacitor Unit"
+  },
+  "81070": {
+    "groupID": 447,
+    "name": "Fission Thruster Blueprint"
+  },
+  "81071": {
+    "groupID": 447,
+    "name": "Hyperconductive Gravimetric Sensor Cluster Blueprint"
+  },
+  "81072": {
+    "groupID": 447,
+    "name": "Electromechanical Microprocessor Blueprint"
+  },
+  "81073": {
+    "groupID": 447,
+    "name": "Metaprismatic Armor Plate Blueprint"
+  },
+  "81074": {
+    "groupID": 447,
+    "name": "Repelling Shield Emitter Blueprint"
+  },
+  "81075": {
+    "groupID": 447,
+    "name": "Fission Reactor Unit Blueprint"
+  },
+  "81077": {
+    "groupID": 447,
+    "name": "Pentachoron Capacitor Unit Blueprint"
+  },
+  "81080": {
+    "groupID": 4736,
+    "name": "Orbital Skyhook"
   },
   "81083": {
     "groupID": 303,
@@ -133758,6 +133878,10 @@
   "81084": {
     "groupID": 303,
     "name": "Starsi Blast! Orange"
+  },
+  "81086": {
+    "groupID": 1045,
+    "name": "Orbital Skyhook Blueprint"
   },
   "81090": {
     "groupID": 306,
@@ -133782,6 +133906,26 @@
   "81122": {
     "groupID": 4091,
     "name": "Enforcer Operations Expert System"
+  },
+  "81142": {
+    "groupID": 4055,
+    "name": "Invisible Beacon"
+  },
+  "81143": {
+    "groupID": 4729,
+    "name": "Magmatic Gas"
+  },
+  "81144": {
+    "groupID": 4729,
+    "name": "Superionic Ice"
+  },
+  "81150": {
+    "groupID": 319,
+    "name": "Forcefield"
+  },
+  "81151": {
+    "groupID": 494,
+    "name": "Pirate Angel Tower"
   },
   "81152": {
     "groupID": 227,
@@ -133834,6 +133978,18 @@
   "81170": {
     "groupID": 1982,
     "name": "Battered Drifter Battleship"
+  },
+  "81171": {
+    "groupID": 4725,
+    "name": "DO NOT TRANSLATE - DEBUG SEQUENCE BINDER"
+  },
+  "81172": {
+    "groupID": 4726,
+    "name": "DO NOT TRANSLATE - DEBUG COMPONENT ITEM ONE"
+  },
+  "81173": {
+    "groupID": 4726,
+    "name": "DO NOT TRANSLATE - COMPONENT ITEM TWO"
   },
   "81174": {
     "groupID": 227,
@@ -134359,6 +134515,10 @@
     "groupID": 1975,
     "name": "Small Rift Open"
   },
+  "81334": {
+    "groupID": 227,
+    "name": "[HF] Space Cops - Arrivals Spawner"
+  },
   "81335": {
     "groupID": 1975,
     "name": "Infested Triglavian Battleship Wreck (Leshak)"
@@ -134403,6 +134563,94 @@
     "groupID": 1975,
     "name": "Triglavian Generator 02 Wreck"
   },
+  "81347": {
+    "groupID": 4577,
+    "name": "Fan Bus Sigil"
+  },
+  "81348": {
+    "groupID": 4725,
+    "name": "Alignment Sequencer"
+  },
+  "81349": {
+    "groupID": 4725,
+    "name": "Fermionic Sequencer"
+  },
+  "81350": {
+    "groupID": 4725,
+    "name": "Kerr Sequencer"
+  },
+  "81351": {
+    "groupID": 227,
+    "name": "[HF] Salvage Yard - Combat Spawner"
+  },
+  "81352": {
+    "groupID": 4575,
+    "name": "Encrypted ‘Istina’ Data"
+  },
+  "81363": {
+    "groupID": 4734,
+    "name": "Kerr Sequencing"
+  },
+  "81364": {
+    "groupID": 4734,
+    "name": "Mass Sequencing"
+  },
+  "81365": {
+    "groupID": 4734,
+    "name": "Industrial Sequencing"
+  },
+  "81366": {
+    "groupID": 4734,
+    "name": "Parallel Sequencing"
+  },
+  "81367": {
+    "groupID": 4734,
+    "name": "Multi-thread Sequencing"
+  },
+  "81368": {
+    "groupID": 4734,
+    "name": "Hub Promotion"
+  },
+  "81369": {
+    "groupID": 4734,
+    "name": "Hub Algorithm Optimization"
+  },
+  "81370": {
+    "groupID": 4734,
+    "name": "Design Concepting"
+  },
+  "81371": {
+    "groupID": 4734,
+    "name": "Design Iteration"
+  },
+  "81372": {
+    "groupID": 4734,
+    "name": "Induction Efficiency"
+  },
+  "81373": {
+    "groupID": 4734,
+    "name": "Advanced Induction Efficiency"
+  },
+  "81374": {
+    "groupID": 4734,
+    "name": "Peak Induction Acceleration"
+  },
+  "81375": {
+    "groupID": 4734,
+    "name": "Batch Sequencing"
+  },
+  "81376": {
+    "groupID": 4734,
+    "name": "Advanced Kerr Sequencing"
+  },
+  "81377": {
+    "groupID": 4734,
+    "name": "Basic Induction"
+  },
+  "81383": {
+    "groupID": 4575,
+    "name": "Contraband Data"
+  },
   "81390": {
     "groupID": 1975,
     "name": "Triglavian Extraction SubNode Wreck"
@@ -134415,17 +134663,77 @@
     "groupID": 1975,
     "name": "Triglavian Triplex Extraction Cluster Wreck"
   },
+  "81402": {
+    "groupID": 4576,
+    "name": "Destabilizing Array"
+  },
+  "81438": {
+    "groupID": 186,
+    "name": "Wreckage"
+  },
+  "81596": {
+    "groupID": 227,
+    "name": "[HF] Drain the Batteries - Focused Capacitor Transmitter Spawner"
+  },
+  "81597": {
+    "groupID": 4569,
+    "name": "Waking Conservator"
+  },
+  "81598": {
+    "groupID": 4569,
+    "name": "Phaseless Cutter"
+  },
   "81599": {
     "groupID": 283,
     "name": "Chemal Tech Geneticist"
+  },
+  "81600": {
+    "groupID": 594,
+    "name": "Gist Erelim"
+  },
+  "81601": {
+    "groupID": 593,
+    "name": "Gistatis Quaestor"
+  },
+  "81602": {
+    "groupID": 227,
+    "name": "[HF] Drain the Batteries - Combat Spawner"
   },
   "81603": {
     "groupID": 1194,
     "name": "Mysterious Booster Crate I"
   },
+  "81604": {
+    "groupID": 596,
+    "name": "Gistior Ruiner"
+  },
+  "81605": {
+    "groupID": 1975,
+    "name": "Amarr Forward Operating Base Wreck - Explosive (DO NOT TRANSLATE)"
+  },
+  "81606": {
+    "groupID": 1975,
+    "name": "Gallente Forward Operating Base Wreck - Explosive (DO NOT TRANSLATE)"
+  },
+  "81607": {
+    "groupID": 1975,
+    "name": "Minmatar Forward Operating Base Wreck - Explosive (DO NOT TRANSLATE)"
+  },
+  "81608": {
+    "groupID": 1975,
+    "name": "Caldari Forward Operating Base Wreck - Explosive (DO NOT TRANSLATE)"
+  },
   "81614": {
     "groupID": 4091,
     "name": "Gas Harvesting Expert System"
+  },
+  "81615": {
+    "groupID": 4772,
+    "name": "Cynosural Navigation"
+  },
+  "81616": {
+    "groupID": 1317,
+    "name": "Cynosural Navigation Blueprint"
   },
   "81617": {
     "groupID": 306,
@@ -134435,9 +134743,33 @@
     "groupID": 4091,
     "name": "Logistics Pilot Expert System"
   },
+  "81619": {
+    "groupID": 4772,
+    "name": "Cynosural Suppression"
+  },
+  "81620": {
+    "groupID": 1317,
+    "name": "Cynosural Suppression Blueprint"
+  },
+  "81621": {
+    "groupID": 4772,
+    "name": "Advanced Logistics Network"
+  },
+  "81622": {
+    "groupID": 1317,
+    "name": "Advanced Logistics Network Blueprint"
+  },
+  "81623": {
+    "groupID": 4772,
+    "name": "Supercapital Construction Facilities"
+  },
   "81624": {
     "groupID": 306,
     "name": "EDENCOM Scout Stash"
+  },
+  "81625": {
+    "groupID": 1317,
+    "name": "Supercapital Construction Facilities Blueprint"
   },
   "81626": {
     "groupID": 306,
@@ -134447,6 +134779,18 @@
     "groupID": 306,
     "name": "EDENCOM Expedition Stash"
   },
+  "81628": {
+    "groupID": 4737,
+    "name": "Holder Shuttle"
+  },
+  "81630": {
+    "groupID": 4577,
+    "name": "Fan Bus Bestower"
+  },
+  "81631": {
+    "groupID": 4577,
+    "name": "Repatriation Tayra"
+  },
   "81633": {
     "groupID": 227,
     "name": "CD Electric Weather Effect 2"
@@ -134454,6 +134798,58 @@
   "81634": {
     "groupID": 227,
     "name": "CD Electric Weather Effect 3"
+  },
+  "81635": {
+    "groupID": 4737,
+    "name": "Refugee Shuttle"
+  },
+  "81636": {
+    "groupID": 4737,
+    "name": "Mail Shuttle"
+  },
+  "81637": {
+    "groupID": 4737,
+    "name": "Curio Shuttle"
+  },
+  "81638": {
+    "groupID": 4577,
+    "name": "Repatriation Badger"
+  },
+  "81639": {
+    "groupID": 4577,
+    "name": "Repatriation Tayra"
+  },
+  "81640": {
+    "groupID": 4577,
+    "name": "Postal Nereus"
+  },
+  "81641": {
+    "groupID": 4577,
+    "name": "Repatriation Badger"
+  },
+  "81642": {
+    "groupID": 4577,
+    "name": "Postal Iteron Mark V"
+  },
+  "81644": {
+    "groupID": 4577,
+    "name": "Trader Wreathe"
+  },
+  "81646": {
+    "groupID": 4577,
+    "name": "Trader Mammoth"
+  },
+  "81647": {
+    "groupID": 4577,
+    "name": "Benefaction Potremba"
+  },
+  "81648": {
+    "groupID": 4577,
+    "name": "Repatriation Badger"
+  },
+  "81649": {
+    "groupID": 4577,
+    "name": "Repatriation Tayra"
   },
   "81660": {
     "groupID": 1319,
@@ -134463,9 +134859,57 @@
     "groupID": 227,
     "name": "CD Minion Spawner kspace"
   },
+  "81716": {
+    "groupID": 1975,
+    "name": "Capital Escalation Manager - DO NOT TRANSLATE"
+  },
+  "81826": {
+    "groupID": 4744,
+    "name": "Metenox Moon Drill"
+  },
+  "81896": {
+    "groupID": 270,
+    "name": "Mutagenic Stabilization"
+  },
+  "81900": {
+    "groupID": 4755,
+    "name": "Kylixium"
+  },
+  "81901": {
+    "groupID": 4755,
+    "name": "Kaolin Kylixium"
+  },
+  "81902": {
+    "groupID": 4755,
+    "name": "Argil Kylixium"
+  },
+  "81903": {
+    "groupID": 4755,
+    "name": "Adobe Kylixium"
+  },
+  "81920": {
+    "groupID": 4086,
+    "name": "Integrated Moon Drill Armature"
+  },
+  "81921": {
+    "groupID": 186,
+    "name": "Metenox Moon Drill Wreck"
+  },
+  "81922": {
+    "groupID": 1462,
+    "name": "Metenox Moon Drill Blueprint"
+  },
   "81925": {
     "groupID": 226,
     "name": "Upwell Consortium Prototype Structure"
+  },
+  "81926": {
+    "groupID": 1975,
+    "name": "Skyhook Cynosural Disruption"
+  },
+  "81933": {
+    "groupID": 4745,
+    "name": "Skyhook Reagent Silo"
   },
   "81945": {
     "groupID": 886,
@@ -134511,9 +134955,45 @@
     "groupID": 383,
     "name": "Entropic Disintegrator Werpost test"
   },
+  "81975": {
+    "groupID": 4759,
+    "name": "Griemeer"
+  },
+  "81976": {
+    "groupID": 4759,
+    "name": "Clear Griemeer"
+  },
+  "81977": {
+    "groupID": 4759,
+    "name": "Inky Griemeer"
+  },
+  "81978": {
+    "groupID": 4759,
+    "name": "Opaque Griemeer"
+  },
   "82012": {
     "groupID": 227,
     "name": "CD Kikimora Spawner"
+  },
+  "82015": {
+    "groupID": 454,
+    "name": "Hedbergite ( copy )"
+  },
+  "82016": {
+    "groupID": 4756,
+    "name": "Nocxite"
+  },
+  "82017": {
+    "groupID": 4756,
+    "name": "Fragrant Nocxite"
+  },
+  "82018": {
+    "groupID": 4756,
+    "name": "Intoxicating Nocxite"
+  },
+  "82019": {
+    "groupID": 4756,
+    "name": "Ambrosial Nocxite"
   },
   "82040": {
     "groupID": 1090,
@@ -134523,8 +135003,2100 @@
     "groupID": 1090,
     "name": "Men's Worker's Indigo Pants"
   },
+  "82151": {
+    "groupID": 4471,
+    "name": "Deluge Alliance Emblem"
+  },
+  "82153": {
+    "groupID": 4471,
+    "name": "Deluge Corporation Emblem"
+  },
+  "82155": {
+    "groupID": 4471,
+    "name": "Avalanche Alliance Emblem"
+  },
+  "82156": {
+    "groupID": 4471,
+    "name": "Avalanche Corporation Emblem"
+  },
+  "82157": {
+    "groupID": 4471,
+    "name": "Squall Alliance Emblem"
+  },
+  "82158": {
+    "groupID": 4471,
+    "name": "Squall Corporation Emblem"
+  },
+  "82159": {
+    "groupID": 4471,
+    "name": "Torrent Alliance Emblem"
+  },
+  "82160": {
+    "groupID": 4471,
+    "name": "Torrent Corporation Emblem"
+  },
+  "82163": {
+    "groupID": 4758,
+    "name": "Hezorime"
+  },
+  "82164": {
+    "groupID": 4758,
+    "name": "Dull Hezorime"
+  },
+  "82165": {
+    "groupID": 4758,
+    "name": "Serrated Hezorime"
+  },
+  "82166": {
+    "groupID": 4758,
+    "name": "Sharp Hezorime"
+  },
+  "82205": {
+    "groupID": 4757,
+    "name": "Ueganite"
+  },
+  "82206": {
+    "groupID": 4757,
+    "name": "Foggy Ueganite"
+  },
+  "82207": {
+    "groupID": 4757,
+    "name": "Overcast Ueganite"
+  },
+  "82208": {
+    "groupID": 4757,
+    "name": "Stormy Ueganite"
+  },
+  "82300": {
+    "groupID": 4755,
+    "name": "Compressed Kylixium"
+  },
+  "82301": {
+    "groupID": 4755,
+    "name": "Compressed Kaolin Kylixium"
+  },
+  "82302": {
+    "groupID": 4755,
+    "name": "Compressed Argil Kylixium"
+  },
+  "82303": {
+    "groupID": 4755,
+    "name": "Compressed Adobe Kylixium"
+  },
+  "82304": {
+    "groupID": 4756,
+    "name": "Compressed Nocxite"
+  },
+  "82305": {
+    "groupID": 4756,
+    "name": "Compressed Fragrant Nocxite"
+  },
+  "82306": {
+    "groupID": 4756,
+    "name": "Compressed Intoxicating Nocxite"
+  },
+  "82307": {
+    "groupID": 4756,
+    "name": "Compressed Ambrosial Nocxite"
+  },
+  "82308": {
+    "groupID": 4757,
+    "name": "Compressed Ueganite"
+  },
+  "82309": {
+    "groupID": 4757,
+    "name": "Compressed Foggy Ueganite"
+  },
+  "82310": {
+    "groupID": 4757,
+    "name": "Compressed Overcast Ueganite"
+  },
+  "82311": {
+    "groupID": 4757,
+    "name": "Compressed Stormy Ueganite"
+  },
+  "82312": {
+    "groupID": 4758,
+    "name": "Compressed Hezorime"
+  },
+  "82313": {
+    "groupID": 4758,
+    "name": "Compressed Dull Hezorime"
+  },
+  "82314": {
+    "groupID": 4758,
+    "name": "Compressed Serrated Hezorime"
+  },
+  "82315": {
+    "groupID": 4758,
+    "name": "Compressed Sharp Hezorime"
+  },
+  "82316": {
+    "groupID": 4759,
+    "name": "Compressed Griemeer"
+  },
+  "82317": {
+    "groupID": 4759,
+    "name": "Compressed Clear Griemeer"
+  },
+  "82318": {
+    "groupID": 4759,
+    "name": "Compressed Inky Griemeer"
+  },
+  "82319": {
+    "groupID": 4759,
+    "name": "Compressed Opaque Griemeer"
+  },
+  "82340": {
+    "groupID": 4726,
+    "name": "Division - Limited"
+  },
+  "82342": {
+    "groupID": 4726,
+    "name": "Triple Stripe - Limited"
+  },
+  "82343": {
+    "groupID": 4726,
+    "name": "Zippered - Limited"
+  },
+  "82344": {
+    "groupID": 4726,
+    "name": "Martial Camo - Limited"
+  },
+  "82345": {
+    "groupID": 4726,
+    "name": "Shattered Conceptions - Limited"
+  },
+  "82346": {
+    "groupID": 4726,
+    "name": "Urban Camo - Limited"
+  },
+  "82347": {
+    "groupID": 4726,
+    "name": "Wormhole Camo - Limited"
+  },
+  "82348": {
+    "groupID": 4726,
+    "name": "Striped Chevron - Limited"
+  },
+  "82349": {
+    "groupID": 4726,
+    "name": "Checkmate - Limited"
+  },
+  "82350": {
+    "groupID": 4726,
+    "name": "Checkerboard"
+  },
+  "82351": {
+    "groupID": 4726,
+    "name": "Curved Corner - Limited"
+  },
+  "82352": {
+    "groupID": 4726,
+    "name": "Cross - Limited"
+  },
+  "82353": {
+    "groupID": 4726,
+    "name": "Escape Curve - Limited"
+  },
+  "82354": {
+    "groupID": 4726,
+    "name": "Breakthrough - Limited"
+  },
+  "82355": {
+    "groupID": 4726,
+    "name": "Gradient Stripe - Limited"
+  },
+  "82356": {
+    "groupID": 4726,
+    "name": "Fade In - Limited"
+  },
+  "82357": {
+    "groupID": 4726,
+    "name": "Crystalized Gradient - Limited"
+  },
+  "82358": {
+    "groupID": 4726,
+    "name": "Camo-Vyraj - Limited"
+  },
+  "82359": {
+    "groupID": 4726,
+    "name": "Hex Stripe - Limited"
+  },
+  "82360": {
+    "groupID": 4726,
+    "name": "Faded Hex - Limited"
+  },
+  "82361": {
+    "groupID": 4726,
+    "name": "Glitched Hex - Limited"
+  },
+  "82362": {
+    "groupID": 4726,
+    "name": "Asteroid Field - Limited"
+  },
+  "82363": {
+    "groupID": 4726,
+    "name": "Splitter - Limited"
+  },
+  "82364": {
+    "groupID": 4726,
+    "name": "Triple Chevron - Limited"
+  },
+  "82365": {
+    "groupID": 4726,
+    "name": "Triple Split - Limited"
+  },
+  "82366": {
+    "groupID": 4726,
+    "name": "Valor - Limited"
+  },
+  "82367": {
+    "groupID": 4726,
+    "name": "Pillars of Inequality - Limited"
+  },
+  "82368": {
+    "groupID": 4726,
+    "name": "Small Hex Gradient - Limited"
+  },
+  "82369": {
+    "groupID": 4726,
+    "name": "Large Hex Gradient - Limited"
+  },
+  "82370": {
+    "groupID": 4726,
+    "name": "Angular Corner - Limited"
+  },
+  "82371": {
+    "groupID": 4726,
+    "name": "Digital Domain - Limited"
+  },
+  "82372": {
+    "groupID": 4726,
+    "name": "Speed Stripes - Limited"
+  },
+  "82373": {
+    "groupID": 4726,
+    "name": "Flip Side Stripes - Limited"
+  },
+  "82374": {
+    "groupID": 4726,
+    "name": "Gauged - Limited"
+  },
+  "82375": {
+    "groupID": 4726,
+    "name": "Hex Recursion - Limited"
+  },
+  "82376": {
+    "groupID": 4726,
+    "name": "Hex Map - Limited"
+  },
+  "82377": {
+    "groupID": 4726,
+    "name": "Hex Camo - Limited"
+  },
+  "82378": {
+    "groupID": 4726,
+    "name": "Data Fragmentation - Limited"
+  },
+  "82379": {
+    "groupID": 4726,
+    "name": "Diamond Fade - Limited"
+  },
+  "82380": {
+    "groupID": 4726,
+    "name": "Spherical Fade - Limited"
+  },
+  "82381": {
+    "groupID": 4726,
+    "name": "Freedom - Limited"
+  },
+  "82382": {
+    "groupID": 4726,
+    "name": "Hexscape - Limited"
+  },
+  "82383": {
+    "groupID": 4726,
+    "name": "Hex Trails - Limited"
+  },
+  "82384": {
+    "groupID": 4726,
+    "name": "Unity - Limited"
+  },
+  "82385": {
+    "groupID": 4726,
+    "name": "Four from One - Limited"
+  },
+  "82386": {
+    "groupID": 4726,
+    "name": "Bold Lines - Limited"
+  },
+  "82387": {
+    "groupID": 4726,
+    "name": "Finishing Line - Limited"
+  },
+  "82388": {
+    "groupID": 4726,
+    "name": "Union - Limited"
+  },
+  "82389": {
+    "groupID": 4726,
+    "name": "Tiger - Limited"
+  },
+  "82390": {
+    "groupID": 4726,
+    "name": "Valkyrie - Limited"
+  },
+  "82391": {
+    "groupID": 4726,
+    "name": "Squared Off - Limited"
+  },
+  "82392": {
+    "groupID": 4726,
+    "name": "Abyssal Corruption - Limited"
+  },
+  "82393": {
+    "groupID": 4726,
+    "name": "Petals - Limited"
+  },
+  "82394": {
+    "groupID": 4726,
+    "name": "Pinstripe Gradient - Limited"
+  },
+  "82395": {
+    "groupID": 4726,
+    "name": "Synth - Limited"
+  },
+  "82396": {
+    "groupID": 4726,
+    "name": "Metropolitan - Limited"
+  },
+  "82397": {
+    "groupID": 4726,
+    "name": "Corroded Trust - Limited"
+  },
+  "82398": {
+    "groupID": 4726,
+    "name": "Space Dust - Limited"
+  },
   "82432": {
     "groupID": 1194,
     "name": "Admiral Noir's - Spiced Rum"
+  },
+  "82433": {
+    "groupID": 4726,
+    "name": "Division - Unlimited"
+  },
+  "82434": {
+    "groupID": 4726,
+    "name": "Triple Stripe -Unlimited"
+  },
+  "82435": {
+    "groupID": 4726,
+    "name": "Zippered - Unlimited"
+  },
+  "82436": {
+    "groupID": 4726,
+    "name": "Martial Camo - Unlimited"
+  },
+  "82437": {
+    "groupID": 4726,
+    "name": "Shattered Conceptions - Unlimited"
+  },
+  "82438": {
+    "groupID": 4726,
+    "name": "Urban Camo - Unlimited"
+  },
+  "82439": {
+    "groupID": 4726,
+    "name": "Wormhole Camo - Unlimited"
+  },
+  "82440": {
+    "groupID": 4726,
+    "name": "Striped Chevron - Unlimited"
+  },
+  "82441": {
+    "groupID": 4726,
+    "name": "Checkmate - Unlimited"
+  },
+  "82442": {
+    "groupID": 4726,
+    "name": "Checkerboard - Unlimited"
+  },
+  "82443": {
+    "groupID": 4726,
+    "name": "Curved Corner - Unlimited"
+  },
+  "82444": {
+    "groupID": 4726,
+    "name": "Cross - Unlimited"
+  },
+  "82445": {
+    "groupID": 4726,
+    "name": "Escape Curve - Unlimited"
+  },
+  "82446": {
+    "groupID": 4726,
+    "name": "Breakthrough - Unlimited"
+  },
+  "82447": {
+    "groupID": 4726,
+    "name": "Gradient Stripe - Unlimited"
+  },
+  "82448": {
+    "groupID": 4726,
+    "name": "Fade In - Unlimited"
+  },
+  "82449": {
+    "groupID": 4726,
+    "name": "Crystalized Gradient - Unlimited"
+  },
+  "82450": {
+    "groupID": 4726,
+    "name": "Camo-Vyraj - Unlimited"
+  },
+  "82451": {
+    "groupID": 4726,
+    "name": "Hex Stripe - Unlimited"
+  },
+  "82452": {
+    "groupID": 4726,
+    "name": "Faded Hex - Unlimited"
+  },
+  "82453": {
+    "groupID": 4726,
+    "name": "Glitched Hex - Unlimited"
+  },
+  "82454": {
+    "groupID": 4726,
+    "name": "Small Hex Gradient - Unlimited"
+  },
+  "82455": {
+    "groupID": 4726,
+    "name": "Large Hex Gradient - Unlimited"
+  },
+  "82456": {
+    "groupID": 4726,
+    "name": "Data Fragmentation - Unlimited"
+  },
+  "82457": {
+    "groupID": 4726,
+    "name": "Diamond Fade - Unlimited"
+  },
+  "82458": {
+    "groupID": 4726,
+    "name": "Spherical Fade - Unlimited"
+  },
+  "82459": {
+    "groupID": 4726,
+    "name": "Freedom - Unlimited"
+  },
+  "82460": {
+    "groupID": 4726,
+    "name": "Asteroid Field - Unlimited"
+  },
+  "82461": {
+    "groupID": 4726,
+    "name": "Splitter - Unlimited"
+  },
+  "82462": {
+    "groupID": 4726,
+    "name": "Triple Chevron - Unlimited"
+  },
+  "82463": {
+    "groupID": 4726,
+    "name": "Triple Split - Unlimited"
+  },
+  "82464": {
+    "groupID": 4726,
+    "name": "Valor - Unlimited"
+  },
+  "82465": {
+    "groupID": 4726,
+    "name": "Pillars of Inequality - Unlimited"
+  },
+  "82466": {
+    "groupID": 4726,
+    "name": "Angular Corner - Unlimited"
+  },
+  "82467": {
+    "groupID": 4726,
+    "name": "Digital Domain - Unlimited"
+  },
+  "82468": {
+    "groupID": 4726,
+    "name": "Speed Stripes - Unlimited"
+  },
+  "82469": {
+    "groupID": 4726,
+    "name": "Flip Side Stripes - Unlimited"
+  },
+  "82470": {
+    "groupID": 4726,
+    "name": "Gauged - Unlimited"
+  },
+  "82471": {
+    "groupID": 4726,
+    "name": "Hex Recursion - Unlimited"
+  },
+  "82472": {
+    "groupID": 4726,
+    "name": "Hex Map - Unlimited"
+  },
+  "82473": {
+    "groupID": 4726,
+    "name": "Hex Camo - Unlimited"
+  },
+  "82474": {
+    "groupID": 4726,
+    "name": "Hexscape - Unlimited"
+  },
+  "82475": {
+    "groupID": 4726,
+    "name": "Hex Trails - Unlimited"
+  },
+  "82476": {
+    "groupID": 4726,
+    "name": "Abyssal Corruption - Unlimited"
+  },
+  "82477": {
+    "groupID": 4726,
+    "name": "Petals - Unlimited"
+  },
+  "82478": {
+    "groupID": 4726,
+    "name": "Pinstripe Gradient - Unlimited"
+  },
+  "82479": {
+    "groupID": 4726,
+    "name": "Synth - Unlimited"
+  },
+  "82480": {
+    "groupID": 4726,
+    "name": "Metropolitan - Unlimited"
+  },
+  "82481": {
+    "groupID": 4726,
+    "name": "Corroded Trust - Unlimited"
+  },
+  "82482": {
+    "groupID": 4726,
+    "name": "Space Dust - Unlimited"
+  },
+  "82484": {
+    "groupID": 4726,
+    "name": "Unity - Unlimited"
+  },
+  "82485": {
+    "groupID": 4726,
+    "name": "Four from One - Unlimited"
+  },
+  "82486": {
+    "groupID": 4726,
+    "name": "Bold Lines - Unlimited"
+  },
+  "82487": {
+    "groupID": 4726,
+    "name": "Finishing Line - Unlimited"
+  },
+  "82488": {
+    "groupID": 4726,
+    "name": "Union - Unlimited"
+  },
+  "82489": {
+    "groupID": 4726,
+    "name": "Tiger - Unlimited"
+  },
+  "82490": {
+    "groupID": 4726,
+    "name": "Valkyrie - Unlimited"
+  },
+  "82491": {
+    "groupID": 4726,
+    "name": "Squared Off - Unlimited"
+  },
+  "82492": {
+    "groupID": 4768,
+    "name": "Minor Threat Detection Array 3"
+  },
+  "82493": {
+    "groupID": 4768,
+    "name": "Placeholder Sov Hub Upgrade 1"
+  },
+  "82494": {
+    "groupID": 4768,
+    "name": "Placeholder Sov Hub Upgrade 2"
+  },
+  "82495": {
+    "groupID": 4768,
+    "name": "Placeholder Sov Hub Upgrade 3"
+  },
+  "82496": {
+    "groupID": 4768,
+    "name": "Major Threat Detection Array 1"
+  },
+  "82497": {
+    "groupID": 4768,
+    "name": "Major Threat Detection Array 2"
+  },
+  "82498": {
+    "groupID": 4768,
+    "name": "Major Threat Detection Array 3"
+  },
+  "82499": {
+    "groupID": 4768,
+    "name": "Minor Threat Detection Array 1"
+  },
+  "82500": {
+    "groupID": 4768,
+    "name": "Minor Threat Detection Array 2"
+  },
+  "82501": {
+    "groupID": 1317,
+    "name": "Major Threat Detection Array 1 Blueprint"
+  },
+  "82502": {
+    "groupID": 1317,
+    "name": "Major Threat Detection Array 2 Blueprint"
+  },
+  "82503": {
+    "groupID": 1317,
+    "name": "Major Threat Detection Array 3 Blueprint"
+  },
+  "82504": {
+    "groupID": 1317,
+    "name": "Minor Threat Detection Array 1 Blueprint"
+  },
+  "82505": {
+    "groupID": 1317,
+    "name": "Minor Threat Detection Array 2 Blueprint"
+  },
+  "82506": {
+    "groupID": 1317,
+    "name": "Minor Threat Detection Array 3 Blueprint"
+  },
+  "82507": {
+    "groupID": 1317,
+    "name": "Placeholder Sov Hub Upgrade 1 Blueprint"
+  },
+  "82508": {
+    "groupID": 1317,
+    "name": "Placeholder Sov Hub Upgrade 2 Blueprint"
+  },
+  "82509": {
+    "groupID": 1317,
+    "name": "Placeholder Sov Hub Upgrade 3 Blueprint"
+  },
+  "82579": {
+    "groupID": 4768,
+    "name": "Tritanium Prospecting Array 2"
+  },
+  "82580": {
+    "groupID": 4768,
+    "name": "Isogen Prospecting Array 1"
+  },
+  "82581": {
+    "groupID": 4768,
+    "name": "Isogen Prospecting Array 2"
+  },
+  "82582": {
+    "groupID": 4768,
+    "name": "Nocxium Prospecting Array 1"
+  },
+  "82583": {
+    "groupID": 4768,
+    "name": "Nocxium Prospecting Array 2"
+  },
+  "82584": {
+    "groupID": 4768,
+    "name": "Zydrine Prospecting Array 1"
+  },
+  "82585": {
+    "groupID": 4768,
+    "name": "Zydrine Prospecting Array 2"
+  },
+  "82586": {
+    "groupID": 4768,
+    "name": "Megacyte Prospecting Array 1"
+  },
+  "82587": {
+    "groupID": 4768,
+    "name": "Megacyte Prospecting Array 2"
+  },
+  "82588": {
+    "groupID": 4768,
+    "name": "Pyerite Prospecting Array 1"
+  },
+  "82589": {
+    "groupID": 4768,
+    "name": "Pyerite Prospecting Array 2"
+  },
+  "82590": {
+    "groupID": 4768,
+    "name": "Mexallon Prospecting Array 1"
+  },
+  "82591": {
+    "groupID": 4768,
+    "name": "Mexallon Prospecting Array 2"
+  },
+  "82592": {
+    "groupID": 4768,
+    "name": "Tritanium Prospecting Array 1"
+  },
+  "82594": {
+    "groupID": 1317,
+    "name": "Megacyte Prospecting Array 2 Blueprint"
+  },
+  "82595": {
+    "groupID": 1317,
+    "name": "Megacyte Prospecting Array 1 Blueprint"
+  },
+  "82596": {
+    "groupID": 1317,
+    "name": "Zydrine Prospecting Array 2 Blueprint"
+  },
+  "82597": {
+    "groupID": 1317,
+    "name": "Zydrine Prospecting Array 1 Blueprint"
+  },
+  "82598": {
+    "groupID": 1317,
+    "name": "Nocxium Prospecting Array 2 Blueprint"
+  },
+  "82599": {
+    "groupID": 1317,
+    "name": "Nocxium Prospecting Array 1 Blueprint"
+  },
+  "82600": {
+    "groupID": 1317,
+    "name": "Isogen Prospecting Array 2 Blueprint"
+  },
+  "82601": {
+    "groupID": 1317,
+    "name": "Isogen Prospecting Array 1 Blueprint"
+  },
+  "82602": {
+    "groupID": 1317,
+    "name": "Mexallon Prospecting Array 2 Blueprint"
+  },
+  "82603": {
+    "groupID": 1317,
+    "name": "Mexallon Prospecting Array 1 Blueprint"
+  },
+  "82604": {
+    "groupID": 1317,
+    "name": "Pyerite Prospecting Array 2 Blueprint"
+  },
+  "82605": {
+    "groupID": 1317,
+    "name": "Pyerite Prospecting Array 1 Blueprint"
+  },
+  "82606": {
+    "groupID": 1317,
+    "name": "Tritanium Prospecting Array 2 Blueprint"
+  },
+  "82607": {
+    "groupID": 1317,
+    "name": "Tritanium Prospecting Array 1 Blueprint"
+  },
+  "82609": {
+    "groupID": 4768,
+    "name": "Placeholder Sov Hub Upgrade 4"
+  },
+  "82622": {
+    "groupID": 1317,
+    "name": "Placeholder Sov Hub Upgrade 4 Blueprint"
+  },
+  "82941": {
+    "groupID": 1324,
+    "name": "Standup Metenox Moon Drill"
+  },
+  "82957": {
+    "groupID": 4726,
+    "name": "Plasmic Hepatizon Metallic - Limited"
+  },
+  "82958": {
+    "groupID": 4726,
+    "name": "Antiquarian Brass Metallic - Limited"
+  },
+  "82959": {
+    "groupID": 4726,
+    "name": "Flaylock Steel Metallic - Limited"
+  },
+  "82960": {
+    "groupID": 4726,
+    "name": "Entropic Alloy Metallic - Limited"
+  },
+  "82961": {
+    "groupID": 4726,
+    "name": "Polished Iron Metallic - Limited"
+  },
+  "82962": {
+    "groupID": 4726,
+    "name": "Sefrim Gold Metallic - Limited"
+  },
+  "82963": {
+    "groupID": 4726,
+    "name": "Neon Foil Metallic - Limited"
+  },
+  "82964": {
+    "groupID": 4726,
+    "name": "Poisoned Edge Metallic - Limited"
+  },
+  "82965": {
+    "groupID": 4726,
+    "name": "Silver Rose Metallic - Limited"
+  },
+  "82966": {
+    "groupID": 4726,
+    "name": "Precursor Plate Metallic - Limited"
+  },
+  "83060": {
+    "groupID": 4726,
+    "name": "Plasmic Hepatizon Metallic - Unlimited"
+  },
+  "83061": {
+    "groupID": 4726,
+    "name": "Antiquarian Brass Metallic - Unlimited"
+  },
+  "83062": {
+    "groupID": 4726,
+    "name": "Flaylock Steel Metallic - Unlimited"
+  },
+  "83063": {
+    "groupID": 4726,
+    "name": "Entropic Alloy Metallic - Unlimited"
+  },
+  "83064": {
+    "groupID": 4726,
+    "name": "Polished Iron Metallic - Unlimited"
+  },
+  "83065": {
+    "groupID": 4726,
+    "name": "Sefrim Gold Metallic - Unlimited"
+  },
+  "83066": {
+    "groupID": 4726,
+    "name": "Neon Foil Metallic - Unlimited"
+  },
+  "83067": {
+    "groupID": 4726,
+    "name": "Poisoned Edge Metallic - Unlimited"
+  },
+  "83068": {
+    "groupID": 4726,
+    "name": "Silver Rose Metallic - Unlimited"
+  },
+  "83069": {
+    "groupID": 4726,
+    "name": "Precursor Plate Metallic - Unlimited"
+  },
+  "83094": {
+    "groupID": 275,
+    "name": "Capital Jump Portal Generation"
+  },
+  "83201": {
+    "groupID": 4726,
+    "name": "Oceanic Serpent Matte - Limited"
+  },
+  "83202": {
+    "groupID": 4726,
+    "name": "Azure Skies Matte - Limited"
+  },
+  "83203": {
+    "groupID": 4726,
+    "name": "Zakura Cherry Pink Matte - Limited"
+  },
+  "83204": {
+    "groupID": 4726,
+    "name": "Suppressed Lavender Matte - Limited"
+  },
+  "83205": {
+    "groupID": 4726,
+    "name": "Dark Abyss Matte - Limited"
+  },
+  "83206": {
+    "groupID": 4726,
+    "name": "Electric Dreams Matte - Limited"
+  },
+  "83207": {
+    "groupID": 4726,
+    "name": "Deep Void Matte - Limited"
+  },
+  "83208": {
+    "groupID": 4726,
+    "name": "Sacred Stone Matte - Limited"
+  },
+  "83209": {
+    "groupID": 4726,
+    "name": "Stellar White Matte - Limited"
+  },
+  "83210": {
+    "groupID": 4726,
+    "name": "Callie After Dark Matte - Limited"
+  },
+  "83211": {
+    "groupID": 4726,
+    "name": "Sani Crimson Matte - Limited"
+  },
+  "83212": {
+    "groupID": 4726,
+    "name": "Boosted Mint Matte - Limited"
+  },
+  "83213": {
+    "groupID": 4726,
+    "name": "Gelidus Aqua Matte - Limited"
+  },
+  "83214": {
+    "groupID": 4726,
+    "name": "Planetfall Green Matte - Limited"
+  },
+  "83215": {
+    "groupID": 4726,
+    "name": "Industrial Lux Matte - Limited"
+  },
+  "83216": {
+    "groupID": 4726,
+    "name": "Emerald Boulevard Matte - Limited"
+  },
+  "83217": {
+    "groupID": 4726,
+    "name": "Argon Heat Matte - Limited"
+  },
+  "83218": {
+    "groupID": 4726,
+    "name": "Elder's Bone Matte - Limited"
+  },
+  "83219": {
+    "groupID": 4726,
+    "name": "Synthetic Mocha Matte - Limited"
+  },
+  "83220": {
+    "groupID": 4726,
+    "name": "Zento Legacy Matte - Limited"
+  },
+  "83221": {
+    "groupID": 4726,
+    "name": "Imperial Plum Matte - Limited"
+  },
+  "83222": {
+    "groupID": 4726,
+    "name": "Isotopic Iodide Matte - Limited"
+  },
+  "83223": {
+    "groupID": 4726,
+    "name": "Phantom Rose Matte - Limited"
+  },
+  "83224": {
+    "groupID": 4726,
+    "name": "Blood of Pator Matte - Limited"
+  },
+  "83225": {
+    "groupID": 4726,
+    "name": "Uncompromising Scarlet Matte - Limited"
+  },
+  "83226": {
+    "groupID": 4726,
+    "name": "Exoplanet Sunrise Matte - Limited"
+  },
+  "83227": {
+    "groupID": 4726,
+    "name": "Strawberry Fedo Matte - Limited"
+  },
+  "83228": {
+    "groupID": 4726,
+    "name": "Polar Glaze Matte - Limited"
+  },
+  "83229": {
+    "groupID": 4726,
+    "name": "Asaya Midnight Matte - Limited"
+  },
+  "83230": {
+    "groupID": 4726,
+    "name": "Citric Substitute Matte - Limited"
+  },
+  "83231": {
+    "groupID": 4726,
+    "name": "Lilac Star Dust Matte - Limited"
+  },
+  "83232": {
+    "groupID": 4726,
+    "name": "Oceanic Serpent Satin - Limited"
+  },
+  "83233": {
+    "groupID": 4726,
+    "name": "Azure Skies Satin - Limited"
+  },
+  "83234": {
+    "groupID": 4726,
+    "name": "Zakura Cherry Pink Satin - Limited"
+  },
+  "83235": {
+    "groupID": 4726,
+    "name": "Suppressed Lavender Satin - Limited"
+  },
+  "83236": {
+    "groupID": 4726,
+    "name": "Dark Abyss Satin - Limited"
+  },
+  "83237": {
+    "groupID": 4726,
+    "name": "Electric Dreams Satin - Limited"
+  },
+  "83238": {
+    "groupID": 4726,
+    "name": "Deep Void Satin - Limited"
+  },
+  "83239": {
+    "groupID": 4726,
+    "name": "Sacred Stone Satin - Limited"
+  },
+  "83240": {
+    "groupID": 4726,
+    "name": "Stellar White Satin - Limited"
+  },
+  "83241": {
+    "groupID": 4726,
+    "name": "Callie After Dark Satin - Limited"
+  },
+  "83242": {
+    "groupID": 4726,
+    "name": "Sani Crimson Satin - Limited"
+  },
+  "83243": {
+    "groupID": 4726,
+    "name": "Boosted Mint Satin - Limited"
+  },
+  "83244": {
+    "groupID": 4726,
+    "name": "Gelidus Aqua Satin - Limited"
+  },
+  "83245": {
+    "groupID": 4726,
+    "name": "Planetfall Green Satin - Limited"
+  },
+  "83246": {
+    "groupID": 4726,
+    "name": "Industrial Lux Satin - Limited"
+  },
+  "83247": {
+    "groupID": 4726,
+    "name": "Emerald Boulevard Satin - Limited"
+  },
+  "83248": {
+    "groupID": 4726,
+    "name": "Argon Heat Satin - Limited"
+  },
+  "83249": {
+    "groupID": 4726,
+    "name": "Elder's Bone Satin - Limited"
+  },
+  "83250": {
+    "groupID": 4726,
+    "name": "Synthetic Mocha Satin - Limited"
+  },
+  "83251": {
+    "groupID": 4726,
+    "name": "Zento Legacy Satin - Limited"
+  },
+  "83252": {
+    "groupID": 4726,
+    "name": "Imperial Plum Satin - Limited"
+  },
+  "83253": {
+    "groupID": 4726,
+    "name": "Isotopic Iodide Satin - Limited"
+  },
+  "83254": {
+    "groupID": 4726,
+    "name": "Phantom Rose Satin - Limited"
+  },
+  "83255": {
+    "groupID": 4726,
+    "name": "Blood of Pator Satin - Limited"
+  },
+  "83256": {
+    "groupID": 4726,
+    "name": "Uncompromising Scarlet Satin - Limited"
+  },
+  "83257": {
+    "groupID": 4726,
+    "name": "Exoplanet Sunrise Satin - Limited"
+  },
+  "83258": {
+    "groupID": 4726,
+    "name": "Strawberry Fedo Satin - Limited"
+  },
+  "83259": {
+    "groupID": 4726,
+    "name": "Polar Glaze Satin - Limited"
+  },
+  "83260": {
+    "groupID": 4726,
+    "name": "Asaya Midnight Satin - Limited"
+  },
+  "83261": {
+    "groupID": 4726,
+    "name": "Citric Substitute Satin - Limited"
+  },
+  "83262": {
+    "groupID": 4726,
+    "name": "Lilac Star Dust Satin - Limited"
+  },
+  "83263": {
+    "groupID": 4726,
+    "name": "Oceanic Serpent Gloss - Limited"
+  },
+  "83264": {
+    "groupID": 4726,
+    "name": "Azure Skies Gloss - Limited"
+  },
+  "83265": {
+    "groupID": 4726,
+    "name": "Zakura Cherry Pink Gloss - Limited"
+  },
+  "83266": {
+    "groupID": 4726,
+    "name": "Suppressed Lavender Gloss - Limited"
+  },
+  "83267": {
+    "groupID": 4726,
+    "name": "Dark Abyss Gloss - Limited"
+  },
+  "83268": {
+    "groupID": 4726,
+    "name": "Electric Dreams Gloss - Limited"
+  },
+  "83269": {
+    "groupID": 4726,
+    "name": "Deep Void Gloss - Limited"
+  },
+  "83270": {
+    "groupID": 4726,
+    "name": "Sacred Stone Gloss - Limited"
+  },
+  "83271": {
+    "groupID": 4726,
+    "name": "Stellar White Gloss - Limited"
+  },
+  "83272": {
+    "groupID": 4726,
+    "name": "Callie After Dark Gloss - Limited"
+  },
+  "83273": {
+    "groupID": 4726,
+    "name": "Sani Crimson Gloss - Limited"
+  },
+  "83274": {
+    "groupID": 4726,
+    "name": "Boosted Mint Gloss - Limited"
+  },
+  "83275": {
+    "groupID": 4726,
+    "name": "Gelidus Aqua Gloss - Limited"
+  },
+  "83276": {
+    "groupID": 4726,
+    "name": "Planetfall Green Gloss - Limited"
+  },
+  "83277": {
+    "groupID": 4726,
+    "name": "Industrial Lux Gloss - Limited"
+  },
+  "83278": {
+    "groupID": 4726,
+    "name": "Emerald Boulevard Gloss - Limited"
+  },
+  "83279": {
+    "groupID": 4726,
+    "name": "Argon Heat Gloss - Limited"
+  },
+  "83280": {
+    "groupID": 4726,
+    "name": "Elder's Bone Gloss - Limited"
+  },
+  "83281": {
+    "groupID": 4726,
+    "name": "Synthetic Mocha Gloss - Limited"
+  },
+  "83282": {
+    "groupID": 4726,
+    "name": "Zento Legacy Gloss - Limited"
+  },
+  "83283": {
+    "groupID": 4726,
+    "name": "Imperial Plum Gloss - Limited"
+  },
+  "83284": {
+    "groupID": 4726,
+    "name": "Isotopic Iodide Gloss - Limited"
+  },
+  "83286": {
+    "groupID": 4726,
+    "name": "Phantom Rose Gloss - Limited"
+  },
+  "83287": {
+    "groupID": 4726,
+    "name": "Blood of Pator Gloss - Limited"
+  },
+  "83288": {
+    "groupID": 4726,
+    "name": "Uncompromising Scarlet Gloss - Limited"
+  },
+  "83289": {
+    "groupID": 4726,
+    "name": "Exoplanet Sunrise Gloss - Limited"
+  },
+  "83290": {
+    "groupID": 4726,
+    "name": "Strawberry Fedo Gloss - Limited"
+  },
+  "83291": {
+    "groupID": 4726,
+    "name": "Polar Glaze Gloss - Limited"
+  },
+  "83292": {
+    "groupID": 4726,
+    "name": "Asaya Midnight Gloss - Limited"
+  },
+  "83293": {
+    "groupID": 4726,
+    "name": "Citric Substitute Gloss - Limited"
+  },
+  "83294": {
+    "groupID": 4726,
+    "name": "Lilac Star Dust Gloss - Limited"
+  },
+  "83296": {
+    "groupID": 4726,
+    "name": "Oceanic Serpent Matte - Unlimited"
+  },
+  "83297": {
+    "groupID": 4726,
+    "name": "Azure Skies Matte - Unlimited"
+  },
+  "83298": {
+    "groupID": 4726,
+    "name": "Zakura Cherry Pink Matte - Unlimited"
+  },
+  "83299": {
+    "groupID": 4726,
+    "name": "Suppressed Lavender Matte - Unlimited"
+  },
+  "83300": {
+    "groupID": 4726,
+    "name": "Dark Abyss Matte - Unlimited"
+  },
+  "83301": {
+    "groupID": 4726,
+    "name": "Electric Dreams Matte - Unlimited"
+  },
+  "83302": {
+    "groupID": 4726,
+    "name": "Deep Void Matte - Unlimited"
+  },
+  "83303": {
+    "groupID": 4726,
+    "name": "Sacred Stone Matte - Unlimited"
+  },
+  "83304": {
+    "groupID": 4726,
+    "name": "Stellar White Matte - Unlimited"
+  },
+  "83305": {
+    "groupID": 4726,
+    "name": "Callie After Dark Matte - Unlimited"
+  },
+  "83306": {
+    "groupID": 4726,
+    "name": "Sani Crimson Matte - Unlimited"
+  },
+  "83307": {
+    "groupID": 4726,
+    "name": "Boosted Mint Matte - Unlimited"
+  },
+  "83308": {
+    "groupID": 4726,
+    "name": "Gelidus Aqua Matte - Unlimited"
+  },
+  "83309": {
+    "groupID": 4726,
+    "name": "Planetfall Green Matte - Unlimited"
+  },
+  "83310": {
+    "groupID": 4726,
+    "name": "Industrial Lux Matte - Unlimited"
+  },
+  "83311": {
+    "groupID": 4726,
+    "name": "Emerald Boulevard Matte - Unlimited"
+  },
+  "83312": {
+    "groupID": 4726,
+    "name": "Argon Heat Matte - Unlimited"
+  },
+  "83313": {
+    "groupID": 4726,
+    "name": "Elder's Bone Matte - Unlimited"
+  },
+  "83314": {
+    "groupID": 4726,
+    "name": "Synthetic Mocha Matte - Unlimited"
+  },
+  "83315": {
+    "groupID": 4726,
+    "name": "Zento Legacy Matte - Unlimited"
+  },
+  "83316": {
+    "groupID": 4726,
+    "name": "Imperial Plum Matte - Unlimited"
+  },
+  "83317": {
+    "groupID": 4726,
+    "name": "Isotopic Iodide Matte - Unlimited"
+  },
+  "83318": {
+    "groupID": 4726,
+    "name": "Phantom Rose Matte - Unlimited"
+  },
+  "83319": {
+    "groupID": 4726,
+    "name": "Blood of Pator Matte - Unlimited"
+  },
+  "83320": {
+    "groupID": 4726,
+    "name": "Uncompromising Scarlet Matte - Unlimited"
+  },
+  "83321": {
+    "groupID": 4726,
+    "name": "Exoplanet Sunrise Matte - Unlimited"
+  },
+  "83322": {
+    "groupID": 4726,
+    "name": "Strawberry Fedo Matte - Unlimited"
+  },
+  "83323": {
+    "groupID": 4726,
+    "name": "Polar Glaze Matte - Unlimited"
+  },
+  "83324": {
+    "groupID": 4726,
+    "name": "Asaya Midnight Matte - Unlimited"
+  },
+  "83325": {
+    "groupID": 4726,
+    "name": "Citric Substitute Matte - Unlimited"
+  },
+  "83326": {
+    "groupID": 4726,
+    "name": "Lilac Star Dust Matte - Unlimited"
+  },
+  "83327": {
+    "groupID": 4726,
+    "name": "Oceanic Serpent Satin - Unlimited"
+  },
+  "83328": {
+    "groupID": 4726,
+    "name": "Azure Skies Satin - Unlimited"
+  },
+  "83329": {
+    "groupID": 4726,
+    "name": "Zakura Cherry Pink Satin - Unlimited"
+  },
+  "83330": {
+    "groupID": 4726,
+    "name": "Suppressed Lavender Satin - Unlimited"
+  },
+  "83331": {
+    "groupID": 4726,
+    "name": "Dark Abyss Satin - Unlimited"
+  },
+  "83332": {
+    "groupID": 4726,
+    "name": "Electric Dreams Satin - Unlimited"
+  },
+  "83333": {
+    "groupID": 4726,
+    "name": "Deep Void Satin - Unlimited"
+  },
+  "83334": {
+    "groupID": 4726,
+    "name": "Sacred Stone Satin - Unlimited"
+  },
+  "83335": {
+    "groupID": 4726,
+    "name": "Stellar White Satin - Unlimited"
+  },
+  "83336": {
+    "groupID": 4726,
+    "name": "Callie After Dark Satin - Unlimited"
+  },
+  "83337": {
+    "groupID": 4726,
+    "name": "Sani Crimson Satin - Unlimited"
+  },
+  "83338": {
+    "groupID": 4726,
+    "name": "Boosted Mint Satin - Unlimited"
+  },
+  "83339": {
+    "groupID": 4726,
+    "name": "Gelidus Aqua Satin - Unlimited"
+  },
+  "83340": {
+    "groupID": 4726,
+    "name": "Planetfall Green Satin - Unlimited"
+  },
+  "83341": {
+    "groupID": 4726,
+    "name": "Industrial Lux Satin - Unlimited"
+  },
+  "83342": {
+    "groupID": 4726,
+    "name": "Emerald Boulevard Satin - Unlimited"
+  },
+  "83343": {
+    "groupID": 4726,
+    "name": "Argon Heat Satin - Unlimited"
+  },
+  "83344": {
+    "groupID": 4726,
+    "name": "Elder's Bone Satin - Unlimited"
+  },
+  "83345": {
+    "groupID": 4726,
+    "name": "Synthetic Mocha Satin - Unlimited"
+  },
+  "83346": {
+    "groupID": 4726,
+    "name": "Zento Legacy Satin - Unlimited"
+  },
+  "83347": {
+    "groupID": 4726,
+    "name": "Imperial Plum Satin - Unlimited"
+  },
+  "83348": {
+    "groupID": 4726,
+    "name": "Isotopic Iodide Satin - Unlimited"
+  },
+  "83349": {
+    "groupID": 4726,
+    "name": "Phantom Rose Satin - Unlimited"
+  },
+  "83350": {
+    "groupID": 4726,
+    "name": "Blood of Pator Satin - Unlimited"
+  },
+  "83351": {
+    "groupID": 4726,
+    "name": "Uncompromising Scarlet Satin - Unlimited"
+  },
+  "83352": {
+    "groupID": 4726,
+    "name": "Exoplanet Sunrise Satin - Unlimited"
+  },
+  "83353": {
+    "groupID": 4726,
+    "name": "Strawberry Fedo Satin - Unlimited"
+  },
+  "83354": {
+    "groupID": 4726,
+    "name": "Polar Glaze Satin - Unlimited"
+  },
+  "83355": {
+    "groupID": 4726,
+    "name": "Asaya Midnight Satin - Unlimited"
+  },
+  "83356": {
+    "groupID": 4726,
+    "name": "Citric Substitute Satin - Unlimited"
+  },
+  "83357": {
+    "groupID": 4726,
+    "name": "Lilac Star Dust Satin - Unlimited"
+  },
+  "83358": {
+    "groupID": 4726,
+    "name": "Oceanic Serpent Gloss - Unlimited"
+  },
+  "83359": {
+    "groupID": 4726,
+    "name": "Azure Skies Gloss - Unlimited"
+  },
+  "83360": {
+    "groupID": 4726,
+    "name": "Zakura Cherry Pink Gloss - Unlimited"
+  },
+  "83361": {
+    "groupID": 4726,
+    "name": "Suppressed Lavender Gloss - Unlimited"
+  },
+  "83362": {
+    "groupID": 4726,
+    "name": "Dark Abyss Gloss - Unlimited"
+  },
+  "83363": {
+    "groupID": 4726,
+    "name": "Electric Dreams Gloss - Unlimited"
+  },
+  "83364": {
+    "groupID": 4726,
+    "name": "Deep Void Gloss - Unlimited"
+  },
+  "83365": {
+    "groupID": 4726,
+    "name": "Sacred Stone Gloss - Unlimited"
+  },
+  "83366": {
+    "groupID": 4726,
+    "name": "Stellar White Gloss - Unlimited"
+  },
+  "83367": {
+    "groupID": 4726,
+    "name": "Callie After Dark Gloss - Unlimited"
+  },
+  "83368": {
+    "groupID": 4726,
+    "name": "Sani Crimson Gloss - Unlimited"
+  },
+  "83369": {
+    "groupID": 4726,
+    "name": "Boosted Mint Gloss - Unlimited"
+  },
+  "83370": {
+    "groupID": 4726,
+    "name": "Gelidus Aqua Gloss - Unlimited"
+  },
+  "83371": {
+    "groupID": 4726,
+    "name": "Planetfall Green Gloss - Unlimited"
+  },
+  "83372": {
+    "groupID": 4726,
+    "name": "Industrial Lux Gloss - Unlimited"
+  },
+  "83373": {
+    "groupID": 4726,
+    "name": "Emerald Boulevard Gloss - Unlimited"
+  },
+  "83374": {
+    "groupID": 4726,
+    "name": "Argon Heat Gloss - Unlimited"
+  },
+  "83375": {
+    "groupID": 4726,
+    "name": "Elder's Bone Gloss - Unlimited"
+  },
+  "83376": {
+    "groupID": 4726,
+    "name": "Synthetic Mocha Gloss - Unlimited"
+  },
+  "83377": {
+    "groupID": 4726,
+    "name": "Zento Legacy Gloss - Unlimited"
+  },
+  "83378": {
+    "groupID": 4726,
+    "name": "Imperial Plum Gloss - Unlimited"
+  },
+  "83379": {
+    "groupID": 4726,
+    "name": "Isotopic Iodide Gloss - Unlimited"
+  },
+  "83380": {
+    "groupID": 4726,
+    "name": "Phantom Rose Gloss - Unlimited"
+  },
+  "83381": {
+    "groupID": 4726,
+    "name": "Blood of Pator Gloss - Unlimited"
+  },
+  "83382": {
+    "groupID": 4726,
+    "name": "Uncompromising Scarlet Gloss - Unlimited"
+  },
+  "83383": {
+    "groupID": 4726,
+    "name": "Exoplanet Sunrise Gloss - Unlimited"
+  },
+  "83384": {
+    "groupID": 4726,
+    "name": "Strawberry Fedo Gloss - Unlimited"
+  },
+  "83385": {
+    "groupID": 4726,
+    "name": "Polar Glaze Gloss - Unlimited"
+  },
+  "83386": {
+    "groupID": 4726,
+    "name": "Asaya Midnight Gloss - Unlimited"
+  },
+  "83387": {
+    "groupID": 4726,
+    "name": "Citric Substitute Gloss - Unlimited"
+  },
+  "83388": {
+    "groupID": 4726,
+    "name": "Lilac Star Dust Gloss - Unlimited"
+  },
+  "83462": {
+    "groupID": 1975,
+    "name": "Sansha Station Ruins"
+  },
+  "83464": {
+    "groupID": 275,
+    "name": "Capital Micro Jump Drive Operation"
+  },
+  "83465": {
+    "groupID": 4769,
+    "name": "Capital Micro Jump Drive"
+  },
+  "83467": {
+    "groupID": 334,
+    "name": "Angel NET Resonator"
+  },
+  "83468": {
+    "groupID": 334,
+    "name": "Blood Raider NET Resonator"
+  },
+  "83469": {
+    "groupID": 334,
+    "name": "Guristas NET Resonator"
+  },
+  "83470": {
+    "groupID": 334,
+    "name": "Mordu NET Resonator"
+  },
+  "83471": {
+    "groupID": 334,
+    "name": "Sansha NET Resonator"
+  },
+  "83472": {
+    "groupID": 334,
+    "name": "Serpentis NET Resonator"
+  },
+  "83473": {
+    "groupID": 334,
+    "name": "SoE NET Resonator"
+  },
+  "83478": {
+    "groupID": 1975,
+    "name": "Sansha Tower non interactable"
+  },
+  "83479": {
+    "groupID": 1975,
+    "name": "Rogue DroneTower non interactable"
+  },
+  "83480": {
+    "groupID": 494,
+    "name": "Pirate Guristas Tower"
+  },
+  "83481": {
+    "groupID": 494,
+    "name": "Pirate Sansha Tower"
+  },
+  "83482": {
+    "groupID": 494,
+    "name": "Pirate Serpentis Tower"
+  },
+  "83483": {
+    "groupID": 494,
+    "name": "Pirate Rogue Drone Tower"
+  },
+  "83484": {
+    "groupID": 494,
+    "name": "Pirate Blood Tower"
+  },
+  "83485": {
+    "groupID": 4769,
+    "name": "Capital Micro Jump Field Generator"
+  },
+  "83488": {
+    "groupID": 1975,
+    "name": "Non-interactable Raitaru Wreck"
+  },
+  "83489": {
+    "groupID": 1975,
+    "name": "Non-interactable Jump Gate Wreckage"
+  },
+  "83568": {
+    "groupID": 226,
+    "name": "Amarrian Amphitheatre"
+  },
+  "83569": {
+    "groupID": 226,
+    "name": "Thukker Market"
+  },
+  "83570": {
+    "groupID": 226,
+    "name": "Automated Depot"
+  },
+  "83571": {
+    "groupID": 226,
+    "name": "Repatriation Center"
+  },
+  "83572": {
+    "groupID": 227,
+    "name": "[HF] Drain the Batteries - Hauler Spawner"
+  },
+  "83573": {
+    "groupID": 227,
+    "name": "[HF] Drain the Batteries - Escort Spawner"
+  },
+  "83579": {
+    "groupID": 1652,
+    "name": "Imperial Navy Templar"
+  },
+  "83582": {
+    "groupID": 1652,
+    "name": "Caldari Navy Dragonfly"
+  },
+  "83583": {
+    "groupID": 1652,
+    "name": "Federation Navy Firbolg"
+  },
+  "83584": {
+    "groupID": 1652,
+    "name": "Republic Fleet Einherji"
+  },
+  "83585": {
+    "groupID": 1652,
+    "name": "Imperial Navy Equite"
+  },
+  "83586": {
+    "groupID": 1652,
+    "name": "Caldari Navy Locust"
+  },
+  "83587": {
+    "groupID": 1652,
+    "name": "Federation Navy Satyr"
+  },
+  "83589": {
+    "groupID": 1652,
+    "name": "Republic Fleet Gram"
+  },
+  "83590": {
+    "groupID": 4576,
+    "name": "Damaged Werpost"
+  },
+  "83591": {
+    "groupID": 1537,
+    "name": "Imperial Navy Cenobite"
+  },
+  "83592": {
+    "groupID": 1537,
+    "name": "Caldari Navy Scarab"
+  },
+  "83593": {
+    "groupID": 1537,
+    "name": "Federation Navy Siren"
+  },
+  "83594": {
+    "groupID": 1537,
+    "name": "Republic Fleet Dromi"
+  },
+  "83595": {
+    "groupID": 1146,
+    "name": "Imperial Navy Templar Blueprint"
+  },
+  "83596": {
+    "groupID": 1146,
+    "name": "Caldari Navy Dragonfly Blueprint"
+  },
+  "83597": {
+    "groupID": 1146,
+    "name": "Federation Navy Firbolg Blueprint"
+  },
+  "83598": {
+    "groupID": 1146,
+    "name": "Republic Fleet Einherji Blueprint"
+  },
+  "83599": {
+    "groupID": 1146,
+    "name": "Imperial Navy Equite Blueprint"
+  },
+  "83600": {
+    "groupID": 1146,
+    "name": "Caldari Navy Locust Blueprint"
+  },
+  "83601": {
+    "groupID": 1146,
+    "name": "Federation Navy Satyr Blueprint"
+  },
+  "83602": {
+    "groupID": 1146,
+    "name": "Republic Fleet Gram Blueprint"
+  },
+  "83603": {
+    "groupID": 1679,
+    "name": "Imperial Navy Cenobite Blueprint"
+  },
+  "83604": {
+    "groupID": 1679,
+    "name": "Caldari Navy Scarab Blueprint"
+  },
+  "83605": {
+    "groupID": 1679,
+    "name": "Federation Navy Siren Blueprint"
+  },
+  "83606": {
+    "groupID": 1679,
+    "name": "Republic Fleet Dromi Blueprint"
+  },
+  "83635": {
+    "groupID": 4771,
+    "name": "Tournament Firework Launcher"
+  },
+  "83636": {
+    "groupID": 632,
+    "name": "Corelior Gunner"
+  },
+  "83637": {
+    "groupID": 629,
+    "name": "Corelatis Group Captain"
+  },
+  "83638": {
+    "groupID": 630,
+    "name": "Core Fleet Admiral"
+  },
+  "83639": {
+    "groupID": 314,
+    "name": "SKINR Design Element Reward"
+  },
+  "83640": {
+    "groupID": 1191,
+    "name": "Capital Micro Jump Drive Blueprint"
+  },
+  "83641": {
+    "groupID": 1543,
+    "name": "Capital Micro Jump Field Generator Blueprint"
+  },
+  "83642": {
+    "groupID": 744,
+    "name": "Guri Malakim Command Mindlink"
+  },
+  "83643": {
+    "groupID": 1154,
+    "name": "Domination Signature Radius Suppressor"
+  },
+  "83644": {
+    "groupID": 1154,
+    "name": "Dread Guristas Signature Radius Suppressor"
+  },
+  "83645": {
+    "groupID": 1155,
+    "name": "Domination Signature Radius Suppressor Blueprint"
+  },
+  "83646": {
+    "groupID": 1155,
+    "name": "Dread Guristas Signature Radius Suppressor Blueprint"
+  },
+  "83647": {
+    "groupID": 765,
+    "name": "Guri Malakim Expanded Cargohold"
+  },
+  "83648": {
+    "groupID": 4771,
+    "name": "Federal Boxcutter"
+  },
+  "83649": {
+    "groupID": 4771,
+    "name": "Federal Sorter"
+  },
+  "83650": {
+    "groupID": 4771,
+    "name": "Federal Depositor"
+  },
+  "83651": {
+    "groupID": 227,
+    "name": "[HF] Worker Drone Spawner"
+  },
+  "83652": {
+    "groupID": 4771,
+    "name": "Thukker Hoarder"
+  },
+  "83653": {
+    "groupID": 4771,
+    "name": "Thukker Reaper"
+  },
+  "83654": {
+    "groupID": 227,
+    "name": "[HF] Thukker Transport Spawner"
+  },
+  "83655": {
+    "groupID": 314,
+    "name": "Kerr Sequencer (Placeholder)"
+  },
+  "83657": {
+    "groupID": 314,
+    "name": "Stellar White Gloss (Placeholder)"
+  },
+  "83658": {
+    "groupID": 314,
+    "name": "Boosted Mint Gloss (Placeholder)"
+  },
+  "83659": {
+    "groupID": 314,
+    "name": "Planetfall Green Matte (Placeholder)"
+  },
+  "83660": {
+    "groupID": 1154,
+    "name": "Zohar's Modified Signature Radius Suppressor"
+  },
+  "83661": {
+    "groupID": 1154,
+    "name": "Hakuzosu's Modified Signature Radius Suppressor"
+  },
+  "83662": {
+    "groupID": 1155,
+    "name": "Zohar's Modified Signature Radius Suppressor Blueprint"
+  },
+  "83663": {
+    "groupID": 1155,
+    "name": "Hakuzosu's Modified Signature Radius Suppressor Blueprint"
+  },
+  "83666": {
+    "groupID": 605,
+    "name": "Corpior Abbot"
+  },
+  "83667": {
+    "groupID": 602,
+    "name": "Corpatis Oracle"
+  },
+  "83668": {
+    "groupID": 603,
+    "name": "Corpus Exarch"
+  },
+  "83669": {
+    "groupID": 614,
+    "name": "Pithior Agitator"
+  },
+  "83670": {
+    "groupID": 611,
+    "name": "Pithatis Headsman"
+  },
+  "83671": {
+    "groupID": 612,
+    "name": "Pith Extirpator"
+  },
+  "83672": {
+    "groupID": 623,
+    "name": "Centior Aberration"
+  },
+  "83673": {
+    "groupID": 620,
+    "name": "Centatis Banshee"
+  },
+  "83674": {
+    "groupID": 621,
+    "name": "Centus Doom Lord"
+  },
+  "83675": {
+    "groupID": 804,
+    "name": "Contaminator Alvior"
+  },
+  "83676": {
+    "groupID": 801,
+    "name": "Terminator Alvatis"
+  },
+  "83677": {
+    "groupID": 802,
+    "name": "Alvus Sovereign"
+  },
+  "83679": {
+    "groupID": 314,
+    "name": "SKINR Sequencer Reward"
+  },
+  "83680": {
+    "groupID": 314,
+    "name": "Fermionic Sequencer (Placeholder)"
+  },
+  "83681": {
+    "groupID": 314,
+    "name": "Alignment Sequencer (Placeholder)"
+  },
+  "83684": {
+    "groupID": 226,
+    "name": "Outgoing Storage Bin"
+  },
+  "83685": {
+    "groupID": 226,
+    "name": "Dispatch Informational Coordinator"
+  },
+  "83686": {
+    "groupID": 226,
+    "name": "Mechanized Sorting Office"
+  },
+  "83687": {
+    "groupID": 314,
+    "name": "Elders Bone Satin (Placeholder)"
+  },
+  "83688": {
+    "groupID": 314,
+    "name": "Synthetic Mocha Matte (Placeholder)"
+  },
+  "83689": {
+    "groupID": 314,
+    "name": "Imperial Plum Gloss (Placeholder)"
+  },
+  "83690": {
+    "groupID": 314,
+    "name": "Imperial Plum Matte (Placeholder)"
+  },
+  "83691": {
+    "groupID": 314,
+    "name": "Strawberry Fedo Gloss (Placeholder)"
+  },
+  "83692": {
+    "groupID": 314,
+    "name": "Polar Glaze Satin (Placeholder)"
+  },
+  "83709": {
+    "groupID": 1194,
+    "name": "SKINR Studio Supplies"
+  },
+  "83725": {
+    "groupID": 4055,
+    "name": "Triglavian Spawner - Fortification Deployment Minor Victory (DO NOT TRANSLATE)"
+  },
+  "83820": {
+    "groupID": 1975,
+    "name": "Triglavian Support Pylon Wreck (Non-Interactable)"
+  },
+  "83821": {
+    "groupID": 1975,
+    "name": "Entropic Disintegrator Werpost Wreck (Non-Interactable)"
+  },
+  "83822": {
+    "groupID": 1975,
+    "name": "Triglavian Bioadaptive Cache Wreck (Non-Interactable)"
+  },
+  "83832": {
+    "groupID": 1194,
+    "name": "Sequence Binder Welcome Package"
+  },
+  "83842": {
+    "groupID": 1975,
+    "name": "Non-Interactable Dark and Spiky Asteroid Station"
+  },
+  "83843": {
+    "groupID": 186,
+    "name": "Sovereignty Hub Wreck"
+  },
+  "83844": {
+    "groupID": 186,
+    "name": "Orbital Skyhook Wreck"
+  },
+  "83921": {
+    "groupID": 4726,
+    "name": "Holovisual Violet Matte - Limited"
+  },
+  "83922": {
+    "groupID": 4726,
+    "name": "Holovisual Violet Satin - Limited"
+  },
+  "83923": {
+    "groupID": 4726,
+    "name": "Holovisual Violet Gloss - Limited"
   }
 }

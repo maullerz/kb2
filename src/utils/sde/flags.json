@@ -529,8 +529,8 @@
   },
   {
     "flagID": 134,
-    "flagName": "SpecializedOreHold",
-    "flagText": "Specialized Ore Hold",
+    "flagName": "SpecializedAsteroidHold",
+    "flagText": "Specialized Asteroid Hold",
     "orderID": 0
   },
   {
@@ -800,7 +800,31 @@
   {
     "flagID": 180,
     "flagName": "StructureDeedBay",
-    "flagText": "Core Room",
+    "flagText": "Structure Deed Bay",
+    "orderID": 0
+  },
+  {
+    "flagID": 181,
+    "flagName": "SpecializedIceHold",
+    "flagText": "Specialized Ice Hold",
+    "orderID": 0
+  },
+  {
+    "flagID": 182,
+    "flagName": "SpecializedAsteroidHold",
+    "flagText": "Specialized Asteroid Hold",
+    "orderID": 0
+  },
+  {
+    "flagID": 183,
+    "flagName": "MobileDepot",
+    "flagText": "Mobile Depot",
+    "orderID": 0
+  },
+  {
+    "flagID": 184,
+    "flagName": "CorpProjectsHangar",
+    "flagText": "Corporation Projects Hangar ",
     "orderID": 0
   }
 ]
