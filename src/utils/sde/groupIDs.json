@@ -258,7 +258,7 @@
     "fittableNonSingleton": false,
     "iconID": 73,
     "name": "Capsule",
-    "published": false,
+    "published": true,
     "useBasePrice": false
   },
   "30": {

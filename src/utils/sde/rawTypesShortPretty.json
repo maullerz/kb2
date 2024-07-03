@@ -73597,7 +73597,7 @@
   },
   "32226": {
     "groupID": 1003,
-    "name": "Territorial Claim Unit"
+    "name": "Defunct Territorial Claim Unit"
   },
   "32228": {
     "groupID": 283,
@@ -134860,7 +134860,7 @@
     "name": "CD Minion Spawner kspace"
   },
   "81716": {
-    "groupID": 1975,
+    "groupID": 4055,
     "name": "Capital Escalation Manager - DO NOT TRANSLATE"
   },
   "81826": {
@@ -136844,7 +136844,7 @@
     "name": "Republic Fleet Dromi Blueprint"
   },
   "83635": {
-    "groupID": 4771,
+    "groupID": 4576,
     "name": "Tournament Firework Launcher"
   },
   "83636": {
@@ -137098,5 +137098,41 @@
   "83923": {
     "groupID": 4726,
     "name": "Holovisual Violet Gloss - Limited"
+  },
+  "84008": {
+    "groupID": 4726,
+    "name": "Villore Viridescent Matte - Limited"
+  },
+  "84009": {
+    "groupID": 4726,
+    "name": "Villore Viridescent Matte - Limited"
+  },
+  "84010": {
+    "groupID": 4726,
+    "name": "Villore Viridescent Gloss - Limited"
+  },
+  "84011": {
+    "groupID": 4726,
+    "name": "Old Man's Sunset Matte - Limited"
+  },
+  "84012": {
+    "groupID": 4726,
+    "name": "Old Man's Sunset Matte - Limited"
+  },
+  "84013": {
+    "groupID": 4726,
+    "name": "Old Man's Sunset Gloss - Limited"
+  },
+  "84014": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84015": {
+    "groupID": 4726,
+    "name": "Liberty's Wings - Limited"
+  },
+  "84016": {
+    "groupID": 4726,
+    "name": "United Front - Limited"
   }
 }

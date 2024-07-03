@@ -510,6 +510,10 @@
     "name": "Hauler",
     "types": [
       [
+        81008,
+        "Squall"
+      ],
+      [
         648,
         "Badger"
       ],
@@ -849,6 +853,10 @@
     "name": "Deep Space Transport",
     "types": [
       [
+        81047,
+        "Torrent"
+      ],
+      [
         12731,
         "Bustard"
       ],
@@ -1093,6 +1101,10 @@
   "513": {
     "name": "Freighter",
     "types": [
+      [
+        81040,
+        "Avalanche"
+      ],
       [
         20183,
         "Providence"
@@ -1639,6 +1651,10 @@
   "1202": {
     "name": "Blockade Runner",
     "types": [
+      [
+        81046,
+        "Deluge"
+      ],
       [
         12729,
         "Crane"

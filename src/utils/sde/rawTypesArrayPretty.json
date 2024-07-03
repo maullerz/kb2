@@ -91997,7 +91997,7 @@
   [
     32226,
     1003,
-    "Territorial Claim Unit"
+    "Defunct Territorial Claim Unit"
   ],
   [
     32228,
@@ -168576,7 +168576,7 @@
   ],
   [
     81716,
-    1975,
+    4055,
     "Capital Escalation Manager - DO NOT TRANSLATE"
   ],
   [
@@ -171056,7 +171056,7 @@
   ],
   [
     83635,
-    4771,
+    4576,
     "Tournament Firework Launcher"
   ],
   [
@@ -171373,5 +171373,50 @@
     83923,
     4726,
     "Holovisual Violet Gloss - Limited"
+  ],
+  [
+    84008,
+    4726,
+    "Villore Viridescent Matte - Limited"
+  ],
+  [
+    84009,
+    4726,
+    "Villore Viridescent Matte - Limited"
+  ],
+  [
+    84010,
+    4726,
+    "Villore Viridescent Gloss - Limited"
+  ],
+  [
+    84011,
+    4726,
+    "Old Man's Sunset Matte - Limited"
+  ],
+  [
+    84012,
+    4726,
+    "Old Man's Sunset Matte - Limited"
+  ],
+  [
+    84013,
+    4726,
+    "Old Man's Sunset Gloss - Limited"
+  ],
+  [
+    84014,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84015,
+    4726,
+    "Liberty's Wings - Limited"
+  ],
+  [
+    84016,
+    4726,
+    "United Front - Limited"
   ]
 ]
