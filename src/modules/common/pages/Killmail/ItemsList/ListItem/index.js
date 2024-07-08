@@ -40,17 +40,16 @@ const ListItem = ({ type, count, isDestroyed, inContainer, prices, totalSum, sin
 
       <ItemIcon id={type} singleton={singleton} mini />
 
+      {/*
       <Name>
         {singleton ? `${name} (Copy)` : name}
       </Name>
-      {/*
-        TODO: db.evetools.org
-        <Name>
-          <Link to={`/db/type/${type}`}>
-            {singleton ? `${name} (Copy)` : name}
-          </Link>
-        </Name>
       */}
+      <Name>
+        <a href={`https://db.evetools.org/type/${type}`} target='_blank' rel='noopener'>
+          {singleton ? `${name} (Copy)` : name}
+        </a>
+      </Name>
       <Digits>
         <Count>{formattedCount}</Count>
         <Sum sum={isMobile && sum}>{formattedSum}</Sum>
