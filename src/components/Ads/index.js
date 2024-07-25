@@ -16,7 +16,6 @@ const Ads = ({ type }) => {
   const [provider, setProvider] = useState('')
 
   useEffect(async () => {
-    // {"country_code":"BY","country_name":"Belarus","city":null,"postal":null,"latitude":53,"longitude":28,"IPv4":"178.127.75.35","state":null}
     async function getProvider() {
       try {
         let savedGeocode = localStorage.getItem(GEO_CODE)
@@ -33,10 +32,15 @@ const Ads = ({ type }) => {
           return
         }
 
-        const res = await axios.get('https://geolocation-db.com/json/')
-        if (res?.data?.country_code) {
-          // console.log('res.data:', res.data)
-          const geocode = res?.data?.country_code
+        // Broken:
+        // const res = await axios.get('https://geolocation-db.com/json/')
+        // {"country_code":"BY","country_name":"Belarus","city":null,"postal":null,"latitude":53,"longitude":28,"IPv4":"178.127.75.35","state":null}
+
+        const res = await axios.get('https://api.country.is/')
+        // {"ip":"178.127.120.40","country":"BY"}
+
+        if (res?.data?.country) {
+          const geocode = res?.data?.country
           localStorage.setItem(GEO_CODE, geocode)
           localStorage.setItem(GEO_TS, Date.now())
           if (YANDEX_CODES.includes(geocode)) {
