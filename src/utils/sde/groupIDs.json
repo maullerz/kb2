@@ -14170,6 +14170,15 @@
     "published": true,
     "useBasePrice": false
   },
+  "4719": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Rift",
+    "published": false,
+    "useBasePrice": false
+  },
   "4725": {
     "anchorable": false,
     "anchored": false,
@@ -14372,6 +14381,105 @@
     "name": "Structure Heavy Fighter",
     "published": true,
     "useBasePrice": false
+  },
+  "4795": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Angel Cartel Officer Cruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4796": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Angel Cartel Officer Frigate",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4797": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Blood Raiders Officer Cruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4798": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Blood Raiders Officer Frigate",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4799": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Guristas Officer Cruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4800": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Guristas Officer Frigate",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4801": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Sansha's Nation Officer Cruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4802": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Sansha's Nation Officer Frigate",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4803": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Serpentis Officer Cruiser",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4804": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Asteroid Serpentis Officer Frigate",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4821": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Atavum",
+    "published": true,
+    "useBasePrice": true
   },
   "350858": {
     "anchorable": false,

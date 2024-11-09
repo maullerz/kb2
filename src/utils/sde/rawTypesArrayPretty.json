@@ -18002,22 +18002,22 @@
   [
     9668,
     72,
-    "Large Rudimentary Concussion Bomb I"
+    "'Concussion' Compact Large Graviton Smartbomb"
   ],
   [
     9670,
     72,
-    "Small Rudimentary Concussion Bomb I"
+    "'Concussion' Compact Small Graviton Smartbomb"
   ],
   [
     9678,
     72,
-    "Large 'Vehemence' Shockwave Charge"
+    "'Vehemence' Compact Large EMP Smartbomb"
   ],
   [
     9680,
     72,
-    "Small 'Vehemence' Shockwave Charge"
+    "'Vehemence' Compact Small EMP Smartbomb"
   ],
   [
     9702,
@@ -18032,17 +18032,17 @@
   [
     9728,
     72,
-    "Medium Rudimentary Concussion Bomb I"
+    "'Concussion' Compact Medium Graviton Smartbomb"
   ],
   [
     9734,
     72,
-    "Medium 'Vehemence' Shockwave Charge"
+    "'Vehemence' Compact Medium EMP Smartbomb"
   ],
   [
     9744,
     72,
-    "Small 'Notos' Explosive Charge I"
+    "'Notos' Compact Small Proton Smartbomb"
   ],
   [
     9750,
@@ -18052,17 +18052,17 @@
   [
     9762,
     72,
-    "Medium 'Notos' Explosive Charge I"
+    "'Notos' Compact Medium Proton Smartbomb"
   ],
   [
     9772,
     72,
-    "Large 'Notos' Explosive Charge I"
+    "'Notos' Compact Large Proton Smartbomb"
   ],
   [
     9784,
     72,
-    "Small YF-12a Smartbomb"
+    "'YF-12a' Compact Small Plasma Smartbomb"
   ],
   [
     9790,
@@ -18072,12 +18072,12 @@
   [
     9800,
     72,
-    "Medium YF-12a Smartbomb"
+    "'YF-12a' Compact Medium Plasma Smartbomb"
   ],
   [
     9808,
     72,
-    "Large YF-12a Smartbomb"
+    "'YF-12a' Compact Large Plasma Smartbomb"
   ],
   [
     9826,
@@ -50702,32 +50702,32 @@
   [
     21534,
     72,
-    "Small Degenerative Concussion Bomb I"
+    "'Degenerative' Small Proton Smartbomb"
   ],
   [
     21535,
     152,
-    "Small Degenerative Concussion Bomb I Blueprint"
+    "'Degenerative' Small Proton Smartbomb Blueprint"
   ],
   [
     21536,
     72,
-    "Medium Degenerative Concussion Bomb I"
+    "'Dwindling' Medium Proton Smartbomb"
   ],
   [
     21537,
     152,
-    "Medium Degenerative Concussion Bomb I Blueprint"
+    "'Dwindling' Medium Proton Smartbomb Blueprint"
   ],
   [
     21538,
     72,
-    "Large Degenerative Concussion Bomb I"
+    "'Regressive' Large Proton Smartbomb"
   ],
   [
     21539,
     152,
-    "Large Degenerative Concussion Bomb I Blueprint"
+    "'Regressive' Large Proton Smartbomb Blueprint"
   ],
   [
     21540,
@@ -59937,32 +59937,32 @@
   [
     23864,
     72,
-    "'Pike' Small EMP Smartbomb I"
+    "'Pike' Small EMP Smartbomb"
   ],
   [
     23865,
     152,
-    "'Pike' Small EMP Smartbomb I Blueprint"
+    "'Pike' Small EMP Smartbomb Blueprint"
   ],
   [
     23866,
     72,
-    "'Lance' Medium EMP Smartbomb I"
+    "'Lance' Medium EMP Smartbomb"
   ],
   [
     23867,
     152,
-    "'Lance' Medium EMP Smartbomb I Blueprint"
+    "'Lance' Medium EMP Smartbomb Blueprint"
   ],
   [
     23868,
     72,
-    "'Warhammer' Large EMP Smartbomb I"
+    "'Warhammer' Large EMP Smartbomb"
   ],
   [
     23869,
     152,
-    "'Warhammer' Large EMP Smartbomb I Blueprint"
+    "'Warhammer' Large EMP Smartbomb Blueprint"
   ],
   [
     23871,
@@ -127477,27 +127477,27 @@
   [
     54031,
     4034,
-    "Scout  State Navy Cerberus"
+    "Scout State Navy Cerberus"
   ],
   [
     54032,
     4034,
-    "Scout  State Navy Rook"
+    "Scout State Navy Rook"
   ],
   [
     54033,
     4034,
-    "Scout  State Navy Drake"
+    "Scout State Navy Drake"
   ],
   [
     54034,
     4034,
-    "Scout  State Navy Scorpion"
+    "Scout State Navy Scorpion"
   ],
   [
     54035,
     4034,
-    "Scout  State Navy Raven"
+    "Scout State Navy Raven"
   ],
   [
     54036,
@@ -152002,12 +152002,12 @@
   [
     73431,
     474,
-    "Crimson Gauntlet Shortcut Keypass"
+    "Expired Crimson Gauntlet Shortcut Keypass"
   ],
   [
     73432,
     474,
-    "Tetrimon Base Shortcut Keypass"
+    "Expired Tetrimon Base Shortcut Keypass"
   ],
   [
     73436,
@@ -160907,17 +160907,17 @@
   [
     77451,
     227,
-    "[HF] Triglavian Easy Spawner"
+    "[HF] Push Your Luck - Triglavian Easy Spawner"
   ],
   [
     77452,
     227,
-    "[HF] Sleeper Easy Spawner"
+    "[HF] Push Your Luck - Sleeper Easy Spawner"
   ],
   [
     77453,
     227,
-    "[HF] Sleeper Medium Spawner"
+    "[HF] Push Your Luck - Sleeper Medium Spawner"
   ],
   [
     77454,
@@ -160927,17 +160927,17 @@
   [
     77455,
     227,
-    "[HF] Rogue Drone Medium Spawner"
+    "[HF] Push Your Luck - Rogue Drone Medium Spawner"
   ],
   [
     77456,
     227,
-    "[HF] Triglavian Hard Spawner"
+    "[HF] Push Your Luck - Triglavian Hard Spawner"
   ],
   [
     77457,
     227,
-    "[HF] Sleeper Hard Spawner"
+    "[HF] Push Your Luck - Sleeper Hard Spawner"
   ],
   [
     77458,
@@ -160947,12 +160947,12 @@
   [
     77459,
     227,
-    "[HF] Rogue Drone Hard Spawner"
+    "[HF] Push Your Luck - Rogue Drone Hard Spawner"
   ],
   [
     77460,
     227,
-    "[HF] Killer Spawner"
+    "[HF] Push Your Luck - Drifter Spawner"
   ],
   [
     77461,
@@ -160962,12 +160962,12 @@
   [
     77462,
     227,
-    "[HF] Rogue Drone Easy Spawner"
+    "[HF] Push Your Luck - Rogue Drone Easy Spawner"
   ],
   [
     77463,
     227,
-    "[HF] Triglavian Medium Spawner"
+    "[HF] Push Your Luck - Triglavian Medium Spawner"
   ],
   [
     77468,
@@ -162021,7 +162021,7 @@
   ],
   [
     77727,
-    306,
+    4576,
     "Faulty Triglavian Cache"
   ],
   [
@@ -166837,122 +166837,142 @@
   [
     80342,
     303,
-    "Basic Capsuleer Day XXI Cerebral Accelerator"
+    "Expired Basic Capsuleer Day XXI Cerebral Accelerator"
   ],
   [
     80343,
     303,
-    "Extended Capsuleer Day XXI Cerebral Accelerator"
+    "Expired Extended Capsuleer Day XXI Cerebral Accelerator"
   ],
   [
     80344,
     303,
-    "Potent Capsuleer Day XXI Cerebral Accelerator"
+    "Expired Potent Capsuleer Day XXI Cerebral Accelerator"
   ],
   [
     80352,
     303,
-    "Basic Capsuleer Day XXI Glamourex Booster"
+    "Expired Basic Capsuleer Day XXI Glamourex Booster"
   ],
   [
     80353,
     303,
-    "Extended Capsuleer Day XXI Glamourex Booster"
+    "Expired Extended Capsuleer Day XXI Glamourex Booster"
   ],
   [
     80354,
     303,
-    "Potent Capsuleer Day XXI Glamourex Booster"
+    "Expired Potent Capsuleer Day XXI Glamourex Booster"
   ],
   [
     80357,
     303,
-    "SoCT Relic Range Booster I"
+    "Expired SoCT Relic Range Booster I"
   ],
   [
     80358,
     303,
-    "SoCT Relic Range Booster II"
+    "Expired SoCT Relic Range Booster II"
   ],
   [
     80359,
     303,
-    "SoCT Relic Range Booster III"
+    "Expired SoCT Relic Range Booster III"
   ],
   [
     80360,
     303,
-    "SoCT Relic Coherence Booster I"
+    "Expired SoCT Relic Coherence Booster I"
   ],
   [
     80361,
     303,
-    "SoCT Relic Coherence Booster II"
+    "Expired SoCT Relic Coherence Booster II"
   ],
   [
     80362,
     303,
-    "SoCT Relic Coherence Booster III"
+    "Expired SoCT Relic Coherence Booster III"
   ],
   [
     80363,
     303,
-    "SoCT Relic Strength Booster I"
+    "Expired SoCT Relic Strength Booster I"
   ],
   [
     80364,
     303,
-    "SoCT Relic Strength Booster II"
+    "Expired SoCT Relic Strength Booster II"
   ],
   [
     80365,
     303,
-    "SoCT Relic Strength Booster III"
+    "Expired SoCT Relic Strength Booster III"
   ],
   [
     80366,
     303,
-    "SoCT Repairer Booster I"
+    "Expired SoCT Repairer Booster I"
   ],
   [
     80367,
     303,
-    "SoCT Repairer Booster II"
+    "Expired SoCT Repairer Booster II"
   ],
   [
     80368,
     303,
-    "SoCT Repairer Booster III"
+    "Expired SoCT Repairer Booster III"
   ],
   [
     80369,
     303,
-    "SoCT Turret Booster I"
+    "Expired SoCT Turret Booster I"
   ],
   [
     80370,
     303,
-    "SoCT Turret Booster II"
+    "Expired SoCT Turret Booster II"
   ],
   [
     80371,
     303,
-    "SoCT Turret Booster III"
+    "Expired SoCT Turret Booster III"
+  ],
+  [
+    80372,
+    4719,
+    "Deepflow Rift"
   ],
   [
     80379,
     303,
-    "SoCT Capacitor Booster I"
+    "Expired SoCT Capacitor Booster I"
   ],
   [
     80380,
     303,
-    "SoCT Capacitor Booster II"
+    "Expired SoCT Capacitor Booster II"
   ],
   [
     80381,
     303,
-    "SoCT Capacitor Booster III"
+    "Expired SoCT Capacitor Booster III"
+  ],
+  [
+    80382,
+    1194,
+    "Deepflow Adaptive Canister"
+  ],
+  [
+    80387,
+    1194,
+    "Indecipherable Cache Chart"
+  ],
+  [
+    80388,
+    227,
+    "Abyssal Retrieval Spawner - DO NOT TRANSLATE"
   ],
   [
     80425,
@@ -167007,47 +167027,47 @@
   [
     80757,
     303,
-    "SoCT Agility Booster I"
+    "Expired SoCT Agility Booster I"
   ],
   [
     80760,
     303,
-    "SoCT Agility Booster II"
+    "Expired SoCT Agility Booster II"
   ],
   [
     80763,
     303,
-    "SoCT Agility Booster III"
+    "Expired SoCT Agility Booster III"
   ],
   [
     80765,
     303,
-    "SoCT Armor Booster I"
+    "Expired SoCT Armor Booster I"
   ],
   [
     80767,
     303,
-    "SoCT Armor Booster II"
+    "Expired SoCT Armor Booster II"
   ],
   [
     80768,
     303,
-    "SoCT Armor Booster III"
+    "Expired SoCT Armor Booster III"
   ],
   [
     80769,
     303,
-    "SoCT Scan Booster I"
+    "Expired SoCT Scan Booster I"
   ],
   [
     80770,
     303,
-    "SoCT Scan Booster II"
+    "Expired SoCT Scan Booster II"
   ],
   [
     80773,
     303,
-    "SoCT Scan Booster III"
+    "Expired SoCT Scan Booster III"
   ],
   [
     80806,
@@ -168272,12 +168292,12 @@
   [
     81370,
     4734,
-    "Design Concepting"
+    "Studio Management"
   ],
   [
     81371,
     4734,
-    "Design Iteration"
+    "Advanced Studio Management"
   ],
   [
     81372,
@@ -169612,142 +169632,142 @@
   [
     82579,
     4768,
-    "Tritanium Prospecting Array 2"
+    "Tritanium Prospecting Array 1"
   ],
   [
     82580,
     4768,
-    "Isogen Prospecting Array 1"
+    "Isogen Prospecting Array 2"
   ],
   [
     82581,
     4768,
-    "Isogen Prospecting Array 2"
+    "Isogen Prospecting Array 1"
   ],
   [
     82582,
     4768,
-    "Nocxium Prospecting Array 1"
+    "Nocxium Prospecting Array 2"
   ],
   [
     82583,
     4768,
-    "Nocxium Prospecting Array 2"
+    "Nocxium Prospecting Array 1"
   ],
   [
     82584,
     4768,
-    "Zydrine Prospecting Array 1"
+    "Zydrine Prospecting Array 2"
   ],
   [
     82585,
     4768,
-    "Zydrine Prospecting Array 2"
+    "Zydrine Prospecting Array 1"
   ],
   [
     82586,
     4768,
-    "Megacyte Prospecting Array 1"
+    "Megacyte Prospecting Array 2"
   ],
   [
     82587,
     4768,
-    "Megacyte Prospecting Array 2"
+    "Megacyte Prospecting Array 1"
   ],
   [
     82588,
     4768,
-    "Pyerite Prospecting Array 1"
+    "Pyerite Prospecting Array 2"
   ],
   [
     82589,
     4768,
-    "Pyerite Prospecting Array 2"
+    "Pyerite Prospecting Array 1"
   ],
   [
     82590,
     4768,
-    "Mexallon Prospecting Array 1"
+    "Mexallon Prospecting Array 2"
   ],
   [
     82591,
     4768,
-    "Mexallon Prospecting Array 2"
+    "Mexallon Prospecting Array 1"
   ],
   [
     82592,
     4768,
-    "Tritanium Prospecting Array 1"
+    "Tritanium Prospecting Array 2"
   ],
   [
     82594,
     1317,
-    "Megacyte Prospecting Array 2 Blueprint"
+    "Megacyte Prospecting Array 1 Blueprint"
   ],
   [
     82595,
     1317,
-    "Megacyte Prospecting Array 1 Blueprint"
+    "Megacyte Prospecting Array 2 Blueprint"
   ],
   [
     82596,
     1317,
-    "Zydrine Prospecting Array 2 Blueprint"
+    "Zydrine Prospecting Array 1 Blueprint"
   ],
   [
     82597,
     1317,
-    "Zydrine Prospecting Array 1 Blueprint"
+    "Zydrine Prospecting Array 2 Blueprint"
   ],
   [
     82598,
     1317,
-    "Nocxium Prospecting Array 2 Blueprint"
+    "Nocxium Prospecting Array 1 Blueprint"
   ],
   [
     82599,
     1317,
-    "Nocxium Prospecting Array 1 Blueprint"
+    "Nocxium Prospecting Array 2 Blueprint"
   ],
   [
     82600,
     1317,
-    "Isogen Prospecting Array 2 Blueprint"
+    "Isogen Prospecting Array 1 Blueprint"
   ],
   [
     82601,
     1317,
-    "Isogen Prospecting Array 1 Blueprint"
+    "Isogen Prospecting Array 2 Blueprint"
   ],
   [
     82602,
     1317,
-    "Mexallon Prospecting Array 2 Blueprint"
+    "Mexallon Prospecting Array 1 Blueprint"
   ],
   [
     82603,
     1317,
-    "Mexallon Prospecting Array 1 Blueprint"
+    "Mexallon Prospecting Array 2 Blueprint"
   ],
   [
     82604,
     1317,
-    "Pyerite Prospecting Array 2 Blueprint"
+    "Pyerite Prospecting Array 1 Blueprint"
   ],
   [
     82605,
     1317,
-    "Pyerite Prospecting Array 1 Blueprint"
+    "Pyerite Prospecting Array 2 Blueprint"
   ],
   [
     82606,
     1317,
-    "Tritanium Prospecting Array 2 Blueprint"
+    "Tritanium Prospecting Array 1 Blueprint"
   ],
   [
     82607,
     1317,
-    "Tritanium Prospecting Array 1 Blueprint"
+    "Tritanium Prospecting Array 2 Blueprint"
   ],
   [
     82609,
@@ -171360,6 +171380,31 @@
     "Orbital Skyhook Wreck"
   ],
   [
+    83909,
+    227,
+    "[HF] Weather Effect - Electrical  - Easy"
+  ],
+  [
+    83910,
+    227,
+    "[HF] Weather Effect - Dark - Easy"
+  ],
+  [
+    83911,
+    227,
+    "[HF] Weather Effect - Gamma - Easy"
+  ],
+  [
+    83912,
+    227,
+    "[HF] Weather Effect - Firestorm - Easy"
+  ],
+  [
+    83913,
+    227,
+    "[HF] Weather Effect - Exotic - Easy"
+  ],
+  [
     83921,
     4726,
     "Holovisual Violet Matte - Limited"
@@ -171418,5 +171463,1845 @@
     84016,
     4726,
     "United Front - Limited"
+  ],
+  [
+    84088,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84089,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84090,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84091,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84092,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84093,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84094,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84095,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84096,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84097,
+    4726,
+    "Intaki Emerald Metallic - Limited"
+  ],
+  [
+    84163,
+    4726,
+    "Ancestral Fireclay Matte - Limited"
+  ],
+  [
+    84164,
+    4726,
+    "Flowers of Matar Satin - Limited"
+  ],
+  [
+    84165,
+    4726,
+    "Darkness Forged Ferros Metallic - Limited"
+  ],
+  [
+    84166,
+    4726,
+    "Freedom's Foundation - Limited"
+  ],
+  [
+    84167,
+    4726,
+    "True Blue Loyalty Matte - Limited"
+  ],
+  [
+    84168,
+    4726,
+    "Dark Duty Gloss - Limited"
+  ],
+  [
+    84169,
+    4726,
+    "State Concrete Gloss - Limited"
+  ],
+  [
+    84170,
+    4726,
+    "Silver Honor Metallic - Limited"
+  ],
+  [
+    84171,
+    4726,
+    "Mountain Wind Spirit - Limited"
+  ],
+  [
+    84172,
+    4726,
+    "Divine Arch - Limited"
+  ],
+  [
+    84173,
+    4726,
+    "Imperial Gold Metallic - Limited"
+  ],
+  [
+    84174,
+    4726,
+    "Sands of the Chosen Gloss - Limited"
+  ],
+  [
+    84175,
+    4726,
+    "Epitoth Eclipse Gloss - Limited"
+  ],
+  [
+    84177,
+    4726,
+    "Scientific Panache Satin - Limited"
+  ],
+  [
+    84178,
+    4726,
+    "Insightful Azure Metallic - Limited"
+  ],
+  [
+    84179,
+    4726,
+    "Citizen Cyan Metallic - Limited"
+  ],
+  [
+    84212,
+    4726,
+    "Pillars of the Republic - Limited"
+  ],
+  [
+    84217,
+    4734,
+    "Paragon Relations"
+  ],
+  [
+    84218,
+    4734,
+    "Paragon Partnership"
+  ],
+  [
+    84220,
+    4734,
+    "Executive Paragon Partnership"
+  ],
+  [
+    84271,
+    303,
+    "Basic 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    84272,
+    303,
+    "Potent 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    84273,
+    303,
+    "Extended 'Radiance' Cerebral Accelerator"
+  ],
+  [
+    84294,
+    319,
+    "Horizon Breach Engine"
+  ],
+  [
+    84297,
+    303,
+    "Harvest Anti-Disruptor Booster I"
+  ],
+  [
+    84298,
+    303,
+    "Harvest Anti-Disruptor Booster II"
+  ],
+  [
+    84299,
+    303,
+    "Harvest Anti-Disruptor Booster III"
+  ],
+  [
+    84300,
+    303,
+    "Harvest Anti-Disruptor Booster IV"
+  ],
+  [
+    84301,
+    303,
+    "Harvest Nosferatu Booster I"
+  ],
+  [
+    84302,
+    303,
+    "Harvest Nosferatu Booster II"
+  ],
+  [
+    84303,
+    303,
+    "Harvest Nosferatu Booster III"
+  ],
+  [
+    84304,
+    303,
+    "Harvest Nosferatu Booster IV"
+  ],
+  [
+    84305,
+    303,
+    "Harvest Webifier Booster I"
+  ],
+  [
+    84306,
+    303,
+    "Harvest Webifier Booster II"
+  ],
+  [
+    84307,
+    303,
+    "Harvest Webifier Booster III"
+  ],
+  [
+    84308,
+    303,
+    "Harvest Webifier Booster IV"
+  ],
+  [
+    84309,
+    303,
+    "Harvest Damage Booster I"
+  ],
+  [
+    84310,
+    303,
+    "Harvest Damage Booster II"
+  ],
+  [
+    84311,
+    303,
+    "Harvest Damage Booster III"
+  ],
+  [
+    84312,
+    303,
+    "Harvest Damage Booster IV"
+  ],
+  [
+    84313,
+    303,
+    "Tetrimon Anti-Drain Booster I"
+  ],
+  [
+    84314,
+    303,
+    "Tetrimon Anti-Drain Booster II"
+  ],
+  [
+    84315,
+    303,
+    "Tetrimon Anti-Drain Booster III"
+  ],
+  [
+    84316,
+    303,
+    "Tetrimon Anti-Drain Booster IV"
+  ],
+  [
+    84317,
+    303,
+    "Tetrimon Capacitor Booster I"
+  ],
+  [
+    84318,
+    303,
+    "Tetrimon Capacitor Booster II"
+  ],
+  [
+    84319,
+    303,
+    "Tetrimon Capacitor Booster III"
+  ],
+  [
+    84320,
+    303,
+    "Tetrimon Capacitor Booster IV"
+  ],
+  [
+    84321,
+    303,
+    "Tetrimon Resistance Booster I"
+  ],
+  [
+    84322,
+    303,
+    "Tetrimon Resistance Booster II"
+  ],
+  [
+    84323,
+    303,
+    "Tetrimon Resistance Booster III"
+  ],
+  [
+    84324,
+    303,
+    "Tetrimon Resistance Booster IV"
+  ],
+  [
+    84325,
+    303,
+    "Tetrimon Precision Booster I"
+  ],
+  [
+    84326,
+    303,
+    "Tetrimon Precision Booster II"
+  ],
+  [
+    84327,
+    303,
+    "Tetrimon Precision Booster III"
+  ],
+  [
+    84328,
+    303,
+    "Tetrimon Precision Booster IV"
+  ],
+  [
+    84329,
+    1975,
+    "Non-Interactable Wormhole - DO NOT TRANSLATE"
+  ],
+  [
+    84354,
+    227,
+    "AoE Scrambler 60k"
+  ],
+  [
+    84358,
+    952,
+    "Phryctorian Generator"
+  ],
+  [
+    84359,
+    1975,
+    "Non-Interactable Sentry Gun - DO NOT TRANSLATE"
+  ],
+  [
+    84398,
+    1964,
+    "Decayed Large EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84399,
+    1964,
+    "Decayed Large Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84400,
+    1964,
+    "Decayed Medium EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84401,
+    1964,
+    "Decayed Medium Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84402,
+    1964,
+    "Decayed Medium Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84403,
+    1964,
+    "Decayed Medium Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84404,
+    1964,
+    "Decayed Small EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84405,
+    1964,
+    "Decayed Small Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84406,
+    1964,
+    "Decayed Small Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84407,
+    1964,
+    "Decayed Small Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84408,
+    1964,
+    "Decayed Large Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84409,
+    1964,
+    "Decayed Large Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84410,
+    1964,
+    "Gravid Small EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84411,
+    1964,
+    "Gravid Small Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84412,
+    1964,
+    "Gravid Small Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84413,
+    1964,
+    "Gravid Small Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84414,
+    1964,
+    "Gravid Large Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84415,
+    1964,
+    "Gravid Large Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84416,
+    1964,
+    "Gravid Large EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84417,
+    1964,
+    "Gravid Large Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84418,
+    1964,
+    "Gravid Medium EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84419,
+    1964,
+    "Gravid Medium Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84420,
+    1964,
+    "Gravid Medium Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84421,
+    1964,
+    "Gravid Medium Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84422,
+    1964,
+    "Unstable Large EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84423,
+    1964,
+    "Unstable Large Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84424,
+    1964,
+    "Unstable Medium EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84425,
+    1964,
+    "Unstable Medium Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84426,
+    1964,
+    "Unstable Medium Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84427,
+    1964,
+    "Unstable Medium Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84428,
+    1964,
+    "Unstable Small EMP Smartbomb Mutaplasmid"
+  ],
+  [
+    84429,
+    1964,
+    "Unstable Small Plasma Smartbomb Mutaplasmid"
+  ],
+  [
+    84430,
+    1964,
+    "Unstable Small Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84431,
+    1964,
+    "Unstable Small Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84432,
+    1964,
+    "Unstable Large Graviton Smartbomb Mutaplasmid"
+  ],
+  [
+    84433,
+    1964,
+    "Unstable Large Proton Smartbomb Mutaplasmid"
+  ],
+  [
+    84434,
+    72,
+    "Large Abyssal EMP Smartbomb"
+  ],
+  [
+    84435,
+    72,
+    "Large Abyssal Plasma Smartbomb"
+  ],
+  [
+    84436,
+    72,
+    "Large Abyssal Graviton Smartbomb"
+  ],
+  [
+    84437,
+    72,
+    "Large Abyssal Proton Smartbomb"
+  ],
+  [
+    84438,
+    72,
+    "Medium Abyssal EMP Smartbomb"
+  ],
+  [
+    84439,
+    72,
+    "Medium Abyssal Plasma Smartbomb"
+  ],
+  [
+    84440,
+    72,
+    "Medium Abyssal Graviton Smartbomb"
+  ],
+  [
+    84441,
+    72,
+    "Medium Abyssal Proton Smartbomb"
+  ],
+  [
+    84442,
+    72,
+    "Small Abyssal EMP Smartbomb"
+  ],
+  [
+    84443,
+    72,
+    "Small Abyssal Plasma Smartbomb"
+  ],
+  [
+    84444,
+    72,
+    "Small Abyssal Graviton Smartbomb"
+  ],
+  [
+    84445,
+    72,
+    "Small Abyssal Proton Smartbomb"
+  ],
+  [
+    84457,
+    227,
+    "AoE Tractor Beam Repeating Blocker 300k"
+  ],
+  [
+    84467,
+    186,
+    "Faulty Triglavian Cache Wreck"
+  ],
+  [
+    84468,
+    1568,
+    "Corrupted Candiru"
+  ],
+  [
+    84469,
+    1568,
+    "Alienator Synanceia"
+  ],
+  [
+    84470,
+    1568,
+    "Alienator Pterois"
+  ],
+  [
+    84471,
+    1568,
+    "Machinist Cubozoa"
+  ],
+  [
+    84472,
+    1568,
+    "Alienator Barracuda"
+  ],
+  [
+    84473,
+    1664,
+    "Corrupted Muraenidae "
+  ],
+  [
+    84474,
+    1194,
+    "Azdaja Statuette"
+  ],
+  [
+    84475,
+    1194,
+    "Frozen Ryba"
+  ],
+  [
+    84482,
+    474,
+    "Tetrimon Base Shortcut Keypass"
+  ],
+  [
+    84483,
+    474,
+    "Crimson Gauntlet Shortcut Keypass"
+  ],
+  [
+    84495,
+    72,
+    "'Blasting' Large Graviton Smartbomb"
+  ],
+  [
+    84496,
+    72,
+    "'Scalding' Large Plasma Smartbomb"
+  ],
+  [
+    84497,
+    72,
+    "'Booming' Medium Graviton Smartbomb"
+  ],
+  [
+    84498,
+    72,
+    "'Boiling' Medium Plasma Smartbomb"
+  ],
+  [
+    84499,
+    72,
+    "'Roaring' Small Graviton Smartbomb"
+  ],
+  [
+    84500,
+    72,
+    "'Seething' Small Plasma Smartbomb"
+  ],
+  [
+    84501,
+    152,
+    "'Blasting' Large Graviton Smartbomb Blueprint"
+  ],
+  [
+    84502,
+    152,
+    "'Scalding' Large Plasma Smartbomb Blueprint"
+  ],
+  [
+    84503,
+    152,
+    "'Booming' Medium Graviton Smartbomb Blueprint"
+  ],
+  [
+    84504,
+    152,
+    "'Boiling' Medium Plasma Smartbomb Blueprint"
+  ],
+  [
+    84505,
+    152,
+    "'Roaring' Small Graviton Smartbomb Blueprint"
+  ],
+  [
+    84506,
+    152,
+    "'Seething' Small Plasma Smartbomb Blueprint"
+  ],
+  [
+    84507,
+    314,
+    "Spectral Emission Slice γ"
+  ],
+  [
+    84519,
+    1194,
+    "Tau Decay Resonance"
+  ],
+  [
+    84520,
+    1194,
+    "Electron Spin Resonance"
+  ],
+  [
+    84521,
+    1194,
+    "Muon Cosmic Resonance"
+  ],
+  [
+    84524,
+    227,
+    "Horizon Siege Point - EW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84525,
+    227,
+    "Horizon Siege Point - MW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84526,
+    227,
+    "Horizon Siege Point - HW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84527,
+    227,
+    "Horizon Siege Point - FW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84528,
+    227,
+    "Horizon Siege Point - EB Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84529,
+    227,
+    "Horizon Siege Point - MB Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84530,
+    227,
+    "Horizon Siege Point - HB Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84531,
+    227,
+    "Horizon Siege Point - FB Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84532,
+    227,
+    "Horizon Siege Point - GB Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84547,
+    1665,
+    "Allecto Tyrannos"
+  ],
+  [
+    84548,
+    1665,
+    "Megaera Tyrannos"
+  ],
+  [
+    84549,
+    1665,
+    "PLACEHOLDER C"
+  ],
+  [
+    84550,
+    1665,
+    "Drifter Siege Cruiser"
+  ],
+  [
+    84551,
+    1667,
+    "Tyrannos Strategos"
+  ],
+  [
+    84619,
+    1568,
+    "Enervating Doru"
+  ],
+  [
+    84620,
+    1568,
+    "Enervating Sarrisae"
+  ],
+  [
+    84631,
+    1568,
+    "Soothing Aspis"
+  ],
+  [
+    84632,
+    1568,
+    "Stirring Doru"
+  ],
+  [
+    84633,
+    1664,
+    "Enervating Xiphos"
+  ],
+  [
+    84634,
+    1664,
+    "Stirring Xiphos"
+  ],
+  [
+    84635,
+    1665,
+    "Risen Akontia"
+  ],
+  [
+    84636,
+    1665,
+    "Soothing Linothorax"
+  ],
+  [
+    84637,
+    1665,
+    "Enervating Akontia"
+  ],
+  [
+    84638,
+    1667,
+    "Watchful Labrys"
+  ],
+  [
+    84639,
+    1667,
+    "Enervating Kopis"
+  ],
+  [
+    84647,
+    314,
+    "Spectral Emission Slice θ"
+  ],
+  [
+    84648,
+    314,
+    "Spectral Emission Slice δ"
+  ],
+  [
+    84649,
+    314,
+    "Spectral Emission Slice ε"
+  ],
+  [
+    84650,
+    314,
+    "Spectral Emission Slice ζ"
+  ],
+  [
+    84651,
+    314,
+    "Spectral Emission Slice η"
+  ],
+  [
+    84652,
+    314,
+    "Spectral Emission Slice λ"
+  ],
+  [
+    84653,
+    314,
+    "Spectral Emission Slice π"
+  ],
+  [
+    84654,
+    314,
+    "Spectral Emission Slice τ"
+  ],
+  [
+    84655,
+    314,
+    "Spectral Emission Slice φ"
+  ],
+  [
+    84656,
+    314,
+    "Spectral Emission Slice μ"
+  ],
+  [
+    84657,
+    314,
+    "Spectral Emission Slice ξ"
+  ],
+  [
+    84658,
+    314,
+    "Spectral Emission Slice Σ"
+  ],
+  [
+    84659,
+    314,
+    "Spectral Emission Slice Ω"
+  ],
+  [
+    84660,
+    314,
+    "Spectral Emission Slice α"
+  ],
+  [
+    84740,
+    72,
+    "Allecto's Modified Medium Multispectrum Smartbomb"
+  ],
+  [
+    84741,
+    68,
+    "Megaera's Modified Medium Energy Nosferatu"
+  ],
+  [
+    84742,
+    379,
+    "Tisiphone's Modified Target Painter"
+  ],
+  [
+    84743,
+    1672,
+    "Strategos' Modified Heavy Stasis Grappler"
+  ],
+  [
+    84807,
+    4726,
+    "Deprecated - Do not publish"
+  ],
+  [
+    84808,
+    4726,
+    "Deprecated - Do not publish"
+  ],
+  [
+    84812,
+    227,
+    "Horizon Siege Point - Roaming Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    84926,
+    4796,
+    "Ramaku Basta"
+  ],
+  [
+    84927,
+    186,
+    "Angel Officer Frigate Wreck"
+  ],
+  [
+    84928,
+    186,
+    "Angel Officer Cruiser Wreck"
+  ],
+  [
+    84929,
+    186,
+    "Blood Officer Frigate Wreck"
+  ],
+  [
+    84930,
+    186,
+    "Blood Officer Cruiser Wreck"
+  ],
+  [
+    84931,
+    186,
+    "Guristas Officer Frigate Wreck"
+  ],
+  [
+    84932,
+    186,
+    "Guristas Officer Cruiser Wreck"
+  ],
+  [
+    84933,
+    186,
+    "Sansha Officer Frigate Wreck"
+  ],
+  [
+    84934,
+    186,
+    "Sansha Officer Cruiser Wreck"
+  ],
+  [
+    84935,
+    186,
+    "Serpentis Officer Frigate Wreck"
+  ],
+  [
+    84936,
+    186,
+    "Serpentis Officer Cruiser Wreck"
+  ],
+  [
+    84945,
+    4798,
+    "Makra Ozman"
+  ],
+  [
+    84946,
+    4800,
+    "Panola Paatama"
+  ],
+  [
+    84947,
+    4802,
+    "Usaras Koirola"
+  ],
+  [
+    84948,
+    4804,
+    "Asine Hitama"
+  ],
+  [
+    84950,
+    4795,
+    "Sila Aajai"
+  ],
+  [
+    84951,
+    4803,
+    "Gara Minsk"
+  ],
+  [
+    84952,
+    4797,
+    "Ryhad Sethrim"
+  ],
+  [
+    84953,
+    4799,
+    "Hanaruwa Oittenen"
+  ],
+  [
+    84954,
+    4801,
+    "Nija Zufa"
+  ],
+  [
+    84959,
+    339,
+    "Makra's Modified Micro Auxiliary Power Core"
+  ],
+  [
+    84961,
+    60,
+    "Asine's Modified Assault Damage Control"
+  ],
+  [
+    84962,
+    46,
+    "Asine's Modified 5MN Microwarpdrive"
+  ],
+  [
+    84963,
+    46,
+    "Ramaku's Modified 5MN Microwarpdrive"
+  ],
+  [
+    84964,
+    46,
+    "Sila's Modified 50MN Microwarpdrive"
+  ],
+  [
+    84965,
+    46,
+    "Gara's Modified 50MN Microwarpdrive"
+  ],
+  [
+    84966,
+    46,
+    "Asine's Modified 1MN Afterburner"
+  ],
+  [
+    84967,
+    46,
+    "Ramaku's Modified 1MN Afterburner"
+  ],
+  [
+    84968,
+    46,
+    "Gara's Modified 10MN Afterburner"
+  ],
+  [
+    84969,
+    46,
+    "Sila's Modified 10MN Afterburner"
+  ],
+  [
+    84970,
+    62,
+    "Asine's Modified Small Armor Repairer"
+  ],
+  [
+    84971,
+    62,
+    "Makra's Modified Small Armor Repairer"
+  ],
+  [
+    84972,
+    62,
+    "Gara's Modified Medium Armor Repairer"
+  ],
+  [
+    84973,
+    62,
+    "Ryhad's Modified Medium Armor Repairer"
+  ],
+  [
+    84985,
+    325,
+    "Asine's Modified Small Remote Armor Repairer"
+  ],
+  [
+    84986,
+    325,
+    "Makra's Modified Small Remote Armor Repairer"
+  ],
+  [
+    84987,
+    325,
+    "Gara's Modified Medium Remote Armor Repairer"
+  ],
+  [
+    84988,
+    325,
+    "Ryhad's Modified Medium Remote Armor Repairer"
+  ],
+  [
+    84989,
+    68,
+    "Makra's Modified Small Energy Nosferatu"
+  ],
+  [
+    84991,
+    71,
+    "Makra's Modified Small Energy Neutralizer"
+  ],
+  [
+    84992,
+    71,
+    "Ryhad's Modified Medium Energy Neutralizer"
+  ],
+  [
+    84993,
+    68,
+    "Ryhad's Modified Medium Energy Nosferatu"
+  ],
+  [
+    84994,
+    41,
+    "Panola's Modified Small Remote Shield Booster"
+  ],
+  [
+    84995,
+    41,
+    "Ramaku's Modified Small Remote Shield Booster"
+  ],
+  [
+    84996,
+    41,
+    "Hanaruwa's Modified Medium Remote Shield Booster"
+  ],
+  [
+    84997,
+    41,
+    "Sila's Modified Medium Remote Shield Booster"
+  ],
+  [
+    84998,
+    40,
+    "Ramaku's Modified Small Shield Booster"
+  ],
+  [
+    84999,
+    40,
+    "Panola's Modified Small Shield Booster"
+  ],
+  [
+    85000,
+    40,
+    "Sila's Modified Medium Shield Booster"
+  ],
+  [
+    85001,
+    40,
+    "Hanaruwa's Modified Medium Shield Booster"
+  ],
+  [
+    85002,
+    201,
+    "Panola's Modified Ladar ECM"
+  ],
+  [
+    85003,
+    201,
+    "Panola's Modified Radar ECM"
+  ],
+  [
+    85004,
+    201,
+    "Panola's Modified Magnetometric ECM"
+  ],
+  [
+    85005,
+    201,
+    "Panola's Modified Gravimetric ECM"
+  ],
+  [
+    85006,
+    514,
+    "Dread Guristas Signal Distortion Amplifier"
+  ],
+  [
+    85007,
+    514,
+    "Hanaruwa's Modified Signal Distortion Amplifier"
+  ],
+  [
+    85008,
+    74,
+    "Asine's Modified Light Neutron Blaster"
+  ],
+  [
+    85009,
+    74,
+    "Gara's Modified Navy Heavy Neutron Blaster"
+  ],
+  [
+    85010,
+    55,
+    "Ramaku's Modified 200mm AutoCannon"
+  ],
+  [
+    85011,
+    55,
+    "Sila's Modified 425mm Autocannon"
+  ],
+  [
+    85012,
+    53,
+    "Makra's Modified Small Focused Pulse Laser"
+  ],
+  [
+    85013,
+    53,
+    "Usaras' Modified Small Focused Pulse Laser"
+  ],
+  [
+    85014,
+    53,
+    "Ryhad's Modified Heavy Pulse Laser"
+  ],
+  [
+    85015,
+    53,
+    "Nija's Modified Heavy Pulse Laser"
+  ],
+  [
+    85021,
+    507,
+    "Panola's Modified Rocket Launcher"
+  ],
+  [
+    85023,
+    771,
+    "Hanaruwa's Modified Heavy Assault Missile Launcher"
+  ],
+  [
+    85025,
+    46,
+    "Usaras' Modified 1MN Afterburner"
+  ],
+  [
+    85026,
+    46,
+    "Nija's Modified 10MN Afterburner"
+  ],
+  [
+    85027,
+    76,
+    "Usaras' Modified Small Capacitor Booster"
+  ],
+  [
+    85028,
+    76,
+    "Nija's Modified Medium Capacitor Booster"
+  ],
+  [
+    85031,
+    46,
+    "True Sansha 1MN Afterburner"
+  ],
+  [
+    85032,
+    46,
+    "True Sansha 10MN Afterburner"
+  ],
+  [
+    85033,
+    67,
+    "Usaras' Modified Small Remote Capacitor Transmitter"
+  ],
+  [
+    85034,
+    67,
+    "Nija's Modified Medium Remote Capacitor Transmitter"
+  ],
+  [
+    85035,
+    899,
+    "Nija's Modified Warp Disruption Field Generator"
+  ],
+  [
+    85057,
+    186,
+    "Horizon Breach Engine Wreck"
+  ],
+  [
+    85062,
+    830,
+    "Sidewinder"
+  ],
+  [
+    85067,
+    227,
+    "[HF] Weather Effect - Electrical  - Medium"
+  ],
+  [
+    85068,
+    227,
+    "[HF] Weather Effect - Electrical  - Hard"
+  ],
+  [
+    85069,
+    227,
+    "[HF] Weather Effect - Dark - Medium"
+  ],
+  [
+    85070,
+    227,
+    "[HF] Weather Effect - Dark - Hard"
+  ],
+  [
+    85071,
+    227,
+    "[HF] Weather Effect - Gamma - Hard"
+  ],
+  [
+    85072,
+    227,
+    "[HF] Weather Effect - Gamma - Medium"
+  ],
+  [
+    85073,
+    227,
+    "[HF] Weather Effect - Firestorm - Medium"
+  ],
+  [
+    85074,
+    227,
+    "[HF] Weather Effect - Firestorm - Hard"
+  ],
+  [
+    85075,
+    227,
+    "[HF] Weather Effect - Exotic - Medium"
+  ],
+  [
+    85076,
+    227,
+    "[HF] Weather Effect - Exotic - Hard"
+  ],
+  [
+    85118,
+    4726,
+    "Sani Ichor Gloss - Limited"
+  ],
+  [
+    85127,
+    4091,
+    "Crimson Harvest Expert System"
+  ],
+  [
+    85133,
+    4726,
+    "Sani Ichor Matte - Limited"
+  ],
+  [
+    85134,
+    4726,
+    "Savant Carmine Gloss - Limited"
+  ],
+  [
+    85137,
+    4726,
+    "Savant Carmine Gloss - Unlimited"
+  ],
+  [
+    85139,
+    4726,
+    "Charcoal Covenant Satin - Limited"
+  ],
+  [
+    85140,
+    4726,
+    "Charcoal Covenant Satin - Unlimited"
+  ],
+  [
+    85141,
+    4726,
+    "Purified Cerise Satin - Limited"
+  ],
+  [
+    85143,
+    4726,
+    "Sacred Flesh Matte - Limited"
+  ],
+  [
+    85144,
+    4726,
+    "Haunted Citroen Gloss - Limited"
+  ],
+  [
+    85145,
+    4726,
+    "Bleached Bone Matte - Limited"
+  ],
+  [
+    85146,
+    4726,
+    "Ritual Gourd Satin - Limited"
+  ],
+  [
+    85147,
+    4726,
+    "Brutal Splatter Pattern - Limited"
+  ],
+  [
+    85148,
+    4726,
+    "Annointed Dead Pattern - Limited"
+  ],
+  [
+    85149,
+    4726,
+    "Annointed Dead Pattern - Unlimited"
+  ],
+  [
+    85150,
+    4726,
+    "Haema Iron Metallic - Unlimited"
+  ],
+  [
+    85151,
+    4726,
+    "Haema Iron Metallic - Limited"
+  ],
+  [
+    85152,
+    4726,
+    "Phantom Ferros Metallic - Limited"
+  ],
+  [
+    85153,
+    4726,
+    "Steel Violet - Limited"
+  ],
+  [
+    85154,
+    4726,
+    "Savant Carmine Satin - Limited"
+  ],
+  [
+    85155,
+    4726,
+    "Savant Carmine Satin - Unlimited"
+  ],
+  [
+    85178,
+    314,
+    "Tetrimonic Warclone Blanks"
+  ],
+  [
+    85179,
+    314,
+    "Overseer Sabik Vial"
+  ],
+  [
+    85225,
+    1975,
+    "Shrouded Structure"
+  ],
+  [
+    85229,
+    833,
+    "Cobra"
+  ],
+  [
+    85236,
+    898,
+    "Python"
+  ],
+  [
+    85242,
+    314,
+    "Hypercatabolic Clone Tissue"
+  ],
+  [
+    85279,
+    303,
+    "Totality Day Accelerator"
+  ],
+  [
+    85290,
+    4726,
+    "Burnt Sacrament Gloss - Limited"
+  ],
+  [
+    85305,
+    4726,
+    "Scars of Sarikusa - Limited"
+  ],
+  [
+    85306,
+    4726,
+    "Shadow Sabik Satin - Limited"
+  ],
+  [
+    85307,
+    4726,
+    "Blooded Steel Metallic - Limited"
+  ],
+  [
+    85308,
+    4726,
+    "Illuminating Faith Matte - Limited"
+  ],
+  [
+    85316,
+    4821,
+    "Atavum"
+  ],
+  [
+    85403,
+    4726,
+    "Managerial Black Matte - Limited"
+  ],
+  [
+    85404,
+    4726,
+    "Council Meeting Beige Matte - Limited"
+  ],
+  [
+    85405,
+    4726,
+    "Consensus Drift - Limited"
+  ],
+  [
+    85406,
+    4726,
+    "Stellar Indigo Chrome Metallic - Limited"
+  ],
+  [
+    85632,
+    226,
+    "Deathless Engineering Complex"
+  ],
+  [
+    85683,
+    1319,
+    "Unreleased Skillbook"
+  ],
+  [
+    85684,
+    1319,
+    "Unreleased Expert System"
+  ],
+  [
+    85689,
+    1319,
+    "Unreleased New Pattern"
+  ],
+  [
+    85712,
+    314,
+    "YC110.05.29 - Arceho. Student Yosef Okada Journal entry"
+  ],
+  [
+    85713,
+    314,
+    "YC110.06.09 - Asst. Archeo. Yosef Okada Journal entry"
+  ],
+  [
+    85714,
+    314,
+    "YC110.08.20 - Asst. Archeo. Yosef Okada Journal entry"
+  ],
+  [
+    85715,
+    314,
+    "YC110.11.30 - Asst. Archeo. Yosef Okada Journal entry"
+  ],
+  [
+    85716,
+    314,
+    "YC110.12.04 - Asst. Archeo. Yosef Okada Journal entry"
+  ],
+  [
+    85717,
+    314,
+    "YC110.12.10 - Asst. Archeo. Yosef Okada Journal entry"
+  ],
+  [
+    85718,
+    314,
+    "YC113.01.15 - Dr. Yosef Okada Journal entry"
+  ],
+  [
+    85719,
+    314,
+    "YC113.04.15 - Dr. Yosef Okada Journal entry"
+  ],
+  [
+    85720,
+    314,
+    "YC113.05.01 - Dr. Yosef Okada Journal entry"
+  ],
+  [
+    85721,
+    314,
+    "YC113.05.24 - Dr. Yosef Okada Journal entry"
+  ],
+  [
+    85722,
+    314,
+    "YC113.11.09 - Dr. Yosef Okada Journal entry"
+  ],
+  [
+    85723,
+    314,
+    "YC114.01.19 - Dr. Yosef Okada Journal entry"
+  ],
+  [
+    85724,
+    314,
+    "YC115.08.19 - Yosef Okada Journal entry"
+  ],
+  [
+    85725,
+    314,
+    "YC117.02.06 - Yosef Okada Journal entry"
+  ],
+  [
+    85726,
+    314,
+    "YC117.02.20 - Yosef Okada Journal entry"
+  ],
+  [
+    85727,
+    314,
+    "YC117.10.15 - Yosef Okada Journal entry"
+  ],
+  [
+    85728,
+    314,
+    "YC117.10.30 - Yosef Okada Journal entry"
+  ],
+  [
+    85729,
+    314,
+    "YC117.11.01 - Yosef Okada Journal entry"
+  ],
+  [
+    85730,
+    314,
+    "YC117.11.06 - dictated record"
+  ],
+  [
+    85731,
+    314,
+    "YC117.11.08 - dictated record"
+  ],
+  [
+    85732,
+    226,
+    "Deathless Fenrir Freighter"
+  ],
+  [
+    85746,
+    526,
+    "Encrypted Infomorph"
+  ],
+  [
+    85747,
+    479,
+    "Satori-Horigu Combat Scanner Probe"
+  ],
+  [
+    85748,
+    1230,
+    "Neural Lace 'Bluefire' Net Ablation 960-10"
+  ],
+  [
+    85749,
+    1948,
+    "Neural Lace 'Bluefire' Net Ablation 960-10 Blueprint"
+  ],
+  [
+    85750,
+    538,
+    "Deathless Circle Relic Analyzer"
+  ],
+  [
+    85751,
+    917,
+    "Deathless Circle Relic Analyzer Blueprint"
+  ],
+  [
+    85752,
+    4726,
+    "Glorified Ruby Gloss - Limited "
+  ],
+  [
+    85753,
+    4726,
+    "Murky Pravda Satin - Limited"
+  ],
+  [
+    85754,
+    4726,
+    "Azure Istina Gloss - Limited"
+  ],
+  [
+    85755,
+    4726,
+    "Bujan Blue Steel Metallic - Limited"
+  ],
+  [
+    85756,
+    4726,
+    "Kyber Conjunction - Limited"
+  ],
+  [
+    85787,
+    1194,
+    "Deathless Research Consignment"
+  ],
+  [
+    85843,
+    4726,
+    "Blue Ice Gloss - Limited"
+  ],
+  [
+    85844,
+    4726,
+    "Clear Gelidus Satin - Limited"
+  ],
+  [
+    85845,
+    4726,
+    "Winter Bloom Matte - Limited"
+  ],
+  [
+    85846,
+    4726,
+    "Festive Iron Metallic - Limited"
+  ],
+  [
+    85847,
+    4726,
+    "Jagged Crystal - Limited"
+  ],
+  [
+    85849,
+    314,
+    "Deathless Research Honorarium"
+  ],
+  [
+    85876,
+    4726,
+    "Vermillion Seal Satin - Limited"
+  ],
+  [
+    85877,
+    4726,
+    "Midnight Mass Satin - Limited"
+  ],
+  [
+    85878,
+    4726,
+    "Golden Nova Metallic - Limited"
+  ],
+  [
+    85879,
+    4726,
+    "Infinite Cyclones - Limited"
+  ],
+  [
+    85880,
+    1194,
+    "Deathless Research Superior Consignment"
+  ],
+  [
+    86143,
+    4726,
+    "Lapin Fire Matte - Limited"
+  ],
+  [
+    86144,
+    4726,
+    "Lethal Navy Metallic - Limited"
+  ],
+  [
+    86407,
+    4100,
+    "20th Alliance Tournament: The Tuskers Co."
   ]
 ]

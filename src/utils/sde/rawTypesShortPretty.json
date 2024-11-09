@@ -14401,19 +14401,19 @@
   },
   "9668": {
     "groupID": 72,
-    "name": "Large Rudimentary Concussion Bomb I"
+    "name": "'Concussion' Compact Large Graviton Smartbomb"
   },
   "9670": {
     "groupID": 72,
-    "name": "Small Rudimentary Concussion Bomb I"
+    "name": "'Concussion' Compact Small Graviton Smartbomb"
   },
   "9678": {
     "groupID": 72,
-    "name": "Large 'Vehemence' Shockwave Charge"
+    "name": "'Vehemence' Compact Large EMP Smartbomb"
   },
   "9680": {
     "groupID": 72,
-    "name": "Small 'Vehemence' Shockwave Charge"
+    "name": "'Vehemence' Compact Small EMP Smartbomb"
   },
   "9702": {
     "groupID": 72,
@@ -14425,15 +14425,15 @@
   },
   "9728": {
     "groupID": 72,
-    "name": "Medium Rudimentary Concussion Bomb I"
+    "name": "'Concussion' Compact Medium Graviton Smartbomb"
   },
   "9734": {
     "groupID": 72,
-    "name": "Medium 'Vehemence' Shockwave Charge"
+    "name": "'Vehemence' Compact Medium EMP Smartbomb"
   },
   "9744": {
     "groupID": 72,
-    "name": "Small 'Notos' Explosive Charge I"
+    "name": "'Notos' Compact Small Proton Smartbomb"
   },
   "9750": {
     "groupID": 72,
@@ -14441,15 +14441,15 @@
   },
   "9762": {
     "groupID": 72,
-    "name": "Medium 'Notos' Explosive Charge I"
+    "name": "'Notos' Compact Medium Proton Smartbomb"
   },
   "9772": {
     "groupID": 72,
-    "name": "Large 'Notos' Explosive Charge I"
+    "name": "'Notos' Compact Large Proton Smartbomb"
   },
   "9784": {
     "groupID": 72,
-    "name": "Small YF-12a Smartbomb"
+    "name": "'YF-12a' Compact Small Plasma Smartbomb"
   },
   "9790": {
     "groupID": 72,
@@ -14457,11 +14457,11 @@
   },
   "9800": {
     "groupID": 72,
-    "name": "Medium YF-12a Smartbomb"
+    "name": "'YF-12a' Compact Medium Plasma Smartbomb"
   },
   "9808": {
     "groupID": 72,
-    "name": "Large YF-12a Smartbomb"
+    "name": "'YF-12a' Compact Large Plasma Smartbomb"
   },
   "9826": {
     "groupID": 280,
@@ -40561,27 +40561,27 @@
   },
   "21534": {
     "groupID": 72,
-    "name": "Small Degenerative Concussion Bomb I"
+    "name": "'Degenerative' Small Proton Smartbomb"
   },
   "21535": {
     "groupID": 152,
-    "name": "Small Degenerative Concussion Bomb I Blueprint"
+    "name": "'Degenerative' Small Proton Smartbomb Blueprint"
   },
   "21536": {
     "groupID": 72,
-    "name": "Medium Degenerative Concussion Bomb I"
+    "name": "'Dwindling' Medium Proton Smartbomb"
   },
   "21537": {
     "groupID": 152,
-    "name": "Medium Degenerative Concussion Bomb I Blueprint"
+    "name": "'Dwindling' Medium Proton Smartbomb Blueprint"
   },
   "21538": {
     "groupID": 72,
-    "name": "Large Degenerative Concussion Bomb I"
+    "name": "'Regressive' Large Proton Smartbomb"
   },
   "21539": {
     "groupID": 152,
-    "name": "Large Degenerative Concussion Bomb I Blueprint"
+    "name": "'Regressive' Large Proton Smartbomb Blueprint"
   },
   "21540": {
     "groupID": 379,
@@ -47949,27 +47949,27 @@
   },
   "23864": {
     "groupID": 72,
-    "name": "'Pike' Small EMP Smartbomb I"
+    "name": "'Pike' Small EMP Smartbomb"
   },
   "23865": {
     "groupID": 152,
-    "name": "'Pike' Small EMP Smartbomb I Blueprint"
+    "name": "'Pike' Small EMP Smartbomb Blueprint"
   },
   "23866": {
     "groupID": 72,
-    "name": "'Lance' Medium EMP Smartbomb I"
+    "name": "'Lance' Medium EMP Smartbomb"
   },
   "23867": {
     "groupID": 152,
-    "name": "'Lance' Medium EMP Smartbomb I Blueprint"
+    "name": "'Lance' Medium EMP Smartbomb Blueprint"
   },
   "23868": {
     "groupID": 72,
-    "name": "'Warhammer' Large EMP Smartbomb I"
+    "name": "'Warhammer' Large EMP Smartbomb"
   },
   "23869": {
     "groupID": 152,
-    "name": "'Warhammer' Large EMP Smartbomb I Blueprint"
+    "name": "'Warhammer' Large EMP Smartbomb Blueprint"
   },
   "23871": {
     "groupID": 314,
@@ -101981,23 +101981,23 @@
   },
   "54031": {
     "groupID": 4034,
-    "name": "Scout  State Navy Cerberus"
+    "name": "Scout State Navy Cerberus"
   },
   "54032": {
     "groupID": 4034,
-    "name": "Scout  State Navy Rook"
+    "name": "Scout State Navy Rook"
   },
   "54033": {
     "groupID": 4034,
-    "name": "Scout  State Navy Drake"
+    "name": "Scout State Navy Drake"
   },
   "54034": {
     "groupID": 4034,
-    "name": "Scout  State Navy Scorpion"
+    "name": "Scout State Navy Scorpion"
   },
   "54035": {
     "groupID": 4034,
-    "name": "Scout  State Navy Raven"
+    "name": "Scout State Navy Raven"
   },
   "54036": {
     "groupID": 4034,
@@ -121601,11 +121601,11 @@
   },
   "73431": {
     "groupID": 474,
-    "name": "Crimson Gauntlet Shortcut Keypass"
+    "name": "Expired Crimson Gauntlet Shortcut Keypass"
   },
   "73432": {
     "groupID": 474,
-    "name": "Tetrimon Base Shortcut Keypass"
+    "name": "Expired Tetrimon Base Shortcut Keypass"
   },
   "73436": {
     "groupID": 1670,
@@ -128725,15 +128725,15 @@
   },
   "77451": {
     "groupID": 227,
-    "name": "[HF] Triglavian Easy Spawner"
+    "name": "[HF] Push Your Luck - Triglavian Easy Spawner"
   },
   "77452": {
     "groupID": 227,
-    "name": "[HF] Sleeper Easy Spawner"
+    "name": "[HF] Push Your Luck - Sleeper Easy Spawner"
   },
   "77453": {
     "groupID": 227,
-    "name": "[HF] Sleeper Medium Spawner"
+    "name": "[HF] Push Your Luck - Sleeper Medium Spawner"
   },
   "77454": {
     "groupID": 227,
@@ -128741,15 +128741,15 @@
   },
   "77455": {
     "groupID": 227,
-    "name": "[HF] Rogue Drone Medium Spawner"
+    "name": "[HF] Push Your Luck - Rogue Drone Medium Spawner"
   },
   "77456": {
     "groupID": 227,
-    "name": "[HF] Triglavian Hard Spawner"
+    "name": "[HF] Push Your Luck - Triglavian Hard Spawner"
   },
   "77457": {
     "groupID": 227,
-    "name": "[HF] Sleeper Hard Spawner"
+    "name": "[HF] Push Your Luck - Sleeper Hard Spawner"
   },
   "77458": {
     "groupID": 227,
@@ -128757,11 +128757,11 @@
   },
   "77459": {
     "groupID": 227,
-    "name": "[HF] Rogue Drone Hard Spawner"
+    "name": "[HF] Push Your Luck - Rogue Drone Hard Spawner"
   },
   "77460": {
     "groupID": 227,
-    "name": "[HF] Killer Spawner"
+    "name": "[HF] Push Your Luck - Drifter Spawner"
   },
   "77461": {
     "groupID": 227,
@@ -128769,11 +128769,11 @@
   },
   "77462": {
     "groupID": 227,
-    "name": "[HF] Rogue Drone Easy Spawner"
+    "name": "[HF] Push Your Luck - Rogue Drone Easy Spawner"
   },
   "77463": {
     "groupID": 227,
-    "name": "[HF] Triglavian Medium Spawner"
+    "name": "[HF] Push Your Luck - Triglavian Medium Spawner"
   },
   "77468": {
     "groupID": 1975,
@@ -129616,7 +129616,7 @@
     "name": "Cybele"
   },
   "77727": {
-    "groupID": 306,
+    "groupID": 4576,
     "name": "Faulty Triglavian Cache"
   },
   "77738": {
@@ -133469,99 +133469,115 @@
   },
   "80342": {
     "groupID": 303,
-    "name": "Basic Capsuleer Day XXI Cerebral Accelerator"
+    "name": "Expired Basic Capsuleer Day XXI Cerebral Accelerator"
   },
   "80343": {
     "groupID": 303,
-    "name": "Extended Capsuleer Day XXI Cerebral Accelerator"
+    "name": "Expired Extended Capsuleer Day XXI Cerebral Accelerator"
   },
   "80344": {
     "groupID": 303,
-    "name": "Potent Capsuleer Day XXI Cerebral Accelerator"
+    "name": "Expired Potent Capsuleer Day XXI Cerebral Accelerator"
   },
   "80352": {
     "groupID": 303,
-    "name": "Basic Capsuleer Day XXI Glamourex Booster"
+    "name": "Expired Basic Capsuleer Day XXI Glamourex Booster"
   },
   "80353": {
     "groupID": 303,
-    "name": "Extended Capsuleer Day XXI Glamourex Booster"
+    "name": "Expired Extended Capsuleer Day XXI Glamourex Booster"
   },
   "80354": {
     "groupID": 303,
-    "name": "Potent Capsuleer Day XXI Glamourex Booster"
+    "name": "Expired Potent Capsuleer Day XXI Glamourex Booster"
   },
   "80357": {
     "groupID": 303,
-    "name": "SoCT Relic Range Booster I"
+    "name": "Expired SoCT Relic Range Booster I"
   },
   "80358": {
     "groupID": 303,
-    "name": "SoCT Relic Range Booster II"
+    "name": "Expired SoCT Relic Range Booster II"
   },
   "80359": {
     "groupID": 303,
-    "name": "SoCT Relic Range Booster III"
+    "name": "Expired SoCT Relic Range Booster III"
   },
   "80360": {
     "groupID": 303,
-    "name": "SoCT Relic Coherence Booster I"
+    "name": "Expired SoCT Relic Coherence Booster I"
   },
   "80361": {
     "groupID": 303,
-    "name": "SoCT Relic Coherence Booster II"
+    "name": "Expired SoCT Relic Coherence Booster II"
   },
   "80362": {
     "groupID": 303,
-    "name": "SoCT Relic Coherence Booster III"
+    "name": "Expired SoCT Relic Coherence Booster III"
   },
   "80363": {
     "groupID": 303,
-    "name": "SoCT Relic Strength Booster I"
+    "name": "Expired SoCT Relic Strength Booster I"
   },
   "80364": {
     "groupID": 303,
-    "name": "SoCT Relic Strength Booster II"
+    "name": "Expired SoCT Relic Strength Booster II"
   },
   "80365": {
     "groupID": 303,
-    "name": "SoCT Relic Strength Booster III"
+    "name": "Expired SoCT Relic Strength Booster III"
   },
   "80366": {
     "groupID": 303,
-    "name": "SoCT Repairer Booster I"
+    "name": "Expired SoCT Repairer Booster I"
   },
   "80367": {
     "groupID": 303,
-    "name": "SoCT Repairer Booster II"
+    "name": "Expired SoCT Repairer Booster II"
   },
   "80368": {
     "groupID": 303,
-    "name": "SoCT Repairer Booster III"
+    "name": "Expired SoCT Repairer Booster III"
   },
   "80369": {
     "groupID": 303,
-    "name": "SoCT Turret Booster I"
+    "name": "Expired SoCT Turret Booster I"
   },
   "80370": {
     "groupID": 303,
-    "name": "SoCT Turret Booster II"
+    "name": "Expired SoCT Turret Booster II"
   },
   "80371": {
     "groupID": 303,
-    "name": "SoCT Turret Booster III"
+    "name": "Expired SoCT Turret Booster III"
+  },
+  "80372": {
+    "groupID": 4719,
+    "name": "Deepflow Rift"
   },
   "80379": {
     "groupID": 303,
-    "name": "SoCT Capacitor Booster I"
+    "name": "Expired SoCT Capacitor Booster I"
   },
   "80380": {
     "groupID": 303,
-    "name": "SoCT Capacitor Booster II"
+    "name": "Expired SoCT Capacitor Booster II"
   },
   "80381": {
     "groupID": 303,
-    "name": "SoCT Capacitor Booster III"
+    "name": "Expired SoCT Capacitor Booster III"
+  },
+  "80382": {
+    "groupID": 1194,
+    "name": "Deepflow Adaptive Canister"
+  },
+  "80387": {
+    "groupID": 1194,
+    "name": "Indecipherable Cache Chart"
+  },
+  "80388": {
+    "groupID": 227,
+    "name": "Abyssal Retrieval Spawner - DO NOT TRANSLATE"
   },
   "80425": {
     "groupID": 306,
@@ -133605,39 +133621,39 @@
   },
   "80757": {
     "groupID": 303,
-    "name": "SoCT Agility Booster I"
+    "name": "Expired SoCT Agility Booster I"
   },
   "80760": {
     "groupID": 303,
-    "name": "SoCT Agility Booster II"
+    "name": "Expired SoCT Agility Booster II"
   },
   "80763": {
     "groupID": 303,
-    "name": "SoCT Agility Booster III"
+    "name": "Expired SoCT Agility Booster III"
   },
   "80765": {
     "groupID": 303,
-    "name": "SoCT Armor Booster I"
+    "name": "Expired SoCT Armor Booster I"
   },
   "80767": {
     "groupID": 303,
-    "name": "SoCT Armor Booster II"
+    "name": "Expired SoCT Armor Booster II"
   },
   "80768": {
     "groupID": 303,
-    "name": "SoCT Armor Booster III"
+    "name": "Expired SoCT Armor Booster III"
   },
   "80769": {
     "groupID": 303,
-    "name": "SoCT Scan Booster I"
+    "name": "Expired SoCT Scan Booster I"
   },
   "80770": {
     "groupID": 303,
-    "name": "SoCT Scan Booster II"
+    "name": "Expired SoCT Scan Booster II"
   },
   "80773": {
     "groupID": 303,
-    "name": "SoCT Scan Booster III"
+    "name": "Expired SoCT Scan Booster III"
   },
   "80806": {
     "groupID": 4636,
@@ -134617,11 +134633,11 @@
   },
   "81370": {
     "groupID": 4734,
-    "name": "Design Concepting"
+    "name": "Studio Management"
   },
   "81371": {
     "groupID": 4734,
-    "name": "Design Iteration"
+    "name": "Advanced Studio Management"
   },
   "81372": {
     "groupID": 4734,
@@ -135689,115 +135705,115 @@
   },
   "82579": {
     "groupID": 4768,
-    "name": "Tritanium Prospecting Array 2"
+    "name": "Tritanium Prospecting Array 1"
   },
   "82580": {
     "groupID": 4768,
-    "name": "Isogen Prospecting Array 1"
+    "name": "Isogen Prospecting Array 2"
   },
   "82581": {
     "groupID": 4768,
-    "name": "Isogen Prospecting Array 2"
+    "name": "Isogen Prospecting Array 1"
   },
   "82582": {
     "groupID": 4768,
-    "name": "Nocxium Prospecting Array 1"
+    "name": "Nocxium Prospecting Array 2"
   },
   "82583": {
     "groupID": 4768,
-    "name": "Nocxium Prospecting Array 2"
+    "name": "Nocxium Prospecting Array 1"
   },
   "82584": {
     "groupID": 4768,
-    "name": "Zydrine Prospecting Array 1"
+    "name": "Zydrine Prospecting Array 2"
   },
   "82585": {
     "groupID": 4768,
-    "name": "Zydrine Prospecting Array 2"
+    "name": "Zydrine Prospecting Array 1"
   },
   "82586": {
     "groupID": 4768,
-    "name": "Megacyte Prospecting Array 1"
+    "name": "Megacyte Prospecting Array 2"
   },
   "82587": {
     "groupID": 4768,
-    "name": "Megacyte Prospecting Array 2"
+    "name": "Megacyte Prospecting Array 1"
   },
   "82588": {
     "groupID": 4768,
-    "name": "Pyerite Prospecting Array 1"
+    "name": "Pyerite Prospecting Array 2"
   },
   "82589": {
     "groupID": 4768,
-    "name": "Pyerite Prospecting Array 2"
+    "name": "Pyerite Prospecting Array 1"
   },
   "82590": {
     "groupID": 4768,
-    "name": "Mexallon Prospecting Array 1"
+    "name": "Mexallon Prospecting Array 2"
   },
   "82591": {
     "groupID": 4768,
-    "name": "Mexallon Prospecting Array 2"
+    "name": "Mexallon Prospecting Array 1"
   },
   "82592": {
     "groupID": 4768,
-    "name": "Tritanium Prospecting Array 1"
+    "name": "Tritanium Prospecting Array 2"
   },
   "82594": {
     "groupID": 1317,
-    "name": "Megacyte Prospecting Array 2 Blueprint"
+    "name": "Megacyte Prospecting Array 1 Blueprint"
   },
   "82595": {
     "groupID": 1317,
-    "name": "Megacyte Prospecting Array 1 Blueprint"
+    "name": "Megacyte Prospecting Array 2 Blueprint"
   },
   "82596": {
     "groupID": 1317,
-    "name": "Zydrine Prospecting Array 2 Blueprint"
+    "name": "Zydrine Prospecting Array 1 Blueprint"
   },
   "82597": {
     "groupID": 1317,
-    "name": "Zydrine Prospecting Array 1 Blueprint"
+    "name": "Zydrine Prospecting Array 2 Blueprint"
   },
   "82598": {
     "groupID": 1317,
-    "name": "Nocxium Prospecting Array 2 Blueprint"
+    "name": "Nocxium Prospecting Array 1 Blueprint"
   },
   "82599": {
     "groupID": 1317,
-    "name": "Nocxium Prospecting Array 1 Blueprint"
+    "name": "Nocxium Prospecting Array 2 Blueprint"
   },
   "82600": {
     "groupID": 1317,
-    "name": "Isogen Prospecting Array 2 Blueprint"
+    "name": "Isogen Prospecting Array 1 Blueprint"
   },
   "82601": {
     "groupID": 1317,
-    "name": "Isogen Prospecting Array 1 Blueprint"
+    "name": "Isogen Prospecting Array 2 Blueprint"
   },
   "82602": {
     "groupID": 1317,
-    "name": "Mexallon Prospecting Array 2 Blueprint"
+    "name": "Mexallon Prospecting Array 1 Blueprint"
   },
   "82603": {
     "groupID": 1317,
-    "name": "Mexallon Prospecting Array 1 Blueprint"
+    "name": "Mexallon Prospecting Array 2 Blueprint"
   },
   "82604": {
     "groupID": 1317,
-    "name": "Pyerite Prospecting Array 2 Blueprint"
+    "name": "Pyerite Prospecting Array 1 Blueprint"
   },
   "82605": {
     "groupID": 1317,
-    "name": "Pyerite Prospecting Array 1 Blueprint"
+    "name": "Pyerite Prospecting Array 2 Blueprint"
   },
   "82606": {
     "groupID": 1317,
-    "name": "Tritanium Prospecting Array 2 Blueprint"
+    "name": "Tritanium Prospecting Array 1 Blueprint"
   },
   "82607": {
     "groupID": 1317,
-    "name": "Tritanium Prospecting Array 1 Blueprint"
+    "name": "Tritanium Prospecting Array 2 Blueprint"
   },
   "82609": {
     "groupID": 4768,
@@ -137087,6 +137103,26 @@
     "groupID": 186,
     "name": "Orbital Skyhook Wreck"
   },
+  "83909": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Electrical  - Easy"
+  },
+  "83910": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Dark - Easy"
+  },
+  "83911": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Gamma - Easy"
+  },
+  "83912": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Firestorm - Easy"
+  },
+  "83913": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Exotic - Easy"
+  },
   "83921": {
     "groupID": 4726,
     "name": "Holovisual Violet Matte - Limited"
@@ -137134,5 +137170,1477 @@
   "84016": {
     "groupID": 4726,
     "name": "United Front - Limited"
+  },
+  "84088": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84089": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84090": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84091": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84092": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84093": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84094": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84095": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84096": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84097": {
+    "groupID": 4726,
+    "name": "Intaki Emerald Metallic - Limited"
+  },
+  "84163": {
+    "groupID": 4726,
+    "name": "Ancestral Fireclay Matte - Limited"
+  },
+  "84164": {
+    "groupID": 4726,
+    "name": "Flowers of Matar Satin - Limited"
+  },
+  "84165": {
+    "groupID": 4726,
+    "name": "Darkness Forged Ferros Metallic - Limited"
+  },
+  "84166": {
+    "groupID": 4726,
+    "name": "Freedom's Foundation - Limited"
+  },
+  "84167": {
+    "groupID": 4726,
+    "name": "True Blue Loyalty Matte - Limited"
+  },
+  "84168": {
+    "groupID": 4726,
+    "name": "Dark Duty Gloss - Limited"
+  },
+  "84169": {
+    "groupID": 4726,
+    "name": "State Concrete Gloss - Limited"
+  },
+  "84170": {
+    "groupID": 4726,
+    "name": "Silver Honor Metallic - Limited"
+  },
+  "84171": {
+    "groupID": 4726,
+    "name": "Mountain Wind Spirit - Limited"
+  },
+  "84172": {
+    "groupID": 4726,
+    "name": "Divine Arch - Limited"
+  },
+  "84173": {
+    "groupID": 4726,
+    "name": "Imperial Gold Metallic - Limited"
+  },
+  "84174": {
+    "groupID": 4726,
+    "name": "Sands of the Chosen Gloss - Limited"
+  },
+  "84175": {
+    "groupID": 4726,
+    "name": "Epitoth Eclipse Gloss - Limited"
+  },
+  "84177": {
+    "groupID": 4726,
+    "name": "Scientific Panache Satin - Limited"
+  },
+  "84178": {
+    "groupID": 4726,
+    "name": "Insightful Azure Metallic - Limited"
+  },
+  "84179": {
+    "groupID": 4726,
+    "name": "Citizen Cyan Metallic - Limited"
+  },
+  "84212": {
+    "groupID": 4726,
+    "name": "Pillars of the Republic - Limited"
+  },
+  "84217": {
+    "groupID": 4734,
+    "name": "Paragon Relations"
+  },
+  "84218": {
+    "groupID": 4734,
+    "name": "Paragon Partnership"
+  },
+  "84220": {
+    "groupID": 4734,
+    "name": "Executive Paragon Partnership"
+  },
+  "84271": {
+    "groupID": 303,
+    "name": "Basic 'Radiance' Cerebral Accelerator"
+  },
+  "84272": {
+    "groupID": 303,
+    "name": "Potent 'Radiance' Cerebral Accelerator"
+  },
+  "84273": {
+    "groupID": 303,
+    "name": "Extended 'Radiance' Cerebral Accelerator"
+  },
+  "84294": {
+    "groupID": 319,
+    "name": "Horizon Breach Engine"
+  },
+  "84297": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster I"
+  },
+  "84298": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster II"
+  },
+  "84299": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster III"
+  },
+  "84300": {
+    "groupID": 303,
+    "name": "Harvest Anti-Disruptor Booster IV"
+  },
+  "84301": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster I"
+  },
+  "84302": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster II"
+  },
+  "84303": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster III"
+  },
+  "84304": {
+    "groupID": 303,
+    "name": "Harvest Nosferatu Booster IV"
+  },
+  "84305": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster I"
+  },
+  "84306": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster II"
+  },
+  "84307": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster III"
+  },
+  "84308": {
+    "groupID": 303,
+    "name": "Harvest Webifier Booster IV"
+  },
+  "84309": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster I"
+  },
+  "84310": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster II"
+  },
+  "84311": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster III"
+  },
+  "84312": {
+    "groupID": 303,
+    "name": "Harvest Damage Booster IV"
+  },
+  "84313": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster I"
+  },
+  "84314": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster II"
+  },
+  "84315": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster III"
+  },
+  "84316": {
+    "groupID": 303,
+    "name": "Tetrimon Anti-Drain Booster IV"
+  },
+  "84317": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster I"
+  },
+  "84318": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster II"
+  },
+  "84319": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster III"
+  },
+  "84320": {
+    "groupID": 303,
+    "name": "Tetrimon Capacitor Booster IV"
+  },
+  "84321": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster I"
+  },
+  "84322": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster II"
+  },
+  "84323": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster III"
+  },
+  "84324": {
+    "groupID": 303,
+    "name": "Tetrimon Resistance Booster IV"
+  },
+  "84325": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster I"
+  },
+  "84326": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster II"
+  },
+  "84327": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster III"
+  },
+  "84328": {
+    "groupID": 303,
+    "name": "Tetrimon Precision Booster IV"
+  },
+  "84329": {
+    "groupID": 1975,
+    "name": "Non-Interactable Wormhole - DO NOT TRANSLATE"
+  },
+  "84354": {
+    "groupID": 227,
+    "name": "AoE Scrambler 60k"
+  },
+  "84358": {
+    "groupID": 952,
+    "name": "Phryctorian Generator"
+  },
+  "84359": {
+    "groupID": 1975,
+    "name": "Non-Interactable Sentry Gun - DO NOT TRANSLATE"
+  },
+  "84398": {
+    "groupID": 1964,
+    "name": "Decayed Large EMP Smartbomb Mutaplasmid"
+  },
+  "84399": {
+    "groupID": 1964,
+    "name": "Decayed Large Plasma Smartbomb Mutaplasmid"
+  },
+  "84400": {
+    "groupID": 1964,
+    "name": "Decayed Medium EMP Smartbomb Mutaplasmid"
+  },
+  "84401": {
+    "groupID": 1964,
+    "name": "Decayed Medium Plasma Smartbomb Mutaplasmid"
+  },
+  "84402": {
+    "groupID": 1964,
+    "name": "Decayed Medium Graviton Smartbomb Mutaplasmid"
+  },
+  "84403": {
+    "groupID": 1964,
+    "name": "Decayed Medium Proton Smartbomb Mutaplasmid"
+  },
+  "84404": {
+    "groupID": 1964,
+    "name": "Decayed Small EMP Smartbomb Mutaplasmid"
+  },
+  "84405": {
+    "groupID": 1964,
+    "name": "Decayed Small Plasma Smartbomb Mutaplasmid"
+  },
+  "84406": {
+    "groupID": 1964,
+    "name": "Decayed Small Graviton Smartbomb Mutaplasmid"
+  },
+  "84407": {
+    "groupID": 1964,
+    "name": "Decayed Small Proton Smartbomb Mutaplasmid"
+  },
+  "84408": {
+    "groupID": 1964,
+    "name": "Decayed Large Graviton Smartbomb Mutaplasmid"
+  },
+  "84409": {
+    "groupID": 1964,
+    "name": "Decayed Large Proton Smartbomb Mutaplasmid"
+  },
+  "84410": {
+    "groupID": 1964,
+    "name": "Gravid Small EMP Smartbomb Mutaplasmid"
+  },
+  "84411": {
+    "groupID": 1964,
+    "name": "Gravid Small Plasma Smartbomb Mutaplasmid"
+  },
+  "84412": {
+    "groupID": 1964,
+    "name": "Gravid Small Graviton Smartbomb Mutaplasmid"
+  },
+  "84413": {
+    "groupID": 1964,
+    "name": "Gravid Small Proton Smartbomb Mutaplasmid"
+  },
+  "84414": {
+    "groupID": 1964,
+    "name": "Gravid Large Graviton Smartbomb Mutaplasmid"
+  },
+  "84415": {
+    "groupID": 1964,
+    "name": "Gravid Large Proton Smartbomb Mutaplasmid"
+  },
+  "84416": {
+    "groupID": 1964,
+    "name": "Gravid Large EMP Smartbomb Mutaplasmid"
+  },
+  "84417": {
+    "groupID": 1964,
+    "name": "Gravid Large Plasma Smartbomb Mutaplasmid"
+  },
+  "84418": {
+    "groupID": 1964,
+    "name": "Gravid Medium EMP Smartbomb Mutaplasmid"
+  },
+  "84419": {
+    "groupID": 1964,
+    "name": "Gravid Medium Plasma Smartbomb Mutaplasmid"
+  },
+  "84420": {
+    "groupID": 1964,
+    "name": "Gravid Medium Graviton Smartbomb Mutaplasmid"
+  },
+  "84421": {
+    "groupID": 1964,
+    "name": "Gravid Medium Proton Smartbomb Mutaplasmid"
+  },
+  "84422": {
+    "groupID": 1964,
+    "name": "Unstable Large EMP Smartbomb Mutaplasmid"
+  },
+  "84423": {
+    "groupID": 1964,
+    "name": "Unstable Large Plasma Smartbomb Mutaplasmid"
+  },
+  "84424": {
+    "groupID": 1964,
+    "name": "Unstable Medium EMP Smartbomb Mutaplasmid"
+  },
+  "84425": {
+    "groupID": 1964,
+    "name": "Unstable Medium Plasma Smartbomb Mutaplasmid"
+  },
+  "84426": {
+    "groupID": 1964,
+    "name": "Unstable Medium Graviton Smartbomb Mutaplasmid"
+  },
+  "84427": {
+    "groupID": 1964,
+    "name": "Unstable Medium Proton Smartbomb Mutaplasmid"
+  },
+  "84428": {
+    "groupID": 1964,
+    "name": "Unstable Small EMP Smartbomb Mutaplasmid"
+  },
+  "84429": {
+    "groupID": 1964,
+    "name": "Unstable Small Plasma Smartbomb Mutaplasmid"
+  },
+  "84430": {
+    "groupID": 1964,
+    "name": "Unstable Small Graviton Smartbomb Mutaplasmid"
+  },
+  "84431": {
+    "groupID": 1964,
+    "name": "Unstable Small Proton Smartbomb Mutaplasmid"
+  },
+  "84432": {
+    "groupID": 1964,
+    "name": "Unstable Large Graviton Smartbomb Mutaplasmid"
+  },
+  "84433": {
+    "groupID": 1964,
+    "name": "Unstable Large Proton Smartbomb Mutaplasmid"
+  },
+  "84434": {
+    "groupID": 72,
+    "name": "Large Abyssal EMP Smartbomb"
+  },
+  "84435": {
+    "groupID": 72,
+    "name": "Large Abyssal Plasma Smartbomb"
+  },
+  "84436": {
+    "groupID": 72,
+    "name": "Large Abyssal Graviton Smartbomb"
+  },
+  "84437": {
+    "groupID": 72,
+    "name": "Large Abyssal Proton Smartbomb"
+  },
+  "84438": {
+    "groupID": 72,
+    "name": "Medium Abyssal EMP Smartbomb"
+  },
+  "84439": {
+    "groupID": 72,
+    "name": "Medium Abyssal Plasma Smartbomb"
+  },
+  "84440": {
+    "groupID": 72,
+    "name": "Medium Abyssal Graviton Smartbomb"
+  },
+  "84441": {
+    "groupID": 72,
+    "name": "Medium Abyssal Proton Smartbomb"
+  },
+  "84442": {
+    "groupID": 72,
+    "name": "Small Abyssal EMP Smartbomb"
+  },
+  "84443": {
+    "groupID": 72,
+    "name": "Small Abyssal Plasma Smartbomb"
+  },
+  "84444": {
+    "groupID": 72,
+    "name": "Small Abyssal Graviton Smartbomb"
+  },
+  "84445": {
+    "groupID": 72,
+    "name": "Small Abyssal Proton Smartbomb"
+  },
+  "84457": {
+    "groupID": 227,
+    "name": "AoE Tractor Beam Repeating Blocker 300k"
+  },
+  "84467": {
+    "groupID": 186,
+    "name": "Faulty Triglavian Cache Wreck"
+  },
+  "84468": {
+    "groupID": 1568,
+    "name": "Corrupted Candiru"
+  },
+  "84469": {
+    "groupID": 1568,
+    "name": "Alienator Synanceia"
+  },
+  "84470": {
+    "groupID": 1568,
+    "name": "Alienator Pterois"
+  },
+  "84471": {
+    "groupID": 1568,
+    "name": "Machinist Cubozoa"
+  },
+  "84472": {
+    "groupID": 1568,
+    "name": "Alienator Barracuda"
+  },
+  "84473": {
+    "groupID": 1664,
+    "name": "Corrupted Muraenidae "
+  },
+  "84474": {
+    "groupID": 1194,
+    "name": "Azdaja Statuette"
+  },
+  "84475": {
+    "groupID": 1194,
+    "name": "Frozen Ryba"
+  },
+  "84482": {
+    "groupID": 474,
+    "name": "Tetrimon Base Shortcut Keypass"
+  },
+  "84483": {
+    "groupID": 474,
+    "name": "Crimson Gauntlet Shortcut Keypass"
+  },
+  "84495": {
+    "groupID": 72,
+    "name": "'Blasting' Large Graviton Smartbomb"
+  },
+  "84496": {
+    "groupID": 72,
+    "name": "'Scalding' Large Plasma Smartbomb"
+  },
+  "84497": {
+    "groupID": 72,
+    "name": "'Booming' Medium Graviton Smartbomb"
+  },
+  "84498": {
+    "groupID": 72,
+    "name": "'Boiling' Medium Plasma Smartbomb"
+  },
+  "84499": {
+    "groupID": 72,
+    "name": "'Roaring' Small Graviton Smartbomb"
+  },
+  "84500": {
+    "groupID": 72,
+    "name": "'Seething' Small Plasma Smartbomb"
+  },
+  "84501": {
+    "groupID": 152,
+    "name": "'Blasting' Large Graviton Smartbomb Blueprint"
+  },
+  "84502": {
+    "groupID": 152,
+    "name": "'Scalding' Large Plasma Smartbomb Blueprint"
+  },
+  "84503": {
+    "groupID": 152,
+    "name": "'Booming' Medium Graviton Smartbomb Blueprint"
+  },
+  "84504": {
+    "groupID": 152,
+    "name": "'Boiling' Medium Plasma Smartbomb Blueprint"
+  },
+  "84505": {
+    "groupID": 152,
+    "name": "'Roaring' Small Graviton Smartbomb Blueprint"
+  },
+  "84506": {
+    "groupID": 152,
+    "name": "'Seething' Small Plasma Smartbomb Blueprint"
+  },
+  "84507": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice γ"
+  },
+  "84519": {
+    "groupID": 1194,
+    "name": "Tau Decay Resonance"
+  },
+  "84520": {
+    "groupID": 1194,
+    "name": "Electron Spin Resonance"
+  },
+  "84521": {
+    "groupID": 1194,
+    "name": "Muon Cosmic Resonance"
+  },
+  "84524": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - EW Spawner (DO NOT TRANSLATE)"
+  },
+  "84525": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - MW Spawner (DO NOT TRANSLATE)"
+  },
+  "84526": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - HW Spawner (DO NOT TRANSLATE)"
+  },
+  "84527": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - FW Spawner (DO NOT TRANSLATE)"
+  },
+  "84528": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - EB Spawner (DO NOT TRANSLATE)"
+  },
+  "84529": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - MB Spawner (DO NOT TRANSLATE)"
+  },
+  "84530": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - HB Spawner (DO NOT TRANSLATE)"
+  },
+  "84531": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - FB Spawner (DO NOT TRANSLATE)"
+  },
+  "84532": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - GB Spawner (DO NOT TRANSLATE)"
+  },
+  "84547": {
+    "groupID": 1665,
+    "name": "Allecto Tyrannos"
+  },
+  "84548": {
+    "groupID": 1665,
+    "name": "Megaera Tyrannos"
+  },
+  "84549": {
+    "groupID": 1665,
+    "name": "PLACEHOLDER C"
+  },
+  "84550": {
+    "groupID": 1665,
+    "name": "Drifter Siege Cruiser"
+  },
+  "84551": {
+    "groupID": 1667,
+    "name": "Tyrannos Strategos"
+  },
+  "84619": {
+    "groupID": 1568,
+    "name": "Enervating Doru"
+  },
+  "84620": {
+    "groupID": 1568,
+    "name": "Enervating Sarrisae"
+  },
+  "84631": {
+    "groupID": 1568,
+    "name": "Soothing Aspis"
+  },
+  "84632": {
+    "groupID": 1568,
+    "name": "Stirring Doru"
+  },
+  "84633": {
+    "groupID": 1664,
+    "name": "Enervating Xiphos"
+  },
+  "84634": {
+    "groupID": 1664,
+    "name": "Stirring Xiphos"
+  },
+  "84635": {
+    "groupID": 1665,
+    "name": "Risen Akontia"
+  },
+  "84636": {
+    "groupID": 1665,
+    "name": "Soothing Linothorax"
+  },
+  "84637": {
+    "groupID": 1665,
+    "name": "Enervating Akontia"
+  },
+  "84638": {
+    "groupID": 1667,
+    "name": "Watchful Labrys"
+  },
+  "84639": {
+    "groupID": 1667,
+    "name": "Enervating Kopis"
+  },
+  "84647": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice θ"
+  },
+  "84648": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice δ"
+  },
+  "84649": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice ε"
+  },
+  "84650": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice ζ"
+  },
+  "84651": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice η"
+  },
+  "84652": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice λ"
+  },
+  "84653": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice π"
+  },
+  "84654": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice τ"
+  },
+  "84655": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice φ"
+  },
+  "84656": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice μ"
+  },
+  "84657": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice ξ"
+  },
+  "84658": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice Σ"
+  },
+  "84659": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice Ω"
+  },
+  "84660": {
+    "groupID": 314,
+    "name": "Spectral Emission Slice α"
+  },
+  "84740": {
+    "groupID": 72,
+    "name": "Allecto's Modified Medium Multispectrum Smartbomb"
+  },
+  "84741": {
+    "groupID": 68,
+    "name": "Megaera's Modified Medium Energy Nosferatu"
+  },
+  "84742": {
+    "groupID": 379,
+    "name": "Tisiphone's Modified Target Painter"
+  },
+  "84743": {
+    "groupID": 1672,
+    "name": "Strategos' Modified Heavy Stasis Grappler"
+  },
+  "84807": {
+    "groupID": 4726,
+    "name": "Deprecated - Do not publish"
+  },
+  "84808": {
+    "groupID": 4726,
+    "name": "Deprecated - Do not publish"
+  },
+  "84812": {
+    "groupID": 227,
+    "name": "Horizon Siege Point - Roaming Spawner (DO NOT TRANSLATE)"
+  },
+  "84926": {
+    "groupID": 4796,
+    "name": "Ramaku Basta"
+  },
+  "84927": {
+    "groupID": 186,
+    "name": "Angel Officer Frigate Wreck"
+  },
+  "84928": {
+    "groupID": 186,
+    "name": "Angel Officer Cruiser Wreck"
+  },
+  "84929": {
+    "groupID": 186,
+    "name": "Blood Officer Frigate Wreck"
+  },
+  "84930": {
+    "groupID": 186,
+    "name": "Blood Officer Cruiser Wreck"
+  },
+  "84931": {
+    "groupID": 186,
+    "name": "Guristas Officer Frigate Wreck"
+  },
+  "84932": {
+    "groupID": 186,
+    "name": "Guristas Officer Cruiser Wreck"
+  },
+  "84933": {
+    "groupID": 186,
+    "name": "Sansha Officer Frigate Wreck"
+  },
+  "84934": {
+    "groupID": 186,
+    "name": "Sansha Officer Cruiser Wreck"
+  },
+  "84935": {
+    "groupID": 186,
+    "name": "Serpentis Officer Frigate Wreck"
+  },
+  "84936": {
+    "groupID": 186,
+    "name": "Serpentis Officer Cruiser Wreck"
+  },
+  "84945": {
+    "groupID": 4798,
+    "name": "Makra Ozman"
+  },
+  "84946": {
+    "groupID": 4800,
+    "name": "Panola Paatama"
+  },
+  "84947": {
+    "groupID": 4802,
+    "name": "Usaras Koirola"
+  },
+  "84948": {
+    "groupID": 4804,
+    "name": "Asine Hitama"
+  },
+  "84950": {
+    "groupID": 4795,
+    "name": "Sila Aajai"
+  },
+  "84951": {
+    "groupID": 4803,
+    "name": "Gara Minsk"
+  },
+  "84952": {
+    "groupID": 4797,
+    "name": "Ryhad Sethrim"
+  },
+  "84953": {
+    "groupID": 4799,
+    "name": "Hanaruwa Oittenen"
+  },
+  "84954": {
+    "groupID": 4801,
+    "name": "Nija Zufa"
+  },
+  "84959": {
+    "groupID": 339,
+    "name": "Makra's Modified Micro Auxiliary Power Core"
+  },
+  "84961": {
+    "groupID": 60,
+    "name": "Asine's Modified Assault Damage Control"
+  },
+  "84962": {
+    "groupID": 46,
+    "name": "Asine's Modified 5MN Microwarpdrive"
+  },
+  "84963": {
+    "groupID": 46,
+    "name": "Ramaku's Modified 5MN Microwarpdrive"
+  },
+  "84964": {
+    "groupID": 46,
+    "name": "Sila's Modified 50MN Microwarpdrive"
+  },
+  "84965": {
+    "groupID": 46,
+    "name": "Gara's Modified 50MN Microwarpdrive"
+  },
+  "84966": {
+    "groupID": 46,
+    "name": "Asine's Modified 1MN Afterburner"
+  },
+  "84967": {
+    "groupID": 46,
+    "name": "Ramaku's Modified 1MN Afterburner"
+  },
+  "84968": {
+    "groupID": 46,
+    "name": "Gara's Modified 10MN Afterburner"
+  },
+  "84969": {
+    "groupID": 46,
+    "name": "Sila's Modified 10MN Afterburner"
+  },
+  "84970": {
+    "groupID": 62,
+    "name": "Asine's Modified Small Armor Repairer"
+  },
+  "84971": {
+    "groupID": 62,
+    "name": "Makra's Modified Small Armor Repairer"
+  },
+  "84972": {
+    "groupID": 62,
+    "name": "Gara's Modified Medium Armor Repairer"
+  },
+  "84973": {
+    "groupID": 62,
+    "name": "Ryhad's Modified Medium Armor Repairer"
+  },
+  "84985": {
+    "groupID": 325,
+    "name": "Asine's Modified Small Remote Armor Repairer"
+  },
+  "84986": {
+    "groupID": 325,
+    "name": "Makra's Modified Small Remote Armor Repairer"
+  },
+  "84987": {
+    "groupID": 325,
+    "name": "Gara's Modified Medium Remote Armor Repairer"
+  },
+  "84988": {
+    "groupID": 325,
+    "name": "Ryhad's Modified Medium Remote Armor Repairer"
+  },
+  "84989": {
+    "groupID": 68,
+    "name": "Makra's Modified Small Energy Nosferatu"
+  },
+  "84991": {
+    "groupID": 71,
+    "name": "Makra's Modified Small Energy Neutralizer"
+  },
+  "84992": {
+    "groupID": 71,
+    "name": "Ryhad's Modified Medium Energy Neutralizer"
+  },
+  "84993": {
+    "groupID": 68,
+    "name": "Ryhad's Modified Medium Energy Nosferatu"
+  },
+  "84994": {
+    "groupID": 41,
+    "name": "Panola's Modified Small Remote Shield Booster"
+  },
+  "84995": {
+    "groupID": 41,
+    "name": "Ramaku's Modified Small Remote Shield Booster"
+  },
+  "84996": {
+    "groupID": 41,
+    "name": "Hanaruwa's Modified Medium Remote Shield Booster"
+  },
+  "84997": {
+    "groupID": 41,
+    "name": "Sila's Modified Medium Remote Shield Booster"
+  },
+  "84998": {
+    "groupID": 40,
+    "name": "Ramaku's Modified Small Shield Booster"
+  },
+  "84999": {
+    "groupID": 40,
+    "name": "Panola's Modified Small Shield Booster"
+  },
+  "85000": {
+    "groupID": 40,
+    "name": "Sila's Modified Medium Shield Booster"
+  },
+  "85001": {
+    "groupID": 40,
+    "name": "Hanaruwa's Modified Medium Shield Booster"
+  },
+  "85002": {
+    "groupID": 201,
+    "name": "Panola's Modified Ladar ECM"
+  },
+  "85003": {
+    "groupID": 201,
+    "name": "Panola's Modified Radar ECM"
+  },
+  "85004": {
+    "groupID": 201,
+    "name": "Panola's Modified Magnetometric ECM"
+  },
+  "85005": {
+    "groupID": 201,
+    "name": "Panola's Modified Gravimetric ECM"
+  },
+  "85006": {
+    "groupID": 514,
+    "name": "Dread Guristas Signal Distortion Amplifier"
+  },
+  "85007": {
+    "groupID": 514,
+    "name": "Hanaruwa's Modified Signal Distortion Amplifier"
+  },
+  "85008": {
+    "groupID": 74,
+    "name": "Asine's Modified Light Neutron Blaster"
+  },
+  "85009": {
+    "groupID": 74,
+    "name": "Gara's Modified Navy Heavy Neutron Blaster"
+  },
+  "85010": {
+    "groupID": 55,
+    "name": "Ramaku's Modified 200mm AutoCannon"
+  },
+  "85011": {
+    "groupID": 55,
+    "name": "Sila's Modified 425mm Autocannon"
+  },
+  "85012": {
+    "groupID": 53,
+    "name": "Makra's Modified Small Focused Pulse Laser"
+  },
+  "85013": {
+    "groupID": 53,
+    "name": "Usaras' Modified Small Focused Pulse Laser"
+  },
+  "85014": {
+    "groupID": 53,
+    "name": "Ryhad's Modified Heavy Pulse Laser"
+  },
+  "85015": {
+    "groupID": 53,
+    "name": "Nija's Modified Heavy Pulse Laser"
+  },
+  "85021": {
+    "groupID": 507,
+    "name": "Panola's Modified Rocket Launcher"
+  },
+  "85023": {
+    "groupID": 771,
+    "name": "Hanaruwa's Modified Heavy Assault Missile Launcher"
+  },
+  "85025": {
+    "groupID": 46,
+    "name": "Usaras' Modified 1MN Afterburner"
+  },
+  "85026": {
+    "groupID": 46,
+    "name": "Nija's Modified 10MN Afterburner"
+  },
+  "85027": {
+    "groupID": 76,
+    "name": "Usaras' Modified Small Capacitor Booster"
+  },
+  "85028": {
+    "groupID": 76,
+    "name": "Nija's Modified Medium Capacitor Booster"
+  },
+  "85031": {
+    "groupID": 46,
+    "name": "True Sansha 1MN Afterburner"
+  },
+  "85032": {
+    "groupID": 46,
+    "name": "True Sansha 10MN Afterburner"
+  },
+  "85033": {
+    "groupID": 67,
+    "name": "Usaras' Modified Small Remote Capacitor Transmitter"
+  },
+  "85034": {
+    "groupID": 67,
+    "name": "Nija's Modified Medium Remote Capacitor Transmitter"
+  },
+  "85035": {
+    "groupID": 899,
+    "name": "Nija's Modified Warp Disruption Field Generator"
+  },
+  "85057": {
+    "groupID": 186,
+    "name": "Horizon Breach Engine Wreck"
+  },
+  "85062": {
+    "groupID": 830,
+    "name": "Sidewinder"
+  },
+  "85067": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Electrical  - Medium"
+  },
+  "85068": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Electrical  - Hard"
+  },
+  "85069": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Dark - Medium"
+  },
+  "85070": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Dark - Hard"
+  },
+  "85071": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Gamma - Hard"
+  },
+  "85072": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Gamma - Medium"
+  },
+  "85073": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Firestorm - Medium"
+  },
+  "85074": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Firestorm - Hard"
+  },
+  "85075": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Exotic - Medium"
+  },
+  "85076": {
+    "groupID": 227,
+    "name": "[HF] Weather Effect - Exotic - Hard"
+  },
+  "85118": {
+    "groupID": 4726,
+    "name": "Sani Ichor Gloss - Limited"
+  },
+  "85127": {
+    "groupID": 4091,
+    "name": "Crimson Harvest Expert System"
+  },
+  "85133": {
+    "groupID": 4726,
+    "name": "Sani Ichor Matte - Limited"
+  },
+  "85134": {
+    "groupID": 4726,
+    "name": "Savant Carmine Gloss - Limited"
+  },
+  "85137": {
+    "groupID": 4726,
+    "name": "Savant Carmine Gloss - Unlimited"
+  },
+  "85139": {
+    "groupID": 4726,
+    "name": "Charcoal Covenant Satin - Limited"
+  },
+  "85140": {
+    "groupID": 4726,
+    "name": "Charcoal Covenant Satin - Unlimited"
+  },
+  "85141": {
+    "groupID": 4726,
+    "name": "Purified Cerise Satin - Limited"
+  },
+  "85143": {
+    "groupID": 4726,
+    "name": "Sacred Flesh Matte - Limited"
+  },
+  "85144": {
+    "groupID": 4726,
+    "name": "Haunted Citroen Gloss - Limited"
+  },
+  "85145": {
+    "groupID": 4726,
+    "name": "Bleached Bone Matte - Limited"
+  },
+  "85146": {
+    "groupID": 4726,
+    "name": "Ritual Gourd Satin - Limited"
+  },
+  "85147": {
+    "groupID": 4726,
+    "name": "Brutal Splatter Pattern - Limited"
+  },
+  "85148": {
+    "groupID": 4726,
+    "name": "Annointed Dead Pattern - Limited"
+  },
+  "85149": {
+    "groupID": 4726,
+    "name": "Annointed Dead Pattern - Unlimited"
+  },
+  "85150": {
+    "groupID": 4726,
+    "name": "Haema Iron Metallic - Unlimited"
+  },
+  "85151": {
+    "groupID": 4726,
+    "name": "Haema Iron Metallic - Limited"
+  },
+  "85152": {
+    "groupID": 4726,
+    "name": "Phantom Ferros Metallic - Limited"
+  },
+  "85153": {
+    "groupID": 4726,
+    "name": "Steel Violet - Limited"
+  },
+  "85154": {
+    "groupID": 4726,
+    "name": "Savant Carmine Satin - Limited"
+  },
+  "85155": {
+    "groupID": 4726,
+    "name": "Savant Carmine Satin - Unlimited"
+  },
+  "85178": {
+    "groupID": 314,
+    "name": "Tetrimonic Warclone Blanks"
+  },
+  "85179": {
+    "groupID": 314,
+    "name": "Overseer Sabik Vial"
+  },
+  "85225": {
+    "groupID": 1975,
+    "name": "Shrouded Structure"
+  },
+  "85229": {
+    "groupID": 833,
+    "name": "Cobra"
+  },
+  "85236": {
+    "groupID": 898,
+    "name": "Python"
+  },
+  "85242": {
+    "groupID": 314,
+    "name": "Hypercatabolic Clone Tissue"
+  },
+  "85279": {
+    "groupID": 303,
+    "name": "Totality Day Accelerator"
+  },
+  "85290": {
+    "groupID": 4726,
+    "name": "Burnt Sacrament Gloss - Limited"
+  },
+  "85305": {
+    "groupID": 4726,
+    "name": "Scars of Sarikusa - Limited"
+  },
+  "85306": {
+    "groupID": 4726,
+    "name": "Shadow Sabik Satin - Limited"
+  },
+  "85307": {
+    "groupID": 4726,
+    "name": "Blooded Steel Metallic - Limited"
+  },
+  "85308": {
+    "groupID": 4726,
+    "name": "Illuminating Faith Matte - Limited"
+  },
+  "85316": {
+    "groupID": 4821,
+    "name": "Atavum"
+  },
+  "85403": {
+    "groupID": 4726,
+    "name": "Managerial Black Matte - Limited"
+  },
+  "85404": {
+    "groupID": 4726,
+    "name": "Council Meeting Beige Matte - Limited"
+  },
+  "85405": {
+    "groupID": 4726,
+    "name": "Consensus Drift - Limited"
+  },
+  "85406": {
+    "groupID": 4726,
+    "name": "Stellar Indigo Chrome Metallic - Limited"
+  },
+  "85632": {
+    "groupID": 226,
+    "name": "Deathless Engineering Complex"
+  },
+  "85683": {
+    "groupID": 1319,
+    "name": "Unreleased Skillbook"
+  },
+  "85684": {
+    "groupID": 1319,
+    "name": "Unreleased Expert System"
+  },
+  "85689": {
+    "groupID": 1319,
+    "name": "Unreleased New Pattern"
+  },
+  "85712": {
+    "groupID": 314,
+    "name": "YC110.05.29 - Arceho. Student Yosef Okada Journal entry"
+  },
+  "85713": {
+    "groupID": 314,
+    "name": "YC110.06.09 - Asst. Archeo. Yosef Okada Journal entry"
+  },
+  "85714": {
+    "groupID": 314,
+    "name": "YC110.08.20 - Asst. Archeo. Yosef Okada Journal entry"
+  },
+  "85715": {
+    "groupID": 314,
+    "name": "YC110.11.30 - Asst. Archeo. Yosef Okada Journal entry"
+  },
+  "85716": {
+    "groupID": 314,
+    "name": "YC110.12.04 - Asst. Archeo. Yosef Okada Journal entry"
+  },
+  "85717": {
+    "groupID": 314,
+    "name": "YC110.12.10 - Asst. Archeo. Yosef Okada Journal entry"
+  },
+  "85718": {
+    "groupID": 314,
+    "name": "YC113.01.15 - Dr. Yosef Okada Journal entry"
+  },
+  "85719": {
+    "groupID": 314,
+    "name": "YC113.04.15 - Dr. Yosef Okada Journal entry"
+  },
+  "85720": {
+    "groupID": 314,
+    "name": "YC113.05.01 - Dr. Yosef Okada Journal entry"
+  },
+  "85721": {
+    "groupID": 314,
+    "name": "YC113.05.24 - Dr. Yosef Okada Journal entry"
+  },
+  "85722": {
+    "groupID": 314,
+    "name": "YC113.11.09 - Dr. Yosef Okada Journal entry"
+  },
+  "85723": {
+    "groupID": 314,
+    "name": "YC114.01.19 - Dr. Yosef Okada Journal entry"
+  },
+  "85724": {
+    "groupID": 314,
+    "name": "YC115.08.19 - Yosef Okada Journal entry"
+  },
+  "85725": {
+    "groupID": 314,
+    "name": "YC117.02.06 - Yosef Okada Journal entry"
+  },
+  "85726": {
+    "groupID": 314,
+    "name": "YC117.02.20 - Yosef Okada Journal entry"
+  },
+  "85727": {
+    "groupID": 314,
+    "name": "YC117.10.15 - Yosef Okada Journal entry"
+  },
+  "85728": {
+    "groupID": 314,
+    "name": "YC117.10.30 - Yosef Okada Journal entry"
+  },
+  "85729": {
+    "groupID": 314,
+    "name": "YC117.11.01 - Yosef Okada Journal entry"
+  },
+  "85730": {
+    "groupID": 314,
+    "name": "YC117.11.06 - dictated record"
+  },
+  "85731": {
+    "groupID": 314,
+    "name": "YC117.11.08 - dictated record"
+  },
+  "85732": {
+    "groupID": 226,
+    "name": "Deathless Fenrir Freighter"
+  },
+  "85746": {
+    "groupID": 526,
+    "name": "Encrypted Infomorph"
+  },
+  "85747": {
+    "groupID": 479,
+    "name": "Satori-Horigu Combat Scanner Probe"
+  },
+  "85748": {
+    "groupID": 1230,
+    "name": "Neural Lace 'Bluefire' Net Ablation 960-10"
+  },
+  "85749": {
+    "groupID": 1948,
+    "name": "Neural Lace 'Bluefire' Net Ablation 960-10 Blueprint"
+  },
+  "85750": {
+    "groupID": 538,
+    "name": "Deathless Circle Relic Analyzer"
+  },
+  "85751": {
+    "groupID": 917,
+    "name": "Deathless Circle Relic Analyzer Blueprint"
+  },
+  "85752": {
+    "groupID": 4726,
+    "name": "Glorified Ruby Gloss - Limited "
+  },
+  "85753": {
+    "groupID": 4726,
+    "name": "Murky Pravda Satin - Limited"
+  },
+  "85754": {
+    "groupID": 4726,
+    "name": "Azure Istina Gloss - Limited"
+  },
+  "85755": {
+    "groupID": 4726,
+    "name": "Bujan Blue Steel Metallic - Limited"
+  },
+  "85756": {
+    "groupID": 4726,
+    "name": "Kyber Conjunction - Limited"
+  },
+  "85787": {
+    "groupID": 1194,
+    "name": "Deathless Research Consignment"
+  },
+  "85843": {
+    "groupID": 4726,
+    "name": "Blue Ice Gloss - Limited"
+  },
+  "85844": {
+    "groupID": 4726,
+    "name": "Clear Gelidus Satin - Limited"
+  },
+  "85845": {
+    "groupID": 4726,
+    "name": "Winter Bloom Matte - Limited"
+  },
+  "85846": {
+    "groupID": 4726,
+    "name": "Festive Iron Metallic - Limited"
+  },
+  "85847": {
+    "groupID": 4726,
+    "name": "Jagged Crystal - Limited"
+  },
+  "85849": {
+    "groupID": 314,
+    "name": "Deathless Research Honorarium"
+  },
+  "85876": {
+    "groupID": 4726,
+    "name": "Vermillion Seal Satin - Limited"
+  },
+  "85877": {
+    "groupID": 4726,
+    "name": "Midnight Mass Satin - Limited"
+  },
+  "85878": {
+    "groupID": 4726,
+    "name": "Golden Nova Metallic - Limited"
+  },
+  "85879": {
+    "groupID": 4726,
+    "name": "Infinite Cyclones - Limited"
+  },
+  "85880": {
+    "groupID": 1194,
+    "name": "Deathless Research Superior Consignment"
+  },
+  "86143": {
+    "groupID": 4726,
+    "name": "Lapin Fire Matte - Limited"
+  },
+  "86144": {
+    "groupID": 4726,
+    "name": "Lethal Navy Metallic - Limited"
+  },
+  "86407": {
+    "groupID": 4100,
+    "name": "20th Alliance Tournament: The Tuskers Co."
   }
 }

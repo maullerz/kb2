@@ -12288,6 +12288,7 @@
     "dataType": 5,
     "defaultValue": 0,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": true,
     "maxAttributeID": 2623,
     "name": "inverseCappedSecStatus",
@@ -15155,13 +15156,14 @@
     "defaultValue": 0,
     "description": "Infrastructure Hold Capacity",
     "displayNameID": {
-      "de": "Kapazität des Kolonieressourcen-Hangars",
+      "de": "Infrastrukturhangarkapazität",
       "en": "Infrastructure Hold Capacity",
-      "es": "Capacidad de la bodega de recursos de la colonia",
-      "fr": "Capacité de la baie de ressources de colonie",
-      "ja": "コロニーリソースホールド容量",
-      "ru": "Вместимость отсека для планетарных ресурсов",
-      "zh": "Colony Resources Hold Capacity"
+      "es": "Capacidad de la bodega de infraestructuras",
+      "fr": "Capacité de la baie d'infrastructure",
+      "ja": "インフラホールド容量",
+      "ko": "구조물 격납고 적재량",
+      "ru": "Вместимость логистического отсека",
+      "zh": "基础设施舱容量"
     },
     "displayWhenZero": false,
     "highIsGood": true,
@@ -15180,13 +15182,14 @@
       "zh": "舰船的基础设施舱所能装载的基础设施相关物品的总体积。 <br><br>这些物品包括：<br>殖民试剂、昇威建筑、建筑改装件、建筑装备、屹立铁骑舰载机、建筑弹药、量子芯、轨道天钩、定制框架，主权建筑、主权升级件、卫星材料、燃料块、行星货物和精炼冰矿产物。"
     },
     "tooltipTitleID": {
-      "de": "Kapazität des Kolonieressourcen-Hangars",
+      "de": "Infrastrukturhangarkapazität",
       "en": "Infrastructure Hold Capacity",
-      "es": "Capacidad de la bodega de recursos de la colonia",
-      "fr": "Capacité de la baie de ressources de colonie",
-      "ja": "コロニーリソースホールド容量",
-      "ru": "Вместимость отсека для планетарных ресурсов",
-      "zh": "Colony Resources Hold Capacity"
+      "es": "Capacidad de la bodega de infraestructuras",
+      "fr": "Capacité de la baie d'infrastructure",
+      "ja": "インフラホールド容量",
+      "ko": "구조물 격납고 적재량",
+      "ru": "Вместимость логистического отсека",
+      "zh": "基础设施舱容量"
     },
     "unitID": 9
   },
@@ -15289,6 +15292,7 @@
       "fr": "Capacité de la baie de production de matériau lunaire",
       "ja": "衛星資源産出ベイ容量",
       "ko": "위성 자원 저장소 적재량",
+      "ru": "Вместимость отсека для материалов со спутников",
       "zh": "卫星材料输出舱容量"
     },
     "displayWhenZero": false,
@@ -15319,6 +15323,96 @@
     "displayWhenZero": false,
     "highIsGood": true,
     "name": " upwellHaulersMediumMissileFittingBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5727": {
+    "attributeID": 5727,
+    "categoryID": 7,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Alliance Tournament XX Frigate Bonus",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "maxAttributeID": 5732,
+    "name": "ATFrigDmgBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5728": {
+    "attributeID": 5728,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "ATInverseSecStatus",
+    "published": false,
+    "stackable": true
+  },
+  "5733": {
+    "attributeID": 5733,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBonusATprobDuration",
+    "published": false,
+    "stackable": true
+  },
+  "5734": {
+    "attributeID": 5734,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "maxAttributeID": 5732,
+    "name": "ATBurstJammerStrengthBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5743": {
+    "attributeID": 5743,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "maxAttributeID": 5732,
+    "name": "ATcruiserStasisWebifierBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5744": {
+    "attributeID": 5744,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "maxAttributeID": 5732,
+    "name": "ATcruiserScramblerDisruptorBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5746": {
+    "attributeID": 5746,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "ATfrigDroneBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5748": {
+    "attributeID": 5748,
+    "categoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "ATcruiserDroneBonus",
     "published": false,
     "stackable": true
   }
