@@ -143,6 +143,13 @@ const ItemsList = ({ kmData }) => {
 
   return (
     <Root>
+      <ItemGroup>
+        <ItemGroupTitle isCollapsed={collapsed}>
+          <h4>Ship</h4>
+        </ItemGroupTitle>
+        <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
+      </ItemGroup>
+
       <Header onClick={handleToggleCollapsed}>
         Items Dropped / Destroyed
         <Line />
@@ -181,13 +188,6 @@ const ItemsList = ({ kmData }) => {
         ? renderOrdered()
         : renderGrouped()
       }
-
-      <ItemGroup>
-        <ItemGroupTitle isCollapsed={collapsed}>
-          <h4>Ship</h4>
-        </ItemGroupTitle>
-        <ListItem type={vict.ship} count={1} prices={prices} isDestroyed isMobile={isMobile} />
-      </ItemGroup>
 
       {/*
         TODO: <h4>Fitted</h4>

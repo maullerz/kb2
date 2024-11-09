@@ -21,9 +21,12 @@ const ShipSummary = ({ stats }) => {
           <Row>
             <Label>Ship:</Label>
             <div>
-              <Link to={`/ship/${id}`}>
+              {/* <Link to={`/ship/${id}`}>
                 {name}
-              </Link>
+              </Link> */}
+              <a href={`https://db.evetools.org/type/${id}`} target='_blank' rel='noopener'>
+                {name}
+              </a>
             </div>
           </Row>
           {groupID &&

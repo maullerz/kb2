@@ -6,6 +6,7 @@ import { useLocation } from 'react-router-dom'
 
 import history from 'services/routerHistory'
 import KillmailService from 'api/KillmailService'
+import Spinner from 'components/Spinner'
 import OrgIcon from 'components/icons/OrgIcon'
 import CharIcon from 'components/icons/CharIcon'
 import ItemIcon from 'components/icons/ItemIcon'
@@ -85,6 +86,7 @@ const DropdownItem = ({ id, name, type, rest }) => {
 const SearchInput = () => {
   const { pathname } = useLocation()
   const [input, setInput] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
   const [matchedResults, setMatchedResults] = useState(null)
   const [inputRef, setInputFocus] = useFocus()
 
@@ -95,10 +97,13 @@ const SearchInput = () => {
 
   async function fetchAutocomplete(text) {
     try {
+      setIsLoading(true)
       const { data: result } = (await KillmailService.getAutocomplete(text)) || {}
       setMatchedResults(result)
     } catch (e) {
       console.error('fetchAutocomplete:', e)
+    } finally {
+      setIsLoading(false)
     }
   }
 
@@ -129,6 +134,16 @@ const SearchInput = () => {
   }
 
   function renderMatched() {
+    if (isLoading) {
+      return (
+        <Dropdown>
+          <Overlay>
+            <Spinner style={{ margin: '16px 0' }} />
+          </Overlay>
+        </Dropdown>
+      )
+    }
+
     if (!matchedResults) return null
     const { regions, systems, types, allys, corps, chars } = matchedResults
     const nodes = regions.map(([id, name]) => (

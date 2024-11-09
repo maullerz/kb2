@@ -123,6 +123,7 @@ if (process.env.NODE_ENV === 'development') {
   config.rules['react/jsx-no-undef'] = 0
   config.rules['no-unreachable'] = 0
   config.rules['no-console'] = 0
+  config.rules['no-constant-condition'] = 0
 }
 
 module.exports = config
