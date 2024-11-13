@@ -304,7 +304,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 83,
+    "iconID": 26451,
     "name": "Shield Recharger",
     "published": true,
     "useBasePrice": false
@@ -334,7 +334,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 90,
+    "iconID": 26457,
     "name": "Capacitor Recharger",
     "published": true,
     "useBasePrice": false
@@ -434,7 +434,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26450,
     "name": "Shield Power Relay",
     "published": true,
     "useBasePrice": false
@@ -444,7 +444,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26452,
     "name": "Gyrostabilizer",
     "published": true,
     "useBasePrice": false
@@ -847,7 +847,7 @@
     "anchored": false,
     "categoryID": 9,
     "fittableNonSingleton": false,
-    "iconID": 83,
+    "iconID": 26451,
     "name": "Shield Recharger Blueprint",
     "published": true,
     "useBasePrice": true
@@ -877,7 +877,7 @@
     "anchored": false,
     "categoryID": 9,
     "fittableNonSingleton": false,
-    "iconID": 90,
+    "iconID": 26457,
     "name": "Capacitor Recharger Blueprint",
     "published": true,
     "useBasePrice": true
@@ -1471,7 +1471,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26453,
     "name": "Heat Sink",
     "published": true,
     "useBasePrice": false
@@ -1541,7 +1541,7 @@
     "anchored": false,
     "categoryID": 9,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26453,
     "name": "Heat Sink Blueprint",
     "published": true,
     "useBasePrice": true
@@ -1934,7 +1934,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26454,
     "name": "Magnetic Field Stabilizer",
     "published": true,
     "useBasePrice": false
@@ -5910,7 +5910,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26455,
     "name": "Capacitor Power Relay",
     "published": true,
     "useBasePrice": false
@@ -5920,7 +5920,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26456,
     "name": "Capacitor Flux Coil",
     "published": true,
     "useBasePrice": false
@@ -5940,7 +5940,7 @@
     "anchored": false,
     "categoryID": 7,
     "fittableNonSingleton": false,
-    "iconID": 0,
+    "iconID": 26449,
     "name": "Shield Flux Coil",
     "published": true,
     "useBasePrice": false
@@ -12645,6 +12645,7 @@
     "anchored": false,
     "categoryID": 66,
     "fittableNonSingleton": false,
+    "iconID": 26455,
     "name": "Structure Capacitor Power Relay",
     "published": true,
     "useBasePrice": false
@@ -14471,6 +14472,51 @@
     "name": "Asteroid Serpentis Officer Frigate",
     "published": false,
     "useBasePrice": false
+  },
+  "4807": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 7,
+    "fittableNonSingleton": false,
+    "name": "Breacher Pod Launchers",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4808": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 8,
+    "fittableNonSingleton": true,
+    "name": "SCARAB Breacher Pods",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4810": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "Mercenary Den",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4811": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mercenary Den Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4820": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mutaplasmid Blueprint",
+    "published": true,
+    "useBasePrice": true
   },
   "4821": {
     "anchorable": false,

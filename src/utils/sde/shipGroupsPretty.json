@@ -878,6 +878,10 @@
     "name": "Combat Battlecruiser",
     "types": [
       [
+        85086,
+        "Cenotaph"
+      ],
+      [
         78366,
         "Alligator"
       ],
@@ -962,6 +966,10 @@
   "420": {
     "name": "Destroyer",
     "types": [
+      [
+        85087,
+        "Tholos"
+      ],
       [
         78367,
         "Mamba"
@@ -1256,6 +1264,10 @@
     "name": "Covert Ops",
     "types": [
       [
+        85062,
+        "Sidewinder"
+      ],
+      [
         33397,
         "Chremoas"
       ],
@@ -1370,6 +1382,10 @@
   "833": {
     "name": "Force Recon Ship",
     "types": [
+      [
+        85229,
+        "Cobra"
+      ],
       [
         33395,
         "Moracha"
@@ -1499,6 +1515,10 @@
   "898": {
     "name": "Black Ops",
     "types": [
+      [
+        85236,
+        "Python"
+      ],
       [
         44996,
         "Marshal"

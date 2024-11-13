@@ -229,6 +229,7 @@
     },
     "highIsGood": true,
     "iconID": 1389,
+    "minAttributeID": 2266,
     "name": "speedFactor",
     "published": true,
     "stackable": false,
@@ -15270,6 +15271,28 @@
     "published": false,
     "stackable": true
   },
+  "5681": {
+    "attributeID": 5681,
+    "categoryID": 17,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayNameID": {
+      "de": "Gruppenpassagierbonus",
+      "en": "Conduit Passenger Bonus",
+      "es": "Bonificación de pasajeros de conducto",
+      "fr": "Bonus de passager de saut",
+      "ja": "コンジットジャンプ同乗者ボーナス",
+      "ko": "점프 필드 대상 보너스",
+      "ru": "Бонус к пассажирам при прыжке",
+      "zh": "导管乘客加成"
+    },
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "conduitPassengerBonusPercent",
+    "published": true,
+    "stackable": true,
+    "unitID": 105
+  },
   "5682": {
     "attributeID": 5682,
     "dataType": 0,
@@ -15402,6 +15425,17 @@
     "displayWhenZero": false,
     "highIsGood": true,
     "name": "ATfrigDroneBonus",
+    "published": false,
+    "stackable": true
+  },
+  "5747": {
+    "attributeID": 5747,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "ShipBonusMC3",
     "published": false,
     "stackable": true
   },
