@@ -4,8 +4,8 @@ import { Href } from 'components'
 
 import { Root, LegalContainer, Links, PartnerLogo } from './styles'
 
-const isDev = process.env.NODE_ENV === 'development'
-// const isDev = false
+// const isDev = process.env.NODE_ENV === 'development'
+const isDev = false
 
 const Footer = () => {
   return (
@@ -23,8 +23,8 @@ const Footer = () => {
       </LegalContainer>
 
       <Links>
-        <Href link='/about'>
-          About
+        <Href link='https://boosty.to/evetools/donate'>
+          Support EveTools
         </Href>
         &nbsp;/&nbsp;
         {isDev &&
@@ -39,8 +39,8 @@ const Footer = () => {
           Discord
         </Href>
         &nbsp;/&nbsp;
-        <Href link='https://www.patreon.com/bePatron?u=40114286'>
-          Become a Patron
+        <Href link='/about'>
+          About
         </Href>
       </Links>
 

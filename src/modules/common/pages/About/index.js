@@ -31,8 +31,8 @@ const Home = () => {
           <Paragraph>
             EveTools is my personal project and completely done in my freetime.
             If you like EveTools and want to help me keep it up, running and develop feel free to make a donation through{' '}
-            <Href link='https://www.patreon.com/bePatron?u=40114286'>
-              Patreon
+            <Href link='https://boosty.to/evetools/donate'>
+              Boosty
             </Href>
             {' '}and provide your feedback and ideas in{' '}
             <Href link='https://discord.gg/HyPnAU7'>
@@ -62,10 +62,10 @@ const Home = () => {
               </span>
             </Row>
             <Row>
-              <span>Patreon:</span>
+              <span>Boosty:</span>
               <span>
-                <Href link='https://www.patreon.com/maullerz'>
-                  Maullerz
+                <Href link='https://boosty.to/evetools/donate'>
+                  EveTools
                 </Href>
               </span>
             </Row>

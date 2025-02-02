@@ -30,6 +30,7 @@ export const LegalContainer = styled.div`
 export const Links = styled.div`
   min-width: 120px;
   display: flex;
+  gap: 10px;
   justify-content: space-between;
 `
 
