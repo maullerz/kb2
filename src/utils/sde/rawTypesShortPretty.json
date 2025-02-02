@@ -68068,7 +68068,7 @@
     "name": "Abandoned Talocan Battleship"
   },
   "30529": {
-    "groupID": 1207,
+    "groupID": 306,
     "name": "Deserted Talocan Cruiser"
   },
   "30530": {
@@ -118400,115 +118400,115 @@
     "name": "ENV_DarkExploration_01a"
   },
   "64623": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 1"
   },
   "64624": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 2"
   },
   "64625": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 3"
   },
   "64626": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 4"
   },
   "64627": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 5"
   },
   "64628": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 6"
   },
   "64629": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 7"
   },
   "64630": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 8"
   },
   "64631": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 9"
   },
   "64632": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Small 10"
   },
   "64633": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 1"
   },
   "64634": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 2"
   },
   "64635": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 3"
   },
   "64636": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 4"
   },
   "64637": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 5"
   },
   "64638": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 6"
   },
   "64639": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 7"
   },
   "64640": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Medium 8"
   },
   "64641": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 1"
   },
   "64642": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 2"
   },
   "64643": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 3"
   },
   "64644": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 4"
   },
   "64645": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 5"
   },
   "64646": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 6"
   },
   "64647": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 7"
   },
   "64648": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 8"
   },
   "64649": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 9"
   },
   "64650": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Large 10"
   },
   "64651": {
@@ -132781,7 +132781,7 @@
   },
   "79819": {
     "groupID": 1194,
-    "name": "Ice Storm Filaments Crate"
+    "name": "Expired Ice Storm Filaments Crate"
   },
   "79825": {
     "groupID": 186,
@@ -132789,27 +132789,27 @@
   },
   "79832": {
     "groupID": 1194,
-    "name": "ORE Green Salvage Package"
+    "name": "Yoiul Y125 ORE Green Salvage Package"
   },
   "79833": {
     "groupID": 1194,
-    "name": "ORE White Salvage Package"
+    "name": "Yoiul Y125 ORE White Salvage Package"
   },
   "79834": {
     "groupID": 1194,
-    "name": "ORE Red Salvage Package"
+    "name": "Yoiul Y125 ORE Red Salvage Package"
   },
   "79835": {
     "groupID": 1194,
-    "name": "Peculiar Icebound Salvage"
+    "name": "Yoiul Y125 Peculiar Icebound Salvage"
   },
   "79836": {
     "groupID": 1194,
-    "name": "Unusual Icebound Salvage"
+    "name": "Yoiul Y125 Unusual Icebound Salvage"
   },
   "79837": {
     "groupID": 1194,
-    "name": "Rare Icebound Salvage"
+    "name": "Yoiul Y125 Rare Icebound Salvage"
   },
   "79839": {
     "groupID": 920,
@@ -133672,43 +133672,43 @@
     "name": "Guristas Zarzakh Rattlesnake"
   },
   "80853": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 1"
   },
   "80854": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 2"
   },
   "80855": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 3"
   },
   "80856": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 4"
   },
   "80857": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 5"
   },
   "80858": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 6"
   },
   "80860": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 7"
   },
   "80862": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 8"
   },
   "80863": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 9"
   },
   "80864": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 4 Xlarge 10"
   },
   "80873": {
@@ -138609,7 +138609,7 @@
   },
   "85009": {
     "groupID": 74,
-    "name": "Gara's Modified Navy Heavy Neutron Blaster"
+    "name": "Gara's Modified Heavy Neutron Blaster"
   },
   "85010": {
     "groupID": 55,
@@ -138768,59 +138768,59 @@
     "name": "SCARAB Breacher Pod M"
   },
   "85090": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Small 1"
   },
   "85091": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Small 2"
   },
   "85092": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Small 3"
   },
   "85093": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Small 4"
   },
   "85094": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Small 5"
   },
   "85095": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Small 6"
   },
   "85096": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 1"
   },
   "85097": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 2"
   },
   "85098": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 3"
   },
   "85099": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 4"
   },
   "85100": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 5"
   },
   "85101": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 6"
   },
   "85102": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 7"
   },
   "85103": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Medium 8"
   },
   "85114": {
@@ -139103,6 +139103,18 @@
     "groupID": 898,
     "name": "Python"
   },
+  "85237": {
+    "groupID": 303,
+    "name": "Basic 'Brainfreeze' Cerebral Accelerator"
+  },
+  "85238": {
+    "groupID": 303,
+    "name": "Potent 'Brainfreeze' Cerebral Accelerator"
+  },
+  "85239": {
+    "groupID": 303,
+    "name": "Extended 'Brainfreeze' Cerebral Accelerator"
+  },
   "85242": {
     "groupID": 314,
     "name": "Hypercatabolic Clone Tissue"
@@ -139110,6 +139122,102 @@
   "85251": {
     "groupID": 1975,
     "name": "Angel Freighter Nomad Wreckage"
+  },
+  "85252": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster I"
+  },
+  "85253": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster II"
+  },
+  "85254": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster III"
+  },
+  "85255": {
+    "groupID": 303,
+    "name": "Wightstorm Sunyata Booster IV"
+  },
+  "85256": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster I"
+  },
+  "85257": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster II"
+  },
+  "85258": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster III"
+  },
+  "85259": {
+    "groupID": 303,
+    "name": "Wightstorm Nirvana Booster IV"
+  },
+  "85260": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster I"
+  },
+  "85261": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster II"
+  },
+  "85262": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster III"
+  },
+  "85263": {
+    "groupID": 303,
+    "name": "Wightstorm Rapture Booster IV"
+  },
+  "85264": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster I "
+  },
+  "85265": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster II"
+  },
+  "85266": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster III"
+  },
+  "85267": {
+    "groupID": 303,
+    "name": "Wightstorm Cetana Booster IV"
+  },
+  "85268": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster I"
+  },
+  "85269": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster II"
+  },
+  "85270": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster III"
+  },
+  "85271": {
+    "groupID": 303,
+    "name": "Wightstorm Vitarka Booster IV"
+  },
+  "85272": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster I"
+  },
+  "85273": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster II"
+  },
+  "85274": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster III"
+  },
+  "85275": {
+    "groupID": 303,
+    "name": "Wightstorm Manasikara Booster IV"
   },
   "85276": {
     "groupID": 526,
@@ -139123,28 +139231,64 @@
     "groupID": 303,
     "name": "Totality Day Accelerator"
   },
+  "85281": {
+    "groupID": 4041,
+    "name": "DNCR-05H Highsec Ice Storm Filament"
+  },
+  "85282": {
+    "groupID": 4041,
+    "name": "DSHR-01H Highsec Ice Storm Filament"
+  },
+  "85283": {
+    "groupID": 4041,
+    "name": "PRNCR-10H Highsec Ice Storm Filament"
+  },
+  "85284": {
+    "groupID": 4041,
+    "name": "RDLF-10L Lowsec Ice Storm Filament"
+  },
+  "85285": {
+    "groupID": 4041,
+    "name": "VXN-01N Nullsec Ice Storm Filament"
+  },
+  "85286": {
+    "groupID": 4041,
+    "name": "BLTZN-05L Lowsec Ice Storm Filament"
+  },
+  "85287": {
+    "groupID": 4041,
+    "name": "CMT-05N Nullsec Ice Storm Filament"
+  },
+  "85288": {
+    "groupID": 4041,
+    "name": "CPD-10N Nullsec Ice Storm Filament"
+  },
+  "85289": {
+    "groupID": 4041,
+    "name": "DNNR-01L Lowsec Ice Storm Filament"
+  },
   "85290": {
     "groupID": 4726,
     "name": "Burnt Sacrament Gloss - Limited"
   },
   "85300": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Large 1"
   },
   "85301": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Large 2"
   },
   "85302": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Large 3"
   },
   "85303": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Large 4"
   },
   "85304": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Large 5"
   },
   "85305": {
@@ -139163,21 +139307,57 @@
     "groupID": 4726,
     "name": "Illuminating Faith Matte - Limited"
   },
+  "85309": {
+    "groupID": 1194,
+    "name": "Ice Storm Filaments Crate"
+  },
+  "85310": {
+    "groupID": 1194,
+    "name": "Yoiul Festival Apparel Crate"
+  },
+  "85311": {
+    "groupID": 1194,
+    "name": "Yoiul Festival Trinket Crate"
+  },
   "85316": {
     "groupID": 4821,
     "name": "Atavum"
   },
   "85329": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Xlarge 1"
   },
   "85330": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Xlarge 2"
   },
   "85331": {
-    "groupID": 4579,
+    "groupID": 1975,
     "name": "Asteroid Set 3 Xlarge 3"
+  },
+  "85355": {
+    "groupID": 1194,
+    "name": "ORE Green Salvage Package"
+  },
+  "85357": {
+    "groupID": 1194,
+    "name": "ORE Red Salvage Package"
+  },
+  "85358": {
+    "groupID": 1194,
+    "name": "ORE White Salvage Package"
+  },
+  "85359": {
+    "groupID": 1194,
+    "name": "Peculiar Icebound Salvage"
+  },
+  "85360": {
+    "groupID": 1194,
+    "name": "Rare Icebound Salvage"
+  },
+  "85361": {
+    "groupID": 1194,
+    "name": "Unusual Icebound Salvage"
   },
   "85390": {
     "groupID": 1996,
@@ -140168,8 +140348,8 @@
     "name": "Deathless Fenrir Freighter"
   },
   "85746": {
-    "groupID": 526,
-    "name": "Encrypted Infomorph"
+    "groupID": 4824,
+    "name": "Infomorph Decryption Key"
   },
   "85747": {
     "groupID": 479,
@@ -140254,6 +140434,66 @@
   "85771": {
     "groupID": 4579,
     "name": "Rogue Traffic Warp L 01a"
+  },
+  "85772": {
+    "groupID": 4726,
+    "name": "Winter’s Pale Matte - Limited"
+  },
+  "85773": {
+    "groupID": 4726,
+    "name": "Darkest Amethyst Matte - Limited"
+  },
+  "85774": {
+    "groupID": 4726,
+    "name": "Vibrant Truth Matte - Limited"
+  },
+  "85775": {
+    "groupID": 4726,
+    "name": "Crystal Glaze Satin - Limited"
+  },
+  "85776": {
+    "groupID": 4726,
+    "name": "Incursive Ink Satin - Limited"
+  },
+  "85777": {
+    "groupID": 4726,
+    "name": "Vibrant Truth Satin - Limited"
+  },
+  "85778": {
+    "groupID": 4726,
+    "name": "Winter’s Pale Gloss - Limited"
+  },
+  "85779": {
+    "groupID": 4726,
+    "name": "Crystal Glaze Gloss - Limited"
+  },
+  "85780": {
+    "groupID": 4726,
+    "name": "Thick Blue Frost Gloss - Limited"
+  },
+  "85781": {
+    "groupID": 4726,
+    "name": "True Krystallos Gloss - Limited"
+  },
+  "85782": {
+    "groupID": 4726,
+    "name": "Steel Bauble Metallic - Limited"
+  },
+  "85783": {
+    "groupID": 4726,
+    "name": "Antique Copper Foil Metallic - Limited"
+  },
+  "85784": {
+    "groupID": 4726,
+    "name": "Electroplated Wish Metallic - Limited"
+  },
+  "85785": {
+    "groupID": 4726,
+    "name": "Solstice Nexus - Limited"
+  },
+  "85786": {
+    "groupID": 4726,
+    "name": "Cross Drift - Limited"
   },
   "85787": {
     "groupID": 1194,
@@ -140438,6 +140678,26 @@
   "85904": {
     "groupID": 1975,
     "name": "Asteroid Colony 10"
+  },
+  "85934": {
+    "groupID": 4726,
+    "name": "Vibrant Truth Matte - Unlimited"
+  },
+  "85935": {
+    "groupID": 4726,
+    "name": "Crystal Glaze Satin - Unlimited"
+  },
+  "85936": {
+    "groupID": 4726,
+    "name": "Incursive Ink Satin - Unlimited"
+  },
+  "85938": {
+    "groupID": 4726,
+    "name": "Winter’s Pale Gloss - Unlimited"
+  },
+  "85939": {
+    "groupID": 4726,
+    "name": "Electroplated Wish Metallic - Unlimited"
   },
   "85940": {
     "groupID": 4820,
@@ -141165,7 +141425,7 @@
   },
   "86217": {
     "groupID": 226,
-    "name": "Hrada-Oki Infomorph Transport"
+    "name": "Hrada-Oki Mobile Decryption Hub"
   },
   "86218": {
     "groupID": 226,
@@ -141271,21 +141531,9 @@
     "groupID": 227,
     "name": "Observatory Flashpoint - Allied Dread Spawner (DO NOT TRANSLATE)"
   },
-  "86281": {
-    "groupID": 4055,
-    "name": "Mercenary Den - Encounter 1 - Main Spawner"
-  },
   "86282": {
     "groupID": 4055,
-    "name": "Mercenary Den - Encounter 2 - Main Spawner"
-  },
-  "86283": {
-    "groupID": 4055,
-    "name": "Mercenary Den - Encounter 3 - Main Spawner"
-  },
-  "86284": {
-    "groupID": 4055,
-    "name": "Mercenary Den - Encounter 4 - Main Spawner"
+    "name": "MTO E2 Wave Spawner (DO NOT TRANSLATE)"
   },
   "86393": {
     "groupID": 4091,
@@ -141293,10 +141541,354 @@
   },
   "86405": {
     "groupID": 227,
-    "name": "Observatory Flashpoint - Werpost Controller (DO NOT TRANSLATE)"
+    "name": "Generic Behavior Cloud (DO NOT TRANSLATE)"
   },
   "86407": {
     "groupID": 4100,
     "name": "20th Alliance Tournament: The Tuskers Co."
+  },
+  "86410": {
+    "groupID": 319,
+    "name": "Planetary Trustbreaker Array"
+  },
+  "86411": {
+    "groupID": 227,
+    "name": "Deathless Trustbreaker - Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "86412": {
+    "groupID": 227,
+    "name": "Deathless Trustbreaker - Focused Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "86413": {
+    "groupID": 314,
+    "name": "PDN Passkey"
+  },
+  "86417": {
+    "groupID": 1568,
+    "name": "Stirring Pilum"
+  },
+  "86418": {
+    "groupID": 1568,
+    "name": "Obliviating Pilum"
+  },
+  "86419": {
+    "groupID": 1568,
+    "name": "Enervating Pilum"
+  },
+  "86421": {
+    "groupID": 1664,
+    "name": "Stirring Falx"
+  },
+  "86422": {
+    "groupID": 1664,
+    "name": "Obliviating Falx"
+  },
+  "86423": {
+    "groupID": 1568,
+    "name": "Soothing Peltast"
+  },
+  "86424": {
+    "groupID": 1568,
+    "name": "Enervating Xyston"
+  },
+  "86425": {
+    "groupID": 1664,
+    "name": "Enervating Falx"
+  },
+  "86426": {
+    "groupID": 1665,
+    "name": "Risen Toxotai"
+  },
+  "86427": {
+    "groupID": 1665,
+    "name": "Soothing Chiton"
+  },
+  "86428": {
+    "groupID": 1665,
+    "name": "Enervating Toxotai"
+  },
+  "86429": {
+    "groupID": 1667,
+    "name": "Watchful Sagaris"
+  },
+  "86430": {
+    "groupID": 1667,
+    "name": "Enervating Spatha"
+  },
+  "86440": {
+    "groupID": 1975,
+    "name": "Abandoned Sleeper Enclave (DO NOT TRANSLATE)"
+  },
+  "86441": {
+    "groupID": 1975,
+    "name": "Enclave Debris (DO NOT TRANSLATE)"
+  },
+  "86448": {
+    "groupID": 1568,
+    "name": "Obstructing Scavenger"
+  },
+  "86450": {
+    "groupID": 1568,
+    "name": "Collapsing Forager"
+  },
+  "86451": {
+    "groupID": 1664,
+    "name": "Siphoning Guardian"
+  },
+  "86453": {
+    "groupID": 1664,
+    "name": "Scrutinizer Sentinel"
+  },
+  "86454": {
+    "groupID": 1665,
+    "name": "Secure Emergence"
+  },
+  "86455": {
+    "groupID": 1665,
+    "name": "Secure Emergence"
+  },
+  "86456": {
+    "groupID": 1665,
+    "name": "Secure Emergence"
+  },
+  "86457": {
+    "groupID": 1665,
+    "name": "Secure Emergence"
+  },
+  "86458": {
+    "groupID": 1568,
+    "name": "Inescapable Succubus"
+  },
+  "86459": {
+    "groupID": 1568,
+    "name": "Chained Servant"
+  },
+  "86460": {
+    "groupID": 1665,
+    "name": "Inevitable Phantasm"
+  },
+  "86461": {
+    "groupID": 1665,
+    "name": "Exacting Phantasm"
+  },
+  "86462": {
+    "groupID": 1666,
+    "name": "Citizen Commander"
+  },
+  "86473": {
+    "groupID": 4055,
+    "name": "MTO E1 Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "86474": {
+    "groupID": 4055,
+    "name": "MTO E2 Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "86475": {
+    "groupID": 4055,
+    "name": "MTO E3 Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "86476": {
+    "groupID": 4055,
+    "name": "MTO E4 Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "86477": {
+    "groupID": 1568,
+    "name": "Paralyzing Pilum"
+  },
+  "86478": {
+    "groupID": 1568,
+    "name": "Phosphene Pilum"
+  },
+  "86479": {
+    "groupID": 1568,
+    "name": "Parasomnia Pilum"
+  },
+  "86480": {
+    "groupID": 1568,
+    "name": "Stirring Pilum"
+  },
+  "86481": {
+    "groupID": 1568,
+    "name": "Enervating Pilum"
+  },
+  "86482": {
+    "groupID": 1665,
+    "name": "Parasomnia Toxotai"
+  },
+  "86483": {
+    "groupID": 1665,
+    "name": "Hypnic Toxotai"
+  },
+  "86490": {
+    "groupID": 1665,
+    "name": "Drifter Assault Cruiser"
+  },
+  "86495": {
+    "groupID": 1194,
+    "name": "Yoiul Festival Booster Crate"
+  },
+  "86496": {
+    "groupID": 1194,
+    "name": "Yoiul Festival Brainfreeze Crate"
+  },
+  "86498": {
+    "groupID": 1530,
+    "name": "Drifter Recon Battleship"
+  },
+  "86509": {
+    "groupID": 186,
+    "name": "Planetary Trustbreaker Array Wreck"
+  },
+  "86512": {
+    "groupID": 1664,
+    "name": "Siphoning Guardian"
+  },
+  "86513": {
+    "groupID": 1664,
+    "name": "Scrutinizer Sentinel"
+  },
+  "86514": {
+    "groupID": 1568,
+    "name": "Pinning Incursus"
+  },
+  "86515": {
+    "groupID": 1568,
+    "name": "Bruiser Kestrel"
+  },
+  "86516": {
+    "groupID": 1568,
+    "name": "Mugging Tormentor"
+  },
+  "86518": {
+    "groupID": 1568,
+    "name": "Snitch Vigil"
+  },
+  "86604": {
+    "groupID": 1664,
+    "name": "Bruiser Corax"
+  },
+  "86605": {
+    "groupID": 1665,
+    "name": "Cornering Thorax"
+  },
+  "86606": {
+    "groupID": 1666,
+    "name": "Bruiser Drake"
+  },
+  "86607": {
+    "groupID": 1667,
+    "name": "Gaffer Raven"
+  },
+  "86611": {
+    "groupID": 4055,
+    "name": "MTO E1 Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "86612": {
+    "groupID": 4055,
+    "name": "MTO E3 Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "86613": {
+    "groupID": 4055,
+    "name": "MTO E4 Wave Spawner (DO NOT TRANSLATE)"
+  },
+  "86660": {
+    "groupID": 4726,
+    "name": "Groundbreaker Black Matte - Unlimited"
+  },
+  "86678": {
+    "groupID": 4726,
+    "name": "Corrupted Coral Matte - Unlimited"
+  },
+  "86679": {
+    "groupID": 4726,
+    "name": "Extraction White Matte - Unlimited"
+  },
+  "86680": {
+    "groupID": 4726,
+    "name": "Hacked Virtuality - Unlimited"
+  },
+  "86703": {
+    "groupID": 1665,
+    "name": "Drifter Strike Cruiser"
+  },
+  "87064": {
+    "groupID": 1975,
+    "name": "Deathless Medium Structure 03a"
+  },
+  "87065": {
+    "groupID": 1975,
+    "name": "Deathless Medium Structure 04a"
+  },
+  "87090": {
+    "groupID": 1975,
+    "name": "Deathless Connection 01b"
+  },
+  "87091": {
+    "groupID": 1975,
+    "name": "Deathless Connection 03a"
+  },
+  "87092": {
+    "groupID": 1975,
+    "name": "Deathless Connection 04b"
+  },
+  "87095": {
+    "groupID": 1975,
+    "name": "Deathless Connection 01a"
+  },
+  "87096": {
+    "groupID": 1975,
+    "name": "Deathless Connection 02a"
+  },
+  "87098": {
+    "groupID": 1194,
+    "name": "Arkombine Arisen SKINs Crate"
+  },
+  "87121": {
+    "groupID": 4726,
+    "name": "Crystalflake Comet - Limited"
+  },
+  "87134": {
+    "groupID": 4825,
+    "name": "Beacon"
+  },
+  "87135": {
+    "groupID": 1667,
+    "name": "Tyrannos Tekton"
+  },
+  "87136": {
+    "groupID": 1194,
+    "name": "Incomplete Warden Projections"
+  },
+  "87137": {
+    "groupID": 227,
+    "name": "DS - Roaming Spawner (DO NOT TRANSLATE) "
+  },
+  "87141": {
+    "groupID": 227,
+    "name": "DS - Tekton Spawner (DO NOT TRANSLATE) "
+  },
+  "87165": {
+    "groupID": 4471,
+    "name": "Sidewinder Alliance Emblem"
+  },
+  "87166": {
+    "groupID": 4471,
+    "name": "Sidewinder Corporation Emblem"
+  },
+  "87167": {
+    "groupID": 4471,
+    "name": "Cobra Alliance Emblem"
+  },
+  "87168": {
+    "groupID": 4471,
+    "name": "Cobra Corporation Emblem"
+  },
+  "87169": {
+    "groupID": 4471,
+    "name": "Python Alliance Emblem"
+  },
+  "87170": {
+    "groupID": 4471,
+    "name": "Python Corporation Emblem"
   }
 }
