@@ -15,7 +15,7 @@ export const Title = styled.h1`
 export const Content = styled.div`
 
   @media (max-width: 1023px) {
-    padding: 16px;
+    padding: 0 16px;
   }
 
 `
@@ -49,4 +49,15 @@ export const Row = styled.div`
   > span:last-child {
     margin-left: 6px;
   }
+`
+
+export const CcpStoreWrapper = styled.p`
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 420px;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #aaa;
 `

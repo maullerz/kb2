@@ -23,7 +23,7 @@ const Footer = () => {
       </LegalContainer>
 
       <Links>
-        <Href link='https://boosty.to/evetools/donate'>
+        <Href link='https://br.evetools.org/support' openHere>
           Support EveTools
         </Href>
         &nbsp;/&nbsp;

@@ -14,7 +14,13 @@ const inlineBlock = { display: 'inline-block' }
 // const YANDEX_CODES = ['BY', 'RU', 'CN']
 const provider = 'yandex'
 
+const DISABLED = true
+
 const Ads = ({ type }) => {
+  if (DISABLED) {
+    return null
+  }
+
   // const [provider, setProvider] = useState('')
 
   // useEffect(async () => {

@@ -8,7 +8,7 @@ export const Root = styled.div`
   justify-content: center;
   min-height: 100px;
   padding-bottom: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 
   text-align: center;
   line-height: 20px;
