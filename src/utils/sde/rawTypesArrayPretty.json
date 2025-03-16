@@ -101847,7 +101847,7 @@
   [
     35841,
     1408,
-    "Ansiblex Jump Gate"
+    "Ansiblex Jump Bridge"
   ],
   [
     35842,
@@ -102732,7 +102732,7 @@
   [
     36961,
     1462,
-    "Ansiblex Jump Gate Blueprint"
+    "Ansiblex Jump Bridge Blueprint"
   ],
   [
     36962,
@@ -122642,7 +122642,7 @@
   [
     49627,
     186,
-    "Ansiblex Jump Gate Wreck"
+    "Ansiblex Jump Bridge Wreck"
   ],
   [
     49628,
@@ -134762,7 +134762,7 @@
   [
     56879,
     1991,
-    "Yoiul Trace"
+    "Ice Storm Trace"
   ],
   [
     56893,
@@ -149191,7 +149191,7 @@
   ],
   [
     65065,
-    4430,
+    4055,
     "PirateInfestation_Magnet (Do not translate)"
   ],
   [
@@ -166972,7 +166972,7 @@
   [
     80388,
     227,
-    "Abyssal Retrieval Spawner - DO NOT TRANSLATE"
+    "Abyssal Retrieval Spawner - 1 (DO NOT TRANSLATE)"
   ],
   [
     80425,
@@ -171617,17 +171617,17 @@
   [
     84271,
     303,
-    "Basic 'Radiance' Cerebral Accelerator"
+    "Expired Basic 'Radiance' Cerebral Accelerator"
   ],
   [
     84272,
     303,
-    "Potent 'Radiance' Cerebral Accelerator"
+    "Expired Potent 'Radiance' Cerebral Accelerator"
   ],
   [
     84273,
     303,
-    "Extended 'Radiance' Cerebral Accelerator"
+    "Expired Extended 'Radiance' Cerebral Accelerator"
   ],
   [
     84294,
@@ -171637,162 +171637,162 @@
   [
     84297,
     303,
-    "Harvest Anti-Disruptor Booster I"
+    "Expired Harvest Anti-Disruptor Booster I"
   ],
   [
     84298,
     303,
-    "Harvest Anti-Disruptor Booster II"
+    "Expired Harvest Anti-Disruptor Booster II"
   ],
   [
     84299,
     303,
-    "Harvest Anti-Disruptor Booster III"
+    "Expired Harvest Anti-Disruptor Booster III"
   ],
   [
     84300,
     303,
-    "Harvest Anti-Disruptor Booster IV"
+    "Expired Harvest Anti-Disruptor Booster IV"
   ],
   [
     84301,
     303,
-    "Harvest Nosferatu Booster I"
+    "Expired Harvest Nosferatu Booster I"
   ],
   [
     84302,
     303,
-    "Harvest Nosferatu Booster II"
+    "Expired Harvest Nosferatu Booster II"
   ],
   [
     84303,
     303,
-    "Harvest Nosferatu Booster III"
+    "Expired Harvest Nosferatu Booster III"
   ],
   [
     84304,
     303,
-    "Harvest Nosferatu Booster IV"
+    "Expired Harvest Nosferatu Booster IV"
   ],
   [
     84305,
     303,
-    "Harvest Webifier Booster I"
+    "Expired Harvest Webifier Booster I"
   ],
   [
     84306,
     303,
-    "Harvest Webifier Booster II"
+    "Expired Harvest Webifier Booster II"
   ],
   [
     84307,
     303,
-    "Harvest Webifier Booster III"
+    "Expired Harvest Webifier Booster III"
   ],
   [
     84308,
     303,
-    "Harvest Webifier Booster IV"
+    "Expired Harvest Webifier Booster IV"
   ],
   [
     84309,
     303,
-    "Harvest Damage Booster I"
+    "Expired Harvest Damage Booster I"
   ],
   [
     84310,
     303,
-    "Harvest Damage Booster II"
+    "Expired Harvest Damage Booster II"
   ],
   [
     84311,
     303,
-    "Harvest Damage Booster III"
+    "Expired Harvest Damage Booster III"
   ],
   [
     84312,
     303,
-    "Harvest Damage Booster IV"
+    "Expired Harvest Damage Booster IV"
   ],
   [
     84313,
     303,
-    "Tetrimon Anti-Drain Booster I"
+    "Expired Tetrimon Anti-Drain Booster I"
   ],
   [
     84314,
     303,
-    "Tetrimon Anti-Drain Booster II"
+    "Expired Tetrimon Anti-Drain Booster II"
   ],
   [
     84315,
     303,
-    "Tetrimon Anti-Drain Booster III"
+    "Expired Tetrimon Anti-Drain Booster III"
   ],
   [
     84316,
     303,
-    "Tetrimon Anti-Drain Booster IV"
+    "Expired Tetrimon Anti-Drain Booster IV"
   ],
   [
     84317,
     303,
-    "Tetrimon Capacitor Booster I"
+    "Expired Tetrimon Capacitor Booster I"
   ],
   [
     84318,
     303,
-    "Tetrimon Capacitor Booster II"
+    "Expired Tetrimon Capacitor Booster II"
   ],
   [
     84319,
     303,
-    "Tetrimon Capacitor Booster III"
+    "Expired Tetrimon Capacitor Booster III"
   ],
   [
     84320,
     303,
-    "Tetrimon Capacitor Booster IV"
+    "Expired Tetrimon Capacitor Booster IV"
   ],
   [
     84321,
     303,
-    "Tetrimon Resistance Booster I"
+    "Expired Tetrimon Resistance Booster I"
   ],
   [
     84322,
     303,
-    "Tetrimon Resistance Booster II"
+    "Expired Tetrimon Resistance Booster II"
   ],
   [
     84323,
     303,
-    "Tetrimon Resistance Booster III"
+    "Expired Tetrimon Resistance Booster III"
   ],
   [
     84324,
     303,
-    "Tetrimon Resistance Booster IV"
+    "Expired Tetrimon Resistance Booster IV"
   ],
   [
     84325,
     303,
-    "Tetrimon Precision Booster I"
+    "Expired Tetrimon Precision Booster I"
   ],
   [
     84326,
     303,
-    "Tetrimon Precision Booster II"
+    "Expired Tetrimon Precision Booster II"
   ],
   [
     84327,
     303,
-    "Tetrimon Precision Booster III"
+    "Expired Tetrimon Precision Booster III"
   ],
   [
     84328,
     303,
-    "Tetrimon Precision Booster IV"
+    "Expired Tetrimon Precision Booster IV"
   ],
   [
     84329,
@@ -173865,6 +173865,11 @@
     "Mercenary Den"
   ],
   [
+    85231,
+    306,
+    "Drifter Collection"
+  ],
+  [
     85232,
     4811,
     "Mercenary Den Blueprint"
@@ -173882,17 +173887,17 @@
   [
     85237,
     303,
-    "Basic 'Brainfreeze' Cerebral Accelerator"
+    "Expired Basic 'Brainfreeze' Cerebral Accelerator"
   ],
   [
     85238,
     303,
-    "Potent 'Brainfreeze' Cerebral Accelerator"
+    "Expired Potent 'Brainfreeze' Cerebral Accelerator"
   ],
   [
     85239,
     303,
-    "Extended 'Brainfreeze' Cerebral Accelerator"
+    "Expired Extended 'Brainfreeze' Cerebral Accelerator"
   ],
   [
     85242,
@@ -173907,122 +173912,122 @@
   [
     85252,
     303,
-    "Wightstorm Sunyata Booster I"
+    "Expired Wightstorm Sunyata Booster I"
   ],
   [
     85253,
     303,
-    "Wightstorm Sunyata Booster II"
+    "Expired Wightstorm Sunyata Booster II"
   ],
   [
     85254,
     303,
-    "Wightstorm Sunyata Booster III"
+    "Expired Wightstorm Sunyata Booster III"
   ],
   [
     85255,
     303,
-    "Wightstorm Sunyata Booster IV"
+    "Expired Wightstorm Sunyata Booster IV"
   ],
   [
     85256,
     303,
-    "Wightstorm Nirvana Booster I"
+    "Expired Wightstorm Nirvana Booster I"
   ],
   [
     85257,
     303,
-    "Wightstorm Nirvana Booster II"
+    "Expired Wightstorm Nirvana Booster II"
   ],
   [
     85258,
     303,
-    "Wightstorm Nirvana Booster III"
+    "Expired Wightstorm Nirvana Booster III"
   ],
   [
     85259,
     303,
-    "Wightstorm Nirvana Booster IV"
+    "Expired Wightstorm Nirvana Booster IV"
   ],
   [
     85260,
     303,
-    "Wightstorm Rapture Booster I"
+    "Expired Wightstorm Rapture Booster I"
   ],
   [
     85261,
     303,
-    "Wightstorm Rapture Booster II"
+    "Expired Wightstorm Rapture Booster II"
   ],
   [
     85262,
     303,
-    "Wightstorm Rapture Booster III"
+    "Expired Wightstorm Rapture Booster III"
   ],
   [
     85263,
     303,
-    "Wightstorm Rapture Booster IV"
+    "Expired Wightstorm Rapture Booster IV"
   ],
   [
     85264,
     303,
-    "Wightstorm Cetana Booster I "
+    "Expired Wightstorm Cetana Booster I "
   ],
   [
     85265,
     303,
-    "Wightstorm Cetana Booster II"
+    "Expired Wightstorm Cetana Booster II"
   ],
   [
     85266,
     303,
-    "Wightstorm Cetana Booster III"
+    "Expired Wightstorm Cetana Booster III"
   ],
   [
     85267,
     303,
-    "Wightstorm Cetana Booster IV"
+    "Expired Wightstorm Cetana Booster IV"
   ],
   [
     85268,
     303,
-    "Wightstorm Vitarka Booster I"
+    "Expired Wightstorm Vitarka Booster I"
   ],
   [
     85269,
     303,
-    "Wightstorm Vitarka Booster II"
+    "Expired Wightstorm Vitarka Booster II"
   ],
   [
     85270,
     303,
-    "Wightstorm Vitarka Booster III"
+    "Expired Wightstorm Vitarka Booster III"
   ],
   [
     85271,
     303,
-    "Wightstorm Vitarka Booster IV"
+    "Expired Wightstorm Vitarka Booster IV"
   ],
   [
     85272,
     303,
-    "Wightstorm Manasikara Booster I"
+    "Expired Wightstorm Manasikara Booster I"
   ],
   [
     85273,
     303,
-    "Wightstorm Manasikara Booster II"
+    "Expired Wightstorm Manasikara Booster II"
   ],
   [
     85274,
     303,
-    "Wightstorm Manasikara Booster III"
+    "Expired Wightstorm Manasikara Booster III"
   ],
   [
     85275,
     303,
-    "Wightstorm Manasikara Booster IV"
+    "Expired Wightstorm Manasikara Booster IV"
   ],
   [
     85276,
@@ -174200,6 +174205,11 @@
     "Unusual Icebound Salvage"
   ],
   [
+    85362,
+    306,
+    "Watchful Authority"
+  ],
+  [
     85390,
     1996,
     "Armor Mutaplasmid Residue"
@@ -174285,6 +174295,11 @@
     "Stellar Indigo Chrome Metallic - Limited"
   ],
   [
+    85410,
+    319,
+    "Patient Eradicator"
+  ],
+  [
     85411,
     1975,
     "Bloodraider Freighter Ark"
@@ -174323,6 +174338,11 @@
     85435,
     4471,
     "Cenotaph Corporation Emblem"
+  ],
+  [
+    85436,
+    319,
+    "Steadfast Witness"
   ],
   [
     85437,
@@ -174650,9 +174670,19 @@
     "Glorified Unstable Small Energy Nosferatu Mutaplasmid"
   ],
   [
+    85503,
+    319,
+    "Patient Jailer"
+  ],
+  [
     85504,
     1964,
     "Glorified Decayed Medium Cap Battery Mutaplasmid"
+  ],
+  [
+    85505,
+    319,
+    "Steadfast Martyr"
   ],
   [
     85506,
@@ -175490,6 +175520,21 @@
     "Kyber Conjunction - Limited"
   ],
   [
+    85757,
+    314,
+    "Eradicator Datacore"
+  ],
+  [
+    85758,
+    314,
+    "Observatory Spectrography"
+  ],
+  [
+    85759,
+    314,
+    "Authority Datacore"
+  ],
+  [
     85761,
     4579,
     "Rogue Traffic 1entryJoin L 02a"
@@ -175648,6 +175693,11 @@
     85847,
     4726,
     "Jagged Crystal - Limited"
+  ],
+  [
+    85848,
+    226,
+    "Unmoored Jovian Observatory"
   ],
   [
     85849,
@@ -176520,6 +176570,11 @@
     "Glorified Decayed Magnetic Field Stabilizer Mutaplasmid Blueprint"
   ],
   [
+    86098,
+    227,
+    "Observatory Infiltration - Guard Spawner (DO NOT TRANSLATE)"
+  ],
+  [
     86100,
     319,
     "Threshold Werpost"
@@ -176776,7 +176831,7 @@
   ],
   [
     86216,
-    1995,
+    4827,
     "Stellar Surveillance Data"
   ],
   [
@@ -177327,12 +177382,17 @@
   [
     87137,
     227,
-    "DS - Roaming Spawner (DO NOT TRANSLATE) "
+    "Drifter Crisis - Roaming Spawner - Wormhole (DO NOT TRANSLATE)"
   ],
   [
     87141,
     227,
-    "DS - Tekton Spawner (DO NOT TRANSLATE) "
+    "Drifter Crisis - Tekton Spawner (DO NOT TRANSLATE) "
+  ],
+  [
+    87164,
+    920,
+    "Final Liminality"
   ],
   [
     87165,
@@ -177363,5 +177423,730 @@
     87170,
     4471,
     "Python Corporation Emblem"
+  ],
+  [
+    87176,
+    4828,
+    "Static Pirate Djinn Spawn Point"
+  ],
+  [
+    87177,
+    920,
+    "Triglavian Minor Victory"
+  ],
+  [
+    87179,
+    474,
+    "Observatory Resonance Key"
+  ],
+  [
+    87207,
+    1194,
+    "Ancillary Preservation Canister"
+  ],
+  [
+    87208,
+    1194,
+    "Prime Conservation Canister"
+  ],
+  [
+    87209,
+    1194,
+    "Demijohn-Secured Dispatch"
+  ],
+  [
+    87210,
+    227,
+    "Abyssal Retrieval Spawner - 2 (DO NOT TRANSLATE)"
+  ],
+  [
+    87211,
+    227,
+    "Abyssal Retrieval Spawner - 3 (DO NOT TRANSLATE)"
+  ],
+  [
+    87213,
+    227,
+    "Field Rescue - Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87217,
+    314,
+    "Military Stasis Pods"
+  ],
+  [
+    87218,
+    186,
+    "Battle Wreckage"
+  ],
+  [
+    87219,
+    319,
+    "Wormhole Research Outpost"
+  ],
+  [
+    87220,
+    227,
+    "Deathless Research Outpost - Focused Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87221,
+    227,
+    "Deathless Research Outpost - Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87222,
+    314,
+    "Restricted Hyperspace Telemetry"
+  ],
+  [
+    87223,
+    227,
+    "Lancer Counter Offensive - Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87224,
+    227,
+    "Lancer Counter Offensive - Focused Neutralizing Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87225,
+    227,
+    "Vigilant Dreamer - Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87226,
+    314,
+    "Simulated Baseliner"
+  ],
+  [
+    87227,
+    319,
+    "Vigilant Dreamer"
+  ],
+  [
+    87228,
+    306,
+    "Ultra-Shield Array"
+  ],
+  [
+    87229,
+    1568,
+    "Focused Enervating Pilum"
+  ],
+  [
+    87230,
+    1664,
+    "Focused Enervating Falx"
+  ],
+  [
+    87231,
+    1665,
+    "Focused Enervating Toxotai"
+  ],
+  [
+    87232,
+    1724,
+    "Response Valravn"
+  ],
+  [
+    87233,
+    1927,
+    "Destructive Scrutinizer"
+  ],
+  [
+    87243,
+    1724,
+    "Response Bane"
+  ],
+  [
+    87244,
+    1724,
+    "Response Hubris"
+  ],
+  [
+    87245,
+    1724,
+    "Response Karura"
+  ],
+  [
+    87258,
+    314,
+    "Unrestricted Hyperspace Telemetry"
+  ],
+  [
+    87259,
+    1975,
+    "Non-Interactable Valravn Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    87260,
+    1975,
+    "Non-Interactable Hubris Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    87261,
+    1975,
+    "Non-Interactable Bane Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    87262,
+    1975,
+    "Non-Interactable Karura Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    87263,
+    314,
+    "Jailer Datacore"
+  ],
+  [
+    87264,
+    314,
+    "Fragmented Observations"
+  ],
+  [
+    87265,
+    314,
+    "Gleaned Static"
+  ],
+  [
+    87266,
+    314,
+    "Gleaned Correspondence"
+  ],
+  [
+    87267,
+    314,
+    "Gleaned Directive"
+  ],
+  [
+    87268,
+    314,
+    "Modified Sleeper Corpse"
+  ],
+  [
+    87269,
+    314,
+    "Tekton Forked Packet"
+  ],
+  [
+    87273,
+    314,
+    "Breaking Point Parameters"
+  ],
+  [
+    87274,
+    227,
+    "Drifter Crisis - Roaming Spawner - Cluster (DO NOT TRANSLATE)"
+  ],
+  [
+    87275,
+    227,
+    "Vigilant Dreamer - Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87284,
+    319,
+    "Secluded Monastery"
+  ],
+  [
+    87285,
+    319,
+    "Megacorp Exchange"
+  ],
+  [
+    87286,
+    319,
+    "District Office"
+  ],
+  [
+    87287,
+    319,
+    "Clan Commons"
+  ],
+  [
+    87293,
+    4091,
+    "Resplendent Coil Expert System"
+  ],
+  [
+    87294,
+    920,
+    "Drifter Crisis"
+  ],
+  [
+    87295,
+    186,
+    "Clan Holding Wreck"
+  ],
+  [
+    87296,
+    186,
+    "Secluded Monastery Wreck"
+  ],
+  [
+    87297,
+    186,
+    "Megacorp Exchange Wreck"
+  ],
+  [
+    87298,
+    186,
+    "Federal Administration Wreck"
+  ],
+  [
+    87302,
+    366,
+    "Observatory Assault Conduit"
+  ],
+  [
+    87304,
+    1975,
+    "Non-Interactable Drifter Proximity Tower Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    87305,
+    186,
+    "Drifter Collection Wreck"
+  ],
+  [
+    87306,
+    186,
+    "Destructive Scrutinizer Wreck"
+  ],
+  [
+    87311,
+    186,
+    "Wormhole Research Outpost Wreck"
+  ],
+  [
+    87312,
+    186,
+    "Vigilant Dreamer Wreck"
+  ],
+  [
+    87314,
+    1882,
+    "Drifter Cloud Environment"
+  ],
+  [
+    87315,
+    353,
+    "QA Capacitor Transmitter"
+  ],
+  [
+    87316,
+    353,
+    "QA Remote Shield Booster"
+  ],
+  [
+    87317,
+    186,
+    "Drifter Sentry Wreck"
+  ],
+  [
+    87318,
+    4726,
+    "Blue Racer Cobalt Metallic - Limited"
+  ],
+  [
+    87319,
+    4726,
+    "Venomous Emerald Satin - Limited"
+  ],
+  [
+    87320,
+    4726,
+    "Serpent’s Scales - Limited"
+  ],
+  [
+    87323,
+    1223,
+    "Navy Scan Rangefinding Array"
+  ],
+  [
+    87324,
+    1223,
+    "Navy Scan Pinpointing Array"
+  ],
+  [
+    87325,
+    1238,
+    "Navy Scan Acquisition Array"
+  ],
+  [
+    87326,
+    1224,
+    "Navy Scan Pinpointing Array Blueprint"
+  ],
+  [
+    87327,
+    1239,
+    "Navy Scan Acquisition Array Blueprint"
+  ],
+  [
+    87328,
+    1224,
+    "Navy Scan Rangefinding Array Blueprint"
+  ],
+  [
+    87329,
+    1975,
+    "Non-Interactable Drifter Hacking Container Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    87333,
+    1194,
+    "Resplendent Coil Crate"
+  ],
+  [
+    87337,
+    314,
+    "α Spectral Vision Capture"
+  ],
+  [
+    87338,
+    314,
+    "μ Spectral Vision Capture"
+  ],
+  [
+    87339,
+    314,
+    "β Spectral Vision Capture"
+  ],
+  [
+    87340,
+    314,
+    "δ Spectral Vision Capture"
+  ],
+  [
+    87341,
+    314,
+    "ε Spectral Vision Capture"
+  ],
+  [
+    87342,
+    314,
+    "ζ Spectral Vision Capture"
+  ],
+  [
+    87343,
+    314,
+    "η Spectral Vision Capture"
+  ],
+  [
+    87344,
+    314,
+    "θ Spectral Vision Capture"
+  ],
+  [
+    87345,
+    314,
+    "ι Spectral Vision Capture"
+  ],
+  [
+    87346,
+    314,
+    "κ Spectral Vision Capture"
+  ],
+  [
+    87347,
+    314,
+    "λ Spectral Vision Capture"
+  ],
+  [
+    87348,
+    314,
+    "γ Spectral Vision Capture"
+  ],
+  [
+    87349,
+    1194,
+    "Imperial Navy Scanning Upgrade Blueprint Crate"
+  ],
+  [
+    87350,
+    1194,
+    "State Navy Scanning Upgrade Blueprint Crate"
+  ],
+  [
+    87351,
+    1194,
+    "Federation Navy Scanning Upgrade Blueprint Crate"
+  ],
+  [
+    87352,
+    1194,
+    "Republic Fleet Scanning Upgrade Blueprint Crate"
+  ],
+  [
+    87353,
+    306,
+    "Patient Beacon"
+  ],
+  [
+    87354,
+    314,
+    "Beacon Datacore"
+  ],
+  [
+    87359,
+    226,
+    "Capture Trader Cenotaph"
+  ],
+  [
+    87360,
+    1194,
+    "Spectral Vision Capture Reward Crate"
+  ],
+  [
+    87374,
+    314,
+    "Reconstructed Spectral Vision Matar"
+  ],
+  [
+    87386,
+    314,
+    "Spectral vision capture"
+  ],
+  [
+    87389,
+    314,
+    "Reconstructed Spectral Vision Gallente Prime"
+  ],
+  [
+    87390,
+    314,
+    "Reconstructed Spectral Vision Torment"
+  ],
+  [
+    87391,
+    314,
+    "Reconstructed Spectral Vision Annihilation"
+  ],
+  [
+    87392,
+    314,
+    "Reconstructed Spectral Vision Amarr"
+  ],
+  [
+    87393,
+    314,
+    "Reconstructed Spectral Vision Jita"
+  ],
+  [
+    87562,
+    464,
+    "ORE Deep Core Strip Miner "
+  ],
+  [
+    87572,
+    1088,
+    "Women's \"Crisis Breaker\" Drifter Plugsuit"
+  ],
+  [
+    87573,
+    1088,
+    "Men's \"Crisis Breaker\" Drifter Plugsuit"
+  ],
+  [
+    87617,
+    319,
+    "Warden Relay-Chainer"
+  ],
+  [
+    87618,
+    314,
+    "Warden Connection Harmonics"
+  ],
+  [
+    87702,
+    4768,
+    "Tritanium Prospecting Array 3"
+  ],
+  [
+    87704,
+    4768,
+    "Pyerite Prospecting Array 3"
+  ],
+  [
+    87705,
+    4768,
+    "Mexallon Prospecting Array 3 "
+  ],
+  [
+    87706,
+    4768,
+    "Isogen Prospecting Array 3 "
+  ],
+  [
+    87707,
+    4768,
+    "Nocxium Prospecting Array 3"
+  ],
+  [
+    87708,
+    4768,
+    "Zydrine Prospecting Array 3"
+  ],
+  [
+    87709,
+    4768,
+    "Megacyte Prospecting Array 3"
+  ],
+  [
+    87711,
+    303,
+    "Aegytica Volatile Booster"
+  ],
+  [
+    87725,
+    1882,
+    "Drifter Cloud Environment S2"
+  ],
+  [
+    87726,
+    303,
+    "Vis Vitalis Volatile Booster"
+  ],
+  [
+    87727,
+    303,
+    "Balneum Volatile Booster"
+  ],
+  [
+    87728,
+    303,
+    "Theriac Volatile Booster"
+  ],
+  [
+    87729,
+    303,
+    "Mithridate Volatile Booster"
+  ],
+  [
+    87735,
+    1317,
+    "Tritanium Prospecting Array 3 Blueprint"
+  ],
+  [
+    87736,
+    1317,
+    "Pyerite Prospecting Array 3 Blueprint"
+  ],
+  [
+    87737,
+    1317,
+    "Mexallon Prospecting Array 3 Blueprint"
+  ],
+  [
+    87738,
+    1317,
+    "Isogen Prospecting Array 3 Blueprint"
+  ],
+  [
+    87739,
+    1317,
+    "Nocxium Prospecting Array 3 Blueprint"
+  ],
+  [
+    87740,
+    1317,
+    "Zydrine Prospecting Array 3 Blueprint"
+  ],
+  [
+    87741,
+    1317,
+    "Megacyte Prospecting Array 3 Blueprint"
+  ],
+  [
+    87776,
+    4726,
+    "Midnight Wormhole Matte - Limited"
+  ],
+  [
+    87777,
+    4726,
+    "Hive Green Matte - Limited"
+  ],
+  [
+    87778,
+    4726,
+    "Sleeper Seafoam Matte - Limited"
+  ],
+  [
+    87779,
+    4726,
+    "Precursor Bone Matte - Limited"
+  ],
+  [
+    87795,
+    4726,
+    "Tyrannos Zinc Metallic - Limited"
+  ],
+  [
+    87796,
+    4726,
+    "Strategos Patina Metallic - Limited"
+  ],
+  [
+    87797,
+    4726,
+    "Tekton Verdigris Metallic - Limited"
+  ],
+  [
+    87798,
+    4726,
+    "W477-Platinum Metallic - Limited"
+  ],
+  [
+    87800,
+    4726,
+    "Oncoming Storm - Limited"
+  ],
+  [
+    87801,
+    4726,
+    "Crisis Shield - Limited"
+  ],
+  [
+    87802,
+    4726,
+    "Jovian Euphoria - Limited"
+  ],
+  [
+    87803,
+    4726,
+    "Drifter Sweeps - Limited"
+  ],
+  [
+    87827,
+    988,
+    "Wormhole J492"
+  ],
+  [
+    87853,
+    1194,
+    "Drifter Plugsuit Reward Crate"
+  ],
+  [
+    87938,
+    1568,
+    "Insensate Pilum"
+  ],
+  [
+    87939,
+    1664,
+    "Insensate Falx"
+  ],
+  [
+    87941,
+    227,
+    "Lancer Counter Offensive - Dedicated ECM Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87982,
+    314,
+    "Gratuity for Warden Connection Harmonic"
   ]
 ]

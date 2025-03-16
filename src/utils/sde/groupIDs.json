@@ -3365,7 +3365,7 @@
     "iconID": 0,
     "name": "Acceleration Gate Keys",
     "published": true,
-    "useBasePrice": false
+    "useBasePrice": true
   },
   "475": {
     "anchorable": false,
@@ -9817,7 +9817,7 @@
     "anchored": true,
     "categoryID": 65,
     "fittableNonSingleton": false,
-    "name": "Upwell Jump Gate",
+    "name": "Upwell Jump Bridge",
     "published": true,
     "useBasePrice": false
   },
@@ -12402,7 +12402,7 @@
   },
   "1927": {
     "anchorable": false,
-    "anchored": false,
+    "anchored": true,
     "categoryID": 11,
     "fittableNonSingleton": false,
     "name": "Irregular Structure",
@@ -14546,6 +14546,24 @@
     "categoryID": 2,
     "fittableNonSingleton": false,
     "name": "Local Beacon",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4827": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "EDENCOM Data",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4828": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Pirate Spawners",
     "published": false,
     "useBasePrice": false
   },

@@ -15512,5 +15512,53 @@
     "name": "ATcruiserDroneBonus",
     "published": false,
     "stackable": true
+  },
+  "5754": {
+    "attributeID": 5754,
+    "categoryID": 4,
+    "dataType": 1,
+    "defaultValue": 0,
+    "description": "the loot tableID that will drop once the structure is destroyed",
+    "displayWhenZero": false,
+    "highIsGood": false,
+    "name": "structureDropLootTableID",
+    "published": false,
+    "stackable": false
+  },
+  "5770": {
+    "attributeID": 5770,
+    "categoryID": 4,
+    "dataType": 0,
+    "defaultValue": 1,
+    "description": "Set's whether or not a structure will automatically repair itself.",
+    "displayWhenZero": false,
+    "highIsGood": false,
+    "name": "CanHaveAutoRepair",
+    "published": false,
+    "stackable": false,
+    "unitID": 137
+  },
+  "5771": {
+    "attributeID": 5771,
+    "categoryID": 4,
+    "dataType": 0,
+    "defaultValue": 1,
+    "description": "Can a structure have armor phases",
+    "displayWhenZero": false,
+    "highIsGood": false,
+    "name": "CanHaveArmorPhases",
+    "published": false,
+    "stackable": false,
+    "unitID": 137
+  },
+  "5772": {
+    "attributeID": 5772,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "eliteBonusCommandShips4",
+    "published": false,
+    "stackable": true
   }
 }

@@ -81477,7 +81477,7 @@
   },
   "35841": {
     "groupID": 1408,
-    "name": "Ansiblex Jump Gate"
+    "name": "Ansiblex Jump Bridge"
   },
   "35842": {
     "groupID": 1409,
@@ -82185,7 +82185,7 @@
   },
   "36961": {
     "groupID": 1462,
-    "name": "Ansiblex Jump Gate Blueprint"
+    "name": "Ansiblex Jump Bridge Blueprint"
   },
   "36962": {
     "groupID": 1462,
@@ -98113,7 +98113,7 @@
   },
   "49627": {
     "groupID": 186,
-    "name": "Ansiblex Jump Gate Wreck"
+    "name": "Ansiblex Jump Bridge Wreck"
   },
   "49628": {
     "groupID": 186,
@@ -107809,7 +107809,7 @@
   },
   "56879": {
     "groupID": 1991,
-    "name": "Yoiul Trace"
+    "name": "Ice Storm Trace"
   },
   "56893": {
     "groupID": 303,
@@ -119352,7 +119352,7 @@
     "name": "Expired Potent 'Rebel' Cerebral Accelerator"
   },
   "65065": {
-    "groupID": 4430,
+    "groupID": 4055,
     "name": "PirateInfestation_Magnet (Do not translate)"
   },
   "65079": {
@@ -133577,7 +133577,7 @@
   },
   "80388": {
     "groupID": 227,
-    "name": "Abyssal Retrieval Spawner - DO NOT TRANSLATE"
+    "name": "Abyssal Retrieval Spawner - 1 (DO NOT TRANSLATE)"
   },
   "80425": {
     "groupID": 306,
@@ -137293,15 +137293,15 @@
   },
   "84271": {
     "groupID": 303,
-    "name": "Basic 'Radiance' Cerebral Accelerator"
+    "name": "Expired Basic 'Radiance' Cerebral Accelerator"
   },
   "84272": {
     "groupID": 303,
-    "name": "Potent 'Radiance' Cerebral Accelerator"
+    "name": "Expired Potent 'Radiance' Cerebral Accelerator"
   },
   "84273": {
     "groupID": 303,
-    "name": "Extended 'Radiance' Cerebral Accelerator"
+    "name": "Expired Extended 'Radiance' Cerebral Accelerator"
   },
   "84294": {
     "groupID": 319,
@@ -137309,131 +137309,131 @@
   },
   "84297": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster I"
+    "name": "Expired Harvest Anti-Disruptor Booster I"
   },
   "84298": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster II"
+    "name": "Expired Harvest Anti-Disruptor Booster II"
   },
   "84299": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster III"
+    "name": "Expired Harvest Anti-Disruptor Booster III"
   },
   "84300": {
     "groupID": 303,
-    "name": "Harvest Anti-Disruptor Booster IV"
+    "name": "Expired Harvest Anti-Disruptor Booster IV"
   },
   "84301": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster I"
+    "name": "Expired Harvest Nosferatu Booster I"
   },
   "84302": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster II"
+    "name": "Expired Harvest Nosferatu Booster II"
   },
   "84303": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster III"
+    "name": "Expired Harvest Nosferatu Booster III"
   },
   "84304": {
     "groupID": 303,
-    "name": "Harvest Nosferatu Booster IV"
+    "name": "Expired Harvest Nosferatu Booster IV"
   },
   "84305": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster I"
+    "name": "Expired Harvest Webifier Booster I"
   },
   "84306": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster II"
+    "name": "Expired Harvest Webifier Booster II"
   },
   "84307": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster III"
+    "name": "Expired Harvest Webifier Booster III"
   },
   "84308": {
     "groupID": 303,
-    "name": "Harvest Webifier Booster IV"
+    "name": "Expired Harvest Webifier Booster IV"
   },
   "84309": {
     "groupID": 303,
-    "name": "Harvest Damage Booster I"
+    "name": "Expired Harvest Damage Booster I"
   },
   "84310": {
     "groupID": 303,
-    "name": "Harvest Damage Booster II"
+    "name": "Expired Harvest Damage Booster II"
   },
   "84311": {
     "groupID": 303,
-    "name": "Harvest Damage Booster III"
+    "name": "Expired Harvest Damage Booster III"
   },
   "84312": {
     "groupID": 303,
-    "name": "Harvest Damage Booster IV"
+    "name": "Expired Harvest Damage Booster IV"
   },
   "84313": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster I"
+    "name": "Expired Tetrimon Anti-Drain Booster I"
   },
   "84314": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster II"
+    "name": "Expired Tetrimon Anti-Drain Booster II"
   },
   "84315": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster III"
+    "name": "Expired Tetrimon Anti-Drain Booster III"
   },
   "84316": {
     "groupID": 303,
-    "name": "Tetrimon Anti-Drain Booster IV"
+    "name": "Expired Tetrimon Anti-Drain Booster IV"
   },
   "84317": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster I"
+    "name": "Expired Tetrimon Capacitor Booster I"
   },
   "84318": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster II"
+    "name": "Expired Tetrimon Capacitor Booster II"
   },
   "84319": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster III"
+    "name": "Expired Tetrimon Capacitor Booster III"
   },
   "84320": {
     "groupID": 303,
-    "name": "Tetrimon Capacitor Booster IV"
+    "name": "Expired Tetrimon Capacitor Booster IV"
   },
   "84321": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster I"
+    "name": "Expired Tetrimon Resistance Booster I"
   },
   "84322": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster II"
+    "name": "Expired Tetrimon Resistance Booster II"
   },
   "84323": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster III"
+    "name": "Expired Tetrimon Resistance Booster III"
   },
   "84324": {
     "groupID": 303,
-    "name": "Tetrimon Resistance Booster IV"
+    "name": "Expired Tetrimon Resistance Booster IV"
   },
   "84325": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster I"
+    "name": "Expired Tetrimon Precision Booster I"
   },
   "84326": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster II"
+    "name": "Expired Tetrimon Precision Booster II"
   },
   "84327": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster III"
+    "name": "Expired Tetrimon Precision Booster III"
   },
   "84328": {
     "groupID": 303,
-    "name": "Tetrimon Precision Booster IV"
+    "name": "Expired Tetrimon Precision Booster IV"
   },
   "84329": {
     "groupID": 1975,
@@ -139091,6 +139091,10 @@
     "groupID": 4810,
     "name": "Mercenary Den"
   },
+  "85231": {
+    "groupID": 306,
+    "name": "Drifter Collection"
+  },
   "85232": {
     "groupID": 4811,
     "name": "Mercenary Den Blueprint"
@@ -139105,15 +139109,15 @@
   },
   "85237": {
     "groupID": 303,
-    "name": "Basic 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Basic 'Brainfreeze' Cerebral Accelerator"
   },
   "85238": {
     "groupID": 303,
-    "name": "Potent 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Potent 'Brainfreeze' Cerebral Accelerator"
   },
   "85239": {
     "groupID": 303,
-    "name": "Extended 'Brainfreeze' Cerebral Accelerator"
+    "name": "Expired Extended 'Brainfreeze' Cerebral Accelerator"
   },
   "85242": {
     "groupID": 314,
@@ -139125,99 +139129,99 @@
   },
   "85252": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster I"
+    "name": "Expired Wightstorm Sunyata Booster I"
   },
   "85253": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster II"
+    "name": "Expired Wightstorm Sunyata Booster II"
   },
   "85254": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster III"
+    "name": "Expired Wightstorm Sunyata Booster III"
   },
   "85255": {
     "groupID": 303,
-    "name": "Wightstorm Sunyata Booster IV"
+    "name": "Expired Wightstorm Sunyata Booster IV"
   },
   "85256": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster I"
+    "name": "Expired Wightstorm Nirvana Booster I"
   },
   "85257": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster II"
+    "name": "Expired Wightstorm Nirvana Booster II"
   },
   "85258": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster III"
+    "name": "Expired Wightstorm Nirvana Booster III"
   },
   "85259": {
     "groupID": 303,
-    "name": "Wightstorm Nirvana Booster IV"
+    "name": "Expired Wightstorm Nirvana Booster IV"
   },
   "85260": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster I"
+    "name": "Expired Wightstorm Rapture Booster I"
   },
   "85261": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster II"
+    "name": "Expired Wightstorm Rapture Booster II"
   },
   "85262": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster III"
+    "name": "Expired Wightstorm Rapture Booster III"
   },
   "85263": {
     "groupID": 303,
-    "name": "Wightstorm Rapture Booster IV"
+    "name": "Expired Wightstorm Rapture Booster IV"
   },
   "85264": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster I "
+    "name": "Expired Wightstorm Cetana Booster I "
   },
   "85265": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster II"
+    "name": "Expired Wightstorm Cetana Booster II"
   },
   "85266": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster III"
+    "name": "Expired Wightstorm Cetana Booster III"
   },
   "85267": {
     "groupID": 303,
-    "name": "Wightstorm Cetana Booster IV"
+    "name": "Expired Wightstorm Cetana Booster IV"
   },
   "85268": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster I"
+    "name": "Expired Wightstorm Vitarka Booster I"
   },
   "85269": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster II"
+    "name": "Expired Wightstorm Vitarka Booster II"
   },
   "85270": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster III"
+    "name": "Expired Wightstorm Vitarka Booster III"
   },
   "85271": {
     "groupID": 303,
-    "name": "Wightstorm Vitarka Booster IV"
+    "name": "Expired Wightstorm Vitarka Booster IV"
   },
   "85272": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster I"
+    "name": "Expired Wightstorm Manasikara Booster I"
   },
   "85273": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster II"
+    "name": "Expired Wightstorm Manasikara Booster II"
   },
   "85274": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster III"
+    "name": "Expired Wightstorm Manasikara Booster III"
   },
   "85275": {
     "groupID": 303,
-    "name": "Wightstorm Manasikara Booster IV"
+    "name": "Expired Wightstorm Manasikara Booster IV"
   },
   "85276": {
     "groupID": 526,
@@ -139359,6 +139363,10 @@
     "groupID": 1194,
     "name": "Unusual Icebound Salvage"
   },
+  "85362": {
+    "groupID": 306,
+    "name": "Watchful Authority"
+  },
   "85390": {
     "groupID": 1996,
     "name": "Armor Mutaplasmid Residue"
@@ -139427,6 +139435,10 @@
     "groupID": 4726,
     "name": "Stellar Indigo Chrome Metallic - Limited"
   },
+  "85410": {
+    "groupID": 319,
+    "name": "Patient Eradicator"
+  },
   "85411": {
     "groupID": 1975,
     "name": "Bloodraider Freighter Ark"
@@ -139458,6 +139470,10 @@
   "85435": {
     "groupID": 4471,
     "name": "Cenotaph Corporation Emblem"
+  },
+  "85436": {
+    "groupID": 319,
+    "name": "Steadfast Witness"
   },
   "85437": {
     "groupID": 4471,
@@ -139719,9 +139735,17 @@
     "groupID": 1964,
     "name": "Glorified Unstable Small Energy Nosferatu Mutaplasmid"
   },
+  "85503": {
+    "groupID": 319,
+    "name": "Patient Jailer"
+  },
   "85504": {
     "groupID": 1964,
     "name": "Glorified Decayed Medium Cap Battery Mutaplasmid"
+  },
+  "85505": {
+    "groupID": 319,
+    "name": "Steadfast Martyr"
   },
   "85506": {
     "groupID": 1964,
@@ -140391,6 +140415,18 @@
     "groupID": 4726,
     "name": "Kyber Conjunction - Limited"
   },
+  "85757": {
+    "groupID": 314,
+    "name": "Eradicator Datacore"
+  },
+  "85758": {
+    "groupID": 314,
+    "name": "Observatory Spectrography"
+  },
+  "85759": {
+    "groupID": 314,
+    "name": "Authority Datacore"
+  },
   "85761": {
     "groupID": 4579,
     "name": "Rogue Traffic 1entryJoin L 02a"
@@ -140518,6 +140554,10 @@
   "85847": {
     "groupID": 4726,
     "name": "Jagged Crystal - Limited"
+  },
+  "85848": {
+    "groupID": 226,
+    "name": "Unmoored Jovian Observatory"
   },
   "85849": {
     "groupID": 314,
@@ -141215,6 +141255,10 @@
     "groupID": 4820,
     "name": "Glorified Decayed Magnetic Field Stabilizer Mutaplasmid Blueprint"
   },
+  "86098": {
+    "groupID": 227,
+    "name": "Observatory Infiltration - Guard Spawner (DO NOT TRANSLATE)"
+  },
   "86100": {
     "groupID": 319,
     "name": "Threshold Werpost"
@@ -141420,7 +141464,7 @@
     "name": "'Seneschal' Mercenary Den Blueprint"
   },
   "86216": {
-    "groupID": 1995,
+    "groupID": 4827,
     "name": "Stellar Surveillance Data"
   },
   "86217": {
@@ -141861,11 +141905,15 @@
   },
   "87137": {
     "groupID": 227,
-    "name": "DS - Roaming Spawner (DO NOT TRANSLATE) "
+    "name": "Drifter Crisis - Roaming Spawner - Wormhole (DO NOT TRANSLATE)"
   },
   "87141": {
     "groupID": 227,
-    "name": "DS - Tekton Spawner (DO NOT TRANSLATE) "
+    "name": "Drifter Crisis - Tekton Spawner (DO NOT TRANSLATE) "
+  },
+  "87164": {
+    "groupID": 920,
+    "name": "Final Liminality"
   },
   "87165": {
     "groupID": 4471,
@@ -141890,5 +141938,585 @@
   "87170": {
     "groupID": 4471,
     "name": "Python Corporation Emblem"
+  },
+  "87176": {
+    "groupID": 4828,
+    "name": "Static Pirate Djinn Spawn Point"
+  },
+  "87177": {
+    "groupID": 920,
+    "name": "Triglavian Minor Victory"
+  },
+  "87179": {
+    "groupID": 474,
+    "name": "Observatory Resonance Key"
+  },
+  "87207": {
+    "groupID": 1194,
+    "name": "Ancillary Preservation Canister"
+  },
+  "87208": {
+    "groupID": 1194,
+    "name": "Prime Conservation Canister"
+  },
+  "87209": {
+    "groupID": 1194,
+    "name": "Demijohn-Secured Dispatch"
+  },
+  "87210": {
+    "groupID": 227,
+    "name": "Abyssal Retrieval Spawner - 2 (DO NOT TRANSLATE)"
+  },
+  "87211": {
+    "groupID": 227,
+    "name": "Abyssal Retrieval Spawner - 3 (DO NOT TRANSLATE)"
+  },
+  "87213": {
+    "groupID": 227,
+    "name": "Field Rescue - Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "87217": {
+    "groupID": 314,
+    "name": "Military Stasis Pods"
+  },
+  "87218": {
+    "groupID": 186,
+    "name": "Battle Wreckage"
+  },
+  "87219": {
+    "groupID": 319,
+    "name": "Wormhole Research Outpost"
+  },
+  "87220": {
+    "groupID": 227,
+    "name": "Deathless Research Outpost - Focused Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "87221": {
+    "groupID": 227,
+    "name": "Deathless Research Outpost - Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "87222": {
+    "groupID": 314,
+    "name": "Restricted Hyperspace Telemetry"
+  },
+  "87223": {
+    "groupID": 227,
+    "name": "Lancer Counter Offensive - Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "87224": {
+    "groupID": 227,
+    "name": "Lancer Counter Offensive - Focused Neutralizing Spawner (DO NOT TRANSLATE)"
+  },
+  "87225": {
+    "groupID": 227,
+    "name": "Vigilant Dreamer - Combat Spawner (DO NOT TRANSLATE)"
+  },
+  "87226": {
+    "groupID": 314,
+    "name": "Simulated Baseliner"
+  },
+  "87227": {
+    "groupID": 319,
+    "name": "Vigilant Dreamer"
+  },
+  "87228": {
+    "groupID": 306,
+    "name": "Ultra-Shield Array"
+  },
+  "87229": {
+    "groupID": 1568,
+    "name": "Focused Enervating Pilum"
+  },
+  "87230": {
+    "groupID": 1664,
+    "name": "Focused Enervating Falx"
+  },
+  "87231": {
+    "groupID": 1665,
+    "name": "Focused Enervating Toxotai"
+  },
+  "87232": {
+    "groupID": 1724,
+    "name": "Response Valravn"
+  },
+  "87233": {
+    "groupID": 1927,
+    "name": "Destructive Scrutinizer"
+  },
+  "87243": {
+    "groupID": 1724,
+    "name": "Response Bane"
+  },
+  "87244": {
+    "groupID": 1724,
+    "name": "Response Hubris"
+  },
+  "87245": {
+    "groupID": 1724,
+    "name": "Response Karura"
+  },
+  "87258": {
+    "groupID": 314,
+    "name": "Unrestricted Hyperspace Telemetry"
+  },
+  "87259": {
+    "groupID": 1975,
+    "name": "Non-Interactable Valravn Wreck (DO NOT TRANSLATE)"
+  },
+  "87260": {
+    "groupID": 1975,
+    "name": "Non-Interactable Hubris Wreck (DO NOT TRANSLATE)"
+  },
+  "87261": {
+    "groupID": 1975,
+    "name": "Non-Interactable Bane Wreck (DO NOT TRANSLATE)"
+  },
+  "87262": {
+    "groupID": 1975,
+    "name": "Non-Interactable Karura Wreck (DO NOT TRANSLATE)"
+  },
+  "87263": {
+    "groupID": 314,
+    "name": "Jailer Datacore"
+  },
+  "87264": {
+    "groupID": 314,
+    "name": "Fragmented Observations"
+  },
+  "87265": {
+    "groupID": 314,
+    "name": "Gleaned Static"
+  },
+  "87266": {
+    "groupID": 314,
+    "name": "Gleaned Correspondence"
+  },
+  "87267": {
+    "groupID": 314,
+    "name": "Gleaned Directive"
+  },
+  "87268": {
+    "groupID": 314,
+    "name": "Modified Sleeper Corpse"
+  },
+  "87269": {
+    "groupID": 314,
+    "name": "Tekton Forked Packet"
+  },
+  "87273": {
+    "groupID": 314,
+    "name": "Breaking Point Parameters"
+  },
+  "87274": {
+    "groupID": 227,
+    "name": "Drifter Crisis - Roaming Spawner - Cluster (DO NOT TRANSLATE)"
+  },
+  "87275": {
+    "groupID": 227,
+    "name": "Vigilant Dreamer - Boss Spawner (DO NOT TRANSLATE)"
+  },
+  "87284": {
+    "groupID": 319,
+    "name": "Secluded Monastery"
+  },
+  "87285": {
+    "groupID": 319,
+    "name": "Megacorp Exchange"
+  },
+  "87286": {
+    "groupID": 319,
+    "name": "District Office"
+  },
+  "87287": {
+    "groupID": 319,
+    "name": "Clan Commons"
+  },
+  "87293": {
+    "groupID": 4091,
+    "name": "Resplendent Coil Expert System"
+  },
+  "87294": {
+    "groupID": 920,
+    "name": "Drifter Crisis"
+  },
+  "87295": {
+    "groupID": 186,
+    "name": "Clan Holding Wreck"
+  },
+  "87296": {
+    "groupID": 186,
+    "name": "Secluded Monastery Wreck"
+  },
+  "87297": {
+    "groupID": 186,
+    "name": "Megacorp Exchange Wreck"
+  },
+  "87298": {
+    "groupID": 186,
+    "name": "Federal Administration Wreck"
+  },
+  "87302": {
+    "groupID": 366,
+    "name": "Observatory Assault Conduit"
+  },
+  "87304": {
+    "groupID": 1975,
+    "name": "Non-Interactable Drifter Proximity Tower Wreck (DO NOT TRANSLATE)"
+  },
+  "87305": {
+    "groupID": 186,
+    "name": "Drifter Collection Wreck"
+  },
+  "87306": {
+    "groupID": 186,
+    "name": "Destructive Scrutinizer Wreck"
+  },
+  "87311": {
+    "groupID": 186,
+    "name": "Wormhole Research Outpost Wreck"
+  },
+  "87312": {
+    "groupID": 186,
+    "name": "Vigilant Dreamer Wreck"
+  },
+  "87314": {
+    "groupID": 1882,
+    "name": "Drifter Cloud Environment"
+  },
+  "87315": {
+    "groupID": 353,
+    "name": "QA Capacitor Transmitter"
+  },
+  "87316": {
+    "groupID": 353,
+    "name": "QA Remote Shield Booster"
+  },
+  "87317": {
+    "groupID": 186,
+    "name": "Drifter Sentry Wreck"
+  },
+  "87318": {
+    "groupID": 4726,
+    "name": "Blue Racer Cobalt Metallic - Limited"
+  },
+  "87319": {
+    "groupID": 4726,
+    "name": "Venomous Emerald Satin - Limited"
+  },
+  "87320": {
+    "groupID": 4726,
+    "name": "Serpent’s Scales - Limited"
+  },
+  "87323": {
+    "groupID": 1223,
+    "name": "Navy Scan Rangefinding Array"
+  },
+  "87324": {
+    "groupID": 1223,
+    "name": "Navy Scan Pinpointing Array"
+  },
+  "87325": {
+    "groupID": 1238,
+    "name": "Navy Scan Acquisition Array"
+  },
+  "87326": {
+    "groupID": 1224,
+    "name": "Navy Scan Pinpointing Array Blueprint"
+  },
+  "87327": {
+    "groupID": 1239,
+    "name": "Navy Scan Acquisition Array Blueprint"
+  },
+  "87328": {
+    "groupID": 1224,
+    "name": "Navy Scan Rangefinding Array Blueprint"
+  },
+  "87329": {
+    "groupID": 1975,
+    "name": "Non-Interactable Drifter Hacking Container Wreck (DO NOT TRANSLATE)"
+  },
+  "87333": {
+    "groupID": 1194,
+    "name": "Resplendent Coil Crate"
+  },
+  "87337": {
+    "groupID": 314,
+    "name": "α Spectral Vision Capture"
+  },
+  "87338": {
+    "groupID": 314,
+    "name": "μ Spectral Vision Capture"
+  },
+  "87339": {
+    "groupID": 314,
+    "name": "β Spectral Vision Capture"
+  },
+  "87340": {
+    "groupID": 314,
+    "name": "δ Spectral Vision Capture"
+  },
+  "87341": {
+    "groupID": 314,
+    "name": "ε Spectral Vision Capture"
+  },
+  "87342": {
+    "groupID": 314,
+    "name": "ζ Spectral Vision Capture"
+  },
+  "87343": {
+    "groupID": 314,
+    "name": "η Spectral Vision Capture"
+  },
+  "87344": {
+    "groupID": 314,
+    "name": "θ Spectral Vision Capture"
+  },
+  "87345": {
+    "groupID": 314,
+    "name": "ι Spectral Vision Capture"
+  },
+  "87346": {
+    "groupID": 314,
+    "name": "κ Spectral Vision Capture"
+  },
+  "87347": {
+    "groupID": 314,
+    "name": "λ Spectral Vision Capture"
+  },
+  "87348": {
+    "groupID": 314,
+    "name": "γ Spectral Vision Capture"
+  },
+  "87349": {
+    "groupID": 1194,
+    "name": "Imperial Navy Scanning Upgrade Blueprint Crate"
+  },
+  "87350": {
+    "groupID": 1194,
+    "name": "State Navy Scanning Upgrade Blueprint Crate"
+  },
+  "87351": {
+    "groupID": 1194,
+    "name": "Federation Navy Scanning Upgrade Blueprint Crate"
+  },
+  "87352": {
+    "groupID": 1194,
+    "name": "Republic Fleet Scanning Upgrade Blueprint Crate"
+  },
+  "87353": {
+    "groupID": 306,
+    "name": "Patient Beacon"
+  },
+  "87354": {
+    "groupID": 314,
+    "name": "Beacon Datacore"
+  },
+  "87359": {
+    "groupID": 226,
+    "name": "Capture Trader Cenotaph"
+  },
+  "87360": {
+    "groupID": 1194,
+    "name": "Spectral Vision Capture Reward Crate"
+  },
+  "87374": {
+    "groupID": 314,
+    "name": "Reconstructed Spectral Vision Matar"
+  },
+  "87386": {
+    "groupID": 314,
+    "name": "Spectral vision capture"
+  },
+  "87389": {
+    "groupID": 314,
+    "name": "Reconstructed Spectral Vision Gallente Prime"
+  },
+  "87390": {
+    "groupID": 314,
+    "name": "Reconstructed Spectral Vision Torment"
+  },
+  "87391": {
+    "groupID": 314,
+    "name": "Reconstructed Spectral Vision Annihilation"
+  },
+  "87392": {
+    "groupID": 314,
+    "name": "Reconstructed Spectral Vision Amarr"
+  },
+  "87393": {
+    "groupID": 314,
+    "name": "Reconstructed Spectral Vision Jita"
+  },
+  "87562": {
+    "groupID": 464,
+    "name": "ORE Deep Core Strip Miner "
+  },
+  "87572": {
+    "groupID": 1088,
+    "name": "Women's \"Crisis Breaker\" Drifter Plugsuit"
+  },
+  "87573": {
+    "groupID": 1088,
+    "name": "Men's \"Crisis Breaker\" Drifter Plugsuit"
+  },
+  "87617": {
+    "groupID": 319,
+    "name": "Warden Relay-Chainer"
+  },
+  "87618": {
+    "groupID": 314,
+    "name": "Warden Connection Harmonics"
+  },
+  "87702": {
+    "groupID": 4768,
+    "name": "Tritanium Prospecting Array 3"
+  },
+  "87704": {
+    "groupID": 4768,
+    "name": "Pyerite Prospecting Array 3"
+  },
+  "87705": {
+    "groupID": 4768,
+    "name": "Mexallon Prospecting Array 3 "
+  },
+  "87706": {
+    "groupID": 4768,
+    "name": "Isogen Prospecting Array 3 "
+  },
+  "87707": {
+    "groupID": 4768,
+    "name": "Nocxium Prospecting Array 3"
+  },
+  "87708": {
+    "groupID": 4768,
+    "name": "Zydrine Prospecting Array 3"
+  },
+  "87709": {
+    "groupID": 4768,
+    "name": "Megacyte Prospecting Array 3"
+  },
+  "87711": {
+    "groupID": 303,
+    "name": "Aegytica Volatile Booster"
+  },
+  "87725": {
+    "groupID": 1882,
+    "name": "Drifter Cloud Environment S2"
+  },
+  "87726": {
+    "groupID": 303,
+    "name": "Vis Vitalis Volatile Booster"
+  },
+  "87727": {
+    "groupID": 303,
+    "name": "Balneum Volatile Booster"
+  },
+  "87728": {
+    "groupID": 303,
+    "name": "Theriac Volatile Booster"
+  },
+  "87729": {
+    "groupID": 303,
+    "name": "Mithridate Volatile Booster"
+  },
+  "87735": {
+    "groupID": 1317,
+    "name": "Tritanium Prospecting Array 3 Blueprint"
+  },
+  "87736": {
+    "groupID": 1317,
+    "name": "Pyerite Prospecting Array 3 Blueprint"
+  },
+  "87737": {
+    "groupID": 1317,
+    "name": "Mexallon Prospecting Array 3 Blueprint"
+  },
+  "87738": {
+    "groupID": 1317,
+    "name": "Isogen Prospecting Array 3 Blueprint"
+  },
+  "87739": {
+    "groupID": 1317,
+    "name": "Nocxium Prospecting Array 3 Blueprint"
+  },
+  "87740": {
+    "groupID": 1317,
+    "name": "Zydrine Prospecting Array 3 Blueprint"
+  },
+  "87741": {
+    "groupID": 1317,
+    "name": "Megacyte Prospecting Array 3 Blueprint"
+  },
+  "87776": {
+    "groupID": 4726,
+    "name": "Midnight Wormhole Matte - Limited"
+  },
+  "87777": {
+    "groupID": 4726,
+    "name": "Hive Green Matte - Limited"
+  },
+  "87778": {
+    "groupID": 4726,
+    "name": "Sleeper Seafoam Matte - Limited"
+  },
+  "87779": {
+    "groupID": 4726,
+    "name": "Precursor Bone Matte - Limited"
+  },
+  "87795": {
+    "groupID": 4726,
+    "name": "Tyrannos Zinc Metallic - Limited"
+  },
+  "87796": {
+    "groupID": 4726,
+    "name": "Strategos Patina Metallic - Limited"
+  },
+  "87797": {
+    "groupID": 4726,
+    "name": "Tekton Verdigris Metallic - Limited"
+  },
+  "87798": {
+    "groupID": 4726,
+    "name": "W477-Platinum Metallic - Limited"
+  },
+  "87800": {
+    "groupID": 4726,
+    "name": "Oncoming Storm - Limited"
+  },
+  "87801": {
+    "groupID": 4726,
+    "name": "Crisis Shield - Limited"
+  },
+  "87802": {
+    "groupID": 4726,
+    "name": "Jovian Euphoria - Limited"
+  },
+  "87803": {
+    "groupID": 4726,
+    "name": "Drifter Sweeps - Limited"
+  },
+  "87827": {
+    "groupID": 988,
+    "name": "Wormhole J492"
+  },
+  "87853": {
+    "groupID": 1194,
+    "name": "Drifter Plugsuit Reward Crate"
+  },
+  "87938": {
+    "groupID": 1568,
+    "name": "Insensate Pilum"
+  },
+  "87939": {
+    "groupID": 1664,
+    "name": "Insensate Falx"
+  },
+  "87941": {
+    "groupID": 227,
+    "name": "Lancer Counter Offensive - Dedicated ECM Spawner (DO NOT TRANSLATE)"
+  },
+  "87982": {
+    "groupID": 314,
+    "name": "Gratuity for Warden Connection Harmonic"
   }
 }
