@@ -166,6 +166,11 @@ export const getCategory = typeID => {
   }
 }
 
+export const getMetaGroup = typeID => {
+  const info = getTypeInfo(typeID)
+  return info.metaGroupID
+}
+
 export const getCategoryID = typeID => {
   const group = groups[getGroupID(typeID)]
   if (!group) {
@@ -184,6 +189,14 @@ export const SHIP_CATEGORIES = [6, 65, 87]
 export const isShip = typeID => {
   const categoryID = getCategoryID(typeID)
   return SHIP_CATEGORIES.includes(categoryID)
+}
+
+export const isShipCategory = typeID => {
+  const typeInfo = getTypeInfo(typeID)
+  const { groupID } = typeInfo || {}
+  if (!groupID) return false
+  const categoryID = Number(groups[groupID].cat)
+  return categoryID === 6
 }
 
 const CAT_AMMO = 8

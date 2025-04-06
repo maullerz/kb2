@@ -15,8 +15,8 @@ const isDev = process.env.NODE_ENV === 'development'
 function castTypesArrayToObj(typesArray) {
   const result = {}
   typesArray.forEach(typeArr => {
-    const [typeID, groupID, name] = typeArr
-    result[typeID] = { groupID, name }
+    const [typeID, groupID, name, metaGroupID] = typeArr
+    result[typeID] = { groupID, name, metaGroupID }
   })
   return result
 }
