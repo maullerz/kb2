@@ -95,12 +95,12 @@ module.exports = {
         NODE_ENV: JSON.stringify(process.env.NODE_ENV || 'development'),
       },
     }),
-    new ESLintPlugin({
-      fix: true,
-      formatter: eslintFormatter,
-      eslintPath: 'eslint',
-      overrideConfigFile: path.resolve(rootDirectory, 'config/.eslintrc.js'),
-    }),
+    // new ESLintPlugin({
+    //   fix: true,
+    //   formatter: eslintFormatter,
+    //   eslintPath: 'eslint',
+    //   overrideConfigFile: path.resolve(rootDirectory, 'config/.eslintrc.js'),
+    // }),
   ],
 
   // https://webpack.js.org/configuration/stats/

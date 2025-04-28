@@ -44,6 +44,8 @@ const config = {
     'quote-props': ['error', 'consistent-as-needed'],
     'arrow-parens': ['error', 'as-needed'],
     'max-len': 0,
+    'camelcase': 0,
+    'no-plusplus': 0,
     // 'max-len': ['error', 120, 2, {
     //   ignoreUrls: true,
     //   ignoreComments: true,

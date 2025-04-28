@@ -12442,7 +12442,7 @@
   [
     3762,
     226,
-    "Minmatar Vigil  Frigate"
+    "Minmatar Vigil Frigate"
   ],
   [
     3763,
@@ -35513,7 +35513,7 @@
   [
     15968,
     345,
-    "Federation Navy Remote Tracking Computer  Blueprint",
+    "Federation Navy Remote Tracking Computer Blueprint",
     4
   ],
   [
@@ -98562,12 +98562,12 @@
   [
     32817,
     1232,
-    "Medium Mercoxit Mining Crystal Optimization I"
+    "Medium Deep Core Mining Optimization I"
   ],
   [
     32818,
     787,
-    "Medium Mercoxit Mining Crystal Optimization I Blueprint"
+    "Medium Deep Core Mining Optimization I Blueprint"
   ],
   [
     32819,
@@ -132577,7 +132577,8 @@
   [
     53042,
     1670,
-    "53042_Male_Makeup_BodyAugmentations_BodyAugmentation_M01_Types_BodyAugmentationM01_WhiteDesign.png"
+    "Men's Cluster Champion Frame",
+    17
   ],
   [
     53043,
@@ -132785,7 +132786,8 @@
   [
     53230,
     1670,
-    "53230_Female_Makeup_BodyAugmentations_BodyAugmentation_F01_Types_BodyAugmentationF01_WhiteCamo.png"
+    "Women's Cluster Champion Frame",
+    17
   ],
   [
     53231,
@@ -135646,7 +135648,7 @@
   [
     54345,
     227,
-    "Observatory Empire Wave Spawner  3"
+    "Observatory Empire Wave Spawner 3"
   ],
   [
     54346,
@@ -137428,7 +137430,7 @@
   [
     54874,
     4069,
-    "Compact Vorton Tuning System  Blueprint"
+    "Compact Vorton Tuning System Blueprint"
   ],
   [
     54875,
@@ -139894,7 +139896,7 @@
   [
     56256,
     4081,
-    "Disrupted Gate  (Minmatar Border)"
+    "Disrupted Gate (Minmatar Border)"
   ],
   [
     56257,
@@ -142663,12 +142665,12 @@
   [
     57207,
     4091,
-    "Mining Barge Operations Expert System"
+    "Mining Barge Operations"
   ],
   [
     57208,
     4091,
-    "Core Ship Operations Expert System"
+    "Core Ship Operations"
   ],
   [
     57209,
@@ -153175,7 +153177,7 @@
   [
     63776,
     1818,
-    "Industrialist -  Hauler Skill Crate"
+    "Industrialist - Hauler Skill Crate"
   ],
   [
     63777,
@@ -156365,7 +156367,7 @@
   [
     64965,
     1975,
-    "Minmatar Vigil  Frigate"
+    "Minmatar Vigil Frigate"
   ],
   [
     64966,
@@ -172352,7 +172354,7 @@
   [
     78906,
     314,
-    "Deathless Circle Reward Token "
+    "Deathless Circle Reward Token"
   ],
   [
     78907,
@@ -175371,22 +175373,22 @@
   [
     81098,
     4091,
-    "Space Exploration Expert System"
+    "Space Exploration"
   ],
   [
     81118,
     4091,
-    "Faction Warfare Expert System"
+    "Faction Warfare"
   ],
   [
     81121,
     4091,
-    "Hauler Operations Expert System"
+    "Hauler Operations"
   ],
   [
     81122,
     4091,
-    "Enforcer Operations Expert System"
+    "Enforcer Operations"
   ],
   [
     81142,
@@ -176411,7 +176413,7 @@
   [
     81614,
     4091,
-    "Gas Harvesting Expert System"
+    "Gas Harvesting"
   ],
   [
     81615,
@@ -176431,7 +176433,7 @@
   [
     81618,
     4091,
-    "Logistics Pilot Expert System"
+    "Logistics Pilot"
   ],
   [
     81619,
@@ -179645,7 +179647,7 @@
   [
     84294,
     319,
-    "Horizon Breach Engine"
+    "Vigilance Spire"
   ],
   [
     84297,
@@ -179847,7 +179849,7 @@
   [
     84354,
     227,
-    "AoE Scrambler 60k"
+    "Disable Warp + MJD - 60k (DO NOT TRANSLATE)"
   ],
   [
     84358,
@@ -181500,7 +181502,7 @@
   [
     85057,
     186,
-    "Horizon Breach Engine Wreck"
+    "Vigilance Spire Wreck"
   ],
   [
     85062,
@@ -181683,7 +181685,7 @@
   [
     85127,
     4091,
-    "Crimson Harvest Expert System"
+    "Crimson Harvest"
   ],
   [
     85133,
@@ -182743,7 +182745,7 @@
   [
     85477,
     1964,
-    "Glorified Decayed 100MN Afterburner Mutaplasmid ",
+    "Glorified Decayed 100MN Afterburner Mutaplasmid",
     15
   ],
   [
@@ -183833,7 +183835,7 @@
   [
     85752,
     4726,
-    "Glorified Ruby Gloss - Limited "
+    "Glorified Ruby Gloss - Limited"
   ],
   [
     85753,
@@ -185214,7 +185216,7 @@
   [
     86227,
     4091,
-    "Brand Manager Expert System"
+    "Brand Manager"
   ],
   [
     86239,
@@ -185710,6 +185712,11 @@
     "Crystalflake Comet - Limited"
   ],
   [
+    87123,
+    1975,
+    "Deathless Storage Yard Capacity 0.6"
+  ],
+  [
     87134,
     4825,
     "Beacon"
@@ -186012,7 +186019,7 @@
   [
     87293,
     4091,
-    "Resplendent Coil Expert System"
+    "Resplendent Coil"
   ],
   [
     87294,
@@ -186242,6 +186249,11 @@
     "Beacon Datacore"
   ],
   [
+    87355,
+    227,
+    "FinalBattleLowTierCombatBoss(DO NOT TRANSLATE)"
+  ],
+  [
     87359,
     226,
     "Capture Trader Cenotaph"
@@ -186287,10 +186299,195 @@
     "Reconstructed Spectral Vision Jita"
   ],
   [
+    87397,
+    1667,
+    "Utopian Sagaris"
+  ],
+  [
+    87430,
+    1194,
+    "Enforcer Starter Crate"
+  ],
+  [
+    87431,
+    1194,
+    "Explorer Starter Crate"
+  ],
+  [
+    87432,
+    1194,
+    "Industrialist Starter Crate"
+  ],
+  [
+    87433,
+    1194,
+    "Soldier of Fortune Starter Crate"
+  ],
+  [
+    87438,
+    1194,
+    "Coercer Crate"
+  ],
+  [
+    87439,
+    1194,
+    "Corax Crate"
+  ],
+  [
+    87440,
+    1194,
+    "Algos Crate"
+  ],
+  [
+    87441,
+    1194,
+    "Thrasher Crate"
+  ],
+  [
+    87449,
+    1194,
+    "Omen Crate"
+  ],
+  [
+    87450,
+    1194,
+    "Caracal Crate"
+  ],
+  [
+    87451,
+    1194,
+    "Vexor Crate"
+  ],
+  [
+    87452,
+    1194,
+    "Rupture Crate"
+  ],
+  [
+    87478,
+    4055,
+    "FinalBattleLowTierWave (DO NOT TRANSLATE)"
+  ],
+  [
+    87492,
+    4091,
+    "Enforcer"
+  ],
+  [
+    87494,
+    4091,
+    "Soldier of Fortune"
+  ],
+  [
+    87496,
+    4091,
+    "Explorer"
+  ],
+  [
+    87500,
+    4091,
+    "Industrialist"
+  ],
+  [
+    87501,
+    306,
+    "Ruined Sleeper Depot"
+  ],
+  [
+    87502,
+    306,
+    "Preserved Sleeper Depot"
+  ],
+  [
+    87503,
+    306,
+    "Drifter Collection"
+  ],
+  [
+    87531,
+    319,
+    "Obstruction Node"
+  ],
+  [
+    87532,
+    306,
+    "Thread Capacitor"
+  ],
+  [
+    87533,
+    227,
+    "Maze - Combat Challenge Spawner - Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    87534,
+    227,
+    "Maze - Hacking Challenge Spawner - Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    87535,
+    227,
+    "Maze - Structure Challenge Spawner - Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    87549,
+    227,
+    "Maze - Combat Challenge Spawner - Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    87550,
+    227,
+    "Maze - Hacking Challenge Spawner - Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    87551,
+    227,
+    "Maze - Structure Challenge Spawner - Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    87552,
+    227,
+    "Maze - Combat Challenge Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    87553,
+    227,
+    "Maze - Hacking Challenge Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    87554,
+    227,
+    "Maze - Structure Challenge Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    87555,
+    319,
+    "Obstruction Node"
+  ],
+  [
+    87556,
+    319,
+    "Obstruction Node"
+  ],
+  [
+    87557,
+    306,
+    "Thread Capacitor"
+  ],
+  [
+    87558,
+    306,
+    "Thread Capacitor"
+  ],
+  [
     87562,
     464,
-    "ORE Deep Core Strip Miner ",
+    "ORE Deep Core Strip Miner",
     4
+  ],
+  [
+    87569,
+    383,
+    "FinalBattleLowTierSentryTower(DO NOT TRANSLATE)"
   ],
   [
     87572,
@@ -186303,6 +186500,122 @@
     "Men's \"Crisis Breaker\" Drifter Plugsuit"
   ],
   [
+    87574,
+    303,
+    "Basic Capsuleer Day XXII Cerebral Accelerator",
+    19
+  ],
+  [
+    87575,
+    303,
+    "Extended Capsuleer Day XXII Cerebral Accelerator",
+    19
+  ],
+  [
+    87576,
+    303,
+    "Potent Capsuleer Day XXII Cerebral Accelerator",
+    19
+  ],
+  [
+    87577,
+    303,
+    "Basic Capsuleer Day XXII Glamourex Booster",
+    19
+  ],
+  [
+    87578,
+    303,
+    "Extended Capsuleer Day XXII Glamourex Booster",
+    19
+  ],
+  [
+    87579,
+    303,
+    "Potent Capsuleer Day XXII Glamourex Booster",
+    19
+  ],
+  [
+    87593,
+    1975,
+    "Non-Interactable Wormhole - Open (DO NOT TRANSLATE)"
+  ],
+  [
+    87596,
+    227,
+    "Maze - Boss Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87601,
+    1194,
+    "Ladon Forked Packet"
+  ],
+  [
+    87602,
+    1194,
+    "Recursive Knot"
+  ],
+  [
+    87603,
+    1194,
+    "Uncertainty Thread"
+  ],
+  [
+    87604,
+    1194,
+    "Definitive Thread"
+  ],
+  [
+    87605,
+    1194,
+    "Execution Command Unit"
+  ],
+  [
+    87606,
+    1194,
+    "Terminated Knot"
+  ],
+  [
+    87607,
+    1194,
+    "Dominance Command Unit"
+  ],
+  [
+    87608,
+    1194,
+    "Mynos Forked Packet"
+  ],
+  [
+    87609,
+    227,
+    "Maze - Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87610,
+    227,
+    "Maze - Roaming Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87611,
+    227,
+    "Maze - Trader Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87612,
+    1667,
+    "Ladon Tyrannos"
+  ],
+  [
+    87613,
+    1667,
+    "Mynos Tyrannos"
+  ],
+  [
+    87614,
+    1895,
+    "Glorification Exchange"
+  ],
+  [
     87617,
     319,
     "Warden Relay-Chainer"
@@ -186311,6 +186624,21 @@
     87618,
     314,
     "Warden Connection Harmonics"
+  ],
+  [
+    87683,
+    319,
+    "Reckoning Hoard"
+  ],
+  [
+    87684,
+    306,
+    "Solution Capacitor"
+  ],
+  [
+    87685,
+    186,
+    "Drifter Medium Structure Wreck"
   ],
   [
     87702,
@@ -186325,12 +186653,12 @@
   [
     87705,
     4768,
-    "Mexallon Prospecting Array 3 "
+    "Mexallon Prospecting Array 3"
   ],
   [
     87706,
     4768,
-    "Isogen Prospecting Array 3 "
+    "Isogen Prospecting Array 3"
   ],
   [
     87707,
@@ -186350,7 +186678,7 @@
   [
     87711,
     303,
-    "Aegytica Volatile Booster",
+    "Expired Aegytica Volatile Booster",
     19
   ],
   [
@@ -186361,25 +186689,25 @@
   [
     87726,
     303,
-    "Vis Vitalis Volatile Booster",
+    "Expired Vis Vitalis Volatile Booster",
     19
   ],
   [
     87727,
     303,
-    "Balneum Volatile Booster",
+    "Expired Balneum Volatile Booster",
     19
   ],
   [
     87728,
     303,
-    "Theriac Volatile Booster",
+    "Expired Theriac Volatile Booster",
     19
   ],
   [
     87729,
     303,
-    "Mithridate Volatile Booster",
+    "Expired Mithridate Volatile Booster",
     19
   ],
   [
@@ -186418,6 +186746,51 @@
     "Megacyte Prospecting Array 3 Blueprint"
   ],
   [
+    87767,
+    4726,
+    "Hive Hunter Green Matte - Limited"
+  ],
+  [
+    87768,
+    4726,
+    "Barbican Eclipse Matte - Limited"
+  ],
+  [
+    87769,
+    4726,
+    "Sentinel Grim Satin - Limited"
+  ],
+  [
+    87770,
+    4726,
+    "Sentinel Grim Satin - Unlimited"
+  ],
+  [
+    87771,
+    4726,
+    "Risen Flesh Satin - Limited"
+  ],
+  [
+    87772,
+    4726,
+    "Risen Flesh Gloss - Unlimited"
+  ],
+  [
+    87773,
+    4726,
+    "Risen Flesh Gloss - Limited"
+  ],
+  [
+    87774,
+    4726,
+    "Hive Hunter Green Matte - Unlimited"
+  ],
+  [
+    87775,
+    4726,
+    "Redoubt Bolt Matte - Unlimited"
+  ],
+  [
     87776,
     4726,
     "Midnight Wormhole Matte - Limited"
@@ -186436,6 +186809,66 @@
     87779,
     4726,
     "Precursor Bone Matte - Limited"
+  ],
+  [
+    87780,
+    4726,
+    "Redoubt Bolt Matte - Limited"
+  ],
+  [
+    87781,
+    4726,
+    "Scrutinized Cyan Matte - Limited"
+  ],
+  [
+    87782,
+    4726,
+    "Vidette Turquoise Satin - Limited"
+  ],
+  [
+    87783,
+    4726,
+    "Scrutinized Cyan Satin - Limited"
+  ],
+  [
+    87784,
+    4726,
+    "Conflux Mist Gloss - Limited"
+  ],
+  [
+    87785,
+    4726,
+    "Tektonic Cadmium - Limited"
+  ],
+  [
+    87786,
+    4726,
+    "Tektonic Cadmium - Unlimited"
+  ],
+  [
+    87787,
+    4726,
+    "Polemos Bronze - Limited"
+  ],
+  [
+    87788,
+    4726,
+    "Strategos Adamant - Limited"
+  ],
+  [
+    87789,
+    4726,
+    "Wheel of the Awoken - Limited"
+  ],
+  [
+    87790,
+    4726,
+    "Architect of Dreams - Limited"
+  ],
+  [
+    87791,
+    4726,
+    "Architect of Nightmares - Unlimited"
   ],
   [
     87795,
@@ -186478,14 +186911,320 @@
     "Drifter Sweeps - Limited"
   ],
   [
+    87826,
+    4055,
+    "FinalBattleLowTierWaveHard (DO NOT TRANSLATE)"
+  ],
+  [
     87827,
     988,
     "Wormhole J492"
   ],
   [
+    87828,
+    4726,
+    "Extracted Butter Satin - Limited"
+  ],
+  [
+    87829,
+    4726,
+    "Stellar Tan Satin - Limited"
+  ],
+  [
+    87830,
+    4726,
+    "Vigilant Spearmint Satin - Limited"
+  ],
+  [
+    87831,
+    4726,
+    " Tyrant Blue Satin - Limited"
+  ],
+  [
+    87832,
+    4726,
+    "Vernal Celadon Satin - Limited"
+  ],
+  [
+    87833,
+    4726,
+    "Synthetic Oakleaf Matte - Limited"
+  ],
+  [
+    87834,
+    1667,
+    "Utopian Sagaris"
+  ],
+  [
+    87835,
+    227,
+    "FinalBattleLowTierCombatBossHard(DO NOT TRANSLATE)"
+  ],
+  [
+    87836,
+    4726,
+    "Pod Juice Gloss - Limited"
+  ],
+  [
+    87837,
+    4726,
+    "Pastel Dreams Gloss - Limited"
+  ],
+  [
+    87838,
+    4726,
+    "Rose-tinted Trit Metallic - Limited"
+  ],
+  [
+    87839,
+    4726,
+    "Drifted Electrum Metallic - Limited"
+  ],
+  [
+    87840,
+    4726,
+    "Clustered Horde - Limited"
+  ],
+  [
+    87841,
+    4726,
+    "Wild Warren - Limited"
+  ],
+  [
+    87842,
+    4726,
+    "XXII Unending - Limited"
+  ],
+  [
+    87843,
+    4726,
+    "Hiver Finish - Limited"
+  ],
+  [
     87853,
     1194,
     "Drifter Plugsuit Reward Crate"
+  ],
+  [
+    87854,
+    303,
+    "Oxybeles Turret Booster I",
+    19
+  ],
+  [
+    87855,
+    303,
+    "Oxybeles Turret Booster II",
+    19
+  ],
+  [
+    87856,
+    303,
+    "Oxybeles Turret Booster III",
+    19
+  ],
+  [
+    87857,
+    303,
+    "Eidolon Missile Booster I",
+    19
+  ],
+  [
+    87870,
+    303,
+    "Eidolon Missile Booster II",
+    19
+  ],
+  [
+    87871,
+    303,
+    "Eidolon Missile Booster III",
+    19
+  ],
+  [
+    87872,
+    303,
+    "Calyx Repair Booster I",
+    19
+  ],
+  [
+    87873,
+    303,
+    "Calyx Repair Booster II",
+    19
+  ],
+  [
+    87874,
+    303,
+    "Calyx Repair Booster III",
+    19
+  ],
+  [
+    87875,
+    303,
+    "Asclepius Remote Repair Booster I",
+    19
+  ],
+  [
+    87876,
+    303,
+    "Asclepius Remote Repair Booster II",
+    19
+  ],
+  [
+    87877,
+    303,
+    "Asclepius Remote Repair Booster III",
+    19
+  ],
+  [
+    87878,
+    303,
+    "Phylax Armor Booster I",
+    19
+  ],
+  [
+    87879,
+    303,
+    "Phylax Armor Booster II",
+    19
+  ],
+  [
+    87880,
+    303,
+    "Phylax Armor Booster III",
+    19
+  ],
+  [
+    87881,
+    303,
+    "Pelte Shield Booster I",
+    19
+  ],
+  [
+    87882,
+    303,
+    "Pelte Shield Booster II",
+    19
+  ],
+  [
+    87883,
+    303,
+    "Pelte Shield Booster III",
+    19
+  ],
+  [
+    87884,
+    303,
+    "Nocturne Anti-Drain Booster I",
+    19
+  ],
+  [
+    87885,
+    303,
+    "Nocturne Anti-Drain Booster II",
+    19
+  ],
+  [
+    87886,
+    303,
+    "Nocturne Anti-Drain Booster II ( copy )",
+    19
+  ],
+  [
+    87887,
+    303,
+    "Nocturne Anti-Drain Booster III",
+    19
+  ],
+  [
+    87888,
+    303,
+    "Kausis Capacitor Booster I",
+    19
+  ],
+  [
+    87889,
+    303,
+    "Kausis Capacitor Booster II",
+    19
+  ],
+  [
+    87890,
+    303,
+    "Kausis Capacitor Booster III",
+    19
+  ],
+  [
+    87891,
+    303,
+    "Mnemon Relic Coherence Booster I",
+    19
+  ],
+  [
+    87892,
+    303,
+    "Mnemon Relic Coherence Booster II",
+    19
+  ],
+  [
+    87893,
+    303,
+    "Mnemon Relic Coherence Booster III",
+    19
+  ],
+  [
+    87894,
+    303,
+    "Palimpsest Relic Strength Booster II",
+    19
+  ],
+  [
+    87895,
+    303,
+    "Palimpsest Relic Strength Booster III",
+    19
+  ],
+  [
+    87896,
+    303,
+    "Lithos Mining Booster I"
+  ],
+  [
+    87897,
+    303,
+    "Lithos Mining Booster II"
+  ],
+  [
+    87898,
+    303,
+    "Lithos Mining Booster III"
+  ],
+  [
+    87899,
+    303,
+    "Palimpsest Relic Strength Booster I",
+    19
+  ],
+  [
+    87900,
+    1194,
+    "Capsuleer Day XXII Fireworks Package"
+  ],
+  [
+    87901,
+    1194,
+    "Capsuleer Day XXII Booster Crate"
+  ],
+  [
+    87925,
+    1194,
+    "Capsuleer Day XXII Glamourex Crate"
+  ],
+  [
+    87926,
+    1194,
+    "Capsuleer Day XXII Accelerator Crate"
   ],
   [
     87938,
@@ -186503,8 +187242,544 @@
     "Lancer Counter Offensive - Dedicated ECM Spawner (DO NOT TRANSLATE)"
   ],
   [
+    87943,
+    4055,
+    "FinalBattleLowTierWave2 (DO NOT TRANSLATE)"
+  ],
+  [
+    87944,
+    4055,
+    "FinalBattleLowTierWaveHard2 (DO NOT TRANSLATE)"
+  ],
+  [
+    87947,
+    306,
+    "Prime Drifter Collection"
+  ],
+  [
+    87952,
+    4843,
+    "Sleeper Protocol Subverter"
+  ],
+  [
     87982,
     314,
     "Gratuity for Warden Connection Harmonic"
+  ],
+  [
+    87984,
+    1975,
+    "Sleeper Drone Hangar"
+  ],
+  [
+    87985,
+    1975,
+    "Sleeper Engineering Station"
+  ],
+  [
+    87986,
+    1975,
+    "Sleeper Station 1 V2"
+  ],
+  [
+    87987,
+    1975,
+    "Sleeper Station 1 V3"
+  ],
+  [
+    87988,
+    1975,
+    "Sleeper Station 1 V4"
+  ],
+  [
+    87989,
+    1975,
+    "Sleeper Station 1 V5"
+  ],
+  [
+    87990,
+    1975,
+    "Sleeper Battleship 1"
+  ],
+  [
+    87991,
+    1975,
+    "Sleeper Battleship 2"
+  ],
+  [
+    87992,
+    1975,
+    "Sleeper Cruiser 1"
+  ],
+  [
+    87993,
+    1975,
+    "Sleeper Cruiser 2"
+  ],
+  [
+    88087,
+    18,
+    "Eleutrium",
+    19
+  ],
+  [
+    88088,
+    1194,
+    "Wrath of Tyrannos Crate"
+  ],
+  [
+    88105,
+    4857,
+    "Tyranite",
+    19
+  ],
+  [
+    88106,
+    4579,
+    "VDB_Cloud_Vortex_01a_DarkStorm_01b"
+  ],
+  [
+    88107,
+    4579,
+    "VDB_Cloud_Vortex_02a_Darkstorm_01b"
+  ],
+  [
+    88108,
+    4579,
+    "VDB_Cloud_Vortex_04a_DarkStorm_01b"
+  ],
+  [
+    88109,
+    4579,
+    "VDB_Cloud_Vortex_05a_DarkStorm_01b"
+  ],
+  [
+    88110,
+    4579,
+    "VDB_Cloud_Vortex_06a_DarkStorm_01b"
+  ],
+  [
+    88111,
+    4091,
+    "Capsuleer Day YC127"
+  ],
+  [
+    88113,
+    1975,
+    "ENV_Drifter_S2"
+  ],
+  [
+    88131,
+    1975,
+    "ENV_Drifter_S1"
+  ],
+  [
+    88132,
+    1975,
+    "ENV_Drifter_S3"
+  ],
+  [
+    88133,
+    1194,
+    "Historic Capsuleer Day SKIN Crate"
+  ],
+  [
+    88134,
+    1194,
+    "Historic Capsuleer Day Apparel Crate"
+  ],
+  [
+    88149,
+    227,
+    "Nexus - FW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88150,
+    227,
+    "Nexus - HW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88151,
+    227,
+    "Nexus - MW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88152,
+    227,
+    "Nexus - EW Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88153,
+    1568,
+    "Drifter Hopilite"
+  ],
+  [
+    88154,
+    1724,
+    "Strategos Dreadnought"
+  ],
+  [
+    88155,
+    319,
+    "Vigilant Eradicator"
+  ],
+  [
+    88156,
+    186,
+    "Strategos Dreadnought Wreck"
+  ],
+  [
+    88170,
+    952,
+    "Vortex Transmitter"
+  ],
+  [
+    88171,
+    1975,
+    "Non-Interactable Drifter Security Tower (DO NOT TRANSLATE)"
+  ],
+  [
+    88172,
+    314,
+    "Narrowband Emission Amplifier"
+  ],
+  [
+    88173,
+    314,
+    "Narrowband Emission Limiter"
+  ],
+  [
+    88174,
+    314,
+    "Midband Emission Amplifier"
+  ],
+  [
+    88175,
+    314,
+    "Midband Emission Limiter"
+  ],
+  [
+    88176,
+    314,
+    "Wideband Emission Amplifier"
+  ],
+  [
+    88177,
+    314,
+    "Wideband Emission Limiter"
+  ],
+  [
+    88178,
+    1194,
+    "Nexus Cypher"
+  ],
+  [
+    88179,
+    1194,
+    "Blackbody Driver"
+  ],
+  [
+    88186,
+    1088,
+    "88186_Male_outer_AugmentationSuitM01_Types_AugmentationSuitM01_Black.png",
+    17
+  ],
+  [
+    88187,
+    1088,
+    "88187_Female_Outer_AugmentationSuitF01_Types_AugmentationSuitF01_Black.png",
+    17
+  ],
+  [
+    88202,
+    4041,
+    "Sanctified Vidette Filament"
+  ],
+  [
+    88203,
+    4041,
+    "Azdaja Redoubt Filament"
+  ],
+  [
+    88204,
+    4041,
+    "Sentinel MZ Filament"
+  ],
+  [
+    88205,
+    4041,
+    "Liberated Barbican Filament"
+  ],
+  [
+    88206,
+    4041,
+    "Conflux Eyrie Filament"
+  ],
+  [
+    88214,
+    4052,
+    "Liberated Barbican Filament Blueprint"
+  ],
+  [
+    88215,
+    4052,
+    "Conflux Eyrie Filament Blueprint"
+  ],
+  [
+    88216,
+    4052,
+    "Sanctified Vidette Filament Blueprint"
+  ],
+  [
+    88217,
+    4052,
+    "Azdaja Redoubt Filament Blueprint"
+  ],
+  [
+    88218,
+    4052,
+    "Sentinel MZ Filament Blueprint"
+  ],
+  [
+    88224,
+    306,
+    "Eradication Authority"
+  ],
+  [
+    88225,
+    1975,
+    "Nexus Center (DO NOT TRANSLATE)"
+  ],
+  [
+    88258,
+    1568,
+    "Kobalos Frigate"
+  ],
+  [
+    88259,
+    1665,
+    "Hikanta Cruiser"
+  ],
+  [
+    88261,
+    1770,
+    "‘Vigilant’ Shield Command Burst",
+    4
+  ],
+  [
+    88262,
+    77,
+    "Strategos' Modified Multispectrum Shield Hardener",
+    5
+  ],
+  [
+    88263,
+    1770,
+    "‘Tyrannos’ Armor Command Burst",
+    4
+  ],
+  [
+    88264,
+    407,
+    "Strategos' Modified Fighter Support Unit",
+    5
+  ],
+  [
+    88265,
+    205,
+    "Strategos' Modified Heat Sink",
+    5
+  ],
+  [
+    88266,
+    515,
+    "Strategos' Modified Siege Module",
+    5
+  ],
+  [
+    88267,
+    516,
+    "Strategos' Modified Siege Module Blueprint",
+    5
+  ],
+  [
+    88268,
+    1197,
+    "Narrowband Emission Amplifier Blueprint "
+  ],
+  [
+    88269,
+    1197,
+    "Narrowband Emission Limiter Blueprint "
+  ],
+  [
+    88270,
+    1197,
+    "Midband Emission Amplifier Blueprint "
+  ],
+  [
+    88271,
+    1197,
+    "Midband Emission Limiter Blueprint "
+  ],
+  [
+    88272,
+    1197,
+    "Wideband Emission Amplifier Blueprint "
+  ],
+  [
+    88273,
+    1197,
+    "Wideband Emission Limiter Blueprint "
+  ],
+  [
+    88275,
+    186,
+    "Drifter Small Wreck"
+  ],
+  [
+    88307,
+    1667,
+    "Polemos Battleship"
+  ],
+  [
+    88317,
+    226,
+    "Liberation Quartermaster"
+  ],
+  [
+    88318,
+    226,
+    "Conflux Eyrie State Trader"
+  ],
+  [
+    88327,
+    226,
+    "Anointed Allocator"
+  ],
+  [
+    88330,
+    226,
+    "Requisition Officer"
+  ],
+  [
+    88347,
+    1194,
+    "Strategos' Modified Siege Module Schematics Crate"
+  ],
+  [
+    88348,
+    53,
+    "Lux Ballistra"
+  ],
+  [
+    88349,
+    53,
+    "Lux Kopis"
+  ],
+  [
+    88350,
+    303,
+    "Aegytica Volatile Booster",
+    19
+  ],
+  [
+    88351,
+    303,
+    "Vis Vitalis Volatile Booster",
+    19
+  ],
+  [
+    88352,
+    303,
+    "Balneum Volatile Booster",
+    19
+  ],
+  [
+    88353,
+    303,
+    "Theriac Volatile Booster",
+    19
+  ],
+  [
+    88354,
+    303,
+    "Mithridate Volatile Booster",
+    19
+  ],
+  [
+    88355,
+    226,
+    "Kybernaut Glorification Xordazh"
+  ],
+  [
+    88356,
+    4726,
+    "Stygian Cerulean Satin - Limited"
+  ],
+  [
+    88357,
+    4726,
+    "Stygian Cerulean Satin - Unlimited"
+  ],
+  [
+    88360,
+    1975,
+    "Sentinel Fortification HQ"
+  ],
+  [
+    88364,
+    4726,
+    "Cinderchrome Metallic - Limited"
+  ],
+  [
+    88365,
+    4726,
+    "Cinderchrome Metallic - Unlimited"
+  ],
+  [
+    88375,
+    4726,
+    "Aetherflow - Limited"
+  ],
+  [
+    88376,
+    4726,
+    "Aetherflow - Unlimited"
+  ],
+  [
+    88378,
+    4726,
+    "Shocktrace - Unlimited"
+  ],
+  [
+    88379,
+    227,
+    "Maze - Wrath of Tyrannos Combat Challenge Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    88380,
+    227,
+    "Maze - Wrath of Tyrannos Combat Challenge Spawner - Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    88381,
+    4726,
+    "Shocktrace - Limited"
+  ],
+  [
+    88382,
+    227,
+    "Maze - Wrath of Tyrannos Combat Challenge Spawner - Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    88427,
+    1975,
+    "ENV_DarkExploration_01b"
+  ],
+  [
+    88428,
+    1975,
+    "Jove Drifter Station Hive"
   ]
 ]

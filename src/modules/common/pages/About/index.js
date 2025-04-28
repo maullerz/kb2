@@ -5,7 +5,7 @@ import OldPageLayout from 'layouts/OldPageLayout'
 
 import { Title, Content, Subheader, Paragraph, DivParagraph, Row, CcpStoreWrapper } from './styles'
 
-const Home = () => {
+const About = () => {
   return (
     <OldPageLayout>
       <Fragment key='content'>
@@ -111,4 +111,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default About

@@ -14567,6 +14567,25 @@
     "published": false,
     "useBasePrice": false
   },
+  "4843": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Limited Rarities",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4857": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 25,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Tyranite",
+    "published": true,
+    "useBasePrice": false
+  },
   "350858": {
     "anchorable": false,
     "anchored": false,
