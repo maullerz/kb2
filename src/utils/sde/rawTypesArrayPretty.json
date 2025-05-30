@@ -121492,8 +121492,7 @@
   [
     46381,
     1818,
-    "Agency Support Drop",
-    19
+    "Agency Support Drop"
   ],
   [
     46382,
@@ -129661,8 +129660,7 @@
   [
     49756,
     526,
-    "25,000 Skill Points",
-    19
+    "25,000 Skill Points"
   ],
   [
     49757,
@@ -129850,14 +129848,12 @@
   [
     49809,
     526,
-    "50,000 Skill Points",
-    19
+    "50,000 Skill Points"
   ],
   [
     49810,
     526,
-    "100,000 Skill Points",
-    19
+    "100,000 Skill Points"
   ],
   [
     49964,
@@ -130919,8 +130915,7 @@
   [
     52263,
     526,
-    "1,000,000 Skill Points",
-    19
+    "1,000,000 Skill Points"
   ],
   [
     52264,
@@ -130945,14 +130940,12 @@
   [
     52269,
     526,
-    "500,000 Skill Points",
-    19
+    "500,000 Skill Points"
   ],
   [
     52270,
     526,
-    "750,000 Skill Points",
-    19
+    "750,000 Skill Points"
   ],
   [
     52273,
@@ -131192,7 +131185,7 @@
   ],
   [
     52354,
-    186,
+    1975,
     "ECM Field Effect Subpylon Wreck"
   ],
   [
@@ -136567,8 +136560,7 @@
   [
     54650,
     526,
-    "5,000 Skill Points",
-    19
+    "5,000 Skill Points"
   ],
   [
     54651,
@@ -136578,8 +136570,7 @@
   [
     54652,
     526,
-    "1,000 Skill Points",
-    19
+    "1,000 Skill Points"
   ],
   [
     54653,
@@ -157989,32 +157980,27 @@
   [
     72238,
     303,
-    "Basic 'Boost' Cerebral Accelerator",
-    19
+    "Basic 'Boost' Cerebral Accelerator"
   ],
   [
     72239,
     303,
-    "Standard 'Boost' Cerebral Accelerator",
-    19
+    "Standard 'Boost' Cerebral Accelerator"
   ],
   [
     72240,
     303,
-    "Advanced 'Boost' Cerebral Accelerator",
-    19
+    "Advanced 'Boost' Cerebral Accelerator"
   ],
   [
     72241,
     303,
-    "Specialist 'Boost' Cerebral Accelerator",
-    19
+    "Specialist 'Boost' Cerebral Accelerator"
   ],
   [
     72242,
     303,
-    "Expert 'Boost' Cerebral Accelerator",
-    19
+    "Expert 'Boost' Cerebral Accelerator"
   ],
   [
     72258,
@@ -170030,8 +170016,7 @@
   [
     77919,
     303,
-    "Genius 'Boost' Cerebral Accelerator",
-    19
+    "Genius 'Boost' Cerebral Accelerator"
   ],
   [
     77920,
@@ -186269,6 +186254,22 @@
     "Reconstructed Spectral Vision Matar"
   ],
   [
+    87381,
+    485,
+    "Sarathiel"
+  ],
+  [
+    87382,
+    186,
+    "Sarathiel Wreck"
+  ],
+  [
+    87383,
+    537,
+    "Sarathiel Blueprint",
+    4
+  ],
+  [
     87386,
     314,
     "Spectral vision capture"
@@ -186342,6 +186343,22 @@
     87441,
     1194,
     "Thrasher Crate"
+  ],
+  [
+    87442,
+    4471,
+    "Sarathiel Alliance Emblem"
+  ],
+  [
+    87443,
+    4471,
+    "Sarathiel Corporation Emblem"
+  ],
+  [
+    87444,
+    515,
+    "QA Prototype Siege Module",
+    2
   ],
   [
     87449,
@@ -186646,6 +186663,11 @@
     "Tritanium Prospecting Array 3"
   ],
   [
+    87703,
+    4838,
+    "Power Monitoring Division 1"
+  ],
+  [
     87704,
     4768,
     "Pyerite Prospecting Array 3"
@@ -186676,10 +186698,20 @@
     "Megacyte Prospecting Array 3"
   ],
   [
+    87710,
+    4838,
+    "Workforce Mecha-Tooling 1"
+  ],
+  [
     87711,
     303,
     "Expired Aegytica Volatile Booster",
     19
+  ],
+  [
+    87712,
+    4838,
+    "QA Colony Resources Management Enhancer"
   ],
   [
     87725,
@@ -186909,6 +186941,16 @@
     87803,
     4726,
     "Drifter Sweeps - Limited"
+  ],
+  [
+    87815,
+    4839,
+    "Gamma Stability Generator"
+  ],
+  [
+    87816,
+    4839,
+    "Systemwide Modifier Upgrade B1"
   ],
   [
     87826,
@@ -187257,9 +187299,39 @@
     "Prime Drifter Collection"
   ],
   [
+    87948,
+    4768,
+    "Exploration Detector 1"
+  ],
+  [
+    87949,
+    4839,
+    "Plasma Stability Generator"
+  ],
+  [
+    87950,
+    4839,
+    "Electric Stability Generator"
+  ],
+  [
+    87951,
+    4839,
+    "Exotic Stability Generator"
+  ],
+  [
     87952,
     4843,
     "Sleeper Protocol Subverter"
+  ],
+  [
+    87953,
+    4768,
+    "Exploration Detector 2"
+  ],
+  [
+    87954,
+    4768,
+    "Exploration Detector 3"
   ],
   [
     87982,
@@ -187317,6 +187389,88 @@
     "Sleeper Cruiser 2"
   ],
   [
+    88001,
+    900,
+    "Babaroga",
+    2
+  ],
+  [
+    88002,
+    186,
+    "Triglavian Elite Battleship Wreck"
+  ],
+  [
+    88003,
+    107,
+    "Babaroga Blueprint",
+    2
+  ],
+  [
+    88009,
+    306,
+    "Unfit Remnant"
+  ],
+  [
+    88010,
+    306,
+    "Proven Remnant"
+  ],
+  [
+    88012,
+    1317,
+    "Power Monitoring Division 1 Blueprint"
+  ],
+  [
+    88014,
+    1317,
+    "Workforce Mecha-Tooling 1 Blueprint"
+  ],
+  [
+    88020,
+    1317,
+    "Exploration Detector 1 Blueprint"
+  ],
+  [
+    88029,
+    1317,
+    "Exploration Detector 2 Blueprint"
+  ],
+  [
+    88036,
+    1317,
+    "Exploration Detector 3 Blueprint"
+  ],
+  [
+    88060,
+    306,
+    "Expedition Secure Supplies"
+  ],
+  [
+    88062,
+    306,
+    "Expedition Research Cache"
+  ],
+  [
+    88075,
+    1317,
+    "Gamma Stability Generator Blueprint"
+  ],
+  [
+    88076,
+    1317,
+    "Plasma Stability Generator Blueprint"
+  ],
+  [
+    88077,
+    1317,
+    "Electric Stability Generator Blueprint"
+  ],
+  [
+    88078,
+    1317,
+    "Exotic Stability Generator Blueprint"
+  ],
+  [
     88087,
     18,
     "Eleutrium",
@@ -187369,6 +187523,98 @@
     "ENV_Drifter_S2"
   ],
   [
+    88114,
+    1975,
+    "Black Monolith"
+  ],
+  [
+    88115,
+    1975,
+    "Broken Metallic Crystal Asteroid"
+  ],
+  [
+    88116,
+    1975,
+    "Broken Orange Crystal Asteroid"
+  ],
+  [
+    88117,
+    1975,
+    "Debris - Broken Engine"
+  ],
+  [
+    88119,
+    300,
+    "Low-grade Wedge Alpha",
+    4
+  ],
+  [
+    88120,
+    300,
+    "Low-grade Wedge Beta",
+    4
+  ],
+  [
+    88121,
+    300,
+    "Low-grade Wedge Gamma",
+    4
+  ],
+  [
+    88122,
+    300,
+    "Low-grade Wedge Delta",
+    4
+  ],
+  [
+    88123,
+    300,
+    "Low-grade Wedge Epsilon",
+    4
+  ],
+  [
+    88124,
+    300,
+    "Low-grade Wedge Omega",
+    4
+  ],
+  [
+    88125,
+    300,
+    "Mid-grade Wedge Alpha",
+    4
+  ],
+  [
+    88126,
+    300,
+    "Mid-grade Wedge Beta",
+    4
+  ],
+  [
+    88127,
+    300,
+    "Mid-grade Wedge Gamma",
+    4
+  ],
+  [
+    88128,
+    300,
+    "Mid-grade Wedge Delta",
+    4
+  ],
+  [
+    88129,
+    300,
+    "Mid-grade Wedge Epsilon",
+    4
+  ],
+  [
+    88130,
+    300,
+    "Mid-grade Wedge Omega",
+    4
+  ],
+  [
     88131,
     1975,
     "ENV_Drifter_S1"
@@ -187387,6 +187633,89 @@
     88134,
     1194,
     "Historic Capsuleer Day Apparel Crate"
+  ],
+  [
+    88135,
+    724,
+    "Low-grade Wedge Alpha Blueprint",
+    2
+  ],
+  [
+    88136,
+    724,
+    "Low-grade Wedge Beta Blueprint",
+    2
+  ],
+  [
+    88137,
+    724,
+    "Low-grade Wedge Gamma Blueprint",
+    2
+  ],
+  [
+    88138,
+    724,
+    "Low-grade Wedge Delta Blueprint",
+    2
+  ],
+  [
+    88139,
+    724,
+    "Low-grade Wedge Epsilon Blueprint",
+    2
+  ],
+  [
+    88140,
+    724,
+    "Low-grade Wedge Omega Blueprint",
+    2
+  ],
+  [
+    88141,
+    724,
+    "Mid-grade Wedge Alpha Blueprint",
+    2
+  ],
+  [
+    88142,
+    724,
+    "Mid-grade Wedge Beta Blueprint",
+    2
+  ],
+  [
+    88143,
+    724,
+    "Mid-grade Wedge Gamma Blueprint",
+    2
+  ],
+  [
+    88144,
+    724,
+    "Mid-grade Wedge Delta Blueprint",
+    2
+  ],
+  [
+    88145,
+    724,
+    "Mid-grade Wedge Epsilon Blueprint",
+    2
+  ],
+  [
+    88146,
+    724,
+    "Mid-grade Wedge Omega Blueprint",
+    2
+  ],
+  [
+    88147,
+    1238,
+    "Triplot Scan Acqusition Array",
+    4
+  ],
+  [
+    88148,
+    1239,
+    "Triplot Scan Acqusition Array Blueprint"
   ],
   [
     88149,
@@ -187427,6 +187756,21 @@
     88156,
     186,
     "Strategos Dreadnought Wreck"
+  ],
+  [
+    88160,
+    1975,
+    "Non-Interactable Security Outpost (Do not translate)"
+  ],
+  [
+    88161,
+    1975,
+    "Non-Interactable Circle Construct (Do not translate)"
+  ],
+  [
+    88162,
+    1975,
+    "Non-Interactable Blood Raider Bunker (Do not translate)"
   ],
   [
     88170,
@@ -187491,29 +187835,64 @@
     17
   ],
   [
+    88192,
+    1975,
+    "Non-Interactable Sansha Lookout (Do not translate)"
+  ],
+  [
+    88193,
+    1975,
+    "Non-Interactable Sansha Elevator (Do not translate)"
+  ],
+  [
+    88194,
+    1975,
+    "Non-Interactable Sansha Junction (Do not translate)"
+  ],
+  [
+    88195,
+    1975,
+    "Non-Interactable Sansha Bunker (Do not translate)"
+  ],
+  [
+    88196,
+    1975,
+    "Non-Interactable Serpentis Bunker (Do not translate)"
+  ],
+  [
     88202,
-    4041,
-    "Sanctified Vidette Filament"
+    4072,
+    "Expired Sanctified Vidette Filament"
   ],
   [
     88203,
-    4041,
-    "Azdaja Redoubt Filament"
+    4072,
+    "Expired Azdaja Redoubt Filament"
   ],
   [
     88204,
-    4041,
-    "Sentinel MZ Filament"
+    4072,
+    "Expired Sentinel MZ Filament"
   ],
   [
     88205,
-    4041,
-    "Liberated Barbican Filament"
+    4072,
+    "Expired Liberated Barbican Filament"
   ],
   [
     88206,
-    4041,
-    "Conflux Eyrie Filament"
+    4072,
+    "Expired Conflux Eyrie Filament"
+  ],
+  [
+    88207,
+    1975,
+    "Non-interactable Deadspace Particle Accelerator (Do Not Translate)"
+  ],
+  [
+    88208,
+    1975,
+    "Non-interactable Gallente Research Station Ruins (Do Not Translate)"
   ],
   [
     88214,
@@ -187541,6 +187920,11 @@
     "Sentinel MZ Filament Blueprint"
   ],
   [
+    88221,
+    4838,
+    "Power Monitoring Division 2"
+  ],
+  [
     88224,
     306,
     "Eradication Authority"
@@ -187549,6 +187933,101 @@
     88225,
     1975,
     "Nexus Center (DO NOT TRANSLATE)"
+  ],
+  [
+    88227,
+    4838,
+    "Power Monitoring Division 3"
+  ],
+  [
+    88228,
+    4838,
+    "Workforce Mecha-Tooling 2"
+  ],
+  [
+    88229,
+    4838,
+    "Workforce Mecha-Tooling 3"
+  ],
+  [
+    88230,
+    1317,
+    "Power Monitoring Division 2 Blueprint"
+  ],
+  [
+    88231,
+    1317,
+    "Power Monitoring Division 3 Blueprint"
+  ],
+  [
+    88232,
+    1317,
+    "Workforce Mecha-Tooling 2 Blueprint"
+  ],
+  [
+    88233,
+    1317,
+    "Workforce Mecha-Tooling 3 Blueprint"
+  ],
+  [
+    88237,
+    1975,
+    "Non-interactable Minmatar Trade Station Ruins (DO NOT TRANSLATE)"
+  ],
+  [
+    88238,
+    4471,
+    "Babaroga Alliance Emblem"
+  ],
+  [
+    88239,
+    4471,
+    "Babaroga Corporation Emblem"
+  ],
+  [
+    88246,
+    1975,
+    "Env_Triglavian_S3"
+  ],
+  [
+    88247,
+    1975,
+    "Env_Triglavian_S4"
+  ],
+  [
+    88250,
+    1975,
+    "Non-interactable  Angel Barricade (Do Not Translate)"
+  ],
+  [
+    88251,
+    1975,
+    "Non-interactable Minmatar Tactical Outpost (Do Not Translate)"
+  ],
+  [
+    88252,
+    1975,
+    "Non-interactable Blood Raider Barricade (Do Not Translate)"
+  ],
+  [
+    88253,
+    1975,
+    "Non-interactable Guristas Barricade (Do Not Translate)"
+  ],
+  [
+    88255,
+    1975,
+    "Non-Interactable Sansha Barricade (Do not translate)"
+  ],
+  [
+    88256,
+    1975,
+    "Non-Interactable Sansha Wall (Do not translate)"
+  ],
+  [
+    88257,
+    1975,
+    "Non-Interactable Serpentis Barricade (Do not translate)"
   ],
   [
     88258,
@@ -187638,28 +188117,53 @@
     "Drifter Small Wreck"
   ],
   [
+    88277,
+    1975,
+    "Non Interactable Fragmented Cathedral I (Do not translate)"
+  ],
+  [
+    88278,
+    1975,
+    "Non Interactable Fragmented Cathedral II (Do not translate)"
+  ],
+  [
+    88279,
+    1975,
+    "Non Interactable Fragmented Cathedral III (Do not translate)"
+  ],
+  [
+    88280,
+    1975,
+    "Non Interactable Fragmented Cathedral IV (Do not translate)"
+  ],
+  [
+    88281,
+    1975,
+    "Non Interactable Fragmented Cathedral V (Do not translate)"
+  ],
+  [
     88307,
     1667,
     "Polemos Battleship"
   ],
   [
     88317,
-    226,
+    1975,
     "Liberation Quartermaster"
   ],
   [
     88318,
-    226,
+    1975,
     "Conflux Eyrie State Trader"
   ],
   [
     88327,
-    226,
+    1975,
     "Anointed Allocator"
   ],
   [
     88330,
-    226,
+    1975,
     "Requisition Officer"
   ],
   [
@@ -187709,18 +188213,18 @@
   ],
   [
     88355,
-    226,
+    1975,
     "Kybernaut Glorification Xordazh"
   ],
   [
     88356,
     4726,
-    "Stygian Cerulean Satin - Limited"
+    "Sapphire Moonrise Satin - Limited"
   ],
   [
     88357,
     4726,
-    "Stygian Cerulean Satin - Unlimited"
+    "Sapphire Moonrise Satin - Unlimited"
   ],
   [
     88360,
@@ -187730,22 +188234,27 @@
   [
     88364,
     4726,
-    "Cinderchrome Metallic - Limited"
+    "Bronze Cinder Metallic - Limited"
   ],
   [
     88365,
     4726,
-    "Cinderchrome Metallic - Unlimited"
+    "Bronze Cinder Metallic - Unlimited"
   ],
   [
     88375,
     4726,
-    "Aetherflow - Limited"
+    "Executive Turn - Limited"
   ],
   [
     88376,
     4726,
-    "Aetherflow - Unlimited"
+    "Executive Turn - Unlimited"
+  ],
+  [
+    88377,
+    255,
+    "Advanced Doomsday Operation"
   ],
   [
     88378,
@@ -187781,5 +188290,1186 @@
     88428,
     1975,
     "Jove Drifter Station Hive"
+  ],
+  [
+    88435,
+    227,
+    "Maze -Wrath of tyrannos boss Combat Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88456,
+    4726,
+    "Sapphire Moonrise Gloss - Limited"
+  ],
+  [
+    88457,
+    4726,
+    "Sapphire Moonrise Gloss - Unlimited"
+  ],
+  [
+    88458,
+    4726,
+    "Seafoam Biome Satin - Limited"
+  ],
+  [
+    88459,
+    4726,
+    "Seafoam Biome Satin - Unlimited"
+  ],
+  [
+    88460,
+    4726,
+    "Seafoam Biome Gloss - Limited"
+  ],
+  [
+    88461,
+    4726,
+    "Seafoam Biome Gloss - Unlimited"
+  ],
+  [
+    88464,
+    4726,
+    "Peppermint Plasmoid Gloss - Limited"
+  ],
+  [
+    88465,
+    4726,
+    "Peppermint Plasmoid Gloss - Unlimited"
+  ],
+  [
+    88466,
+    4726,
+    "Peppermint Plasmoid Satin - Limited"
+  ],
+  [
+    88467,
+    4726,
+    "Peppermint Plasmoid Satin- Unlimited"
+  ],
+  [
+    88468,
+    4726,
+    "Peppermint Plasmoid Matte - Limited"
+  ],
+  [
+    88469,
+    4726,
+    "Peppermint Plasmoid Matte - Unlimited"
+  ],
+  [
+    88470,
+    4726,
+    "Pale Temperate Matte - Limited"
+  ],
+  [
+    88471,
+    4726,
+    "Pale Temperate Matte - Unlimited"
+  ],
+  [
+    88472,
+    4726,
+    "Atomic Sheen Gloss - Limited"
+  ],
+  [
+    88473,
+    4726,
+    "Atomic Sheen Gloss - Unlimited"
+  ],
+  [
+    88474,
+    4726,
+    "Atomic Sheen Satin - Limited"
+  ],
+  [
+    88475,
+    4726,
+    "Atomic Sheen Satin - Unlimited"
+  ],
+  [
+    88476,
+    4726,
+    "Atomic Excess Gloss - Limited"
+  ],
+  [
+    88477,
+    4726,
+    "Atomic Excess Gloss - Unlimited"
+  ],
+  [
+    88478,
+    4726,
+    "Verdant Atmos Gloss - Unlimited"
+  ],
+  [
+    88479,
+    4726,
+    "Verdant Atmos Gloss - Limited"
+  ],
+  [
+    88480,
+    4726,
+    "Orbital Tan Gloss - Limited"
+  ],
+  [
+    88481,
+    4726,
+    "Orbital Tan Gloss - Unlimited"
+  ],
+  [
+    88482,
+    4726,
+    "Faded Jade Gloss - Limited"
+  ],
+  [
+    88483,
+    4726,
+    "Faded Jade Gloss - Unlimited"
+  ],
+  [
+    88484,
+    4726,
+    "Grey Matter Matte - Limited"
+  ],
+  [
+    88485,
+    4726,
+    "Grey Matter Matte - Unlimited"
+  ],
+  [
+    88486,
+    4726,
+    "Mossy Relic Satin - Limited"
+  ],
+  [
+    88487,
+    4726,
+    "Mossy Relic Satin - Unlimited"
+  ],
+  [
+    88523,
+    4726,
+    "Exogenic White Satin - Limited"
+  ],
+  [
+    88524,
+    4726,
+    "Exogenic White Satin - Unlimited"
+  ],
+  [
+    88525,
+    4726,
+    "Ashen Ion Satin - Limited"
+  ],
+  [
+    88526,
+    4726,
+    "Ashen Ion Satin - Unlimited"
+  ],
+  [
+    88527,
+    4726,
+    "Cardinal Flux Satin - Limited"
+  ],
+  [
+    88528,
+    4726,
+    "Cardinal Flux Satin - Unlimited"
+  ],
+  [
+    88529,
+    4726,
+    "Ochre Moondust Satin - Limited"
+  ],
+  [
+    88530,
+    4726,
+    "Ochre Moondust Satin - Unlimited"
+  ],
+  [
+    88531,
+    4726,
+    "Polluted Frost Satin - Limited"
+  ],
+  [
+    88532,
+    4726,
+    "Polluted Frost Satin - Unlimited"
+  ],
+  [
+    88533,
+    4726,
+    "Void Shift Matte - Limited"
+  ],
+  [
+    88534,
+    4726,
+    "Void Shift Matte - Unlimited"
+  ],
+  [
+    88535,
+    4726,
+    "Biohazard Canary Matte - Limited"
+  ],
+  [
+    88536,
+    4726,
+    "Biohazard Canary Matte - Unlimited"
+  ],
+  [
+    88537,
+    4726,
+    "Subterranean Spore Matte - Limited"
+  ],
+  [
+    88538,
+    4726,
+    "Subterranean Spore Matte - Unlimited"
+  ],
+  [
+    88539,
+    4726,
+    "Cult Cardinal Matte - Limited"
+  ],
+  [
+    88540,
+    4726,
+    "Cult Cardinal Matte - Unlimited"
+  ],
+  [
+    88541,
+    4726,
+    "Plasma Bloom Gloss - Limited"
+  ],
+  [
+    88542,
+    4726,
+    "Plasma Bloom Gloss - Unlimited"
+  ],
+  [
+    88543,
+    4726,
+    "Violet Blight Gloss - Limited"
+  ],
+  [
+    88544,
+    4726,
+    "Violet Blight Gloss - Unlimited"
+  ],
+  [
+    88545,
+    4726,
+    "Sanguine Vow Gloss - Limited"
+  ],
+  [
+    88546,
+    4726,
+    "Sanguine Vow Gloss - Unlimited"
+  ],
+  [
+    88547,
+    227,
+    "Maze - Wrath of Tyrannos Structure Challenge Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    88548,
+    227,
+    "Maze - Wrath of Tyrannos Structure Challenge Spawner - Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    88549,
+    4726,
+    "Homeworld Forest Gloss - Limited"
+  ],
+  [
+    88550,
+    4726,
+    "Homeworld Forest Gloss - Unlimited"
+  ],
+  [
+    88551,
+    227,
+    "Maze - Wrath of Tyrannos Structure Challenge Spawner - Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    88552,
+    227,
+    "Maze - Wrath of Tyrannos Hacking Challenge Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    88553,
+    4726,
+    "Celestial Peridot Gloss - Limited"
+  ],
+  [
+    88554,
+    227,
+    "Maze - Wrath of Tyrannos Hacking Challenge Spawner - Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    88555,
+    4726,
+    "Celestial Peridot Gloss - Unlimited"
+  ],
+  [
+    88556,
+    227,
+    "Maze - Wrath of Tyrannos Hacking Challenge Spawner - Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    88557,
+    227,
+    "Maze - Wrath of Tyrannos Roaming Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88558,
+    227,
+    "Maze - Wrath of Tyrannos Boss Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    88559,
+    1667,
+    "Ladon Tyrannos"
+  ],
+  [
+    88560,
+    1667,
+    "Mynos Tyrannos"
+  ],
+  [
+    88562,
+    1895,
+    "Glorification Exchange"
+  ],
+  [
+    88563,
+    227,
+    "Maze - Wrath of Tyrannos Trader Spawner (DO NOT TRANSLATE) "
+  ],
+  [
+    88567,
+    319,
+    "Reckoning Hoard"
+  ],
+  [
+    88568,
+    1194,
+    "Aberrant Mynos Forked Packet"
+  ],
+  [
+    88569,
+    1194,
+    "DEPRICATED (DO NOT TRANSLATE)"
+  ],
+  [
+    88571,
+    1194,
+    "Locus Cypher"
+  ],
+  [
+    88572,
+    4726,
+    "Deep Space Iron Metallic - Limited"
+  ],
+  [
+    88573,
+    4726,
+    "Deep Space Iron Metallic - Unlimited"
+  ],
+  [
+    88575,
+    4726,
+    "Emerald Oblivion Metallic - Limited"
+  ],
+  [
+    88576,
+    4726,
+    "Emerald Oblivion Metallic - Unlimited"
+  ],
+  [
+    88577,
+    4726,
+    "Agate Steel Metallic - Limited"
+  ],
+  [
+    88578,
+    4726,
+    "Agate Steel Metallic - Unlimited"
+  ],
+  [
+    88579,
+    4726,
+    "Luminated Copper Metallic - Limited"
+  ],
+  [
+    88580,
+    4726,
+    "Luminated Copper Metallic - Unlimited"
+  ],
+  [
+    88581,
+    4726,
+    "Ionized Verdigris Metallic - Limited"
+  ],
+  [
+    88582,
+    4726,
+    "Ionized Verdigris Metallic - Unlimited"
+  ],
+  [
+    88583,
+    226,
+    "Pator Liberation Quartermaster"
+  ],
+  [
+    88584,
+    4726,
+    "Aqueous Cobalt - Limited"
+  ],
+  [
+    88585,
+    226,
+    "New Caldari State Trader"
+  ],
+  [
+    88586,
+    226,
+    "Amarr Anointed Allocator"
+  ],
+  [
+    88587,
+    4726,
+    "Aqueous Cobalt - Unlimited"
+  ],
+  [
+    88588,
+    226,
+    "Raravoss Kybernaut Glorification Xordazh"
+  ],
+  [
+    88589,
+    226,
+    "Yulai EDENCOM Requisition Officer"
+  ],
+  [
+    88590,
+    4726,
+    "Tropic Alloy Metallic - Limited"
+  ],
+  [
+    88591,
+    4726,
+    "Tropic Alloy Metallic - Unlimited"
+  ],
+  [
+    88593,
+    4726,
+    "Pyrrhic Plate Metallic - Limited"
+  ],
+  [
+    88594,
+    4726,
+    "Pyrrhic Plate Metallic - Unlimited"
+  ],
+  [
+    88595,
+    4726,
+    "Electrified Chrome Metallic - Limited"
+  ],
+  [
+    88596,
+    4726,
+    "Electrified Chrome Metallic - Unlimited"
+  ],
+  [
+    88597,
+    4726,
+    "Muted Chrome Metallic - Limited"
+  ],
+  [
+    88598,
+    4726,
+    "Muted Chrome Metallic - Unlimited"
+  ],
+  [
+    88599,
+    4726,
+    "Phosphate Flux Metallic - Limited"
+  ],
+  [
+    88600,
+    4726,
+    "Phosphate Flux Metallic - Unlimited"
+  ],
+  [
+    88601,
+    4726,
+    "Aluminum Aurora Metallic - Limited"
+  ],
+  [
+    88602,
+    4726,
+    "Aluminum Aurora Metallic - Unlimited"
+  ],
+  [
+    88603,
+    4726,
+    "Forgotten Silver Metallic - Limited"
+  ],
+  [
+    88604,
+    4726,
+    "Forgotten Silver Metallic - Unlimited"
+  ],
+  [
+    88605,
+    4726,
+    "Twilight Corrosion Metallic - Limited"
+  ],
+  [
+    88606,
+    4726,
+    "Twilight Corrosion Metallic - Unlimited"
+  ],
+  [
+    88607,
+    4726,
+    "Burnt Patina Metallic - Limited"
+  ],
+  [
+    88608,
+    4726,
+    "Burnt Patina Metallic - Unlimited"
+  ],
+  [
+    88613,
+    1724,
+    "Strategos Dreadnought"
+  ],
+  [
+    88614,
+    4726,
+    "Helian Tin Metallic - Limited"
+  ],
+  [
+    88615,
+    4726,
+    "Helian Tin Metallic - Unlimited"
+  ],
+  [
+    88616,
+    4726,
+    "Royal Aureate Metallic - Limited"
+  ],
+  [
+    88617,
+    4726,
+    "Royal Aureate Metallic - Unlimited"
+  ],
+  [
+    88618,
+    4726,
+    "Electrum Flare Metallic - Limited"
+  ],
+  [
+    88619,
+    4726,
+    "Electrum Flare Metallic - Unlimited"
+  ],
+  [
+    88620,
+    4726,
+    "Osmium Vine Metallic - Limited"
+  ],
+  [
+    88621,
+    4726,
+    "Osmium Vine Metallic - Unlimited"
+  ],
+  [
+    88622,
+    4726,
+    "Vanadium Essence Metallic - Limited"
+  ],
+  [
+    88623,
+    4726,
+    "Vanadium Essence Metallic - Unlimited"
+  ],
+  [
+    88624,
+    4726,
+    "Graphite Void Metallic - Limited"
+  ],
+  [
+    88625,
+    4726,
+    "Graphite Void Metallic - Unlimited"
+  ],
+  [
+    88626,
+    4726,
+    "Spectral Zinc Metallic - Limited"
+  ],
+  [
+    88627,
+    4726,
+    "Spectral Zinc Metallic - Unlimited"
+  ],
+  [
+    88628,
+    4726,
+    "Viridescent Magnate Metallic - Limited"
+  ],
+  [
+    88629,
+    4726,
+    "Viridescent Magnate Metallic - Unlimited"
+  ],
+  [
+    88632,
+    4726,
+    "Faded Turn - Limited"
+  ],
+  [
+    88633,
+    4726,
+    "Faded Turn - Unlimited"
+  ],
+  [
+    88634,
+    4726,
+    "Secondary Turn - Limited"
+  ],
+  [
+    88635,
+    4726,
+    "Secondary Turn - Unlimited"
+  ],
+  [
+    88636,
+    4726,
+    "Embossed Turns - Limited"
+  ],
+  [
+    88637,
+    4726,
+    "Embossed Turns - Unlimited"
+  ],
+  [
+    88638,
+    4726,
+    "Diffracted Rejoinder - Limited"
+  ],
+  [
+    88639,
+    4726,
+    "Diffracted Rejoinder - Unlimited"
+  ],
+  [
+    88640,
+    4726,
+    "Bionic Core - Limited"
+  ],
+  [
+    88641,
+    4726,
+    "Bionic Core - Unlimited"
+  ],
+  [
+    88642,
+    4726,
+    "Bionic Complex - Limited"
+  ],
+  [
+    88643,
+    4726,
+    "Bionic Complex - Unlimited"
+  ],
+  [
+    88644,
+    4726,
+    "Vital Extreme - Limited"
+  ],
+  [
+    88645,
+    4726,
+    "Vital Extreme - Unlimited"
+  ],
+  [
+    88646,
+    4726,
+    "Vital Pulse - Limited"
+  ],
+  [
+    88647,
+    4726,
+    "Vital Pulse - Unlimited"
+  ],
+  [
+    88648,
+    4726,
+    "Cyber Quill - Limited"
+  ],
+  [
+    88649,
+    4726,
+    "Cyber Quill - Unlimited"
+  ],
+  [
+    88650,
+    4726,
+    "Gliding Mix - Limited"
+  ],
+  [
+    88651,
+    4726,
+    "Gliding Mix - Unlimited"
+  ],
+  [
+    88652,
+    4726,
+    "Exo-Spinal - Limited"
+  ],
+  [
+    88653,
+    4726,
+    "Exo-Spinal - Unlimited"
+  ],
+  [
+    88654,
+    4726,
+    "Mecha-Spinal - Limited"
+  ],
+  [
+    88655,
+    4726,
+    "Mecha-Spinal - Unlimited"
+  ],
+  [
+    88656,
+    4726,
+    "Tactical Praise - Limited"
+  ],
+  [
+    88657,
+    4726,
+    "Tactical Praise - Unlimited"
+  ],
+  [
+    88658,
+    4726,
+    "Quantum Curls - Limited"
+  ],
+  [
+    88659,
+    4726,
+    "Quantum Curls - Unlimited"
+  ],
+  [
+    88660,
+    4726,
+    "Oceanic Vortex - Limited"
+  ],
+  [
+    88661,
+    4726,
+    "Oceanic Vortex - Unlimited"
+  ],
+  [
+    88663,
+    4726,
+    "Liquid Groove - Limited"
+  ],
+  [
+    88664,
+    4726,
+    "Liquid Groove - Unlimited"
+  ],
+  [
+    88665,
+    4726,
+    "Starfall Traces - Limited"
+  ],
+  [
+    88666,
+    4726,
+    "Starfall Traces - Unlimited"
+  ],
+  [
+    88667,
+    4726,
+    "Fragmented Warp - Limited"
+  ],
+  [
+    88668,
+    4726,
+    "Fragmented Warp - Unlimited"
+  ],
+  [
+    88669,
+    4726,
+    "Multi-Hex - Limited"
+  ],
+  [
+    88670,
+    4726,
+    "Multi-Hex - Unlimited"
+  ],
+  [
+    88671,
+    4726,
+    "Hollow Hex - Limited"
+  ],
+  [
+    88672,
+    4726,
+    "Hollow Hex - Unlimited"
+  ],
+  [
+    88673,
+    4726,
+    "Squared Away - Limited"
+  ],
+  [
+    88674,
+    4726,
+    "Squared Away - Unlimited"
+  ],
+  [
+    88675,
+    4726,
+    "Doppel Bar - Limited"
+  ],
+  [
+    88676,
+    4726,
+    "Doppel Bar - Unlimited"
+  ],
+  [
+    88677,
+    4726,
+    "Swept Hivemesh - Limited"
+  ],
+  [
+    88678,
+    4726,
+    "Swept Hivemesh - Unlimited"
+  ],
+  [
+    88679,
+    4726,
+    "Splatter Strike - Limited"
+  ],
+  [
+    88680,
+    4726,
+    "Splatter Strike - Unlimited"
+  ],
+  [
+    88681,
+    4726,
+    "Splatter Swipe - Limited"
+  ],
+  [
+    88682,
+    4726,
+    "Splatter Swipe - Unlimited"
+  ],
+  [
+    88683,
+    4726,
+    "Jagged Biome - Limited"
+  ],
+  [
+    88684,
+    4726,
+    "Jagged Biome - Unlimited"
+  ],
+  [
+    88685,
+    4726,
+    "Cosmic Dignity - Limited"
+  ],
+  [
+    88686,
+    4726,
+    "Cosmic Dignity - Unlimited"
+  ],
+  [
+    88687,
+    4726,
+    "accidently made (DO NOT TRANSLATE)"
+  ],
+  [
+    88709,
+    1150,
+    "Xarasier Reactive Armor Hardener",
+    3
+  ],
+  [
+    88710,
+    1189,
+    "Xarasier Large Micro Jump Drive",
+    3
+  ],
+  [
+    88711,
+    1189,
+    "Xarasier Medium Micro Jump Drive",
+    3
+  ],
+  [
+    88712,
+    4769,
+    "Xarasier Capital Micro Jump Drive",
+    3
+  ],
+  [
+    88713,
+    1156,
+    "Xarasier Capital Ancillary Shield Booster",
+    3
+  ],
+  [
+    88714,
+    1156,
+    "Xarasier X-Large Ancillary Shield Booster",
+    3
+  ],
+  [
+    88715,
+    1156,
+    "Xarasier Large Ancillary Shield Booster",
+    3
+  ],
+  [
+    88716,
+    1156,
+    "Xarasier Medium Ancillary Shield Booster",
+    3
+  ],
+  [
+    88717,
+    1156,
+    "Xarasier Small Ancillary Shield Booster",
+    3
+  ],
+  [
+    88718,
+    1199,
+    "Xarasier Capital Ancillary Armor Repairer",
+    3
+  ],
+  [
+    88719,
+    1199,
+    "Xarasier Large Ancillary Armor Repairer",
+    3
+  ],
+  [
+    88720,
+    1199,
+    "Xarasier Medium Ancillary Armor Repairer",
+    3
+  ],
+  [
+    88721,
+    1199,
+    "Xarasier Small Ancillary Armor Repairer",
+    3
+  ],
+  [
+    88722,
+    1191,
+    "Xarasier Large Micro Jump Drive Blueprint",
+    3
+  ],
+  [
+    88723,
+    1157,
+    "Xarasier Large Ancillary Shield Booster Blueprint",
+    3
+  ],
+  [
+    88724,
+    1151,
+    "Xarasier Reactive Armor Hardener Blueprint",
+    3
+  ],
+  [
+    88725,
+    1157,
+    "Xarasier Medium Ancillary Shield Booster Blueprint",
+    3
+  ],
+  [
+    88726,
+    1157,
+    "Xarasier Small Ancillary Shield Booster Blueprint",
+    3
+  ],
+  [
+    88727,
+    1157,
+    "Xarasier X-Large Ancillary Shield Booster Blueprint",
+    3
+  ],
+  [
+    88728,
+    1200,
+    "Xarasier Small Ancillary Armor Repairer Blueprint",
+    3
+  ],
+  [
+    88729,
+    1200,
+    "Xarasier Medium Ancillary Armor Repairer Blueprint",
+    3
+  ],
+  [
+    88730,
+    1200,
+    "Xarasier Large Ancillary Armor Repairer Blueprint",
+    3
+  ],
+  [
+    88731,
+    1191,
+    "Xarasier Medium Micro Jump Drive Blueprint",
+    3
+  ],
+  [
+    88732,
+    1200,
+    "Xarasier Capital Ancillary Armor Repairer Blueprint",
+    3
+  ],
+  [
+    88733,
+    1157,
+    "Xarasier Capital Ancillary Shield Booster Blueprint",
+    3
+  ],
+  [
+    88734,
+    1191,
+    "Xarasier Capital Micro Jump Drive Blueprint",
+    3
+  ],
+  [
+    88740,
+    1207,
+    "Rogue Drone Logic Hub"
+  ],
+  [
+    88741,
+    1207,
+    "Angel Archive Vault"
+  ],
+  [
+    88742,
+    1207,
+    "Blood Archive Vault"
+  ],
+  [
+    88743,
+    1207,
+    "Guristas Archive Vault"
+  ],
+  [
+    88744,
+    1207,
+    "Serpentis Archive Vault"
+  ],
+  [
+    88745,
+    1207,
+    "Sansha Archive Vault"
+  ],
+  [
+    88746,
+    1207,
+    "Rogue Drone Telemetry Array"
+  ],
+  [
+    88747,
+    1207,
+    "Rogue Drone Neuro Cache"
+  ],
+  [
+    88748,
+    306,
+    "Rogue Drone Remnants"
+  ],
+  [
+    88749,
+    1207,
+    "Angel Remnants"
+  ],
+  [
+    88750,
+    1207,
+    "Blood Remnants"
+  ],
+  [
+    88751,
+    1207,
+    "Guristas Remnants"
+  ],
+  [
+    88752,
+    1207,
+    "Serpentis Remnants"
+  ],
+  [
+    88753,
+    1207,
+    "Sansha Remnants"
+  ],
+  [
+    88763,
+    4768,
+    "QA Exploration Detector"
+  ],
+  [
+    88774,
+    4726,
+    "Neuronic Chrome Metallic - Limited"
+  ],
+  [
+    88775,
+    4726,
+    "Neuronic Chrome Metallic - Unlimited"
+  ],
+  [
+    88776,
+    4726,
+    "Gravastar Black Metallic - Limited"
+  ],
+  [
+    88777,
+    4726,
+    "Gravastar Black Metallic - Unlimited"
+  ],
+  [
+    88852,
+    1194,
+    "Proven Deepflow Adaptive Canister"
+  ],
+  [
+    88853,
+    1194,
+    "Glorified Deepflow Adaptive Canister"
+  ],
+  [
+    88854,
+    1975,
+    "Non Interactable Small Asteroid w/Drone-tech"
+  ],
+  [
+    88856,
+    4091,
+    "Kikimora Pilot"
   ]
 ]

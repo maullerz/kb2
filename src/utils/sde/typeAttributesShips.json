@@ -1243,7 +1243,9 @@
       "ru": "Требуемый первичный навык",
       "zh": "主技能需求"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
+    "iconID": 33,
     "name": "requiredSkill1",
     "published": true,
     "stackable": true,
@@ -1265,7 +1267,9 @@
       "ru": "Требуемый вторичный навык",
       "zh": "副技能需求"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
+    "iconID": 33,
     "name": "requiredSkill2",
     "published": true,
     "stackable": true,
@@ -1287,7 +1291,9 @@
       "ru": "Требуемый третичный навык",
       "zh": "三级技能需求"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
+    "iconID": 33,
     "name": "requiredSkill3",
     "published": true,
     "stackable": true,
@@ -3116,9 +3122,10 @@
       "ru": "Модификатор скорости движения в варп-режиме",
       "zh": "跃迁速度倍增系数"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
     "name": "warpSpeedMultiplier",
-    "published": true,
+    "published": false,
     "stackable": false,
     "unitID": 104
   },
@@ -3161,10 +3168,10 @@
       "ru": "Разрешающая способность при захвате целей",
       "zh": "信号分辨率"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
     "name": "optimalSigRadius",
-    "published": true,
+    "published": false,
     "stackable": true,
     "unitID": 1
   },
@@ -3198,6 +3205,7 @@
     },
     "displayWhenZero": true,
     "highIsGood": true,
+    "iconID": 1446,
     "name": "metaLevelOld",
     "published": true,
     "stackable": true,
@@ -6141,8 +6149,9 @@
       "ru": "Требуемый четвертичный навык",
       "zh": "四级技能需求"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
-    "iconID": 0,
+    "iconID": 33,
     "name": "requiredSkill4",
     "published": true,
     "stackable": true,
@@ -7053,7 +7062,9 @@
       "ru": "Размер модификатора",
       "zh": "改装件尺寸"
     },
+    "displayWhenZero": false,
     "highIsGood": true,
+    "iconID": 2887,
     "name": "rigSize",
     "published": true,
     "stackable": true,
@@ -9966,8 +9977,9 @@
     "attributeID": 2189,
     "categoryID": 38,
     "dataType": 5,
-    "defaultValue": 0.2,
+    "defaultValue": 0.05,
     "description": "",
+    "displayWhenZero": false,
     "highIsGood": false,
     "name": "fighterAbilityAntiFighterMissileResistance",
     "published": false,
@@ -12115,7 +12127,8 @@
       "ru": "Размер сигнатуры нейтрализации",
       "zh": "能量中和信号分辨率"
     },
-    "highIsGood": true,
+    "displayWhenZero": false,
+    "highIsGood": false,
     "iconID": 1390,
     "name": "energyNeutralizerSignatureResolution",
     "published": true,
@@ -13926,7 +13939,8 @@
       "ru": "Количество пассажиров при групповом прыжке",
       "zh": "导管跳跃乘客数量"
     },
-    "highIsGood": false,
+    "displayWhenZero": false,
+    "highIsGood": true,
     "name": "conduitJumpPassengerCount",
     "published": true,
     "stackable": false,
@@ -15525,6 +15539,17 @@
     "published": false,
     "stackable": false
   },
+  "5767": {
+    "attributeID": 5767,
+    "categoryID": 17,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": false,
+    "name": "shipBonusSiegeSpeedMultiplier",
+    "published": false,
+    "stackable": false
+  },
   "5770": {
     "attributeID": 5770,
     "categoryID": 4,
@@ -15560,5 +15585,71 @@
     "name": "eliteBonusCommandShips4",
     "published": false,
     "stackable": true
+  },
+  "5787": {
+    "attributeID": 5787,
+    "dataType": 0,
+    "defaultValue": 1,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipBloodRaiderCapitalNosSignatureReductionMultiplyer",
+    "published": false,
+    "stackable": true
+  },
+  "5792": {
+    "attributeID": 5792,
+    "categoryID": 9,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "fourth bonus for support cruisers",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "eliteBonusLogistics4",
+    "published": false,
+    "stackable": true
+  },
+  "5796": {
+    "attributeID": 5796,
+    "categoryID": 7,
+    "dataType": 5,
+    "defaultValue": 2147483647000,
+    "description": "Maximum range (in metres) that a ship's Directional Scanner can reach",
+    "displayNameID": {
+      "de": "Maximale Reichweite für Richtungsscan",
+      "en": "Maximum Directional Scan Range",
+      "es": "Alcance de escaneo direccional máximo",
+      "fr": "Portée maximale du scanner directionnel",
+      "ja": "指向性スキャンの最大範囲",
+      "ko": "최대 전방위 스캔 범위",
+      "ru": "Макс. дальность пеленгатора",
+      "zh": "最大定向扫描范围"
+    },
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "iconID": 1391,
+    "name": "maxDirectionalScanRange",
+    "published": true,
+    "stackable": true,
+    "tooltipDescriptionID": {
+      "de": "Die maximale Reichweite, in der dieses Schiff seinen Richtungsscanner einsetzen kann",
+      "en": "The maximum range at which this ship can operate its directional scanner",
+      "es": "El alcance máximo en el que esta nave puede operar su escáner direccional.",
+      "fr": "La portée maximale à laquelle ce vaisseau peut utiliser son scanner directionnel",
+      "ja": "この艦船が指向性スキャナーを操作できる最大範囲",
+      "ko": "함선이 운용할 수 있는 전방위 스캐너의 최대사거리",
+      "ru": "Макс. дальность действия пеленгатора на этом корабле",
+      "zh": "舰船可通过定向扫描仪扫描的最大范围"
+    },
+    "tooltipTitleID": {
+      "de": "Maximale Reichweite für Richtungsscan",
+      "en": "Maximum Directional Scan Range",
+      "es": "Alcance de escaneo direccional máximo",
+      "fr": "Portée maximale du scanner directionnel",
+      "ja": "指向性スキャンの最大範囲",
+      "ko": "최대 전방위 스캔 범위",
+      "ru": "Макс. дальность пеленгатора",
+      "zh": "最大定向扫描范围"
+    },
+    "unitID": 1
   }
 }

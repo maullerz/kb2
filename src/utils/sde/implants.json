@@ -3422,5 +3422,53 @@
   "85748": {
     "slot": 9,
     "name": "Neural Lace 'Bluefire' Net Ablation 960-10"
+  },
+  "88119": {
+    "slot": 1,
+    "name": "Low-grade Wedge Alpha"
+  },
+  "88120": {
+    "slot": 2,
+    "name": "Low-grade Wedge Beta"
+  },
+  "88121": {
+    "slot": 3,
+    "name": "Low-grade Wedge Gamma"
+  },
+  "88122": {
+    "slot": 4,
+    "name": "Low-grade Wedge Delta"
+  },
+  "88123": {
+    "slot": 5,
+    "name": "Low-grade Wedge Epsilon"
+  },
+  "88124": {
+    "slot": 6,
+    "name": "Low-grade Wedge Omega"
+  },
+  "88125": {
+    "slot": 1,
+    "name": "Mid-grade Wedge Alpha"
+  },
+  "88126": {
+    "slot": 2,
+    "name": "Mid-grade Wedge Beta"
+  },
+  "88127": {
+    "slot": 3,
+    "name": "Mid-grade Wedge Gamma"
+  },
+  "88128": {
+    "slot": 4,
+    "name": "Mid-grade Wedge Delta"
+  },
+  "88129": {
+    "slot": 5,
+    "name": "Mid-grade Wedge Epsilon"
+  },
+  "88130": {
+    "slot": 6,
+    "name": "Mid-grade Wedge Omega"
   }
 }

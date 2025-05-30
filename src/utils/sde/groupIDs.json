@@ -14320,7 +14320,7 @@
     "anchored": false,
     "categoryID": 39,
     "fittableNonSingleton": false,
-    "name": "Sovereignty Hub Anomaly Detection Upgrades",
+    "name": "Sovereignty Hub Site Detection Upgrades",
     "published": true,
     "useBasePrice": true
   },
@@ -14566,6 +14566,24 @@
     "name": "Pirate Spawners",
     "published": false,
     "useBasePrice": false
+  },
+  "4838": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 39,
+    "fittableNonSingleton": false,
+    "name": "Sovereignty Hub Colony Resources Management Upgrades",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4839": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 39,
+    "fittableNonSingleton": false,
+    "name": "Sovereignty Hub System Effect Generator Upgrades",
+    "published": true,
+    "useBasePrice": true
   },
   "4843": {
     "anchorable": false,
