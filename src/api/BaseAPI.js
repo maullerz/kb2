@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_CALL_TIMEOUT = 180000
+const API_CALL_TIMEOUT = 600000
 
 const axiosConfig = {
   baseURL: '/api/',
