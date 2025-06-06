@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /api/
+Disallow: /
 Host: https://kb.evetools.org
 Sitemap: http://kb.evetools.org/sitemap.xml
