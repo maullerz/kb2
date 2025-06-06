@@ -1,5 +1,7 @@
 User-agent: *
 Disallow: /api/
 Disallow: /
+User-agent: YandexBot
+Disallow: /
 Host: https://kb.evetools.org
 Sitemap: http://kb.evetools.org/sitemap.xml
