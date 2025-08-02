@@ -132373,7 +132373,7 @@
   [
     52965,
     4034,
-    "State Navy Phoenix"
+    "State Navy Karura"
   ],
   [
     52966,
@@ -185774,7 +185774,7 @@
   [
     87179,
     474,
-    "Observatory Resonance Key"
+    "Obsolete Observatory Resonance Key"
   ],
   [
     87207,
@@ -186254,9 +186254,30 @@
     "Reconstructed Spectral Vision Matar"
   ],
   [
+    87377,
+    227,
+    "Incipient Drone Swarm - Enemy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87378,
+    227,
+    "Convocation Watchpost - Enemy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    87379,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Amarr (DO NOT TRANSLATE)"
+  ],
+  [
+    87380,
+    227,
+    "Torpid Sleeper Hive - Enemy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
     87381,
     485,
-    "Sarathiel"
+    "Sarathiel",
+    4
   ],
   [
     87382,
@@ -186300,9 +186321,44 @@
     "Reconstructed Spectral Vision Jita"
   ],
   [
+    87394,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Caldari (DO NOT TRANSLATE)"
+  ],
+  [
+    87395,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Gallente (DO NOT TRANSLATE)"
+  ],
+  [
+    87396,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Minmatar (DO NOT TRANSLATE)"
+  ],
+  [
     87397,
     1667,
     "Utopian Sagaris"
+  ],
+  [
+    87418,
+    306,
+    "Infested Array"
+  ],
+  [
+    87419,
+    306,
+    "Topographer Array"
+  ],
+  [
+    87420,
+    306,
+    "Watcher Array"
+  ],
+  [
+    87421,
+    306,
+    "Surveilance Array"
   ],
   [
     87430,
@@ -186519,37 +186575,37 @@
   [
     87574,
     303,
-    "Basic Capsuleer Day XXII Cerebral Accelerator",
+    "Expired Basic Capsuleer Day XXII Cerebral Accelerator",
     19
   ],
   [
     87575,
     303,
-    "Extended Capsuleer Day XXII Cerebral Accelerator",
+    "Expired Extended Capsuleer Day XXII Cerebral Accelerator",
     19
   ],
   [
     87576,
     303,
-    "Potent Capsuleer Day XXII Cerebral Accelerator",
+    "Expired Potent Capsuleer Day XXII Cerebral Accelerator",
     19
   ],
   [
     87577,
     303,
-    "Basic Capsuleer Day XXII Glamourex Booster",
+    "Expired Basic Capsuleer Day XXII Glamourex Booster",
     19
   ],
   [
     87578,
     303,
-    "Extended Capsuleer Day XXII Glamourex Booster",
+    "Expired Extended Capsuleer Day XXII Glamourex Booster",
     19
   ],
   [
     87579,
     303,
-    "Potent Capsuleer Day XXII Glamourex Booster",
+    "Expired Potent Capsuleer Day XXII Glamourex Booster",
     19
   ],
   [
@@ -187050,121 +187106,121 @@
   [
     87854,
     303,
-    "Oxybeles Turret Booster I",
+    "Expired Oxybeles Turret Booster I",
     19
   ],
   [
     87855,
     303,
-    "Oxybeles Turret Booster II",
+    "Expired Oxybeles Turret Booster II",
     19
   ],
   [
     87856,
     303,
-    "Oxybeles Turret Booster III",
+    "Expired Oxybeles Turret Booster III",
     19
   ],
   [
     87857,
     303,
-    "Eidolon Missile Booster I",
+    "Expired Eidolon Missile Booster I",
     19
   ],
   [
     87870,
     303,
-    "Eidolon Missile Booster II",
+    "Expired Eidolon Missile Booster II",
     19
   ],
   [
     87871,
     303,
-    "Eidolon Missile Booster III",
+    "Expired Eidolon Missile Booster III",
     19
   ],
   [
     87872,
     303,
-    "Calyx Repair Booster I",
+    "Expired Calyx Repair Booster I",
     19
   ],
   [
     87873,
     303,
-    "Calyx Repair Booster II",
+    "Expired Calyx Repair Booster II",
     19
   ],
   [
     87874,
     303,
-    "Calyx Repair Booster III",
+    "Expired Calyx Repair Booster III",
     19
   ],
   [
     87875,
     303,
-    "Asclepius Remote Repair Booster I",
+    "Expired Asclepius Remote Repair Booster I",
     19
   ],
   [
     87876,
     303,
-    "Asclepius Remote Repair Booster II",
+    "Expired Asclepius Remote Repair Booster II",
     19
   ],
   [
     87877,
     303,
-    "Asclepius Remote Repair Booster III",
+    "Expired Asclepius Remote Repair Booster III",
     19
   ],
   [
     87878,
     303,
-    "Phylax Armor Booster I",
+    "Expired Phylax Armor Booster I",
     19
   ],
   [
     87879,
     303,
-    "Phylax Armor Booster II",
+    "Expired Phylax Armor Booster II",
     19
   ],
   [
     87880,
     303,
-    "Phylax Armor Booster III",
+    "Expired Phylax Armor Booster III",
     19
   ],
   [
     87881,
     303,
-    "Pelte Shield Booster I",
+    "Expired Pelte Shield Booster I",
     19
   ],
   [
     87882,
     303,
-    "Pelte Shield Booster II",
+    "Expired Pelte Shield Booster II",
     19
   ],
   [
     87883,
     303,
-    "Pelte Shield Booster III",
+    "Expired Pelte Shield Booster III",
     19
   ],
   [
     87884,
     303,
-    "Nocturne Anti-Drain Booster I",
+    "Expired Nocturne Anti-Drain Booster I",
     19
   ],
   [
     87885,
     303,
-    "Nocturne Anti-Drain Booster II",
+    "Expired Nocturne Anti-Drain Booster II",
     19
   ],
   [
@@ -187176,76 +187232,76 @@
   [
     87887,
     303,
-    "Nocturne Anti-Drain Booster III",
+    "Expired Nocturne Anti-Drain Booster III",
     19
   ],
   [
     87888,
     303,
-    "Kausis Capacitor Booster I",
+    "Expired Kausis Capacitor Booster I",
     19
   ],
   [
     87889,
     303,
-    "Kausis Capacitor Booster II",
+    "Expired Kausis Capacitor Booster II",
     19
   ],
   [
     87890,
     303,
-    "Kausis Capacitor Booster III",
+    "Expired Kausis Capacitor Booster III",
     19
   ],
   [
     87891,
     303,
-    "Mnemon Relic Coherence Booster I",
+    "Expired Mnemon Relic Coherence Booster I",
     19
   ],
   [
     87892,
     303,
-    "Mnemon Relic Coherence Booster II",
+    "Expired Mnemon Relic Coherence Booster II",
     19
   ],
   [
     87893,
     303,
-    "Mnemon Relic Coherence Booster III",
+    "Expired Mnemon Relic Coherence Booster III",
     19
   ],
   [
     87894,
     303,
-    "Palimpsest Relic Strength Booster II",
+    "Expired Palimpsest Relic Strength Booster II",
     19
   ],
   [
     87895,
     303,
-    "Palimpsest Relic Strength Booster III",
+    "Expired Palimpsest Relic Strength Booster III",
     19
   ],
   [
     87896,
     303,
-    "Lithos Mining Booster I"
+    "Expired Lithos Mining Booster I"
   ],
   [
     87897,
     303,
-    "Lithos Mining Booster II"
+    "Expired Lithos Mining Booster II"
   ],
   [
     87898,
     303,
-    "Lithos Mining Booster III"
+    "Expired Lithos Mining Booster III"
   ],
   [
     87899,
     303,
-    "Palimpsest Relic Strength Booster I",
+    "Expired Palimpsest Relic Strength Booster I",
     19
   ],
   [
@@ -187709,13 +187765,13 @@
   [
     88147,
     1238,
-    "Triplot Scan Acqusition Array",
+    "Triplot Scan Acquisition Array",
     4
   ],
   [
     88148,
     1239,
-    "Triplot Scan Acqusition Array Blueprint"
+    "Triplot Scan Acquisition Array Blueprint"
   ],
   [
     88149,
@@ -189471,5 +189527,95 @@
     88856,
     4091,
     "Kikimora Pilot"
+  ],
+  [
+    89124,
+    1194,
+    "Heron Crate"
+  ],
+  [
+    89125,
+    1194,
+    "Magnate Crate"
+  ],
+  [
+    89126,
+    1194,
+    "Imicus Crate"
+  ],
+  [
+    89127,
+    1194,
+    "Probe Crate"
+  ],
+  [
+    89156,
+    474,
+    "Vigilance Resonance Key"
+  ],
+  [
+    89193,
+    310,
+    "Scout Advanced Military Beacon"
+  ],
+  [
+    89219,
+    4900,
+    "Stability Telemetry"
+  ],
+  [
+    89261,
+    4726,
+    "cosm_cyan_highgloss_000_100_100 - Limited"
+  ],
+  [
+    89262,
+    4726,
+    "cosm_rosered_satin_000_100_100 - Limited"
+  ],
+  [
+    89263,
+    4726,
+    "cosm_cheese_matt_000_100_100 - Limited"
+  ],
+  [
+    89264,
+    4726,
+    "cosm_azure_polished_000_100_050 - Limited"
+  ],
+  [
+    89265,
+    4726,
+    "cosm_safetyorange_brushed_000_100_100 - Limited"
+  ],
+  [
+    89266,
+    4726,
+    "cosm_camo_wave_02 - Limited"
+  ],
+  [
+    89267,
+    4726,
+    "cosm_symbol_01A - Limited"
+  ],
+  [
+    89268,
+    4726,
+    "cosm_twirl_04 - Limited"
+  ],
+  [
+    89327,
+    4726,
+    "cosm_cyan_highgloss_000_060_100_cs180 - Limited"
+  ],
+  [
+    89394,
+    226,
+    "1-st Innominate Palace Landmark"
+  ],
+  [
+    89395,
+    310,
+    "1-st Innominate Palace Landmark"
   ]
 ]

@@ -3,110 +3,6 @@
     "name": "Frigate",
     "types": [
       [
-        77114,
-        "Metamorphosis"
-      ],
-      [
-        72903,
-        "Probe Fleet Issue"
-      ],
-      [
-        72904,
-        "Heron Navy Issue"
-      ],
-      [
-        72907,
-        "Magnate Navy Issue"
-      ],
-      [
-        72913,
-        "Imicus Navy Issue"
-      ],
-      [
-        54731,
-        "Skybreaker"
-      ],
-      [
-        47269,
-        "Damavik"
-      ],
-      [
-        11940,
-        "Gold Magnate"
-      ],
-      [
-        11942,
-        "Silver Magnate"
-      ],
-      [
-        17619,
-        "Caldari Navy Hookbill"
-      ],
-      [
-        17703,
-        "Imperial Navy Slicer"
-      ],
-      [
-        17812,
-        "Republic Fleet Firetail"
-      ],
-      [
-        17841,
-        "Federation Navy Comet"
-      ],
-      [
-        17924,
-        "Succubus"
-      ],
-      [
-        17926,
-        "Cruor"
-      ],
-      [
-        17928,
-        "Daredevil"
-      ],
-      [
-        17930,
-        "Worm"
-      ],
-      [
-        17932,
-        "Dramiel"
-      ],
-      [
-        29248,
-        "Magnate"
-      ],
-      [
-        32880,
-        "Venture"
-      ],
-      [
-        33468,
-        "Astero"
-      ],
-      [
-        33816,
-        "Garmur"
-      ],
-      [
-        37453,
-        "Crucifier Navy Issue"
-      ],
-      [
-        37454,
-        "Vigil Fleet Issue"
-      ],
-      [
-        37455,
-        "Griffin Navy Issue"
-      ],
-      [
-        37456,
-        "Maulus Navy Issue"
-      ],
-      [
         582,
         "Bantam"
       ],
@@ -201,100 +97,116 @@
       [
         3766,
         "Vigil"
+      ],
+      [
+        11940,
+        "Gold Magnate"
+      ],
+      [
+        11942,
+        "Silver Magnate"
+      ],
+      [
+        17619,
+        "Caldari Navy Hookbill"
+      ],
+      [
+        17703,
+        "Imperial Navy Slicer"
+      ],
+      [
+        17812,
+        "Republic Fleet Firetail"
+      ],
+      [
+        17841,
+        "Federation Navy Comet"
+      ],
+      [
+        17924,
+        "Succubus"
+      ],
+      [
+        17926,
+        "Cruor"
+      ],
+      [
+        17928,
+        "Daredevil"
+      ],
+      [
+        17930,
+        "Worm"
+      ],
+      [
+        17932,
+        "Dramiel"
+      ],
+      [
+        29248,
+        "Magnate"
+      ],
+      [
+        32880,
+        "Venture"
+      ],
+      [
+        33468,
+        "Astero"
+      ],
+      [
+        33816,
+        "Garmur"
+      ],
+      [
+        37453,
+        "Crucifier Navy Issue"
+      ],
+      [
+        37454,
+        "Vigil Fleet Issue"
+      ],
+      [
+        37455,
+        "Griffin Navy Issue"
+      ],
+      [
+        37456,
+        "Maulus Navy Issue"
+      ],
+      [
+        47269,
+        "Damavik"
+      ],
+      [
+        54731,
+        "Skybreaker"
+      ],
+      [
+        72903,
+        "Probe Fleet Issue"
+      ],
+      [
+        72904,
+        "Heron Navy Issue"
+      ],
+      [
+        72907,
+        "Magnate Navy Issue"
+      ],
+      [
+        72913,
+        "Imicus Navy Issue"
+      ],
+      [
+        77114,
+        "Metamorphosis"
       ]
     ]
   },
   "26": {
     "name": "Cruiser",
     "types": [
-      [
-        54732,
-        "Stormbringer"
-      ],
-      [
-        49712,
-        "Rodiva"
-      ],
-      [
-        47270,
-        "Vedmak"
-      ],
-      [
-        17715,
-        "Gila"
-      ],
-      [
-        17718,
-        "Phantasm"
-      ],
-      [
-        17720,
-        "Cynabal"
-      ],
-      [
-        17722,
-        "Vigilant"
-      ],
-      [
-        17922,
-        "Ashimmu"
-      ],
-      [
-        33470,
-        "Stratios"
-      ],
-      [
-        33818,
-        "Orthrus"
-      ],
-      [
-        635,
-        "Opux Luxury Yacht"
-      ],
-      [
-        11011,
-        "Guardian-Vexor"
-      ],
-      [
-        33553,
-        "Stratios Emergency Responder"
-      ],
-      [
-        17634,
-        "Caracal Navy Issue"
-      ],
-      [
-        17709,
-        "Omen Navy Issue"
-      ],
-      [
-        17713,
-        "Stabber Fleet Issue"
-      ],
-      [
-        17843,
-        "Vexor Navy Issue"
-      ],
-      [
-        29336,
-        "Scythe Fleet Issue"
-      ],
-      [
-        29337,
-        "Augoror Navy Issue"
-      ],
-      [
-        29340,
-        "Osprey Navy Issue"
-      ],
-      [
-        29344,
-        "Exequror Navy Issue"
-      ],
-      [
-        34590,
-        "Victorieux Luxury Yacht"
-      ],
       [
         620,
         "Osprey"
@@ -356,8 +268,96 @@
         "Exequror"
       ],
       [
+        635,
+        "Opux Luxury Yacht"
+      ],
+      [
         2006,
         "Omen"
+      ],
+      [
+        11011,
+        "Guardian-Vexor"
+      ],
+      [
+        17634,
+        "Caracal Navy Issue"
+      ],
+      [
+        17709,
+        "Omen Navy Issue"
+      ],
+      [
+        17713,
+        "Stabber Fleet Issue"
+      ],
+      [
+        17715,
+        "Gila"
+      ],
+      [
+        17718,
+        "Phantasm"
+      ],
+      [
+        17720,
+        "Cynabal"
+      ],
+      [
+        17722,
+        "Vigilant"
+      ],
+      [
+        17843,
+        "Vexor Navy Issue"
+      ],
+      [
+        17922,
+        "Ashimmu"
+      ],
+      [
+        29336,
+        "Scythe Fleet Issue"
+      ],
+      [
+        29337,
+        "Augoror Navy Issue"
+      ],
+      [
+        29340,
+        "Osprey Navy Issue"
+      ],
+      [
+        29344,
+        "Exequror Navy Issue"
+      ],
+      [
+        33470,
+        "Stratios"
+      ],
+      [
+        33553,
+        "Stratios Emergency Responder"
+      ],
+      [
+        33818,
+        "Orthrus"
+      ],
+      [
+        34590,
+        "Victorieux Luxury Yacht"
+      ],
+      [
+        47270,
+        "Vedmak"
+      ],
+      [
+        49712,
+        "Rodiva"
+      ],
+      [
+        54732,
+        "Stormbringer"
       ]
     ]
   },
@@ -365,12 +365,100 @@
     "name": "Battleship",
     "types": [
       [
-        54733,
-        "Thunderchild"
+        638,
+        "Raven"
       ],
       [
-        47271,
-        "Leshak"
+        639,
+        "Tempest"
+      ],
+      [
+        640,
+        "Scorpion"
+      ],
+      [
+        641,
+        "Megathron"
+      ],
+      [
+        642,
+        "Apocalypse"
+      ],
+      [
+        643,
+        "Armageddon"
+      ],
+      [
+        644,
+        "Typhoon"
+      ],
+      [
+        645,
+        "Dominix"
+      ],
+      [
+        11936,
+        "Apocalypse Imperial Issue"
+      ],
+      [
+        11938,
+        "Armageddon Imperial Issue"
+      ],
+      [
+        13202,
+        "Megathron Federate Issue"
+      ],
+      [
+        17636,
+        "Raven Navy Issue"
+      ],
+      [
+        17726,
+        "Apocalypse Navy Issue"
+      ],
+      [
+        17728,
+        "Megathron Navy Issue"
+      ],
+      [
+        17732,
+        "Tempest Fleet Issue"
+      ],
+      [
+        17736,
+        "Nightmare"
+      ],
+      [
+        17738,
+        "Machariel"
+      ],
+      [
+        17740,
+        "Vindicator"
+      ],
+      [
+        17918,
+        "Rattlesnake"
+      ],
+      [
+        17920,
+        "Bhaalgorn"
+      ],
+      [
+        24688,
+        "Rokh"
+      ],
+      [
+        24690,
+        "Hyperion"
+      ],
+      [
+        24692,
+        "Abaddon"
+      ],
+      [
+        24694,
+        "Maelstrom"
       ],
       [
         26840,
@@ -405,114 +493,22 @@
         "Barghest"
       ],
       [
-        17736,
-        "Nightmare"
-      ],
-      [
-        17738,
-        "Machariel"
-      ],
-      [
-        17740,
-        "Vindicator"
-      ],
-      [
-        17918,
-        "Rattlesnake"
-      ],
-      [
-        17920,
-        "Bhaalgorn"
-      ],
-      [
-        11936,
-        "Apocalypse Imperial Issue"
-      ],
-      [
-        11938,
-        "Armageddon Imperial Issue"
-      ],
-      [
-        13202,
-        "Megathron Federate Issue"
-      ],
-      [
-        17636,
-        "Raven Navy Issue"
-      ],
-      [
-        17726,
-        "Apocalypse Navy Issue"
-      ],
-      [
-        17728,
-        "Megathron Navy Issue"
-      ],
-      [
-        17732,
-        "Tempest Fleet Issue"
-      ],
-      [
-        638,
-        "Raven"
-      ],
-      [
-        639,
-        "Tempest"
-      ],
-      [
-        640,
-        "Scorpion"
-      ],
-      [
-        641,
-        "Megathron"
-      ],
-      [
-        642,
-        "Apocalypse"
-      ],
-      [
-        643,
-        "Armageddon"
-      ],
-      [
-        644,
-        "Typhoon"
-      ],
-      [
-        645,
-        "Dominix"
-      ],
-      [
-        24688,
-        "Rokh"
-      ],
-      [
-        24690,
-        "Hyperion"
-      ],
-      [
-        24692,
-        "Abaddon"
-      ],
-      [
-        24694,
-        "Maelstrom"
+        47271,
+        "Leshak"
       ],
       [
         47466,
         "Praxis"
+      ],
+      [
+        54733,
+        "Thunderchild"
       ]
     ]
   },
   "28": {
     "name": "Hauler",
     "types": [
-      [
-        81008,
-        "Squall"
-      ],
       [
         648,
         "Badger"
@@ -574,12 +570,16 @@
         "Miasmos Quafe Ultramarine Edition"
       ],
       [
+        19744,
+        "Sigil"
+      ],
+      [
         32811,
         "Miasmos Amastris Edition"
       ],
       [
-        19744,
-        "Sigil"
+        81008,
+        "Squall"
       ]
     ]
   },
@@ -587,34 +587,18 @@
     "name": "Capsule",
     "types": [
       [
-        33328,
-        "Capsule - Genolution 'Auroral' 197-variant"
-      ],
-      [
         670,
         "Capsule"
+      ],
+      [
+        33328,
+        "Capsule - Genolution 'Auroral' 197-variant"
       ]
     ]
   },
   "30": {
     "name": "Titan",
     "types": [
-      [
-        78576,
-        "Azariel"
-      ],
-      [
-        42126,
-        "Vanquisher"
-      ],
-      [
-        42241,
-        "Molok"
-      ],
-      [
-        45649,
-        "Komodo"
-      ],
       [
         671,
         "Erebus"
@@ -630,40 +614,28 @@
       [
         23773,
         "Ragnarok"
+      ],
+      [
+        42126,
+        "Vanquisher"
+      ],
+      [
+        42241,
+        "Molok"
+      ],
+      [
+        45649,
+        "Komodo"
+      ],
+      [
+        78576,
+        "Azariel"
       ]
     ]
   },
   "31": {
     "name": "Shuttle",
     "types": [
-      [
-        64034,
-        "Boobook"
-      ],
-      [
-        33513,
-        "Leopard"
-      ],
-      [
-        21097,
-        "Goru's Shuttle"
-      ],
-      [
-        21628,
-        "Guristas Shuttle"
-      ],
-      [
-        30842,
-        "InterBus Shuttle"
-      ],
-      [
-        29266,
-        "Apotheosis"
-      ],
-      [
-        34496,
-        "Council Diplomatic Shuttle"
-      ],
       [
         672,
         "Caldari Shuttle"
@@ -679,6 +651,34 @@
       [
         11134,
         "Amarr Shuttle"
+      ],
+      [
+        21097,
+        "Goru's Shuttle"
+      ],
+      [
+        21628,
+        "Guristas Shuttle"
+      ],
+      [
+        29266,
+        "Apotheosis"
+      ],
+      [
+        30842,
+        "InterBus Shuttle"
+      ],
+      [
+        33513,
+        "Leopard"
+      ],
+      [
+        34496,
+        "Council Diplomatic Shuttle"
+      ],
+      [
+        64034,
+        "Boobook"
       ]
     ]
   },
@@ -723,17 +723,22 @@
       ]
     ]
   },
+  "311": {
+    "name": "Reprocessing Array",
+    "types": [
+      [
+        12238,
+        "Reprocessing Array"
+      ],
+      [
+        19470,
+        "Intensive Reprocessing Array"
+      ]
+    ]
+  },
   "324": {
     "name": "Assault Frigate",
     "types": [
-      [
-        78414,
-        "Shapash"
-      ],
-      [
-        74141,
-        "Geri"
-      ],
       [
         2834,
         "Utu"
@@ -741,18 +746,6 @@
       [
         3516,
         "Malice"
-      ],
-      [
-        32207,
-        "Freki"
-      ],
-      [
-        32788,
-        "Cambion"
-      ],
-      [
-        52250,
-        "Nergal"
       ],
       [
         11365,
@@ -785,6 +778,26 @@
       [
         12044,
         "Enyo"
+      ],
+      [
+        32207,
+        "Freki"
+      ],
+      [
+        32788,
+        "Cambion"
+      ],
+      [
+        52250,
+        "Nergal"
+      ],
+      [
+        74141,
+        "Geri"
+      ],
+      [
+        78414,
+        "Shapash"
       ]
     ]
   },
@@ -792,28 +805,12 @@
     "name": "Heavy Assault Cruiser",
     "types": [
       [
-        74316,
-        "Bestla"
-      ],
-      [
         2836,
         "Adrestia"
       ],
       [
         3518,
         "Vangel"
-      ],
-      [
-        32209,
-        "Mimir"
-      ],
-      [
-        52252,
-        "Ikitursa"
-      ],
-      [
-        77726,
-        "Cybele"
       ],
       [
         11993,
@@ -846,16 +843,255 @@
       [
         12023,
         "Deimos"
+      ],
+      [
+        32209,
+        "Mimir"
+      ],
+      [
+        52252,
+        "Ikitursa"
+      ],
+      [
+        74316,
+        "Bestla"
+      ],
+      [
+        77726,
+        "Cybele"
+      ]
+    ]
+  },
+  "361": {
+    "name": "Mobile Warp Disruptor",
+    "types": [
+      [
+        12198,
+        "Mobile Small Warp Disruptor I"
+      ],
+      [
+        12199,
+        "Mobile Medium Warp Disruptor I"
+      ],
+      [
+        12200,
+        "Mobile Large Warp Disruptor I"
+      ],
+      [
+        26888,
+        "Mobile Large Warp Disruptor II"
+      ],
+      [
+        26890,
+        "Mobile Medium Warp Disruptor II"
+      ],
+      [
+        26892,
+        "Mobile Small Warp Disruptor II"
+      ],
+      [
+        28770,
+        "Syndicate Mobile Large Warp Disruptor"
+      ],
+      [
+        28772,
+        "Syndicate Mobile Medium Warp Disruptor"
+      ],
+      [
+        28774,
+        "Syndicate Mobile Small Warp Disruptor"
+      ]
+    ]
+  },
+  "363": {
+    "name": "Ship Maintenance Array",
+    "types": [
+      [
+        12237,
+        "Ship Maintenance Array"
+      ],
+      [
+        24646,
+        "X-Large Ship Maintenance Array"
+      ]
+    ]
+  },
+  "365": {
+    "name": "Control Tower",
+    "types": [
+      [
+        12235,
+        "Amarr Control Tower"
+      ],
+      [
+        12236,
+        "Gallente Control Tower"
+      ],
+      [
+        16213,
+        "Caldari Control Tower"
+      ],
+      [
+        16214,
+        "Minmatar Control Tower"
+      ],
+      [
+        20059,
+        "Amarr Control Tower Medium"
+      ],
+      [
+        20060,
+        "Amarr Control Tower Small"
+      ],
+      [
+        20061,
+        "Caldari Control Tower Medium"
+      ],
+      [
+        20062,
+        "Caldari Control Tower Small"
+      ],
+      [
+        20063,
+        "Gallente Control Tower Medium"
+      ],
+      [
+        20064,
+        "Gallente Control Tower Small"
+      ],
+      [
+        20065,
+        "Minmatar Control Tower Medium"
+      ],
+      [
+        20066,
+        "Minmatar Control Tower Small"
+      ],
+      [
+        27530,
+        "Blood Control Tower"
+      ],
+      [
+        27532,
+        "Dark Blood Control Tower"
+      ],
+      [
+        27533,
+        "Guristas Control Tower"
+      ],
+      [
+        27535,
+        "Dread Guristas Control Tower"
+      ],
+      [
+        27536,
+        "Serpentis Control Tower"
+      ],
+      [
+        27538,
+        "Shadow Control Tower"
+      ],
+      [
+        27539,
+        "Angel Control Tower"
+      ],
+      [
+        27540,
+        "Domination Control Tower"
+      ],
+      [
+        27589,
+        "Blood Control Tower Medium"
+      ],
+      [
+        27591,
+        "Dark Blood Control Tower Medium"
+      ],
+      [
+        27592,
+        "Blood Control Tower Small"
+      ],
+      [
+        27594,
+        "Dark Blood Control Tower Small"
+      ],
+      [
+        27595,
+        "Guristas Control Tower Medium"
+      ],
+      [
+        27597,
+        "Dread Guristas Control Tower Medium"
+      ],
+      [
+        27598,
+        "Guristas Control Tower Small"
+      ],
+      [
+        27600,
+        "Dread Guristas Control Tower Small"
+      ],
+      [
+        27601,
+        "Serpentis Control Tower Medium"
+      ],
+      [
+        27603,
+        "Shadow Control Tower Medium"
+      ],
+      [
+        27604,
+        "Serpentis Control Tower Small"
+      ],
+      [
+        27606,
+        "Shadow Control Tower Small"
+      ],
+      [
+        27607,
+        "Angel Control Tower Medium"
+      ],
+      [
+        27609,
+        "Domination Control Tower Medium"
+      ],
+      [
+        27610,
+        "Angel Control Tower Small"
+      ],
+      [
+        27612,
+        "Domination Control Tower Small"
+      ],
+      [
+        27780,
+        "Sansha Control Tower"
+      ],
+      [
+        27782,
+        "Sansha Control Tower Medium"
+      ],
+      [
+        27784,
+        "Sansha Control Tower Small"
+      ],
+      [
+        27786,
+        "True Sansha Control Tower"
+      ],
+      [
+        27788,
+        "True Sansha Control Tower Medium"
+      ],
+      [
+        27790,
+        "True Sansha Control Tower Small"
       ]
     ]
   },
   "380": {
     "name": "Deep Space Transport",
     "types": [
-      [
-        81047,
-        "Torrent"
-      ],
       [
         12731,
         "Bustard"
@@ -871,6 +1107,183 @@
       [
         12753,
         "Impel"
+      ],
+      [
+        81047,
+        "Torrent"
+      ]
+    ]
+  },
+  "397": {
+    "name": "Assembly Array",
+    "types": [
+      [
+        13780,
+        "Equipment Assembly Array"
+      ],
+      [
+        16220,
+        "Rapid Equipment Assembly Array"
+      ],
+      [
+        24574,
+        "Small Ship Assembly Array"
+      ],
+      [
+        24575,
+        "Supercapital Ship Assembly Array"
+      ],
+      [
+        24653,
+        "Advanced Small Ship Assembly Array"
+      ],
+      [
+        24654,
+        "Medium Ship Assembly Array"
+      ],
+      [
+        24655,
+        "Advanced Medium Ship Assembly Array"
+      ],
+      [
+        24656,
+        "Capital Ship Assembly Array"
+      ],
+      [
+        24657,
+        "Advanced Large Ship Assembly Array"
+      ],
+      [
+        24658,
+        "Ammunition Assembly Array"
+      ],
+      [
+        24659,
+        "Drone Assembly Array"
+      ],
+      [
+        24660,
+        "Component Assembly Array"
+      ],
+      [
+        25305,
+        "Drug Lab"
+      ],
+      [
+        29613,
+        "Large Ship Assembly Array"
+      ],
+      [
+        30389,
+        "Subsystem Assembly Array"
+      ],
+      [
+        33867,
+        "Thukker Component Assembly Array"
+      ]
+    ]
+  },
+  "404": {
+    "name": "Silo",
+    "types": [
+      [
+        14343,
+        "Silo"
+      ],
+      [
+        17982,
+        "Coupling Array"
+      ],
+      [
+        25270,
+        "Biochemical Silo"
+      ],
+      [
+        25271,
+        "Catalyst Silo"
+      ],
+      [
+        25280,
+        "Hazardous Chemical Silo"
+      ],
+      [
+        25821,
+        "General Storage"
+      ],
+      [
+        30655,
+        "Hybrid Polymer Silo"
+      ]
+    ]
+  },
+  "413": {
+    "name": "Laboratory",
+    "types": [
+      [
+        16216,
+        "Research Laboratory"
+      ],
+      [
+        24567,
+        "Experimental Laboratory"
+      ],
+      [
+        28351,
+        "Design Laboratory"
+      ],
+      [
+        32245,
+        "Hyasyoda Research Laboratory"
+      ]
+    ]
+  },
+  "416": {
+    "name": "Moon Mining",
+    "types": [
+      [
+        16221,
+        "Moon Harvesting Array"
+      ]
+    ]
+  },
+  "417": {
+    "name": "Mobile Missile Sentry",
+    "types": [
+      [
+        16696,
+        "Cruise Missile Battery"
+      ],
+      [
+        16697,
+        "Torpedo Battery"
+      ],
+      [
+        17773,
+        "XL Torpedo Battery"
+      ],
+      [
+        27560,
+        "Guristas XL Torpedo Battery"
+      ],
+      [
+        27562,
+        "Dread Guristas XL Torpedo Battery"
+      ],
+      [
+        27638,
+        "Guristas Cruise Missile Battery"
+      ],
+      [
+        27640,
+        "Dread Guristas Cruise Missile Battery"
+      ],
+      [
+        27641,
+        "Guristas Torpedo Battery"
+      ],
+      [
+        27643,
+        "Dread Guristas Torpedo Battery"
       ]
     ]
   },
@@ -878,36 +1291,40 @@
     "name": "Combat Battlecruiser",
     "types": [
       [
-        85086,
-        "Cenotaph"
+        3756,
+        "Gnosis"
       ],
       [
-        78366,
-        "Alligator"
+        16227,
+        "Ferox"
       ],
       [
-        78369,
-        "Khizriel"
+        16229,
+        "Brutix"
       ],
       [
-        72811,
-        "Cyclone Fleet Issue"
+        16231,
+        "Cyclone"
       ],
       [
-        72812,
-        "Ferox Navy Issue"
+        16233,
+        "Prophecy"
       ],
       [
-        72869,
-        "Myrmidon Navy Issue"
+        24696,
+        "Harbinger"
       ],
       [
-        72872,
-        "Prophecy Navy Issue"
+        24698,
+        "Drake"
       ],
       [
-        49711,
-        "Drekavac"
+        24700,
+        "Myrmidon"
+      ],
+      [
+        24702,
+        "Hurricane"
       ],
       [
         33151,
@@ -926,40 +1343,36 @@
         "Hurricane Fleet Issue"
       ],
       [
-        16227,
-        "Ferox"
+        49711,
+        "Drekavac"
       ],
       [
-        16229,
-        "Brutix"
+        72811,
+        "Cyclone Fleet Issue"
       ],
       [
-        24702,
-        "Hurricane"
+        72812,
+        "Ferox Navy Issue"
       ],
       [
-        24696,
-        "Harbinger"
+        72869,
+        "Myrmidon Navy Issue"
       ],
       [
-        24698,
-        "Drake"
+        72872,
+        "Prophecy Navy Issue"
       ],
       [
-        16231,
-        "Cyclone"
+        78366,
+        "Alligator"
       ],
       [
-        16233,
-        "Prophecy"
+        78369,
+        "Khizriel"
       ],
       [
-        24700,
-        "Myrmidon"
-      ],
-      [
-        3756,
-        "Gnosis"
+        85086,
+        "Cenotaph"
       ]
     ]
   },
@@ -967,16 +1380,40 @@
     "name": "Destroyer",
     "types": [
       [
-        85087,
-        "Tholos"
+        16236,
+        "Coercer"
       ],
       [
-        78367,
-        "Mamba"
+        16238,
+        "Cormorant"
       ],
       [
-        78333,
-        "Mekubal"
+        16240,
+        "Catalyst"
+      ],
+      [
+        16242,
+        "Thrasher"
+      ],
+      [
+        32872,
+        "Algos"
+      ],
+      [
+        32874,
+        "Dragoon"
+      ],
+      [
+        32876,
+        "Corax"
+      ],
+      [
+        32878,
+        "Talwar"
+      ],
+      [
+        42685,
+        "Sunesis"
       ],
       [
         49710,
@@ -999,40 +1436,457 @@
         "Catalyst Navy Issue"
       ],
       [
-        42685,
-        "Sunesis"
+        78333,
+        "Mekubal"
       ],
       [
-        32872,
-        "Algos"
+        78367,
+        "Mamba"
       ],
       [
-        32874,
-        "Dragoon"
+        85087,
+        "Tholos"
+      ]
+    ]
+  },
+  "426": {
+    "name": "Mobile Projectile Sentry",
+    "types": [
+      [
+        16631,
+        "Small Artillery Battery"
       ],
       [
-        32876,
-        "Corax"
+        16688,
+        "Medium Artillery Battery"
       ],
       [
-        32878,
-        "Talwar"
+        16689,
+        "Large Artillery Battery"
       ],
       [
-        16236,
-        "Coercer"
+        17770,
+        "Large AutoCannon Battery"
       ],
       [
-        16238,
-        "Cormorant"
+        17771,
+        "Medium AutoCannon Battery"
       ],
       [
-        16240,
-        "Catalyst"
+        17772,
+        "Small AutoCannon Battery"
       ],
       [
-        16242,
-        "Thrasher"
+        27554,
+        "Angel Large AutoCannon Battery"
+      ],
+      [
+        27556,
+        "Domination Large AutoCannon Battery"
+      ],
+      [
+        27557,
+        "Angel Large Artillery Battery"
+      ],
+      [
+        27559,
+        "Domination Large Artillery Battery"
+      ],
+      [
+        27644,
+        "Angel Medium Artillery Battery"
+      ],
+      [
+        27646,
+        "Domination Medium Artillery Battery"
+      ],
+      [
+        27647,
+        "Angel Medium AutoCannon Battery"
+      ],
+      [
+        27649,
+        "Domination Medium AutoCannon Battery"
+      ],
+      [
+        27650,
+        "Angel Small Artillery Battery"
+      ],
+      [
+        27652,
+        "Domination Small Artillery Battery"
+      ],
+      [
+        27653,
+        "Angel Small AutoCannon Battery"
+      ],
+      [
+        27655,
+        "Domination Small AutoCannon Battery"
+      ]
+    ]
+  },
+  "430": {
+    "name": "Mobile Laser Sentry",
+    "types": [
+      [
+        16694,
+        "Large Beam Laser Battery"
+      ],
+      [
+        17167,
+        "Small Beam Laser Battery"
+      ],
+      [
+        17168,
+        "Medium Beam Laser Battery"
+      ],
+      [
+        17406,
+        "Large Pulse Laser Battery"
+      ],
+      [
+        17407,
+        "Medium Pulse Laser Battery"
+      ],
+      [
+        17408,
+        "Small Pulse Laser Battery"
+      ],
+      [
+        27548,
+        "Blood Large Pulse Laser Battery"
+      ],
+      [
+        27550,
+        "Dark Blood Large Pulse Laser Battery"
+      ],
+      [
+        27551,
+        "Blood Large Beam Laser Battery"
+      ],
+      [
+        27553,
+        "Dark Blood Large Beam Laser Battery"
+      ],
+      [
+        27625,
+        "Blood Medium Beam Laser Battery"
+      ],
+      [
+        27627,
+        "Dark Blood Medium Beam Laser Battery"
+      ],
+      [
+        27628,
+        "Blood Medium Pulse Laser Battery"
+      ],
+      [
+        27630,
+        "Dark Blood Medium Pulse Laser Battery"
+      ],
+      [
+        27631,
+        "Blood Small Beam Laser Battery"
+      ],
+      [
+        27633,
+        "Dark Blood Small Beam Laser Battery"
+      ],
+      [
+        27634,
+        "Blood Small Pulse Laser Battery"
+      ],
+      [
+        27636,
+        "Dark Blood Small Pulse Laser Battery"
+      ],
+      [
+        27766,
+        "Sansha Large Beam Laser Battery"
+      ],
+      [
+        27767,
+        "Sansha Large Pulse Laser Battery"
+      ],
+      [
+        27768,
+        "Sansha Medium Beam Laser Battery"
+      ],
+      [
+        27769,
+        "Sansha Medium Pulse Laser Battery"
+      ],
+      [
+        27770,
+        "Sansha Small Beam Laser Battery"
+      ],
+      [
+        27771,
+        "Sansha Small Pulse Laser Battery"
+      ],
+      [
+        27772,
+        "True Sansha Large Beam Laser Battery"
+      ],
+      [
+        27773,
+        "True Sansha Large Pulse Laser Battery"
+      ],
+      [
+        27774,
+        "True Sansha Medium Beam Laser Battery"
+      ],
+      [
+        27775,
+        "True Sansha Medium Pulse Laser Battery"
+      ],
+      [
+        27776,
+        "True Sansha Small Beam Laser Battery"
+      ],
+      [
+        27777,
+        "True Sansha Small Pulse Laser Battery"
+      ]
+    ]
+  },
+  "438": {
+    "name": "Mobile Reactor",
+    "types": [
+      [
+        16869,
+        "Complex Reactor Array"
+      ],
+      [
+        20175,
+        "Simple Reactor Array"
+      ],
+      [
+        22634,
+        "Medium Biochemical Reactor Array"
+      ],
+      [
+        24684,
+        "Biochemical Reactor Array"
+      ],
+      [
+        30656,
+        "Polymer Reactor Array"
+      ]
+    ]
+  },
+  "439": {
+    "name": "Electronic Warfare Battery",
+    "types": [
+      [
+        17174,
+        "Ion Field Projection Battery"
+      ],
+      [
+        17175,
+        "Phase Inversion Battery"
+      ],
+      [
+        17176,
+        "Spatial Destabilization Battery"
+      ],
+      [
+        17177,
+        "White Noise Generation Battery"
+      ],
+      [
+        27574,
+        "Guristas Ion Field Projection Battery"
+      ],
+      [
+        27576,
+        "Dread Guristas Ion Field Projection Battery"
+      ],
+      [
+        27577,
+        "Guristas Phase Inversion Battery"
+      ],
+      [
+        27579,
+        "Dread Guristas Phase Inversion Battery"
+      ],
+      [
+        27580,
+        "Guristas Spatial Destabilization Battery"
+      ],
+      [
+        27582,
+        "Dread Guristas Spatial Destabilization Battery"
+      ],
+      [
+        27583,
+        "Guristas White Noise Generation Battery"
+      ],
+      [
+        27585,
+        "Dread Guristas White Noise Generation Battery"
+      ]
+    ]
+  },
+  "440": {
+    "name": "Sensor Dampening Battery",
+    "types": [
+      [
+        17180,
+        "Sensor Dampening Battery"
+      ],
+      [
+        27778,
+        "Serpentis Sensor Dampening Battery"
+      ],
+      [
+        27779,
+        "Shadow Sensor Dampening Battery"
+      ]
+    ]
+  },
+  "441": {
+    "name": "Stasis Webification Battery",
+    "types": [
+      [
+        17178,
+        "Stasis Webification Battery"
+      ],
+      [
+        27570,
+        "Angel Stasis Webification Battery"
+      ],
+      [
+        27573,
+        "Domination Stasis Webification Battery"
+      ]
+    ]
+  },
+  "443": {
+    "name": "Warp Scrambling Battery",
+    "types": [
+      [
+        17181,
+        "Warp Disruption Battery"
+      ],
+      [
+        17182,
+        "Warp Scrambling Battery"
+      ],
+      [
+        27563,
+        "Serpentis Warp Disruption Battery"
+      ],
+      [
+        27565,
+        "Shadow Warp Disruption Battery"
+      ],
+      [
+        27567,
+        "Serpentis Warp Scrambling Battery"
+      ],
+      [
+        27569,
+        "Shadow Warp Scrambling Battery"
+      ]
+    ]
+  },
+  "444": {
+    "name": "Shield Hardening Array",
+    "types": [
+      [
+        17184,
+        "Ballistic Deflection Array"
+      ],
+      [
+        17185,
+        "Explosion Dampening Array"
+      ],
+      [
+        17186,
+        "Heat Dissipation Array"
+      ],
+      [
+        17187,
+        "Photon Scattering Array"
+      ]
+    ]
+  },
+  "449": {
+    "name": "Mobile Hybrid Sentry",
+    "types": [
+      [
+        16690,
+        "Small Railgun Battery"
+      ],
+      [
+        16691,
+        "Medium Railgun Battery"
+      ],
+      [
+        16692,
+        "Large Railgun Battery"
+      ],
+      [
+        17402,
+        "Large Blaster Battery"
+      ],
+      [
+        17403,
+        "Medium Blaster Battery"
+      ],
+      [
+        17404,
+        "Small Blaster Battery"
+      ],
+      [
+        27542,
+        "Serpentis Large Blaster Battery"
+      ],
+      [
+        27544,
+        "Shadow Large Blaster Battery"
+      ],
+      [
+        27545,
+        "Serpentis Large Railgun Battery"
+      ],
+      [
+        27547,
+        "Shadow Large Railgun Battery"
+      ],
+      [
+        27613,
+        "Serpentis Medium Blaster Battery"
+      ],
+      [
+        27615,
+        "Shadow Medium Blaster Battery"
+      ],
+      [
+        27616,
+        "Serpentis Medium Railgun Battery"
+      ],
+      [
+        27618,
+        "Shadow Medium Railgun Battery"
+      ],
+      [
+        27619,
+        "Serpentis Small Blaster Battery"
+      ],
+      [
+        27621,
+        "Shadow Small Blaster Battery"
+      ],
+      [
+        27622,
+        "Serpentis Small Railgun Battery"
+      ],
+      [
+        27624,
+        "Shadow Small Railgun Battery"
       ]
     ]
   },
@@ -1053,12 +1907,42 @@
       ]
     ]
   },
+  "471": {
+    "name": "Corporate Hangar Array",
+    "types": [
+      [
+        17621,
+        "Corporate Hangar Array"
+      ]
+    ]
+  },
+  "473": {
+    "name": "Tracking Array",
+    "types": [
+      [
+        17701,
+        "Tracking Array"
+      ]
+    ]
+  },
   "485": {
     "name": "Dreadnought",
     "types": [
       [
-        52907,
-        "Zirnitra"
+        19720,
+        "Revelation"
+      ],
+      [
+        19722,
+        "Naglfar"
+      ],
+      [
+        19724,
+        "Moros"
+      ],
+      [
+        19726,
+        "Phoenix"
       ],
       [
         42124,
@@ -1071,6 +1955,10 @@
       [
         45647,
         "Caiman"
+      ],
+      [
+        52907,
+        "Zirnitra"
       ],
       [
         73787,
@@ -1089,30 +1977,14 @@
         "Phoenix Navy Issue"
       ],
       [
-        19720,
-        "Revelation"
-      ],
-      [
-        19722,
-        "Naglfar"
-      ],
-      [
-        19724,
-        "Moros"
-      ],
-      [
-        19726,
-        "Phoenix"
+        87381,
+        "Sarathiel"
       ]
     ]
   },
   "513": {
     "name": "Freighter",
     "types": [
-      [
-        81040,
-        "Avalanche"
-      ],
       [
         20183,
         "Providence"
@@ -1132,6 +2004,10 @@
       [
         34328,
         "Bowhead"
+      ],
+      [
+        81040,
+        "Avalanche"
       ]
     ]
   },
@@ -1239,10 +2115,6 @@
         "Revenant"
       ],
       [
-        42125,
-        "Vendetta"
-      ],
-      [
         22852,
         "Hel"
       ],
@@ -1257,6 +2129,28 @@
       [
         23919,
         "Aeon"
+      ],
+      [
+        42125,
+        "Vendetta"
+      ]
+    ]
+  },
+  "707": {
+    "name": "Jump Portal Array",
+    "types": [
+      [
+        27897,
+        "Jump Bridge"
+      ]
+    ]
+  },
+  "709": {
+    "name": "Scanner Array",
+    "types": [
+      [
+        27675,
+        "System Scanning Array"
       ]
     ]
   },
@@ -1264,8 +2158,20 @@
     "name": "Covert Ops",
     "types": [
       [
-        85062,
-        "Sidewinder"
+        11172,
+        "Helios"
+      ],
+      [
+        11182,
+        "Cheetah"
+      ],
+      [
+        11188,
+        "Anathema"
+      ],
+      [
+        11192,
+        "Buzzard"
       ],
       [
         33397,
@@ -1284,34 +2190,14 @@
         "Hydra"
       ],
       [
-        11172,
-        "Helios"
-      ],
-      [
-        11182,
-        "Cheetah"
-      ],
-      [
-        11188,
-        "Anathema"
-      ],
-      [
-        11192,
-        "Buzzard"
+        85062,
+        "Sidewinder"
       ]
     ]
   },
   "831": {
     "name": "Interceptor",
     "types": [
-      [
-        33673,
-        "Whiptail"
-      ],
-      [
-        35779,
-        "Imp"
-      ],
       [
         11176,
         "Crow"
@@ -1343,24 +2229,20 @@
       [
         11202,
         "Ares"
+      ],
+      [
+        33673,
+        "Whiptail"
+      ],
+      [
+        35779,
+        "Imp"
       ]
     ]
   },
   "832": {
     "name": "Logistics",
     "types": [
-      [
-        32790,
-        "Etana"
-      ],
-      [
-        42245,
-        "Rabisu"
-      ],
-      [
-        49713,
-        "Zarmazd"
-      ],
       [
         11978,
         "Scimitar"
@@ -1376,36 +2258,24 @@
       [
         11989,
         "Oneiros"
+      ],
+      [
+        32790,
+        "Etana"
+      ],
+      [
+        42245,
+        "Rabisu"
+      ],
+      [
+        49713,
+        "Zarmazd"
       ]
     ]
   },
   "833": {
     "name": "Force Recon Ship",
     "types": [
-      [
-        85229,
-        "Cobra"
-      ],
-      [
-        33395,
-        "Moracha"
-      ],
-      [
-        33675,
-        "Chameleon"
-      ],
-      [
-        45531,
-        "Victor"
-      ],
-      [
-        48635,
-        "Tiamat"
-      ],
-      [
-        44995,
-        "Enforcer"
-      ],
       [
         11957,
         "Falcon"
@@ -1421,16 +2291,36 @@
       [
         11969,
         "Arazu"
+      ],
+      [
+        33395,
+        "Moracha"
+      ],
+      [
+        33675,
+        "Chameleon"
+      ],
+      [
+        44995,
+        "Enforcer"
+      ],
+      [
+        45531,
+        "Victor"
+      ],
+      [
+        48635,
+        "Tiamat"
+      ],
+      [
+        85229,
+        "Cobra"
       ]
     ]
   },
   "834": {
     "name": "Stealth Bomber",
     "types": [
-      [
-        45530,
-        "Virtuoso"
-      ],
       [
         11377,
         "Nemesis"
@@ -1446,6 +2336,53 @@
       [
         12038,
         "Purifier"
+      ],
+      [
+        45530,
+        "Virtuoso"
+      ]
+    ]
+  },
+  "837": {
+    "name": "Energy Neutralizing Battery",
+    "types": [
+      [
+        27672,
+        "Energy Neutralizing Battery"
+      ],
+      [
+        27855,
+        "Sansha Energy Neutralizing Battery"
+      ],
+      [
+        27856,
+        "True Sansha Energy Neutralizing Battery"
+      ],
+      [
+        27857,
+        "Blood Energy Neutralizing Battery"
+      ],
+      [
+        27858,
+        "Dark Blood Energy Neutralizing Battery"
+      ]
+    ]
+  },
+  "838": {
+    "name": "Cynosural Generator Array",
+    "types": [
+      [
+        27673,
+        "Cynosural Generator Array"
+      ]
+    ]
+  },
+  "839": {
+    "name": "Cynosural System Jammer",
+    "types": [
+      [
+        27674,
+        "Cynosural System Jammer"
       ]
     ]
   },
@@ -1462,10 +2399,6 @@
     "name": "Electronic Attack Ship",
     "types": [
       [
-        60765,
-        "Raiju"
-      ],
-      [
         11174,
         "Keres"
       ],
@@ -1480,20 +2413,16 @@
       [
         11387,
         "Hyena"
+      ],
+      [
+        60765,
+        "Raiju"
       ]
     ]
   },
   "894": {
     "name": "Heavy Interdiction Cruiser",
     "types": [
-      [
-        35781,
-        "Fiend"
-      ],
-      [
-        60764,
-        "Laelaps"
-      ],
       [
         11995,
         "Onyx"
@@ -1509,20 +2438,20 @@
       [
         12021,
         "Phobos"
+      ],
+      [
+        35781,
+        "Fiend"
+      ],
+      [
+        60764,
+        "Laelaps"
       ]
     ]
   },
   "898": {
     "name": "Black Ops",
     "types": [
-      [
-        85236,
-        "Python"
-      ],
-      [
-        44996,
-        "Marshal"
-      ],
       [
         22428,
         "Redeemer"
@@ -1538,6 +2467,14 @@
       [
         22440,
         "Panther"
+      ],
+      [
+        44996,
+        "Marshal"
+      ],
+      [
+        85236,
+        "Python"
       ]
     ]
   },
@@ -1559,6 +2496,10 @@
       [
         28710,
         "Golem"
+      ],
+      [
+        88001,
+        "Babaroga"
       ]
     ]
   },
@@ -1647,6 +2588,15 @@
       ]
     ]
   },
+  "1106": {
+    "name": "Orbital Construction Platform",
+    "types": [
+      [
+        3962,
+        "Customs Office Gantry"
+      ]
+    ]
+  },
   "1201": {
     "name": "Attack Battlecruiser",
     "types": [
@@ -1672,10 +2622,6 @@
     "name": "Blockade Runner",
     "types": [
       [
-        81046,
-        "Deluge"
-      ],
-      [
         12729,
         "Crane"
       ],
@@ -1690,6 +2636,139 @@
       [
         12743,
         "Viator"
+      ],
+      [
+        81046,
+        "Deluge"
+      ]
+    ]
+  },
+  "1212": {
+    "name": "Personal Hangar",
+    "types": [
+      [
+        33149,
+        "Personal Hangar Array"
+      ]
+    ]
+  },
+  "1246": {
+    "name": "Mobile Depot",
+    "types": [
+      [
+        33474,
+        "Mobile Depot"
+      ],
+      [
+        33520,
+        "'Wetu' Mobile Depot"
+      ],
+      [
+        33522,
+        "'Yurt' Mobile Depot"
+      ]
+    ]
+  },
+  "1247": {
+    "name": "Mobile Siphon Unit",
+    "types": [
+      [
+        33477,
+        "Small Mobile Siphon Unit"
+      ],
+      [
+        33581,
+        "Small Mobile 'Hybrid' Siphon Unit"
+      ],
+      [
+        33583,
+        "Small Mobile 'Rote' Siphon Unit"
+      ]
+    ]
+  },
+  "1249": {
+    "name": "Mobile Cyno Inhibitor",
+    "types": [
+      [
+        33476,
+        "Mobile Cynosural Inhibitor"
+      ]
+    ]
+  },
+  "1250": {
+    "name": "Mobile Tractor Unit",
+    "types": [
+      [
+        33475,
+        "Mobile Tractor Unit"
+      ],
+      [
+        33700,
+        "'Packrat' Mobile Tractor Unit"
+      ],
+      [
+        33702,
+        "'Magpie' Mobile Tractor Unit"
+      ],
+      [
+        56701,
+        "Mobile Sanguine Harvester"
+      ],
+      [
+        81951,
+        "Consortium Mobile Tractor Unit"
+      ]
+    ]
+  },
+  "1273": {
+    "name": "Encounter Surveillance System",
+    "types": [
+      [
+        33585,
+        "Defunct Amarr Encounter Surveillance System"
+      ],
+      [
+        33595,
+        "Defunct Caldari Encounter Surveillance System"
+      ],
+      [
+        33608,
+        "Defunct Gallente Encounter Surveillance System"
+      ],
+      [
+        33610,
+        "Defunct Minmatar Encounter Surveillance System"
+      ]
+    ]
+  },
+  "1275": {
+    "name": "Mobile Scan Inhibitor",
+    "types": [
+      [
+        33589,
+        "Mobile Scan Inhibitor"
+      ]
+    ]
+  },
+  "1276": {
+    "name": "Mobile Micro Jump Unit",
+    "types": [
+      [
+        33591,
+        "Mobile Micro Jump Unit"
+      ],
+      [
+        33990,
+        "Tournament Micro Jump Unit"
+      ]
+    ]
+  },
+  "1282": {
+    "name": "Compression Array",
+    "types": [
+      [
+        12239,
+        "Compression Array"
       ]
     ]
   },
@@ -1727,6 +2806,45 @@
       ]
     ]
   },
+  "1404": {
+    "name": "Engineering Complex",
+    "types": [
+      [
+        35825,
+        "Raitaru"
+      ],
+      [
+        35826,
+        "Azbel"
+      ],
+      [
+        35827,
+        "Sotiyo"
+      ]
+    ]
+  },
+  "1406": {
+    "name": "Refinery",
+    "types": [
+      [
+        35835,
+        "Athanor"
+      ],
+      [
+        35836,
+        "Tatara"
+      ]
+    ]
+  },
+  "1408": {
+    "name": "Upwell Jump Bridge",
+    "types": [
+      [
+        35841,
+        "Ansiblex Jump Bridge"
+      ]
+    ]
+  },
   "1527": {
     "name": "Logistics Frigate",
     "types": [
@@ -1752,10 +2870,6 @@
     "name": "Command Destroyer",
     "types": [
       [
-        52254,
-        "Draugur"
-      ],
-      [
         37480,
         "Bifrost"
       ],
@@ -1770,20 +2884,69 @@
       [
         37483,
         "Magus"
+      ],
+      [
+        52254,
+        "Draugur"
+      ]
+    ]
+  },
+  "1537": {
+    "name": "Support Fighter",
+    "types": [
+      [
+        37599,
+        "Cenobite I"
+      ],
+      [
+        40345,
+        "Scarab I"
+      ],
+      [
+        40346,
+        "Siren I"
+      ],
+      [
+        40347,
+        "Dromi I"
+      ],
+      [
+        40568,
+        "Cenobite II"
+      ],
+      [
+        40569,
+        "Scarab II"
+      ],
+      [
+        40570,
+        "Siren II"
+      ],
+      [
+        40571,
+        "Dromi II"
+      ],
+      [
+        83591,
+        "Imperial Navy Cenobite"
+      ],
+      [
+        83592,
+        "Caldari Navy Scarab"
+      ],
+      [
+        83593,
+        "Federation Navy Siren"
+      ],
+      [
+        83594,
+        "Republic Fleet Dromi"
       ]
     ]
   },
   "1538": {
     "name": "Force Auxiliary",
     "types": [
-      [
-        42242,
-        "Dagon"
-      ],
-      [
-        45645,
-        "Loggerhead"
-      ],
       [
         37604,
         "Apostle"
@@ -1799,6 +2962,229 @@
       [
         37607,
         "Ninazu"
+      ],
+      [
+        42242,
+        "Dagon"
+      ],
+      [
+        45645,
+        "Loggerhead"
+      ]
+    ]
+  },
+  "1652": {
+    "name": "Light Fighter",
+    "types": [
+      [
+        23055,
+        "Templar I"
+      ],
+      [
+        23057,
+        "Dragonfly I"
+      ],
+      [
+        23059,
+        "Firbolg I"
+      ],
+      [
+        23061,
+        "Einherji I"
+      ],
+      [
+        40358,
+        "Equite I"
+      ],
+      [
+        40359,
+        "Locust I"
+      ],
+      [
+        40360,
+        "Satyr I"
+      ],
+      [
+        40361,
+        "Gram I"
+      ],
+      [
+        40552,
+        "Equite II"
+      ],
+      [
+        40553,
+        "Gram II"
+      ],
+      [
+        40554,
+        "Locust II"
+      ],
+      [
+        40555,
+        "Satyr II"
+      ],
+      [
+        40556,
+        "Templar II"
+      ],
+      [
+        40557,
+        "Dragonfly II"
+      ],
+      [
+        40558,
+        "Firbolg II"
+      ],
+      [
+        40559,
+        "Einherji II"
+      ],
+      [
+        83579,
+        "Imperial Navy Templar"
+      ],
+      [
+        83582,
+        "Caldari Navy Dragonfly"
+      ],
+      [
+        83583,
+        "Federation Navy Firbolg"
+      ],
+      [
+        83584,
+        "Republic Fleet Einherji"
+      ],
+      [
+        83585,
+        "Imperial Navy Equite"
+      ],
+      [
+        83586,
+        "Caldari Navy Locust"
+      ],
+      [
+        83587,
+        "Federation Navy Satyr"
+      ],
+      [
+        83589,
+        "Republic Fleet Gram"
+      ]
+    ]
+  },
+  "1653": {
+    "name": "Heavy Fighter",
+    "types": [
+      [
+        2948,
+        "Shadow"
+      ],
+      [
+        32325,
+        "Cyclops I"
+      ],
+      [
+        32340,
+        "Malleus I"
+      ],
+      [
+        32342,
+        "Tyrfing I"
+      ],
+      [
+        32344,
+        "Mantis I"
+      ],
+      [
+        40362,
+        "Ametat I"
+      ],
+      [
+        40363,
+        "Termite I"
+      ],
+      [
+        40364,
+        "Antaeus I"
+      ],
+      [
+        40365,
+        "Gungnir I"
+      ],
+      [
+        40560,
+        "Ametat II"
+      ],
+      [
+        40561,
+        "Malleus II"
+      ],
+      [
+        40562,
+        "Antaeus II"
+      ],
+      [
+        40563,
+        "Cyclops II"
+      ],
+      [
+        40564,
+        "Gungnir II"
+      ],
+      [
+        40565,
+        "Tyrfing II"
+      ],
+      [
+        40566,
+        "Termite II"
+      ],
+      [
+        40567,
+        "Mantis II"
+      ]
+    ]
+  },
+  "1657": {
+    "name": "Citadel",
+    "types": [
+      [
+        35832,
+        "Astrahus"
+      ],
+      [
+        35833,
+        "Fortizar"
+      ],
+      [
+        35834,
+        "Keepstar"
+      ],
+      [
+        40340,
+        "Upwell Palatine Keepstar"
+      ],
+      [
+        47512,
+        "'Moreau' Fortizar"
+      ],
+      [
+        47513,
+        "'Draccous' Fortizar"
+      ],
+      [
+        47514,
+        "'Horizon' Fortizar"
+      ],
+      [
+        47515,
+        "'Marginis' Fortizar"
+      ],
+      [
+        47516,
+        "'Prometheus' Fortizar"
       ]
     ]
   },
@@ -1808,6 +3194,97 @@
       [
         45534,
         "Monitor"
+      ]
+    ]
+  },
+  "2016": {
+    "name": "Upwell Cyno Jammer",
+    "types": [
+      [
+        37534,
+        "Tenebrex Cyno Jammer"
+      ]
+    ]
+  },
+  "2017": {
+    "name": "Upwell Cyno Beacon",
+    "types": [
+      [
+        35840,
+        "Pharolux Cyno Beacon"
+      ]
+    ]
+  },
+  "4093": {
+    "name": "Mobile Cynosural Beacon",
+    "types": [
+      [
+        57319,
+        "Mobile Cynosural Beacon"
+      ],
+      [
+        59630,
+        "Covert Mobile Cynosural Beacon"
+      ]
+    ]
+  },
+  "4107": {
+    "name": "Mobile Observatory",
+    "types": [
+      [
+        58904,
+        "Mobile Observatory"
+      ]
+    ]
+  },
+  "4137": {
+    "name": "Mobile Analysis Beacon",
+    "types": [
+      [
+        60244,
+        "CONCORD Rogue Analysis Beacon"
+      ]
+    ]
+  },
+  "4477": {
+    "name": "FW Propaganda Broadcast Structure",
+    "types": [
+      [
+        73225,
+        "Amarr Propaganda Broadcast Structure"
+      ],
+      [
+        73226,
+        "Minmatar Propaganda Broadcast Structure"
+      ],
+      [
+        73227,
+        "Caldari Propaganda Broadcast Structure"
+      ],
+      [
+        73228,
+        "Gallente Propaganda Broadcast Structure"
+      ]
+    ]
+  },
+  "4499": {
+    "name": "FW Listening Outpost",
+    "types": [
+      [
+        73270,
+        "Amarr Listening Outpost"
+      ],
+      [
+        73271,
+        "Minmatar Listening Outpost"
+      ],
+      [
+        73272,
+        "Caldari Listening Outpost"
+      ],
+      [
+        73273,
+        "Gallente Listening Outpost"
       ]
     ]
   },
@@ -1829,6 +3306,216 @@
       [
         77288,
         "Valravn"
+      ]
+    ]
+  },
+  "4736": {
+    "name": "Skyhook",
+    "types": [
+      [
+        81080,
+        "Orbital Skyhook"
+      ]
+    ]
+  },
+  "4744": {
+    "name": "Upwell Moon Drill",
+    "types": [
+      [
+        81826,
+        "Metenox Moon Drill"
+      ]
+    ]
+  },
+  "4777": {
+    "name": "Structure Light Fighter",
+    "types": [
+      [
+        47035,
+        "Standup Templar I"
+      ],
+      [
+        47036,
+        "Standup Gram I"
+      ],
+      [
+        47138,
+        "Standup Dragonfly I"
+      ],
+      [
+        47139,
+        "Standup Firbolg I"
+      ],
+      [
+        47140,
+        "Standup Einherji I"
+      ],
+      [
+        47141,
+        "Standup Templar II"
+      ],
+      [
+        47142,
+        "Standup Dragonfly II"
+      ],
+      [
+        47143,
+        "Standup Firbolg II"
+      ],
+      [
+        47144,
+        "Standup Einherji II"
+      ],
+      [
+        47145,
+        "Standup Equite I"
+      ],
+      [
+        47146,
+        "Standup Locust I"
+      ],
+      [
+        47147,
+        "Standup Satyr I"
+      ],
+      [
+        47148,
+        "Standup Equite II"
+      ],
+      [
+        47149,
+        "Standup Locust II"
+      ],
+      [
+        47150,
+        "Standup Satyr II"
+      ],
+      [
+        47151,
+        "Standup Gram II"
+      ]
+    ]
+  },
+  "4778": {
+    "name": "Structure Support Fighter",
+    "types": [
+      [
+        47037,
+        "Standup Siren I"
+      ],
+      [
+        47131,
+        "Standup Cenobite I"
+      ],
+      [
+        47132,
+        "Standup Scarab I"
+      ],
+      [
+        47133,
+        "Standup Dromi I"
+      ],
+      [
+        47134,
+        "Standup Cenobite II"
+      ],
+      [
+        47135,
+        "Standup Scarab II"
+      ],
+      [
+        47136,
+        "Standup Siren II"
+      ],
+      [
+        47137,
+        "Standup Dromi II"
+      ]
+    ]
+  },
+  "4779": {
+    "name": "Structure Heavy Fighter",
+    "types": [
+      [
+        47038,
+        "Standup Mantis I"
+      ],
+      [
+        47039,
+        "Standup Gungnir I"
+      ],
+      [
+        47116,
+        "Standup Malleus I"
+      ],
+      [
+        47117,
+        "Standup Cyclops I"
+      ],
+      [
+        47118,
+        "Standup Tyrfing I"
+      ],
+      [
+        47119,
+        "Standup Malleus II"
+      ],
+      [
+        47120,
+        "Standup Mantis II"
+      ],
+      [
+        47121,
+        "Standup Cyclops II"
+      ],
+      [
+        47122,
+        "Standup Tyrfing II"
+      ],
+      [
+        47123,
+        "Standup Shadow"
+      ],
+      [
+        47124,
+        "Standup Ametat I"
+      ],
+      [
+        47125,
+        "Standup Termite I"
+      ],
+      [
+        47126,
+        "Standup Antaeus I"
+      ],
+      [
+        47127,
+        "Standup Ametat II"
+      ],
+      [
+        47128,
+        "Standup Termite II"
+      ],
+      [
+        47129,
+        "Standup Antaeus II"
+      ],
+      [
+        47130,
+        "Standup Gungnir II"
+      ]
+    ]
+  },
+  "4810": {
+    "name": "Mercenary Den",
+    "types": [
+      [
+        85230,
+        "Mercenary Den"
+      ],
+      [
+        85980,
+        "'Seneschal' Mercenary Den"
       ]
     ]
   }
