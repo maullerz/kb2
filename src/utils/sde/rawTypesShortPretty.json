@@ -754,7 +754,7 @@
   "444": {
     "groupID": 49,
     "metaGroupID": 1,
-    "name": "Survey Scanner I"
+    "name": "Mining Survey Chipset I"
   },
   "447": {
     "groupID": 52,
@@ -2073,7 +2073,7 @@
   },
   "1076": {
     "groupID": 129,
-    "name": "Survey Scanner I Blueprint"
+    "name": "Mining Survey Chipset I Blueprint"
   },
   "1079": {
     "groupID": 132,
@@ -4821,12 +4821,12 @@
   "2333": {
     "groupID": 49,
     "metaGroupID": 2,
-    "name": "Survey Scanner II"
+    "name": "Mining Survey Chipset II"
   },
   "2334": {
     "groupID": 129,
     "metaGroupID": 2,
-    "name": "Survey Scanner II Blueprint"
+    "name": "Mining Survey Chipset II Blueprint"
   },
   "2335": {
     "groupID": 226,
@@ -13139,7 +13139,7 @@
   "5177": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Gatling Afocal Maser I"
+    "name": "Gatling Afocal Laser I"
   },
   "5179": {
     "groupID": 53,
@@ -13159,7 +13159,7 @@
   "5217": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Dual Afocal Pulse Maser I"
+    "name": "Dual Afocal Pulse Laser I"
   },
   "5219": {
     "groupID": 53,
@@ -14144,11 +14144,12 @@
   "6569": {
     "groupID": 49,
     "metaGroupID": 1,
-    "name": "ML-3 Scoped Survey Scanner"
+    "name": "ML-3 Compact Mining Survey Chipset"
   },
   "6571": {
     "groupID": 49,
-    "name": "Rock-Scanning Sensor Array I"
+    "metaGroupID": 1,
+    "name": "Basic Mining Survey Chipset"
   },
   "6573": {
     "groupID": 49,
@@ -14162,7 +14163,7 @@
   "6633": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Dual Afocal Light Maser I"
+    "name": "Dual Afocal Light Laser I"
   },
   "6635": {
     "groupID": 53,
@@ -14182,7 +14183,7 @@
   "6673": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Small Focused Afocal Pulse Maser I"
+    "name": "Small Focused Afocal Pulse Laser I"
   },
   "6675": {
     "groupID": 53,
@@ -14202,7 +14203,7 @@
   "6717": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Small Focused Afocal Maser I"
+    "name": "Small Focused Afocal Laser I"
   },
   "6719": {
     "groupID": 53,
@@ -14222,7 +14223,7 @@
   "6759": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Quad Afocal Light Maser I"
+    "name": "Quad Afocal Light Laser I"
   },
   "6761": {
     "groupID": 53,
@@ -14242,7 +14243,7 @@
   "6807": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Focused Afocal Pulse Maser I"
+    "name": "Focused Afocal Pulse Laser I"
   },
   "6809": {
     "groupID": 53,
@@ -14262,7 +14263,7 @@
   "6861": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Focused Afocal Medium Maser I"
+    "name": "Focused Afocal Medium Laser I"
   },
   "6863": {
     "groupID": 53,
@@ -14282,7 +14283,7 @@
   "6921": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Heavy Afocal Pulse Maser I"
+    "name": "Heavy Afocal Pulse Laser I"
   },
   "6923": {
     "groupID": 53,
@@ -14302,7 +14303,7 @@
   "6961": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Heavy Afocal Maser I"
+    "name": "Heavy Afocal Laser I"
   },
   "6963": {
     "groupID": 53,
@@ -14322,7 +14323,7 @@
   "7001": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Dual Heavy Afocal Pulse Maser I"
+    "name": "Dual Heavy Afocal Pulse Laser I"
   },
   "7003": {
     "groupID": 53,
@@ -14342,7 +14343,7 @@
   "7045": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Dual Afocal Heavy Maser I"
+    "name": "Dual Afocal Heavy Laser I"
   },
   "7047": {
     "groupID": 53,
@@ -14362,7 +14363,7 @@
   "7085": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Mega Afocal Pulse Maser I"
+    "name": "Mega Afocal Pulse Laser I"
   },
   "7087": {
     "groupID": 53,
@@ -14382,7 +14383,7 @@
   "7125": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Mega Afocal Maser I"
+    "name": "Mega Afocal Laser I"
   },
   "7127": {
     "groupID": 53,
@@ -14402,7 +14403,7 @@
   "7169": {
     "groupID": 53,
     "metaGroupID": 1,
-    "name": "Tachyon Afocal Maser I"
+    "name": "Tachyon Afocal Laser I"
   },
   "7171": {
     "groupID": 53,
@@ -17701,7 +17702,7 @@
   },
   "11074": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Talisman Alpha Blueprint"
   },
   "11075": {
@@ -34638,107 +34639,107 @@
   },
   "17425": {
     "groupID": 450,
-    "name": "Crimson Arkonor"
+    "name": "Arkonor II-Grade"
   },
   "17426": {
     "groupID": 450,
-    "name": "Prime Arkonor"
+    "name": "Arkonor III-Grade"
   },
   "17428": {
     "groupID": 451,
-    "name": "Triclinic Bistot"
+    "name": "Bistot II-Grade"
   },
   "17429": {
     "groupID": 451,
-    "name": "Monoclinic Bistot"
+    "name": "Bistot III-Grade"
   },
   "17432": {
     "groupID": 452,
-    "name": "Sharp Crokite"
+    "name": "Crokite II-Grade"
   },
   "17433": {
     "groupID": 452,
-    "name": "Crystalline Crokite"
+    "name": "Crokite III-Grade"
   },
   "17436": {
     "groupID": 453,
-    "name": "Onyx Ochre"
+    "name": "Dark Ochre II-Grade"
   },
   "17437": {
     "groupID": 453,
-    "name": "Obsidian Ochre"
+    "name": "Dark Ochre III-Grade"
   },
   "17440": {
     "groupID": 454,
-    "name": "Vitric Hedbergite"
+    "name": "Hedbergite II-Grade"
   },
   "17441": {
     "groupID": 454,
-    "name": "Glazed Hedbergite"
+    "name": "Hedbergite III-Grade"
   },
   "17444": {
     "groupID": 455,
-    "name": "Vivid Hemorphite"
+    "name": "Hemorphite II-Grade"
   },
   "17445": {
     "groupID": 455,
-    "name": "Radiant Hemorphite"
+    "name": "Hemorphite III-Grade"
   },
   "17448": {
     "groupID": 456,
-    "name": "Pure Jaspet"
+    "name": "Jaspet II-Grade"
   },
   "17449": {
     "groupID": 456,
-    "name": "Pristine Jaspet"
+    "name": "Jaspet III-Grade"
   },
   "17452": {
     "groupID": 457,
-    "name": "Luminous Kernite"
+    "name": "Kernite II-Grade"
   },
   "17453": {
     "groupID": 457,
-    "name": "Fiery Kernite"
+    "name": "Kernite III-Grade"
   },
   "17455": {
     "groupID": 458,
-    "name": "Azure Plagioclase"
+    "name": "Plagioclase II-Grade"
   },
   "17456": {
     "groupID": 458,
-    "name": "Rich Plagioclase"
+    "name": "Plagioclase III-Grade"
   },
   "17459": {
     "groupID": 459,
-    "name": "Solid Pyroxeres"
+    "name": "Pyroxeres II-Grade"
   },
   "17460": {
     "groupID": 459,
-    "name": "Viscous Pyroxeres"
+    "name": "Pyroxeres III-Grade"
   },
   "17463": {
     "groupID": 460,
-    "name": "Condensed Scordite"
+    "name": "Scordite II-Grade"
   },
   "17464": {
     "groupID": 460,
-    "name": "Massive Scordite"
+    "name": "Scordite III-Grade"
   },
   "17466": {
     "groupID": 461,
-    "name": "Bright Spodumain"
+    "name": "Spodumain II-Grade"
   },
   "17467": {
     "groupID": 461,
-    "name": "Gleaming Spodumain"
+    "name": "Spodumain III-Grade"
   },
   "17470": {
     "groupID": 462,
-    "name": "Concentrated Veldspar"
+    "name": "Veldspar II-Grade"
   },
   "17471": {
     "groupID": 462,
-    "name": "Dense Veldspar"
+    "name": "Veldspar III-Grade"
   },
   "17475": {
     "groupID": 282,
@@ -36259,27 +36260,27 @@
   },
   "17865": {
     "groupID": 467,
-    "name": "Iridescent Gneiss"
+    "name": "Gneiss II-Grade"
   },
   "17866": {
     "groupID": 467,
-    "name": "Prismatic Gneiss"
+    "name": "Gneiss III-Grade"
   },
   "17867": {
     "groupID": 469,
-    "name": "Silvery Omber"
+    "name": "Omber II-Grade"
   },
   "17868": {
     "groupID": 469,
-    "name": "Golden Omber"
+    "name": "Omber III-Grade"
   },
   "17869": {
     "groupID": 468,
-    "name": "Magma Mercoxit"
+    "name": "Mercoxit II-Grade"
   },
   "17870": {
     "groupID": 468,
-    "name": "Vitreous Mercoxit"
+    "name": "Mercoxit III-Grade"
   },
   "17871": {
     "groupID": 738,
@@ -36667,19 +36668,19 @@
   },
   "17975": {
     "groupID": 465,
-    "name": "Thick Blue Ice"
+    "name": "Blue Ice IV-Grade"
   },
   "17976": {
     "groupID": 465,
-    "name": "Pristine White Glaze"
+    "name": "White Glaze IV-Grade"
   },
   "17977": {
     "groupID": 465,
-    "name": "Smooth Glacial Mass"
+    "name": "Glacial Mass IV-Grade"
   },
   "17978": {
     "groupID": 465,
-    "name": "Enriched Clear Icicle"
+    "name": "Clear Icicle IV-Grade"
   },
   "17979": {
     "groupID": 494,
@@ -42009,12 +42010,12 @@
   "20609": {
     "groupID": 295,
     "metaGroupID": 3,
-    "name": "'Cactus' Modified Kinetic Shield Amplifier"
+    "name": "'Cactus' Kinetic Shield Amplifier"
   },
   "20610": {
     "groupID": 296,
     "metaGroupID": 3,
-    "name": "'Cactus' Modified Kinetic Shield Amplifier Blueprint"
+    "name": "'Cactus' Kinetic Shield Amplifier Blueprint"
   },
   "20611": {
     "groupID": 295,
@@ -67175,7 +67176,7 @@
   },
   "28385": {
     "groupID": 450,
-    "name": "Batch Compressed Crimson Arkonor"
+    "name": "Batch Compressed Arkonor II-Grade"
   },
   "28386": {
     "groupID": 888,
@@ -67183,7 +67184,7 @@
   },
   "28387": {
     "groupID": 450,
-    "name": "Batch Compressed Prime Arkonor"
+    "name": "Batch Compressed Arkonor III-Grade"
   },
   "28388": {
     "groupID": 451,
@@ -67191,11 +67192,11 @@
   },
   "28389": {
     "groupID": 451,
-    "name": "Batch Compressed Monoclinic Bistot"
+    "name": "Batch Compressed Bistot III-Grade"
   },
   "28390": {
     "groupID": 451,
-    "name": "Batch Compressed Triclinic Bistot"
+    "name": "Batch Compressed Bistot II-Grade"
   },
   "28391": {
     "groupID": 452,
@@ -67203,11 +67204,11 @@
   },
   "28392": {
     "groupID": 452,
-    "name": "Batch Compressed Crystalline Crokite"
+    "name": "Batch Compressed Crokite III-Grade"
   },
   "28393": {
     "groupID": 452,
-    "name": "Batch Compressed Sharp Crokite"
+    "name": "Batch Compressed Crokite IV-Grade"
   },
   "28394": {
     "groupID": 453,
@@ -67215,11 +67216,11 @@
   },
   "28395": {
     "groupID": 453,
-    "name": "Batch Compressed Obsidian Ochre"
+    "name": "Batch Compressed Dark Ochre III-Grade"
   },
   "28396": {
     "groupID": 453,
-    "name": "Batch Compressed Onyx Ochre"
+    "name": "Batch Compressed Dark Ochre II-Grade"
   },
   "28397": {
     "groupID": 467,
@@ -67227,15 +67228,15 @@
   },
   "28398": {
     "groupID": 467,
-    "name": "Batch Compressed Iridescent Gneiss"
+    "name": "Batch Compressed Gneiss II-Grade"
   },
   "28399": {
     "groupID": 467,
-    "name": "Batch Compressed Prismatic Gneiss"
+    "name": "Batch Compressed Gneiss III-Grade"
   },
   "28400": {
     "groupID": 454,
-    "name": "Batch Compressed Glazed Hedbergite"
+    "name": "Batch Compressed Hedbergite III-Grade"
   },
   "28401": {
     "groupID": 454,
@@ -67243,7 +67244,7 @@
   },
   "28402": {
     "groupID": 454,
-    "name": "Batch Compressed Vitric Hedbergite"
+    "name": "Batch Compressed Hedbergite II-Grade"
   },
   "28403": {
     "groupID": 455,
@@ -67251,11 +67252,11 @@
   },
   "28404": {
     "groupID": 455,
-    "name": "Batch Compressed Radiant Hemorphite"
+    "name": "Batch Compressed Hemorphite III-Grade"
   },
   "28405": {
     "groupID": 455,
-    "name": "Batch Compressed Vivid Hemorphite"
+    "name": "Batch Compressed Hemorphite II-Grade"
   },
   "28406": {
     "groupID": 456,
@@ -67263,15 +67264,15 @@
   },
   "28407": {
     "groupID": 456,
-    "name": "Batch Compressed Pristine Jaspet"
+    "name": "Batch Compressed Jaspet III-Grade"
   },
   "28408": {
     "groupID": 456,
-    "name": "Batch Compressed Pure Jaspet"
+    "name": "Batch Compressed Jaspet II-Grade"
   },
   "28409": {
     "groupID": 457,
-    "name": "Batch Compressed Fiery Kernite"
+    "name": "Batch Compressed Kernite III-Grade"
   },
   "28410": {
     "groupID": 457,
@@ -67279,11 +67280,11 @@
   },
   "28411": {
     "groupID": 457,
-    "name": "Batch Compressed Luminous Kernite"
+    "name": "Batch Compressed Kernite II-Grade"
   },
   "28412": {
     "groupID": 468,
-    "name": "Batch Compressed Magma Mercoxit"
+    "name": "Batch Compressed Mercoxit II-Grade"
   },
   "28413": {
     "groupID": 468,
@@ -67291,11 +67292,11 @@
   },
   "28414": {
     "groupID": 468,
-    "name": "Batch Compressed Vitreous Mercoxit"
+    "name": "Batch Compressed Mercoxit III-Grade"
   },
   "28415": {
     "groupID": 469,
-    "name": "Batch Compressed Golden Omber"
+    "name": "Batch Compressed Omber III-Grade"
   },
   "28416": {
     "groupID": 469,
@@ -67303,15 +67304,15 @@
   },
   "28417": {
     "groupID": 469,
-    "name": "Batch Compressed Silvery Omber"
+    "name": "Batch Compressed Omber II-Grade"
   },
   "28418": {
     "groupID": 461,
-    "name": "Batch Compressed Bright Spodumain"
+    "name": "Batch Compressed Spodumain II-Grade"
   },
   "28419": {
     "groupID": 461,
-    "name": "Batch Compressed Gleaming Spodumain"
+    "name": "Batch Compressed Spodumain III-Grade"
   },
   "28420": {
     "groupID": 461,
@@ -67319,7 +67320,7 @@
   },
   "28421": {
     "groupID": 458,
-    "name": "Batch Compressed Azure Plagioclase"
+    "name": "Batch Compressed Plagioclase II-Grade"
   },
   "28422": {
     "groupID": 458,
@@ -67327,7 +67328,7 @@
   },
   "28423": {
     "groupID": 458,
-    "name": "Batch Compressed Rich Plagioclase"
+    "name": "Batch Compressed Plagioclase III-Grade"
   },
   "28424": {
     "groupID": 459,
@@ -67335,19 +67336,19 @@
   },
   "28425": {
     "groupID": 459,
-    "name": "Batch Compressed Solid Pyroxeres"
+    "name": "Batch Compressed Pyroxeres II-Grade"
   },
   "28426": {
     "groupID": 459,
-    "name": "Batch Compressed Viscous Pyroxeres"
+    "name": "Batch Compressed Pyroxeres III-Grade"
   },
   "28427": {
     "groupID": 460,
-    "name": "Batch Compressed Condensed Scordite"
+    "name": "Batch Compressed Scordite II-Grade"
   },
   "28428": {
     "groupID": 460,
-    "name": "Batch Compressed Massive Scordite"
+    "name": "Batch Compressed Scordite III-Grade"
   },
   "28429": {
     "groupID": 460,
@@ -67355,11 +67356,11 @@
   },
   "28430": {
     "groupID": 462,
-    "name": "Batch Compressed Concentrated Veldspar"
+    "name": "Batch Compressed Veldspar II-Grade"
   },
   "28431": {
     "groupID": 462,
-    "name": "Batch Compressed Dense Veldspar"
+    "name": "Batch Compressed Veldspar III-Grade"
   },
   "28432": {
     "groupID": 462,
@@ -67379,7 +67380,7 @@
   },
   "28436": {
     "groupID": 465,
-    "name": "Compressed Enriched Clear Icicle"
+    "name": "Compressed Clear Icicle IV-Grade"
   },
   "28437": {
     "groupID": 465,
@@ -67399,15 +67400,15 @@
   },
   "28441": {
     "groupID": 465,
-    "name": "Compressed Pristine White Glaze"
+    "name": "Compressed White Glaze IV-Grade"
   },
   "28442": {
     "groupID": 465,
-    "name": "Compressed Smooth Glacial Mass"
+    "name": "Compressed Glacial Mass IV-Grade"
   },
   "28443": {
     "groupID": 465,
-    "name": "Compressed Thick Blue Ice"
+    "name": "Compressed Blue Ice IV-Grade"
   },
   "28444": {
     "groupID": 465,
@@ -69780,7 +69781,7 @@
   },
   "29119": {
     "groupID": 903,
-    "name": "Ancient Compressed Enriched Clear Icicle"
+    "name": "Ancient Compressed Clear Icicle IV-Grade"
   },
   "29121": {
     "groupID": 903,
@@ -69800,15 +69801,15 @@
   },
   "29129": {
     "groupID": 903,
-    "name": "Ancient Compressed Pristine White Glaze"
+    "name": "Ancient Compressed White Glaze IV-Grade"
   },
   "29131": {
     "groupID": 903,
-    "name": "Ancient Compressed Smooth Glacial Mass"
+    "name": "Ancient Compressed Glacial Mass IV-Grade"
   },
   "29133": {
     "groupID": 903,
-    "name": "Ancient Compressed Thick Blue Ice"
+    "name": "Ancient Compressed Blue Ice IV-Grade"
   },
   "29135": {
     "groupID": 903,
@@ -83964,7 +83965,7 @@
   },
   "33536": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Ascendancy Alpha Blueprint"
   },
   "33538": {
@@ -83977,27 +83978,27 @@
   },
   "33543": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Ascendancy Beta Blueprint"
   },
   "33545": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Ascendancy Gamma Blueprint"
   },
   "33546": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Ascendancy Epsilon Blueprint"
   },
   "33547": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Ascendancy Delta Blueprint"
   },
   "33548": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Ascendancy Omega Blueprint"
   },
   "33549": {
@@ -84033,7 +84034,7 @@
   },
   "33556": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Ascendancy Alpha Blueprint"
   },
   "33557": {
@@ -84043,7 +84044,7 @@
   },
   "33558": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Ascendancy Beta Blueprint"
   },
   "33559": {
@@ -84053,7 +84054,7 @@
   },
   "33560": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Ascendancy Delta Blueprint"
   },
   "33561": {
@@ -84063,7 +84064,7 @@
   },
   "33562": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Ascendancy Epsilon Blueprint"
   },
   "33563": {
@@ -84073,7 +84074,7 @@
   },
   "33564": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Ascendancy Gamma Blueprint"
   },
   "33565": {
@@ -84083,7 +84084,7 @@
   },
   "33566": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Ascendancy Omega Blueprint"
   },
   "33569": {
@@ -85756,7 +85757,8 @@
   },
   "34005": {
     "groupID": 1084,
-    "name": "Tattoo/ArmLeft/Sleeve15/Types/Sleeve15_F_Left.type"
+    "metaGroupID": 17,
+    "name": "Sleeve - 'Bloodfire' (Left)"
   },
   "34006": {
     "groupID": 1084,
@@ -85800,7 +85802,8 @@
   },
   "34016": {
     "groupID": 1084,
-    "name": "Tattoo/ArmRight/Sleeve15/Type/Sleeve15_F_Right.type"
+    "metaGroupID": 17,
+    "name": "Sleeve - 'Bloodfire' (Right)"
   },
   "34017": {
     "groupID": 1271,
@@ -98800,18 +98803,22 @@
   },
   "45515": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Women's Caldari State Exploration Suit"
   },
   "45516": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Women's Minmatar Republic Exploration Suit"
   },
   "45517": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Women's Gallente Federation Exploration Suit"
   },
   "45518": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Women's Amarr Empire Exploration Suit"
   },
   "45519": {
@@ -98824,6 +98831,7 @@
   },
   "45521": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Men's Gallente Federation Exploration Suit"
   },
   "45522": {
@@ -98836,14 +98844,17 @@
   },
   "45524": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Men's Caldari State Exploration Suit"
   },
   "45525": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Men's Minmatar Republic Exploration Suit"
   },
   "45526": {
     "groupID": 1088,
+    "metaGroupID": 17,
     "name": "Men's Amarr Empire Exploration Suit"
   },
   "45527": {
@@ -100221,7 +100232,7 @@
   },
   "46209": {
     "groupID": 1888,
-    "name": "Fulleride Reaction Formula"
+    "name": "Fullerides Reaction Formula"
   },
   "46210": {
     "groupID": 1888,
@@ -101474,63 +101485,63 @@
   },
   "46675": {
     "groupID": 453,
-    "name": "Jet Ochre"
+    "name": "Dark Ochre IV-Grade"
   },
   "46676": {
     "groupID": 451,
-    "name": "Cubic Bistot"
+    "name": "Bistot IV-Grade"
   },
   "46677": {
     "groupID": 452,
-    "name": "Pellucid Crokite"
+    "name": "Crokite IV-Grade"
   },
   "46678": {
     "groupID": 450,
-    "name": "Flawless Arkonor"
+    "name": "Arkonor IV-Grade"
   },
   "46679": {
     "groupID": 467,
-    "name": "Brilliant Gneiss"
+    "name": "Gneiss IV-Grade"
   },
   "46680": {
     "groupID": 454,
-    "name": "Lustrous Hedbergite"
+    "name": "Hedbergite IV-Grade"
   },
   "46681": {
     "groupID": 455,
-    "name": "Scintillating Hemorphite"
+    "name": "Hemorphite IV-Grade"
   },
   "46682": {
     "groupID": 456,
-    "name": "Immaculate Jaspet"
+    "name": "Jaspet IV-Grade"
   },
   "46683": {
     "groupID": 457,
-    "name": "Resplendant Kernite"
+    "name": "Kernite IV-Grade"
   },
   "46684": {
     "groupID": 469,
-    "name": "Platinoid Omber"
+    "name": "Omber IV-Grade"
   },
   "46685": {
     "groupID": 458,
-    "name": "Sparkling Plagioclase"
+    "name": "Plagioclase IV-Grade"
   },
   "46686": {
     "groupID": 459,
-    "name": "Opulent Pyroxeres"
+    "name": "Pyroxeres IV-Grade"
   },
   "46687": {
     "groupID": 460,
-    "name": "Glossy Scordite"
+    "name": "Scordite IV-Grade"
   },
   "46688": {
     "groupID": 461,
-    "name": "Dazzling Spodumain"
+    "name": "Spodumain IV-Grade"
   },
   "46689": {
     "groupID": 462,
-    "name": "Stable Veldspar"
+    "name": "Veldspar IV-Grade"
   },
   "46690": {
     "groupID": 353,
@@ -101538,63 +101549,63 @@
   },
   "46691": {
     "groupID": 450,
-    "name": "Batch Compressed Flawless Arkonor"
+    "name": "Batch Compressed Arkonor IV-Grade"
   },
   "46692": {
     "groupID": 451,
-    "name": "Batch Compressed Cubic Bistot"
+    "name": "Batch Compressed Bistot IV-Grade"
   },
   "46693": {
     "groupID": 452,
-    "name": "Batch Compressed Pellucid Crokite"
+    "name": "Batch Compressed Crokite IV-Grade"
   },
   "46694": {
     "groupID": 453,
-    "name": "Batch Compressed Jet Ochre"
+    "name": "Batch Compressed Dark Ochre IV-Grade"
   },
   "46695": {
     "groupID": 467,
-    "name": "Batch Compressed Brilliant Gneiss"
+    "name": "Batch Compressed Gneiss IV-Grade"
   },
   "46696": {
     "groupID": 454,
-    "name": "Batch Compressed Lustrous Hedbergite"
+    "name": "Batch Compressed Hedbergite IV-Grade"
   },
   "46697": {
     "groupID": 455,
-    "name": "Batch Compressed Scintillating Hemorphite"
+    "name": "Batch Compressed Hemorphite IV-Grade"
   },
   "46698": {
     "groupID": 456,
-    "name": "Batch Compressed Immaculate Jaspet"
+    "name": "Batch Compressed Jaspet IV-Grade"
   },
   "46699": {
     "groupID": 457,
-    "name": "Batch Compressed Resplendant Kernite"
+    "name": "Batch Compressed Kernite IV-Grade"
   },
   "46700": {
     "groupID": 469,
-    "name": "Batch Compressed Platinoid Omber"
+    "name": "Batch Compressed Omber IV-Grade"
   },
   "46701": {
     "groupID": 458,
-    "name": "Batch Compressed Sparkling Plagioclase"
+    "name": "Batch Compressed Plagioclase IV-Grade"
   },
   "46702": {
     "groupID": 459,
-    "name": "Batch Compressed Opulent Pyroxeres"
+    "name": "Batch Compressed Pyroxeres IV-Grade"
   },
   "46703": {
     "groupID": 460,
-    "name": "Batch Compressed Glossy Scordite"
+    "name": "Batch Compressed Scordite IV-Grade"
   },
   "46704": {
     "groupID": 461,
-    "name": "Batch Compressed Dazzling Spodumain"
+    "name": "Batch Compressed Spodumain IV-Grade"
   },
   "46705": {
     "groupID": 462,
-    "name": "Batch Compressed Stable Veldspar"
+    "name": "Batch Compressed Veldspar IV-Grade"
   },
   "46756": {
     "groupID": 1194,
@@ -109242,32 +109253,32 @@
   },
   "52684": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Mimesis Alpha Blueprint"
   },
   "52685": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Mimesis Beta Blueprint"
   },
   "52686": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Mimesis Gamma Blueprint"
   },
   "52687": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Mimesis Delta Blueprint"
   },
   "52688": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Mimesis Epsilon Blueprint"
   },
   "52689": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Mimesis Omega Blueprint"
   },
   "52690": {
@@ -109343,32 +109354,32 @@
   },
   "52791": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Mimesis Alpha Blueprint"
   },
   "52792": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Mimesis Beta Blueprint"
   },
   "52793": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Mimesis Delta Blueprint"
   },
   "52794": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Mimesis Epsilon Blueprint"
   },
   "52795": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Mimesis Gamma Blueprint"
   },
   "52796": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Mimesis Omega Blueprint"
   },
   "52797": {
@@ -109789,7 +109800,7 @@
   },
   "52965": {
     "groupID": 4034,
-    "name": "State Navy Phoenix"
+    "name": "State Navy Karura"
   },
   "52966": {
     "groupID": 4034,
@@ -109801,32 +109812,32 @@
   },
   "52972": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Mimesis Alpha Blueprint"
   },
   "52974": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Mimesis Beta Blueprint"
   },
   "52975": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Mimesis Delta Blueprint"
   },
   "52976": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Mimesis Epsilon Blueprint"
   },
   "52977": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Mimesis Gamma Blueprint"
   },
   "52978": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Mimesis Omega Blueprint"
   },
   "52981": {
@@ -110729,62 +110740,62 @@
   },
   "53722": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Nirvana Alpha Blueprint"
   },
   "53723": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Nirvana Beta Blueprint"
   },
   "53724": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Nirvana Delta Blueprint"
   },
   "53725": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Nirvana Epsilon Blueprint"
   },
   "53726": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Nirvana Gamma Blueprint"
   },
   "53727": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Nirvana Omega Blueprint"
   },
   "53728": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Nirvana Alpha Blueprint"
   },
   "53729": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Nirvana Beta Blueprint"
   },
   "53730": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Nirvana Delta Blueprint"
   },
   "53731": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Nirvana Epsilon Blueprint"
   },
   "53732": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Nirvana Gamma Blueprint"
   },
   "53733": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Nirvana Omega Blueprint"
   },
   "53836": {
@@ -110839,32 +110850,32 @@
   },
   "53859": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Nirvana Alpha Blueprint"
   },
   "53860": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Nirvana Beta Blueprint"
   },
   "53861": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Nirvana Delta Blueprint"
   },
   "53862": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Nirvana Epsilon Blueprint"
   },
   "53863": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Nirvana Gamma Blueprint"
   },
   "53864": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Nirvana Omega Blueprint"
   },
   "53865": {
@@ -110975,92 +110986,92 @@
   },
   "53908": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Savior Alpha Blueprint"
   },
   "53909": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Savior Beta Blueprint"
   },
   "53910": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Savior Gamma Blueprint"
   },
   "53911": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Savior Delta Blueprint"
   },
   "53912": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Savior Epsilon Blueprint"
   },
   "53913": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Savior Omega Blueprint"
   },
   "53914": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Savior Alpha Blueprint"
   },
   "53915": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Savior Beta Blueprint"
   },
   "53916": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Savior Gamma Blueprint"
   },
   "53917": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Savior Delta Blueprint"
   },
   "53918": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Savior Epsilon Blueprint"
   },
   "53919": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Savior Omega Blueprint"
   },
   "53920": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Savior Alpha Blueprint"
   },
   "53921": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Savior Beta Blueprint"
   },
   "53922": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Savior Gamma Blueprint"
   },
   "53923": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Savior Delta Blueprint"
   },
   "53924": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Savior Epsilon Blueprint"
   },
   "53925": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Savior Omega Blueprint"
   },
   "53926": {
@@ -112702,92 +112713,92 @@
   },
   "54410": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Hydra Alpha Blueprint"
   },
   "54411": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Hydra Beta Blueprint"
   },
   "54412": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Hydra Gamma Blueprint"
   },
   "54413": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Hydra Delta Blueprint"
   },
   "54414": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Hydra Epsilon Blueprint"
   },
   "54415": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Hydra Omega Blueprint"
   },
   "54416": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Hydra Alpha Blueprint"
   },
   "54417": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Hydra Beta Blueprint"
   },
   "54418": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Hydra Gamma Blueprint"
   },
   "54419": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Hydra Delta Blueprint"
   },
   "54420": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Hydra Epsilon Blueprint"
   },
   "54421": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Hydra Omega Blueprint"
   },
   "54422": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Hydra Alpha Blueprint"
   },
   "54423": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Hydra Beta Blueprint"
   },
   "54424": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Hydra Gamma Blueprint"
   },
   "54425": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Hydra Delta Blueprint"
   },
   "54426": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Hydra Epsilon Blueprint"
   },
   "54427": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Hydra Omega Blueprint"
   },
   "54471": {
@@ -116797,27 +116808,27 @@
   },
   "56625": {
     "groupID": 4029,
-    "name": "Abyssal Talassonite"
+    "name": "Talassonite II-Grade"
   },
   "56626": {
     "groupID": 4029,
-    "name": "Hadal Talassonite"
+    "name": "Talassonite III-Grade"
   },
   "56627": {
     "groupID": 4031,
-    "name": "Abyssal Bezdnacine"
+    "name": "Bezdnacine II-Grade"
   },
   "56628": {
     "groupID": 4031,
-    "name": "Hadal Bezdnacine"
+    "name": "Bezdnacine III-Grade"
   },
   "56629": {
     "groupID": 4030,
-    "name": "Abyssal Rakovene"
+    "name": "Rakovene II-Grade"
   },
   "56630": {
     "groupID": 4030,
-    "name": "Hadal Rakovene"
+    "name": "Rakovene III-Grade"
   },
   "56631": {
     "groupID": 1218,
@@ -118048,92 +118059,92 @@
   },
   "57129": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Rapture Alpha Blueprint"
   },
   "57130": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Rapture Beta Blueprint"
   },
   "57131": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Rapture Gamma Blueprint"
   },
   "57132": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Rapture Delta Blueprint"
   },
   "57133": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Rapture Epsilon Blueprint"
   },
   "57134": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Rapture Alpha Blueprint"
   },
   "57135": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Rapture Beta Blueprint"
   },
   "57136": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Rapture Gamma Blueprint"
   },
   "57137": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Rapture Delta Blueprint"
   },
   "57138": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Rapture Epsilon Blueprint"
   },
   "57139": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Rapture Omega Blueprint"
   },
   "57140": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Rapture Alpha Blueprint"
   },
   "57142": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Rapture Beta Blueprint"
   },
   "57143": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Rapture Gamma Blueprint"
   },
   "57144": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Rapture Delta Blueprint"
   },
   "57145": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Rapture Epsilon Blueprint"
   },
   "57146": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "High-grade Rapture Omega Blueprint"
   },
   "57147": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Rapture Omega Blueprint"
   },
   "57149": {
@@ -123573,7 +123584,7 @@
   "60701": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Expired Harvest Anti-Disruptor Booster II"
+    "name": "Harvest Anti-Disruptor Booster II"
   },
   "60702": {
     "groupID": 303,
@@ -125226,15 +125237,15 @@
   },
   "62517": {
     "groupID": 462,
-    "name": "Compressed Concentrated Veldspar"
+    "name": "Compressed Veldspar II-Grade"
   },
   "62518": {
     "groupID": 462,
-    "name": "Compressed Dense Veldspar"
+    "name": "Compressed Veldspar III-Grade"
   },
   "62519": {
     "groupID": 462,
-    "name": "Compressed Stable Veldspar"
+    "name": "Compressed Veldspar IV-Grade"
   },
   "62520": {
     "groupID": 460,
@@ -125242,15 +125253,15 @@
   },
   "62521": {
     "groupID": 460,
-    "name": "Compressed Condensed Scordite"
+    "name": "Compressed Scordite II-Grade"
   },
   "62522": {
     "groupID": 460,
-    "name": "Compressed Massive Scordite"
+    "name": "Compressed Scordite III-Grade"
   },
   "62523": {
     "groupID": 460,
-    "name": "Compressed Glossy Scordite"
+    "name": "Compressed Scordite IV-Grade"
   },
   "62524": {
     "groupID": 459,
@@ -125258,15 +125269,15 @@
   },
   "62525": {
     "groupID": 459,
-    "name": "Compressed Solid Pyroxeres"
+    "name": "Compressed Pyroxeres II-Grade"
   },
   "62526": {
     "groupID": 459,
-    "name": "Compressed Viscous Pyroxeres"
+    "name": "Compressed Pyroxeres III-Grade"
   },
   "62527": {
     "groupID": 459,
-    "name": "Compressed Opulent Pyroxeres"
+    "name": "Compressed Pyroxeres IV-Grade"
   },
   "62528": {
     "groupID": 458,
@@ -125274,15 +125285,15 @@
   },
   "62529": {
     "groupID": 458,
-    "name": "Compressed Azure Plagioclase"
+    "name": "Compressed Plagioclase II-Grade"
   },
   "62530": {
     "groupID": 458,
-    "name": "Compressed Rich Plagioclase"
+    "name": "Compressed Plagioclase III-Grade"
   },
   "62531": {
     "groupID": 458,
-    "name": "Compressed Sparkling Plagioclase"
+    "name": "Compressed Plagioclase IV-Grade"
   },
   "62532": {
     "groupID": 469,
@@ -125290,15 +125301,15 @@
   },
   "62533": {
     "groupID": 469,
-    "name": "Compressed Silvery Omber"
+    "name": "Compressed Omber II-Grade"
   },
   "62534": {
     "groupID": 469,
-    "name": "Compressed Golden Omber"
+    "name": "Compressed Omber III-Grade"
   },
   "62535": {
     "groupID": 469,
-    "name": "Compressed Platinoid Omber"
+    "name": "Compressed Omber IV-Grade"
   },
   "62536": {
     "groupID": 457,
@@ -125306,15 +125317,15 @@
   },
   "62537": {
     "groupID": 457,
-    "name": "Compressed Luminous Kernite"
+    "name": "Compressed Kernite II-Grade"
   },
   "62538": {
     "groupID": 457,
-    "name": "Compressed Fiery Kernite"
+    "name": "Compressed Kernite III-Grade"
   },
   "62539": {
     "groupID": 457,
-    "name": "Compressed Resplendant Kernite"
+    "name": "Compressed Kernite IV-Grade"
   },
   "62540": {
     "groupID": 456,
@@ -125322,15 +125333,15 @@
   },
   "62541": {
     "groupID": 456,
-    "name": "Compressed Pure Jaspet"
+    "name": "Compressed Jaspet II-Grade"
   },
   "62542": {
     "groupID": 456,
-    "name": "Compressed Pristine Jaspet"
+    "name": "Compressed Jaspet III-Grade"
   },
   "62543": {
     "groupID": 456,
-    "name": "Compressed Immaculate Jaspet"
+    "name": "Compressed Jaspet IV-Grade"
   },
   "62544": {
     "groupID": 455,
@@ -125338,15 +125349,15 @@
   },
   "62545": {
     "groupID": 455,
-    "name": "Compressed Vivid Hemorphite"
+    "name": "Compressed Hemorphite II-Grade"
   },
   "62546": {
     "groupID": 455,
-    "name": "Compressed Radiant Hemorphite"
+    "name": "Compressed Hemorphite III-Grade"
   },
   "62547": {
     "groupID": 455,
-    "name": "Compressed Scintillating Hemorphite"
+    "name": "Compressed Hemorphite IV-Grade"
   },
   "62548": {
     "groupID": 454,
@@ -125354,15 +125365,15 @@
   },
   "62549": {
     "groupID": 454,
-    "name": "Compressed Vitric Hedbergite"
+    "name": "Compressed Hedbergite II-Grade"
   },
   "62550": {
     "groupID": 454,
-    "name": "Compressed Glazed Hedbergite"
+    "name": "Compressed Hedbergite III-Grade"
   },
   "62551": {
     "groupID": 454,
-    "name": "Compressed Lustrous Hedbergite"
+    "name": "Compressed Hedbergite IV-Grade"
   },
   "62552": {
     "groupID": 467,
@@ -125370,15 +125381,15 @@
   },
   "62553": {
     "groupID": 467,
-    "name": "Compressed Iridescent Gneiss"
+    "name": "Compressed Gneiss II-Grade"
   },
   "62554": {
     "groupID": 467,
-    "name": "Compressed Prismatic Gneiss"
+    "name": "Compressed Gneiss III-Grade"
   },
   "62555": {
     "groupID": 467,
-    "name": "Compressed Brilliant Gneiss"
+    "name": "Compressed Gneiss IV-Grade"
   },
   "62556": {
     "groupID": 453,
@@ -125386,15 +125397,15 @@
   },
   "62557": {
     "groupID": 453,
-    "name": "Compressed Onyx Ochre"
+    "name": "Compressed Dark Ochre II-Grade"
   },
   "62558": {
     "groupID": 453,
-    "name": "Compressed Obsidian Ochre"
+    "name": "Compressed Dark Ochre III-Grade"
   },
   "62559": {
     "groupID": 453,
-    "name": "Compressed Jet Ochre"
+    "name": "Compressed Dark Ochre IV-Grade"
   },
   "62560": {
     "groupID": 452,
@@ -125402,15 +125413,15 @@
   },
   "62561": {
     "groupID": 452,
-    "name": "Compressed Sharp Crokite"
+    "name": "Compressed Crokite II-Grade"
   },
   "62562": {
     "groupID": 452,
-    "name": "Compressed Crystalline Crokite"
+    "name": "Compressed Crokite III-Grade"
   },
   "62563": {
     "groupID": 452,
-    "name": "Compressed Pellucid Crokite"
+    "name": "Compressed  Crokite IV-Grade"
   },
   "62564": {
     "groupID": 451,
@@ -125418,15 +125429,15 @@
   },
   "62565": {
     "groupID": 451,
-    "name": "Compressed Triclinic Bistot"
+    "name": "Compressed Bistot II-Grade"
   },
   "62566": {
     "groupID": 451,
-    "name": "Compressed Monoclinic Bistot"
+    "name": "Compressed Bistot III-Grade"
   },
   "62567": {
     "groupID": 451,
-    "name": "Compressed Cubic Bistot"
+    "name": "Compressed Bistot IV-Grade"
   },
   "62568": {
     "groupID": 450,
@@ -125434,15 +125445,15 @@
   },
   "62569": {
     "groupID": 450,
-    "name": "Compressed Crimson Arkonor"
+    "name": "Compressed Arkonor II-Grade"
   },
   "62570": {
     "groupID": 450,
-    "name": "Compressed Prime Arkonor"
+    "name": "Compressed Arkonor III-Grade"
   },
   "62571": {
     "groupID": 450,
-    "name": "Compressed Flawless Arkonor"
+    "name": "Compressed Arkonor IV-Grade"
   },
   "62572": {
     "groupID": 461,
@@ -125450,15 +125461,15 @@
   },
   "62573": {
     "groupID": 461,
-    "name": "Compressed Bright Spodumain"
+    "name": "Compressed Spodumain II-Grade"
   },
   "62574": {
     "groupID": 461,
-    "name": "Compressed Gleaming Spodumain"
+    "name": "Compressed Spodumain III-Grade"
   },
   "62575": {
     "groupID": 461,
-    "name": "Compressed Dazzling Spodumain"
+    "name": "Compressed Spodumain IV-Grade"
   },
   "62576": {
     "groupID": 4031,
@@ -125466,11 +125477,11 @@
   },
   "62577": {
     "groupID": 4031,
-    "name": "Compressed Abyssal Bezdnacine"
+    "name": "Compressed Bezdnacine II-Grade"
   },
   "62578": {
     "groupID": 4031,
-    "name": "Compressed Hadal Bezdnacine"
+    "name": "Compressed Bezdnacine III-Grade"
   },
   "62579": {
     "groupID": 4030,
@@ -125478,11 +125489,11 @@
   },
   "62580": {
     "groupID": 4030,
-    "name": "Compressed Abyssal Rakovene"
+    "name": "Compressed Rakovene II-Grade"
   },
   "62581": {
     "groupID": 4030,
-    "name": "Compressed Hadal Rakovene"
+    "name": "Compressed Rakovene III-Grade"
   },
   "62582": {
     "groupID": 4029,
@@ -125490,11 +125501,11 @@
   },
   "62583": {
     "groupID": 4029,
-    "name": "Compressed Abyssal Talassonite"
+    "name": "Compressed Talassonite II-Grade"
   },
   "62584": {
     "groupID": 4029,
-    "name": "Compressed Hadal Talassonite"
+    "name": "Compressed Talassonite III-Grade"
   },
   "62586": {
     "groupID": 468,
@@ -125502,11 +125513,11 @@
   },
   "62587": {
     "groupID": 468,
-    "name": "Compressed Magma Mercoxit"
+    "name": "Compressed Mercoxit II-Grade"
   },
   "62588": {
     "groupID": 468,
-    "name": "Compressed Vitreous Mercoxit"
+    "name": "Compressed Mercoxit III-Grade"
   },
   "62589": {
     "groupID": 4174,
@@ -134183,7 +134194,7 @@
     "name": "QA Survey Scanner"
   },
   "74256": {
-    "groupID": 353,
+    "groupID": 54,
     "metaGroupID": 1,
     "name": "QA Miner"
   },
@@ -134307,15 +134318,15 @@
   },
   "74522": {
     "groupID": 4513,
-    "name": "Plum Mordunium"
+    "name": "Mordunium II-Grade"
   },
   "74523": {
     "groupID": 4513,
-    "name": "Prize Mordunium"
+    "name": "Mordunium III-Grade"
   },
   "74524": {
     "groupID": 4513,
-    "name": "Plunder Mordunium"
+    "name": "Mordunium IV-Grade"
   },
   "74525": {
     "groupID": 4514,
@@ -134323,15 +134334,15 @@
   },
   "74526": {
     "groupID": 4514,
-    "name": "Bootleg Ytirium"
+    "name": "Ytirium II-Grade"
   },
   "74527": {
     "groupID": 4514,
-    "name": "Firewater Ytirium"
+    "name": "Ytirium III-Grade"
   },
   "74528": {
     "groupID": 4514,
-    "name": "Moonshine Ytirium"
+    "name": "Ytirium IV-Grade"
   },
   "74529": {
     "groupID": 4515,
@@ -134339,15 +134350,15 @@
   },
   "74530": {
     "groupID": 4515,
-    "name": "Doped Eifyrium"
+    "name": "Eifyrium II-Grade"
   },
   "74531": {
     "groupID": 4515,
-    "name": "Boosted Eifyrium"
+    "name": "Eifyrium III-Grade"
   },
   "74532": {
     "groupID": 4515,
-    "name": "Augmented Eifyrium"
+    "name": "Eifyrium IV-Grade"
   },
   "74533": {
     "groupID": 4516,
@@ -134355,15 +134366,15 @@
   },
   "74534": {
     "groupID": 4516,
-    "name": "Noble Ducinium"
+    "name": "Ducinium II-Grade"
   },
   "74535": {
     "groupID": 4516,
-    "name": "Royal Ducinium"
+    "name": "Ducinium III-Grade"
   },
   "74536": {
     "groupID": 4516,
-    "name": "Imperial Ducinium"
+    "name": "Ducinium IV-Grade"
   },
   "74686": {
     "groupID": 1975,
@@ -135871,15 +135882,15 @@
   },
   "75276": {
     "groupID": 4513,
-    "name": "Compressed Plum Mordunium"
+    "name": "Compressed Mordunium II-Grade"
   },
   "75277": {
     "groupID": 4513,
-    "name": "Compressed Prize Mordunium"
+    "name": "Compressed Mordunium III-Grade"
   },
   "75278": {
     "groupID": 4513,
-    "name": "Compressed Plunder Mordunium"
+    "name": "Compressed  Mordunium IV-Grade"
   },
   "75279": {
     "groupID": 4514,
@@ -135887,15 +135898,15 @@
   },
   "75280": {
     "groupID": 4514,
-    "name": "Compressed Bootleg Ytirium"
+    "name": "Compressed Ytirium II-Grade"
   },
   "75281": {
     "groupID": 4514,
-    "name": "Compressed Firewater Ytirium"
+    "name": "Compressed Ytirium III-Grade"
   },
   "75282": {
     "groupID": 4514,
-    "name": "Compressed Moonshine Ytirium"
+    "name": "Compressed Ytirium IV-Grade"
   },
   "75283": {
     "groupID": 4515,
@@ -135903,15 +135914,15 @@
   },
   "75284": {
     "groupID": 4515,
-    "name": "Compressed Doped Eifyrium"
+    "name": "Compressed Eifyrium II-Grade"
   },
   "75285": {
     "groupID": 4515,
-    "name": "Compressed Boosted Eifyrium"
+    "name": "Compressed Eifyrium III-Grade"
   },
   "75286": {
     "groupID": 4515,
-    "name": "Compressed Augmented Eifyrium"
+    "name": "Compressed Eifyrium IV-Grade"
   },
   "75287": {
     "groupID": 4516,
@@ -135919,15 +135930,15 @@
   },
   "75288": {
     "groupID": 4516,
-    "name": "Compressed Noble Ducinium"
+    "name": "Compressed Ducinium II-Grade"
   },
   "75289": {
     "groupID": 4516,
-    "name": "Compressed Royal Ducinium"
+    "name": "Compressed Ducinium III-Grade"
   },
   "75290": {
     "groupID": 4516,
-    "name": "Compressed Imperial Ducinium"
+    "name": "Compressed Ducinium IV-Grade"
   },
   "75292": {
     "groupID": 227,
@@ -135946,8 +135957,8 @@
     "name": "Invisible Cloud Minmatar HQ System (DO NOT TRANSLATE)"
   },
   "75321": {
-    "groupID": 310,
-    "name": "Asteroid Belt"
+    "groupID": 4930,
+    "name": "Managed Asteroid Belt"
   },
   "75326": {
     "groupID": 303,
@@ -136241,19 +136252,19 @@
     "name": "QA underConstruction LCO completed (DO NOT TRANSLATE)"
   },
   "75987": {
-    "groupID": 310,
+    "groupID": 4937,
     "name": "Empire Border Rare Asteroids"
   },
   "75988": {
-    "groupID": 310,
+    "groupID": 4937,
     "name": "W-Space Blue A0 Rare Asteroids"
   },
   "75989": {
-    "groupID": 310,
+    "groupID": 4937,
     "name": "Nullsec Border Rare Asteroids"
   },
   "75990": {
-    "groupID": 310,
+    "groupID": 4937,
     "name": "Nullsec Blue A0 Rare Asteroids"
   },
   "75991": {
@@ -139676,7 +139687,7 @@
   },
   "77527": {
     "groupID": 4569,
-    "name": "Focused Sanguinary Crucifier "
+    "name": "Focused Sanguinary Crucifier"
   },
   "77528": {
     "groupID": 4571,
@@ -140431,7 +140442,7 @@
   },
   "77742": {
     "groupID": 186,
-    "name": "Ashes Sympathizer's Clan Commons Wreck "
+    "name": "Ashes Sympathizer's Clan Commons Wreck"
   },
   "77754": {
     "groupID": 227,
@@ -140636,7 +140647,7 @@
   },
   "77983": {
     "groupID": 1975,
-    "name": "Tranquility Trading Tower Wreck "
+    "name": "Tranquility Trading Tower Wreck"
   },
   "77984": {
     "groupID": 310,
@@ -142087,12 +142098,12 @@
   "78652": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Expired Wightstorm Cetana Booster I "
+    "name": "Expired Wightstorm Cetana Booster I"
   },
   "78653": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Expired Wightstorm Cetana Booster II "
+    "name": "Expired Wightstorm Cetana Booster II"
   },
   "78655": {
     "groupID": 303,
@@ -142177,7 +142188,7 @@
   "78740": {
     "groupID": 4067,
     "metaGroupID": 4,
-    "name": "Consortium Vorton Tuning system"
+    "name": "Consortium Vorton Tuning System"
   },
   "78741": {
     "groupID": 4067,
@@ -142714,7 +142725,7 @@
   },
   "79336": {
     "groupID": 4055,
-    "name": " Insurgency Angel Roaming Spawner - ST3 - DO NOT TRANSLATE"
+    "name": "Insurgency Angel Roaming Spawner - ST3 - DO NOT TRANSLATE"
   },
   "79337": {
     "groupID": 4055,
@@ -142986,7 +142997,7 @@
   },
   "79412": {
     "groupID": 186,
-    "name": "Upwell Large Wreck "
+    "name": "Upwell Large Wreck"
   },
   "79414": {
     "groupID": 4647,
@@ -143578,7 +143589,7 @@
   "79601": {
     "groupID": 4651,
     "metaGroupID": 4,
-    "name": "Guristas Ransomer Rattlesnake "
+    "name": "Guristas Ransomer Rattlesnake"
   },
   "79606": {
     "groupID": 227,
@@ -143791,11 +143802,11 @@
   },
   "79860": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Angel Spawner 1 (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Angel Spawner 1 (DO NOT TRANSLATE)"
   },
   "79861": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Guristas Spawner 1 (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Guristas Spawner 1 (DO NOT TRANSLATE)"
   },
   "79862": {
     "groupID": 4649,
@@ -143904,7 +143915,7 @@
   },
   "79981": {
     "groupID": 4648,
-    "name": "Angel Icejacker Mekubal "
+    "name": "Angel Icejacker Mekubal"
   },
   "79982": {
     "groupID": 4648,
@@ -144135,11 +144146,11 @@
   },
   "80055": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Angel Spawner 2 (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Angel Spawner 2 (DO NOT TRANSLATE)"
   },
   "80057": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Guristas Spawner 2 (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Guristas Spawner 2 (DO NOT TRANSLATE)"
   },
   "80060": {
     "groupID": 227,
@@ -144147,11 +144158,11 @@
   },
   "80061": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Angel Rally Defender Spawner (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Angel Rally Defender Spawner (DO NOT TRANSLATE)"
   },
   "80063": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Guristas Rally Defender Spawner (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Guristas Rally Defender Spawner (DO NOT TRANSLATE)"
   },
   "80089": {
     "groupID": 1975,
@@ -144199,11 +144210,11 @@
   },
   "80124": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Angel Defensive Tackle Spawner (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Angel Defensive Tackle Spawner (DO NOT TRANSLATE)"
   },
   "80125": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Guristas Defensive Tackle Spawner (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Guristas Defensive Tackle Spawner (DO NOT TRANSLATE)"
   },
   "80126": {
     "groupID": 227,
@@ -144211,11 +144222,11 @@
   },
   "80127": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Angel Antiplayer Spawner (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Angel Antiplayer Spawner (DO NOT TRANSLATE)"
   },
   "80128": {
     "groupID": 227,
-    "name": " Insurgency Ice Heist - Guristas Antiplayer Spawner (DO NOT TRANSLATE)"
+    "name": "Insurgency Ice Heist - Guristas Antiplayer Spawner (DO NOT TRANSLATE)"
   },
   "80131": {
     "groupID": 1975,
@@ -144327,11 +144338,11 @@
   },
   "80281": {
     "groupID": 4648,
-    "name": "Angel Icejacker Mekubal "
+    "name": "Angel Icejacker Mekubal"
   },
   "80282": {
     "groupID": 4648,
-    "name": "Angel Icejacker Mekubal "
+    "name": "Angel Icejacker Mekubal"
   },
   "80283": {
     "groupID": 4648,
@@ -145553,7 +145564,7 @@
   },
   "81305": {
     "groupID": 227,
-    "name": "CD Sleeper Drone Spawner 4 "
+    "name": "CD Sleeper Drone Spawner 4"
   },
   "81306": {
     "groupID": 1982,
@@ -145637,7 +145648,7 @@
   },
   "81352": {
     "groupID": 4575,
-    "name": "Encrypted ‘Istina’ Data"
+    "name": "Encrypted 'Istina' Data"
   },
   "81363": {
     "groupID": 4734,
@@ -145933,15 +145944,15 @@
   },
   "81901": {
     "groupID": 4755,
-    "name": "Kaolin Kylixium"
+    "name": "Kylixium II-Grade"
   },
   "81902": {
     "groupID": 4755,
-    "name": "Argil Kylixium"
+    "name": "Kylixium III-Grade"
   },
   "81903": {
     "groupID": 4755,
-    "name": "Adobe Kylixium"
+    "name": "Kylixium IV-Grade"
   },
   "81920": {
     "groupID": 4086,
@@ -146024,15 +146035,15 @@
   },
   "81976": {
     "groupID": 4759,
-    "name": "Clear Griemeer"
+    "name": "Griemeer II-Grade"
   },
   "81977": {
     "groupID": 4759,
-    "name": "Inky Griemeer"
+    "name": "Griemeer III-Grade"
   },
   "81978": {
     "groupID": 4759,
-    "name": "Opaque Griemeer"
+    "name": "Griemeer IV-Grade"
   },
   "82012": {
     "groupID": 227,
@@ -146048,15 +146059,15 @@
   },
   "82017": {
     "groupID": 4756,
-    "name": "Fragrant Nocxite"
+    "name": "Nocxite II-Grade"
   },
   "82018": {
     "groupID": 4756,
-    "name": "Intoxicating Nocxite"
+    "name": "Nocxite III-Grade"
   },
   "82019": {
     "groupID": 4756,
-    "name": "Ambrosial Nocxite"
+    "name": "Nocxite IV-Grade"
   },
   "82040": {
     "groupID": 1090,
@@ -146106,15 +146117,15 @@
   },
   "82164": {
     "groupID": 4758,
-    "name": "Dull Hezorime"
+    "name": "Hezorime II-Grade"
   },
   "82165": {
     "groupID": 4758,
-    "name": "Serrated Hezorime"
+    "name": "Hezorime III-Grade"
   },
   "82166": {
     "groupID": 4758,
-    "name": "Sharp Hezorime"
+    "name": "Hezorime IV-Grade"
   },
   "82205": {
     "groupID": 4757,
@@ -146122,15 +146133,15 @@
   },
   "82206": {
     "groupID": 4757,
-    "name": "Foggy Ueganite"
+    "name": "Ueganite II-Grade"
   },
   "82207": {
     "groupID": 4757,
-    "name": "Overcast Ueganite"
+    "name": "Ueganite III-Grade"
   },
   "82208": {
     "groupID": 4757,
-    "name": "Stormy Ueganite"
+    "name": "Ueganite IV-Grade"
   },
   "82300": {
     "groupID": 4755,
@@ -146138,15 +146149,15 @@
   },
   "82301": {
     "groupID": 4755,
-    "name": "Compressed Kaolin Kylixium"
+    "name": "Compressed Kylixium II-Grade"
   },
   "82302": {
     "groupID": 4755,
-    "name": "Compressed Argil Kylixium"
+    "name": "Compressed Kylixium III-Grade"
   },
   "82303": {
     "groupID": 4755,
-    "name": "Compressed Adobe Kylixium"
+    "name": "Compressed Kylixium IV-Grade"
   },
   "82304": {
     "groupID": 4756,
@@ -146154,15 +146165,15 @@
   },
   "82305": {
     "groupID": 4756,
-    "name": "Compressed Fragrant Nocxite"
+    "name": "Compressed Nocxite II-Grade"
   },
   "82306": {
     "groupID": 4756,
-    "name": "Compressed Intoxicating Nocxite"
+    "name": "Compressed Nocxite III-Grade"
   },
   "82307": {
     "groupID": 4756,
-    "name": "Compressed Ambrosial Nocxite"
+    "name": "Compressed Nocxite IV-Grade"
   },
   "82308": {
     "groupID": 4757,
@@ -146170,15 +146181,15 @@
   },
   "82309": {
     "groupID": 4757,
-    "name": "Compressed Foggy Ueganite"
+    "name": "Compressed Ueganite II-Grade"
   },
   "82310": {
     "groupID": 4757,
-    "name": "Compressed Overcast Ueganite"
+    "name": "Compressed Ueganite III-Grade"
   },
   "82311": {
     "groupID": 4757,
-    "name": "Compressed Stormy Ueganite"
+    "name": "Compressed Ueganite IV-Grade"
   },
   "82312": {
     "groupID": 4758,
@@ -146186,15 +146197,15 @@
   },
   "82313": {
     "groupID": 4758,
-    "name": "Compressed Dull Hezorime"
+    "name": "Compressed Hezorime II-Grade"
   },
   "82314": {
     "groupID": 4758,
-    "name": "Compressed Serrated Hezorime"
+    "name": "Compressed Hezorime III-Grade"
   },
   "82315": {
     "groupID": 4758,
-    "name": "Compressed Sharp Hezorime"
+    "name": "Compressed Hezorime IV-Grade"
   },
   "82316": {
     "groupID": 4759,
@@ -146202,15 +146213,15 @@
   },
   "82317": {
     "groupID": 4759,
-    "name": "Compressed Clear Griemeer"
+    "name": "Compressed Griemeer II-Grade"
   },
   "82318": {
     "groupID": 4759,
-    "name": "Compressed Inky Griemeer"
+    "name": "Compressed Griemeer III-Grade"
   },
   "82319": {
     "groupID": 4759,
-    "name": "Compressed Opaque Griemeer"
+    "name": "Compressed Griemeer IV-Grade"
   },
   "82340": {
     "groupID": 4726,
@@ -148425,7 +148436,7 @@
   "84305": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Expired Harvest Webifier Booster I"
+    "name": "Harvest Webifier Booster I"
   },
   "84306": {
     "groupID": 303,
@@ -148792,7 +148803,7 @@
   },
   "84473": {
     "groupID": 1664,
-    "name": "Corrupted Muraenidae "
+    "name": "Corrupted Muraenidae"
   },
   "84474": {
     "groupID": 1194,
@@ -148804,11 +148815,11 @@
   },
   "84482": {
     "groupID": 474,
-    "name": "Tetrimon Base Shortcut Keypass"
+    "name": "Expired Tetrimon Base Shortcut Keypass"
   },
   "84483": {
     "groupID": 474,
-    "name": "Crimson Gauntlet Shortcut Keypass"
+    "name": "Expired Crimson Gauntlet Shortcut Keypass"
   },
   "84495": {
     "groupID": 72,
@@ -150395,7 +150406,7 @@
   "85264": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Expired Wightstorm Cetana Booster I "
+    "name": "Expired Wightstorm Cetana Booster I"
   },
   "85265": {
     "groupID": 303,
@@ -153329,7 +153340,7 @@
   },
   "87141": {
     "groupID": 227,
-    "name": "Drifter Crisis - Tekton Spawner (DO NOT TRANSLATE) "
+    "name": "Drifter Crisis - Tekton Spawner (DO NOT TRANSLATE)"
   },
   "87164": {
     "groupID": 920,
@@ -153369,7 +153380,7 @@
   },
   "87179": {
     "groupID": 474,
-    "name": "Observatory Resonance Key"
+    "name": "Obsolete Observatory Resonance Key"
   },
   "87207": {
     "groupID": 1194,
@@ -153758,8 +153769,25 @@
     "groupID": 314,
     "name": "Reconstructed Spectral Vision Matar"
   },
+  "87377": {
+    "groupID": 227,
+    "name": "Incipient Drone Swarm - Enemy Spawner - Easy (DO NOT TRANSLATE)"
+  },
+  "87378": {
+    "groupID": 227,
+    "name": "Convocation Watchpost - Enemy Spawner - Easy (DO NOT TRANSLATE)"
+  },
+  "87379": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Easy - Amarr (DO NOT TRANSLATE)"
+  },
+  "87380": {
+    "groupID": 227,
+    "name": "Torpid Sleeper Hive - Enemy Spawner - Easy (DO NOT TRANSLATE)"
+  },
   "87381": {
     "groupID": 485,
+    "metaGroupID": 4,
     "name": "Sarathiel"
   },
   "87382": {
@@ -153795,9 +153823,37 @@
     "groupID": 314,
     "name": "Reconstructed Spectral Vision Jita"
   },
+  "87394": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Easy - Caldari (DO NOT TRANSLATE)"
+  },
+  "87395": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Easy - Gallente (DO NOT TRANSLATE)"
+  },
+  "87396": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Easy - Minmatar (DO NOT TRANSLATE)"
+  },
   "87397": {
     "groupID": 1667,
     "name": "Utopian Sagaris"
+  },
+  "87418": {
+    "groupID": 306,
+    "name": "Infested Array"
+  },
+  "87419": {
+    "groupID": 306,
+    "name": "Topographer Array"
+  },
+  "87420": {
+    "groupID": 306,
+    "name": "Watcher Array"
+  },
+  "87421": {
+    "groupID": 306,
+    "name": "Surveilance Array"
   },
   "87430": {
     "groupID": 1194,
@@ -153972,32 +154028,32 @@
   "87574": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Basic Capsuleer Day XXII Cerebral Accelerator"
+    "name": "Expired Basic Capsuleer Day XXII Cerebral Accelerator"
   },
   "87575": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Extended Capsuleer Day XXII Cerebral Accelerator"
+    "name": "Expired Extended Capsuleer Day XXII Cerebral Accelerator"
   },
   "87576": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Potent Capsuleer Day XXII Cerebral Accelerator"
+    "name": "Expired Potent Capsuleer Day XXII Cerebral Accelerator"
   },
   "87577": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Basic Capsuleer Day XXII Glamourex Booster"
+    "name": "Expired Basic Capsuleer Day XXII Glamourex Booster"
   },
   "87578": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Extended Capsuleer Day XXII Glamourex Booster"
+    "name": "Expired Extended Capsuleer Day XXII Glamourex Booster"
   },
   "87579": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Potent Capsuleer Day XXII Glamourex Booster"
+    "name": "Expired Potent Capsuleer Day XXII Glamourex Booster"
   },
   "87593": {
     "groupID": 1975,
@@ -154342,7 +154398,7 @@
   },
   "87831": {
     "groupID": 4726,
-    "name": " Tyrant Blue Satin - Limited"
+    "name": "Tyrant Blue Satin - Limited"
   },
   "87832": {
     "groupID": 4726,
@@ -154399,102 +154455,102 @@
   "87854": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Oxybeles Turret Booster I"
+    "name": "Expired Oxybeles Turret Booster I"
   },
   "87855": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Oxybeles Turret Booster II"
+    "name": "Expired Oxybeles Turret Booster II"
   },
   "87856": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Oxybeles Turret Booster III"
+    "name": "Expired Oxybeles Turret Booster III"
   },
   "87857": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Eidolon Missile Booster I"
+    "name": "Expired Eidolon Missile Booster I"
   },
   "87870": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Eidolon Missile Booster II"
+    "name": "Expired Eidolon Missile Booster II"
   },
   "87871": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Eidolon Missile Booster III"
+    "name": "Expired Eidolon Missile Booster III"
   },
   "87872": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Calyx Repair Booster I"
+    "name": "Expired Calyx Repair Booster I"
   },
   "87873": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Calyx Repair Booster II"
+    "name": "Expired Calyx Repair Booster II"
   },
   "87874": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Calyx Repair Booster III"
+    "name": "Expired Calyx Repair Booster III"
   },
   "87875": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Asclepius Remote Repair Booster I"
+    "name": "Expired Asclepius Remote Repair Booster I"
   },
   "87876": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Asclepius Remote Repair Booster II"
+    "name": "Expired Asclepius Remote Repair Booster II"
   },
   "87877": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Asclepius Remote Repair Booster III"
+    "name": "Expired Asclepius Remote Repair Booster III"
   },
   "87878": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Phylax Armor Booster I"
+    "name": "Expired Phylax Armor Booster I"
   },
   "87879": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Phylax Armor Booster II"
+    "name": "Expired Phylax Armor Booster II"
   },
   "87880": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Phylax Armor Booster III"
+    "name": "Expired Phylax Armor Booster III"
   },
   "87881": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Pelte Shield Booster I"
+    "name": "Expired Pelte Shield Booster I"
   },
   "87882": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Pelte Shield Booster II"
+    "name": "Expired Pelte Shield Booster II"
   },
   "87883": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Pelte Shield Booster III"
+    "name": "Expired Pelte Shield Booster III"
   },
   "87884": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Nocturne Anti-Drain Booster I"
+    "name": "Expired Nocturne Anti-Drain Booster I"
   },
   "87885": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Nocturne Anti-Drain Booster II"
+    "name": "Expired Nocturne Anti-Drain Booster II"
   },
   "87886": {
     "groupID": 303,
@@ -154504,64 +154560,64 @@
   "87887": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Nocturne Anti-Drain Booster III"
+    "name": "Expired Nocturne Anti-Drain Booster III"
   },
   "87888": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Kausis Capacitor Booster I"
+    "name": "Expired Kausis Capacitor Booster I"
   },
   "87889": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Kausis Capacitor Booster II"
+    "name": "Expired Kausis Capacitor Booster II"
   },
   "87890": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Kausis Capacitor Booster III"
+    "name": "Expired Kausis Capacitor Booster III"
   },
   "87891": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Mnemon Relic Coherence Booster I"
+    "name": "Expired Mnemon Relic Coherence Booster I"
   },
   "87892": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Mnemon Relic Coherence Booster II"
+    "name": "Expired Mnemon Relic Coherence Booster II"
   },
   "87893": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Mnemon Relic Coherence Booster III"
+    "name": "Expired Mnemon Relic Coherence Booster III"
   },
   "87894": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Palimpsest Relic Strength Booster II"
+    "name": "Expired Palimpsest Relic Strength Booster II"
   },
   "87895": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Palimpsest Relic Strength Booster III"
+    "name": "Expired Palimpsest Relic Strength Booster III"
   },
   "87896": {
     "groupID": 303,
-    "name": "Lithos Mining Booster I"
+    "name": "Expired Lithos Mining Booster I"
   },
   "87897": {
     "groupID": 303,
-    "name": "Lithos Mining Booster II"
+    "name": "Expired Lithos Mining Booster II"
   },
   "87898": {
     "groupID": 303,
-    "name": "Lithos Mining Booster III"
+    "name": "Expired Lithos Mining Booster III"
   },
   "87899": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Palimpsest Relic Strength Booster I"
+    "name": "Expired Palimpsest Relic Strength Booster I"
   },
   "87900": {
     "groupID": 1194,
@@ -154877,72 +154933,72 @@
   },
   "88135": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Wedge Alpha Blueprint"
   },
   "88136": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Wedge Beta Blueprint"
   },
   "88137": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Wedge Gamma Blueprint"
   },
   "88138": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Wedge Delta Blueprint"
   },
   "88139": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Wedge Epsilon Blueprint"
   },
   "88140": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Low-grade Wedge Omega Blueprint"
   },
   "88141": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Wedge Alpha Blueprint"
   },
   "88142": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Wedge Beta Blueprint"
   },
   "88143": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Wedge Gamma Blueprint"
   },
   "88144": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Wedge Delta Blueprint"
   },
   "88145": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Wedge Epsilon Blueprint"
   },
   "88146": {
     "groupID": 724,
-    "metaGroupID": 2,
+    "metaGroupID": 4,
     "name": "Mid-grade Wedge Omega Blueprint"
   },
   "88147": {
     "groupID": 1238,
     "metaGroupID": 4,
-    "name": "Triplot Scan Acqusition Array"
+    "name": "Triplot Scan Acquisition Array"
   },
   "88148": {
     "groupID": 1239,
-    "name": "Triplot Scan Acqusition Array Blueprint"
+    "name": "Triplot Scan Acquisition Array Blueprint"
   },
   "88149": {
     "groupID": 227,
@@ -155250,32 +155306,32 @@
   "88268": {
     "groupID": 1197,
     "metaGroupID": 1,
-    "name": "Narrowband Emission Amplifier Blueprint "
+    "name": "Narrowband Emission Amplifier Blueprint"
   },
   "88269": {
     "groupID": 1197,
     "metaGroupID": 1,
-    "name": "Narrowband Emission Limiter Blueprint "
+    "name": "Narrowband Emission Limiter Blueprint"
   },
   "88270": {
     "groupID": 1197,
     "metaGroupID": 1,
-    "name": "Midband Emission Amplifier Blueprint "
+    "name": "Midband Emission Amplifier Blueprint"
   },
   "88271": {
     "groupID": 1197,
     "metaGroupID": 1,
-    "name": "Midband Emission Limiter Blueprint "
+    "name": "Midband Emission Limiter Blueprint"
   },
   "88272": {
     "groupID": 1197,
     "metaGroupID": 1,
-    "name": "Wideband Emission Amplifier Blueprint "
+    "name": "Wideband Emission Amplifier Blueprint"
   },
   "88273": {
     "groupID": 1197,
     "metaGroupID": 1,
-    "name": "Wideband Emission Limiter Blueprint "
+    "name": "Wideband Emission Limiter Blueprint"
   },
   "88275": {
     "groupID": 186,
@@ -155336,27 +155392,27 @@
   "88350": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Aegytica Volatile Booster"
+    "name": "Expired Aegytica Volatile Booster"
   },
   "88351": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Vis Vitalis Volatile Booster"
+    "name": "Expired Vis Vitalis Volatile Booster"
   },
   "88352": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Balneum Volatile Booster"
+    "name": "Expired Balneum Volatile Booster"
   },
   "88353": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Theriac Volatile Booster"
+    "name": "Expired Theriac Volatile Booster"
   },
   "88354": {
     "groupID": 303,
     "metaGroupID": 19,
-    "name": "Mithridate Volatile Booster"
+    "name": "Expired Mithridate Volatile Booster"
   },
   "88355": {
     "groupID": 1975,
@@ -155704,7 +155760,7 @@
   },
   "88563": {
     "groupID": 227,
-    "name": "Maze - Wrath of Tyrannos Trader Spawner (DO NOT TRANSLATE) "
+    "name": "Maze - Wrath of Tyrannos Trader Spawner (DO NOT TRANSLATE)"
   },
   "88567": {
     "groupID": 319,
@@ -156371,5 +156427,2376 @@
   "88856": {
     "groupID": 4091,
     "name": "Kikimora Pilot"
+  },
+  "89124": {
+    "groupID": 1194,
+    "name": "Heron Crate"
+  },
+  "89125": {
+    "groupID": 1194,
+    "name": "Magnate Crate"
+  },
+  "89126": {
+    "groupID": 1194,
+    "name": "Imicus Crate"
+  },
+  "89127": {
+    "groupID": 1194,
+    "name": "Probe Crate"
+  },
+  "89129": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Medium Spawner (DO NOT TRANSLATE)"
+  },
+  "89132": {
+    "groupID": 1761,
+    "name": "Relentless Venture"
+  },
+  "89133": {
+    "groupID": 1568,
+    "name": "Stalking Garmur"
+  },
+  "89134": {
+    "groupID": 227,
+    "name": "Crimson Harvest Special Zombie Medium Spawner (DO NOT TRANSLATE)"
+  },
+  "89135": {
+    "groupID": 1568,
+    "name": "Enraged Garmur"
+  },
+  "89140": {
+    "groupID": 1895,
+    "name": "Nullprime Squall"
+  },
+  "89141": {
+    "groupID": 227,
+    "name": "Crimson Harvest Boss Zombie Medium Spawner (DO NOT TRANSLATE)"
+  },
+  "89156": {
+    "groupID": 474,
+    "name": "Vigilance Resonance Key"
+  },
+  "89193": {
+    "groupID": 310,
+    "name": "Scout Advanced Military Beacon"
+  },
+  "89217": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Easy Final Spawner (DO NOT TRANSLATE)"
+  },
+  "89218": {
+    "groupID": 227,
+    "name": "Crimson Harvest Grabber/spitter Zombie Easy Final Spawner (DO NOT TRANSLATE)"
+  },
+  "89219": {
+    "groupID": 4900,
+    "name": "Stability Telemetry"
+  },
+  "89220": {
+    "groupID": 1665,
+    "name": "Formidable Orthrus"
+  },
+  "89221": {
+    "groupID": 1568,
+    "name": "Ravenous Garmur"
+  },
+  "89222": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Brute Medium Spawner (DO NOT TRANSLATE)"
+  },
+  "89240": {
+    "groupID": 420,
+    "metaGroupID": 1,
+    "name": "Pioneer"
+  },
+  "89241": {
+    "groupID": 257,
+    "name": "Mining Destroyer"
+  },
+  "89242": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Easy Spawner 3WAVE (DO NOT TRANSLATE)"
+  },
+  "89243": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Easy Spawner 5WAVE (DO NOT TRANSLATE)"
+  },
+  "89261": {
+    "groupID": 4726,
+    "name": "Hyper-Palm Frond Gloss - Limited"
+  },
+  "89262": {
+    "groupID": 4726,
+    "name": "Magenta Impulse Satin - Limited"
+  },
+  "89263": {
+    "groupID": 4726,
+    "name": "Sleeper Sand Matte - Limited"
+  },
+  "89264": {
+    "groupID": 4726,
+    "name": "Sunken Plating Metallic - Limited"
+  },
+  "89265": {
+    "groupID": 4726,
+    "name": "Starburned Bronze Metallic - Limited"
+  },
+  "89266": {
+    "groupID": 4726,
+    "name": "Stellar Interference - Limited"
+  },
+  "89267": {
+    "groupID": 4726,
+    "name": "Metaliminal Typhoon - Limited"
+  },
+  "89268": {
+    "groupID": 4726,
+    "name": "Hyperlane Weave - Limited"
+  },
+  "89327": {
+    "groupID": 4726,
+    "name": "Emerald Sunset Gloss - Limited"
+  },
+  "89328": {
+    "groupID": 1194,
+    "name": "Solar Fest Crate"
+  },
+  "89360": {
+    "groupID": 319,
+    "name": "Cognitive Calibration Spire"
+  },
+  "89394": {
+    "groupID": 226,
+    "name": "1-st Innominate Palace Landmark"
+  },
+  "89395": {
+    "groupID": 310,
+    "name": "1-st Innominate Palace Landmark"
+  },
+  "89452": {
+    "groupID": 1566,
+    "name": "Automated Extraction Shuttle"
+  },
+  "89454": {
+    "groupID": 227,
+    "name": "Crimson Harvest LootGoblin Mid Spawner (DO NOT TRANSLATE)"
+  },
+  "89485": {
+    "groupID": 487,
+    "name": "Pioneer Blueprint"
+  },
+  "89487": {
+    "groupID": 4471,
+    "name": "Pioneer Corporation Emblem"
+  },
+  "89488": {
+    "groupID": 4471,
+    "name": "Pioneer Alliance Emblem"
+  },
+  "89489": {
+    "groupID": 1667,
+    "name": "Tetrimon Captain"
+  },
+  "89490": {
+    "groupID": 1667,
+    "name": "Harvest Controller"
+  },
+  "89491": {
+    "groupID": 227,
+    "name": "CH Blood Raiders EZ Escalation Boss(Do not Translate)"
+  },
+  "89495": {
+    "groupID": 227,
+    "name": "CH Tetrimon EZ Escalation Boss(Do not Translate)"
+  },
+  "89507": {
+    "groupID": 4091,
+    "name": "Mining Destroyer Operations"
+  },
+  "89515": {
+    "groupID": 494,
+    "name": "Decloaked Tetrimon Transmission Relay"
+  },
+  "89516": {
+    "groupID": 494,
+    "name": "Decloaked Dark Blood Transmission Relay"
+  },
+  "89519": {
+    "groupID": 319,
+    "name": "Unstable Generator"
+  },
+  "89527": {
+    "groupID": 1761,
+    "name": "Relentless Venture"
+  },
+  "89528": {
+    "groupID": 1568,
+    "name": "Ravenous Garmur"
+  },
+  "89529": {
+    "groupID": 1568,
+    "name": "Stalking Garmur"
+  },
+  "89530": {
+    "groupID": 1568,
+    "name": "Enraged Garmur"
+  },
+  "89531": {
+    "groupID": 1665,
+    "name": "Formidable Orthrus"
+  },
+  "89532": {
+    "groupID": 1895,
+    "name": "Nullprime Squall"
+  },
+  "89533": {
+    "groupID": 1566,
+    "name": "Automated Extraction Shuttle"
+  },
+  "89534": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Hard Spawner (DO NOT TRANSLATE)"
+  },
+  "89535": {
+    "groupID": 227,
+    "name": "Crimson Harvest Special Zombie Hard Spawner (DO NOT TRANSLATE)"
+  },
+  "89536": {
+    "groupID": 227,
+    "name": "Crimson Harvest Boss Zombie Hard Spawner (DO NOT TRANSLATE)"
+  },
+  "89537": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Brute Hard Spawner (DO NOT TRANSLATE)"
+  },
+  "89538": {
+    "groupID": 227,
+    "name": "Crimson Harvest LootGoblin Hard Spawner (DO NOT TRANSLATE)"
+  },
+  "89539": {
+    "groupID": 1895,
+    "name": "Nullprime Squall"
+  },
+  "89540": {
+    "groupID": 1566,
+    "name": "Automated Extraction Shuttle"
+  },
+  "89542": {
+    "groupID": 227,
+    "name": "Crimson Harvest LootGoblin Easy Spawner (DO NOT TRANSLATE)"
+  },
+  "89543": {
+    "groupID": 227,
+    "name": "Crimson Harvest Boss Zombie Easy Spawner (DO NOT TRANSLATE)"
+  },
+  "89544": {
+    "groupID": 227,
+    "name": "Crimson Harvest Special Zombie Easy Spawner (DO NOT TRANSLATE)"
+  },
+  "89545": {
+    "groupID": 227,
+    "name": "Crimson Harvest Zombie Easy Spawner (DO NOT TRANSLATE)"
+  },
+  "89546": {
+    "groupID": 1568,
+    "name": "Enraged Garmur"
+  },
+  "89547": {
+    "groupID": 1761,
+    "name": "Relentless Venture"
+  },
+  "89548": {
+    "groupID": 1568,
+    "name": "Stalking Garmur"
+  },
+  "89550": {
+    "groupID": 227,
+    "name": "Incipient Drone Swarm - Enemy Spawner - Medium (DO NOT TRANSLATE)"
+  },
+  "89551": {
+    "groupID": 227,
+    "name": "Convocation Watchpost - Enemy Spawner - Medium (DO NOT TRANSLATE)"
+  },
+  "89552": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Medium - Amarr (DO NOT TRANSLATE)"
+  },
+  "89553": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Medium - Caldari (DO NOT TRANSLATE)"
+  },
+  "89554": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Medium - Gallente (DO NOT TRANSLATE)"
+  },
+  "89555": {
+    "groupID": 227,
+    "name": "EDENCOM Scout Fleet - Enemy Spawner - Medium - Minmatar (DO NOT TRANSLATE)"
+  },
+  "89556": {
+    "groupID": 227,
+    "name": "Torpid Sleeper Hive - Enemy Spawner - Medium (DO NOT TRANSLATE)"
+  },
+  "89557": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Damage Booster I"
+  },
+  "89558": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Damage Booster II"
+  },
+  "89559": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Damage Booster III"
+  },
+  "89560": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Damage Booster IV"
+  },
+  "89561": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Webifier Booster I"
+  },
+  "89562": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Webifier Booster II"
+  },
+  "89563": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Webifier Booster III"
+  },
+  "89564": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Webifier Booster IV"
+  },
+  "89573": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Nosferatu Booster I"
+  },
+  "89574": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Nosferatu Booster II"
+  },
+  "89576": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Nosferatu Booster III"
+  },
+  "89577": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Nosferatu Booster IV"
+  },
+  "89581": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Anti-Disruptor Booster I"
+  },
+  "89585": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Anti-Disruptor Booster II"
+  },
+  "89586": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Anti-Disruptor Booster III"
+  },
+  "89587": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Harvest Anti-Disruptor Booster IV"
+  },
+  "89588": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Anti-Drain Booster I"
+  },
+  "89589": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Anti-Drain Booster II"
+  },
+  "89590": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Anti-Drain Booster III"
+  },
+  "89591": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Anti-Drain Booster IV"
+  },
+  "89592": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Capacitor Booster I"
+  },
+  "89593": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Capacitor Booster II"
+  },
+  "89594": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Capacitor Booster III"
+  },
+  "89595": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Capacitor Booster IV"
+  },
+  "89596": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Resistance Booster I"
+  },
+  "89597": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Resistance Booster II"
+  },
+  "89598": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Resistance Booster III"
+  },
+  "89599": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Resistance Booster IV"
+  },
+  "89600": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Precision Booster I"
+  },
+  "89601": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Precision Booster II"
+  },
+  "89602": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Precision Booster III"
+  },
+  "89603": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Tetrimon Precision Booster IV"
+  },
+  "89604": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Basic 'Radiance' Cerebral Accelerator"
+  },
+  "89605": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Potent 'Radiance' Cerebral Accelerator"
+  },
+  "89606": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Extended 'Radiance' Cerebral Accelerator"
+  },
+  "89607": {
+    "groupID": 4902,
+    "metaGroupID": 4,
+    "name": "Odysseus"
+  },
+  "89608": {
+    "groupID": 1770,
+    "metaGroupID": 1,
+    "name": "Expedition Command Burst I"
+  },
+  "89609": {
+    "groupID": 257,
+    "name": "Expedition Command Ships"
+  },
+  "89610": {
+    "groupID": 258,
+    "name": "Expedition Command Specialist"
+  },
+  "89611": {
+    "groupID": 258,
+    "name": "Expedition Command"
+  },
+  "89612": {
+    "groupID": 4905,
+    "name": "Expedition Strength Charge"
+  },
+  "89613": {
+    "groupID": 4905,
+    "name": "Expedition Reach Charge"
+  },
+  "89614": {
+    "groupID": 4905,
+    "name": "Expedition Pinpointing Charge"
+  },
+  "89615": {
+    "groupID": 1770,
+    "metaGroupID": 2,
+    "name": "Expedition Command Burst II"
+  },
+  "89616": {
+    "groupID": 1770,
+    "metaGroupID": 4,
+    "name": "Sisters Expedition Command Burst"
+  },
+  "89617": {
+    "groupID": 744,
+    "metaGroupID": 2,
+    "name": "Expedition Command Mindlink"
+  },
+  "89618": {
+    "groupID": 744,
+    "metaGroupID": 4,
+    "name": "Sisters Expedition Command Mindlink"
+  },
+  "89632": {
+    "groupID": 1812,
+    "name": "Expedition Command Burst I Blueprint"
+  },
+  "89633": {
+    "groupID": 1812,
+    "metaGroupID": 2,
+    "name": "Expedition Command Burst II Blueprint"
+  },
+  "89634": {
+    "groupID": 1810,
+    "name": "Expedition Strength Charge Blueprint"
+  },
+  "89635": {
+    "groupID": 1810,
+    "name": "Expedition Reach Charge Blueprint"
+  },
+  "89636": {
+    "groupID": 1810,
+    "name": "Expedition Pinpointing Charge Blueprint"
+  },
+  "89637": {
+    "groupID": 4906,
+    "metaGroupID": 4,
+    "name": "Odysseus Blueprint"
+  },
+  "89638": {
+    "groupID": 186,
+    "name": "Odysseus Wreck"
+  },
+  "89639": {
+    "groupID": 4055,
+    "name": "Vanguard Event Convoy Spawner"
+  },
+  "89640": {
+    "groupID": 4471,
+    "name": "Odysseus Alliance Emblem"
+  },
+  "89641": {
+    "groupID": 4471,
+    "name": "Odysseus Corporation Emblem"
+  },
+  "89647": {
+    "groupID": 420,
+    "metaGroupID": 4,
+    "name": "Pioneer Consortium Issue"
+  },
+  "89648": {
+    "groupID": 25,
+    "metaGroupID": 4,
+    "name": "Venture Consortium Issue"
+  },
+  "89649": {
+    "groupID": 1534,
+    "metaGroupID": 2,
+    "name": "Outrider"
+  },
+  "89652": {
+    "groupID": 1542,
+    "metaGroupID": 2,
+    "name": "Outrider Blueprint"
+  },
+  "89666": {
+    "groupID": 4471,
+    "name": "Outrider Corporation Emblem"
+  },
+  "89667": {
+    "groupID": 4471,
+    "name": "Outrider Alliance Emblem"
+  },
+  "89675": {
+    "groupID": 487,
+    "name": "Pioneer Consortium Issue Blueprint"
+  },
+  "89676": {
+    "groupID": 105,
+    "metaGroupID": 4,
+    "name": "Venture Consortium Issue Blueprint"
+  },
+  "89677": {
+    "groupID": 4471,
+    "name": "Pioneer Consortium Issue Corporation Emblem"
+  },
+  "89678": {
+    "groupID": 4471,
+    "name": "Pioneer Consortium Issue Alliance Emblem"
+  },
+  "89679": {
+    "groupID": 4471,
+    "name": "Venture Consortium Issue Corporation Emblem"
+  },
+  "89681": {
+    "groupID": 4471,
+    "name": "Venture Consortium Issue Alliance Emblem"
+  },
+  "89687": {
+    "groupID": 4726,
+    "name": "Orbital Cavalier - Limited"
+  },
+  "89688": {
+    "groupID": 4726,
+    "name": "Orbital Cavalier - Unlimited"
+  },
+  "89689": {
+    "groupID": 1210,
+    "name": "Advanced Armor Layering"
+  },
+  "89690": {
+    "groupID": 4726,
+    "name": "Triform Virtuoso - Unlimited"
+  },
+  "89691": {
+    "groupID": 4726,
+    "name": "Triform Virtuoso - Limited"
+  },
+  "89692": {
+    "groupID": 4726,
+    "name": "Triple-star Sync - Limited"
+  },
+  "89693": {
+    "groupID": 4726,
+    "name": "Triple-star Sync - Unlimited"
+  },
+  "89694": {
+    "groupID": 4726,
+    "name": "Cinderchrome Metallic - Unlimited"
+  },
+  "89695": {
+    "groupID": 4726,
+    "name": "Cinderchrome Metallic - Limited"
+  },
+  "89696": {
+    "groupID": 4726,
+    "name": "Veteran Gunmetal Metallic - Unlimited"
+  },
+  "89697": {
+    "groupID": 4726,
+    "name": "Veteran Gunmetal Metallic - Limited"
+  },
+  "89698": {
+    "groupID": 4726,
+    "name": "Top Brass Metallic - Unlimited"
+  },
+  "89699": {
+    "groupID": 4726,
+    "name": "Top Brass Metallic - Limited"
+  },
+  "89701": {
+    "groupID": 4726,
+    "name": "Saffron Noon Satin - Unlimited"
+  },
+  "89702": {
+    "groupID": 4726,
+    "name": "Saffron Noon Satin - Limited"
+  },
+  "89703": {
+    "groupID": 4726,
+    "name": "War Torn Skies Matte - Unlimited"
+  },
+  "89704": {
+    "groupID": 4726,
+    "name": "War Torn Skies Matte - Limited"
+  },
+  "89705": {
+    "groupID": 4726,
+    "name": "Gun Smoke Grey Matte - Unlimited"
+  },
+  "89706": {
+    "groupID": 4726,
+    "name": "Gun Smoke Grey Matte - Limited"
+  },
+  "89707": {
+    "groupID": 4726,
+    "name": "Triumphant Hematite Gloss - Unlimited"
+  },
+  "89708": {
+    "groupID": 4726,
+    "name": "Triumphant Hematite Gloss - Limited"
+  },
+  "89709": {
+    "groupID": 4726,
+    "name": "Opal Mantle Gloss - Unlimited"
+  },
+  "89710": {
+    "groupID": 4726,
+    "name": "Opal Mantle Gloss - Limited"
+  },
+  "89717": {
+    "groupID": 353,
+    "metaGroupID": 1,
+    "name": "QA Drone Control Module"
+  },
+  "89771": {
+    "groupID": 227,
+    "name": "AoE Micro Jump Drive Blocker 750k"
+  },
+  "89782": {
+    "groupID": 4909,
+    "name": "Unlisted Squall"
+  },
+  "89783": {
+    "groupID": 226,
+    "name": "Deathless Wraith Trader Cenotaph"
+  },
+  "89784": {
+    "groupID": 314,
+    "name": "Sealed Projects Container"
+  },
+  "89785": {
+    "groupID": 227,
+    "name": "Vanguard Event - Convoy Spawner (DO NOT TRANSLATE)"
+  },
+  "89795": {
+    "groupID": 310,
+    "name": "Asteroid Belt"
+  },
+  "89839": {
+    "groupID": 526,
+    "name": "648,000 Skill Points"
+  },
+  "89863": {
+    "groupID": 319,
+    "name": "Bhaalgorn Wreck"
+  },
+  "89864": {
+    "groupID": 319,
+    "name": "Tetrimon Armageddon Wreck"
+  },
+  "89931": {
+    "groupID": 226,
+    "name": "Synapse Harmonizer"
+  },
+  "89934": {
+    "groupID": 4726,
+    "name": "Violet Covenant Metallic - Limited"
+  },
+  "89935": {
+    "groupID": 4726,
+    "name": "Lucent Carmine Gloss - Limited"
+  },
+  "89937": {
+    "groupID": 4726,
+    "name": "Silent Sanguine Satin - Limited"
+  },
+  "89938": {
+    "groupID": 4726,
+    "name": "Sacrosanct Bloom Satin - Limited"
+  },
+  "89941": {
+    "groupID": 4726,
+    "name": "Sacrosanct Bloom Satin - Unlimited"
+  },
+  "89942": {
+    "groupID": 4726,
+    "name": "Glinting Malice Satin - Limited"
+  },
+  "89943": {
+    "groupID": 4726,
+    "name": "Celestine Veil Satin - Limited"
+  },
+  "89945": {
+    "groupID": 4726,
+    "name": "Silver Oblation Metallic - Limited"
+  },
+  "89946": {
+    "groupID": 4726,
+    "name": "Bloodcurse Alloy Metallic - Limited"
+  },
+  "89947": {
+    "groupID": 4726,
+    "name": "Claret Plating Metallic - Limited"
+  },
+  "89948": {
+    "groupID": 4726,
+    "name": "Hemolytic Steel Metallic - Limited"
+  },
+  "89949": {
+    "groupID": 4726,
+    "name": "Doctrine of Dread - Unlimited"
+  },
+  "89953": {
+    "groupID": 4726,
+    "name": "Doctrine of Dread - Limited"
+  },
+  "89954": {
+    "groupID": 4726,
+    "name": "Visceral Catharsis - Limited"
+  },
+  "89955": {
+    "groupID": 4726,
+    "name": "Arterial Trace - Limited"
+  },
+  "89956": {
+    "groupID": 1301,
+    "name": "Pilot's Body Resculpt Certificate (Untradeable)"
+  },
+  "89960": {
+    "groupID": 1975,
+    "name": "Perimeter lights 3kmGreen"
+  },
+  "89961": {
+    "groupID": 1975,
+    "name": "Perimeter lights 3kmRed"
+  },
+  "89963": {
+    "groupID": 1975,
+    "name": "Non-Interactable Fortified Amarr Commercial Station Ruins DO NOT TRANSLATE"
+  },
+  "89964": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari Station Ruins - Huge & Sprawling DO NOT TRANSLATE"
+  },
+  "89965": {
+    "groupID": 1975,
+    "name": "Non-Interactable Asteroid Mining Post DO NOT TRANSLATE"
+  },
+  "89966": {
+    "groupID": 1667,
+    "name": "Unbound Barghest"
+  },
+  "89967": {
+    "groupID": 227,
+    "name": "Harvest Encounter Barghest Easy (DO NOT TRANSLATE)"
+  },
+  "89968": {
+    "groupID": 227,
+    "name": "Harvest Encounter Special Zombies (DO NOT TRANSLATE)"
+  },
+  "89991": {
+    "groupID": 319,
+    "name": "Wrecked Avalanche"
+  },
+  "89993": {
+    "groupID": 1975,
+    "name": "Non-Interactable Habitation Drughouse DO NOT TRANSLATE"
+  },
+  "89994": {
+    "groupID": 1975,
+    "name": "Non-Interactable Rorqual Minmatar Industrial Livery SKIN (DO NOT TRANSLATE)"
+  },
+  "89995": {
+    "groupID": 1975,
+    "name": "Non-Interactable Raitaru (Minmatar)"
+  },
+  "89996": {
+    "groupID": 1975,
+    "name": "Non-Interactable Amarr Empire Stronghold"
+  },
+  "89997": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari State Stronghold"
+  },
+  "89998": {
+    "groupID": 1975,
+    "name": "Non-Interactable Gallente Federation Stronghold"
+  },
+  "89999": {
+    "groupID": 1975,
+    "name": "Non-Interactable Minmatar Republic Stronghold ( copy )"
+  },
+  "90000": {
+    "groupID": 1975,
+    "name": "Non-Interactable Rorqual Amarr Industrial Livery SKIN (DO NOT TRANSLATE)"
+  },
+  "90001": {
+    "groupID": 1975,
+    "name": "Non-Interactable Rorqual Caldari Industrial Livery SKIN (DO NOT TRANSLATE)"
+  },
+  "90002": {
+    "groupID": 1975,
+    "name": "Non-Interactable Rorqual Gallente Industrial Livery SKIN (DO NOT TRANSLATE)"
+  },
+  "90003": {
+    "groupID": 227,
+    "name": "Asteroid Belt Remnants Dungeon - Miners Spawner S (DO NOT TRANSLATE)"
+  },
+  "90004": {
+    "groupID": 1803,
+    "name": "Imperial Venture"
+  },
+  "90005": {
+    "groupID": 4917,
+    "name": "♦ Porpoise"
+  },
+  "90006": {
+    "groupID": 1765,
+    "name": "♦ Retriever"
+  },
+  "90007": {
+    "groupID": 1803,
+    "name": "♦ Venture"
+  },
+  "90023": {
+    "groupID": 319,
+    "name": "Wrecked Avalanche"
+  },
+  "90024": {
+    "groupID": 1667,
+    "name": "Unbound Barghest"
+  },
+  "90025": {
+    "groupID": 227,
+    "name": "Harvest Encounter Barghest Hard (DO NOT TRANSLATE)"
+  },
+  "90026": {
+    "groupID": 227,
+    "name": "Harvest Encounter Special Zombies Hard (DO NOT TRANSLATE)"
+  },
+  "90028": {
+    "groupID": 1566,
+    "name": "Damaged Extraction Shuttle"
+  },
+  "90030": {
+    "groupID": 227,
+    "name": "Harvest Hacking Encounter Easy(DO NOT TRANSLATE)"
+  },
+  "90031": {
+    "groupID": 227,
+    "name": "Asteroid Belt Remnants Dungeon - Miners Spawner M (DO NOT TRANSLATE)"
+  },
+  "90034": {
+    "groupID": 4055,
+    "name": "Fracture"
+  },
+  "90035": {
+    "groupID": 4055,
+    "name": "FractureStartPoint"
+  },
+  "90036": {
+    "groupID": 4055,
+    "name": "FractureEndPoint"
+  },
+  "90037": {
+    "groupID": 4913,
+    "metaGroupID": 1,
+    "name": "Mobile Phase Anchor"
+  },
+  "90038": {
+    "groupID": 186,
+    "name": "Mobile Phase Anchor Wreck"
+  },
+  "90039": {
+    "groupID": 4914,
+    "name": "Mobile Phase Anchor Blueprint"
+  },
+  "90040": {
+    "groupID": 1218,
+    "name": "Erratic Ore Processing"
+  },
+  "90041": {
+    "groupID": 4915,
+    "name": "Prismaticite"
+  },
+  "90042": {
+    "groupID": 4918,
+    "name": "Phased Prismaticite"
+  },
+  "90043": {
+    "groupID": 306,
+    "metaGroupID": 1,
+    "name": "Extraction Shuttle Wreck"
+  },
+  "90044": {
+    "groupID": 306,
+    "metaGroupID": 1,
+    "name": "Extraction Shuttle Wreck"
+  },
+  "90045": {
+    "groupID": 482,
+    "metaGroupID": 1,
+    "name": "Erratic Ore Mining Crystal Type A I"
+  },
+  "90046": {
+    "groupID": 482,
+    "metaGroupID": 1,
+    "name": "Erratic Ore Mining Crystal Type B I"
+  },
+  "90047": {
+    "groupID": 482,
+    "metaGroupID": 2,
+    "name": "Erratic Ore Mining Crystal Type A II"
+  },
+  "90048": {
+    "groupID": 482,
+    "metaGroupID": 1,
+    "name": "Erratic Ore Mining Crystal Type C I"
+  },
+  "90049": {
+    "groupID": 482,
+    "metaGroupID": 2,
+    "name": "Erratic Ore Mining Crystal Type C II"
+  },
+  "90050": {
+    "groupID": 482,
+    "metaGroupID": 2,
+    "name": "Erratic Ore Mining Crystal Type B II"
+  },
+  "90054": {
+    "groupID": 727,
+    "metaGroupID": 1,
+    "name": "Erratic Ore Mining Crystal Type A I Blueprint"
+  },
+  "90055": {
+    "groupID": 727,
+    "metaGroupID": 1,
+    "name": "Erratic Ore Mining Crystal Type B I Blueprint"
+  },
+  "90056": {
+    "groupID": 727,
+    "metaGroupID": 1,
+    "name": "Erratic Ore Mining Crystal Type C I Blueprint"
+  },
+  "90057": {
+    "groupID": 727,
+    "metaGroupID": 2,
+    "name": "Erratic Ore Mining Crystal Type A II Blueprint"
+  },
+  "90058": {
+    "groupID": 727,
+    "metaGroupID": 2,
+    "name": "Erratic Ore Mining Crystal Type B II Blueprint"
+  },
+  "90059": {
+    "groupID": 727,
+    "metaGroupID": 2,
+    "name": "Erratic Ore Mining Crystal Type C II Blueprint"
+  },
+  "90072": {
+    "groupID": 4843,
+    "name": "Cybernetic Neural Lattice"
+  },
+  "90117": {
+    "groupID": 474,
+    "name": "Tetrimon Base Shortcut Keypass"
+  },
+  "90118": {
+    "groupID": 474,
+    "name": "Crimson Gauntlet Shortcut Keypass"
+  },
+  "90134": {
+    "groupID": 1194,
+    "name": "Historic Crimson Harvest SKIN Crate"
+  },
+  "90135": {
+    "groupID": 1194,
+    "name": "Crimson Harvest SKINR Crate"
+  },
+  "90136": {
+    "groupID": 1194,
+    "name": "Crimson Harvest Cerebral Accelerator Crate"
+  },
+  "90137": {
+    "groupID": 1194,
+    "name": "Historic Crimson Harvest Trinket Crate"
+  },
+  "90139": {
+    "groupID": 494,
+    "name": "Elias' Orca"
+  },
+  "90140": {
+    "groupID": 4726,
+    "name": "Astrometer's Song - Limited"
+  },
+  "90141": {
+    "groupID": 4726,
+    "name": "Luminous Flow - Limited"
+  },
+  "90144": {
+    "groupID": 920,
+    "name": "Mehatoor - 24th Imperial Crusade War HQ"
+  },
+  "90145": {
+    "groupID": 920,
+    "name": "Onnamon - State Protectorate War HQ"
+  },
+  "90146": {
+    "groupID": 920,
+    "name": "Intaki - Federal Defense Union War HQ"
+  },
+  "90147": {
+    "groupID": 920,
+    "name": "Amo - Tribal Liberation Force War HQ"
+  },
+  "90160": {
+    "groupID": 227,
+    "name": "Crimson Harvest Proximity Controller (DO NOT TRANSLATE)"
+  },
+  "90161": {
+    "groupID": 4913,
+    "metaGroupID": 1,
+    "name": "QA Mobile Phase Anchor"
+  },
+  "90167": {
+    "groupID": 4055,
+    "name": "Fracture ( copy )"
+  },
+  "90169": {
+    "groupID": 4055,
+    "name": "QA Fracture"
+  },
+  "90179": {
+    "groupID": 1975,
+    "name": "Non Interactable ORE Pioneer R&D Station (Do Not Translate)"
+  },
+  "90180": {
+    "groupID": 314,
+    "name": "Pioneer Redemption Token"
+  },
+  "90186": {
+    "groupID": 227,
+    "name": "AoE Smart Bomb Repeating Blocker 300k(DO NOT TRANSLATE)"
+  },
+  "90202": {
+    "groupID": 186,
+    "name": "Automated Extraction Shuttle Wreck"
+  },
+  "90205": {
+    "groupID": 1975,
+    "name": "Non-interactable  Upwell Research Complex Wreck (DO NOT TRANSLATE)"
+  },
+  "90274": {
+    "groupID": 1888,
+    "name": "Unrefined Tritanium Formula"
+  },
+  "90275": {
+    "groupID": 1888,
+    "name": "Unrefined Pyerite Formula"
+  },
+  "90276": {
+    "groupID": 1888,
+    "name": "Unrefined Mexallon Formula"
+  },
+  "90277": {
+    "groupID": 1888,
+    "name": "Unrefined Isogen Formula"
+  },
+  "90278": {
+    "groupID": 1888,
+    "name": "Unrefined Nocxium Formula"
+  },
+  "90279": {
+    "groupID": 1888,
+    "name": "Unrefined Zydrine Formula"
+  },
+  "90280": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Turret Booster I"
+  },
+  "90281": {
+    "groupID": 1888,
+    "name": "Unrefined Megacyte Formula"
+  },
+  "90282": {
+    "groupID": 1888,
+    "name": "Unrefined Morphite Formula"
+  },
+  "90283": {
+    "groupID": 4932,
+    "name": "Unrefined Tritanium"
+  },
+  "90284": {
+    "groupID": 4932,
+    "name": "Unrefined Pyerite"
+  },
+  "90285": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Turret Booster II"
+  },
+  "90286": {
+    "groupID": 4932,
+    "name": "Unrefined Mexallon"
+  },
+  "90289": {
+    "groupID": 4932,
+    "name": "Unrefined Isogen"
+  },
+  "90290": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Turret Booster III"
+  },
+  "90292": {
+    "groupID": 4932,
+    "name": "Unrefined Nocxium"
+  },
+  "90293": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Mining Booster I"
+  },
+  "90294": {
+    "groupID": 4932,
+    "name": "Unrefined Zydrine"
+  },
+  "90295": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Mining Booster II"
+  },
+  "90296": {
+    "groupID": 4932,
+    "name": "Unrefined Megacyte"
+  },
+  "90297": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Mining Booster III"
+  },
+  "90298": {
+    "groupID": 4932,
+    "name": "Unrefined Morphite"
+  },
+  "90301": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Exploration Booster I"
+  },
+  "90302": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Exploration Booster II"
+  },
+  "90303": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Exploration Booster III"
+  },
+  "90304": {
+    "groupID": 1803,
+    "name": "♦ Prospect"
+  },
+  "90305": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Repair Booster II"
+  },
+  "90306": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Repair Booster III"
+  },
+  "90307": {
+    "groupID": 4915,
+    "name": "Compressed Prismaticite"
+  },
+  "90324": {
+    "groupID": 303,
+    "metaGroupID": 19,
+    "name": "Chemal Tech Repair Booster I"
+  },
+  "90327": {
+    "groupID": 306,
+    "name": "ORE Communication Array"
+  },
+  "90330": {
+    "groupID": 1975,
+    "name": "Non-interactable Nemesis (Do not translate)"
+  },
+  "90331": {
+    "groupID": 1975,
+    "name": "Non-interactable Helios (Do not translate)"
+  },
+  "90332": {
+    "groupID": 1975,
+    "name": "Non-interactable Sin (Do not translate)"
+  },
+  "90333": {
+    "groupID": 306,
+    "name": "ORE Communication Array"
+  },
+  "90334": {
+    "groupID": 1975,
+    "name": "Non-interactable Minmatar Mining Station Ruins (DO NOT TRANSLATE)"
+  },
+  "90335": {
+    "groupID": 4935,
+    "name": "Ice Belt"
+  },
+  "90336": {
+    "groupID": 4936,
+    "name": "Phased Field"
+  },
+  "90337": {
+    "groupID": 4938,
+    "name": "Ore Deposit"
+  },
+  "90354": {
+    "groupID": 314,
+    "name": "Encrypted ORE Communication Logs"
+  },
+  "90358": {
+    "groupID": 4941,
+    "name": "QA Mineable Spacecomponent Veldspar"
+  },
+  "90367": {
+    "groupID": 1975,
+    "name": "Non-Interactable Minmatar Mining Station Ruins (Do Not Translate)"
+  },
+  "90368": {
+    "groupID": 1975,
+    "name": "Non-Interactable Amarr Mining Station Ruins (Do Not Translate)"
+  },
+  "90369": {
+    "groupID": 1975,
+    "name": "Non-Interactable Low-Tech Solar Harvester (Do Not Translate)"
+  },
+  "90396": {
+    "groupID": 1194,
+    "name": "Blood Raider Crate"
+  },
+  "90398": {
+    "groupID": 1218,
+    "name": "Unrefined Minerals Processing"
+  },
+  "90421": {
+    "groupID": 462,
+    "name": "Veldspar Isotope"
+  },
+  "90422": {
+    "groupID": 462,
+    "name": "Veldspar Isotope"
+  },
+  "90423": {
+    "groupID": 4945,
+    "name": "SOE Odysseus"
+  },
+  "90424": {
+    "groupID": 319,
+    "name": "Upwell Research Structure"
+  },
+  "90426": {
+    "groupID": 462,
+    "name": "Rubble"
+  },
+  "90427": {
+    "groupID": 1664,
+    "name": "Director Becker's Outrider"
+  },
+  "90428": {
+    "groupID": 319,
+    "name": "Upwell Proximity Mine"
+  },
+  "90444": {
+    "groupID": 1975,
+    "name": "Fracture (STATIC - FOR VISUAL ONLY)"
+  },
+  "90445": {
+    "groupID": 4918,
+    "name": "Phased Prismaticite"
+  },
+  "90446": {
+    "groupID": 4918,
+    "name": "Phased Prismaticite"
+  },
+  "90447": {
+    "groupID": 1975,
+    "name": "Phased Asteroid - Fake Latent"
+  },
+  "90449": {
+    "groupID": 1975,
+    "name": "Phased Asteroid - Fake Breached"
+  },
+  "90453": {
+    "groupID": 1762,
+    "name": "ORE Retriever"
+  },
+  "90454": {
+    "groupID": 1664,
+    "name": "ORE Pioneer"
+  },
+  "90455": {
+    "groupID": 1568,
+    "name": "ORE Venture"
+  },
+  "90456": {
+    "groupID": 4975,
+    "name": "Director Becker's Rorqual"
+  },
+  "90457": {
+    "groupID": 1964,
+    "name": "Decayed Mining Laser Mutaplasmid"
+  },
+  "90458": {
+    "groupID": 1964,
+    "name": "Gravid Mining Laser Mutaplasmid"
+  },
+  "90459": {
+    "groupID": 1964,
+    "name": "Unstable Mining Laser Mutaplasmid"
+  },
+  "90460": {
+    "groupID": 54,
+    "metaGroupID": 15,
+    "name": "Abyssal Mining Laser"
+  },
+  "90465": {
+    "groupID": 1975,
+    "name": "Phased Asteroid - Fake Collapsed"
+  },
+  "90466": {
+    "groupID": 1964,
+    "name": "Decayed Modulated Strip Miner Mutaplasmid"
+  },
+  "90467": {
+    "groupID": 483,
+    "metaGroupID": 15,
+    "name": "Abyssal Modulated Strip Miner"
+  },
+  "90468": {
+    "groupID": 1964,
+    "name": "Gravid Modulated Strip Miner Mutaplasmid"
+  },
+  "90469": {
+    "groupID": 1964,
+    "name": "Unstable Modulated Strip Miner Mutaplasmid"
+  },
+  "90470": {
+    "groupID": 1964,
+    "name": "Decayed Modulated Deep Core Miner Mutaplasmid"
+  },
+  "90471": {
+    "groupID": 1964,
+    "name": "Unstable Modulated Deep Core Miner Mutaplasmid"
+  },
+  "90472": {
+    "groupID": 1964,
+    "name": "Gravid Modulated Deep Core Miner Mutaplasmid"
+  },
+  "90474": {
+    "groupID": 483,
+    "metaGroupID": 15,
+    "name": "Abyssal Modulated Deep Core Miner"
+  },
+  "90475": {
+    "groupID": 1706,
+    "name": "Integrated Sensor Array"
+  },
+  "90476": {
+    "groupID": 223,
+    "name": "Integrated Sensor Array Blueprint"
+  },
+  "90480": {
+    "groupID": 1964,
+    "name": "Decayed Deep Core Mining Laser Mutaplasmid"
+  },
+  "90481": {
+    "groupID": 1964,
+    "name": "Gravid Deep Core Mining Laser Mutaplasmid"
+  },
+  "90482": {
+    "groupID": 1964,
+    "name": "Unstable Deep Core Mining Laser Mutaplasmid"
+  },
+  "90483": {
+    "groupID": 54,
+    "metaGroupID": 15,
+    "name": "Abyssal Deep Core Mining Laser"
+  },
+  "90484": {
+    "groupID": 1964,
+    "name": "Decayed Modulated Deep Core Strip Miner Mutaplasmid"
+  },
+  "90485": {
+    "groupID": 1964,
+    "name": "Gravid Modulated Deep Core Strip Miner Mutaplasmid"
+  },
+  "90486": {
+    "groupID": 1964,
+    "name": "Unstable Modulated Deep Core Strip Miner Mutaplasmid"
+  },
+  "90487": {
+    "groupID": 483,
+    "metaGroupID": 15,
+    "name": "Abyssal Modulated Deep Core Strip Miner"
+  },
+  "90489": {
+    "groupID": 1964,
+    "name": "Decayed Strip Miner Mutaplasmid"
+  },
+  "90490": {
+    "groupID": 1964,
+    "name": "Gravid Strip Miner Mutaplasmid"
+  },
+  "90491": {
+    "groupID": 1964,
+    "name": "Unstable Strip Miner Mutaplasmid"
+  },
+  "90493": {
+    "groupID": 464,
+    "metaGroupID": 15,
+    "name": "Abyssal Strip Miner"
+  },
+  "90495": {
+    "groupID": 1964,
+    "name": "Decayed Deep Core Strip Miner Mutaplasmid"
+  },
+  "90496": {
+    "groupID": 1964,
+    "name": "Gravid Deep Core Strip Miner Mutaplasmid"
+  },
+  "90497": {
+    "groupID": 1964,
+    "name": "Unstable Deep Core Strip Miner Mutaplasmid"
+  },
+  "90498": {
+    "groupID": 464,
+    "metaGroupID": 15,
+    "name": "Abyssal Deep Core Strip Miner"
+  },
+  "90499": {
+    "groupID": 1964,
+    "name": "Decayed Ice Mining Laser Mutaplasmid"
+  },
+  "90500": {
+    "groupID": 1964,
+    "name": "Gravid Ice Mining Laser Mutaplasmid"
+  },
+  "90501": {
+    "groupID": 1964,
+    "name": "Unstable Ice Mining Laser Mutaplasmid"
+  },
+  "90502": {
+    "groupID": 54,
+    "metaGroupID": 15,
+    "name": "Abyssal Ice Mining Laser"
+  },
+  "90520": {
+    "groupID": 1975,
+    "name": "[GREAD] Non-Interactable Mobile Phase Anchor Breached (DO NOT TRANSLATE)"
+  },
+  "90521": {
+    "groupID": 1964,
+    "name": "Decayed Ice Harvester Mutaplasmid"
+  },
+  "90522": {
+    "groupID": 1964,
+    "name": "Gravid Ice Harvester Mutaplasmid"
+  },
+  "90523": {
+    "groupID": 1964,
+    "name": "Unstable Ice Harvester Mutaplasmid"
+  },
+  "90524": {
+    "groupID": 464,
+    "metaGroupID": 15,
+    "name": "Abyssal Ice Harvester"
+  },
+  "90525": {
+    "groupID": 1975,
+    "name": "Mobile Phase Anchor Collapsed (Non-Interactable)"
+  },
+  "90526": {
+    "groupID": 1964,
+    "name": "Decayed Gas Cloud Scoop Mutaplasmid"
+  },
+  "90527": {
+    "groupID": 1964,
+    "name": "Gravid Gas Cloud Scoop Mutaplasmid"
+  },
+  "90528": {
+    "groupID": 1964,
+    "name": "Unstable Gas Cloud Scoop Mutaplasmid"
+  },
+  "90529": {
+    "groupID": 737,
+    "metaGroupID": 15,
+    "name": "Abyssal Gas Cloud Scoop"
+  },
+  "90547": {
+    "groupID": 1975,
+    "name": "Non-Interactable Caldari Tradepost Station Ruins (DO NOT TRANSLATE)"
+  },
+  "90560": {
+    "groupID": 306,
+    "name": "Emergency Purge Initiator"
+  },
+  "90561": {
+    "groupID": 306,
+    "name": "Interstellar Gravimetric Transmitter"
+  },
+  "90563": {
+    "groupID": 4726,
+    "name": "Electrum Envy Metallic - Unlimited"
+  },
+  "90564": {
+    "groupID": 4726,
+    "name": "Electrum Envy Metallic - Limited"
+  },
+  "90565": {
+    "groupID": 314,
+    "name": "Proof of Destruction"
+  },
+  "90566": {
+    "groupID": 314,
+    "name": "Proof of Transmission"
+  },
+  "90590": {
+    "groupID": 1964,
+    "name": "Decayed Gas Cloud Harvester Mutaplasmid"
+  },
+  "90591": {
+    "groupID": 1964,
+    "name": "Gravid Gas Cloud Harvester Mutaplasmid"
+  },
+  "90592": {
+    "groupID": 1964,
+    "name": "Unstable Gas Cloud Harvester Mutaplasmid"
+  },
+  "90593": {
+    "groupID": 4138,
+    "metaGroupID": 15,
+    "name": "Abyssal Gas Cloud Harvester"
+  },
+  "90594": {
+    "groupID": 4726,
+    "name": "Plumbed Depths Metallic - Unlimited"
+  },
+  "90595": {
+    "groupID": 4726,
+    "name": "Plumbed Depths Metallic - Limited"
+  },
+  "90596": {
+    "groupID": 4726,
+    "name": "Suspect Saffron Gloss - Unlimited"
+  },
+  "90597": {
+    "groupID": 4726,
+    "name": "Suspect Saffron Gloss - Limited"
+  },
+  "90598": {
+    "groupID": 4726,
+    "name": "Amber Flow Gloss - Unlimited"
+  },
+  "90599": {
+    "groupID": 4726,
+    "name": "Amber Flow Gloss - Limited"
+  },
+  "90600": {
+    "groupID": 4726,
+    "name": "Dusty Residue Matte - Unlimited"
+  },
+  "90601": {
+    "groupID": 4726,
+    "name": "Dusty Residue Matte - Limited"
+  },
+  "90602": {
+    "groupID": 4726,
+    "name": "Ruddy Vein Matte - Unlimited"
+  },
+  "90603": {
+    "groupID": 4726,
+    "name": "Ruddy Vein Matte - Limited"
+  },
+  "90604": {
+    "groupID": 4726,
+    "name": "Cyan Haze Matte - Unlimited"
+  },
+  "90605": {
+    "groupID": 4726,
+    "name": "Cyan Haze Matte - Limited"
+  },
+  "90606": {
+    "groupID": 4726,
+    "name": "Critical Kyanite Gloss - Unlimited"
+  },
+  "90607": {
+    "groupID": 4726,
+    "name": "Critical Kyanite Gloss - Limited"
+  },
+  "90608": {
+    "groupID": 4726,
+    "name": "Event Horizon Black Matte - Unlimited"
+  },
+  "90609": {
+    "groupID": 1964,
+    "name": "Exigent Mining Drone Mutaplasmid"
+  },
+  "90610": {
+    "groupID": 4726,
+    "name": "Event Horizon Black Matte - Limited"
+  },
+  "90611": {
+    "groupID": 1964,
+    "name": "Exigent Ice Harvesting Drone Mutaplasmid"
+  },
+  "90612": {
+    "groupID": 4726,
+    "name": "Glacial Prospects Gloss - Unlimited"
+  },
+  "90613": {
+    "groupID": 4726,
+    "name": "Glacial Prospects Gloss - Limited"
+  },
+  "90614": {
+    "groupID": 101,
+    "metaGroupID": 15,
+    "name": "Mutated Mining Drone"
+  },
+  "90615": {
+    "groupID": 4726,
+    "name": "Gelid Omberdust Gloss - Unlimited"
+  },
+  "90616": {
+    "groupID": 4726,
+    "name": "Gelid Omberdust Gloss - Limited"
+  },
+  "90618": {
+    "groupID": 101,
+    "metaGroupID": 15,
+    "name": "Mutated Ice Harvesting Drone"
+  },
+  "90619": {
+    "groupID": 1964,
+    "name": "Exigent 'Excavator' Mining Drone Mutaplasmid"
+  },
+  "90620": {
+    "groupID": 1964,
+    "name": "Exigent 'Excavator' Ice Harvesting Drone Mutaplasmid"
+  },
+  "90621": {
+    "groupID": 101,
+    "metaGroupID": 15,
+    "name": "Mutated 'Excavator' Mining Drone"
+  },
+  "90622": {
+    "groupID": 101,
+    "metaGroupID": 15,
+    "name": "Mutated 'Excavator' Ice Harvesting Drone"
+  },
+  "90634": {
+    "groupID": 4726,
+    "name": "Rough Element - Unlimited"
+  },
+  "90635": {
+    "groupID": 4726,
+    "name": "Rough Element - Limited"
+  },
+  "90636": {
+    "groupID": 4726,
+    "name": "Distortion Assay - Unlimited"
+  },
+  "90637": {
+    "groupID": 4726,
+    "name": "Distortion Assay - Limited"
+  },
+  "90638": {
+    "groupID": 4726,
+    "name": "Rich Vein - Unlimited"
+  },
+  "90639": {
+    "groupID": 4726,
+    "name": "Rich Vein - Limited"
+  },
+  "90640": {
+    "groupID": 4726,
+    "name": "Slipstream Crossroads - Unlimited"
+  },
+  "90641": {
+    "groupID": 4726,
+    "name": "Slipstream Crossroads - Limited"
+  },
+  "90642": {
+    "groupID": 4726,
+    "name": "Treaded Plating - Unlimited"
+  },
+  "90643": {
+    "groupID": 4726,
+    "name": "Treaded Plating - Limited"
+  },
+  "90647": {
+    "groupID": 4726,
+    "name": "Oxidative Stress - Unlimited"
+  },
+  "90648": {
+    "groupID": 4726,
+    "name": "Oxidative Stress - Limited"
+  },
+  "90649": {
+    "groupID": 4726,
+    "name": "Hyperstatic Swirl - Unlimited"
+  },
+  "90650": {
+    "groupID": 4726,
+    "name": "Hyperstatic Swirl - Limited"
+  },
+  "90651": {
+    "groupID": 4726,
+    "name": "Crumbling Construct - Unlimited"
+  },
+  "90652": {
+    "groupID": 4726,
+    "name": "Crumbling Construct - Limited"
+  },
+  "90653": {
+    "groupID": 4726,
+    "name": "Convergent Reflection - Unlimited"
+  },
+  "90654": {
+    "groupID": 4726,
+    "name": "Convergent Reflection - Limited"
+  },
+  "90659": {
+    "groupID": 1194,
+    "name": "Cruor Blueprint Crate"
+  },
+  "90660": {
+    "groupID": 1194,
+    "name": "Ashimmu Blueprint Crate"
+  },
+  "90661": {
+    "groupID": 1194,
+    "name": "Bhaalgorn Blueprint Crate"
+  },
+  "90662": {
+    "groupID": 1194,
+    "name": "Chemosh Blueprint Crate"
+  },
+  "90663": {
+    "groupID": 1194,
+    "name": "Dagon Blueprint Crate"
+  },
+  "90664": {
+    "groupID": 1194,
+    "name": "Molok Blueprint Crate"
+  },
+  "90665": {
+    "groupID": 4915,
+    "name": "QA Badly Authored Prismaticite"
+  },
+  "90666": {
+    "groupID": 1975,
+    "name": "Phased Asteroid Structure Deployment Blocker"
+  },
+  "90706": {
+    "groupID": 1975,
+    "name": "Non Interactable Fortizar Wreck (Do Not Translate)"
+  },
+  "90708": {
+    "groupID": 1975,
+    "name": "Non Interactable Mobile Phase Anchor Wreck"
+  },
+  "90709": {
+    "groupID": 1975,
+    "name": "Non Interactable Drifter Structure Wreck (Do Not Translate)"
+  },
+  "90721": {
+    "groupID": 4726,
+    "name": "Sky Blue Supremacy Metallic - Limited"
+  },
+  "90722": {
+    "groupID": 4726,
+    "name": "AT XXI Mega-Victory - Limited"
+  },
+  "90727": {
+    "groupID": 1218,
+    "name": "Mining Precision"
+  },
+  "90728": {
+    "groupID": 1218,
+    "name": "Mining Exploitation"
+  },
+  "90733": {
+    "groupID": 1771,
+    "name": "Mining Laser Efficiency Charge"
+  },
+  "90734": {
+    "groupID": 1810,
+    "name": "Mining Laser Efficiency Charge Blueprint"
+  },
+  "90747": {
+    "groupID": 1975,
+    "name": "Non Interactable ORE Technologies Applied Research Center (Do Not Translate)"
+  },
+  "90748": {
+    "groupID": 1975,
+    "name": "Non Interactable Sovereignty Hub Wreck (Do Not Translate)"
+  },
+  "90749": {
+    "groupID": 920,
+    "name": "SOEEB1 (DO NOT TRANSLATE)"
+  },
+  "90750": {
+    "groupID": 920,
+    "name": "SOEEB2 (DO NOT TRANSLATE)"
+  },
+  "90751": {
+    "groupID": 920,
+    "name": "SOEEB3 (DO NOT TRANSLATE)"
+  },
+  "90752": {
+    "groupID": 920,
+    "name": "SOEEB4 (DO NOT TRANSLATE)"
+  },
+  "90753": {
+    "groupID": 920,
+    "name": "SOEEB5 (DO NOT TRANSLATE)"
+  },
+  "90754": {
+    "groupID": 920,
+    "name": "SOEEB6 (DO NOT TRANSLATE)"
+  },
+  "90755": {
+    "groupID": 920,
+    "name": "SOEEB7 (DO NOT TRANSLATE)"
+  },
+  "90756": {
+    "groupID": 920,
+    "name": "SOEEB8 (DO NOT TRANSLATE)"
+  },
+  "90757": {
+    "groupID": 920,
+    "name": "SOEEB9 (DO NOT TRANSLATE)"
+  },
+  "90758": {
+    "groupID": 920,
+    "name": "SOEEB10 (DO NOT TRANSLATE)"
+  },
+  "90759": {
+    "groupID": 920,
+    "name": "SOEEB11(DO NOT TRANSLATE)"
+  },
+  "90760": {
+    "groupID": 920,
+    "name": "SOEEB12 (DO NOT TRANSLATE)"
+  },
+  "90761": {
+    "groupID": 920,
+    "name": "SOEEB13 (DO NOT TRANSLATE)"
+  },
+  "90762": {
+    "groupID": 920,
+    "name": "SOEEB14 (DO NOT TRANSLATE)"
+  },
+  "90763": {
+    "groupID": 920,
+    "name": "SOEEB15 (DO NOT TRANSLATE)"
+  },
+  "90764": {
+    "groupID": 920,
+    "name": "SOEEB16 (DO NOT TRANSLATE)"
+  },
+  "90765": {
+    "groupID": 920,
+    "name": "SOEEB17 (DO NOT TRANSLATE)"
+  },
+  "90766": {
+    "groupID": 920,
+    "name": "SOEEB18 (DO NOT TRANSLATE)"
+  },
+  "90767": {
+    "groupID": 920,
+    "name": "SOEEB19 (DO NOT TRANSLATE)"
+  },
+  "90768": {
+    "groupID": 920,
+    "name": "SOEEB20 (DO NOT TRANSLATE)"
+  },
+  "90769": {
+    "groupID": 920,
+    "name": "SOEEB21 (DO NOT TRANSLATE)"
+  },
+  "90770": {
+    "groupID": 920,
+    "name": "SOEEB22 (DO NOT TRANSLATE)"
+  },
+  "90771": {
+    "groupID": 920,
+    "name": "SOEEB23 (DO NOT TRANSLATE)"
+  },
+  "90772": {
+    "groupID": 920,
+    "name": "SOEEB24 (DO NOT TRANSLATE)"
+  },
+  "90773": {
+    "groupID": 920,
+    "name": "SOEEB25 (DO NOT TRANSLATE)"
+  },
+  "90774": {
+    "groupID": 920,
+    "name": "SOEEB26 (DO NOT TRANSLATE)"
+  },
+  "90775": {
+    "groupID": 920,
+    "name": "SOEEB27 (DO NOT TRANSLATE)"
+  },
+  "90776": {
+    "groupID": 920,
+    "name": "SOEEB28 (DO NOT TRANSLATE)"
+  },
+  "90777": {
+    "groupID": 920,
+    "name": "SOEEB29 (DO NOT TRANSLATE)"
+  },
+  "90778": {
+    "groupID": 920,
+    "name": "SOEEB30 (DO NOT TRANSLATE)"
+  },
+  "90779": {
+    "groupID": 920,
+    "name": "SOEEB31 (DO NOT TRANSLATE)"
+  },
+  "90780": {
+    "groupID": 920,
+    "name": "SOEEB232 (DO NOT TRANSLATE)"
+  },
+  "90781": {
+    "groupID": 920,
+    "name": "SOEEB33 (DO NOT TRANSLATE)"
+  },
+  "90782": {
+    "groupID": 920,
+    "name": "SOEEB34 (DO NOT TRANSLATE)"
+  },
+  "90783": {
+    "groupID": 227,
+    "name": "FW Complex - Large ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90784": {
+    "groupID": 227,
+    "name": "FW Complex - Large ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90785": {
+    "groupID": 227,
+    "name": "FW Complex - Large NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90786": {
+    "groupID": 227,
+    "name": "FW Complex - Large NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90787": {
+    "groupID": 227,
+    "name": "FW Complex - Large NVY-4 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90788": {
+    "groupID": 227,
+    "name": "FW Complex - Large NVY-4 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90789": {
+    "groupID": 227,
+    "name": "FW Complex - Medium ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90790": {
+    "groupID": 227,
+    "name": "FW Complex - Medium ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90791": {
+    "groupID": 227,
+    "name": "FW Complex - Medium ADV-3 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90792": {
+    "groupID": 227,
+    "name": "FW Complex - Medium ADV-3 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90793": {
+    "groupID": 227,
+    "name": "FW Complex - Medium NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90794": {
+    "groupID": 227,
+    "name": "FW Complex - Medium NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90795": {
+    "groupID": 227,
+    "name": "FW Complex - Medium NVY-3 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90796": {
+    "groupID": 227,
+    "name": "FW Complex - Medium NVY-3 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90797": {
+    "groupID": 227,
+    "name": "FW Complex - Small ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90798": {
+    "groupID": 227,
+    "name": "FW Complex - Small ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90799": {
+    "groupID": 227,
+    "name": "FW Complex - Small ADV-2 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90800": {
+    "groupID": 227,
+    "name": "FW Complex - Small ADV-2 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90801": {
+    "groupID": 227,
+    "name": "FW Complex - Small NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90802": {
+    "groupID": 227,
+    "name": "FW Complex - Small NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90803": {
+    "groupID": 227,
+    "name": "FW Complex - Small NVY-2 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90804": {
+    "groupID": 227,
+    "name": "FW Complex - Small NVY-2 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90805": {
+    "groupID": 227,
+    "name": "FW Complex - Scout ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90806": {
+    "groupID": 227,
+    "name": "FW Complex - Scout ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90807": {
+    "groupID": 227,
+    "name": "FW Complex - Scout NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90808": {
+    "groupID": 227,
+    "name": "FW Complex - Scout NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90809": {
+    "groupID": 227,
+    "name": "FW Complex - Scout NVY-2 - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "90810": {
+    "groupID": 227,
+    "name": "FW Complex - Scout NVY-2 - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "90812": {
+    "groupID": 1975,
+    "name": "Drifter Large Structure Wreckage"
+  },
+  "90839": {
+    "groupID": 1169,
+    "name": "Imperial Guard Punisher"
+  },
+  "90841": {
+    "groupID": 1169,
+    "name": "Imperial Renouncer Punisher"
+  },
+  "90842": {
+    "groupID": 1167,
+    "name": "State Protector Merlin"
+  },
+  "90843": {
+    "groupID": 1168,
+    "name": "Federation Warden Incursus"
+  },
+  "90844": {
+    "groupID": 1166,
+    "name": "Republic Defender Rifter"
+  },
+  "90845": {
+    "groupID": 1167,
+    "name": "State Detainer Merlin"
+  },
+  "90846": {
+    "groupID": 1168,
+    "name": "Federation Inspector Incursus"
+  },
+  "90847": {
+    "groupID": 1166,
+    "name": "Republic Bulwark Rifter"
+  },
+  "90848": {
+    "groupID": 1175,
+    "name": "Imperial Guard Coercer"
+  },
+  "90849": {
+    "groupID": 1175,
+    "name": "Imperial Renouncer Coercer"
+  },
+  "90850": {
+    "groupID": 1177,
+    "name": "Federation Inspector Catalyst"
+  },
+  "90851": {
+    "groupID": 1176,
+    "name": "State Detainer Cormorant"
+  },
+  "90852": {
+    "groupID": 1178,
+    "name": "Republic Bulwark Thrasher"
+  },
+  "90853": {
+    "groupID": 1176,
+    "name": "State Protector Cormorant"
+  },
+  "90854": {
+    "groupID": 1177,
+    "name": "Federation Warden Catalyst"
+  },
+  "90855": {
+    "groupID": 1178,
+    "name": "Republic Defender Thrasher"
+  },
+  "90856": {
+    "groupID": 1179,
+    "name": "Imperial Guard Maller"
+  },
+  "90857": {
+    "groupID": 1183,
+    "name": "Imperial Guard Harbinger"
+  },
+  "90858": {
+    "groupID": 1179,
+    "name": "Imperial Renouncer Maller"
+  },
+  "90859": {
+    "groupID": 1183,
+    "name": "Imperial Renouncer Harbinger"
+  },
+  "90860": {
+    "groupID": 1180,
+    "name": "State Detainer Moa"
+  },
+  "90861": {
+    "groupID": 1180,
+    "name": "State Protector Moa"
+  },
+  "90862": {
+    "groupID": 1181,
+    "name": "Federation Inspector Thorax"
+  },
+  "90863": {
+    "groupID": 1181,
+    "name": "Federation Warden Thorax"
+  },
+  "90864": {
+    "groupID": 1182,
+    "name": "Republic Bulwark Rupture"
+  },
+  "90865": {
+    "groupID": 1182,
+    "name": "Republic Defender Rupture"
+  },
+  "90866": {
+    "groupID": 1184,
+    "name": "State Detainer Ferox"
+  },
+  "90867": {
+    "groupID": 1184,
+    "name": "State Protector Ferox"
+  },
+  "90868": {
+    "groupID": 1185,
+    "name": "Federation Inspector Brutix"
+  },
+  "90869": {
+    "groupID": 1185,
+    "name": "Federation Warden Brutix"
+  },
+  "90870": {
+    "groupID": 1186,
+    "name": "Republic Bulwark Hurricane"
+  },
+  "90871": {
+    "groupID": 1186,
+    "name": "Republic Defender Hurricane"
+  },
+  "90885": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "Historic SOE SKINs Crate"
+  },
+  "90892": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "Men's Empire Exploration Suit crate"
+  },
+  "90893": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "Women's Empire Exploration Suit crate"
+  },
+  "91017": {
+    "groupID": 278,
+    "name": "Freelancing"
+  },
+  "91023": {
+    "groupID": 1194,
+    "metaGroupID": 19,
+    "name": "Venture Starter Crate"
+  },
+  "91024": {
+    "groupID": 186,
+    "name": "FW Small Wreck"
+  },
+  "91025": {
+    "groupID": 186,
+    "name": "FW Medium Wreck"
+  },
+  "91094": {
+    "groupID": 227,
+    "name": "FW Complex - Open - Occupier Spawner (DO NOT TRANSLATE)"
+  },
+  "91095": {
+    "groupID": 227,
+    "name": "FW Complex - Open - Attacker Spawner (DO NOT TRANSLATE)"
+  },
+  "91110": {
+    "groupID": 186,
+    "name": "Upwell Research Structure Wreck"
+  },
+  "91185": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "Odysseus Definitive SOE SKINs Crate"
+  },
+  "91195": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "Uncommon SKINR Studio Supplies Crate"
+  },
+  "91196": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "200 PLEX and Rare SKINR Supplies Crate"
+  },
+  "91197": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "500 PLEX and Rare SKINR Supplies Crate"
+  },
+  "91198": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "1000 PLEX and Rare SKINR Supplies Crate"
+  },
+  "91199": {
+    "groupID": 1194,
+    "metaGroupID": 17,
+    "name": "1500 PLEX and Rare SKINR Supplies Crate"
   }
 }

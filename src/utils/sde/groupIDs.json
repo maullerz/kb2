@@ -375,7 +375,7 @@
     "categoryID": 7,
     "fittableNonSingleton": false,
     "iconID": 107,
-    "name": "Survey Scanner",
+    "name": "Mining Survey Chipset",
     "published": true,
     "useBasePrice": false
   },
@@ -918,7 +918,7 @@
     "categoryID": 9,
     "fittableNonSingleton": false,
     "iconID": 107,
-    "name": "Survey Scanner Blueprint",
+    "name": "Mining Survey Chipset Blueprint",
     "published": true,
     "useBasePrice": true
   },
@@ -2505,7 +2505,7 @@
     "categoryID": 7,
     "fittableNonSingleton": false,
     "iconID": 0,
-    "name": "Ballistic Control system",
+    "name": "Ballistic Control System",
     "published": true,
     "useBasePrice": false
   },
@@ -14602,6 +14602,197 @@
     "iconID": 15,
     "name": "Tyranite",
     "published": true,
+    "useBasePrice": false
+  },
+  "4900": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 17,
+    "fittableNonSingleton": false,
+    "name": "Stability Telemetry",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4902": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 6,
+    "fittableNonSingleton": false,
+    "name": "Expedition Command Ship",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4905": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 8,
+    "fittableNonSingleton": true,
+    "name": "Expedition Command Burst Charges",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4906": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Expedition Command Ship Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4909": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Vanguard Entities",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4913": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 22,
+    "fittableNonSingleton": false,
+    "name": "Mobile Phase Anchor",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4914": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Mobile Phase Anchor Blueprint",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4915": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 4,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Prismaticite",
+    "published": true,
+    "useBasePrice": false
+  },
+  "4916": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2152,
+    "fittableNonSingleton": false,
+    "iconID": 15,
+    "name": "Phased Asteroid",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4917": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "♦ Industrial Command Ship",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4918": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Phased Asteroid",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4924": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 9,
+    "fittableNonSingleton": false,
+    "name": "Erratic Ore Formula",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4930": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Managed Asteroid Belt",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4932": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 4,
+    "fittableNonSingleton": false,
+    "name": "Unrefined Mineral",
+    "published": true,
+    "useBasePrice": true
+  },
+  "4935": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Ice Belt",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4936": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Phased Asteroid Field",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4937": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Rare Asteroid Field",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4938": {
+    "anchorable": false,
+    "anchored": true,
+    "categoryID": 2,
+    "fittableNonSingleton": false,
+    "name": "Ore Deposit",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4941": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 2152,
+    "fittableNonSingleton": false,
+    "name": "QA Phased Asteroids",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4945": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Irregular Expedition Command Ship",
+    "published": false,
+    "useBasePrice": false
+  },
+  "4975": {
+    "anchorable": false,
+    "anchored": false,
+    "categoryID": 11,
+    "fittableNonSingleton": false,
+    "name": "Irregular Capital Industrial Ship",
+    "published": false,
     "useBasePrice": false
   },
   "350858": {

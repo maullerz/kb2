@@ -1,12 +1,11 @@
 {
   "1": {
-    "color": [
-      0.7803921568627451,
-      0.6666666666666666,
-      0.043137254901960784,
-      1
-    ],
-    "nameID": {
+    "color": {
+      "b": 0.043137,
+      "g": 0.666667,
+      "r": 0.780392
+    },
+    "name": {
       "de": "Tech I",
       "en": "Tech I",
       "es": "T1",
@@ -18,15 +17,14 @@
     }
   },
   "2": {
-    "color": [
-      0.6196078431372549,
-      0.3803921568627451,
-      0.00392156862745098,
-      1
-    ],
+    "color": {
+      "b": 0.003922,
+      "g": 0.380392,
+      "r": 0.619608
+    },
     "iconID": 24150,
     "iconSuffix": "t2",
-    "nameID": {
+    "name": {
       "de": "Tech II",
       "en": "Tech II",
       "es": "T2",
@@ -38,15 +36,14 @@
     }
   },
   "3": {
-    "color": [
-      0.26666666666666666,
-      0.43137254901960786,
-      0.11764705882352941,
-      1
-    ],
+    "color": {
+      "b": 0.117647,
+      "g": 0.431373,
+      "r": 0.266667
+    },
     "iconID": 24147,
     "iconSuffix": "storyline",
-    "nameID": {
+    "name": {
       "de": "Geschichte",
       "en": "Storyline",
       "es": "Historia",
@@ -58,15 +55,14 @@
     }
   },
   "4": {
-    "color": [
-      0.06666666666666667,
-      0.2784313725490196,
-      0.050980392156862744,
-      1
-    ],
+    "color": {
+      "b": 0.05098,
+      "g": 0.278431,
+      "r": 0.066667
+    },
     "iconID": 24146,
     "iconSuffix": "faction",
-    "nameID": {
+    "name": {
       "de": "Fraktion",
       "en": "Faction",
       "es": "Facción",
@@ -78,15 +74,14 @@
     }
   },
   "5": {
-    "color": [
-      0.20392156862745098,
-      0.054901960784313725,
-      0.45098039215686275,
-      1
-    ],
+    "color": {
+      "b": 0.45098,
+      "g": 0.054902,
+      "r": 0.203922
+    },
     "iconID": 24149,
     "iconSuffix": "officer",
-    "nameID": {
+    "name": {
       "de": "Offizier",
       "en": "Officer",
       "es": "Oficial",
@@ -98,13 +93,12 @@
     }
   },
   "6": {
-    "color": [
-      0.1607843137254902,
-      0.2784313725490196,
-      0.5450980392156862,
-      1
-    ],
-    "descriptionID": {
+    "color": {
+      "b": 0.545098,
+      "g": 0.278431,
+      "r": 0.160784
+    },
+    "description": {
       "de": "Module, die man in Raumverwerfungen findet.",
       "en": "Modules found in deadspace.",
       "es": "Módulos encontrados en el espacio muerto.",
@@ -116,7 +110,7 @@
     },
     "iconID": 24148,
     "iconSuffix": "deadspace",
-    "nameID": {
+    "name": {
       "de": "Raumverwerfung",
       "en": "Deadspace",
       "es": "Espacio muerto",
@@ -128,15 +122,14 @@
     }
   },
   "14": {
-    "color": [
-      0.6235294117647059,
-      0.22745098039215686,
-      0.011764705882352941,
-      1
-    ],
+    "color": {
+      "b": 0.011765,
+      "g": 0.227451,
+      "r": 0.623529
+    },
     "iconID": 24151,
     "iconSuffix": "t3",
-    "nameID": {
+    "name": {
       "de": "Tech III",
       "en": "Tech III",
       "es": "T3",
@@ -148,15 +141,14 @@
     }
   },
   "15": {
-    "color": [
-      0.5294117647058824,
-      0.12549019607843137,
-      0.12549019607843137,
-      1
-    ],
+    "color": {
+      "b": 0.12549,
+      "g": 0.12549,
+      "r": 0.529412
+    },
     "iconID": 24152,
     "iconSuffix": "abyssal",
-    "nameID": {
+    "name": {
       "de": "Abgrund",
       "en": "Abyssal",
       "es": "Abisal",
@@ -168,13 +160,12 @@
     }
   },
   "17": {
-    "color": [
-      0.6196078431372549,
-      0.3411764705882353,
-      0.8549019607843137,
-      1
-    ],
-    "descriptionID": {
+    "color": {
+      "b": 0.854902,
+      "g": 0.341176,
+      "r": 0.619608
+    },
+    "description": {
       "de": "Dieser Gegenstand ist nur über den New Eden Store oder exklusive Angebote verfügbar.",
       "en": "This item is only available through the New Eden Store or exclusive offers.",
       "es": "Este objeto solo está disponible a través de la tienda de Nuevo Edén u ofertas exclusivas.",
@@ -186,7 +177,7 @@
     },
     "iconID": 24153,
     "iconSuffix": "premium",
-    "nameID": {
+    "name": {
       "de": "Premium",
       "en": "Premium",
       "es": "Prémium",
@@ -198,13 +189,12 @@
     }
   },
   "19": {
-    "color": [
-      0.1803921568627451,
-      0.7058823529411765,
-      0.8745098039215686,
-      1
-    ],
-    "descriptionID": {
+    "color": {
+      "b": 0.87451,
+      "g": 0.705882,
+      "r": 0.180392
+    },
+    "description": {
       "de": "Dieser Gegenstand ist nur für eine begrenzte Zeit verfügbar.",
       "en": "This item is only available for a limited time.",
       "es": "Este objeto solo está disponible durante un tiempo limitado.",
@@ -216,7 +206,7 @@
     },
     "iconID": 24154,
     "iconSuffix": "limited",
-    "nameID": {
+    "name": {
       "de": "Begrenzte Zeit",
       "en": "Limited Time",
       "es": "Tiempo limitado",
@@ -230,7 +220,7 @@
   "52": {
     "iconID": 24155,
     "iconSuffix": "struct_faction",
-    "nameID": {
+    "name": {
       "de": "Strukturfraktion",
       "en": "Structure Faction",
       "es": "Estructura faccionaria",
@@ -244,7 +234,7 @@
   "53": {
     "iconID": 24156,
     "iconSuffix": "struct_t2",
-    "nameID": {
+    "name": {
       "de": "Strukturtechnologie II",
       "en": "Structure Tech II",
       "es": "Estructura T2",
@@ -258,7 +248,7 @@
   "54": {
     "iconID": 24157,
     "iconSuffix": "struct",
-    "nameID": {
+    "name": {
       "de": "Strukturtechnologie I",
       "en": "Structure Tech I",
       "es": "Estructura T1",

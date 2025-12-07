@@ -3470,5 +3470,13 @@
   "88130": {
     "slot": 6,
     "name": "Mid-grade Wedge Omega"
+  },
+  "89617": {
+    "slot": 10,
+    "name": "Expedition Command Mindlink"
+  },
+  "89618": {
+    "slot": 10,
+    "name": "Sisters Expedition Command Mindlink"
   }
 }

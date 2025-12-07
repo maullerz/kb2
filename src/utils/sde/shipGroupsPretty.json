@@ -201,6 +201,10 @@
       [
         77114,
         "Metamorphosis"
+      ],
+      [
+        89648,
+        "Venture Consortium Issue"
       ]
     ]
   },
@@ -1446,6 +1450,14 @@
       [
         85087,
         "Tholos"
+      ],
+      [
+        89240,
+        "Pioneer"
+      ],
+      [
+        89647,
+        "Pioneer Consortium Issue"
       ]
     ]
   },
@@ -2888,6 +2900,10 @@
       [
         52254,
         "Draugur"
+      ],
+      [
+        89649,
+        "Outrider"
       ]
     ]
   },
@@ -3516,6 +3532,24 @@
       [
         85980,
         "'Seneschal' Mercenary Den"
+      ]
+    ]
+  },
+  "4902": {
+    "name": "Expedition Command Ship",
+    "types": [
+      [
+        89607,
+        "Odysseus"
+      ]
+    ]
+  },
+  "4913": {
+    "name": "Mobile Phase Anchor",
+    "types": [
+      [
+        90037,
+        "Mobile Phase Anchor"
       ]
     ]
   }

@@ -820,7 +820,7 @@
   [
     444,
     49,
-    "Survey Scanner I"
+    "Mining Survey Chipset I"
   ],
   [
     447,
@@ -2320,7 +2320,7 @@
   [
     1076,
     129,
-    "Survey Scanner I Blueprint"
+    "Mining Survey Chipset I Blueprint"
   ],
   [
     1079,
@@ -5581,13 +5581,13 @@
   [
     2333,
     49,
-    "Survey Scanner II",
+    "Mining Survey Chipset II",
     2
   ],
   [
     2334,
     129,
-    "Survey Scanner II Blueprint",
+    "Mining Survey Chipset II Blueprint",
     2
   ],
   [
@@ -15741,7 +15741,7 @@
   [
     5177,
     53,
-    "Gatling Afocal Maser I"
+    "Gatling Afocal Laser I"
   ],
   [
     5179,
@@ -15761,7 +15761,7 @@
   [
     5217,
     53,
-    "Dual Afocal Pulse Maser I"
+    "Dual Afocal Pulse Laser I"
   ],
   [
     5219,
@@ -16842,12 +16842,12 @@
   [
     6569,
     49,
-    "ML-3 Scoped Survey Scanner"
+    "ML-3 Compact Mining Survey Chipset"
   ],
   [
     6571,
     49,
-    "Rock-Scanning Sensor Array I"
+    "Basic Mining Survey Chipset"
   ],
   [
     6573,
@@ -16862,7 +16862,7 @@
   [
     6633,
     53,
-    "Dual Afocal Light Maser I"
+    "Dual Afocal Light Laser I"
   ],
   [
     6635,
@@ -16882,7 +16882,7 @@
   [
     6673,
     53,
-    "Small Focused Afocal Pulse Maser I"
+    "Small Focused Afocal Pulse Laser I"
   ],
   [
     6675,
@@ -16902,7 +16902,7 @@
   [
     6717,
     53,
-    "Small Focused Afocal Maser I"
+    "Small Focused Afocal Laser I"
   ],
   [
     6719,
@@ -16922,7 +16922,7 @@
   [
     6759,
     53,
-    "Quad Afocal Light Maser I"
+    "Quad Afocal Light Laser I"
   ],
   [
     6761,
@@ -16942,7 +16942,7 @@
   [
     6807,
     53,
-    "Focused Afocal Pulse Maser I"
+    "Focused Afocal Pulse Laser I"
   ],
   [
     6809,
@@ -16962,7 +16962,7 @@
   [
     6861,
     53,
-    "Focused Afocal Medium Maser I"
+    "Focused Afocal Medium Laser I"
   ],
   [
     6863,
@@ -16982,7 +16982,7 @@
   [
     6921,
     53,
-    "Heavy Afocal Pulse Maser I"
+    "Heavy Afocal Pulse Laser I"
   ],
   [
     6923,
@@ -17002,7 +17002,7 @@
   [
     6961,
     53,
-    "Heavy Afocal Maser I"
+    "Heavy Afocal Laser I"
   ],
   [
     6963,
@@ -17022,7 +17022,7 @@
   [
     7001,
     53,
-    "Dual Heavy Afocal Pulse Maser I"
+    "Dual Heavy Afocal Pulse Laser I"
   ],
   [
     7003,
@@ -17042,7 +17042,7 @@
   [
     7045,
     53,
-    "Dual Afocal Heavy Maser I"
+    "Dual Afocal Heavy Laser I"
   ],
   [
     7047,
@@ -17062,7 +17062,7 @@
   [
     7085,
     53,
-    "Mega Afocal Pulse Maser I"
+    "Mega Afocal Pulse Laser I"
   ],
   [
     7087,
@@ -17082,7 +17082,7 @@
   [
     7125,
     53,
-    "Mega Afocal Maser I"
+    "Mega Afocal Laser I"
   ],
   [
     7127,
@@ -17102,7 +17102,7 @@
   [
     7169,
     53,
-    "Tachyon Afocal Maser I"
+    "Tachyon Afocal Laser I"
   ],
   [
     7171,
@@ -20872,7 +20872,7 @@
     11074,
     724,
     "Talisman Alpha Blueprint",
-    2
+    4
   ],
   [
     11075,
@@ -41389,132 +41389,132 @@
   [
     17425,
     450,
-    "Crimson Arkonor"
+    "Arkonor II-Grade"
   ],
   [
     17426,
     450,
-    "Prime Arkonor"
+    "Arkonor III-Grade"
   ],
   [
     17428,
     451,
-    "Triclinic Bistot"
+    "Bistot II-Grade"
   ],
   [
     17429,
     451,
-    "Monoclinic Bistot"
+    "Bistot III-Grade"
   ],
   [
     17432,
     452,
-    "Sharp Crokite"
+    "Crokite II-Grade"
   ],
   [
     17433,
     452,
-    "Crystalline Crokite"
+    "Crokite III-Grade"
   ],
   [
     17436,
     453,
-    "Onyx Ochre"
+    "Dark Ochre II-Grade"
   ],
   [
     17437,
     453,
-    "Obsidian Ochre"
+    "Dark Ochre III-Grade"
   ],
   [
     17440,
     454,
-    "Vitric Hedbergite"
+    "Hedbergite II-Grade"
   ],
   [
     17441,
     454,
-    "Glazed Hedbergite"
+    "Hedbergite III-Grade"
   ],
   [
     17444,
     455,
-    "Vivid Hemorphite"
+    "Hemorphite II-Grade"
   ],
   [
     17445,
     455,
-    "Radiant Hemorphite"
+    "Hemorphite III-Grade"
   ],
   [
     17448,
     456,
-    "Pure Jaspet"
+    "Jaspet II-Grade"
   ],
   [
     17449,
     456,
-    "Pristine Jaspet"
+    "Jaspet III-Grade"
   ],
   [
     17452,
     457,
-    "Luminous Kernite"
+    "Kernite II-Grade"
   ],
   [
     17453,
     457,
-    "Fiery Kernite"
+    "Kernite III-Grade"
   ],
   [
     17455,
     458,
-    "Azure Plagioclase"
+    "Plagioclase II-Grade"
   ],
   [
     17456,
     458,
-    "Rich Plagioclase"
+    "Plagioclase III-Grade"
   ],
   [
     17459,
     459,
-    "Solid Pyroxeres"
+    "Pyroxeres II-Grade"
   ],
   [
     17460,
     459,
-    "Viscous Pyroxeres"
+    "Pyroxeres III-Grade"
   ],
   [
     17463,
     460,
-    "Condensed Scordite"
+    "Scordite II-Grade"
   ],
   [
     17464,
     460,
-    "Massive Scordite"
+    "Scordite III-Grade"
   ],
   [
     17466,
     461,
-    "Bright Spodumain"
+    "Spodumain II-Grade"
   ],
   [
     17467,
     461,
-    "Gleaming Spodumain"
+    "Spodumain III-Grade"
   ],
   [
     17470,
     462,
-    "Concentrated Veldspar"
+    "Veldspar II-Grade"
   ],
   [
     17471,
     462,
-    "Dense Veldspar"
+    "Veldspar III-Grade"
   ],
   [
     17475,
@@ -43341,32 +43341,32 @@
   [
     17865,
     467,
-    "Iridescent Gneiss"
+    "Gneiss II-Grade"
   ],
   [
     17866,
     467,
-    "Prismatic Gneiss"
+    "Gneiss III-Grade"
   ],
   [
     17867,
     469,
-    "Silvery Omber"
+    "Omber II-Grade"
   ],
   [
     17868,
     469,
-    "Golden Omber"
+    "Omber III-Grade"
   ],
   [
     17869,
     468,
-    "Magma Mercoxit"
+    "Mercoxit II-Grade"
   ],
   [
     17870,
     468,
-    "Vitreous Mercoxit"
+    "Mercoxit III-Grade"
   ],
   [
     17871,
@@ -43845,22 +43845,22 @@
   [
     17975,
     465,
-    "Thick Blue Ice"
+    "Blue Ice IV-Grade"
   ],
   [
     17976,
     465,
-    "Pristine White Glaze"
+    "White Glaze IV-Grade"
   ],
   [
     17977,
     465,
-    "Smooth Glacial Mass"
+    "Glacial Mass IV-Grade"
   ],
   [
     17978,
     465,
-    "Enriched Clear Icicle"
+    "Clear Icicle IV-Grade"
   ],
   [
     17979,
@@ -50222,13 +50222,13 @@
   [
     20609,
     295,
-    "'Cactus' Modified Kinetic Shield Amplifier",
+    "'Cactus' Kinetic Shield Amplifier",
     3
   ],
   [
     20610,
     296,
-    "'Cactus' Modified Kinetic Shield Amplifier Blueprint",
+    "'Cactus' Kinetic Shield Amplifier Blueprint",
     3
   ],
   [
@@ -81117,7 +81117,7 @@
   [
     28385,
     450,
-    "Batch Compressed Crimson Arkonor"
+    "Batch Compressed Arkonor II-Grade"
   ],
   [
     28386,
@@ -81127,7 +81127,7 @@
   [
     28387,
     450,
-    "Batch Compressed Prime Arkonor"
+    "Batch Compressed Arkonor III-Grade"
   ],
   [
     28388,
@@ -81137,12 +81137,12 @@
   [
     28389,
     451,
-    "Batch Compressed Monoclinic Bistot"
+    "Batch Compressed Bistot III-Grade"
   ],
   [
     28390,
     451,
-    "Batch Compressed Triclinic Bistot"
+    "Batch Compressed Bistot II-Grade"
   ],
   [
     28391,
@@ -81152,12 +81152,12 @@
   [
     28392,
     452,
-    "Batch Compressed Crystalline Crokite"
+    "Batch Compressed Crokite III-Grade"
   ],
   [
     28393,
     452,
-    "Batch Compressed Sharp Crokite"
+    "Batch Compressed Crokite IV-Grade"
   ],
   [
     28394,
@@ -81167,12 +81167,12 @@
   [
     28395,
     453,
-    "Batch Compressed Obsidian Ochre"
+    "Batch Compressed Dark Ochre III-Grade"
   ],
   [
     28396,
     453,
-    "Batch Compressed Onyx Ochre"
+    "Batch Compressed Dark Ochre II-Grade"
   ],
   [
     28397,
@@ -81182,17 +81182,17 @@
   [
     28398,
     467,
-    "Batch Compressed Iridescent Gneiss"
+    "Batch Compressed Gneiss II-Grade"
   ],
   [
     28399,
     467,
-    "Batch Compressed Prismatic Gneiss"
+    "Batch Compressed Gneiss III-Grade"
   ],
   [
     28400,
     454,
-    "Batch Compressed Glazed Hedbergite"
+    "Batch Compressed Hedbergite III-Grade"
   ],
   [
     28401,
@@ -81202,7 +81202,7 @@
   [
     28402,
     454,
-    "Batch Compressed Vitric Hedbergite"
+    "Batch Compressed Hedbergite II-Grade"
   ],
   [
     28403,
@@ -81212,12 +81212,12 @@
   [
     28404,
     455,
-    "Batch Compressed Radiant Hemorphite"
+    "Batch Compressed Hemorphite III-Grade"
   ],
   [
     28405,
     455,
-    "Batch Compressed Vivid Hemorphite"
+    "Batch Compressed Hemorphite II-Grade"
   ],
   [
     28406,
@@ -81227,17 +81227,17 @@
   [
     28407,
     456,
-    "Batch Compressed Pristine Jaspet"
+    "Batch Compressed Jaspet III-Grade"
   ],
   [
     28408,
     456,
-    "Batch Compressed Pure Jaspet"
+    "Batch Compressed Jaspet II-Grade"
   ],
   [
     28409,
     457,
-    "Batch Compressed Fiery Kernite"
+    "Batch Compressed Kernite III-Grade"
   ],
   [
     28410,
@@ -81247,12 +81247,12 @@
   [
     28411,
     457,
-    "Batch Compressed Luminous Kernite"
+    "Batch Compressed Kernite II-Grade"
   ],
   [
     28412,
     468,
-    "Batch Compressed Magma Mercoxit"
+    "Batch Compressed Mercoxit II-Grade"
   ],
   [
     28413,
@@ -81262,12 +81262,12 @@
   [
     28414,
     468,
-    "Batch Compressed Vitreous Mercoxit"
+    "Batch Compressed Mercoxit III-Grade"
   ],
   [
     28415,
     469,
-    "Batch Compressed Golden Omber"
+    "Batch Compressed Omber III-Grade"
   ],
   [
     28416,
@@ -81277,17 +81277,17 @@
   [
     28417,
     469,
-    "Batch Compressed Silvery Omber"
+    "Batch Compressed Omber II-Grade"
   ],
   [
     28418,
     461,
-    "Batch Compressed Bright Spodumain"
+    "Batch Compressed Spodumain II-Grade"
   ],
   [
     28419,
     461,
-    "Batch Compressed Gleaming Spodumain"
+    "Batch Compressed Spodumain III-Grade"
   ],
   [
     28420,
@@ -81297,7 +81297,7 @@
   [
     28421,
     458,
-    "Batch Compressed Azure Plagioclase"
+    "Batch Compressed Plagioclase II-Grade"
   ],
   [
     28422,
@@ -81307,7 +81307,7 @@
   [
     28423,
     458,
-    "Batch Compressed Rich Plagioclase"
+    "Batch Compressed Plagioclase III-Grade"
   ],
   [
     28424,
@@ -81317,22 +81317,22 @@
   [
     28425,
     459,
-    "Batch Compressed Solid Pyroxeres"
+    "Batch Compressed Pyroxeres II-Grade"
   ],
   [
     28426,
     459,
-    "Batch Compressed Viscous Pyroxeres"
+    "Batch Compressed Pyroxeres III-Grade"
   ],
   [
     28427,
     460,
-    "Batch Compressed Condensed Scordite"
+    "Batch Compressed Scordite II-Grade"
   ],
   [
     28428,
     460,
-    "Batch Compressed Massive Scordite"
+    "Batch Compressed Scordite III-Grade"
   ],
   [
     28429,
@@ -81342,12 +81342,12 @@
   [
     28430,
     462,
-    "Batch Compressed Concentrated Veldspar"
+    "Batch Compressed Veldspar II-Grade"
   ],
   [
     28431,
     462,
-    "Batch Compressed Dense Veldspar"
+    "Batch Compressed Veldspar III-Grade"
   ],
   [
     28432,
@@ -81372,7 +81372,7 @@
   [
     28436,
     465,
-    "Compressed Enriched Clear Icicle"
+    "Compressed Clear Icicle IV-Grade"
   ],
   [
     28437,
@@ -81397,17 +81397,17 @@
   [
     28441,
     465,
-    "Compressed Pristine White Glaze"
+    "Compressed White Glaze IV-Grade"
   ],
   [
     28442,
     465,
-    "Compressed Smooth Glacial Mass"
+    "Compressed Glacial Mass IV-Grade"
   ],
   [
     28443,
     465,
-    "Compressed Thick Blue Ice"
+    "Compressed Blue Ice IV-Grade"
   ],
   [
     28444,
@@ -84329,7 +84329,7 @@
   [
     29119,
     903,
-    "Ancient Compressed Enriched Clear Icicle"
+    "Ancient Compressed Clear Icicle IV-Grade"
   ],
   [
     29121,
@@ -84354,17 +84354,17 @@
   [
     29129,
     903,
-    "Ancient Compressed Pristine White Glaze"
+    "Ancient Compressed White Glaze IV-Grade"
   ],
   [
     29131,
     903,
-    "Ancient Compressed Smooth Glacial Mass"
+    "Ancient Compressed Glacial Mass IV-Grade"
   ],
   [
     29133,
     903,
-    "Ancient Compressed Thick Blue Ice"
+    "Ancient Compressed Blue Ice IV-Grade"
   ],
   [
     29135,
@@ -101497,7 +101497,7 @@
     33536,
     724,
     "High-grade Ascendancy Alpha Blueprint",
-    2
+    4
   ],
   [
     33538,
@@ -101513,31 +101513,31 @@
     33543,
     724,
     "High-grade Ascendancy Beta Blueprint",
-    2
+    4
   ],
   [
     33545,
     724,
     "High-grade Ascendancy Gamma Blueprint",
-    2
+    4
   ],
   [
     33546,
     724,
     "High-grade Ascendancy Epsilon Blueprint",
-    2
+    4
   ],
   [
     33547,
     724,
     "High-grade Ascendancy Delta Blueprint",
-    2
+    4
   ],
   [
     33548,
     724,
     "High-grade Ascendancy Omega Blueprint",
-    2
+    4
   ],
   [
     33549,
@@ -101581,7 +101581,7 @@
     33556,
     724,
     "Mid-grade Ascendancy Alpha Blueprint",
-    2
+    4
   ],
   [
     33557,
@@ -101593,7 +101593,7 @@
     33558,
     724,
     "Mid-grade Ascendancy Beta Blueprint",
-    2
+    4
   ],
   [
     33559,
@@ -101605,7 +101605,7 @@
     33560,
     724,
     "Mid-grade Ascendancy Delta Blueprint",
-    2
+    4
   ],
   [
     33561,
@@ -101617,7 +101617,7 @@
     33562,
     724,
     "Mid-grade Ascendancy Epsilon Blueprint",
-    2
+    4
   ],
   [
     33563,
@@ -101629,7 +101629,7 @@
     33564,
     724,
     "Mid-grade Ascendancy Gamma Blueprint",
-    2
+    4
   ],
   [
     33565,
@@ -101641,7 +101641,7 @@
     33566,
     724,
     "Mid-grade Ascendancy Omega Blueprint",
-    2
+    4
   ],
   [
     33569,
@@ -103671,7 +103671,8 @@
   [
     34005,
     1084,
-    "Tattoo/ArmLeft/Sleeve15/Types/Sleeve15_F_Left.type"
+    "Sleeve - 'Bloodfire' (Left)",
+    17
   ],
   [
     34006,
@@ -103726,7 +103727,8 @@
   [
     34016,
     1084,
-    "Tattoo/ArmRight/Sleeve15/Type/Sleeve15_F_Right.type"
+    "Sleeve - 'Bloodfire' (Right)",
+    17
   ],
   [
     34017,
@@ -119017,22 +119019,26 @@
   [
     45515,
     1088,
-    "Women's Caldari State Exploration Suit"
+    "Women's Caldari State Exploration Suit",
+    17
   ],
   [
     45516,
     1088,
-    "Women's Minmatar Republic Exploration Suit"
+    "Women's Minmatar Republic Exploration Suit",
+    17
   ],
   [
     45517,
     1088,
-    "Women's Gallente Federation Exploration Suit"
+    "Women's Gallente Federation Exploration Suit",
+    17
   ],
   [
     45518,
     1088,
-    "Women's Amarr Empire Exploration Suit"
+    "Women's Amarr Empire Exploration Suit",
+    17
   ],
   [
     45519,
@@ -119047,7 +119053,8 @@
   [
     45521,
     1088,
-    "Men's Gallente Federation Exploration Suit"
+    "Men's Gallente Federation Exploration Suit",
+    17
   ],
   [
     45522,
@@ -119062,17 +119069,20 @@
   [
     45524,
     1088,
-    "Men's Caldari State Exploration Suit"
+    "Men's Caldari State Exploration Suit",
+    17
   ],
   [
     45525,
     1088,
-    "Men's Minmatar Republic Exploration Suit"
+    "Men's Minmatar Republic Exploration Suit",
+    17
   ],
   [
     45526,
     1088,
-    "Men's Amarr Empire Exploration Suit"
+    "Men's Amarr Empire Exploration Suit",
+    17
   ],
   [
     45527,
@@ -120748,7 +120758,7 @@
   [
     46209,
     1888,
-    "Fulleride Reaction Formula"
+    "Fullerides Reaction Formula"
   ],
   [
     46210,
@@ -122253,77 +122263,77 @@
   [
     46675,
     453,
-    "Jet Ochre"
+    "Dark Ochre IV-Grade"
   ],
   [
     46676,
     451,
-    "Cubic Bistot"
+    "Bistot IV-Grade"
   ],
   [
     46677,
     452,
-    "Pellucid Crokite"
+    "Crokite IV-Grade"
   ],
   [
     46678,
     450,
-    "Flawless Arkonor"
+    "Arkonor IV-Grade"
   ],
   [
     46679,
     467,
-    "Brilliant Gneiss"
+    "Gneiss IV-Grade"
   ],
   [
     46680,
     454,
-    "Lustrous Hedbergite"
+    "Hedbergite IV-Grade"
   ],
   [
     46681,
     455,
-    "Scintillating Hemorphite"
+    "Hemorphite IV-Grade"
   ],
   [
     46682,
     456,
-    "Immaculate Jaspet"
+    "Jaspet IV-Grade"
   ],
   [
     46683,
     457,
-    "Resplendant Kernite"
+    "Kernite IV-Grade"
   ],
   [
     46684,
     469,
-    "Platinoid Omber"
+    "Omber IV-Grade"
   ],
   [
     46685,
     458,
-    "Sparkling Plagioclase"
+    "Plagioclase IV-Grade"
   ],
   [
     46686,
     459,
-    "Opulent Pyroxeres"
+    "Pyroxeres IV-Grade"
   ],
   [
     46687,
     460,
-    "Glossy Scordite"
+    "Scordite IV-Grade"
   ],
   [
     46688,
     461,
-    "Dazzling Spodumain"
+    "Spodumain IV-Grade"
   ],
   [
     46689,
     462,
-    "Stable Veldspar"
+    "Veldspar IV-Grade"
   ],
   [
     46690,
@@ -122333,77 +122343,77 @@
   [
     46691,
     450,
-    "Batch Compressed Flawless Arkonor"
+    "Batch Compressed Arkonor IV-Grade"
   ],
   [
     46692,
     451,
-    "Batch Compressed Cubic Bistot"
+    "Batch Compressed Bistot IV-Grade"
   ],
   [
     46693,
     452,
-    "Batch Compressed Pellucid Crokite"
+    "Batch Compressed Crokite IV-Grade"
   ],
   [
     46694,
     453,
-    "Batch Compressed Jet Ochre"
+    "Batch Compressed Dark Ochre IV-Grade"
   ],
   [
     46695,
     467,
-    "Batch Compressed Brilliant Gneiss"
+    "Batch Compressed Gneiss IV-Grade"
   ],
   [
     46696,
     454,
-    "Batch Compressed Lustrous Hedbergite"
+    "Batch Compressed Hedbergite IV-Grade"
   ],
   [
     46697,
     455,
-    "Batch Compressed Scintillating Hemorphite"
+    "Batch Compressed Hemorphite IV-Grade"
   ],
   [
     46698,
     456,
-    "Batch Compressed Immaculate Jaspet"
+    "Batch Compressed Jaspet IV-Grade"
   ],
   [
     46699,
     457,
-    "Batch Compressed Resplendant Kernite"
+    "Batch Compressed Kernite IV-Grade"
   ],
   [
     46700,
     469,
-    "Batch Compressed Platinoid Omber"
+    "Batch Compressed Omber IV-Grade"
   ],
   [
     46701,
     458,
-    "Batch Compressed Sparkling Plagioclase"
+    "Batch Compressed Plagioclase IV-Grade"
   ],
   [
     46702,
     459,
-    "Batch Compressed Opulent Pyroxeres"
+    "Batch Compressed Pyroxeres IV-Grade"
   ],
   [
     46703,
     460,
-    "Batch Compressed Glossy Scordite"
+    "Batch Compressed Scordite IV-Grade"
   ],
   [
     46704,
     461,
-    "Batch Compressed Dazzling Spodumain"
+    "Batch Compressed Spodumain IV-Grade"
   ],
   [
     46705,
     462,
-    "Batch Compressed Stable Veldspar"
+    "Batch Compressed Veldspar IV-Grade"
   ],
   [
     46756,
@@ -131714,37 +131724,37 @@
     52684,
     724,
     "Low-grade Mimesis Alpha Blueprint",
-    2
+    4
   ],
   [
     52685,
     724,
     "Low-grade Mimesis Beta Blueprint",
-    2
+    4
   ],
   [
     52686,
     724,
     "Low-grade Mimesis Gamma Blueprint",
-    2
+    4
   ],
   [
     52687,
     724,
     "Low-grade Mimesis Delta Blueprint",
-    2
+    4
   ],
   [
     52688,
     724,
     "Low-grade Mimesis Epsilon Blueprint",
-    2
+    4
   ],
   [
     52689,
     724,
     "Low-grade Mimesis Omega Blueprint",
-    2
+    4
   ],
   [
     52690,
@@ -131836,37 +131846,37 @@
     52791,
     724,
     "Mid-grade Mimesis Alpha Blueprint",
-    2
+    4
   ],
   [
     52792,
     724,
     "Mid-grade Mimesis Beta Blueprint",
-    2
+    4
   ],
   [
     52793,
     724,
     "Mid-grade Mimesis Delta Blueprint",
-    2
+    4
   ],
   [
     52794,
     724,
     "Mid-grade Mimesis Epsilon Blueprint",
-    2
+    4
   ],
   [
     52795,
     724,
     "Mid-grade Mimesis Gamma Blueprint",
-    2
+    4
   ],
   [
     52796,
     724,
     "Mid-grade Mimesis Omega Blueprint",
-    2
+    4
   ],
   [
     52797,
@@ -132389,37 +132399,37 @@
     52972,
     724,
     "High-grade Mimesis Alpha Blueprint",
-    2
+    4
   ],
   [
     52974,
     724,
     "High-grade Mimesis Beta Blueprint",
-    2
+    4
   ],
   [
     52975,
     724,
     "High-grade Mimesis Delta Blueprint",
-    2
+    4
   ],
   [
     52976,
     724,
     "High-grade Mimesis Epsilon Blueprint",
-    2
+    4
   ],
   [
     52977,
     724,
     "High-grade Mimesis Gamma Blueprint",
-    2
+    4
   ],
   [
     52978,
     724,
     "High-grade Mimesis Omega Blueprint",
-    2
+    4
   ],
   [
     52981,
@@ -133534,73 +133544,73 @@
     53722,
     724,
     "Mid-grade Nirvana Alpha Blueprint",
-    2
+    4
   ],
   [
     53723,
     724,
     "Mid-grade Nirvana Beta Blueprint",
-    2
+    4
   ],
   [
     53724,
     724,
     "Mid-grade Nirvana Delta Blueprint",
-    2
+    4
   ],
   [
     53725,
     724,
     "Mid-grade Nirvana Epsilon Blueprint",
-    2
+    4
   ],
   [
     53726,
     724,
     "Mid-grade Nirvana Gamma Blueprint",
-    2
+    4
   ],
   [
     53727,
     724,
     "Mid-grade Nirvana Omega Blueprint",
-    2
+    4
   ],
   [
     53728,
     724,
     "High-grade Nirvana Alpha Blueprint",
-    2
+    4
   ],
   [
     53729,
     724,
     "High-grade Nirvana Beta Blueprint",
-    2
+    4
   ],
   [
     53730,
     724,
     "High-grade Nirvana Delta Blueprint",
-    2
+    4
   ],
   [
     53731,
     724,
     "High-grade Nirvana Epsilon Blueprint",
-    2
+    4
   ],
   [
     53732,
     724,
     "High-grade Nirvana Gamma Blueprint",
-    2
+    4
   ],
   [
     53733,
     724,
     "High-grade Nirvana Omega Blueprint",
-    2
+    4
   ],
   [
     53836,
@@ -133667,37 +133677,37 @@
     53859,
     724,
     "Low-grade Nirvana Alpha Blueprint",
-    2
+    4
   ],
   [
     53860,
     724,
     "Low-grade Nirvana Beta Blueprint",
-    2
+    4
   ],
   [
     53861,
     724,
     "Low-grade Nirvana Delta Blueprint",
-    2
+    4
   ],
   [
     53862,
     724,
     "Low-grade Nirvana Epsilon Blueprint",
-    2
+    4
   ],
   [
     53863,
     724,
     "Low-grade Nirvana Gamma Blueprint",
-    2
+    4
   ],
   [
     53864,
     724,
     "Low-grade Nirvana Omega Blueprint",
-    2
+    4
   ],
   [
     53865,
@@ -133831,109 +133841,109 @@
     53908,
     724,
     "High-grade Savior Alpha Blueprint",
-    2
+    4
   ],
   [
     53909,
     724,
     "High-grade Savior Beta Blueprint",
-    2
+    4
   ],
   [
     53910,
     724,
     "High-grade Savior Gamma Blueprint",
-    2
+    4
   ],
   [
     53911,
     724,
     "High-grade Savior Delta Blueprint",
-    2
+    4
   ],
   [
     53912,
     724,
     "High-grade Savior Epsilon Blueprint",
-    2
+    4
   ],
   [
     53913,
     724,
     "High-grade Savior Omega Blueprint",
-    2
+    4
   ],
   [
     53914,
     724,
     "Mid-grade Savior Alpha Blueprint",
-    2
+    4
   ],
   [
     53915,
     724,
     "Mid-grade Savior Beta Blueprint",
-    2
+    4
   ],
   [
     53916,
     724,
     "Mid-grade Savior Gamma Blueprint",
-    2
+    4
   ],
   [
     53917,
     724,
     "Mid-grade Savior Delta Blueprint",
-    2
+    4
   ],
   [
     53918,
     724,
     "Mid-grade Savior Epsilon Blueprint",
-    2
+    4
   ],
   [
     53919,
     724,
     "Mid-grade Savior Omega Blueprint",
-    2
+    4
   ],
   [
     53920,
     724,
     "Low-grade Savior Alpha Blueprint",
-    2
+    4
   ],
   [
     53921,
     724,
     "Low-grade Savior Beta Blueprint",
-    2
+    4
   ],
   [
     53922,
     724,
     "Low-grade Savior Gamma Blueprint",
-    2
+    4
   ],
   [
     53923,
     724,
     "Low-grade Savior Delta Blueprint",
-    2
+    4
   ],
   [
     53924,
     724,
     "Low-grade Savior Epsilon Blueprint",
-    2
+    4
   ],
   [
     53925,
     724,
     "Low-grade Savior Omega Blueprint",
-    2
+    4
   ],
   [
     53926,
@@ -135933,109 +135943,109 @@
     54410,
     724,
     "High-grade Hydra Alpha Blueprint",
-    2
+    4
   ],
   [
     54411,
     724,
     "High-grade Hydra Beta Blueprint",
-    2
+    4
   ],
   [
     54412,
     724,
     "High-grade Hydra Gamma Blueprint",
-    2
+    4
   ],
   [
     54413,
     724,
     "High-grade Hydra Delta Blueprint",
-    2
+    4
   ],
   [
     54414,
     724,
     "High-grade Hydra Epsilon Blueprint",
-    2
+    4
   ],
   [
     54415,
     724,
     "High-grade Hydra Omega Blueprint",
-    2
+    4
   ],
   [
     54416,
     724,
     "Mid-grade Hydra Alpha Blueprint",
-    2
+    4
   ],
   [
     54417,
     724,
     "Mid-grade Hydra Beta Blueprint",
-    2
+    4
   ],
   [
     54418,
     724,
     "Mid-grade Hydra Gamma Blueprint",
-    2
+    4
   ],
   [
     54419,
     724,
     "Mid-grade Hydra Delta Blueprint",
-    2
+    4
   ],
   [
     54420,
     724,
     "Mid-grade Hydra Epsilon Blueprint",
-    2
+    4
   ],
   [
     54421,
     724,
     "Mid-grade Hydra Omega Blueprint",
-    2
+    4
   ],
   [
     54422,
     724,
     "Low-grade Hydra Alpha Blueprint",
-    2
+    4
   ],
   [
     54423,
     724,
     "Low-grade Hydra Beta Blueprint",
-    2
+    4
   ],
   [
     54424,
     724,
     "Low-grade Hydra Gamma Blueprint",
-    2
+    4
   ],
   [
     54425,
     724,
     "Low-grade Hydra Delta Blueprint",
-    2
+    4
   ],
   [
     54426,
     724,
     "Low-grade Hydra Epsilon Blueprint",
-    2
+    4
   ],
   [
     54427,
     724,
     "Low-grade Hydra Omega Blueprint",
-    2
+    4
   ],
   [
     54471,
@@ -140819,32 +140829,32 @@
   [
     56625,
     4029,
-    "Abyssal Talassonite"
+    "Talassonite II-Grade"
   ],
   [
     56626,
     4029,
-    "Hadal Talassonite"
+    "Talassonite III-Grade"
   ],
   [
     56627,
     4031,
-    "Abyssal Bezdnacine"
+    "Bezdnacine II-Grade"
   ],
   [
     56628,
     4031,
-    "Hadal Bezdnacine"
+    "Bezdnacine III-Grade"
   ],
   [
     56629,
     4030,
-    "Abyssal Rakovene"
+    "Rakovene II-Grade"
   ],
   [
     56630,
     4030,
-    "Hadal Rakovene"
+    "Rakovene III-Grade"
   ],
   [
     56631,
@@ -142367,109 +142377,109 @@
     57129,
     724,
     "Low-grade Rapture Alpha Blueprint",
-    2
+    4
   ],
   [
     57130,
     724,
     "Low-grade Rapture Beta Blueprint",
-    2
+    4
   ],
   [
     57131,
     724,
     "Low-grade Rapture Gamma Blueprint",
-    2
+    4
   ],
   [
     57132,
     724,
     "Low-grade Rapture Delta Blueprint",
-    2
+    4
   ],
   [
     57133,
     724,
     "Low-grade Rapture Epsilon Blueprint",
-    2
+    4
   ],
   [
     57134,
     724,
     "Mid-grade Rapture Alpha Blueprint",
-    2
+    4
   ],
   [
     57135,
     724,
     "Mid-grade Rapture Beta Blueprint",
-    2
+    4
   ],
   [
     57136,
     724,
     "Mid-grade Rapture Gamma Blueprint",
-    2
+    4
   ],
   [
     57137,
     724,
     "Mid-grade Rapture Delta Blueprint",
-    2
+    4
   ],
   [
     57138,
     724,
     "Mid-grade Rapture Epsilon Blueprint",
-    2
+    4
   ],
   [
     57139,
     724,
     "Mid-grade Rapture Omega Blueprint",
-    2
+    4
   ],
   [
     57140,
     724,
     "High-grade Rapture Alpha Blueprint",
-    2
+    4
   ],
   [
     57142,
     724,
     "High-grade Rapture Beta Blueprint",
-    2
+    4
   ],
   [
     57143,
     724,
     "High-grade Rapture Gamma Blueprint",
-    2
+    4
   ],
   [
     57144,
     724,
     "High-grade Rapture Delta Blueprint",
-    2
+    4
   ],
   [
     57145,
     724,
     "High-grade Rapture Epsilon Blueprint",
-    2
+    4
   ],
   [
     57146,
     724,
     "High-grade Rapture Omega Blueprint",
-    2
+    4
   ],
   [
     57147,
     724,
     "Low-grade Rapture Omega Blueprint",
-    2
+    4
   ],
   [
     57149,
@@ -149064,7 +149074,7 @@
   [
     60701,
     303,
-    "Expired Harvest Anti-Disruptor Booster II",
+    "Harvest Anti-Disruptor Booster II",
     19
   ],
   [
@@ -151039,17 +151049,17 @@
   [
     62517,
     462,
-    "Compressed Concentrated Veldspar"
+    "Compressed Veldspar II-Grade"
   ],
   [
     62518,
     462,
-    "Compressed Dense Veldspar"
+    "Compressed Veldspar III-Grade"
   ],
   [
     62519,
     462,
-    "Compressed Stable Veldspar"
+    "Compressed Veldspar IV-Grade"
   ],
   [
     62520,
@@ -151059,17 +151069,17 @@
   [
     62521,
     460,
-    "Compressed Condensed Scordite"
+    "Compressed Scordite II-Grade"
   ],
   [
     62522,
     460,
-    "Compressed Massive Scordite"
+    "Compressed Scordite III-Grade"
   ],
   [
     62523,
     460,
-    "Compressed Glossy Scordite"
+    "Compressed Scordite IV-Grade"
   ],
   [
     62524,
@@ -151079,17 +151089,17 @@
   [
     62525,
     459,
-    "Compressed Solid Pyroxeres"
+    "Compressed Pyroxeres II-Grade"
   ],
   [
     62526,
     459,
-    "Compressed Viscous Pyroxeres"
+    "Compressed Pyroxeres III-Grade"
   ],
   [
     62527,
     459,
-    "Compressed Opulent Pyroxeres"
+    "Compressed Pyroxeres IV-Grade"
   ],
   [
     62528,
@@ -151099,17 +151109,17 @@
   [
     62529,
     458,
-    "Compressed Azure Plagioclase"
+    "Compressed Plagioclase II-Grade"
   ],
   [
     62530,
     458,
-    "Compressed Rich Plagioclase"
+    "Compressed Plagioclase III-Grade"
   ],
   [
     62531,
     458,
-    "Compressed Sparkling Plagioclase"
+    "Compressed Plagioclase IV-Grade"
   ],
   [
     62532,
@@ -151119,17 +151129,17 @@
   [
     62533,
     469,
-    "Compressed Silvery Omber"
+    "Compressed Omber II-Grade"
   ],
   [
     62534,
     469,
-    "Compressed Golden Omber"
+    "Compressed Omber III-Grade"
   ],
   [
     62535,
     469,
-    "Compressed Platinoid Omber"
+    "Compressed Omber IV-Grade"
   ],
   [
     62536,
@@ -151139,17 +151149,17 @@
   [
     62537,
     457,
-    "Compressed Luminous Kernite"
+    "Compressed Kernite II-Grade"
   ],
   [
     62538,
     457,
-    "Compressed Fiery Kernite"
+    "Compressed Kernite III-Grade"
   ],
   [
     62539,
     457,
-    "Compressed Resplendant Kernite"
+    "Compressed Kernite IV-Grade"
   ],
   [
     62540,
@@ -151159,17 +151169,17 @@
   [
     62541,
     456,
-    "Compressed Pure Jaspet"
+    "Compressed Jaspet II-Grade"
   ],
   [
     62542,
     456,
-    "Compressed Pristine Jaspet"
+    "Compressed Jaspet III-Grade"
   ],
   [
     62543,
     456,
-    "Compressed Immaculate Jaspet"
+    "Compressed Jaspet IV-Grade"
   ],
   [
     62544,
@@ -151179,17 +151189,17 @@
   [
     62545,
     455,
-    "Compressed Vivid Hemorphite"
+    "Compressed Hemorphite II-Grade"
   ],
   [
     62546,
     455,
-    "Compressed Radiant Hemorphite"
+    "Compressed Hemorphite III-Grade"
   ],
   [
     62547,
     455,
-    "Compressed Scintillating Hemorphite"
+    "Compressed Hemorphite IV-Grade"
   ],
   [
     62548,
@@ -151199,17 +151209,17 @@
   [
     62549,
     454,
-    "Compressed Vitric Hedbergite"
+    "Compressed Hedbergite II-Grade"
   ],
   [
     62550,
     454,
-    "Compressed Glazed Hedbergite"
+    "Compressed Hedbergite III-Grade"
   ],
   [
     62551,
     454,
-    "Compressed Lustrous Hedbergite"
+    "Compressed Hedbergite IV-Grade"
   ],
   [
     62552,
@@ -151219,17 +151229,17 @@
   [
     62553,
     467,
-    "Compressed Iridescent Gneiss"
+    "Compressed Gneiss II-Grade"
   ],
   [
     62554,
     467,
-    "Compressed Prismatic Gneiss"
+    "Compressed Gneiss III-Grade"
   ],
   [
     62555,
     467,
-    "Compressed Brilliant Gneiss"
+    "Compressed Gneiss IV-Grade"
   ],
   [
     62556,
@@ -151239,17 +151249,17 @@
   [
     62557,
     453,
-    "Compressed Onyx Ochre"
+    "Compressed Dark Ochre II-Grade"
   ],
   [
     62558,
     453,
-    "Compressed Obsidian Ochre"
+    "Compressed Dark Ochre III-Grade"
   ],
   [
     62559,
     453,
-    "Compressed Jet Ochre"
+    "Compressed Dark Ochre IV-Grade"
   ],
   [
     62560,
@@ -151259,17 +151269,17 @@
   [
     62561,
     452,
-    "Compressed Sharp Crokite"
+    "Compressed Crokite II-Grade"
   ],
   [
     62562,
     452,
-    "Compressed Crystalline Crokite"
+    "Compressed Crokite III-Grade"
   ],
   [
     62563,
     452,
-    "Compressed Pellucid Crokite"
+    "Compressed  Crokite IV-Grade"
   ],
   [
     62564,
@@ -151279,17 +151289,17 @@
   [
     62565,
     451,
-    "Compressed Triclinic Bistot"
+    "Compressed Bistot II-Grade"
   ],
   [
     62566,
     451,
-    "Compressed Monoclinic Bistot"
+    "Compressed Bistot III-Grade"
   ],
   [
     62567,
     451,
-    "Compressed Cubic Bistot"
+    "Compressed Bistot IV-Grade"
   ],
   [
     62568,
@@ -151299,17 +151309,17 @@
   [
     62569,
     450,
-    "Compressed Crimson Arkonor"
+    "Compressed Arkonor II-Grade"
   ],
   [
     62570,
     450,
-    "Compressed Prime Arkonor"
+    "Compressed Arkonor III-Grade"
   ],
   [
     62571,
     450,
-    "Compressed Flawless Arkonor"
+    "Compressed Arkonor IV-Grade"
   ],
   [
     62572,
@@ -151319,17 +151329,17 @@
   [
     62573,
     461,
-    "Compressed Bright Spodumain"
+    "Compressed Spodumain II-Grade"
   ],
   [
     62574,
     461,
-    "Compressed Gleaming Spodumain"
+    "Compressed Spodumain III-Grade"
   ],
   [
     62575,
     461,
-    "Compressed Dazzling Spodumain"
+    "Compressed Spodumain IV-Grade"
   ],
   [
     62576,
@@ -151339,12 +151349,12 @@
   [
     62577,
     4031,
-    "Compressed Abyssal Bezdnacine"
+    "Compressed Bezdnacine II-Grade"
   ],
   [
     62578,
     4031,
-    "Compressed Hadal Bezdnacine"
+    "Compressed Bezdnacine III-Grade"
   ],
   [
     62579,
@@ -151354,12 +151364,12 @@
   [
     62580,
     4030,
-    "Compressed Abyssal Rakovene"
+    "Compressed Rakovene II-Grade"
   ],
   [
     62581,
     4030,
-    "Compressed Hadal Rakovene"
+    "Compressed Rakovene III-Grade"
   ],
   [
     62582,
@@ -151369,12 +151379,12 @@
   [
     62583,
     4029,
-    "Compressed Abyssal Talassonite"
+    "Compressed Talassonite II-Grade"
   ],
   [
     62584,
     4029,
-    "Compressed Hadal Talassonite"
+    "Compressed Talassonite III-Grade"
   ],
   [
     62586,
@@ -151384,12 +151394,12 @@
   [
     62587,
     468,
-    "Compressed Magma Mercoxit"
+    "Compressed Mercoxit II-Grade"
   ],
   [
     62588,
     468,
-    "Compressed Vitreous Mercoxit"
+    "Compressed Mercoxit III-Grade"
   ],
   [
     62589,
@@ -162070,7 +162080,7 @@
   ],
   [
     74256,
-    353,
+    54,
     "QA Miner"
   ],
   [
@@ -162220,17 +162230,17 @@
   [
     74522,
     4513,
-    "Plum Mordunium"
+    "Mordunium II-Grade"
   ],
   [
     74523,
     4513,
-    "Prize Mordunium"
+    "Mordunium III-Grade"
   ],
   [
     74524,
     4513,
-    "Plunder Mordunium"
+    "Mordunium IV-Grade"
   ],
   [
     74525,
@@ -162240,17 +162250,17 @@
   [
     74526,
     4514,
-    "Bootleg Ytirium"
+    "Ytirium II-Grade"
   ],
   [
     74527,
     4514,
-    "Firewater Ytirium"
+    "Ytirium III-Grade"
   ],
   [
     74528,
     4514,
-    "Moonshine Ytirium"
+    "Ytirium IV-Grade"
   ],
   [
     74529,
@@ -162260,17 +162270,17 @@
   [
     74530,
     4515,
-    "Doped Eifyrium"
+    "Eifyrium II-Grade"
   ],
   [
     74531,
     4515,
-    "Boosted Eifyrium"
+    "Eifyrium III-Grade"
   ],
   [
     74532,
     4515,
-    "Augmented Eifyrium"
+    "Eifyrium IV-Grade"
   ],
   [
     74533,
@@ -162280,17 +162290,17 @@
   [
     74534,
     4516,
-    "Noble Ducinium"
+    "Ducinium II-Grade"
   ],
   [
     74535,
     4516,
-    "Royal Ducinium"
+    "Ducinium III-Grade"
   ],
   [
     74536,
     4516,
-    "Imperial Ducinium"
+    "Ducinium IV-Grade"
   ],
   [
     74686,
@@ -164175,17 +164185,17 @@
   [
     75276,
     4513,
-    "Compressed Plum Mordunium"
+    "Compressed Mordunium II-Grade"
   ],
   [
     75277,
     4513,
-    "Compressed Prize Mordunium"
+    "Compressed Mordunium III-Grade"
   ],
   [
     75278,
     4513,
-    "Compressed Plunder Mordunium"
+    "Compressed  Mordunium IV-Grade"
   ],
   [
     75279,
@@ -164195,17 +164205,17 @@
   [
     75280,
     4514,
-    "Compressed Bootleg Ytirium"
+    "Compressed Ytirium II-Grade"
   ],
   [
     75281,
     4514,
-    "Compressed Firewater Ytirium"
+    "Compressed Ytirium III-Grade"
   ],
   [
     75282,
     4514,
-    "Compressed Moonshine Ytirium"
+    "Compressed Ytirium IV-Grade"
   ],
   [
     75283,
@@ -164215,17 +164225,17 @@
   [
     75284,
     4515,
-    "Compressed Doped Eifyrium"
+    "Compressed Eifyrium II-Grade"
   ],
   [
     75285,
     4515,
-    "Compressed Boosted Eifyrium"
+    "Compressed Eifyrium III-Grade"
   ],
   [
     75286,
     4515,
-    "Compressed Augmented Eifyrium"
+    "Compressed Eifyrium IV-Grade"
   ],
   [
     75287,
@@ -164235,17 +164245,17 @@
   [
     75288,
     4516,
-    "Compressed Noble Ducinium"
+    "Compressed Ducinium II-Grade"
   ],
   [
     75289,
     4516,
-    "Compressed Royal Ducinium"
+    "Compressed Ducinium III-Grade"
   ],
   [
     75290,
     4516,
-    "Compressed Imperial Ducinium"
+    "Compressed Ducinium IV-Grade"
   ],
   [
     75292,
@@ -164269,8 +164279,8 @@
   ],
   [
     75321,
-    310,
-    "Asteroid Belt"
+    4930,
+    "Managed Asteroid Belt"
   ],
   [
     75326,
@@ -164637,22 +164647,22 @@
   ],
   [
     75987,
-    310,
+    4937,
     "Empire Border Rare Asteroids"
   ],
   [
     75988,
-    310,
+    4937,
     "W-Space Blue A0 Rare Asteroids"
   ],
   [
     75989,
-    310,
+    4937,
     "Nullsec Border Rare Asteroids"
   ],
   [
     75990,
-    310,
+    4937,
     "Nullsec Blue A0 Rare Asteroids"
   ],
   [
@@ -168875,7 +168885,7 @@
   [
     77527,
     4569,
-    "Focused Sanguinary Crucifier "
+    "Focused Sanguinary Crucifier"
   ],
   [
     77528,
@@ -169816,7 +169826,7 @@
   [
     77742,
     186,
-    "Ashes Sympathizer's Clan Commons Wreck "
+    "Ashes Sympathizer's Clan Commons Wreck"
   ],
   [
     77754,
@@ -170072,7 +170082,7 @@
   [
     77983,
     1975,
-    "Tranquility Trading Tower Wreck "
+    "Tranquility Trading Tower Wreck"
   ],
   [
     77984,
@@ -171867,13 +171877,13 @@
   [
     78652,
     303,
-    "Expired Wightstorm Cetana Booster I ",
+    "Expired Wightstorm Cetana Booster I",
     19
   ],
   [
     78653,
     303,
-    "Expired Wightstorm Cetana Booster II ",
+    "Expired Wightstorm Cetana Booster II",
     19
   ],
   [
@@ -171974,7 +171984,7 @@
   [
     78740,
     4067,
-    "Consortium Vorton Tuning system",
+    "Consortium Vorton Tuning System",
     4
   ],
   [
@@ -172641,7 +172651,7 @@
   [
     79336,
     4055,
-    " Insurgency Angel Roaming Spawner - ST3 - DO NOT TRANSLATE"
+    "Insurgency Angel Roaming Spawner - ST3 - DO NOT TRANSLATE"
   ],
   [
     79337,
@@ -172975,7 +172985,7 @@
   [
     79412,
     186,
-    "Upwell Large Wreck "
+    "Upwell Large Wreck"
   ],
   [
     79414,
@@ -173713,7 +173723,7 @@
   [
     79601,
     4651,
-    "Guristas Ransomer Rattlesnake ",
+    "Guristas Ransomer Rattlesnake",
     4
   ],
   [
@@ -173977,12 +173987,12 @@
   [
     79860,
     227,
-    " Insurgency Ice Heist - Angel Spawner 1 (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Angel Spawner 1 (DO NOT TRANSLATE)"
   ],
   [
     79861,
     227,
-    " Insurgency Ice Heist - Guristas Spawner 1 (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Guristas Spawner 1 (DO NOT TRANSLATE)"
   ],
   [
     79862,
@@ -174118,7 +174128,7 @@
   [
     79981,
     4648,
-    "Angel Icejacker Mekubal "
+    "Angel Icejacker Mekubal"
   ],
   [
     79982,
@@ -174368,12 +174378,12 @@
   [
     80055,
     227,
-    " Insurgency Ice Heist - Angel Spawner 2 (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Angel Spawner 2 (DO NOT TRANSLATE)"
   ],
   [
     80057,
     227,
-    " Insurgency Ice Heist - Guristas Spawner 2 (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Guristas Spawner 2 (DO NOT TRANSLATE)"
   ],
   [
     80060,
@@ -174383,12 +174393,12 @@
   [
     80061,
     227,
-    " Insurgency Ice Heist - Angel Rally Defender Spawner (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Angel Rally Defender Spawner (DO NOT TRANSLATE)"
   ],
   [
     80063,
     227,
-    " Insurgency Ice Heist - Guristas Rally Defender Spawner (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Guristas Rally Defender Spawner (DO NOT TRANSLATE)"
   ],
   [
     80089,
@@ -174448,12 +174458,12 @@
   [
     80124,
     227,
-    " Insurgency Ice Heist - Angel Defensive Tackle Spawner (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Angel Defensive Tackle Spawner (DO NOT TRANSLATE)"
   ],
   [
     80125,
     227,
-    " Insurgency Ice Heist - Guristas Defensive Tackle Spawner (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Guristas Defensive Tackle Spawner (DO NOT TRANSLATE)"
   ],
   [
     80126,
@@ -174463,12 +174473,12 @@
   [
     80127,
     227,
-    " Insurgency Ice Heist - Angel Antiplayer Spawner (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Angel Antiplayer Spawner (DO NOT TRANSLATE)"
   ],
   [
     80128,
     227,
-    " Insurgency Ice Heist - Guristas Antiplayer Spawner (DO NOT TRANSLATE)"
+    "Insurgency Ice Heist - Guristas Antiplayer Spawner (DO NOT TRANSLATE)"
   ],
   [
     80131,
@@ -174607,12 +174617,12 @@
   [
     80281,
     4648,
-    "Angel Icejacker Mekubal "
+    "Angel Icejacker Mekubal"
   ],
   [
     80282,
     4648,
-    "Angel Icejacker Mekubal "
+    "Angel Icejacker Mekubal"
   ],
   [
     80283,
@@ -176118,7 +176128,7 @@
   [
     81305,
     227,
-    "CD Sleeper Drone Spawner 4 "
+    "CD Sleeper Drone Spawner 4"
   ],
   [
     81306,
@@ -176223,7 +176233,7 @@
   [
     81352,
     4575,
-    "Encrypted ‘Istina’ Data"
+    "Encrypted 'Istina' Data"
   ],
   [
     81363,
@@ -176588,17 +176598,17 @@
   [
     81901,
     4755,
-    "Kaolin Kylixium"
+    "Kylixium II-Grade"
   ],
   [
     81902,
     4755,
-    "Argil Kylixium"
+    "Kylixium III-Grade"
   ],
   [
     81903,
     4755,
-    "Adobe Kylixium"
+    "Kylixium IV-Grade"
   ],
   [
     81920,
@@ -176699,17 +176709,17 @@
   [
     81976,
     4759,
-    "Clear Griemeer"
+    "Griemeer II-Grade"
   ],
   [
     81977,
     4759,
-    "Inky Griemeer"
+    "Griemeer III-Grade"
   ],
   [
     81978,
     4759,
-    "Opaque Griemeer"
+    "Griemeer IV-Grade"
   ],
   [
     82012,
@@ -176729,17 +176739,17 @@
   [
     82017,
     4756,
-    "Fragrant Nocxite"
+    "Nocxite II-Grade"
   ],
   [
     82018,
     4756,
-    "Intoxicating Nocxite"
+    "Nocxite III-Grade"
   ],
   [
     82019,
     4756,
-    "Ambrosial Nocxite"
+    "Nocxite IV-Grade"
   ],
   [
     82040,
@@ -176801,17 +176811,17 @@
   [
     82164,
     4758,
-    "Dull Hezorime"
+    "Hezorime II-Grade"
   ],
   [
     82165,
     4758,
-    "Serrated Hezorime"
+    "Hezorime III-Grade"
   ],
   [
     82166,
     4758,
-    "Sharp Hezorime"
+    "Hezorime IV-Grade"
   ],
   [
     82205,
@@ -176821,17 +176831,17 @@
   [
     82206,
     4757,
-    "Foggy Ueganite"
+    "Ueganite II-Grade"
   ],
   [
     82207,
     4757,
-    "Overcast Ueganite"
+    "Ueganite III-Grade"
   ],
   [
     82208,
     4757,
-    "Stormy Ueganite"
+    "Ueganite IV-Grade"
   ],
   [
     82300,
@@ -176841,17 +176851,17 @@
   [
     82301,
     4755,
-    "Compressed Kaolin Kylixium"
+    "Compressed Kylixium II-Grade"
   ],
   [
     82302,
     4755,
-    "Compressed Argil Kylixium"
+    "Compressed Kylixium III-Grade"
   ],
   [
     82303,
     4755,
-    "Compressed Adobe Kylixium"
+    "Compressed Kylixium IV-Grade"
   ],
   [
     82304,
@@ -176861,17 +176871,17 @@
   [
     82305,
     4756,
-    "Compressed Fragrant Nocxite"
+    "Compressed Nocxite II-Grade"
   ],
   [
     82306,
     4756,
-    "Compressed Intoxicating Nocxite"
+    "Compressed Nocxite III-Grade"
   ],
   [
     82307,
     4756,
-    "Compressed Ambrosial Nocxite"
+    "Compressed Nocxite IV-Grade"
   ],
   [
     82308,
@@ -176881,17 +176891,17 @@
   [
     82309,
     4757,
-    "Compressed Foggy Ueganite"
+    "Compressed Ueganite II-Grade"
   ],
   [
     82310,
     4757,
-    "Compressed Overcast Ueganite"
+    "Compressed Ueganite III-Grade"
   ],
   [
     82311,
     4757,
-    "Compressed Stormy Ueganite"
+    "Compressed Ueganite IV-Grade"
   ],
   [
     82312,
@@ -176901,17 +176911,17 @@
   [
     82313,
     4758,
-    "Compressed Dull Hezorime"
+    "Compressed Hezorime II-Grade"
   ],
   [
     82314,
     4758,
-    "Compressed Serrated Hezorime"
+    "Compressed Hezorime III-Grade"
   ],
   [
     82315,
     4758,
-    "Compressed Sharp Hezorime"
+    "Compressed Hezorime IV-Grade"
   ],
   [
     82316,
@@ -176921,17 +176931,17 @@
   [
     82317,
     4759,
-    "Compressed Clear Griemeer"
+    "Compressed Griemeer II-Grade"
   ],
   [
     82318,
     4759,
-    "Compressed Inky Griemeer"
+    "Compressed Griemeer III-Grade"
   ],
   [
     82319,
     4759,
-    "Compressed Opaque Griemeer"
+    "Compressed Griemeer IV-Grade"
   ],
   [
     82340,
@@ -179685,7 +179695,7 @@
   [
     84305,
     303,
-    "Expired Harvest Webifier Booster I",
+    "Harvest Webifier Booster I",
     19
   ],
   [
@@ -180136,7 +180146,7 @@
   [
     84473,
     1664,
-    "Corrupted Muraenidae "
+    "Corrupted Muraenidae"
   ],
   [
     84474,
@@ -180151,12 +180161,12 @@
   [
     84482,
     474,
-    "Tetrimon Base Shortcut Keypass"
+    "Expired Tetrimon Base Shortcut Keypass"
   ],
   [
     84483,
     474,
-    "Crimson Gauntlet Shortcut Keypass"
+    "Expired Crimson Gauntlet Shortcut Keypass"
   ],
   [
     84495,
@@ -182109,7 +182119,7 @@
   [
     85264,
     303,
-    "Expired Wightstorm Cetana Booster I ",
+    "Expired Wightstorm Cetana Booster I",
     19
   ],
   [
@@ -185724,7 +185734,7 @@
   [
     87141,
     227,
-    "Drifter Crisis - Tekton Spawner (DO NOT TRANSLATE) "
+    "Drifter Crisis - Tekton Spawner (DO NOT TRANSLATE)"
   ],
   [
     87164,
@@ -186256,22 +186266,22 @@
   [
     87377,
     227,
-    "Incipient Drone Swarm - Enemy Spawner (DO NOT TRANSLATE)"
+    "Incipient Drone Swarm - Enemy Spawner - Easy (DO NOT TRANSLATE)"
   ],
   [
     87378,
     227,
-    "Convocation Watchpost - Enemy Spawner (DO NOT TRANSLATE)"
+    "Convocation Watchpost - Enemy Spawner - Easy (DO NOT TRANSLATE)"
   ],
   [
     87379,
     227,
-    "EDENCOM Scout Fleet - Enemy Spawner - Amarr (DO NOT TRANSLATE)"
+    "EDENCOM Scout Fleet - Enemy Spawner - Easy - Amarr (DO NOT TRANSLATE)"
   ],
   [
     87380,
     227,
-    "Torpid Sleeper Hive - Enemy Spawner (DO NOT TRANSLATE)"
+    "Torpid Sleeper Hive - Enemy Spawner - Easy (DO NOT TRANSLATE)"
   ],
   [
     87381,
@@ -186323,17 +186333,17 @@
   [
     87394,
     227,
-    "EDENCOM Scout Fleet - Enemy Spawner - Caldari (DO NOT TRANSLATE)"
+    "EDENCOM Scout Fleet - Enemy Spawner - Easy - Caldari (DO NOT TRANSLATE)"
   ],
   [
     87395,
     227,
-    "EDENCOM Scout Fleet - Enemy Spawner - Gallente (DO NOT TRANSLATE)"
+    "EDENCOM Scout Fleet - Enemy Spawner - Easy - Gallente (DO NOT TRANSLATE)"
   ],
   [
     87396,
     227,
-    "EDENCOM Scout Fleet - Enemy Spawner - Minmatar (DO NOT TRANSLATE)"
+    "EDENCOM Scout Fleet - Enemy Spawner - Easy - Minmatar (DO NOT TRANSLATE)"
   ],
   [
     87397,
@@ -187036,7 +187046,7 @@
   [
     87831,
     4726,
-    " Tyrant Blue Satin - Limited"
+    "Tyrant Blue Satin - Limited"
   ],
   [
     87832,
@@ -187694,73 +187704,73 @@
     88135,
     724,
     "Low-grade Wedge Alpha Blueprint",
-    2
+    4
   ],
   [
     88136,
     724,
     "Low-grade Wedge Beta Blueprint",
-    2
+    4
   ],
   [
     88137,
     724,
     "Low-grade Wedge Gamma Blueprint",
-    2
+    4
   ],
   [
     88138,
     724,
     "Low-grade Wedge Delta Blueprint",
-    2
+    4
   ],
   [
     88139,
     724,
     "Low-grade Wedge Epsilon Blueprint",
-    2
+    4
   ],
   [
     88140,
     724,
     "Low-grade Wedge Omega Blueprint",
-    2
+    4
   ],
   [
     88141,
     724,
     "Mid-grade Wedge Alpha Blueprint",
-    2
+    4
   ],
   [
     88142,
     724,
     "Mid-grade Wedge Beta Blueprint",
-    2
+    4
   ],
   [
     88143,
     724,
     "Mid-grade Wedge Gamma Blueprint",
-    2
+    4
   ],
   [
     88144,
     724,
     "Mid-grade Wedge Delta Blueprint",
-    2
+    4
   ],
   [
     88145,
     724,
     "Mid-grade Wedge Epsilon Blueprint",
-    2
+    4
   ],
   [
     88146,
     724,
     "Mid-grade Wedge Omega Blueprint",
-    2
+    4
   ],
   [
     88147,
@@ -188140,32 +188150,32 @@
   [
     88268,
     1197,
-    "Narrowband Emission Amplifier Blueprint "
+    "Narrowband Emission Amplifier Blueprint"
   ],
   [
     88269,
     1197,
-    "Narrowband Emission Limiter Blueprint "
+    "Narrowband Emission Limiter Blueprint"
   ],
   [
     88270,
     1197,
-    "Midband Emission Amplifier Blueprint "
+    "Midband Emission Amplifier Blueprint"
   ],
   [
     88271,
     1197,
-    "Midband Emission Limiter Blueprint "
+    "Midband Emission Limiter Blueprint"
   ],
   [
     88272,
     1197,
-    "Wideband Emission Amplifier Blueprint "
+    "Wideband Emission Amplifier Blueprint"
   ],
   [
     88273,
     1197,
-    "Wideband Emission Limiter Blueprint "
+    "Wideband Emission Limiter Blueprint"
   ],
   [
     88275,
@@ -188240,31 +188250,31 @@
   [
     88350,
     303,
-    "Aegytica Volatile Booster",
+    "Expired Aegytica Volatile Booster",
     19
   ],
   [
     88351,
     303,
-    "Vis Vitalis Volatile Booster",
+    "Expired Vis Vitalis Volatile Booster",
     19
   ],
   [
     88352,
     303,
-    "Balneum Volatile Booster",
+    "Expired Balneum Volatile Booster",
     19
   ],
   [
     88353,
     303,
-    "Theriac Volatile Booster",
+    "Expired Theriac Volatile Booster",
     19
   ],
   [
     88354,
     303,
-    "Mithridate Volatile Booster",
+    "Expired Mithridate Volatile Booster",
     19
   ],
   [
@@ -188700,7 +188710,7 @@
   [
     88563,
     227,
-    "Maze - Wrath of Tyrannos Trader Spawner (DO NOT TRANSLATE) "
+    "Maze - Wrath of Tyrannos Trader Spawner (DO NOT TRANSLATE)"
   ],
   [
     88567,
@@ -189549,6 +189559,41 @@
     "Probe Crate"
   ],
   [
+    89129,
+    227,
+    "Crimson Harvest Zombie Medium Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89132,
+    1761,
+    "Relentless Venture"
+  ],
+  [
+    89133,
+    1568,
+    "Stalking Garmur"
+  ],
+  [
+    89134,
+    227,
+    "Crimson Harvest Special Zombie Medium Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89135,
+    1568,
+    "Enraged Garmur"
+  ],
+  [
+    89140,
+    1895,
+    "Nullprime Squall"
+  ],
+  [
+    89141,
+    227,
+    "Crimson Harvest Boss Zombie Medium Spawner (DO NOT TRANSLATE)"
+  ],
+  [
     89156,
     474,
     "Vigilance Resonance Key"
@@ -189559,54 +189604,109 @@
     "Scout Advanced Military Beacon"
   ],
   [
+    89217,
+    227,
+    "Crimson Harvest Zombie Easy Final Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89218,
+    227,
+    "Crimson Harvest Grabber/spitter Zombie Easy Final Spawner (DO NOT TRANSLATE)"
+  ],
+  [
     89219,
     4900,
     "Stability Telemetry"
   ],
   [
+    89220,
+    1665,
+    "Formidable Orthrus"
+  ],
+  [
+    89221,
+    1568,
+    "Ravenous Garmur"
+  ],
+  [
+    89222,
+    227,
+    "Crimson Harvest Zombie Brute Medium Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89240,
+    420,
+    "Pioneer"
+  ],
+  [
+    89241,
+    257,
+    "Mining Destroyer"
+  ],
+  [
+    89242,
+    227,
+    "Crimson Harvest Zombie Easy Spawner 3WAVE (DO NOT TRANSLATE)"
+  ],
+  [
+    89243,
+    227,
+    "Crimson Harvest Zombie Easy Spawner 5WAVE (DO NOT TRANSLATE)"
+  ],
+  [
     89261,
     4726,
-    "cosm_cyan_highgloss_000_100_100 - Limited"
+    "Hyper-Palm Frond Gloss - Limited"
   ],
   [
     89262,
     4726,
-    "cosm_rosered_satin_000_100_100 - Limited"
+    "Magenta Impulse Satin - Limited"
   ],
   [
     89263,
     4726,
-    "cosm_cheese_matt_000_100_100 - Limited"
+    "Sleeper Sand Matte - Limited"
   ],
   [
     89264,
     4726,
-    "cosm_azure_polished_000_100_050 - Limited"
+    "Sunken Plating Metallic - Limited"
   ],
   [
     89265,
     4726,
-    "cosm_safetyorange_brushed_000_100_100 - Limited"
+    "Starburned Bronze Metallic - Limited"
   ],
   [
     89266,
     4726,
-    "cosm_camo_wave_02 - Limited"
+    "Stellar Interference - Limited"
   ],
   [
     89267,
     4726,
-    "cosm_symbol_01A - Limited"
+    "Metaliminal Typhoon - Limited"
   ],
   [
     89268,
     4726,
-    "cosm_twirl_04 - Limited"
+    "Hyperlane Weave - Limited"
   ],
   [
     89327,
     4726,
-    "cosm_cyan_highgloss_000_060_100_cs180 - Limited"
+    "Emerald Sunset Gloss - Limited"
+  ],
+  [
+    89328,
+    1194,
+    "Solar Fest Crate"
+  ],
+  [
+    89360,
+    319,
+    "Cognitive Calibration Spire"
   ],
   [
     89394,
@@ -189617,5 +189717,2750 @@
     89395,
     310,
     "1-st Innominate Palace Landmark"
+  ],
+  [
+    89452,
+    1566,
+    "Automated Extraction Shuttle"
+  ],
+  [
+    89454,
+    227,
+    "Crimson Harvest LootGoblin Mid Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89485,
+    487,
+    "Pioneer Blueprint"
+  ],
+  [
+    89487,
+    4471,
+    "Pioneer Corporation Emblem"
+  ],
+  [
+    89488,
+    4471,
+    "Pioneer Alliance Emblem"
+  ],
+  [
+    89489,
+    1667,
+    "Tetrimon Captain"
+  ],
+  [
+    89490,
+    1667,
+    "Harvest Controller"
+  ],
+  [
+    89491,
+    227,
+    "CH Blood Raiders EZ Escalation Boss(Do not Translate)"
+  ],
+  [
+    89495,
+    227,
+    "CH Tetrimon EZ Escalation Boss(Do not Translate)"
+  ],
+  [
+    89507,
+    4091,
+    "Mining Destroyer Operations"
+  ],
+  [
+    89515,
+    494,
+    "Decloaked Tetrimon Transmission Relay"
+  ],
+  [
+    89516,
+    494,
+    "Decloaked Dark Blood Transmission Relay"
+  ],
+  [
+    89519,
+    319,
+    "Unstable Generator"
+  ],
+  [
+    89527,
+    1761,
+    "Relentless Venture"
+  ],
+  [
+    89528,
+    1568,
+    "Ravenous Garmur"
+  ],
+  [
+    89529,
+    1568,
+    "Stalking Garmur"
+  ],
+  [
+    89530,
+    1568,
+    "Enraged Garmur"
+  ],
+  [
+    89531,
+    1665,
+    "Formidable Orthrus"
+  ],
+  [
+    89532,
+    1895,
+    "Nullprime Squall"
+  ],
+  [
+    89533,
+    1566,
+    "Automated Extraction Shuttle"
+  ],
+  [
+    89534,
+    227,
+    "Crimson Harvest Zombie Hard Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89535,
+    227,
+    "Crimson Harvest Special Zombie Hard Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89536,
+    227,
+    "Crimson Harvest Boss Zombie Hard Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89537,
+    227,
+    "Crimson Harvest Zombie Brute Hard Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89538,
+    227,
+    "Crimson Harvest LootGoblin Hard Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89539,
+    1895,
+    "Nullprime Squall"
+  ],
+  [
+    89540,
+    1566,
+    "Automated Extraction Shuttle"
+  ],
+  [
+    89542,
+    227,
+    "Crimson Harvest LootGoblin Easy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89543,
+    227,
+    "Crimson Harvest Boss Zombie Easy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89544,
+    227,
+    "Crimson Harvest Special Zombie Easy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89545,
+    227,
+    "Crimson Harvest Zombie Easy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89546,
+    1568,
+    "Enraged Garmur"
+  ],
+  [
+    89547,
+    1761,
+    "Relentless Venture"
+  ],
+  [
+    89548,
+    1568,
+    "Stalking Garmur"
+  ],
+  [
+    89550,
+    227,
+    "Incipient Drone Swarm - Enemy Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    89551,
+    227,
+    "Convocation Watchpost - Enemy Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    89552,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Medium - Amarr (DO NOT TRANSLATE)"
+  ],
+  [
+    89553,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Medium - Caldari (DO NOT TRANSLATE)"
+  ],
+  [
+    89554,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Medium - Gallente (DO NOT TRANSLATE)"
+  ],
+  [
+    89555,
+    227,
+    "EDENCOM Scout Fleet - Enemy Spawner - Medium - Minmatar (DO NOT TRANSLATE)"
+  ],
+  [
+    89556,
+    227,
+    "Torpid Sleeper Hive - Enemy Spawner - Medium (DO NOT TRANSLATE)"
+  ],
+  [
+    89557,
+    303,
+    "Harvest Damage Booster I",
+    19
+  ],
+  [
+    89558,
+    303,
+    "Harvest Damage Booster II",
+    19
+  ],
+  [
+    89559,
+    303,
+    "Harvest Damage Booster III",
+    19
+  ],
+  [
+    89560,
+    303,
+    "Harvest Damage Booster IV",
+    19
+  ],
+  [
+    89561,
+    303,
+    "Harvest Webifier Booster I",
+    19
+  ],
+  [
+    89562,
+    303,
+    "Harvest Webifier Booster II",
+    19
+  ],
+  [
+    89563,
+    303,
+    "Harvest Webifier Booster III",
+    19
+  ],
+  [
+    89564,
+    303,
+    "Harvest Webifier Booster IV",
+    19
+  ],
+  [
+    89573,
+    303,
+    "Harvest Nosferatu Booster I",
+    19
+  ],
+  [
+    89574,
+    303,
+    "Harvest Nosferatu Booster II",
+    19
+  ],
+  [
+    89576,
+    303,
+    "Harvest Nosferatu Booster III",
+    19
+  ],
+  [
+    89577,
+    303,
+    "Harvest Nosferatu Booster IV",
+    19
+  ],
+  [
+    89581,
+    303,
+    "Harvest Anti-Disruptor Booster I",
+    19
+  ],
+  [
+    89585,
+    303,
+    "Harvest Anti-Disruptor Booster II",
+    19
+  ],
+  [
+    89586,
+    303,
+    "Harvest Anti-Disruptor Booster III",
+    19
+  ],
+  [
+    89587,
+    303,
+    "Harvest Anti-Disruptor Booster IV",
+    19
+  ],
+  [
+    89588,
+    303,
+    "Tetrimon Anti-Drain Booster I",
+    19
+  ],
+  [
+    89589,
+    303,
+    "Tetrimon Anti-Drain Booster II",
+    19
+  ],
+  [
+    89590,
+    303,
+    "Tetrimon Anti-Drain Booster III",
+    19
+  ],
+  [
+    89591,
+    303,
+    "Tetrimon Anti-Drain Booster IV",
+    19
+  ],
+  [
+    89592,
+    303,
+    "Tetrimon Capacitor Booster I",
+    19
+  ],
+  [
+    89593,
+    303,
+    "Tetrimon Capacitor Booster II",
+    19
+  ],
+  [
+    89594,
+    303,
+    "Tetrimon Capacitor Booster III",
+    19
+  ],
+  [
+    89595,
+    303,
+    "Tetrimon Capacitor Booster IV",
+    19
+  ],
+  [
+    89596,
+    303,
+    "Tetrimon Resistance Booster I",
+    19
+  ],
+  [
+    89597,
+    303,
+    "Tetrimon Resistance Booster II",
+    19
+  ],
+  [
+    89598,
+    303,
+    "Tetrimon Resistance Booster III",
+    19
+  ],
+  [
+    89599,
+    303,
+    "Tetrimon Resistance Booster IV",
+    19
+  ],
+  [
+    89600,
+    303,
+    "Tetrimon Precision Booster I",
+    19
+  ],
+  [
+    89601,
+    303,
+    "Tetrimon Precision Booster II",
+    19
+  ],
+  [
+    89602,
+    303,
+    "Tetrimon Precision Booster III",
+    19
+  ],
+  [
+    89603,
+    303,
+    "Tetrimon Precision Booster IV",
+    19
+  ],
+  [
+    89604,
+    303,
+    "Basic 'Radiance' Cerebral Accelerator",
+    19
+  ],
+  [
+    89605,
+    303,
+    "Potent 'Radiance' Cerebral Accelerator",
+    19
+  ],
+  [
+    89606,
+    303,
+    "Extended 'Radiance' Cerebral Accelerator",
+    19
+  ],
+  [
+    89607,
+    4902,
+    "Odysseus",
+    4
+  ],
+  [
+    89608,
+    1770,
+    "Expedition Command Burst I"
+  ],
+  [
+    89609,
+    257,
+    "Expedition Command Ships"
+  ],
+  [
+    89610,
+    258,
+    "Expedition Command Specialist"
+  ],
+  [
+    89611,
+    258,
+    "Expedition Command"
+  ],
+  [
+    89612,
+    4905,
+    "Expedition Strength Charge"
+  ],
+  [
+    89613,
+    4905,
+    "Expedition Reach Charge"
+  ],
+  [
+    89614,
+    4905,
+    "Expedition Pinpointing Charge"
+  ],
+  [
+    89615,
+    1770,
+    "Expedition Command Burst II",
+    2
+  ],
+  [
+    89616,
+    1770,
+    "Sisters Expedition Command Burst",
+    4
+  ],
+  [
+    89617,
+    744,
+    "Expedition Command Mindlink",
+    2
+  ],
+  [
+    89618,
+    744,
+    "Sisters Expedition Command Mindlink",
+    4
+  ],
+  [
+    89632,
+    1812,
+    "Expedition Command Burst I Blueprint"
+  ],
+  [
+    89633,
+    1812,
+    "Expedition Command Burst II Blueprint",
+    2
+  ],
+  [
+    89634,
+    1810,
+    "Expedition Strength Charge Blueprint"
+  ],
+  [
+    89635,
+    1810,
+    "Expedition Reach Charge Blueprint"
+  ],
+  [
+    89636,
+    1810,
+    "Expedition Pinpointing Charge Blueprint"
+  ],
+  [
+    89637,
+    4906,
+    "Odysseus Blueprint",
+    4
+  ],
+  [
+    89638,
+    186,
+    "Odysseus Wreck"
+  ],
+  [
+    89639,
+    4055,
+    "Vanguard Event Convoy Spawner"
+  ],
+  [
+    89640,
+    4471,
+    "Odysseus Alliance Emblem"
+  ],
+  [
+    89641,
+    4471,
+    "Odysseus Corporation Emblem"
+  ],
+  [
+    89647,
+    420,
+    "Pioneer Consortium Issue",
+    4
+  ],
+  [
+    89648,
+    25,
+    "Venture Consortium Issue",
+    4
+  ],
+  [
+    89649,
+    1534,
+    "Outrider",
+    2
+  ],
+  [
+    89652,
+    1542,
+    "Outrider Blueprint",
+    2
+  ],
+  [
+    89666,
+    4471,
+    "Outrider Corporation Emblem"
+  ],
+  [
+    89667,
+    4471,
+    "Outrider Alliance Emblem"
+  ],
+  [
+    89675,
+    487,
+    "Pioneer Consortium Issue Blueprint"
+  ],
+  [
+    89676,
+    105,
+    "Venture Consortium Issue Blueprint",
+    4
+  ],
+  [
+    89677,
+    4471,
+    "Pioneer Consortium Issue Corporation Emblem"
+  ],
+  [
+    89678,
+    4471,
+    "Pioneer Consortium Issue Alliance Emblem"
+  ],
+  [
+    89679,
+    4471,
+    "Venture Consortium Issue Corporation Emblem"
+  ],
+  [
+    89681,
+    4471,
+    "Venture Consortium Issue Alliance Emblem"
+  ],
+  [
+    89687,
+    4726,
+    "Orbital Cavalier - Limited"
+  ],
+  [
+    89688,
+    4726,
+    "Orbital Cavalier - Unlimited"
+  ],
+  [
+    89689,
+    1210,
+    "Advanced Armor Layering"
+  ],
+  [
+    89690,
+    4726,
+    "Triform Virtuoso - Unlimited"
+  ],
+  [
+    89691,
+    4726,
+    "Triform Virtuoso - Limited"
+  ],
+  [
+    89692,
+    4726,
+    "Triple-star Sync - Limited"
+  ],
+  [
+    89693,
+    4726,
+    "Triple-star Sync - Unlimited"
+  ],
+  [
+    89694,
+    4726,
+    "Cinderchrome Metallic - Unlimited"
+  ],
+  [
+    89695,
+    4726,
+    "Cinderchrome Metallic - Limited"
+  ],
+  [
+    89696,
+    4726,
+    "Veteran Gunmetal Metallic - Unlimited"
+  ],
+  [
+    89697,
+    4726,
+    "Veteran Gunmetal Metallic - Limited"
+  ],
+  [
+    89698,
+    4726,
+    "Top Brass Metallic - Unlimited"
+  ],
+  [
+    89699,
+    4726,
+    "Top Brass Metallic - Limited"
+  ],
+  [
+    89701,
+    4726,
+    "Saffron Noon Satin - Unlimited"
+  ],
+  [
+    89702,
+    4726,
+    "Saffron Noon Satin - Limited"
+  ],
+  [
+    89703,
+    4726,
+    "War Torn Skies Matte - Unlimited"
+  ],
+  [
+    89704,
+    4726,
+    "War Torn Skies Matte - Limited"
+  ],
+  [
+    89705,
+    4726,
+    "Gun Smoke Grey Matte - Unlimited"
+  ],
+  [
+    89706,
+    4726,
+    "Gun Smoke Grey Matte - Limited"
+  ],
+  [
+    89707,
+    4726,
+    "Triumphant Hematite Gloss - Unlimited"
+  ],
+  [
+    89708,
+    4726,
+    "Triumphant Hematite Gloss - Limited"
+  ],
+  [
+    89709,
+    4726,
+    "Opal Mantle Gloss - Unlimited"
+  ],
+  [
+    89710,
+    4726,
+    "Opal Mantle Gloss - Limited"
+  ],
+  [
+    89717,
+    353,
+    "QA Drone Control Module"
+  ],
+  [
+    89771,
+    227,
+    "AoE Micro Jump Drive Blocker 750k"
+  ],
+  [
+    89782,
+    4909,
+    "Unlisted Squall"
+  ],
+  [
+    89783,
+    226,
+    "Deathless Wraith Trader Cenotaph"
+  ],
+  [
+    89784,
+    314,
+    "Sealed Projects Container"
+  ],
+  [
+    89785,
+    227,
+    "Vanguard Event - Convoy Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    89795,
+    310,
+    "Asteroid Belt"
+  ],
+  [
+    89839,
+    526,
+    "648,000 Skill Points"
+  ],
+  [
+    89863,
+    319,
+    "Bhaalgorn Wreck"
+  ],
+  [
+    89864,
+    319,
+    "Tetrimon Armageddon Wreck"
+  ],
+  [
+    89931,
+    226,
+    "Synapse Harmonizer"
+  ],
+  [
+    89934,
+    4726,
+    "Violet Covenant Metallic - Limited"
+  ],
+  [
+    89935,
+    4726,
+    "Lucent Carmine Gloss - Limited"
+  ],
+  [
+    89937,
+    4726,
+    "Silent Sanguine Satin - Limited"
+  ],
+  [
+    89938,
+    4726,
+    "Sacrosanct Bloom Satin - Limited"
+  ],
+  [
+    89941,
+    4726,
+    "Sacrosanct Bloom Satin - Unlimited"
+  ],
+  [
+    89942,
+    4726,
+    "Glinting Malice Satin - Limited"
+  ],
+  [
+    89943,
+    4726,
+    "Celestine Veil Satin - Limited"
+  ],
+  [
+    89945,
+    4726,
+    "Silver Oblation Metallic - Limited"
+  ],
+  [
+    89946,
+    4726,
+    "Bloodcurse Alloy Metallic - Limited"
+  ],
+  [
+    89947,
+    4726,
+    "Claret Plating Metallic - Limited"
+  ],
+  [
+    89948,
+    4726,
+    "Hemolytic Steel Metallic - Limited"
+  ],
+  [
+    89949,
+    4726,
+    "Doctrine of Dread - Unlimited"
+  ],
+  [
+    89953,
+    4726,
+    "Doctrine of Dread - Limited"
+  ],
+  [
+    89954,
+    4726,
+    "Visceral Catharsis - Limited"
+  ],
+  [
+    89955,
+    4726,
+    "Arterial Trace - Limited"
+  ],
+  [
+    89956,
+    1301,
+    "Pilot's Body Resculpt Certificate (Untradeable)"
+  ],
+  [
+    89960,
+    1975,
+    "Perimeter lights 3kmGreen"
+  ],
+  [
+    89961,
+    1975,
+    "Perimeter lights 3kmRed"
+  ],
+  [
+    89963,
+    1975,
+    "Non-Interactable Fortified Amarr Commercial Station Ruins DO NOT TRANSLATE"
+  ],
+  [
+    89964,
+    1975,
+    "Non-Interactable Caldari Station Ruins - Huge & Sprawling DO NOT TRANSLATE"
+  ],
+  [
+    89965,
+    1975,
+    "Non-Interactable Asteroid Mining Post DO NOT TRANSLATE"
+  ],
+  [
+    89966,
+    1667,
+    "Unbound Barghest"
+  ],
+  [
+    89967,
+    227,
+    "Harvest Encounter Barghest Easy (DO NOT TRANSLATE)"
+  ],
+  [
+    89968,
+    227,
+    "Harvest Encounter Special Zombies (DO NOT TRANSLATE)"
+  ],
+  [
+    89991,
+    319,
+    "Wrecked Avalanche"
+  ],
+  [
+    89993,
+    1975,
+    "Non-Interactable Habitation Drughouse DO NOT TRANSLATE"
+  ],
+  [
+    89994,
+    1975,
+    "Non-Interactable Rorqual Minmatar Industrial Livery SKIN (DO NOT TRANSLATE)"
+  ],
+  [
+    89995,
+    1975,
+    "Non-Interactable Raitaru (Minmatar)"
+  ],
+  [
+    89996,
+    1975,
+    "Non-Interactable Amarr Empire Stronghold"
+  ],
+  [
+    89997,
+    1975,
+    "Non-Interactable Caldari State Stronghold"
+  ],
+  [
+    89998,
+    1975,
+    "Non-Interactable Gallente Federation Stronghold"
+  ],
+  [
+    89999,
+    1975,
+    "Non-Interactable Minmatar Republic Stronghold ( copy )"
+  ],
+  [
+    90000,
+    1975,
+    "Non-Interactable Rorqual Amarr Industrial Livery SKIN (DO NOT TRANSLATE)"
+  ],
+  [
+    90001,
+    1975,
+    "Non-Interactable Rorqual Caldari Industrial Livery SKIN (DO NOT TRANSLATE)"
+  ],
+  [
+    90002,
+    1975,
+    "Non-Interactable Rorqual Gallente Industrial Livery SKIN (DO NOT TRANSLATE)"
+  ],
+  [
+    90003,
+    227,
+    "Asteroid Belt Remnants Dungeon - Miners Spawner S (DO NOT TRANSLATE)"
+  ],
+  [
+    90004,
+    1803,
+    "Imperial Venture"
+  ],
+  [
+    90005,
+    4917,
+    "♦ Porpoise"
+  ],
+  [
+    90006,
+    1765,
+    "♦ Retriever"
+  ],
+  [
+    90007,
+    1803,
+    "♦ Venture"
+  ],
+  [
+    90023,
+    319,
+    "Wrecked Avalanche"
+  ],
+  [
+    90024,
+    1667,
+    "Unbound Barghest"
+  ],
+  [
+    90025,
+    227,
+    "Harvest Encounter Barghest Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    90026,
+    227,
+    "Harvest Encounter Special Zombies Hard (DO NOT TRANSLATE)"
+  ],
+  [
+    90028,
+    1566,
+    "Damaged Extraction Shuttle"
+  ],
+  [
+    90030,
+    227,
+    "Harvest Hacking Encounter Easy(DO NOT TRANSLATE)"
+  ],
+  [
+    90031,
+    227,
+    "Asteroid Belt Remnants Dungeon - Miners Spawner M (DO NOT TRANSLATE)"
+  ],
+  [
+    90034,
+    4055,
+    "Fracture"
+  ],
+  [
+    90035,
+    4055,
+    "FractureStartPoint"
+  ],
+  [
+    90036,
+    4055,
+    "FractureEndPoint"
+  ],
+  [
+    90037,
+    4913,
+    "Mobile Phase Anchor"
+  ],
+  [
+    90038,
+    186,
+    "Mobile Phase Anchor Wreck"
+  ],
+  [
+    90039,
+    4914,
+    "Mobile Phase Anchor Blueprint"
+  ],
+  [
+    90040,
+    1218,
+    "Erratic Ore Processing"
+  ],
+  [
+    90041,
+    4915,
+    "Prismaticite"
+  ],
+  [
+    90042,
+    4918,
+    "Phased Prismaticite"
+  ],
+  [
+    90043,
+    306,
+    "Extraction Shuttle Wreck"
+  ],
+  [
+    90044,
+    306,
+    "Extraction Shuttle Wreck"
+  ],
+  [
+    90045,
+    482,
+    "Erratic Ore Mining Crystal Type A I"
+  ],
+  [
+    90046,
+    482,
+    "Erratic Ore Mining Crystal Type B I"
+  ],
+  [
+    90047,
+    482,
+    "Erratic Ore Mining Crystal Type A II",
+    2
+  ],
+  [
+    90048,
+    482,
+    "Erratic Ore Mining Crystal Type C I"
+  ],
+  [
+    90049,
+    482,
+    "Erratic Ore Mining Crystal Type C II",
+    2
+  ],
+  [
+    90050,
+    482,
+    "Erratic Ore Mining Crystal Type B II",
+    2
+  ],
+  [
+    90054,
+    727,
+    "Erratic Ore Mining Crystal Type A I Blueprint"
+  ],
+  [
+    90055,
+    727,
+    "Erratic Ore Mining Crystal Type B I Blueprint"
+  ],
+  [
+    90056,
+    727,
+    "Erratic Ore Mining Crystal Type C I Blueprint"
+  ],
+  [
+    90057,
+    727,
+    "Erratic Ore Mining Crystal Type A II Blueprint",
+    2
+  ],
+  [
+    90058,
+    727,
+    "Erratic Ore Mining Crystal Type B II Blueprint",
+    2
+  ],
+  [
+    90059,
+    727,
+    "Erratic Ore Mining Crystal Type C II Blueprint",
+    2
+  ],
+  [
+    90072,
+    4843,
+    "Cybernetic Neural Lattice"
+  ],
+  [
+    90117,
+    474,
+    "Tetrimon Base Shortcut Keypass"
+  ],
+  [
+    90118,
+    474,
+    "Crimson Gauntlet Shortcut Keypass"
+  ],
+  [
+    90134,
+    1194,
+    "Historic Crimson Harvest SKIN Crate"
+  ],
+  [
+    90135,
+    1194,
+    "Crimson Harvest SKINR Crate"
+  ],
+  [
+    90136,
+    1194,
+    "Crimson Harvest Cerebral Accelerator Crate"
+  ],
+  [
+    90137,
+    1194,
+    "Historic Crimson Harvest Trinket Crate"
+  ],
+  [
+    90139,
+    494,
+    "Elias' Orca"
+  ],
+  [
+    90140,
+    4726,
+    "Astrometer's Song - Limited"
+  ],
+  [
+    90141,
+    4726,
+    "Luminous Flow - Limited"
+  ],
+  [
+    90144,
+    920,
+    "Mehatoor - 24th Imperial Crusade War HQ"
+  ],
+  [
+    90145,
+    920,
+    "Onnamon - State Protectorate War HQ"
+  ],
+  [
+    90146,
+    920,
+    "Intaki - Federal Defense Union War HQ"
+  ],
+  [
+    90147,
+    920,
+    "Amo - Tribal Liberation Force War HQ"
+  ],
+  [
+    90160,
+    227,
+    "Crimson Harvest Proximity Controller (DO NOT TRANSLATE)"
+  ],
+  [
+    90161,
+    4913,
+    "QA Mobile Phase Anchor"
+  ],
+  [
+    90167,
+    4055,
+    "Fracture ( copy )"
+  ],
+  [
+    90169,
+    4055,
+    "QA Fracture"
+  ],
+  [
+    90179,
+    1975,
+    "Non Interactable ORE Pioneer R&D Station (Do Not Translate)"
+  ],
+  [
+    90180,
+    314,
+    "Pioneer Redemption Token"
+  ],
+  [
+    90186,
+    227,
+    "AoE Smart Bomb Repeating Blocker 300k(DO NOT TRANSLATE)"
+  ],
+  [
+    90202,
+    186,
+    "Automated Extraction Shuttle Wreck"
+  ],
+  [
+    90205,
+    1975,
+    "Non-interactable  Upwell Research Complex Wreck (DO NOT TRANSLATE)"
+  ],
+  [
+    90274,
+    1888,
+    "Unrefined Tritanium Formula"
+  ],
+  [
+    90275,
+    1888,
+    "Unrefined Pyerite Formula"
+  ],
+  [
+    90276,
+    1888,
+    "Unrefined Mexallon Formula"
+  ],
+  [
+    90277,
+    1888,
+    "Unrefined Isogen Formula"
+  ],
+  [
+    90278,
+    1888,
+    "Unrefined Nocxium Formula"
+  ],
+  [
+    90279,
+    1888,
+    "Unrefined Zydrine Formula"
+  ],
+  [
+    90280,
+    303,
+    "Chemal Tech Turret Booster I",
+    19
+  ],
+  [
+    90281,
+    1888,
+    "Unrefined Megacyte Formula"
+  ],
+  [
+    90282,
+    1888,
+    "Unrefined Morphite Formula"
+  ],
+  [
+    90283,
+    4932,
+    "Unrefined Tritanium"
+  ],
+  [
+    90284,
+    4932,
+    "Unrefined Pyerite"
+  ],
+  [
+    90285,
+    303,
+    "Chemal Tech Turret Booster II",
+    19
+  ],
+  [
+    90286,
+    4932,
+    "Unrefined Mexallon"
+  ],
+  [
+    90289,
+    4932,
+    "Unrefined Isogen"
+  ],
+  [
+    90290,
+    303,
+    "Chemal Tech Turret Booster III",
+    19
+  ],
+  [
+    90292,
+    4932,
+    "Unrefined Nocxium"
+  ],
+  [
+    90293,
+    303,
+    "Chemal Tech Mining Booster I",
+    19
+  ],
+  [
+    90294,
+    4932,
+    "Unrefined Zydrine"
+  ],
+  [
+    90295,
+    303,
+    "Chemal Tech Mining Booster II",
+    19
+  ],
+  [
+    90296,
+    4932,
+    "Unrefined Megacyte"
+  ],
+  [
+    90297,
+    303,
+    "Chemal Tech Mining Booster III",
+    19
+  ],
+  [
+    90298,
+    4932,
+    "Unrefined Morphite"
+  ],
+  [
+    90301,
+    303,
+    "Chemal Tech Exploration Booster I",
+    19
+  ],
+  [
+    90302,
+    303,
+    "Chemal Tech Exploration Booster II",
+    19
+  ],
+  [
+    90303,
+    303,
+    "Chemal Tech Exploration Booster III",
+    19
+  ],
+  [
+    90304,
+    1803,
+    "♦ Prospect"
+  ],
+  [
+    90305,
+    303,
+    "Chemal Tech Repair Booster II",
+    19
+  ],
+  [
+    90306,
+    303,
+    "Chemal Tech Repair Booster III",
+    19
+  ],
+  [
+    90307,
+    4915,
+    "Compressed Prismaticite"
+  ],
+  [
+    90324,
+    303,
+    "Chemal Tech Repair Booster I",
+    19
+  ],
+  [
+    90327,
+    306,
+    "ORE Communication Array"
+  ],
+  [
+    90330,
+    1975,
+    "Non-interactable Nemesis (Do not translate)"
+  ],
+  [
+    90331,
+    1975,
+    "Non-interactable Helios (Do not translate)"
+  ],
+  [
+    90332,
+    1975,
+    "Non-interactable Sin (Do not translate)"
+  ],
+  [
+    90333,
+    306,
+    "ORE Communication Array"
+  ],
+  [
+    90334,
+    1975,
+    "Non-interactable Minmatar Mining Station Ruins (DO NOT TRANSLATE)"
+  ],
+  [
+    90335,
+    4935,
+    "Ice Belt"
+  ],
+  [
+    90336,
+    4936,
+    "Phased Field"
+  ],
+  [
+    90337,
+    4938,
+    "Ore Deposit"
+  ],
+  [
+    90354,
+    314,
+    "Encrypted ORE Communication Logs"
+  ],
+  [
+    90358,
+    4941,
+    "QA Mineable Spacecomponent Veldspar"
+  ],
+  [
+    90367,
+    1975,
+    "Non-Interactable Minmatar Mining Station Ruins (Do Not Translate)"
+  ],
+  [
+    90368,
+    1975,
+    "Non-Interactable Amarr Mining Station Ruins (Do Not Translate)"
+  ],
+  [
+    90369,
+    1975,
+    "Non-Interactable Low-Tech Solar Harvester (Do Not Translate)"
+  ],
+  [
+    90396,
+    1194,
+    "Blood Raider Crate"
+  ],
+  [
+    90398,
+    1218,
+    "Unrefined Minerals Processing"
+  ],
+  [
+    90421,
+    462,
+    "Veldspar Isotope"
+  ],
+  [
+    90422,
+    462,
+    "Veldspar Isotope"
+  ],
+  [
+    90423,
+    4945,
+    "SOE Odysseus"
+  ],
+  [
+    90424,
+    319,
+    "Upwell Research Structure"
+  ],
+  [
+    90426,
+    462,
+    "Rubble"
+  ],
+  [
+    90427,
+    1664,
+    "Director Becker's Outrider"
+  ],
+  [
+    90428,
+    319,
+    "Upwell Proximity Mine"
+  ],
+  [
+    90444,
+    1975,
+    "Fracture (STATIC - FOR VISUAL ONLY)"
+  ],
+  [
+    90445,
+    4918,
+    "Phased Prismaticite"
+  ],
+  [
+    90446,
+    4918,
+    "Phased Prismaticite"
+  ],
+  [
+    90447,
+    1975,
+    "Phased Asteroid - Fake Latent"
+  ],
+  [
+    90449,
+    1975,
+    "Phased Asteroid - Fake Breached"
+  ],
+  [
+    90453,
+    1762,
+    "ORE Retriever"
+  ],
+  [
+    90454,
+    1664,
+    "ORE Pioneer"
+  ],
+  [
+    90455,
+    1568,
+    "ORE Venture"
+  ],
+  [
+    90456,
+    4975,
+    "Director Becker's Rorqual"
+  ],
+  [
+    90457,
+    1964,
+    "Decayed Mining Laser Mutaplasmid"
+  ],
+  [
+    90458,
+    1964,
+    "Gravid Mining Laser Mutaplasmid"
+  ],
+  [
+    90459,
+    1964,
+    "Unstable Mining Laser Mutaplasmid"
+  ],
+  [
+    90460,
+    54,
+    "Abyssal Mining Laser",
+    15
+  ],
+  [
+    90465,
+    1975,
+    "Phased Asteroid - Fake Collapsed"
+  ],
+  [
+    90466,
+    1964,
+    "Decayed Modulated Strip Miner Mutaplasmid"
+  ],
+  [
+    90467,
+    483,
+    "Abyssal Modulated Strip Miner",
+    15
+  ],
+  [
+    90468,
+    1964,
+    "Gravid Modulated Strip Miner Mutaplasmid"
+  ],
+  [
+    90469,
+    1964,
+    "Unstable Modulated Strip Miner Mutaplasmid"
+  ],
+  [
+    90470,
+    1964,
+    "Decayed Modulated Deep Core Miner Mutaplasmid"
+  ],
+  [
+    90471,
+    1964,
+    "Unstable Modulated Deep Core Miner Mutaplasmid"
+  ],
+  [
+    90472,
+    1964,
+    "Gravid Modulated Deep Core Miner Mutaplasmid"
+  ],
+  [
+    90474,
+    483,
+    "Abyssal Modulated Deep Core Miner",
+    15
+  ],
+  [
+    90475,
+    1706,
+    "Integrated Sensor Array"
+  ],
+  [
+    90476,
+    223,
+    "Integrated Sensor Array Blueprint"
+  ],
+  [
+    90480,
+    1964,
+    "Decayed Deep Core Mining Laser Mutaplasmid"
+  ],
+  [
+    90481,
+    1964,
+    "Gravid Deep Core Mining Laser Mutaplasmid"
+  ],
+  [
+    90482,
+    1964,
+    "Unstable Deep Core Mining Laser Mutaplasmid"
+  ],
+  [
+    90483,
+    54,
+    "Abyssal Deep Core Mining Laser",
+    15
+  ],
+  [
+    90484,
+    1964,
+    "Decayed Modulated Deep Core Strip Miner Mutaplasmid"
+  ],
+  [
+    90485,
+    1964,
+    "Gravid Modulated Deep Core Strip Miner Mutaplasmid"
+  ],
+  [
+    90486,
+    1964,
+    "Unstable Modulated Deep Core Strip Miner Mutaplasmid"
+  ],
+  [
+    90487,
+    483,
+    "Abyssal Modulated Deep Core Strip Miner",
+    15
+  ],
+  [
+    90489,
+    1964,
+    "Decayed Strip Miner Mutaplasmid"
+  ],
+  [
+    90490,
+    1964,
+    "Gravid Strip Miner Mutaplasmid"
+  ],
+  [
+    90491,
+    1964,
+    "Unstable Strip Miner Mutaplasmid"
+  ],
+  [
+    90493,
+    464,
+    "Abyssal Strip Miner",
+    15
+  ],
+  [
+    90495,
+    1964,
+    "Decayed Deep Core Strip Miner Mutaplasmid"
+  ],
+  [
+    90496,
+    1964,
+    "Gravid Deep Core Strip Miner Mutaplasmid"
+  ],
+  [
+    90497,
+    1964,
+    "Unstable Deep Core Strip Miner Mutaplasmid"
+  ],
+  [
+    90498,
+    464,
+    "Abyssal Deep Core Strip Miner",
+    15
+  ],
+  [
+    90499,
+    1964,
+    "Decayed Ice Mining Laser Mutaplasmid"
+  ],
+  [
+    90500,
+    1964,
+    "Gravid Ice Mining Laser Mutaplasmid"
+  ],
+  [
+    90501,
+    1964,
+    "Unstable Ice Mining Laser Mutaplasmid"
+  ],
+  [
+    90502,
+    54,
+    "Abyssal Ice Mining Laser",
+    15
+  ],
+  [
+    90520,
+    1975,
+    "[GREAD] Non-Interactable Mobile Phase Anchor Breached (DO NOT TRANSLATE)"
+  ],
+  [
+    90521,
+    1964,
+    "Decayed Ice Harvester Mutaplasmid"
+  ],
+  [
+    90522,
+    1964,
+    "Gravid Ice Harvester Mutaplasmid"
+  ],
+  [
+    90523,
+    1964,
+    "Unstable Ice Harvester Mutaplasmid"
+  ],
+  [
+    90524,
+    464,
+    "Abyssal Ice Harvester",
+    15
+  ],
+  [
+    90525,
+    1975,
+    "Mobile Phase Anchor Collapsed (Non-Interactable)"
+  ],
+  [
+    90526,
+    1964,
+    "Decayed Gas Cloud Scoop Mutaplasmid"
+  ],
+  [
+    90527,
+    1964,
+    "Gravid Gas Cloud Scoop Mutaplasmid"
+  ],
+  [
+    90528,
+    1964,
+    "Unstable Gas Cloud Scoop Mutaplasmid"
+  ],
+  [
+    90529,
+    737,
+    "Abyssal Gas Cloud Scoop",
+    15
+  ],
+  [
+    90547,
+    1975,
+    "Non-Interactable Caldari Tradepost Station Ruins (DO NOT TRANSLATE)"
+  ],
+  [
+    90560,
+    306,
+    "Emergency Purge Initiator"
+  ],
+  [
+    90561,
+    306,
+    "Interstellar Gravimetric Transmitter"
+  ],
+  [
+    90563,
+    4726,
+    "Electrum Envy Metallic - Unlimited"
+  ],
+  [
+    90564,
+    4726,
+    "Electrum Envy Metallic - Limited"
+  ],
+  [
+    90565,
+    314,
+    "Proof of Destruction"
+  ],
+  [
+    90566,
+    314,
+    "Proof of Transmission"
+  ],
+  [
+    90590,
+    1964,
+    "Decayed Gas Cloud Harvester Mutaplasmid"
+  ],
+  [
+    90591,
+    1964,
+    "Gravid Gas Cloud Harvester Mutaplasmid"
+  ],
+  [
+    90592,
+    1964,
+    "Unstable Gas Cloud Harvester Mutaplasmid"
+  ],
+  [
+    90593,
+    4138,
+    "Abyssal Gas Cloud Harvester",
+    15
+  ],
+  [
+    90594,
+    4726,
+    "Plumbed Depths Metallic - Unlimited"
+  ],
+  [
+    90595,
+    4726,
+    "Plumbed Depths Metallic - Limited"
+  ],
+  [
+    90596,
+    4726,
+    "Suspect Saffron Gloss - Unlimited"
+  ],
+  [
+    90597,
+    4726,
+    "Suspect Saffron Gloss - Limited"
+  ],
+  [
+    90598,
+    4726,
+    "Amber Flow Gloss - Unlimited"
+  ],
+  [
+    90599,
+    4726,
+    "Amber Flow Gloss - Limited"
+  ],
+  [
+    90600,
+    4726,
+    "Dusty Residue Matte - Unlimited"
+  ],
+  [
+    90601,
+    4726,
+    "Dusty Residue Matte - Limited"
+  ],
+  [
+    90602,
+    4726,
+    "Ruddy Vein Matte - Unlimited"
+  ],
+  [
+    90603,
+    4726,
+    "Ruddy Vein Matte - Limited"
+  ],
+  [
+    90604,
+    4726,
+    "Cyan Haze Matte - Unlimited"
+  ],
+  [
+    90605,
+    4726,
+    "Cyan Haze Matte - Limited"
+  ],
+  [
+    90606,
+    4726,
+    "Critical Kyanite Gloss - Unlimited"
+  ],
+  [
+    90607,
+    4726,
+    "Critical Kyanite Gloss - Limited"
+  ],
+  [
+    90608,
+    4726,
+    "Event Horizon Black Matte - Unlimited"
+  ],
+  [
+    90609,
+    1964,
+    "Exigent Mining Drone Mutaplasmid"
+  ],
+  [
+    90610,
+    4726,
+    "Event Horizon Black Matte - Limited"
+  ],
+  [
+    90611,
+    1964,
+    "Exigent Ice Harvesting Drone Mutaplasmid"
+  ],
+  [
+    90612,
+    4726,
+    "Glacial Prospects Gloss - Unlimited"
+  ],
+  [
+    90613,
+    4726,
+    "Glacial Prospects Gloss - Limited"
+  ],
+  [
+    90614,
+    101,
+    "Mutated Mining Drone",
+    15
+  ],
+  [
+    90615,
+    4726,
+    "Gelid Omberdust Gloss - Unlimited"
+  ],
+  [
+    90616,
+    4726,
+    "Gelid Omberdust Gloss - Limited"
+  ],
+  [
+    90618,
+    101,
+    "Mutated Ice Harvesting Drone",
+    15
+  ],
+  [
+    90619,
+    1964,
+    "Exigent 'Excavator' Mining Drone Mutaplasmid"
+  ],
+  [
+    90620,
+    1964,
+    "Exigent 'Excavator' Ice Harvesting Drone Mutaplasmid"
+  ],
+  [
+    90621,
+    101,
+    "Mutated 'Excavator' Mining Drone",
+    15
+  ],
+  [
+    90622,
+    101,
+    "Mutated 'Excavator' Ice Harvesting Drone",
+    15
+  ],
+  [
+    90634,
+    4726,
+    "Rough Element - Unlimited"
+  ],
+  [
+    90635,
+    4726,
+    "Rough Element - Limited"
+  ],
+  [
+    90636,
+    4726,
+    "Distortion Assay - Unlimited"
+  ],
+  [
+    90637,
+    4726,
+    "Distortion Assay - Limited"
+  ],
+  [
+    90638,
+    4726,
+    "Rich Vein - Unlimited"
+  ],
+  [
+    90639,
+    4726,
+    "Rich Vein - Limited"
+  ],
+  [
+    90640,
+    4726,
+    "Slipstream Crossroads - Unlimited"
+  ],
+  [
+    90641,
+    4726,
+    "Slipstream Crossroads - Limited"
+  ],
+  [
+    90642,
+    4726,
+    "Treaded Plating - Unlimited"
+  ],
+  [
+    90643,
+    4726,
+    "Treaded Plating - Limited"
+  ],
+  [
+    90647,
+    4726,
+    "Oxidative Stress - Unlimited"
+  ],
+  [
+    90648,
+    4726,
+    "Oxidative Stress - Limited"
+  ],
+  [
+    90649,
+    4726,
+    "Hyperstatic Swirl - Unlimited"
+  ],
+  [
+    90650,
+    4726,
+    "Hyperstatic Swirl - Limited"
+  ],
+  [
+    90651,
+    4726,
+    "Crumbling Construct - Unlimited"
+  ],
+  [
+    90652,
+    4726,
+    "Crumbling Construct - Limited"
+  ],
+  [
+    90653,
+    4726,
+    "Convergent Reflection - Unlimited"
+  ],
+  [
+    90654,
+    4726,
+    "Convergent Reflection - Limited"
+  ],
+  [
+    90659,
+    1194,
+    "Cruor Blueprint Crate"
+  ],
+  [
+    90660,
+    1194,
+    "Ashimmu Blueprint Crate"
+  ],
+  [
+    90661,
+    1194,
+    "Bhaalgorn Blueprint Crate"
+  ],
+  [
+    90662,
+    1194,
+    "Chemosh Blueprint Crate"
+  ],
+  [
+    90663,
+    1194,
+    "Dagon Blueprint Crate"
+  ],
+  [
+    90664,
+    1194,
+    "Molok Blueprint Crate"
+  ],
+  [
+    90665,
+    4915,
+    "QA Badly Authored Prismaticite"
+  ],
+  [
+    90666,
+    1975,
+    "Phased Asteroid Structure Deployment Blocker"
+  ],
+  [
+    90706,
+    1975,
+    "Non Interactable Fortizar Wreck (Do Not Translate)"
+  ],
+  [
+    90708,
+    1975,
+    "Non Interactable Mobile Phase Anchor Wreck"
+  ],
+  [
+    90709,
+    1975,
+    "Non Interactable Drifter Structure Wreck (Do Not Translate)"
+  ],
+  [
+    90721,
+    4726,
+    "Sky Blue Supremacy Metallic - Limited"
+  ],
+  [
+    90722,
+    4726,
+    "AT XXI Mega-Victory - Limited"
+  ],
+  [
+    90727,
+    1218,
+    "Mining Precision"
+  ],
+  [
+    90728,
+    1218,
+    "Mining Exploitation"
+  ],
+  [
+    90733,
+    1771,
+    "Mining Laser Efficiency Charge"
+  ],
+  [
+    90734,
+    1810,
+    "Mining Laser Efficiency Charge Blueprint"
+  ],
+  [
+    90747,
+    1975,
+    "Non Interactable ORE Technologies Applied Research Center (Do Not Translate)"
+  ],
+  [
+    90748,
+    1975,
+    "Non Interactable Sovereignty Hub Wreck (Do Not Translate)"
+  ],
+  [
+    90749,
+    920,
+    "SOEEB1 (DO NOT TRANSLATE)"
+  ],
+  [
+    90750,
+    920,
+    "SOEEB2 (DO NOT TRANSLATE)"
+  ],
+  [
+    90751,
+    920,
+    "SOEEB3 (DO NOT TRANSLATE)"
+  ],
+  [
+    90752,
+    920,
+    "SOEEB4 (DO NOT TRANSLATE)"
+  ],
+  [
+    90753,
+    920,
+    "SOEEB5 (DO NOT TRANSLATE)"
+  ],
+  [
+    90754,
+    920,
+    "SOEEB6 (DO NOT TRANSLATE)"
+  ],
+  [
+    90755,
+    920,
+    "SOEEB7 (DO NOT TRANSLATE)"
+  ],
+  [
+    90756,
+    920,
+    "SOEEB8 (DO NOT TRANSLATE)"
+  ],
+  [
+    90757,
+    920,
+    "SOEEB9 (DO NOT TRANSLATE)"
+  ],
+  [
+    90758,
+    920,
+    "SOEEB10 (DO NOT TRANSLATE)"
+  ],
+  [
+    90759,
+    920,
+    "SOEEB11(DO NOT TRANSLATE)"
+  ],
+  [
+    90760,
+    920,
+    "SOEEB12 (DO NOT TRANSLATE)"
+  ],
+  [
+    90761,
+    920,
+    "SOEEB13 (DO NOT TRANSLATE)"
+  ],
+  [
+    90762,
+    920,
+    "SOEEB14 (DO NOT TRANSLATE)"
+  ],
+  [
+    90763,
+    920,
+    "SOEEB15 (DO NOT TRANSLATE)"
+  ],
+  [
+    90764,
+    920,
+    "SOEEB16 (DO NOT TRANSLATE)"
+  ],
+  [
+    90765,
+    920,
+    "SOEEB17 (DO NOT TRANSLATE)"
+  ],
+  [
+    90766,
+    920,
+    "SOEEB18 (DO NOT TRANSLATE)"
+  ],
+  [
+    90767,
+    920,
+    "SOEEB19 (DO NOT TRANSLATE)"
+  ],
+  [
+    90768,
+    920,
+    "SOEEB20 (DO NOT TRANSLATE)"
+  ],
+  [
+    90769,
+    920,
+    "SOEEB21 (DO NOT TRANSLATE)"
+  ],
+  [
+    90770,
+    920,
+    "SOEEB22 (DO NOT TRANSLATE)"
+  ],
+  [
+    90771,
+    920,
+    "SOEEB23 (DO NOT TRANSLATE)"
+  ],
+  [
+    90772,
+    920,
+    "SOEEB24 (DO NOT TRANSLATE)"
+  ],
+  [
+    90773,
+    920,
+    "SOEEB25 (DO NOT TRANSLATE)"
+  ],
+  [
+    90774,
+    920,
+    "SOEEB26 (DO NOT TRANSLATE)"
+  ],
+  [
+    90775,
+    920,
+    "SOEEB27 (DO NOT TRANSLATE)"
+  ],
+  [
+    90776,
+    920,
+    "SOEEB28 (DO NOT TRANSLATE)"
+  ],
+  [
+    90777,
+    920,
+    "SOEEB29 (DO NOT TRANSLATE)"
+  ],
+  [
+    90778,
+    920,
+    "SOEEB30 (DO NOT TRANSLATE)"
+  ],
+  [
+    90779,
+    920,
+    "SOEEB31 (DO NOT TRANSLATE)"
+  ],
+  [
+    90780,
+    920,
+    "SOEEB232 (DO NOT TRANSLATE)"
+  ],
+  [
+    90781,
+    920,
+    "SOEEB33 (DO NOT TRANSLATE)"
+  ],
+  [
+    90782,
+    920,
+    "SOEEB34 (DO NOT TRANSLATE)"
+  ],
+  [
+    90783,
+    227,
+    "FW Complex - Large ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90784,
+    227,
+    "FW Complex - Large ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90785,
+    227,
+    "FW Complex - Large NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90786,
+    227,
+    "FW Complex - Large NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90787,
+    227,
+    "FW Complex - Large NVY-4 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90788,
+    227,
+    "FW Complex - Large NVY-4 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90789,
+    227,
+    "FW Complex - Medium ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90790,
+    227,
+    "FW Complex - Medium ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90791,
+    227,
+    "FW Complex - Medium ADV-3 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90792,
+    227,
+    "FW Complex - Medium ADV-3 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90793,
+    227,
+    "FW Complex - Medium NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90794,
+    227,
+    "FW Complex - Medium NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90795,
+    227,
+    "FW Complex - Medium NVY-3 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90796,
+    227,
+    "FW Complex - Medium NVY-3 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90797,
+    227,
+    "FW Complex - Small ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90798,
+    227,
+    "FW Complex - Small ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90799,
+    227,
+    "FW Complex - Small ADV-2 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90800,
+    227,
+    "FW Complex - Small ADV-2 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90801,
+    227,
+    "FW Complex - Small NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90802,
+    227,
+    "FW Complex - Small NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90803,
+    227,
+    "FW Complex - Small NVY-2 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90804,
+    227,
+    "FW Complex - Small NVY-2 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90805,
+    227,
+    "FW Complex - Scout ADV-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90806,
+    227,
+    "FW Complex - Scout ADV-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90807,
+    227,
+    "FW Complex - Scout NVY-1 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90808,
+    227,
+    "FW Complex - Scout NVY-1 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90809,
+    227,
+    "FW Complex - Scout NVY-2 - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90810,
+    227,
+    "FW Complex - Scout NVY-2 - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    90812,
+    1975,
+    "Drifter Large Structure Wreckage"
+  ],
+  [
+    90839,
+    1169,
+    "Imperial Guard Punisher"
+  ],
+  [
+    90841,
+    1169,
+    "Imperial Renouncer Punisher"
+  ],
+  [
+    90842,
+    1167,
+    "State Protector Merlin"
+  ],
+  [
+    90843,
+    1168,
+    "Federation Warden Incursus"
+  ],
+  [
+    90844,
+    1166,
+    "Republic Defender Rifter"
+  ],
+  [
+    90845,
+    1167,
+    "State Detainer Merlin"
+  ],
+  [
+    90846,
+    1168,
+    "Federation Inspector Incursus"
+  ],
+  [
+    90847,
+    1166,
+    "Republic Bulwark Rifter"
+  ],
+  [
+    90848,
+    1175,
+    "Imperial Guard Coercer"
+  ],
+  [
+    90849,
+    1175,
+    "Imperial Renouncer Coercer"
+  ],
+  [
+    90850,
+    1177,
+    "Federation Inspector Catalyst"
+  ],
+  [
+    90851,
+    1176,
+    "State Detainer Cormorant"
+  ],
+  [
+    90852,
+    1178,
+    "Republic Bulwark Thrasher"
+  ],
+  [
+    90853,
+    1176,
+    "State Protector Cormorant"
+  ],
+  [
+    90854,
+    1177,
+    "Federation Warden Catalyst"
+  ],
+  [
+    90855,
+    1178,
+    "Republic Defender Thrasher"
+  ],
+  [
+    90856,
+    1179,
+    "Imperial Guard Maller"
+  ],
+  [
+    90857,
+    1183,
+    "Imperial Guard Harbinger"
+  ],
+  [
+    90858,
+    1179,
+    "Imperial Renouncer Maller"
+  ],
+  [
+    90859,
+    1183,
+    "Imperial Renouncer Harbinger"
+  ],
+  [
+    90860,
+    1180,
+    "State Detainer Moa"
+  ],
+  [
+    90861,
+    1180,
+    "State Protector Moa"
+  ],
+  [
+    90862,
+    1181,
+    "Federation Inspector Thorax"
+  ],
+  [
+    90863,
+    1181,
+    "Federation Warden Thorax"
+  ],
+  [
+    90864,
+    1182,
+    "Republic Bulwark Rupture"
+  ],
+  [
+    90865,
+    1182,
+    "Republic Defender Rupture"
+  ],
+  [
+    90866,
+    1184,
+    "State Detainer Ferox"
+  ],
+  [
+    90867,
+    1184,
+    "State Protector Ferox"
+  ],
+  [
+    90868,
+    1185,
+    "Federation Inspector Brutix"
+  ],
+  [
+    90869,
+    1185,
+    "Federation Warden Brutix"
+  ],
+  [
+    90870,
+    1186,
+    "Republic Bulwark Hurricane"
+  ],
+  [
+    90871,
+    1186,
+    "Republic Defender Hurricane"
+  ],
+  [
+    90885,
+    1194,
+    "Historic SOE SKINs Crate",
+    17
+  ],
+  [
+    90892,
+    1194,
+    "Men's Empire Exploration Suit crate",
+    17
+  ],
+  [
+    90893,
+    1194,
+    "Women's Empire Exploration Suit crate",
+    17
+  ],
+  [
+    91017,
+    278,
+    "Freelancing"
+  ],
+  [
+    91023,
+    1194,
+    "Venture Starter Crate",
+    19
+  ],
+  [
+    91024,
+    186,
+    "FW Small Wreck"
+  ],
+  [
+    91025,
+    186,
+    "FW Medium Wreck"
+  ],
+  [
+    91094,
+    227,
+    "FW Complex - Open - Occupier Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    91095,
+    227,
+    "FW Complex - Open - Attacker Spawner (DO NOT TRANSLATE)"
+  ],
+  [
+    91110,
+    186,
+    "Upwell Research Structure Wreck"
+  ],
+  [
+    91185,
+    1194,
+    "Odysseus Definitive SOE SKINs Crate",
+    17
+  ],
+  [
+    91195,
+    1194,
+    "Uncommon SKINR Studio Supplies Crate",
+    17
+  ],
+  [
+    91196,
+    1194,
+    "200 PLEX and Rare SKINR Supplies Crate",
+    17
+  ],
+  [
+    91197,
+    1194,
+    "500 PLEX and Rare SKINR Supplies Crate",
+    17
+  ],
+  [
+    91198,
+    1194,
+    "1000 PLEX and Rare SKINR Supplies Crate",
+    17
+  ],
+  [
+    91199,
+    1194,
+    "1500 PLEX and Rare SKINR Supplies Crate",
+    17
   ]
 ]
