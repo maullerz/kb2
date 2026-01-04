@@ -15816,5 +15816,36 @@
     "name": "shipRoleBonusOREExecutiveIssueMiningCriticalHitChance",
     "published": false,
     "stackable": true
+  },
+  "6054": {
+    "attributeCategoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "AnhingaLargeMissilePowerFittingBonus",
+    "published": false,
+    "stackable": true
+  },
+  "6055": {
+    "attributeCategoryID": 37,
+    "dataType": 5,
+    "defaultValue": 0,
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "AnhingaLargeMissileCpuFittingBonus",
+    "published": false,
+    "stackable": true
+  },
+  "6062": {
+    "attributeCategoryID": 51,
+    "dataType": 5,
+    "defaultValue": 0,
+    "description": "Role Bonus for Perseverance Ice Mining Critical Hit Role bonus",
+    "displayWhenZero": false,
+    "highIsGood": true,
+    "name": "shipRoleBonusPerseveranceIceMiningCriticalHitChance",
+    "published": false,
+    "stackable": true
   }
 }

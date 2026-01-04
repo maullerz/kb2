@@ -10,7 +10,7 @@ import {
 
 // TODO: fetch from esi.evetech.net
 // Problems when type not found
-const additionalTypes = require('./sde/additionalTypes.json')
+// const additionalTypes = require('./sde/additionalTypes.json')
 
 const SKIN_GROUP = 1950
 
@@ -67,7 +67,7 @@ export const getSSColor = ss => {
 }
 
 export const getTypeInfo = typeID => {
-  const result = types[typeID] || additionalTypes[typeID]
+  const result = types[typeID]
   if (!result && skinsTypes.includes(Number(typeID))) {
     return {
       name: 'SKIN',

@@ -1458,6 +1458,10 @@
       [
         89647,
         "Pioneer Consortium Issue"
+      ],
+      [
+        91174,
+        "Perseverance"
       ]
     ]
   },
@@ -2600,15 +2604,6 @@
       ]
     ]
   },
-  "1106": {
-    "name": "Orbital Construction Platform",
-    "types": [
-      [
-        3962,
-        "Customs Office Gantry"
-      ]
-    ]
-  },
   "1201": {
     "name": "Attack Battlecruiser",
     "types": [
@@ -2627,6 +2622,10 @@
       [
         4310,
         "Tornado"
+      ],
+      [
+        89807,
+        "Anhinga"
       ]
     ]
   },
@@ -2815,6 +2814,10 @@
       [
         35683,
         "Hecate"
+      ],
+      [
+        89808,
+        "Skua"
       ]
     ]
   },
